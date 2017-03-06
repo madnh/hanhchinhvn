@@ -1,0 +1,132 @@
+{
+    "30463": {
+        "name": "Cái Dầu",
+        "type": "thi-tran",
+        "slug": "cai-dau",
+        "name_with_type": "Thị trấn Cái Dầu",
+        "path": "Cái Dầu, Châu Phú, An Giang",
+        "path_with_type": "Thị trấn Cái Dầu, Huyện Châu Phú, Tỉnh An Giang",
+        "code": "30463",
+        "parent_code": "889"
+    },
+    "30466": {
+        "name": "Khánh Hòa",
+        "type": "xa",
+        "slug": "khanh-hoa",
+        "name_with_type": "Xã Khánh Hòa",
+        "path": "Khánh Hòa, Châu Phú, An Giang",
+        "path_with_type": "Xã Khánh Hòa, Huyện Châu Phú, Tỉnh An Giang",
+        "code": "30466",
+        "parent_code": "889"
+    },
+    "30469": {
+        "name": "Mỹ Đức",
+        "type": "xa",
+        "slug": "my-duc",
+        "name_with_type": "Xã Mỹ Đức",
+        "path": "Mỹ Đức, Châu Phú, An Giang",
+        "path_with_type": "Xã Mỹ Đức, Huyện Châu Phú, Tỉnh An Giang",
+        "code": "30469",
+        "parent_code": "889"
+    },
+    "30472": {
+        "name": "Mỹ Phú",
+        "type": "xa",
+        "slug": "my-phu",
+        "name_with_type": "Xã Mỹ Phú",
+        "path": "Mỹ Phú, Châu Phú, An Giang",
+        "path_with_type": "Xã Mỹ Phú, Huyện Châu Phú, Tỉnh An Giang",
+        "code": "30472",
+        "parent_code": "889"
+    },
+    "30475": {
+        "name": "Ô Long Vỹ",
+        "type": "xa",
+        "slug": "o-long-vy",
+        "name_with_type": "Xã Ô Long Vỹ",
+        "path": "Ô Long Vỹ, Châu Phú, An Giang",
+        "path_with_type": "Xã Ô Long Vỹ, Huyện Châu Phú, Tỉnh An Giang",
+        "code": "30475",
+        "parent_code": "889"
+    },
+    "30478": {
+        "name": "Vĩnh Thạnh Trung",
+        "type": "xa",
+        "slug": "vinh-thanh-trung",
+        "name_with_type": "Xã Vĩnh Thạnh Trung",
+        "path": "Vĩnh Thạnh Trung, Châu Phú, An Giang",
+        "path_with_type": "Xã Vĩnh Thạnh Trung, Huyện Châu Phú, Tỉnh An Giang",
+        "code": "30478",
+        "parent_code": "889"
+    },
+    "30481": {
+        "name": "Thạnh Mỹ Tây",
+        "type": "xa",
+        "slug": "thanh-my-tay",
+        "name_with_type": "Xã Thạnh Mỹ Tây",
+        "path": "Thạnh Mỹ Tây, Châu Phú, An Giang",
+        "path_with_type": "Xã Thạnh Mỹ Tây, Huyện Châu Phú, Tỉnh An Giang",
+        "code": "30481",
+        "parent_code": "889"
+    },
+    "30484": {
+        "name": "Bình Long",
+        "type": "xa",
+        "slug": "binh-long",
+        "name_with_type": "Xã Bình Long",
+        "path": "Bình Long, Châu Phú, An Giang",
+        "path_with_type": "Xã Bình Long, Huyện Châu Phú, Tỉnh An Giang",
+        "code": "30484",
+        "parent_code": "889"
+    },
+    "30487": {
+        "name": "Bình Mỹ",
+        "type": "xa",
+        "slug": "binh-my",
+        "name_with_type": "Xã Bình Mỹ",
+        "path": "Bình Mỹ, Châu Phú, An Giang",
+        "path_with_type": "Xã Bình Mỹ, Huyện Châu Phú, Tỉnh An Giang",
+        "code": "30487",
+        "parent_code": "889"
+    },
+    "30490": {
+        "name": "Bình Thủy",
+        "type": "xa",
+        "slug": "binh-thuy",
+        "name_with_type": "Xã Bình Thủy",
+        "path": "Bình Thủy, Châu Phú, An Giang",
+        "path_with_type": "Xã Bình Thủy, Huyện Châu Phú, Tỉnh An Giang",
+        "code": "30490",
+        "parent_code": "889"
+    },
+    "30493": {
+        "name": "Đào Hữu Cảnh",
+        "type": "xa",
+        "slug": "dao-huu-canh",
+        "name_with_type": "Xã Đào Hữu Cảnh",
+        "path": "Đào Hữu Cảnh, Châu Phú, An Giang",
+        "path_with_type": "Xã Đào Hữu Cảnh, Huyện Châu Phú, Tỉnh An Giang",
+        "code": "30493",
+        "parent_code": "889"
+    },
+    "30496": {
+        "name": "Bình Phú",
+        "type": "xa",
+        "slug": "binh-phu",
+        "name_with_type": "Xã Bình Phú",
+        "path": "Bình Phú, Châu Phú, An Giang",
+        "path_with_type": "Xã Bình Phú, Huyện Châu Phú, Tỉnh An Giang",
+        "code": "30496",
+        "parent_code": "889"
+    },
+    "30499": {
+        "name": "Bình Chánh",
+        "type": "xa",
+        "slug": "binh-chanh",
+        "name_with_type": "Xã Bình Chánh",
+        "path": "Bình Chánh, Châu Phú, An Giang",
+        "path_with_type": "Xã Bình Chánh, Huyện Châu Phú, Tỉnh An Giang",
+        "code": "30499",
+        "parent_code": "889"
+    }
+}

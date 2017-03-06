@@ -1,0 +1,142 @@
+{
+    "30502": {
+        "name": "Nhà Bàng",
+        "type": "thi-tran",
+        "slug": "nha-bang",
+        "name_with_type": "Thị trấn Nhà Bàng",
+        "path": "Nhà Bàng, Tịnh Biên, An Giang",
+        "path_with_type": "Thị trấn Nhà Bàng, Huyện Tịnh Biên, Tỉnh An Giang",
+        "code": "30502",
+        "parent_code": "890"
+    },
+    "30505": {
+        "name": "Chi Lăng",
+        "type": "thi-tran",
+        "slug": "chi-lang",
+        "name_with_type": "Thị trấn Chi Lăng",
+        "path": "Chi Lăng, Tịnh Biên, An Giang",
+        "path_with_type": "Thị trấn Chi Lăng, Huyện Tịnh Biên, Tỉnh An Giang",
+        "code": "30505",
+        "parent_code": "890"
+    },
+    "30508": {
+        "name": "Núi Voi",
+        "type": "xa",
+        "slug": "nui-voi",
+        "name_with_type": "Xã Núi Voi",
+        "path": "Núi Voi, Tịnh Biên, An Giang",
+        "path_with_type": "Xã Núi Voi, Huyện Tịnh Biên, Tỉnh An Giang",
+        "code": "30508",
+        "parent_code": "890"
+    },
+    "30511": {
+        "name": "Nhơn Hưng",
+        "type": "xa",
+        "slug": "nhon-hung",
+        "name_with_type": "Xã Nhơn Hưng",
+        "path": "Nhơn Hưng, Tịnh Biên, An Giang",
+        "path_with_type": "Xã Nhơn Hưng, Huyện Tịnh Biên, Tỉnh An Giang",
+        "code": "30511",
+        "parent_code": "890"
+    },
+    "30514": {
+        "name": "An Phú",
+        "type": "xa",
+        "slug": "an-phu",
+        "name_with_type": "Xã An Phú",
+        "path": "An Phú, Tịnh Biên, An Giang",
+        "path_with_type": "Xã An Phú, Huyện Tịnh Biên, Tỉnh An Giang",
+        "code": "30514",
+        "parent_code": "890"
+    },
+    "30517": {
+        "name": "Thới Sơn",
+        "type": "xa",
+        "slug": "thoi-son",
+        "name_with_type": "Xã Thới Sơn",
+        "path": "Thới Sơn, Tịnh Biên, An Giang",
+        "path_with_type": "Xã Thới Sơn, Huyện Tịnh Biên, Tỉnh An Giang",
+        "code": "30517",
+        "parent_code": "890"
+    },
+    "30520": {
+        "name": "Tịnh Biên",
+        "type": "thi-tran",
+        "slug": "tinh-bien",
+        "name_with_type": "Thị trấn Tịnh Biên",
+        "path": "Tịnh Biên, Tịnh Biên, An Giang",
+        "path_with_type": "Thị trấn Tịnh Biên, Huyện Tịnh Biên, Tỉnh An Giang",
+        "code": "30520",
+        "parent_code": "890"
+    },
+    "30523": {
+        "name": "Văn Giáo",
+        "type": "xa",
+        "slug": "van-giao",
+        "name_with_type": "Xã Văn Giáo",
+        "path": "Văn Giáo, Tịnh Biên, An Giang",
+        "path_with_type": "Xã Văn Giáo, Huyện Tịnh Biên, Tỉnh An Giang",
+        "code": "30523",
+        "parent_code": "890"
+    },
+    "30526": {
+        "name": "An Cư",
+        "type": "xa",
+        "slug": "an-cu",
+        "name_with_type": "Xã An Cư",
+        "path": "An Cư, Tịnh Biên, An Giang",
+        "path_with_type": "Xã An Cư, Huyện Tịnh Biên, Tỉnh An Giang",
+        "code": "30526",
+        "parent_code": "890"
+    },
+    "30529": {
+        "name": "An Nông",
+        "type": "xa",
+        "slug": "an-nong",
+        "name_with_type": "Xã An Nông",
+        "path": "An Nông, Tịnh Biên, An Giang",
+        "path_with_type": "Xã An Nông, Huyện Tịnh Biên, Tỉnh An Giang",
+        "code": "30529",
+        "parent_code": "890"
+    },
+    "30532": {
+        "name": "Vĩnh Trung",
+        "type": "xa",
+        "slug": "vinh-trung",
+        "name_with_type": "Xã Vĩnh Trung",
+        "path": "Vĩnh Trung, Tịnh Biên, An Giang",
+        "path_with_type": "Xã Vĩnh Trung, Huyện Tịnh Biên, Tỉnh An Giang",
+        "code": "30532",
+        "parent_code": "890"
+    },
+    "30535": {
+        "name": "Tân Lợi",
+        "type": "xa",
+        "slug": "tan-loi",
+        "name_with_type": "Xã Tân Lợi",
+        "path": "Tân Lợi, Tịnh Biên, An Giang",
+        "path_with_type": "Xã Tân Lợi, Huyện Tịnh Biên, Tỉnh An Giang",
+        "code": "30535",
+        "parent_code": "890"
+    },
+    "30538": {
+        "name": "An Hảo",
+        "type": "xa",
+        "slug": "an-hao",
+        "name_with_type": "Xã An Hảo",
+        "path": "An Hảo, Tịnh Biên, An Giang",
+        "path_with_type": "Xã An Hảo, Huyện Tịnh Biên, Tỉnh An Giang",
+        "code": "30538",
+        "parent_code": "890"
+    },
+    "30541": {
+        "name": "Tân Lập",
+        "type": "xa",
+        "slug": "tan-lap",
+        "name_with_type": "Xã Tân Lập",
+        "path": "Tân Lập, Tịnh Biên, An Giang",
+        "path_with_type": "Xã Tân Lập, Huyện Tịnh Biên, Tỉnh An Giang",
+        "code": "30541",
+        "parent_code": "890"
+    }
+}

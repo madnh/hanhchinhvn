@@ -1,0 +1,112 @@
+{
+    "883": {
+        "name": "Long Xuyên",
+        "type": "thanh-pho",
+        "slug": "long-xuyen",
+        "name_with_type": "Thành phố Long Xuyên",
+        "path": "Long Xuyên, An Giang",
+        "path_with_type": "Thành phố Long Xuyên, Tỉnh An Giang",
+        "code": "883",
+        "parent_code": "89"
+    },
+    "884": {
+        "name": "Châu Đốc",
+        "type": "thanh-pho",
+        "slug": "chau-doc",
+        "name_with_type": "Thành phố Châu Đốc",
+        "path": "Châu Đốc, An Giang",
+        "path_with_type": "Thành phố Châu Đốc, Tỉnh An Giang",
+        "code": "884",
+        "parent_code": "89"
+    },
+    "886": {
+        "name": "An Phú",
+        "type": "huyen",
+        "slug": "an-phu",
+        "name_with_type": "Huyện An Phú",
+        "path": "An Phú, An Giang",
+        "path_with_type": "Huyện An Phú, Tỉnh An Giang",
+        "code": "886",
+        "parent_code": "89"
+    },
+    "887": {
+        "name": "Tân Châu",
+        "type": "thi-xa",
+        "slug": "tan-chau",
+        "name_with_type": "Thị xã Tân Châu",
+        "path": "Tân Châu, An Giang",
+        "path_with_type": "Thị xã Tân Châu, Tỉnh An Giang",
+        "code": "887",
+        "parent_code": "89"
+    },
+    "888": {
+        "name": "Phú Tân",
+        "type": "huyen",
+        "slug": "phu-tan",
+        "name_with_type": "Huyện Phú Tân",
+        "path": "Phú Tân, An Giang",
+        "path_with_type": "Huyện Phú Tân, Tỉnh An Giang",
+        "code": "888",
+        "parent_code": "89"
+    },
+    "889": {
+        "name": "Châu Phú",
+        "type": "huyen",
+        "slug": "chau-phu",
+        "name_with_type": "Huyện Châu Phú",
+        "path": "Châu Phú, An Giang",
+        "path_with_type": "Huyện Châu Phú, Tỉnh An Giang",
+        "code": "889",
+        "parent_code": "89"
+    },
+    "890": {
+        "name": "Tịnh Biên",
+        "type": "huyen",
+        "slug": "tinh-bien",
+        "name_with_type": "Huyện Tịnh Biên",
+        "path": "Tịnh Biên, An Giang",
+        "path_with_type": "Huyện Tịnh Biên, Tỉnh An Giang",
+        "code": "890",
+        "parent_code": "89"
+    },
+    "891": {
+        "name": "Tri Tôn",
+        "type": "huyen",
+        "slug": "tri-ton",
+        "name_with_type": "Huyện Tri Tôn",
+        "path": "Tri Tôn, An Giang",
+        "path_with_type": "Huyện Tri Tôn, Tỉnh An Giang",
+        "code": "891",
+        "parent_code": "89"
+    },
+    "892": {
+        "name": "Châu Thành",
+        "type": "huyen",
+        "slug": "chau-thanh",
+        "name_with_type": "Huyện Châu Thành",
+        "path": "Châu Thành, An Giang",
+        "path_with_type": "Huyện Châu Thành, Tỉnh An Giang",
+        "code": "892",
+        "parent_code": "89"
+    },
+    "893": {
+        "name": "Chợ Mới",
+        "type": "huyen",
+        "slug": "cho-moi",
+        "name_with_type": "Huyện Chợ Mới",
+        "path": "Chợ Mới, An Giang",
+        "path_with_type": "Huyện Chợ Mới, Tỉnh An Giang",
+        "code": "893",
+        "parent_code": "89"
+    },
+    "894": {
+        "name": "Thoại Sơn",
+        "type": "huyen",
+        "slug": "thoai-son",
+        "name_with_type": "Huyện Thoại Sơn",
+        "path": "Thoại Sơn, An Giang",
+        "path_with_type": "Huyện Thoại Sơn, Tỉnh An Giang",
+        "code": "894",
+        "parent_code": "89"
+    }
+}

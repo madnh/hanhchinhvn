@@ -1,0 +1,182 @@
+{
+    "30406": {
+        "name": "Phú Mỹ",
+        "type": "thi-tran",
+        "slug": "phu-my",
+        "name_with_type": "Thị trấn Phú Mỹ",
+        "path": "Phú Mỹ, Phú Tân, An Giang",
+        "path_with_type": "Thị trấn Phú Mỹ, Huyện Phú Tân, Tỉnh An Giang",
+        "code": "30406",
+        "parent_code": "888"
+    },
+    "30409": {
+        "name": "Chợ Vàm",
+        "type": "thi-tran",
+        "slug": "cho-vam",
+        "name_with_type": "Thị trấn Chợ Vàm",
+        "path": "Chợ Vàm, Phú Tân, An Giang",
+        "path_with_type": "Thị trấn Chợ Vàm, Huyện Phú Tân, Tỉnh An Giang",
+        "code": "30409",
+        "parent_code": "888"
+    },
+    "30415": {
+        "name": "Long Hoà",
+        "type": "xa",
+        "slug": "long-hoa",
+        "name_with_type": "Xã Long Hoà",
+        "path": "Long Hoà, Phú Tân, An Giang",
+        "path_with_type": "Xã Long Hoà, Huyện Phú Tân, Tỉnh An Giang",
+        "code": "30415",
+        "parent_code": "888"
+    },
+    "30418": {
+        "name": "Phú Long",
+        "type": "xa",
+        "slug": "phu-long",
+        "name_with_type": "Xã Phú Long",
+        "path": "Phú Long, Phú Tân, An Giang",
+        "path_with_type": "Xã Phú Long, Huyện Phú Tân, Tỉnh An Giang",
+        "code": "30418",
+        "parent_code": "888"
+    },
+    "30421": {
+        "name": "Phú Lâm",
+        "type": "xa",
+        "slug": "phu-lam",
+        "name_with_type": "Xã Phú Lâm",
+        "path": "Phú Lâm, Phú Tân, An Giang",
+        "path_with_type": "Xã Phú Lâm, Huyện Phú Tân, Tỉnh An Giang",
+        "code": "30421",
+        "parent_code": "888"
+    },
+    "30424": {
+        "name": "Phú Hiệp",
+        "type": "xa",
+        "slug": "phu-hiep",
+        "name_with_type": "Xã Phú Hiệp",
+        "path": "Phú Hiệp, Phú Tân, An Giang",
+        "path_with_type": "Xã Phú Hiệp, Huyện Phú Tân, Tỉnh An Giang",
+        "code": "30424",
+        "parent_code": "888"
+    },
+    "30427": {
+        "name": "Phú Thạnh",
+        "type": "xa",
+        "slug": "phu-thanh",
+        "name_with_type": "Xã Phú Thạnh",
+        "path": "Phú Thạnh, Phú Tân, An Giang",
+        "path_with_type": "Xã Phú Thạnh, Huyện Phú Tân, Tỉnh An Giang",
+        "code": "30427",
+        "parent_code": "888"
+    },
+    "30430": {
+        "name": "Hoà Lạc",
+        "type": "xa",
+        "slug": "hoa-lac",
+        "name_with_type": "Xã Hoà Lạc",
+        "path": "Hoà Lạc, Phú Tân, An Giang",
+        "path_with_type": "Xã Hoà Lạc, Huyện Phú Tân, Tỉnh An Giang",
+        "code": "30430",
+        "parent_code": "888"
+    },
+    "30433": {
+        "name": "Phú Thành",
+        "type": "xa",
+        "slug": "phu-thanh",
+        "name_with_type": "Xã Phú Thành",
+        "path": "Phú Thành, Phú Tân, An Giang",
+        "path_with_type": "Xã Phú Thành, Huyện Phú Tân, Tỉnh An Giang",
+        "code": "30433",
+        "parent_code": "888"
+    },
+    "30436": {
+        "name": "Phú An",
+        "type": "xa",
+        "slug": "phu-an",
+        "name_with_type": "Xã Phú An",
+        "path": "Phú An, Phú Tân, An Giang",
+        "path_with_type": "Xã Phú An, Huyện Phú Tân, Tỉnh An Giang",
+        "code": "30436",
+        "parent_code": "888"
+    },
+    "30439": {
+        "name": "Phú Xuân",
+        "type": "xa",
+        "slug": "phu-xuan",
+        "name_with_type": "Xã Phú Xuân",
+        "path": "Phú Xuân, Phú Tân, An Giang",
+        "path_with_type": "Xã Phú Xuân, Huyện Phú Tân, Tỉnh An Giang",
+        "code": "30439",
+        "parent_code": "888"
+    },
+    "30442": {
+        "name": "Hiệp Xương",
+        "type": "xa",
+        "slug": "hiep-xuong",
+        "name_with_type": "Xã Hiệp Xương",
+        "path": "Hiệp Xương, Phú Tân, An Giang",
+        "path_with_type": "Xã Hiệp Xương, Huyện Phú Tân, Tỉnh An Giang",
+        "code": "30442",
+        "parent_code": "888"
+    },
+    "30445": {
+        "name": "Phú Bình",
+        "type": "xa",
+        "slug": "phu-binh",
+        "name_with_type": "Xã Phú Bình",
+        "path": "Phú Bình, Phú Tân, An Giang",
+        "path_with_type": "Xã Phú Bình, Huyện Phú Tân, Tỉnh An Giang",
+        "code": "30445",
+        "parent_code": "888"
+    },
+    "30448": {
+        "name": "Phú Thọ",
+        "type": "xa",
+        "slug": "phu-tho",
+        "name_with_type": "Xã Phú Thọ",
+        "path": "Phú Thọ, Phú Tân, An Giang",
+        "path_with_type": "Xã Phú Thọ, Huyện Phú Tân, Tỉnh An Giang",
+        "code": "30448",
+        "parent_code": "888"
+    },
+    "30451": {
+        "name": "Phú Hưng",
+        "type": "xa",
+        "slug": "phu-hung",
+        "name_with_type": "Xã Phú Hưng",
+        "path": "Phú Hưng, Phú Tân, An Giang",
+        "path_with_type": "Xã Phú Hưng, Huyện Phú Tân, Tỉnh An Giang",
+        "code": "30451",
+        "parent_code": "888"
+    },
+    "30454": {
+        "name": "Bình Thạnh Đông",
+        "type": "xa",
+        "slug": "binh-thanh-dong",
+        "name_with_type": "Xã Bình Thạnh Đông",
+        "path": "Bình Thạnh Đông, Phú Tân, An Giang",
+        "path_with_type": "Xã Bình Thạnh Đông, Huyện Phú Tân, Tỉnh An Giang",
+        "code": "30454",
+        "parent_code": "888"
+    },
+    "30457": {
+        "name": "Tân Hòa",
+        "type": "xa",
+        "slug": "tan-hoa",
+        "name_with_type": "Xã Tân Hòa",
+        "path": "Tân Hòa, Phú Tân, An Giang",
+        "path_with_type": "Xã Tân Hòa, Huyện Phú Tân, Tỉnh An Giang",
+        "code": "30457",
+        "parent_code": "888"
+    },
+    "30460": {
+        "name": "Tân Trung",
+        "type": "xa",
+        "slug": "tan-trung",
+        "name_with_type": "Xã Tân Trung",
+        "path": "Tân Trung, Phú Tân, An Giang",
+        "path_with_type": "Xã Tân Trung, Huyện Phú Tân, Tỉnh An Giang",
+        "code": "30460",
+        "parent_code": "888"
+    }
+}

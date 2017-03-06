@@ -1,0 +1,1562 @@
+{
+    "30280": {
+        "name": "Mỹ Bình",
+        "type": "phuong",
+        "slug": "my-binh",
+        "name_with_type": "Phường Mỹ Bình",
+        "path": "Mỹ Bình, Long Xuyên, An Giang",
+        "path_with_type": "Phường Mỹ Bình, Thành phố Long Xuyên, Tỉnh An Giang",
+        "code": "30280",
+        "parent_code": "883"
+    },
+    "30283": {
+        "name": "Mỹ Long",
+        "type": "phuong",
+        "slug": "my-long",
+        "name_with_type": "Phường Mỹ Long",
+        "path": "Mỹ Long, Long Xuyên, An Giang",
+        "path_with_type": "Phường Mỹ Long, Thành phố Long Xuyên, Tỉnh An Giang",
+        "code": "30283",
+        "parent_code": "883"
+    },
+    "30285": {
+        "name": "Đông Xuyên",
+        "type": "phuong",
+        "slug": "dong-xuyen",
+        "name_with_type": "Phường Đông Xuyên",
+        "path": "Đông Xuyên, Long Xuyên, An Giang",
+        "path_with_type": "Phường Đông Xuyên, Thành phố Long Xuyên, Tỉnh An Giang",
+        "code": "30285",
+        "parent_code": "883"
+    },
+    "30286": {
+        "name": "Mỹ Xuyên",
+        "type": "phuong",
+        "slug": "my-xuyen",
+        "name_with_type": "Phường Mỹ Xuyên",
+        "path": "Mỹ Xuyên, Long Xuyên, An Giang",
+        "path_with_type": "Phường Mỹ Xuyên, Thành phố Long Xuyên, Tỉnh An Giang",
+        "code": "30286",
+        "parent_code": "883"
+    },
+    "30289": {
+        "name": "Bình Đức",
+        "type": "phuong",
+        "slug": "binh-duc",
+        "name_with_type": "Phường Bình Đức",
+        "path": "Bình Đức, Long Xuyên, An Giang",
+        "path_with_type": "Phường Bình Đức, Thành phố Long Xuyên, Tỉnh An Giang",
+        "code": "30289",
+        "parent_code": "883"
+    },
+    "30292": {
+        "name": "Bình Khánh",
+        "type": "phuong",
+        "slug": "binh-khanh",
+        "name_with_type": "Phường Bình Khánh",
+        "path": "Bình Khánh, Long Xuyên, An Giang",
+        "path_with_type": "Phường Bình Khánh, Thành phố Long Xuyên, Tỉnh An Giang",
+        "code": "30292",
+        "parent_code": "883"
+    },
+    "30295": {
+        "name": "Mỹ Phước",
+        "type": "phuong",
+        "slug": "my-phuoc",
+        "name_with_type": "Phường Mỹ Phước",
+        "path": "Mỹ Phước, Long Xuyên, An Giang",
+        "path_with_type": "Phường Mỹ Phước, Thành phố Long Xuyên, Tỉnh An Giang",
+        "code": "30295",
+        "parent_code": "883"
+    },
+    "30298": {
+        "name": "Mỹ Quý",
+        "type": "phuong",
+        "slug": "my-quy",
+        "name_with_type": "Phường Mỹ Quý",
+        "path": "Mỹ Quý, Long Xuyên, An Giang",
+        "path_with_type": "Phường Mỹ Quý, Thành phố Long Xuyên, Tỉnh An Giang",
+        "code": "30298",
+        "parent_code": "883"
+    },
+    "30301": {
+        "name": "Mỹ Thới",
+        "type": "phuong",
+        "slug": "my-thoi",
+        "name_with_type": "Phường Mỹ Thới",
+        "path": "Mỹ Thới, Long Xuyên, An Giang",
+        "path_with_type": "Phường Mỹ Thới, Thành phố Long Xuyên, Tỉnh An Giang",
+        "code": "30301",
+        "parent_code": "883"
+    },
+    "30304": {
+        "name": "Mỹ Thạnh",
+        "type": "phuong",
+        "slug": "my-thanh",
+        "name_with_type": "Phường Mỹ Thạnh",
+        "path": "Mỹ Thạnh, Long Xuyên, An Giang",
+        "path_with_type": "Phường Mỹ Thạnh, Thành phố Long Xuyên, Tỉnh An Giang",
+        "code": "30304",
+        "parent_code": "883"
+    },
+    "30307": {
+        "name": "Mỹ Hòa",
+        "type": "phuong",
+        "slug": "my-hoa",
+        "name_with_type": "Phường Mỹ Hòa",
+        "path": "Mỹ Hòa, Long Xuyên, An Giang",
+        "path_with_type": "Phường Mỹ Hòa, Thành phố Long Xuyên, Tỉnh An Giang",
+        "code": "30307",
+        "parent_code": "883"
+    },
+    "30310": {
+        "name": "Mỹ Khánh",
+        "type": "xa",
+        "slug": "my-khanh",
+        "name_with_type": "Xã Mỹ Khánh",
+        "path": "Mỹ Khánh, Long Xuyên, An Giang",
+        "path_with_type": "Xã Mỹ Khánh, Thành phố Long Xuyên, Tỉnh An Giang",
+        "code": "30310",
+        "parent_code": "883"
+    },
+    "30313": {
+        "name": "Mỹ Hoà Hưng",
+        "type": "xa",
+        "slug": "my-hoa-hung",
+        "name_with_type": "Xã Mỹ Hoà Hưng",
+        "path": "Mỹ Hoà Hưng, Long Xuyên, An Giang",
+        "path_with_type": "Xã Mỹ Hoà Hưng, Thành phố Long Xuyên, Tỉnh An Giang",
+        "code": "30313",
+        "parent_code": "883"
+    },
+    "30316": {
+        "name": "Châu Phú B",
+        "type": "phuong",
+        "slug": "chau-phu-b",
+        "name_with_type": "Phường Châu Phú B",
+        "path": "Châu Phú B, Châu Đốc, An Giang",
+        "path_with_type": "Phường Châu Phú B, Thành phố Châu Đốc, Tỉnh An Giang",
+        "code": "30316",
+        "parent_code": "884"
+    },
+    "30319": {
+        "name": "Châu Phú A",
+        "type": "phuong",
+        "slug": "chau-phu-a",
+        "name_with_type": "Phường Châu Phú A",
+        "path": "Châu Phú A, Châu Đốc, An Giang",
+        "path_with_type": "Phường Châu Phú A, Thành phố Châu Đốc, Tỉnh An Giang",
+        "code": "30319",
+        "parent_code": "884"
+    },
+    "30322": {
+        "name": "Vĩnh Mỹ",
+        "type": "phuong",
+        "slug": "vinh-my",
+        "name_with_type": "Phường Vĩnh Mỹ",
+        "path": "Vĩnh Mỹ, Châu Đốc, An Giang",
+        "path_with_type": "Phường Vĩnh Mỹ, Thành phố Châu Đốc, Tỉnh An Giang",
+        "code": "30322",
+        "parent_code": "884"
+    },
+    "30325": {
+        "name": "Núi Sam",
+        "type": "phuong",
+        "slug": "nui-sam",
+        "name_with_type": "Phường Núi Sam",
+        "path": "Núi Sam, Châu Đốc, An Giang",
+        "path_with_type": "Phường Núi Sam, Thành phố Châu Đốc, Tỉnh An Giang",
+        "code": "30325",
+        "parent_code": "884"
+    },
+    "30328": {
+        "name": "Vĩnh Ngươn",
+        "type": "phuong",
+        "slug": "vinh-nguon",
+        "name_with_type": "Phường Vĩnh Ngươn",
+        "path": "Vĩnh Ngươn, Châu Đốc, An Giang",
+        "path_with_type": "Phường Vĩnh Ngươn, Thành phố Châu Đốc, Tỉnh An Giang",
+        "code": "30328",
+        "parent_code": "884"
+    },
+    "30331": {
+        "name": "Vĩnh Tế",
+        "type": "xa",
+        "slug": "vinh-te",
+        "name_with_type": "Xã Vĩnh Tế",
+        "path": "Vĩnh Tế, Châu Đốc, An Giang",
+        "path_with_type": "Xã Vĩnh Tế, Thành phố Châu Đốc, Tỉnh An Giang",
+        "code": "30331",
+        "parent_code": "884"
+    },
+    "30334": {
+        "name": "Vĩnh Châu",
+        "type": "xa",
+        "slug": "vinh-chau",
+        "name_with_type": "Xã Vĩnh Châu",
+        "path": "Vĩnh Châu, Châu Đốc, An Giang",
+        "path_with_type": "Xã Vĩnh Châu, Thành phố Châu Đốc, Tỉnh An Giang",
+        "code": "30334",
+        "parent_code": "884"
+    },
+    "30337": {
+        "name": "An Phú",
+        "type": "thi-tran",
+        "slug": "an-phu",
+        "name_with_type": "Thị trấn An Phú",
+        "path": "An Phú, An Phú, An Giang",
+        "path_with_type": "Thị trấn An Phú, Huyện An Phú, Tỉnh An Giang",
+        "code": "30337",
+        "parent_code": "886"
+    },
+    "30340": {
+        "name": "Khánh An",
+        "type": "xa",
+        "slug": "khanh-an",
+        "name_with_type": "Xã Khánh An",
+        "path": "Khánh An, An Phú, An Giang",
+        "path_with_type": "Xã Khánh An, Huyện An Phú, Tỉnh An Giang",
+        "code": "30340",
+        "parent_code": "886"
+    },
+    "30341": {
+        "name": "Long Bình",
+        "type": "thi-tran",
+        "slug": "long-binh",
+        "name_with_type": "Thị Trấn Long Bình",
+        "path": "Long Bình, An Phú, An Giang",
+        "path_with_type": "Thị Trấn Long Bình, Huyện An Phú, Tỉnh An Giang",
+        "code": "30341",
+        "parent_code": "886"
+    },
+    "30343": {
+        "name": "Khánh Bình",
+        "type": "xa",
+        "slug": "khanh-binh",
+        "name_with_type": "Xã Khánh Bình",
+        "path": "Khánh Bình, An Phú, An Giang",
+        "path_with_type": "Xã Khánh Bình, Huyện An Phú, Tỉnh An Giang",
+        "code": "30343",
+        "parent_code": "886"
+    },
+    "30346": {
+        "name": "Quốc Thái",
+        "type": "xa",
+        "slug": "quoc-thai",
+        "name_with_type": "Xã Quốc Thái",
+        "path": "Quốc Thái, An Phú, An Giang",
+        "path_with_type": "Xã Quốc Thái, Huyện An Phú, Tỉnh An Giang",
+        "code": "30346",
+        "parent_code": "886"
+    },
+    "30349": {
+        "name": "Nhơn Hội",
+        "type": "xa",
+        "slug": "nhon-hoi",
+        "name_with_type": "Xã Nhơn Hội",
+        "path": "Nhơn Hội, An Phú, An Giang",
+        "path_with_type": "Xã Nhơn Hội, Huyện An Phú, Tỉnh An Giang",
+        "code": "30349",
+        "parent_code": "886"
+    },
+    "30352": {
+        "name": "Phú Hữu",
+        "type": "xa",
+        "slug": "phu-huu",
+        "name_with_type": "Xã Phú Hữu",
+        "path": "Phú Hữu, An Phú, An Giang",
+        "path_with_type": "Xã Phú Hữu, Huyện An Phú, Tỉnh An Giang",
+        "code": "30352",
+        "parent_code": "886"
+    },
+    "30355": {
+        "name": "Phú Hội",
+        "type": "xa",
+        "slug": "phu-hoi",
+        "name_with_type": "Xã Phú Hội",
+        "path": "Phú Hội, An Phú, An Giang",
+        "path_with_type": "Xã Phú Hội, Huyện An Phú, Tỉnh An Giang",
+        "code": "30355",
+        "parent_code": "886"
+    },
+    "30358": {
+        "name": "Phước Hưng",
+        "type": "xa",
+        "slug": "phuoc-hung",
+        "name_with_type": "Xã Phước Hưng",
+        "path": "Phước Hưng, An Phú, An Giang",
+        "path_with_type": "Xã Phước Hưng, Huyện An Phú, Tỉnh An Giang",
+        "code": "30358",
+        "parent_code": "886"
+    },
+    "30361": {
+        "name": "Vĩnh Lộc",
+        "type": "xa",
+        "slug": "vinh-loc",
+        "name_with_type": "Xã Vĩnh Lộc",
+        "path": "Vĩnh Lộc, An Phú, An Giang",
+        "path_with_type": "Xã Vĩnh Lộc, Huyện An Phú, Tỉnh An Giang",
+        "code": "30361",
+        "parent_code": "886"
+    },
+    "30364": {
+        "name": "Vĩnh Hậu",
+        "type": "xa",
+        "slug": "vinh-hau",
+        "name_with_type": "Xã Vĩnh Hậu",
+        "path": "Vĩnh Hậu, An Phú, An Giang",
+        "path_with_type": "Xã Vĩnh Hậu, Huyện An Phú, Tỉnh An Giang",
+        "code": "30364",
+        "parent_code": "886"
+    },
+    "30367": {
+        "name": "Vĩnh Trường",
+        "type": "xa",
+        "slug": "vinh-truong",
+        "name_with_type": "Xã Vĩnh Trường",
+        "path": "Vĩnh Trường, An Phú, An Giang",
+        "path_with_type": "Xã Vĩnh Trường, Huyện An Phú, Tỉnh An Giang",
+        "code": "30367",
+        "parent_code": "886"
+    },
+    "30370": {
+        "name": "Vĩnh Hội Đông",
+        "type": "xa",
+        "slug": "vinh-hoi-dong",
+        "name_with_type": "Xã Vĩnh Hội Đông",
+        "path": "Vĩnh Hội Đông, An Phú, An Giang",
+        "path_with_type": "Xã Vĩnh Hội Đông, Huyện An Phú, Tỉnh An Giang",
+        "code": "30370",
+        "parent_code": "886"
+    },
+    "30373": {
+        "name": "Đa Phước",
+        "type": "xa",
+        "slug": "da-phuoc",
+        "name_with_type": "Xã Đa Phước",
+        "path": "Đa Phước, An Phú, An Giang",
+        "path_with_type": "Xã Đa Phước, Huyện An Phú, Tỉnh An Giang",
+        "code": "30373",
+        "parent_code": "886"
+    },
+    "30376": {
+        "name": "Long Thạnh",
+        "type": "phuong",
+        "slug": "long-thanh",
+        "name_with_type": "Phường Long Thạnh",
+        "path": "Long Thạnh, Tân Châu, An Giang",
+        "path_with_type": "Phường Long Thạnh, Thị xã Tân Châu, Tỉnh An Giang",
+        "code": "30376",
+        "parent_code": "887"
+    },
+    "30377": {
+        "name": "Long Hưng",
+        "type": "phuong",
+        "slug": "long-hung",
+        "name_with_type": "Phường Long Hưng",
+        "path": "Long Hưng, Tân Châu, An Giang",
+        "path_with_type": "Phường Long Hưng, Thị xã Tân Châu, Tỉnh An Giang",
+        "code": "30377",
+        "parent_code": "887"
+    },
+    "30378": {
+        "name": "Long Châu",
+        "type": "phuong",
+        "slug": "long-chau",
+        "name_with_type": "Phường Long Châu",
+        "path": "Long Châu, Tân Châu, An Giang",
+        "path_with_type": "Phường Long Châu, Thị xã Tân Châu, Tỉnh An Giang",
+        "code": "30378",
+        "parent_code": "887"
+    },
+    "30379": {
+        "name": "Phú Lộc",
+        "type": "xa",
+        "slug": "phu-loc",
+        "name_with_type": "Xã Phú Lộc",
+        "path": "Phú Lộc, Tân Châu, An Giang",
+        "path_with_type": "Xã Phú Lộc, Thị xã Tân Châu, Tỉnh An Giang",
+        "code": "30379",
+        "parent_code": "887"
+    },
+    "30382": {
+        "name": "Vĩnh Xương",
+        "type": "xa",
+        "slug": "vinh-xuong",
+        "name_with_type": "Xã Vĩnh Xương",
+        "path": "Vĩnh Xương, Tân Châu, An Giang",
+        "path_with_type": "Xã Vĩnh Xương, Thị xã Tân Châu, Tỉnh An Giang",
+        "code": "30382",
+        "parent_code": "887"
+    },
+    "30385": {
+        "name": "Vĩnh Hòa",
+        "type": "xa",
+        "slug": "vinh-hoa",
+        "name_with_type": "Xã Vĩnh Hòa",
+        "path": "Vĩnh Hòa, Tân Châu, An Giang",
+        "path_with_type": "Xã Vĩnh Hòa, Thị xã Tân Châu, Tỉnh An Giang",
+        "code": "30385",
+        "parent_code": "887"
+    },
+    "30387": {
+        "name": "Tân Thạnh",
+        "type": "xa",
+        "slug": "tan-thanh",
+        "name_with_type": "Xã Tân Thạnh",
+        "path": "Tân Thạnh, Tân Châu, An Giang",
+        "path_with_type": "Xã Tân Thạnh, Thị xã Tân Châu, Tỉnh An Giang",
+        "code": "30387",
+        "parent_code": "887"
+    },
+    "30388": {
+        "name": "Tân An",
+        "type": "xa",
+        "slug": "tan-an",
+        "name_with_type": "Xã Tân An",
+        "path": "Tân An, Tân Châu, An Giang",
+        "path_with_type": "Xã Tân An, Thị xã Tân Châu, Tỉnh An Giang",
+        "code": "30388",
+        "parent_code": "887"
+    },
+    "30391": {
+        "name": "Long An",
+        "type": "xa",
+        "slug": "long-an",
+        "name_with_type": "Xã Long An",
+        "path": "Long An, Tân Châu, An Giang",
+        "path_with_type": "Xã Long An, Thị xã Tân Châu, Tỉnh An Giang",
+        "code": "30391",
+        "parent_code": "887"
+    },
+    "30394": {
+        "name": "Long Phú",
+        "type": "phuong",
+        "slug": "long-phu",
+        "name_with_type": "Phường Long Phú",
+        "path": "Long Phú, Tân Châu, An Giang",
+        "path_with_type": "Phường Long Phú, Thị xã Tân Châu, Tỉnh An Giang",
+        "code": "30394",
+        "parent_code": "887"
+    },
+    "30397": {
+        "name": "Châu Phong",
+        "type": "xa",
+        "slug": "chau-phong",
+        "name_with_type": "Xã Châu Phong",
+        "path": "Châu Phong, Tân Châu, An Giang",
+        "path_with_type": "Xã Châu Phong, Thị xã Tân Châu, Tỉnh An Giang",
+        "code": "30397",
+        "parent_code": "887"
+    },
+    "30400": {
+        "name": "Phú Vĩnh",
+        "type": "xa",
+        "slug": "phu-vinh",
+        "name_with_type": "Xã Phú Vĩnh",
+        "path": "Phú Vĩnh, Tân Châu, An Giang",
+        "path_with_type": "Xã Phú Vĩnh, Thị xã Tân Châu, Tỉnh An Giang",
+        "code": "30400",
+        "parent_code": "887"
+    },
+    "30403": {
+        "name": "Lê Chánh",
+        "type": "xa",
+        "slug": "le-chanh",
+        "name_with_type": "Xã Lê Chánh",
+        "path": "Lê Chánh, Tân Châu, An Giang",
+        "path_with_type": "Xã Lê Chánh, Thị xã Tân Châu, Tỉnh An Giang",
+        "code": "30403",
+        "parent_code": "887"
+    },
+    "30412": {
+        "name": "Long Sơn",
+        "type": "phuong",
+        "slug": "long-son",
+        "name_with_type": "Phường Long Sơn",
+        "path": "Long Sơn, Tân Châu, An Giang",
+        "path_with_type": "Phường Long Sơn, Thị xã Tân Châu, Tỉnh An Giang",
+        "code": "30412",
+        "parent_code": "887"
+    },
+    "30406": {
+        "name": "Phú Mỹ",
+        "type": "thi-tran",
+        "slug": "phu-my",
+        "name_with_type": "Thị trấn Phú Mỹ",
+        "path": "Phú Mỹ, Phú Tân, An Giang",
+        "path_with_type": "Thị trấn Phú Mỹ, Huyện Phú Tân, Tỉnh An Giang",
+        "code": "30406",
+        "parent_code": "888"
+    },
+    "30409": {
+        "name": "Chợ Vàm",
+        "type": "thi-tran",
+        "slug": "cho-vam",
+        "name_with_type": "Thị trấn Chợ Vàm",
+        "path": "Chợ Vàm, Phú Tân, An Giang",
+        "path_with_type": "Thị trấn Chợ Vàm, Huyện Phú Tân, Tỉnh An Giang",
+        "code": "30409",
+        "parent_code": "888"
+    },
+    "30415": {
+        "name": "Long Hoà",
+        "type": "xa",
+        "slug": "long-hoa",
+        "name_with_type": "Xã Long Hoà",
+        "path": "Long Hoà, Phú Tân, An Giang",
+        "path_with_type": "Xã Long Hoà, Huyện Phú Tân, Tỉnh An Giang",
+        "code": "30415",
+        "parent_code": "888"
+    },
+    "30418": {
+        "name": "Phú Long",
+        "type": "xa",
+        "slug": "phu-long",
+        "name_with_type": "Xã Phú Long",
+        "path": "Phú Long, Phú Tân, An Giang",
+        "path_with_type": "Xã Phú Long, Huyện Phú Tân, Tỉnh An Giang",
+        "code": "30418",
+        "parent_code": "888"
+    },
+    "30421": {
+        "name": "Phú Lâm",
+        "type": "xa",
+        "slug": "phu-lam",
+        "name_with_type": "Xã Phú Lâm",
+        "path": "Phú Lâm, Phú Tân, An Giang",
+        "path_with_type": "Xã Phú Lâm, Huyện Phú Tân, Tỉnh An Giang",
+        "code": "30421",
+        "parent_code": "888"
+    },
+    "30424": {
+        "name": "Phú Hiệp",
+        "type": "xa",
+        "slug": "phu-hiep",
+        "name_with_type": "Xã Phú Hiệp",
+        "path": "Phú Hiệp, Phú Tân, An Giang",
+        "path_with_type": "Xã Phú Hiệp, Huyện Phú Tân, Tỉnh An Giang",
+        "code": "30424",
+        "parent_code": "888"
+    },
+    "30427": {
+        "name": "Phú Thạnh",
+        "type": "xa",
+        "slug": "phu-thanh",
+        "name_with_type": "Xã Phú Thạnh",
+        "path": "Phú Thạnh, Phú Tân, An Giang",
+        "path_with_type": "Xã Phú Thạnh, Huyện Phú Tân, Tỉnh An Giang",
+        "code": "30427",
+        "parent_code": "888"
+    },
+    "30430": {
+        "name": "Hoà Lạc",
+        "type": "xa",
+        "slug": "hoa-lac",
+        "name_with_type": "Xã Hoà Lạc",
+        "path": "Hoà Lạc, Phú Tân, An Giang",
+        "path_with_type": "Xã Hoà Lạc, Huyện Phú Tân, Tỉnh An Giang",
+        "code": "30430",
+        "parent_code": "888"
+    },
+    "30433": {
+        "name": "Phú Thành",
+        "type": "xa",
+        "slug": "phu-thanh",
+        "name_with_type": "Xã Phú Thành",
+        "path": "Phú Thành, Phú Tân, An Giang",
+        "path_with_type": "Xã Phú Thành, Huyện Phú Tân, Tỉnh An Giang",
+        "code": "30433",
+        "parent_code": "888"
+    },
+    "30436": {
+        "name": "Phú An",
+        "type": "xa",
+        "slug": "phu-an",
+        "name_with_type": "Xã Phú An",
+        "path": "Phú An, Phú Tân, An Giang",
+        "path_with_type": "Xã Phú An, Huyện Phú Tân, Tỉnh An Giang",
+        "code": "30436",
+        "parent_code": "888"
+    },
+    "30439": {
+        "name": "Phú Xuân",
+        "type": "xa",
+        "slug": "phu-xuan",
+        "name_with_type": "Xã Phú Xuân",
+        "path": "Phú Xuân, Phú Tân, An Giang",
+        "path_with_type": "Xã Phú Xuân, Huyện Phú Tân, Tỉnh An Giang",
+        "code": "30439",
+        "parent_code": "888"
+    },
+    "30442": {
+        "name": "Hiệp Xương",
+        "type": "xa",
+        "slug": "hiep-xuong",
+        "name_with_type": "Xã Hiệp Xương",
+        "path": "Hiệp Xương, Phú Tân, An Giang",
+        "path_with_type": "Xã Hiệp Xương, Huyện Phú Tân, Tỉnh An Giang",
+        "code": "30442",
+        "parent_code": "888"
+    },
+    "30445": {
+        "name": "Phú Bình",
+        "type": "xa",
+        "slug": "phu-binh",
+        "name_with_type": "Xã Phú Bình",
+        "path": "Phú Bình, Phú Tân, An Giang",
+        "path_with_type": "Xã Phú Bình, Huyện Phú Tân, Tỉnh An Giang",
+        "code": "30445",
+        "parent_code": "888"
+    },
+    "30448": {
+        "name": "Phú Thọ",
+        "type": "xa",
+        "slug": "phu-tho",
+        "name_with_type": "Xã Phú Thọ",
+        "path": "Phú Thọ, Phú Tân, An Giang",
+        "path_with_type": "Xã Phú Thọ, Huyện Phú Tân, Tỉnh An Giang",
+        "code": "30448",
+        "parent_code": "888"
+    },
+    "30451": {
+        "name": "Phú Hưng",
+        "type": "xa",
+        "slug": "phu-hung",
+        "name_with_type": "Xã Phú Hưng",
+        "path": "Phú Hưng, Phú Tân, An Giang",
+        "path_with_type": "Xã Phú Hưng, Huyện Phú Tân, Tỉnh An Giang",
+        "code": "30451",
+        "parent_code": "888"
+    },
+    "30454": {
+        "name": "Bình Thạnh Đông",
+        "type": "xa",
+        "slug": "binh-thanh-dong",
+        "name_with_type": "Xã Bình Thạnh Đông",
+        "path": "Bình Thạnh Đông, Phú Tân, An Giang",
+        "path_with_type": "Xã Bình Thạnh Đông, Huyện Phú Tân, Tỉnh An Giang",
+        "code": "30454",
+        "parent_code": "888"
+    },
+    "30457": {
+        "name": "Tân Hòa",
+        "type": "xa",
+        "slug": "tan-hoa",
+        "name_with_type": "Xã Tân Hòa",
+        "path": "Tân Hòa, Phú Tân, An Giang",
+        "path_with_type": "Xã Tân Hòa, Huyện Phú Tân, Tỉnh An Giang",
+        "code": "30457",
+        "parent_code": "888"
+    },
+    "30460": {
+        "name": "Tân Trung",
+        "type": "xa",
+        "slug": "tan-trung",
+        "name_with_type": "Xã Tân Trung",
+        "path": "Tân Trung, Phú Tân, An Giang",
+        "path_with_type": "Xã Tân Trung, Huyện Phú Tân, Tỉnh An Giang",
+        "code": "30460",
+        "parent_code": "888"
+    },
+    "30463": {
+        "name": "Cái Dầu",
+        "type": "thi-tran",
+        "slug": "cai-dau",
+        "name_with_type": "Thị trấn Cái Dầu",
+        "path": "Cái Dầu, Châu Phú, An Giang",
+        "path_with_type": "Thị trấn Cái Dầu, Huyện Châu Phú, Tỉnh An Giang",
+        "code": "30463",
+        "parent_code": "889"
+    },
+    "30466": {
+        "name": "Khánh Hòa",
+        "type": "xa",
+        "slug": "khanh-hoa",
+        "name_with_type": "Xã Khánh Hòa",
+        "path": "Khánh Hòa, Châu Phú, An Giang",
+        "path_with_type": "Xã Khánh Hòa, Huyện Châu Phú, Tỉnh An Giang",
+        "code": "30466",
+        "parent_code": "889"
+    },
+    "30469": {
+        "name": "Mỹ Đức",
+        "type": "xa",
+        "slug": "my-duc",
+        "name_with_type": "Xã Mỹ Đức",
+        "path": "Mỹ Đức, Châu Phú, An Giang",
+        "path_with_type": "Xã Mỹ Đức, Huyện Châu Phú, Tỉnh An Giang",
+        "code": "30469",
+        "parent_code": "889"
+    },
+    "30472": {
+        "name": "Mỹ Phú",
+        "type": "xa",
+        "slug": "my-phu",
+        "name_with_type": "Xã Mỹ Phú",
+        "path": "Mỹ Phú, Châu Phú, An Giang",
+        "path_with_type": "Xã Mỹ Phú, Huyện Châu Phú, Tỉnh An Giang",
+        "code": "30472",
+        "parent_code": "889"
+    },
+    "30475": {
+        "name": "Ô Long Vỹ",
+        "type": "xa",
+        "slug": "o-long-vy",
+        "name_with_type": "Xã Ô Long Vỹ",
+        "path": "Ô Long Vỹ, Châu Phú, An Giang",
+        "path_with_type": "Xã Ô Long Vỹ, Huyện Châu Phú, Tỉnh An Giang",
+        "code": "30475",
+        "parent_code": "889"
+    },
+    "30478": {
+        "name": "Vĩnh Thạnh Trung",
+        "type": "xa",
+        "slug": "vinh-thanh-trung",
+        "name_with_type": "Xã Vĩnh Thạnh Trung",
+        "path": "Vĩnh Thạnh Trung, Châu Phú, An Giang",
+        "path_with_type": "Xã Vĩnh Thạnh Trung, Huyện Châu Phú, Tỉnh An Giang",
+        "code": "30478",
+        "parent_code": "889"
+    },
+    "30481": {
+        "name": "Thạnh Mỹ Tây",
+        "type": "xa",
+        "slug": "thanh-my-tay",
+        "name_with_type": "Xã Thạnh Mỹ Tây",
+        "path": "Thạnh Mỹ Tây, Châu Phú, An Giang",
+        "path_with_type": "Xã Thạnh Mỹ Tây, Huyện Châu Phú, Tỉnh An Giang",
+        "code": "30481",
+        "parent_code": "889"
+    },
+    "30484": {
+        "name": "Bình Long",
+        "type": "xa",
+        "slug": "binh-long",
+        "name_with_type": "Xã Bình Long",
+        "path": "Bình Long, Châu Phú, An Giang",
+        "path_with_type": "Xã Bình Long, Huyện Châu Phú, Tỉnh An Giang",
+        "code": "30484",
+        "parent_code": "889"
+    },
+    "30487": {
+        "name": "Bình Mỹ",
+        "type": "xa",
+        "slug": "binh-my",
+        "name_with_type": "Xã Bình Mỹ",
+        "path": "Bình Mỹ, Châu Phú, An Giang",
+        "path_with_type": "Xã Bình Mỹ, Huyện Châu Phú, Tỉnh An Giang",
+        "code": "30487",
+        "parent_code": "889"
+    },
+    "30490": {
+        "name": "Bình Thủy",
+        "type": "xa",
+        "slug": "binh-thuy",
+        "name_with_type": "Xã Bình Thủy",
+        "path": "Bình Thủy, Châu Phú, An Giang",
+        "path_with_type": "Xã Bình Thủy, Huyện Châu Phú, Tỉnh An Giang",
+        "code": "30490",
+        "parent_code": "889"
+    },
+    "30493": {
+        "name": "Đào Hữu Cảnh",
+        "type": "xa",
+        "slug": "dao-huu-canh",
+        "name_with_type": "Xã Đào Hữu Cảnh",
+        "path": "Đào Hữu Cảnh, Châu Phú, An Giang",
+        "path_with_type": "Xã Đào Hữu Cảnh, Huyện Châu Phú, Tỉnh An Giang",
+        "code": "30493",
+        "parent_code": "889"
+    },
+    "30496": {
+        "name": "Bình Phú",
+        "type": "xa",
+        "slug": "binh-phu",
+        "name_with_type": "Xã Bình Phú",
+        "path": "Bình Phú, Châu Phú, An Giang",
+        "path_with_type": "Xã Bình Phú, Huyện Châu Phú, Tỉnh An Giang",
+        "code": "30496",
+        "parent_code": "889"
+    },
+    "30499": {
+        "name": "Bình Chánh",
+        "type": "xa",
+        "slug": "binh-chanh",
+        "name_with_type": "Xã Bình Chánh",
+        "path": "Bình Chánh, Châu Phú, An Giang",
+        "path_with_type": "Xã Bình Chánh, Huyện Châu Phú, Tỉnh An Giang",
+        "code": "30499",
+        "parent_code": "889"
+    },
+    "30502": {
+        "name": "Nhà Bàng",
+        "type": "thi-tran",
+        "slug": "nha-bang",
+        "name_with_type": "Thị trấn Nhà Bàng",
+        "path": "Nhà Bàng, Tịnh Biên, An Giang",
+        "path_with_type": "Thị trấn Nhà Bàng, Huyện Tịnh Biên, Tỉnh An Giang",
+        "code": "30502",
+        "parent_code": "890"
+    },
+    "30505": {
+        "name": "Chi Lăng",
+        "type": "thi-tran",
+        "slug": "chi-lang",
+        "name_with_type": "Thị trấn Chi Lăng",
+        "path": "Chi Lăng, Tịnh Biên, An Giang",
+        "path_with_type": "Thị trấn Chi Lăng, Huyện Tịnh Biên, Tỉnh An Giang",
+        "code": "30505",
+        "parent_code": "890"
+    },
+    "30508": {
+        "name": "Núi Voi",
+        "type": "xa",
+        "slug": "nui-voi",
+        "name_with_type": "Xã Núi Voi",
+        "path": "Núi Voi, Tịnh Biên, An Giang",
+        "path_with_type": "Xã Núi Voi, Huyện Tịnh Biên, Tỉnh An Giang",
+        "code": "30508",
+        "parent_code": "890"
+    },
+    "30511": {
+        "name": "Nhơn Hưng",
+        "type": "xa",
+        "slug": "nhon-hung",
+        "name_with_type": "Xã Nhơn Hưng",
+        "path": "Nhơn Hưng, Tịnh Biên, An Giang",
+        "path_with_type": "Xã Nhơn Hưng, Huyện Tịnh Biên, Tỉnh An Giang",
+        "code": "30511",
+        "parent_code": "890"
+    },
+    "30514": {
+        "name": "An Phú",
+        "type": "xa",
+        "slug": "an-phu",
+        "name_with_type": "Xã An Phú",
+        "path": "An Phú, Tịnh Biên, An Giang",
+        "path_with_type": "Xã An Phú, Huyện Tịnh Biên, Tỉnh An Giang",
+        "code": "30514",
+        "parent_code": "890"
+    },
+    "30517": {
+        "name": "Thới Sơn",
+        "type": "xa",
+        "slug": "thoi-son",
+        "name_with_type": "Xã Thới Sơn",
+        "path": "Thới Sơn, Tịnh Biên, An Giang",
+        "path_with_type": "Xã Thới Sơn, Huyện Tịnh Biên, Tỉnh An Giang",
+        "code": "30517",
+        "parent_code": "890"
+    },
+    "30520": {
+        "name": "Tịnh Biên",
+        "type": "thi-tran",
+        "slug": "tinh-bien",
+        "name_with_type": "Thị trấn Tịnh Biên",
+        "path": "Tịnh Biên, Tịnh Biên, An Giang",
+        "path_with_type": "Thị trấn Tịnh Biên, Huyện Tịnh Biên, Tỉnh An Giang",
+        "code": "30520",
+        "parent_code": "890"
+    },
+    "30523": {
+        "name": "Văn Giáo",
+        "type": "xa",
+        "slug": "van-giao",
+        "name_with_type": "Xã Văn Giáo",
+        "path": "Văn Giáo, Tịnh Biên, An Giang",
+        "path_with_type": "Xã Văn Giáo, Huyện Tịnh Biên, Tỉnh An Giang",
+        "code": "30523",
+        "parent_code": "890"
+    },
+    "30526": {
+        "name": "An Cư",
+        "type": "xa",
+        "slug": "an-cu",
+        "name_with_type": "Xã An Cư",
+        "path": "An Cư, Tịnh Biên, An Giang",
+        "path_with_type": "Xã An Cư, Huyện Tịnh Biên, Tỉnh An Giang",
+        "code": "30526",
+        "parent_code": "890"
+    },
+    "30529": {
+        "name": "An Nông",
+        "type": "xa",
+        "slug": "an-nong",
+        "name_with_type": "Xã An Nông",
+        "path": "An Nông, Tịnh Biên, An Giang",
+        "path_with_type": "Xã An Nông, Huyện Tịnh Biên, Tỉnh An Giang",
+        "code": "30529",
+        "parent_code": "890"
+    },
+    "30532": {
+        "name": "Vĩnh Trung",
+        "type": "xa",
+        "slug": "vinh-trung",
+        "name_with_type": "Xã Vĩnh Trung",
+        "path": "Vĩnh Trung, Tịnh Biên, An Giang",
+        "path_with_type": "Xã Vĩnh Trung, Huyện Tịnh Biên, Tỉnh An Giang",
+        "code": "30532",
+        "parent_code": "890"
+    },
+    "30535": {
+        "name": "Tân Lợi",
+        "type": "xa",
+        "slug": "tan-loi",
+        "name_with_type": "Xã Tân Lợi",
+        "path": "Tân Lợi, Tịnh Biên, An Giang",
+        "path_with_type": "Xã Tân Lợi, Huyện Tịnh Biên, Tỉnh An Giang",
+        "code": "30535",
+        "parent_code": "890"
+    },
+    "30538": {
+        "name": "An Hảo",
+        "type": "xa",
+        "slug": "an-hao",
+        "name_with_type": "Xã An Hảo",
+        "path": "An Hảo, Tịnh Biên, An Giang",
+        "path_with_type": "Xã An Hảo, Huyện Tịnh Biên, Tỉnh An Giang",
+        "code": "30538",
+        "parent_code": "890"
+    },
+    "30541": {
+        "name": "Tân Lập",
+        "type": "xa",
+        "slug": "tan-lap",
+        "name_with_type": "Xã Tân Lập",
+        "path": "Tân Lập, Tịnh Biên, An Giang",
+        "path_with_type": "Xã Tân Lập, Huyện Tịnh Biên, Tỉnh An Giang",
+        "code": "30541",
+        "parent_code": "890"
+    },
+    "30544": {
+        "name": "Tri Tôn",
+        "type": "thi-tran",
+        "slug": "tri-ton",
+        "name_with_type": "Thị trấn Tri Tôn",
+        "path": "Tri Tôn, Tri Tôn, An Giang",
+        "path_with_type": "Thị trấn Tri Tôn, Huyện Tri Tôn, Tỉnh An Giang",
+        "code": "30544",
+        "parent_code": "891"
+    },
+    "30547": {
+        "name": "Ba Chúc",
+        "type": "thi-tran",
+        "slug": "ba-chuc",
+        "name_with_type": "Thị trấn Ba Chúc",
+        "path": "Ba Chúc, Tri Tôn, An Giang",
+        "path_with_type": "Thị trấn Ba Chúc, Huyện Tri Tôn, Tỉnh An Giang",
+        "code": "30547",
+        "parent_code": "891"
+    },
+    "30550": {
+        "name": "Lạc Quới",
+        "type": "xa",
+        "slug": "lac-quoi",
+        "name_with_type": "Xã Lạc Quới",
+        "path": "Lạc Quới, Tri Tôn, An Giang",
+        "path_with_type": "Xã Lạc Quới, Huyện Tri Tôn, Tỉnh An Giang",
+        "code": "30550",
+        "parent_code": "891"
+    },
+    "30553": {
+        "name": "Lê Trì",
+        "type": "xa",
+        "slug": "le-tri",
+        "name_with_type": "Xã Lê Trì",
+        "path": "Lê Trì, Tri Tôn, An Giang",
+        "path_with_type": "Xã Lê Trì, Huyện Tri Tôn, Tỉnh An Giang",
+        "code": "30553",
+        "parent_code": "891"
+    },
+    "30556": {
+        "name": "Vĩnh Gia",
+        "type": "xa",
+        "slug": "vinh-gia",
+        "name_with_type": "Xã Vĩnh Gia",
+        "path": "Vĩnh Gia, Tri Tôn, An Giang",
+        "path_with_type": "Xã Vĩnh Gia, Huyện Tri Tôn, Tỉnh An Giang",
+        "code": "30556",
+        "parent_code": "891"
+    },
+    "30559": {
+        "name": "Vĩnh Phước",
+        "type": "xa",
+        "slug": "vinh-phuoc",
+        "name_with_type": "Xã Vĩnh Phước",
+        "path": "Vĩnh Phước, Tri Tôn, An Giang",
+        "path_with_type": "Xã Vĩnh Phước, Huyện Tri Tôn, Tỉnh An Giang",
+        "code": "30559",
+        "parent_code": "891"
+    },
+    "30562": {
+        "name": "Châu Lăng",
+        "type": "xa",
+        "slug": "chau-lang",
+        "name_with_type": "Xã Châu Lăng",
+        "path": "Châu Lăng, Tri Tôn, An Giang",
+        "path_with_type": "Xã Châu Lăng, Huyện Tri Tôn, Tỉnh An Giang",
+        "code": "30562",
+        "parent_code": "891"
+    },
+    "30565": {
+        "name": "Lương Phi",
+        "type": "xa",
+        "slug": "luong-phi",
+        "name_with_type": "Xã Lương Phi",
+        "path": "Lương Phi, Tri Tôn, An Giang",
+        "path_with_type": "Xã Lương Phi, Huyện Tri Tôn, Tỉnh An Giang",
+        "code": "30565",
+        "parent_code": "891"
+    },
+    "30568": {
+        "name": "Lương An Trà",
+        "type": "xa",
+        "slug": "luong-an-tra",
+        "name_with_type": "Xã Lương An Trà",
+        "path": "Lương An Trà, Tri Tôn, An Giang",
+        "path_with_type": "Xã Lương An Trà, Huyện Tri Tôn, Tỉnh An Giang",
+        "code": "30568",
+        "parent_code": "891"
+    },
+    "30571": {
+        "name": "Tà Đảnh",
+        "type": "xa",
+        "slug": "ta-danh",
+        "name_with_type": "Xã Tà Đảnh",
+        "path": "Tà Đảnh, Tri Tôn, An Giang",
+        "path_with_type": "Xã Tà Đảnh, Huyện Tri Tôn, Tỉnh An Giang",
+        "code": "30571",
+        "parent_code": "891"
+    },
+    "30574": {
+        "name": "Núi Tô",
+        "type": "xa",
+        "slug": "nui-to",
+        "name_with_type": "Xã Núi Tô",
+        "path": "Núi Tô, Tri Tôn, An Giang",
+        "path_with_type": "Xã Núi Tô, Huyện Tri Tôn, Tỉnh An Giang",
+        "code": "30574",
+        "parent_code": "891"
+    },
+    "30577": {
+        "name": "An Tức",
+        "type": "xa",
+        "slug": "an-tuc",
+        "name_with_type": "Xã An Tức",
+        "path": "An Tức, Tri Tôn, An Giang",
+        "path_with_type": "Xã An Tức, Huyện Tri Tôn, Tỉnh An Giang",
+        "code": "30577",
+        "parent_code": "891"
+    },
+    "30580": {
+        "name": "Cô Tô",
+        "type": "xa",
+        "slug": "co-to",
+        "name_with_type": "Xã Cô Tô",
+        "path": "Cô Tô, Tri Tôn, An Giang",
+        "path_with_type": "Xã Cô Tô, Huyện Tri Tôn, Tỉnh An Giang",
+        "code": "30580",
+        "parent_code": "891"
+    },
+    "30583": {
+        "name": "Tân Tuyến",
+        "type": "xa",
+        "slug": "tan-tuyen",
+        "name_with_type": "Xã Tân Tuyến",
+        "path": "Tân Tuyến, Tri Tôn, An Giang",
+        "path_with_type": "Xã Tân Tuyến, Huyện Tri Tôn, Tỉnh An Giang",
+        "code": "30583",
+        "parent_code": "891"
+    },
+    "30586": {
+        "name": "Ô Lâm",
+        "type": "xa",
+        "slug": "o-lam",
+        "name_with_type": "Xã Ô Lâm",
+        "path": "Ô Lâm, Tri Tôn, An Giang",
+        "path_with_type": "Xã Ô Lâm, Huyện Tri Tôn, Tỉnh An Giang",
+        "code": "30586",
+        "parent_code": "891"
+    },
+    "30589": {
+        "name": "An Châu",
+        "type": "thi-tran",
+        "slug": "an-chau",
+        "name_with_type": "Thị trấn An Châu",
+        "path": "An Châu, Châu Thành, An Giang",
+        "path_with_type": "Thị trấn An Châu, Huyện Châu Thành, Tỉnh An Giang",
+        "code": "30589",
+        "parent_code": "892"
+    },
+    "30592": {
+        "name": "An Hòa",
+        "type": "xa",
+        "slug": "an-hoa",
+        "name_with_type": "Xã An Hòa",
+        "path": "An Hòa, Châu Thành, An Giang",
+        "path_with_type": "Xã An Hòa, Huyện Châu Thành, Tỉnh An Giang",
+        "code": "30592",
+        "parent_code": "892"
+    },
+    "30595": {
+        "name": "Cần Đăng",
+        "type": "xa",
+        "slug": "can-dang",
+        "name_with_type": "Xã Cần Đăng",
+        "path": "Cần Đăng, Châu Thành, An Giang",
+        "path_with_type": "Xã Cần Đăng, Huyện Châu Thành, Tỉnh An Giang",
+        "code": "30595",
+        "parent_code": "892"
+    },
+    "30598": {
+        "name": "Vĩnh Hanh",
+        "type": "xa",
+        "slug": "vinh-hanh",
+        "name_with_type": "Xã Vĩnh Hanh",
+        "path": "Vĩnh Hanh, Châu Thành, An Giang",
+        "path_with_type": "Xã Vĩnh Hanh, Huyện Châu Thành, Tỉnh An Giang",
+        "code": "30598",
+        "parent_code": "892"
+    },
+    "30601": {
+        "name": "Bình Thạnh",
+        "type": "xa",
+        "slug": "binh-thanh",
+        "name_with_type": "Xã Bình Thạnh",
+        "path": "Bình Thạnh, Châu Thành, An Giang",
+        "path_with_type": "Xã Bình Thạnh, Huyện Châu Thành, Tỉnh An Giang",
+        "code": "30601",
+        "parent_code": "892"
+    },
+    "30604": {
+        "name": "Vĩnh Bình",
+        "type": "xa",
+        "slug": "vinh-binh",
+        "name_with_type": "Xã Vĩnh Bình",
+        "path": "Vĩnh Bình, Châu Thành, An Giang",
+        "path_with_type": "Xã Vĩnh Bình, Huyện Châu Thành, Tỉnh An Giang",
+        "code": "30604",
+        "parent_code": "892"
+    },
+    "30607": {
+        "name": "Bình Hòa",
+        "type": "xa",
+        "slug": "binh-hoa",
+        "name_with_type": "Xã Bình Hòa",
+        "path": "Bình Hòa, Châu Thành, An Giang",
+        "path_with_type": "Xã Bình Hòa, Huyện Châu Thành, Tỉnh An Giang",
+        "code": "30607",
+        "parent_code": "892"
+    },
+    "30610": {
+        "name": "Vĩnh An",
+        "type": "xa",
+        "slug": "vinh-an",
+        "name_with_type": "Xã Vĩnh An",
+        "path": "Vĩnh An, Châu Thành, An Giang",
+        "path_with_type": "Xã Vĩnh An, Huyện Châu Thành, Tỉnh An Giang",
+        "code": "30610",
+        "parent_code": "892"
+    },
+    "30613": {
+        "name": "Hòa Bình Thạnh",
+        "type": "xa",
+        "slug": "hoa-binh-thanh",
+        "name_with_type": "Xã Hòa Bình Thạnh",
+        "path": "Hòa Bình Thạnh, Châu Thành, An Giang",
+        "path_with_type": "Xã Hòa Bình Thạnh, Huyện Châu Thành, Tỉnh An Giang",
+        "code": "30613",
+        "parent_code": "892"
+    },
+    "30616": {
+        "name": "Vĩnh Lợi",
+        "type": "xa",
+        "slug": "vinh-loi",
+        "name_with_type": "Xã Vĩnh Lợi",
+        "path": "Vĩnh Lợi, Châu Thành, An Giang",
+        "path_with_type": "Xã Vĩnh Lợi, Huyện Châu Thành, Tỉnh An Giang",
+        "code": "30616",
+        "parent_code": "892"
+    },
+    "30619": {
+        "name": "Vĩnh Nhuận",
+        "type": "xa",
+        "slug": "vinh-nhuan",
+        "name_with_type": "Xã Vĩnh Nhuận",
+        "path": "Vĩnh Nhuận, Châu Thành, An Giang",
+        "path_with_type": "Xã Vĩnh Nhuận, Huyện Châu Thành, Tỉnh An Giang",
+        "code": "30619",
+        "parent_code": "892"
+    },
+    "30622": {
+        "name": "Tân Phú",
+        "type": "xa",
+        "slug": "tan-phu",
+        "name_with_type": "Xã Tân Phú",
+        "path": "Tân Phú, Châu Thành, An Giang",
+        "path_with_type": "Xã Tân Phú, Huyện Châu Thành, Tỉnh An Giang",
+        "code": "30622",
+        "parent_code": "892"
+    },
+    "30625": {
+        "name": "Vĩnh Thành",
+        "type": "xa",
+        "slug": "vinh-thanh",
+        "name_with_type": "Xã Vĩnh Thành",
+        "path": "Vĩnh Thành, Châu Thành, An Giang",
+        "path_with_type": "Xã Vĩnh Thành, Huyện Châu Thành, Tỉnh An Giang",
+        "code": "30625",
+        "parent_code": "892"
+    },
+    "30628": {
+        "name": "Chợ Mới",
+        "type": "thi-tran",
+        "slug": "cho-moi",
+        "name_with_type": "Thị trấn Chợ Mới",
+        "path": "Chợ Mới, Chợ Mới, An Giang",
+        "path_with_type": "Thị trấn Chợ Mới, Huyện Chợ Mới, Tỉnh An Giang",
+        "code": "30628",
+        "parent_code": "893"
+    },
+    "30631": {
+        "name": "Mỹ Luông",
+        "type": "thi-tran",
+        "slug": "my-luong",
+        "name_with_type": "Thị trấn Mỹ Luông",
+        "path": "Mỹ Luông, Chợ Mới, An Giang",
+        "path_with_type": "Thị trấn Mỹ Luông, Huyện Chợ Mới, Tỉnh An Giang",
+        "code": "30631",
+        "parent_code": "893"
+    },
+    "30634": {
+        "name": "Kiến An",
+        "type": "xa",
+        "slug": "kien-an",
+        "name_with_type": "Xã Kiến An",
+        "path": "Kiến An, Chợ Mới, An Giang",
+        "path_with_type": "Xã Kiến An, Huyện Chợ Mới, Tỉnh An Giang",
+        "code": "30634",
+        "parent_code": "893"
+    },
+    "30637": {
+        "name": "Mỹ Hội Đông",
+        "type": "xa",
+        "slug": "my-hoi-dong",
+        "name_with_type": "Xã Mỹ Hội Đông",
+        "path": "Mỹ Hội Đông, Chợ Mới, An Giang",
+        "path_with_type": "Xã Mỹ Hội Đông, Huyện Chợ Mới, Tỉnh An Giang",
+        "code": "30637",
+        "parent_code": "893"
+    },
+    "30640": {
+        "name": "Long Điền A",
+        "type": "xa",
+        "slug": "long-dien-a",
+        "name_with_type": "Xã Long Điền A",
+        "path": "Long Điền A, Chợ Mới, An Giang",
+        "path_with_type": "Xã Long Điền A, Huyện Chợ Mới, Tỉnh An Giang",
+        "code": "30640",
+        "parent_code": "893"
+    },
+    "30643": {
+        "name": "Tấn Mỹ",
+        "type": "xa",
+        "slug": "tan-my",
+        "name_with_type": "Xã Tấn Mỹ",
+        "path": "Tấn Mỹ, Chợ Mới, An Giang",
+        "path_with_type": "Xã Tấn Mỹ, Huyện Chợ Mới, Tỉnh An Giang",
+        "code": "30643",
+        "parent_code": "893"
+    },
+    "30646": {
+        "name": "Long Điền B",
+        "type": "xa",
+        "slug": "long-dien-b",
+        "name_with_type": "Xã Long Điền B",
+        "path": "Long Điền B, Chợ Mới, An Giang",
+        "path_with_type": "Xã Long Điền B, Huyện Chợ Mới, Tỉnh An Giang",
+        "code": "30646",
+        "parent_code": "893"
+    },
+    "30649": {
+        "name": "Kiến Thành",
+        "type": "xa",
+        "slug": "kien-thanh",
+        "name_with_type": "Xã Kiến Thành",
+        "path": "Kiến Thành, Chợ Mới, An Giang",
+        "path_with_type": "Xã Kiến Thành, Huyện Chợ Mới, Tỉnh An Giang",
+        "code": "30649",
+        "parent_code": "893"
+    },
+    "30652": {
+        "name": "Mỹ Hiệp",
+        "type": "xa",
+        "slug": "my-hiep",
+        "name_with_type": "Xã Mỹ Hiệp",
+        "path": "Mỹ Hiệp, Chợ Mới, An Giang",
+        "path_with_type": "Xã Mỹ Hiệp, Huyện Chợ Mới, Tỉnh An Giang",
+        "code": "30652",
+        "parent_code": "893"
+    },
+    "30655": {
+        "name": "Mỹ An",
+        "type": "xa",
+        "slug": "my-an",
+        "name_with_type": "Xã Mỹ An",
+        "path": "Mỹ An, Chợ Mới, An Giang",
+        "path_with_type": "Xã Mỹ An, Huyện Chợ Mới, Tỉnh An Giang",
+        "code": "30655",
+        "parent_code": "893"
+    },
+    "30658": {
+        "name": "Nhơn Mỹ",
+        "type": "xa",
+        "slug": "nhon-my",
+        "name_with_type": "Xã Nhơn Mỹ",
+        "path": "Nhơn Mỹ, Chợ Mới, An Giang",
+        "path_with_type": "Xã Nhơn Mỹ, Huyện Chợ Mới, Tỉnh An Giang",
+        "code": "30658",
+        "parent_code": "893"
+    },
+    "30661": {
+        "name": "Long Giang",
+        "type": "xa",
+        "slug": "long-giang",
+        "name_with_type": "Xã Long Giang",
+        "path": "Long Giang, Chợ Mới, An Giang",
+        "path_with_type": "Xã Long Giang, Huyện Chợ Mới, Tỉnh An Giang",
+        "code": "30661",
+        "parent_code": "893"
+    },
+    "30664": {
+        "name": "Long Kiến",
+        "type": "xa",
+        "slug": "long-kien",
+        "name_with_type": "Xã Long Kiến",
+        "path": "Long Kiến, Chợ Mới, An Giang",
+        "path_with_type": "Xã Long Kiến, Huyện Chợ Mới, Tỉnh An Giang",
+        "code": "30664",
+        "parent_code": "893"
+    },
+    "30667": {
+        "name": "Bình Phước Xuân",
+        "type": "xa",
+        "slug": "binh-phuoc-xuan",
+        "name_with_type": "Xã Bình Phước Xuân",
+        "path": "Bình Phước Xuân, Chợ Mới, An Giang",
+        "path_with_type": "Xã Bình Phước Xuân, Huyện Chợ Mới, Tỉnh An Giang",
+        "code": "30667",
+        "parent_code": "893"
+    },
+    "30670": {
+        "name": "An Thạnh Trung",
+        "type": "xa",
+        "slug": "an-thanh-trung",
+        "name_with_type": "Xã An Thạnh Trung",
+        "path": "An Thạnh Trung, Chợ Mới, An Giang",
+        "path_with_type": "Xã An Thạnh Trung, Huyện Chợ Mới, Tỉnh An Giang",
+        "code": "30670",
+        "parent_code": "893"
+    },
+    "30673": {
+        "name": "Hội An",
+        "type": "xa",
+        "slug": "hoi-an",
+        "name_with_type": "Xã Hội An",
+        "path": "Hội An, Chợ Mới, An Giang",
+        "path_with_type": "Xã Hội An, Huyện Chợ Mới, Tỉnh An Giang",
+        "code": "30673",
+        "parent_code": "893"
+    },
+    "30676": {
+        "name": "Hòa Bình",
+        "type": "xa",
+        "slug": "hoa-binh",
+        "name_with_type": "Xã Hòa Bình",
+        "path": "Hòa Bình, Chợ Mới, An Giang",
+        "path_with_type": "Xã Hòa Bình, Huyện Chợ Mới, Tỉnh An Giang",
+        "code": "30676",
+        "parent_code": "893"
+    },
+    "30679": {
+        "name": "Hòa An",
+        "type": "xa",
+        "slug": "hoa-an",
+        "name_with_type": "Xã Hòa An",
+        "path": "Hòa An, Chợ Mới, An Giang",
+        "path_with_type": "Xã Hòa An, Huyện Chợ Mới, Tỉnh An Giang",
+        "code": "30679",
+        "parent_code": "893"
+    },
+    "30682": {
+        "name": "Núi Sập",
+        "type": "thi-tran",
+        "slug": "nui-sap",
+        "name_with_type": "Thị trấn Núi Sập",
+        "path": "Núi Sập, Thoại Sơn, An Giang",
+        "path_with_type": "Thị trấn Núi Sập, Huyện Thoại Sơn, Tỉnh An Giang",
+        "code": "30682",
+        "parent_code": "894"
+    },
+    "30685": {
+        "name": "Phú Hoà",
+        "type": "thi-tran",
+        "slug": "phu-hoa",
+        "name_with_type": "Thị trấn Phú Hoà",
+        "path": "Phú Hoà, Thoại Sơn, An Giang",
+        "path_with_type": "Thị trấn Phú Hoà, Huyện Thoại Sơn, Tỉnh An Giang",
+        "code": "30685",
+        "parent_code": "894"
+    },
+    "30688": {
+        "name": "Óc Eo",
+        "type": "thi-tran",
+        "slug": "oc-eo",
+        "name_with_type": "Thị Trấn Óc Eo",
+        "path": "Óc Eo, Thoại Sơn, An Giang",
+        "path_with_type": "Thị Trấn Óc Eo, Huyện Thoại Sơn, Tỉnh An Giang",
+        "code": "30688",
+        "parent_code": "894"
+    },
+    "30691": {
+        "name": "Tây Phú",
+        "type": "xa",
+        "slug": "tay-phu",
+        "name_with_type": "Xã Tây Phú",
+        "path": "Tây Phú, Thoại Sơn, An Giang",
+        "path_with_type": "Xã Tây Phú, Huyện Thoại Sơn, Tỉnh An Giang",
+        "code": "30691",
+        "parent_code": "894"
+    },
+    "30692": {
+        "name": "An Bình",
+        "type": "xa",
+        "slug": "an-binh",
+        "name_with_type": "Xã An Bình",
+        "path": "An Bình, Thoại Sơn, An Giang",
+        "path_with_type": "Xã An Bình, Huyện Thoại Sơn, Tỉnh An Giang",
+        "code": "30692",
+        "parent_code": "894"
+    },
+    "30694": {
+        "name": "Vĩnh Phú",
+        "type": "xa",
+        "slug": "vinh-phu",
+        "name_with_type": "Xã Vĩnh Phú",
+        "path": "Vĩnh Phú, Thoại Sơn, An Giang",
+        "path_with_type": "Xã Vĩnh Phú, Huyện Thoại Sơn, Tỉnh An Giang",
+        "code": "30694",
+        "parent_code": "894"
+    },
+    "30697": {
+        "name": "Vĩnh Trạch",
+        "type": "xa",
+        "slug": "vinh-trach",
+        "name_with_type": "Xã Vĩnh Trạch",
+        "path": "Vĩnh Trạch, Thoại Sơn, An Giang",
+        "path_with_type": "Xã Vĩnh Trạch, Huyện Thoại Sơn, Tỉnh An Giang",
+        "code": "30697",
+        "parent_code": "894"
+    },
+    "30700": {
+        "name": "Phú Thuận",
+        "type": "xa",
+        "slug": "phu-thuan",
+        "name_with_type": "Xã Phú Thuận",
+        "path": "Phú Thuận, Thoại Sơn, An Giang",
+        "path_with_type": "Xã Phú Thuận, Huyện Thoại Sơn, Tỉnh An Giang",
+        "code": "30700",
+        "parent_code": "894"
+    },
+    "30703": {
+        "name": "Vĩnh Chánh",
+        "type": "xa",
+        "slug": "vinh-chanh",
+        "name_with_type": "Xã Vĩnh Chánh",
+        "path": "Vĩnh Chánh, Thoại Sơn, An Giang",
+        "path_with_type": "Xã Vĩnh Chánh, Huyện Thoại Sơn, Tỉnh An Giang",
+        "code": "30703",
+        "parent_code": "894"
+    },
+    "30706": {
+        "name": "Định Mỹ",
+        "type": "xa",
+        "slug": "dinh-my",
+        "name_with_type": "Xã Định Mỹ",
+        "path": "Định Mỹ, Thoại Sơn, An Giang",
+        "path_with_type": "Xã Định Mỹ, Huyện Thoại Sơn, Tỉnh An Giang",
+        "code": "30706",
+        "parent_code": "894"
+    },
+    "30709": {
+        "name": "Định Thành",
+        "type": "xa",
+        "slug": "dinh-thanh",
+        "name_with_type": "Xã Định Thành",
+        "path": "Định Thành, Thoại Sơn, An Giang",
+        "path_with_type": "Xã Định Thành, Huyện Thoại Sơn, Tỉnh An Giang",
+        "code": "30709",
+        "parent_code": "894"
+    },
+    "30712": {
+        "name": "Mỹ Phú Đông",
+        "type": "xa",
+        "slug": "my-phu-dong",
+        "name_with_type": "Xã Mỹ Phú Đông",
+        "path": "Mỹ Phú Đông, Thoại Sơn, An Giang",
+        "path_with_type": "Xã Mỹ Phú Đông, Huyện Thoại Sơn, Tỉnh An Giang",
+        "code": "30712",
+        "parent_code": "894"
+    },
+    "30715": {
+        "name": "Vọng Đông",
+        "type": "xa",
+        "slug": "vong-dong",
+        "name_with_type": "Xã Vọng Đông",
+        "path": "Vọng Đông, Thoại Sơn, An Giang",
+        "path_with_type": "Xã Vọng Đông, Huyện Thoại Sơn, Tỉnh An Giang",
+        "code": "30715",
+        "parent_code": "894"
+    },
+    "30718": {
+        "name": "Vĩnh Khánh",
+        "type": "xa",
+        "slug": "vinh-khanh",
+        "name_with_type": "Xã Vĩnh Khánh",
+        "path": "Vĩnh Khánh, Thoại Sơn, An Giang",
+        "path_with_type": "Xã Vĩnh Khánh, Huyện Thoại Sơn, Tỉnh An Giang",
+        "code": "30718",
+        "parent_code": "894"
+    },
+    "30721": {
+        "name": "Thoại Giang",
+        "type": "xa",
+        "slug": "thoai-giang",
+        "name_with_type": "Xã Thoại Giang",
+        "path": "Thoại Giang, Thoại Sơn, An Giang",
+        "path_with_type": "Xã Thoại Giang, Huyện Thoại Sơn, Tỉnh An Giang",
+        "code": "30721",
+        "parent_code": "894"
+    },
+    "30724": {
+        "name": "Bình Thành",
+        "type": "xa",
+        "slug": "binh-thanh",
+        "name_with_type": "Xã Bình Thành",
+        "path": "Bình Thành, Thoại Sơn, An Giang",
+        "path_with_type": "Xã Bình Thành, Huyện Thoại Sơn, Tỉnh An Giang",
+        "code": "30724",
+        "parent_code": "894"
+    },
+    "30727": {
+        "name": "Vọng Thê",
+        "type": "xa",
+        "slug": "vong-the",
+        "name_with_type": "Xã Vọng Thê",
+        "path": "Vọng Thê, Thoại Sơn, An Giang",
+        "path_with_type": "Xã Vọng Thê, Huyện Thoại Sơn, Tỉnh An Giang",
+        "code": "30727",
+        "parent_code": "894"
+    }
+}

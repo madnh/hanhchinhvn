@@ -1,0 +1,72 @@
+{
+    "30316": {
+        "name": "Châu Phú B",
+        "type": "phuong",
+        "slug": "chau-phu-b",
+        "name_with_type": "Phường Châu Phú B",
+        "path": "Châu Phú B, Châu Đốc, An Giang",
+        "path_with_type": "Phường Châu Phú B, Thành phố Châu Đốc, Tỉnh An Giang",
+        "code": "30316",
+        "parent_code": "884"
+    },
+    "30319": {
+        "name": "Châu Phú A",
+        "type": "phuong",
+        "slug": "chau-phu-a",
+        "name_with_type": "Phường Châu Phú A",
+        "path": "Châu Phú A, Châu Đốc, An Giang",
+        "path_with_type": "Phường Châu Phú A, Thành phố Châu Đốc, Tỉnh An Giang",
+        "code": "30319",
+        "parent_code": "884"
+    },
+    "30322": {
+        "name": "Vĩnh Mỹ",
+        "type": "phuong",
+        "slug": "vinh-my",
+        "name_with_type": "Phường Vĩnh Mỹ",
+        "path": "Vĩnh Mỹ, Châu Đốc, An Giang",
+        "path_with_type": "Phường Vĩnh Mỹ, Thành phố Châu Đốc, Tỉnh An Giang",
+        "code": "30322",
+        "parent_code": "884"
+    },
+    "30325": {
+        "name": "Núi Sam",
+        "type": "phuong",
+        "slug": "nui-sam",
+        "name_with_type": "Phường Núi Sam",
+        "path": "Núi Sam, Châu Đốc, An Giang",
+        "path_with_type": "Phường Núi Sam, Thành phố Châu Đốc, Tỉnh An Giang",
+        "code": "30325",
+        "parent_code": "884"
+    },
+    "30328": {
+        "name": "Vĩnh Ngươn",
+        "type": "phuong",
+        "slug": "vinh-nguon",
+        "name_with_type": "Phường Vĩnh Ngươn",
+        "path": "Vĩnh Ngươn, Châu Đốc, An Giang",
+        "path_with_type": "Phường Vĩnh Ngươn, Thành phố Châu Đốc, Tỉnh An Giang",
+        "code": "30328",
+        "parent_code": "884"
+    },
+    "30331": {
+        "name": "Vĩnh Tế",
+        "type": "xa",
+        "slug": "vinh-te",
+        "name_with_type": "Xã Vĩnh Tế",
+        "path": "Vĩnh Tế, Châu Đốc, An Giang",
+        "path_with_type": "Xã Vĩnh Tế, Thành phố Châu Đốc, Tỉnh An Giang",
+        "code": "30331",
+        "parent_code": "884"
+    },
+    "30334": {
+        "name": "Vĩnh Châu",
+        "type": "xa",
+        "slug": "vinh-chau",
+        "name_with_type": "Xã Vĩnh Châu",
+        "path": "Vĩnh Châu, Châu Đốc, An Giang",
+        "path_with_type": "Xã Vĩnh Châu, Thành phố Châu Đốc, Tỉnh An Giang",
+        "code": "30334",
+        "parent_code": "884"
+    }
+}

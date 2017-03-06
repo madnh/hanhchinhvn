@@ -1,0 +1,142 @@
+{
+    "30337": {
+        "name": "An Phú",
+        "type": "thi-tran",
+        "slug": "an-phu",
+        "name_with_type": "Thị trấn An Phú",
+        "path": "An Phú, An Phú, An Giang",
+        "path_with_type": "Thị trấn An Phú, Huyện An Phú, Tỉnh An Giang",
+        "code": "30337",
+        "parent_code": "886"
+    },
+    "30340": {
+        "name": "Khánh An",
+        "type": "xa",
+        "slug": "khanh-an",
+        "name_with_type": "Xã Khánh An",
+        "path": "Khánh An, An Phú, An Giang",
+        "path_with_type": "Xã Khánh An, Huyện An Phú, Tỉnh An Giang",
+        "code": "30340",
+        "parent_code": "886"
+    },
+    "30341": {
+        "name": "Long Bình",
+        "type": "thi-tran",
+        "slug": "long-binh",
+        "name_with_type": "Thị Trấn Long Bình",
+        "path": "Long Bình, An Phú, An Giang",
+        "path_with_type": "Thị Trấn Long Bình, Huyện An Phú, Tỉnh An Giang",
+        "code": "30341",
+        "parent_code": "886"
+    },
+    "30343": {
+        "name": "Khánh Bình",
+        "type": "xa",
+        "slug": "khanh-binh",
+        "name_with_type": "Xã Khánh Bình",
+        "path": "Khánh Bình, An Phú, An Giang",
+        "path_with_type": "Xã Khánh Bình, Huyện An Phú, Tỉnh An Giang",
+        "code": "30343",
+        "parent_code": "886"
+    },
+    "30346": {
+        "name": "Quốc Thái",
+        "type": "xa",
+        "slug": "quoc-thai",
+        "name_with_type": "Xã Quốc Thái",
+        "path": "Quốc Thái, An Phú, An Giang",
+        "path_with_type": "Xã Quốc Thái, Huyện An Phú, Tỉnh An Giang",
+        "code": "30346",
+        "parent_code": "886"
+    },
+    "30349": {
+        "name": "Nhơn Hội",
+        "type": "xa",
+        "slug": "nhon-hoi",
+        "name_with_type": "Xã Nhơn Hội",
+        "path": "Nhơn Hội, An Phú, An Giang",
+        "path_with_type": "Xã Nhơn Hội, Huyện An Phú, Tỉnh An Giang",
+        "code": "30349",
+        "parent_code": "886"
+    },
+    "30352": {
+        "name": "Phú Hữu",
+        "type": "xa",
+        "slug": "phu-huu",
+        "name_with_type": "Xã Phú Hữu",
+        "path": "Phú Hữu, An Phú, An Giang",
+        "path_with_type": "Xã Phú Hữu, Huyện An Phú, Tỉnh An Giang",
+        "code": "30352",
+        "parent_code": "886"
+    },
+    "30355": {
+        "name": "Phú Hội",
+        "type": "xa",
+        "slug": "phu-hoi",
+        "name_with_type": "Xã Phú Hội",
+        "path": "Phú Hội, An Phú, An Giang",
+        "path_with_type": "Xã Phú Hội, Huyện An Phú, Tỉnh An Giang",
+        "code": "30355",
+        "parent_code": "886"
+    },
+    "30358": {
+        "name": "Phước Hưng",
+        "type": "xa",
+        "slug": "phuoc-hung",
+        "name_with_type": "Xã Phước Hưng",
+        "path": "Phước Hưng, An Phú, An Giang",
+        "path_with_type": "Xã Phước Hưng, Huyện An Phú, Tỉnh An Giang",
+        "code": "30358",
+        "parent_code": "886"
+    },
+    "30361": {
+        "name": "Vĩnh Lộc",
+        "type": "xa",
+        "slug": "vinh-loc",
+        "name_with_type": "Xã Vĩnh Lộc",
+        "path": "Vĩnh Lộc, An Phú, An Giang",
+        "path_with_type": "Xã Vĩnh Lộc, Huyện An Phú, Tỉnh An Giang",
+        "code": "30361",
+        "parent_code": "886"
+    },
+    "30364": {
+        "name": "Vĩnh Hậu",
+        "type": "xa",
+        "slug": "vinh-hau",
+        "name_with_type": "Xã Vĩnh Hậu",
+        "path": "Vĩnh Hậu, An Phú, An Giang",
+        "path_with_type": "Xã Vĩnh Hậu, Huyện An Phú, Tỉnh An Giang",
+        "code": "30364",
+        "parent_code": "886"
+    },
+    "30367": {
+        "name": "Vĩnh Trường",
+        "type": "xa",
+        "slug": "vinh-truong",
+        "name_with_type": "Xã Vĩnh Trường",
+        "path": "Vĩnh Trường, An Phú, An Giang",
+        "path_with_type": "Xã Vĩnh Trường, Huyện An Phú, Tỉnh An Giang",
+        "code": "30367",
+        "parent_code": "886"
+    },
+    "30370": {
+        "name": "Vĩnh Hội Đông",
+        "type": "xa",
+        "slug": "vinh-hoi-dong",
+        "name_with_type": "Xã Vĩnh Hội Đông",
+        "path": "Vĩnh Hội Đông, An Phú, An Giang",
+        "path_with_type": "Xã Vĩnh Hội Đông, Huyện An Phú, Tỉnh An Giang",
+        "code": "30370",
+        "parent_code": "886"
+    },
+    "30373": {
+        "name": "Đa Phước",
+        "type": "xa",
+        "slug": "da-phuoc",
+        "name_with_type": "Xã Đa Phước",
+        "path": "Đa Phước, An Phú, An Giang",
+        "path_with_type": "Xã Đa Phước, Huyện An Phú, Tỉnh An Giang",
+        "code": "30373",
+        "parent_code": "886"
+    }
+}

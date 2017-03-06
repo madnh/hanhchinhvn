@@ -1,0 +1,132 @@
+{
+    "30589": {
+        "name": "An Châu",
+        "type": "thi-tran",
+        "slug": "an-chau",
+        "name_with_type": "Thị trấn An Châu",
+        "path": "An Châu, Châu Thành, An Giang",
+        "path_with_type": "Thị trấn An Châu, Huyện Châu Thành, Tỉnh An Giang",
+        "code": "30589",
+        "parent_code": "892"
+    },
+    "30592": {
+        "name": "An Hòa",
+        "type": "xa",
+        "slug": "an-hoa",
+        "name_with_type": "Xã An Hòa",
+        "path": "An Hòa, Châu Thành, An Giang",
+        "path_with_type": "Xã An Hòa, Huyện Châu Thành, Tỉnh An Giang",
+        "code": "30592",
+        "parent_code": "892"
+    },
+    "30595": {
+        "name": "Cần Đăng",
+        "type": "xa",
+        "slug": "can-dang",
+        "name_with_type": "Xã Cần Đăng",
+        "path": "Cần Đăng, Châu Thành, An Giang",
+        "path_with_type": "Xã Cần Đăng, Huyện Châu Thành, Tỉnh An Giang",
+        "code": "30595",
+        "parent_code": "892"
+    },
+    "30598": {
+        "name": "Vĩnh Hanh",
+        "type": "xa",
+        "slug": "vinh-hanh",
+        "name_with_type": "Xã Vĩnh Hanh",
+        "path": "Vĩnh Hanh, Châu Thành, An Giang",
+        "path_with_type": "Xã Vĩnh Hanh, Huyện Châu Thành, Tỉnh An Giang",
+        "code": "30598",
+        "parent_code": "892"
+    },
+    "30601": {
+        "name": "Bình Thạnh",
+        "type": "xa",
+        "slug": "binh-thanh",
+        "name_with_type": "Xã Bình Thạnh",
+        "path": "Bình Thạnh, Châu Thành, An Giang",
+        "path_with_type": "Xã Bình Thạnh, Huyện Châu Thành, Tỉnh An Giang",
+        "code": "30601",
+        "parent_code": "892"
+    },
+    "30604": {
+        "name": "Vĩnh Bình",
+        "type": "xa",
+        "slug": "vinh-binh",
+        "name_with_type": "Xã Vĩnh Bình",
+        "path": "Vĩnh Bình, Châu Thành, An Giang",
+        "path_with_type": "Xã Vĩnh Bình, Huyện Châu Thành, Tỉnh An Giang",
+        "code": "30604",
+        "parent_code": "892"
+    },
+    "30607": {
+        "name": "Bình Hòa",
+        "type": "xa",
+        "slug": "binh-hoa",
+        "name_with_type": "Xã Bình Hòa",
+        "path": "Bình Hòa, Châu Thành, An Giang",
+        "path_with_type": "Xã Bình Hòa, Huyện Châu Thành, Tỉnh An Giang",
+        "code": "30607",
+        "parent_code": "892"
+    },
+    "30610": {
+        "name": "Vĩnh An",
+        "type": "xa",
+        "slug": "vinh-an",
+        "name_with_type": "Xã Vĩnh An",
+        "path": "Vĩnh An, Châu Thành, An Giang",
+        "path_with_type": "Xã Vĩnh An, Huyện Châu Thành, Tỉnh An Giang",
+        "code": "30610",
+        "parent_code": "892"
+    },
+    "30613": {
+        "name": "Hòa Bình Thạnh",
+        "type": "xa",
+        "slug": "hoa-binh-thanh",
+        "name_with_type": "Xã Hòa Bình Thạnh",
+        "path": "Hòa Bình Thạnh, Châu Thành, An Giang",
+        "path_with_type": "Xã Hòa Bình Thạnh, Huyện Châu Thành, Tỉnh An Giang",
+        "code": "30613",
+        "parent_code": "892"
+    },
+    "30616": {
+        "name": "Vĩnh Lợi",
+        "type": "xa",
+        "slug": "vinh-loi",
+        "name_with_type": "Xã Vĩnh Lợi",
+        "path": "Vĩnh Lợi, Châu Thành, An Giang",
+        "path_with_type": "Xã Vĩnh Lợi, Huyện Châu Thành, Tỉnh An Giang",
+        "code": "30616",
+        "parent_code": "892"
+    },
+    "30619": {
+        "name": "Vĩnh Nhuận",
+        "type": "xa",
+        "slug": "vinh-nhuan",
+        "name_with_type": "Xã Vĩnh Nhuận",
+        "path": "Vĩnh Nhuận, Châu Thành, An Giang",
+        "path_with_type": "Xã Vĩnh Nhuận, Huyện Châu Thành, Tỉnh An Giang",
+        "code": "30619",
+        "parent_code": "892"
+    },
+    "30622": {
+        "name": "Tân Phú",
+        "type": "xa",
+        "slug": "tan-phu",
+        "name_with_type": "Xã Tân Phú",
+        "path": "Tân Phú, Châu Thành, An Giang",
+        "path_with_type": "Xã Tân Phú, Huyện Châu Thành, Tỉnh An Giang",
+        "code": "30622",
+        "parent_code": "892"
+    },
+    "30625": {
+        "name": "Vĩnh Thành",
+        "type": "xa",
+        "slug": "vinh-thanh",
+        "name_with_type": "Xã Vĩnh Thành",
+        "path": "Vĩnh Thành, Châu Thành, An Giang",
+        "path_with_type": "Xã Vĩnh Thành, Huyện Châu Thành, Tỉnh An Giang",
+        "code": "30625",
+        "parent_code": "892"
+    }
+}

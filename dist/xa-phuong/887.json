@@ -1,0 +1,142 @@
+{
+    "30376": {
+        "name": "Long Thạnh",
+        "type": "phuong",
+        "slug": "long-thanh",
+        "name_with_type": "Phường Long Thạnh",
+        "path": "Long Thạnh, Tân Châu, An Giang",
+        "path_with_type": "Phường Long Thạnh, Thị xã Tân Châu, Tỉnh An Giang",
+        "code": "30376",
+        "parent_code": "887"
+    },
+    "30377": {
+        "name": "Long Hưng",
+        "type": "phuong",
+        "slug": "long-hung",
+        "name_with_type": "Phường Long Hưng",
+        "path": "Long Hưng, Tân Châu, An Giang",
+        "path_with_type": "Phường Long Hưng, Thị xã Tân Châu, Tỉnh An Giang",
+        "code": "30377",
+        "parent_code": "887"
+    },
+    "30378": {
+        "name": "Long Châu",
+        "type": "phuong",
+        "slug": "long-chau",
+        "name_with_type": "Phường Long Châu",
+        "path": "Long Châu, Tân Châu, An Giang",
+        "path_with_type": "Phường Long Châu, Thị xã Tân Châu, Tỉnh An Giang",
+        "code": "30378",
+        "parent_code": "887"
+    },
+    "30379": {
+        "name": "Phú Lộc",
+        "type": "xa",
+        "slug": "phu-loc",
+        "name_with_type": "Xã Phú Lộc",
+        "path": "Phú Lộc, Tân Châu, An Giang",
+        "path_with_type": "Xã Phú Lộc, Thị xã Tân Châu, Tỉnh An Giang",
+        "code": "30379",
+        "parent_code": "887"
+    },
+    "30382": {
+        "name": "Vĩnh Xương",
+        "type": "xa",
+        "slug": "vinh-xuong",
+        "name_with_type": "Xã Vĩnh Xương",
+        "path": "Vĩnh Xương, Tân Châu, An Giang",
+        "path_with_type": "Xã Vĩnh Xương, Thị xã Tân Châu, Tỉnh An Giang",
+        "code": "30382",
+        "parent_code": "887"
+    },
+    "30385": {
+        "name": "Vĩnh Hòa",
+        "type": "xa",
+        "slug": "vinh-hoa",
+        "name_with_type": "Xã Vĩnh Hòa",
+        "path": "Vĩnh Hòa, Tân Châu, An Giang",
+        "path_with_type": "Xã Vĩnh Hòa, Thị xã Tân Châu, Tỉnh An Giang",
+        "code": "30385",
+        "parent_code": "887"
+    },
+    "30387": {
+        "name": "Tân Thạnh",
+        "type": "xa",
+        "slug": "tan-thanh",
+        "name_with_type": "Xã Tân Thạnh",
+        "path": "Tân Thạnh, Tân Châu, An Giang",
+        "path_with_type": "Xã Tân Thạnh, Thị xã Tân Châu, Tỉnh An Giang",
+        "code": "30387",
+        "parent_code": "887"
+    },
+    "30388": {
+        "name": "Tân An",
+        "type": "xa",
+        "slug": "tan-an",
+        "name_with_type": "Xã Tân An",
+        "path": "Tân An, Tân Châu, An Giang",
+        "path_with_type": "Xã Tân An, Thị xã Tân Châu, Tỉnh An Giang",
+        "code": "30388",
+        "parent_code": "887"
+    },
+    "30391": {
+        "name": "Long An",
+        "type": "xa",
+        "slug": "long-an",
+        "name_with_type": "Xã Long An",
+        "path": "Long An, Tân Châu, An Giang",
+        "path_with_type": "Xã Long An, Thị xã Tân Châu, Tỉnh An Giang",
+        "code": "30391",
+        "parent_code": "887"
+    },
+    "30394": {
+        "name": "Long Phú",
+        "type": "phuong",
+        "slug": "long-phu",
+        "name_with_type": "Phường Long Phú",
+        "path": "Long Phú, Tân Châu, An Giang",
+        "path_with_type": "Phường Long Phú, Thị xã Tân Châu, Tỉnh An Giang",
+        "code": "30394",
+        "parent_code": "887"
+    },
+    "30397": {
+        "name": "Châu Phong",
+        "type": "xa",
+        "slug": "chau-phong",
+        "name_with_type": "Xã Châu Phong",
+        "path": "Châu Phong, Tân Châu, An Giang",
+        "path_with_type": "Xã Châu Phong, Thị xã Tân Châu, Tỉnh An Giang",
+        "code": "30397",
+        "parent_code": "887"
+    },
+    "30400": {
+        "name": "Phú Vĩnh",
+        "type": "xa",
+        "slug": "phu-vinh",
+        "name_with_type": "Xã Phú Vĩnh",
+        "path": "Phú Vĩnh, Tân Châu, An Giang",
+        "path_with_type": "Xã Phú Vĩnh, Thị xã Tân Châu, Tỉnh An Giang",
+        "code": "30400",
+        "parent_code": "887"
+    },
+    "30403": {
+        "name": "Lê Chánh",
+        "type": "xa",
+        "slug": "le-chanh",
+        "name_with_type": "Xã Lê Chánh",
+        "path": "Lê Chánh, Tân Châu, An Giang",
+        "path_with_type": "Xã Lê Chánh, Thị xã Tân Châu, Tỉnh An Giang",
+        "code": "30403",
+        "parent_code": "887"
+    },
+    "30412": {
+        "name": "Long Sơn",
+        "type": "phuong",
+        "slug": "long-son",
+        "name_with_type": "Phường Long Sơn",
+        "path": "Long Sơn, Tân Châu, An Giang",
+        "path_with_type": "Phường Long Sơn, Thị xã Tân Châu, Tỉnh An Giang",
+        "code": "30412",
+        "parent_code": "887"
+    }
+}

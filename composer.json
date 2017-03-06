@@ -1,0 +1,16 @@
+{
+  "name": "madnh/hanhchinhvn",
+  "description": "Phân cấp hành chính Việt Nam",
+  "require-dev": {
+    "phpoffice/phpexcel": "^1.8",
+    "symfony/var-dumper": "^3.2",
+    "cocur/slugify": "^2.4"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "MaDnh",
+      "email": "dodanhmanh@gmail.com"
+    }
+  ]
+}
