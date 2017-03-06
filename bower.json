@@ -1,0 +1,22 @@
+{
+  "name": "hanhchinhvn",
+  "homepage": "https://github.com/madnh/hanhchinhvn",
+  "description": "Phân cấp hành chính Việt Nam export từ nguồn Tổng Cục Thống Kê.",
+  "main": "",
+  "keywords": [
+    "hành chính",
+    "Việt Nam"
+  ],
+  "authors": [
+    "MaDnh <dodanhmanh@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "excel_files"
+  ]
+}

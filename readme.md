@@ -1,4 +1,4 @@
-# Phân Cấp Hành Chính Việt Nam
+# Phân cấp hành chính Việt Nam
 
 Phân cấp hành chính Việt Nam export từ nguồn Tổng Cục Thống Kê.
 
