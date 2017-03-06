@@ -1,0 +1,122 @@
+{
+    "19960": {
+        "name": "Phú Bài",
+        "type": "phuong",
+        "slug": "phu-bai",
+        "name_with_type": "Phường Phú Bài",
+        "path": "Phú Bài, Hương Thủy, Thừa Thiên Huế",
+        "path_with_type": "Phường Phú Bài, Thị xã Hương Thủy, Tỉnh Thừa Thiên Huế",
+        "code": "19960",
+        "parent_code": "479"
+    },
+    "19963": {
+        "name": "Thủy Vân",
+        "type": "xa",
+        "slug": "thuy-van",
+        "name_with_type": "Xã Thủy Vân",
+        "path": "Thủy Vân, Hương Thủy, Thừa Thiên Huế",
+        "path_with_type": "Xã Thủy Vân, Thị xã Hương Thủy, Tỉnh Thừa Thiên Huế",
+        "code": "19963",
+        "parent_code": "479"
+    },
+    "19966": {
+        "name": "Thủy Thanh",
+        "type": "xa",
+        "slug": "thuy-thanh",
+        "name_with_type": "Xã Thủy Thanh",
+        "path": "Thủy Thanh, Hương Thủy, Thừa Thiên Huế",
+        "path_with_type": "Xã Thủy Thanh, Thị xã Hương Thủy, Tỉnh Thừa Thiên Huế",
+        "code": "19966",
+        "parent_code": "479"
+    },
+    "19969": {
+        "name": "Thủy Dương",
+        "type": "phuong",
+        "slug": "thuy-duong",
+        "name_with_type": "Phường Thủy Dương",
+        "path": "Thủy Dương, Hương Thủy, Thừa Thiên Huế",
+        "path_with_type": "Phường Thủy Dương, Thị xã Hương Thủy, Tỉnh Thừa Thiên Huế",
+        "code": "19969",
+        "parent_code": "479"
+    },
+    "19972": {
+        "name": "Thủy Phương",
+        "type": "phuong",
+        "slug": "thuy-phuong",
+        "name_with_type": "Phường Thủy Phương",
+        "path": "Thủy Phương, Hương Thủy, Thừa Thiên Huế",
+        "path_with_type": "Phường Thủy Phương, Thị xã Hương Thủy, Tỉnh Thừa Thiên Huế",
+        "code": "19972",
+        "parent_code": "479"
+    },
+    "19975": {
+        "name": "Thủy Châu",
+        "type": "phuong",
+        "slug": "thuy-chau",
+        "name_with_type": "Phường Thủy Châu",
+        "path": "Thủy Châu, Hương Thủy, Thừa Thiên Huế",
+        "path_with_type": "Phường Thủy Châu, Thị xã Hương Thủy, Tỉnh Thừa Thiên Huế",
+        "code": "19975",
+        "parent_code": "479"
+    },
+    "19978": {
+        "name": "Thủy Lương",
+        "type": "phuong",
+        "slug": "thuy-luong",
+        "name_with_type": "Phường Thủy Lương",
+        "path": "Thủy Lương, Hương Thủy, Thừa Thiên Huế",
+        "path_with_type": "Phường Thủy Lương, Thị xã Hương Thủy, Tỉnh Thừa Thiên Huế",
+        "code": "19978",
+        "parent_code": "479"
+    },
+    "19981": {
+        "name": "Thủy Bằng",
+        "type": "xa",
+        "slug": "thuy-bang",
+        "name_with_type": "Xã Thủy Bằng",
+        "path": "Thủy Bằng, Hương Thủy, Thừa Thiên Huế",
+        "path_with_type": "Xã Thủy Bằng, Thị xã Hương Thủy, Tỉnh Thừa Thiên Huế",
+        "code": "19981",
+        "parent_code": "479"
+    },
+    "19984": {
+        "name": "Thủy Tân",
+        "type": "xa",
+        "slug": "thuy-tan",
+        "name_with_type": "Xã Thủy Tân",
+        "path": "Thủy Tân, Hương Thủy, Thừa Thiên Huế",
+        "path_with_type": "Xã Thủy Tân, Thị xã Hương Thủy, Tỉnh Thừa Thiên Huế",
+        "code": "19984",
+        "parent_code": "479"
+    },
+    "19987": {
+        "name": "Thủy Phù",
+        "type": "xa",
+        "slug": "thuy-phu",
+        "name_with_type": "Xã Thủy Phù",
+        "path": "Thủy Phù, Hương Thủy, Thừa Thiên Huế",
+        "path_with_type": "Xã Thủy Phù, Thị xã Hương Thủy, Tỉnh Thừa Thiên Huế",
+        "code": "19987",
+        "parent_code": "479"
+    },
+    "19990": {
+        "name": "Phú Sơn",
+        "type": "xa",
+        "slug": "phu-son",
+        "name_with_type": "Xã Phú Sơn",
+        "path": "Phú Sơn, Hương Thủy, Thừa Thiên Huế",
+        "path_with_type": "Xã Phú Sơn, Thị xã Hương Thủy, Tỉnh Thừa Thiên Huế",
+        "code": "19990",
+        "parent_code": "479"
+    },
+    "19993": {
+        "name": "Dương Hòa",
+        "type": "xa",
+        "slug": "duong-hoa",
+        "name_with_type": "Xã Dương Hòa",
+        "path": "Dương Hòa, Hương Thủy, Thừa Thiên Huế",
+        "path_with_type": "Xã Dương Hòa, Thị xã Hương Thủy, Tỉnh Thừa Thiên Huế",
+        "code": "19993",
+        "parent_code": "479"
+    }
+}

@@ -1,0 +1,232 @@
+{
+    "04882": {
+        "name": "Tân Dân",
+        "type": "xa",
+        "slug": "tan-dan",
+        "name_with_type": "Xã Tân Dân",
+        "path": "Tân Dân, Mai Châu, Hoà Bình",
+        "path_with_type": "Xã Tân Dân, Huyện Mai Châu, Tỉnh Hoà Bình",
+        "code": "04882",
+        "parent_code": "156"
+    },
+    "05200": {
+        "name": "Mai Châu",
+        "type": "thi-tran",
+        "slug": "mai-chau",
+        "name_with_type": "Thị trấn Mai Châu",
+        "path": "Mai Châu, Mai Châu, Hoà Bình",
+        "path_with_type": "Thị trấn Mai Châu, Huyện Mai Châu, Tỉnh Hoà Bình",
+        "code": "05200",
+        "parent_code": "156"
+    },
+    "05203": {
+        "name": "Tân Mai",
+        "type": "xa",
+        "slug": "tan-mai",
+        "name_with_type": "Xã Tân Mai",
+        "path": "Tân Mai, Mai Châu, Hoà Bình",
+        "path_with_type": "Xã Tân Mai, Huyện Mai Châu, Tỉnh Hoà Bình",
+        "code": "05203",
+        "parent_code": "156"
+    },
+    "05206": {
+        "name": "Phúc Sạn",
+        "type": "xa",
+        "slug": "phuc-san",
+        "name_with_type": "Xã Phúc Sạn",
+        "path": "Phúc Sạn, Mai Châu, Hoà Bình",
+        "path_with_type": "Xã Phúc Sạn, Huyện Mai Châu, Tỉnh Hoà Bình",
+        "code": "05206",
+        "parent_code": "156"
+    },
+    "05209": {
+        "name": "Pà Cò",
+        "type": "xa",
+        "slug": "pa-co",
+        "name_with_type": "Xã Pà Cò",
+        "path": "Pà Cò, Mai Châu, Hoà Bình",
+        "path_with_type": "Xã Pà Cò, Huyện Mai Châu, Tỉnh Hoà Bình",
+        "code": "05209",
+        "parent_code": "156"
+    },
+    "05212": {
+        "name": "Hang Kia",
+        "type": "xa",
+        "slug": "hang-kia",
+        "name_with_type": "Xã Hang Kia",
+        "path": "Hang Kia, Mai Châu, Hoà Bình",
+        "path_with_type": "Xã Hang Kia, Huyện Mai Châu, Tỉnh Hoà Bình",
+        "code": "05212",
+        "parent_code": "156"
+    },
+    "05215": {
+        "name": "Ba Khan",
+        "type": "xa",
+        "slug": "ba-khan",
+        "name_with_type": "Xã Ba Khan",
+        "path": "Ba Khan, Mai Châu, Hoà Bình",
+        "path_with_type": "Xã Ba Khan, Huyện Mai Châu, Tỉnh Hoà Bình",
+        "code": "05215",
+        "parent_code": "156"
+    },
+    "05218": {
+        "name": "Tân Sơn",
+        "type": "xa",
+        "slug": "tan-son",
+        "name_with_type": "Xã Tân Sơn",
+        "path": "Tân Sơn, Mai Châu, Hoà Bình",
+        "path_with_type": "Xã Tân Sơn, Huyện Mai Châu, Tỉnh Hoà Bình",
+        "code": "05218",
+        "parent_code": "156"
+    },
+    "05221": {
+        "name": "Đồng Bảng",
+        "type": "xa",
+        "slug": "dong-bang",
+        "name_with_type": "Xã Đồng Bảng",
+        "path": "Đồng Bảng, Mai Châu, Hoà Bình",
+        "path_with_type": "Xã Đồng Bảng, Huyện Mai Châu, Tỉnh Hoà Bình",
+        "code": "05221",
+        "parent_code": "156"
+    },
+    "05224": {
+        "name": "Cun Pheo",
+        "type": "xa",
+        "slug": "cun-pheo",
+        "name_with_type": "Xã Cun Pheo",
+        "path": "Cun Pheo, Mai Châu, Hoà Bình",
+        "path_with_type": "Xã Cun Pheo, Huyện Mai Châu, Tỉnh Hoà Bình",
+        "code": "05224",
+        "parent_code": "156"
+    },
+    "05227": {
+        "name": "Bao La",
+        "type": "xa",
+        "slug": "bao-la",
+        "name_with_type": "Xã Bao La",
+        "path": "Bao La, Mai Châu, Hoà Bình",
+        "path_with_type": "Xã Bao La, Huyện Mai Châu, Tỉnh Hoà Bình",
+        "code": "05227",
+        "parent_code": "156"
+    },
+    "05230": {
+        "name": "Piềng Vế",
+        "type": "xa",
+        "slug": "pieng-ve",
+        "name_with_type": "Xã Piềng Vế",
+        "path": "Piềng Vế, Mai Châu, Hoà Bình",
+        "path_with_type": "Xã Piềng Vế, Huyện Mai Châu, Tỉnh Hoà Bình",
+        "code": "05230",
+        "parent_code": "156"
+    },
+    "05233": {
+        "name": "Tòng Đậu",
+        "type": "xa",
+        "slug": "tong-dau",
+        "name_with_type": "Xã Tòng Đậu",
+        "path": "Tòng Đậu, Mai Châu, Hoà Bình",
+        "path_with_type": "Xã Tòng Đậu, Huyện Mai Châu, Tỉnh Hoà Bình",
+        "code": "05233",
+        "parent_code": "156"
+    },
+    "05236": {
+        "name": "Nà Mèo",
+        "type": "xa",
+        "slug": "na-meo",
+        "name_with_type": "Xã Nà Mèo",
+        "path": "Nà Mèo, Mai Châu, Hoà Bình",
+        "path_with_type": "Xã Nà Mèo, Huyện Mai Châu, Tỉnh Hoà Bình",
+        "code": "05236",
+        "parent_code": "156"
+    },
+    "05239": {
+        "name": "Thung Khe",
+        "type": "xa",
+        "slug": "thung-khe",
+        "name_with_type": "Xã Thung Khe",
+        "path": "Thung Khe, Mai Châu, Hoà Bình",
+        "path_with_type": "Xã Thung Khe, Huyện Mai Châu, Tỉnh Hoà Bình",
+        "code": "05239",
+        "parent_code": "156"
+    },
+    "05242": {
+        "name": "Nà Phòn",
+        "type": "xa",
+        "slug": "na-phon",
+        "name_with_type": "Xã Nà Phòn",
+        "path": "Nà Phòn, Mai Châu, Hoà Bình",
+        "path_with_type": "Xã Nà Phòn, Huyện Mai Châu, Tỉnh Hoà Bình",
+        "code": "05242",
+        "parent_code": "156"
+    },
+    "05245": {
+        "name": "Săm Khóe",
+        "type": "xa",
+        "slug": "sam-khoe",
+        "name_with_type": "Xã Săm Khóe",
+        "path": "Săm Khóe, Mai Châu, Hoà Bình",
+        "path_with_type": "Xã Săm Khóe, Huyện Mai Châu, Tỉnh Hoà Bình",
+        "code": "05245",
+        "parent_code": "156"
+    },
+    "05248": {
+        "name": "Chiềng Châu",
+        "type": "xa",
+        "slug": "chieng-chau",
+        "name_with_type": "Xã Chiềng Châu",
+        "path": "Chiềng Châu, Mai Châu, Hoà Bình",
+        "path_with_type": "Xã Chiềng Châu, Huyện Mai Châu, Tỉnh Hoà Bình",
+        "code": "05248",
+        "parent_code": "156"
+    },
+    "05251": {
+        "name": "Mai Hạ",
+        "type": "xa",
+        "slug": "mai-ha",
+        "name_with_type": "Xã Mai Hạ",
+        "path": "Mai Hạ, Mai Châu, Hoà Bình",
+        "path_with_type": "Xã Mai Hạ, Huyện Mai Châu, Tỉnh Hoà Bình",
+        "code": "05251",
+        "parent_code": "156"
+    },
+    "05254": {
+        "name": "Nong Luông",
+        "type": "xa",
+        "slug": "nong-luong",
+        "name_with_type": "Xã Nong Luông",
+        "path": "Nong Luông, Mai Châu, Hoà Bình",
+        "path_with_type": "Xã Nong Luông, Huyện Mai Châu, Tỉnh Hoà Bình",
+        "code": "05254",
+        "parent_code": "156"
+    },
+    "05257": {
+        "name": "Mai Hịch",
+        "type": "xa",
+        "slug": "mai-hich",
+        "name_with_type": "Xã Mai Hịch",
+        "path": "Mai Hịch, Mai Châu, Hoà Bình",
+        "path_with_type": "Xã Mai Hịch, Huyện Mai Châu, Tỉnh Hoà Bình",
+        "code": "05257",
+        "parent_code": "156"
+    },
+    "05260": {
+        "name": "Pù Pin",
+        "type": "xa",
+        "slug": "pu-pin",
+        "name_with_type": "Xã Pù Pin",
+        "path": "Pù Pin, Mai Châu, Hoà Bình",
+        "path_with_type": "Xã Pù Pin, Huyện Mai Châu, Tỉnh Hoà Bình",
+        "code": "05260",
+        "parent_code": "156"
+    },
+    "05263": {
+        "name": "Vạn Mai",
+        "type": "xa",
+        "slug": "van-mai",
+        "name_with_type": "Xã Vạn Mai",
+        "path": "Vạn Mai, Mai Châu, Hoà Bình",
+        "path_with_type": "Xã Vạn Mai, Huyện Mai Châu, Tỉnh Hoà Bình",
+        "code": "05263",
+        "parent_code": "156"
+    }
+}

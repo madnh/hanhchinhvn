@@ -1,0 +1,162 @@
+{
+    "00640": {
+        "name": "Văn Điển",
+        "type": "thi-tran",
+        "slug": "van-dien",
+        "name_with_type": "Thị trấn Văn Điển",
+        "path": "Văn Điển, Thanh Trì, Hà Nội",
+        "path_with_type": "Thị trấn Văn Điển, Huyện Thanh Trì, Thành phố Hà Nội",
+        "code": "00640",
+        "parent_code": "020"
+    },
+    "00643": {
+        "name": "Tân Triều",
+        "type": "xa",
+        "slug": "tan-trieu",
+        "name_with_type": "Xã Tân Triều",
+        "path": "Tân Triều, Thanh Trì, Hà Nội",
+        "path_with_type": "Xã Tân Triều, Huyện Thanh Trì, Thành phố Hà Nội",
+        "code": "00643",
+        "parent_code": "020"
+    },
+    "00646": {
+        "name": "Thanh Liệt",
+        "type": "xa",
+        "slug": "thanh-liet",
+        "name_with_type": "Xã Thanh Liệt",
+        "path": "Thanh Liệt, Thanh Trì, Hà Nội",
+        "path_with_type": "Xã Thanh Liệt, Huyện Thanh Trì, Thành phố Hà Nội",
+        "code": "00646",
+        "parent_code": "020"
+    },
+    "00649": {
+        "name": "Tả Thanh Oai",
+        "type": "xa",
+        "slug": "ta-thanh-oai",
+        "name_with_type": "Xã Tả Thanh Oai",
+        "path": "Tả Thanh Oai, Thanh Trì, Hà Nội",
+        "path_with_type": "Xã Tả Thanh Oai, Huyện Thanh Trì, Thành phố Hà Nội",
+        "code": "00649",
+        "parent_code": "020"
+    },
+    "00652": {
+        "name": "Hữu Hoà",
+        "type": "xa",
+        "slug": "huu-hoa",
+        "name_with_type": "Xã Hữu Hoà",
+        "path": "Hữu Hoà, Thanh Trì, Hà Nội",
+        "path_with_type": "Xã Hữu Hoà, Huyện Thanh Trì, Thành phố Hà Nội",
+        "code": "00652",
+        "parent_code": "020"
+    },
+    "00655": {
+        "name": "Tam Hiệp",
+        "type": "xa",
+        "slug": "tam-hiep",
+        "name_with_type": "Xã Tam Hiệp",
+        "path": "Tam Hiệp, Thanh Trì, Hà Nội",
+        "path_with_type": "Xã Tam Hiệp, Huyện Thanh Trì, Thành phố Hà Nội",
+        "code": "00655",
+        "parent_code": "020"
+    },
+    "00658": {
+        "name": "Tứ Hiệp",
+        "type": "xa",
+        "slug": "tu-hiep",
+        "name_with_type": "Xã Tứ Hiệp",
+        "path": "Tứ Hiệp, Thanh Trì, Hà Nội",
+        "path_with_type": "Xã Tứ Hiệp, Huyện Thanh Trì, Thành phố Hà Nội",
+        "code": "00658",
+        "parent_code": "020"
+    },
+    "00661": {
+        "name": "Yên Mỹ",
+        "type": "xa",
+        "slug": "yen-my",
+        "name_with_type": "Xã Yên Mỹ",
+        "path": "Yên Mỹ, Thanh Trì, Hà Nội",
+        "path_with_type": "Xã Yên Mỹ, Huyện Thanh Trì, Thành phố Hà Nội",
+        "code": "00661",
+        "parent_code": "020"
+    },
+    "00664": {
+        "name": "Vĩnh Quỳnh",
+        "type": "xa",
+        "slug": "vinh-quynh",
+        "name_with_type": "Xã Vĩnh Quỳnh",
+        "path": "Vĩnh Quỳnh, Thanh Trì, Hà Nội",
+        "path_with_type": "Xã Vĩnh Quỳnh, Huyện Thanh Trì, Thành phố Hà Nội",
+        "code": "00664",
+        "parent_code": "020"
+    },
+    "00667": {
+        "name": "Ngũ Hiệp",
+        "type": "xa",
+        "slug": "ngu-hiep",
+        "name_with_type": "Xã Ngũ Hiệp",
+        "path": "Ngũ Hiệp, Thanh Trì, Hà Nội",
+        "path_with_type": "Xã Ngũ Hiệp, Huyện Thanh Trì, Thành phố Hà Nội",
+        "code": "00667",
+        "parent_code": "020"
+    },
+    "00670": {
+        "name": "Duyên Hà",
+        "type": "xa",
+        "slug": "duyen-ha",
+        "name_with_type": "Xã Duyên Hà",
+        "path": "Duyên Hà, Thanh Trì, Hà Nội",
+        "path_with_type": "Xã Duyên Hà, Huyện Thanh Trì, Thành phố Hà Nội",
+        "code": "00670",
+        "parent_code": "020"
+    },
+    "00673": {
+        "name": "Ngọc Hồi",
+        "type": "xa",
+        "slug": "ngoc-hoi",
+        "name_with_type": "Xã Ngọc Hồi",
+        "path": "Ngọc Hồi, Thanh Trì, Hà Nội",
+        "path_with_type": "Xã Ngọc Hồi, Huyện Thanh Trì, Thành phố Hà Nội",
+        "code": "00673",
+        "parent_code": "020"
+    },
+    "00676": {
+        "name": "Vạn Phúc",
+        "type": "xa",
+        "slug": "van-phuc",
+        "name_with_type": "Xã Vạn Phúc",
+        "path": "Vạn Phúc, Thanh Trì, Hà Nội",
+        "path_with_type": "Xã Vạn Phúc, Huyện Thanh Trì, Thành phố Hà Nội",
+        "code": "00676",
+        "parent_code": "020"
+    },
+    "00679": {
+        "name": "Đại áng",
+        "type": "xa",
+        "slug": "dai-ang",
+        "name_with_type": "Xã Đại áng",
+        "path": "Đại áng, Thanh Trì, Hà Nội",
+        "path_with_type": "Xã Đại áng, Huyện Thanh Trì, Thành phố Hà Nội",
+        "code": "00679",
+        "parent_code": "020"
+    },
+    "00682": {
+        "name": "Liên Ninh",
+        "type": "xa",
+        "slug": "lien-ninh",
+        "name_with_type": "Xã Liên Ninh",
+        "path": "Liên Ninh, Thanh Trì, Hà Nội",
+        "path_with_type": "Xã Liên Ninh, Huyện Thanh Trì, Thành phố Hà Nội",
+        "code": "00682",
+        "parent_code": "020"
+    },
+    "00685": {
+        "name": "Đông Mỹ",
+        "type": "xa",
+        "slug": "dong-my",
+        "name_with_type": "Xã Đông Mỹ",
+        "path": "Đông Mỹ, Thanh Trì, Hà Nội",
+        "path_with_type": "Xã Đông Mỹ, Huyện Thanh Trì, Thành phố Hà Nội",
+        "code": "00685",
+        "parent_code": "020"
+    }
+}

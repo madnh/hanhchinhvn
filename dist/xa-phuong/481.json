@@ -1,0 +1,212 @@
+{
+    "20044": {
+        "name": "A Lưới",
+        "type": "thi-tran",
+        "slug": "a-luoi",
+        "name_with_type": "Thị trấn A Lưới",
+        "path": "A Lưới, A Lưới, Thừa Thiên Huế",
+        "path_with_type": "Thị trấn A Lưới, Huyện A Lưới, Tỉnh Thừa Thiên Huế",
+        "code": "20044",
+        "parent_code": "481"
+    },
+    "20047": {
+        "name": "Hồng Vân",
+        "type": "xa",
+        "slug": "hong-van",
+        "name_with_type": "Xã Hồng Vân",
+        "path": "Hồng Vân, A Lưới, Thừa Thiên Huế",
+        "path_with_type": "Xã Hồng Vân, Huyện A Lưới, Tỉnh Thừa Thiên Huế",
+        "code": "20047",
+        "parent_code": "481"
+    },
+    "20050": {
+        "name": "Hồng Hạ",
+        "type": "xa",
+        "slug": "hong-ha",
+        "name_with_type": "Xã Hồng Hạ",
+        "path": "Hồng Hạ, A Lưới, Thừa Thiên Huế",
+        "path_with_type": "Xã Hồng Hạ, Huyện A Lưới, Tỉnh Thừa Thiên Huế",
+        "code": "20050",
+        "parent_code": "481"
+    },
+    "20053": {
+        "name": "Hồng Kim",
+        "type": "xa",
+        "slug": "hong-kim",
+        "name_with_type": "Xã Hồng Kim",
+        "path": "Hồng Kim, A Lưới, Thừa Thiên Huế",
+        "path_with_type": "Xã Hồng Kim, Huyện A Lưới, Tỉnh Thừa Thiên Huế",
+        "code": "20053",
+        "parent_code": "481"
+    },
+    "20056": {
+        "name": "Hồng Trung",
+        "type": "xa",
+        "slug": "hong-trung",
+        "name_with_type": "Xã Hồng Trung",
+        "path": "Hồng Trung, A Lưới, Thừa Thiên Huế",
+        "path_with_type": "Xã Hồng Trung, Huyện A Lưới, Tỉnh Thừa Thiên Huế",
+        "code": "20056",
+        "parent_code": "481"
+    },
+    "20059": {
+        "name": "Hương Nguyên",
+        "type": "xa",
+        "slug": "huong-nguyen",
+        "name_with_type": "Xã Hương Nguyên",
+        "path": "Hương Nguyên, A Lưới, Thừa Thiên Huế",
+        "path_with_type": "Xã Hương Nguyên, Huyện A Lưới, Tỉnh Thừa Thiên Huế",
+        "code": "20059",
+        "parent_code": "481"
+    },
+    "20062": {
+        "name": "Bắc Sơn",
+        "type": "xa",
+        "slug": "bac-son",
+        "name_with_type": "Xã Bắc Sơn",
+        "path": "Bắc Sơn, A Lưới, Thừa Thiên Huế",
+        "path_with_type": "Xã Bắc Sơn, Huyện A Lưới, Tỉnh Thừa Thiên Huế",
+        "code": "20062",
+        "parent_code": "481"
+    },
+    "20065": {
+        "name": "Hồng Bắc",
+        "type": "xa",
+        "slug": "hong-bac",
+        "name_with_type": "Xã Hồng Bắc",
+        "path": "Hồng Bắc, A Lưới, Thừa Thiên Huế",
+        "path_with_type": "Xã Hồng Bắc, Huyện A Lưới, Tỉnh Thừa Thiên Huế",
+        "code": "20065",
+        "parent_code": "481"
+    },
+    "20068": {
+        "name": "A Ngo",
+        "type": "xa",
+        "slug": "a-ngo",
+        "name_with_type": "Xã A Ngo",
+        "path": "A Ngo, A Lưới, Thừa Thiên Huế",
+        "path_with_type": "Xã A Ngo, Huyện A Lưới, Tỉnh Thừa Thiên Huế",
+        "code": "20068",
+        "parent_code": "481"
+    },
+    "20071": {
+        "name": "Sơn Thủy",
+        "type": "xa",
+        "slug": "son-thuy",
+        "name_with_type": "Xã Sơn Thủy",
+        "path": "Sơn Thủy, A Lưới, Thừa Thiên Huế",
+        "path_with_type": "Xã Sơn Thủy, Huyện A Lưới, Tỉnh Thừa Thiên Huế",
+        "code": "20071",
+        "parent_code": "481"
+    },
+    "20074": {
+        "name": "Phú Vinh",
+        "type": "xa",
+        "slug": "phu-vinh",
+        "name_with_type": "Xã Phú Vinh",
+        "path": "Phú Vinh, A Lưới, Thừa Thiên Huế",
+        "path_with_type": "Xã Phú Vinh, Huyện A Lưới, Tỉnh Thừa Thiên Huế",
+        "code": "20074",
+        "parent_code": "481"
+    },
+    "20077": {
+        "name": "Hồng Quảng",
+        "type": "xa",
+        "slug": "hong-quang",
+        "name_with_type": "Xã Hồng Quảng",
+        "path": "Hồng Quảng, A Lưới, Thừa Thiên Huế",
+        "path_with_type": "Xã Hồng Quảng, Huyện A Lưới, Tỉnh Thừa Thiên Huế",
+        "code": "20077",
+        "parent_code": "481"
+    },
+    "20080": {
+        "name": "Hương Phong",
+        "type": "xa",
+        "slug": "huong-phong",
+        "name_with_type": "Xã Hương Phong",
+        "path": "Hương Phong, A Lưới, Thừa Thiên Huế",
+        "path_with_type": "Xã Hương Phong, Huyện A Lưới, Tỉnh Thừa Thiên Huế",
+        "code": "20080",
+        "parent_code": "481"
+    },
+    "20083": {
+        "name": "Nhâm",
+        "type": "xa",
+        "slug": "nham",
+        "name_with_type": "Xã Nhâm",
+        "path": "Nhâm, A Lưới, Thừa Thiên Huế",
+        "path_with_type": "Xã Nhâm, Huyện A Lưới, Tỉnh Thừa Thiên Huế",
+        "code": "20083",
+        "parent_code": "481"
+    },
+    "20086": {
+        "name": "Hồng Thượng",
+        "type": "xa",
+        "slug": "hong-thuong",
+        "name_with_type": "Xã Hồng Thượng",
+        "path": "Hồng Thượng, A Lưới, Thừa Thiên Huế",
+        "path_with_type": "Xã Hồng Thượng, Huyện A Lưới, Tỉnh Thừa Thiên Huế",
+        "code": "20086",
+        "parent_code": "481"
+    },
+    "20089": {
+        "name": "Hồng Thái",
+        "type": "xa",
+        "slug": "hong-thai",
+        "name_with_type": "Xã Hồng Thái",
+        "path": "Hồng Thái, A Lưới, Thừa Thiên Huế",
+        "path_with_type": "Xã Hồng Thái, Huyện A Lưới, Tỉnh Thừa Thiên Huế",
+        "code": "20089",
+        "parent_code": "481"
+    },
+    "20092": {
+        "name": "Hương Lâm",
+        "type": "xa",
+        "slug": "huong-lam",
+        "name_with_type": "Xã Hương Lâm",
+        "path": "Hương Lâm, A Lưới, Thừa Thiên Huế",
+        "path_with_type": "Xã Hương Lâm, Huyện A Lưới, Tỉnh Thừa Thiên Huế",
+        "code": "20092",
+        "parent_code": "481"
+    },
+    "20095": {
+        "name": "A Roằng",
+        "type": "xa",
+        "slug": "a-roang",
+        "name_with_type": "Xã A Roằng",
+        "path": "A Roằng, A Lưới, Thừa Thiên Huế",
+        "path_with_type": "Xã A Roằng, Huyện A Lưới, Tỉnh Thừa Thiên Huế",
+        "code": "20095",
+        "parent_code": "481"
+    },
+    "20098": {
+        "name": "Đông Sơn",
+        "type": "xa",
+        "slug": "dong-son",
+        "name_with_type": "Xã Đông Sơn",
+        "path": "Đông Sơn, A Lưới, Thừa Thiên Huế",
+        "path_with_type": "Xã Đông Sơn, Huyện A Lưới, Tỉnh Thừa Thiên Huế",
+        "code": "20098",
+        "parent_code": "481"
+    },
+    "20101": {
+        "name": "A Đớt",
+        "type": "xa",
+        "slug": "a-dot",
+        "name_with_type": "Xã A Đớt",
+        "path": "A Đớt, A Lưới, Thừa Thiên Huế",
+        "path_with_type": "Xã A Đớt, Huyện A Lưới, Tỉnh Thừa Thiên Huế",
+        "code": "20101",
+        "parent_code": "481"
+    },
+    "20104": {
+        "name": "Hồng Thủy",
+        "type": "xa",
+        "slug": "hong-thuy",
+        "name_with_type": "Xã Hồng Thủy",
+        "path": "Hồng Thủy, A Lưới, Thừa Thiên Huế",
+        "path_with_type": "Xã Hồng Thủy, Huyện A Lưới, Tỉnh Thừa Thiên Huế",
+        "code": "20104",
+        "parent_code": "481"
+    }
+}

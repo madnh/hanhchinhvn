@@ -1,0 +1,92 @@
+{
+    "474": {
+        "name": "Huế",
+        "type": "thanh-pho",
+        "slug": "hue",
+        "name_with_type": "Thành phố Huế",
+        "path": "Huế, Thừa Thiên Huế",
+        "path_with_type": "Thành phố Huế, Tỉnh Thừa Thiên Huế",
+        "code": "474",
+        "parent_code": "46"
+    },
+    "476": {
+        "name": "Phong Điền",
+        "type": "huyen",
+        "slug": "phong-dien",
+        "name_with_type": "Huyện Phong Điền",
+        "path": "Phong Điền, Thừa Thiên Huế",
+        "path_with_type": "Huyện Phong Điền, Tỉnh Thừa Thiên Huế",
+        "code": "476",
+        "parent_code": "46"
+    },
+    "477": {
+        "name": "Quảng Điền",
+        "type": "huyen",
+        "slug": "quang-dien",
+        "name_with_type": "Huyện Quảng Điền",
+        "path": "Quảng Điền, Thừa Thiên Huế",
+        "path_with_type": "Huyện Quảng Điền, Tỉnh Thừa Thiên Huế",
+        "code": "477",
+        "parent_code": "46"
+    },
+    "478": {
+        "name": "Phú Vang",
+        "type": "huyen",
+        "slug": "phu-vang",
+        "name_with_type": "Huyện Phú Vang",
+        "path": "Phú Vang, Thừa Thiên Huế",
+        "path_with_type": "Huyện Phú Vang, Tỉnh Thừa Thiên Huế",
+        "code": "478",
+        "parent_code": "46"
+    },
+    "479": {
+        "name": "Hương Thủy",
+        "type": "thi-xa",
+        "slug": "huong-thuy",
+        "name_with_type": "Thị xã Hương Thủy",
+        "path": "Hương Thủy, Thừa Thiên Huế",
+        "path_with_type": "Thị xã Hương Thủy, Tỉnh Thừa Thiên Huế",
+        "code": "479",
+        "parent_code": "46"
+    },
+    "480": {
+        "name": "Hương Trà",
+        "type": "thi-xa",
+        "slug": "huong-tra",
+        "name_with_type": "Thị xã Hương Trà",
+        "path": "Hương Trà, Thừa Thiên Huế",
+        "path_with_type": "Thị xã Hương Trà, Tỉnh Thừa Thiên Huế",
+        "code": "480",
+        "parent_code": "46"
+    },
+    "481": {
+        "name": "A Lưới",
+        "type": "huyen",
+        "slug": "a-luoi",
+        "name_with_type": "Huyện A Lưới",
+        "path": "A Lưới, Thừa Thiên Huế",
+        "path_with_type": "Huyện A Lưới, Tỉnh Thừa Thiên Huế",
+        "code": "481",
+        "parent_code": "46"
+    },
+    "482": {
+        "name": "Phú Lộc",
+        "type": "huyen",
+        "slug": "phu-loc",
+        "name_with_type": "Huyện Phú Lộc",
+        "path": "Phú Lộc, Thừa Thiên Huế",
+        "path_with_type": "Huyện Phú Lộc, Tỉnh Thừa Thiên Huế",
+        "code": "482",
+        "parent_code": "46"
+    },
+    "483": {
+        "name": "Nam Đông",
+        "type": "huyen",
+        "slug": "nam-dong",
+        "name_with_type": "Huyện Nam Đông",
+        "path": "Nam Đông, Thừa Thiên Huế",
+        "path_with_type": "Huyện Nam Đông, Tỉnh Thừa Thiên Huế",
+        "code": "483",
+        "parent_code": "46"
+    }
+}

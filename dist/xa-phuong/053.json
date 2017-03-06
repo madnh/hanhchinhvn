@@ -1,0 +1,162 @@
+{
+    "01786": {
+        "name": "Đông Khê",
+        "type": "thi-tran",
+        "slug": "dong-khe",
+        "name_with_type": "Thị trấn Đông Khê",
+        "path": "Đông Khê, Thạch An, Cao Bằng",
+        "path_with_type": "Thị trấn Đông Khê, Huyện Thạch An, Tỉnh Cao Bằng",
+        "code": "01786",
+        "parent_code": "053"
+    },
+    "01789": {
+        "name": "Canh Tân",
+        "type": "xa",
+        "slug": "canh-tan",
+        "name_with_type": "Xã Canh Tân",
+        "path": "Canh Tân, Thạch An, Cao Bằng",
+        "path_with_type": "Xã Canh Tân, Huyện Thạch An, Tỉnh Cao Bằng",
+        "code": "01789",
+        "parent_code": "053"
+    },
+    "01792": {
+        "name": "Kim Đồng",
+        "type": "xa",
+        "slug": "kim-dong",
+        "name_with_type": "Xã Kim Đồng",
+        "path": "Kim Đồng, Thạch An, Cao Bằng",
+        "path_with_type": "Xã Kim Đồng, Huyện Thạch An, Tỉnh Cao Bằng",
+        "code": "01792",
+        "parent_code": "053"
+    },
+    "01795": {
+        "name": "Minh Khai",
+        "type": "xa",
+        "slug": "minh-khai",
+        "name_with_type": "Xã Minh Khai",
+        "path": "Minh Khai, Thạch An, Cao Bằng",
+        "path_with_type": "Xã Minh Khai, Huyện Thạch An, Tỉnh Cao Bằng",
+        "code": "01795",
+        "parent_code": "053"
+    },
+    "01798": {
+        "name": "Thị Ngân",
+        "type": "xa",
+        "slug": "thi-ngan",
+        "name_with_type": "Xã Thị Ngân",
+        "path": "Thị Ngân, Thạch An, Cao Bằng",
+        "path_with_type": "Xã Thị Ngân, Huyện Thạch An, Tỉnh Cao Bằng",
+        "code": "01798",
+        "parent_code": "053"
+    },
+    "01801": {
+        "name": "Đức Thông",
+        "type": "xa",
+        "slug": "duc-thong",
+        "name_with_type": "Xã Đức Thông",
+        "path": "Đức Thông, Thạch An, Cao Bằng",
+        "path_with_type": "Xã Đức Thông, Huyện Thạch An, Tỉnh Cao Bằng",
+        "code": "01801",
+        "parent_code": "053"
+    },
+    "01804": {
+        "name": "Thái Cường",
+        "type": "xa",
+        "slug": "thai-cuong",
+        "name_with_type": "Xã Thái Cường",
+        "path": "Thái Cường, Thạch An, Cao Bằng",
+        "path_with_type": "Xã Thái Cường, Huyện Thạch An, Tỉnh Cao Bằng",
+        "code": "01804",
+        "parent_code": "053"
+    },
+    "01807": {
+        "name": "Vân Trình",
+        "type": "xa",
+        "slug": "van-trinh",
+        "name_with_type": "Xã Vân Trình",
+        "path": "Vân Trình, Thạch An, Cao Bằng",
+        "path_with_type": "Xã Vân Trình, Huyện Thạch An, Tỉnh Cao Bằng",
+        "code": "01807",
+        "parent_code": "053"
+    },
+    "01810": {
+        "name": "Thụy Hùng",
+        "type": "xa",
+        "slug": "thuy-hung",
+        "name_with_type": "Xã Thụy Hùng",
+        "path": "Thụy Hùng, Thạch An, Cao Bằng",
+        "path_with_type": "Xã Thụy Hùng, Huyện Thạch An, Tỉnh Cao Bằng",
+        "code": "01810",
+        "parent_code": "053"
+    },
+    "01813": {
+        "name": "Quang Trọng",
+        "type": "xa",
+        "slug": "quang-trong",
+        "name_with_type": "Xã Quang Trọng",
+        "path": "Quang Trọng, Thạch An, Cao Bằng",
+        "path_with_type": "Xã Quang Trọng, Huyện Thạch An, Tỉnh Cao Bằng",
+        "code": "01813",
+        "parent_code": "053"
+    },
+    "01816": {
+        "name": "Trọng Con",
+        "type": "xa",
+        "slug": "trong-con",
+        "name_with_type": "Xã Trọng Con",
+        "path": "Trọng Con, Thạch An, Cao Bằng",
+        "path_with_type": "Xã Trọng Con, Huyện Thạch An, Tỉnh Cao Bằng",
+        "code": "01816",
+        "parent_code": "053"
+    },
+    "01819": {
+        "name": "Lê Lai",
+        "type": "xa",
+        "slug": "le-lai",
+        "name_with_type": "Xã Lê Lai",
+        "path": "Lê Lai, Thạch An, Cao Bằng",
+        "path_with_type": "Xã Lê Lai, Huyện Thạch An, Tỉnh Cao Bằng",
+        "code": "01819",
+        "parent_code": "053"
+    },
+    "01822": {
+        "name": "Đức Long",
+        "type": "xa",
+        "slug": "duc-long",
+        "name_with_type": "Xã Đức Long",
+        "path": "Đức Long, Thạch An, Cao Bằng",
+        "path_with_type": "Xã Đức Long, Huyện Thạch An, Tỉnh Cao Bằng",
+        "code": "01822",
+        "parent_code": "053"
+    },
+    "01825": {
+        "name": "Danh Sỹ",
+        "type": "xa",
+        "slug": "danh-sy",
+        "name_with_type": "Xã Danh Sỹ",
+        "path": "Danh Sỹ, Thạch An, Cao Bằng",
+        "path_with_type": "Xã Danh Sỹ, Huyện Thạch An, Tỉnh Cao Bằng",
+        "code": "01825",
+        "parent_code": "053"
+    },
+    "01828": {
+        "name": "Lê Lợi",
+        "type": "xa",
+        "slug": "le-loi",
+        "name_with_type": "Xã Lê Lợi",
+        "path": "Lê Lợi, Thạch An, Cao Bằng",
+        "path_with_type": "Xã Lê Lợi, Huyện Thạch An, Tỉnh Cao Bằng",
+        "code": "01828",
+        "parent_code": "053"
+    },
+    "01831": {
+        "name": "Đức Xuân",
+        "type": "xa",
+        "slug": "duc-xuan",
+        "name_with_type": "Xã Đức Xuân",
+        "path": "Đức Xuân, Thạch An, Cao Bằng",
+        "path_with_type": "Xã Đức Xuân, Huyện Thạch An, Tỉnh Cao Bằng",
+        "code": "01831",
+        "parent_code": "053"
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "866": {
+        "name": "Cao Lãnh",
+        "type": "thanh-pho",
+        "slug": "cao-lanh",
+        "name_with_type": "Thành phố Cao Lãnh",
+        "path": "Cao Lãnh, Đồng Tháp",
+        "path_with_type": "Thành phố Cao Lãnh, Tỉnh Đồng Tháp",
+        "code": "866",
+        "parent_code": "87"
+    },
+    "867": {
+        "name": "Sa Đéc",
+        "type": "thanh-pho",
+        "slug": "sa-dec",
+        "name_with_type": "Thành phố Sa Đéc",
+        "path": "Sa Đéc, Đồng Tháp",
+        "path_with_type": "Thành phố Sa Đéc, Tỉnh Đồng Tháp",
+        "code": "867",
+        "parent_code": "87"
+    },
+    "868": {
+        "name": "Hồng Ngự",
+        "type": "thi-xa",
+        "slug": "hong-ngu",
+        "name_with_type": "Thị xã Hồng Ngự",
+        "path": "Hồng Ngự, Đồng Tháp",
+        "path_with_type": "Thị xã Hồng Ngự, Tỉnh Đồng Tháp",
+        "code": "868",
+        "parent_code": "87"
+    },
+    "869": {
+        "name": "Tân Hồng",
+        "type": "huyen",
+        "slug": "tan-hong",
+        "name_with_type": "Huyện Tân Hồng",
+        "path": "Tân Hồng, Đồng Tháp",
+        "path_with_type": "Huyện Tân Hồng, Tỉnh Đồng Tháp",
+        "code": "869",
+        "parent_code": "87"
+    },
+    "870": {
+        "name": "Hồng Ngự",
+        "type": "huyen",
+        "slug": "hong-ngu",
+        "name_with_type": "Huyện Hồng Ngự",
+        "path": "Hồng Ngự, Đồng Tháp",
+        "path_with_type": "Huyện Hồng Ngự, Tỉnh Đồng Tháp",
+        "code": "870",
+        "parent_code": "87"
+    },
+    "871": {
+        "name": "Tam Nông",
+        "type": "huyen",
+        "slug": "tam-nong",
+        "name_with_type": "Huyện Tam Nông",
+        "path": "Tam Nông, Đồng Tháp",
+        "path_with_type": "Huyện Tam Nông, Tỉnh Đồng Tháp",
+        "code": "871",
+        "parent_code": "87"
+    },
+    "872": {
+        "name": "Tháp Mười",
+        "type": "huyen",
+        "slug": "thap-muoi",
+        "name_with_type": "Huyện Tháp Mười",
+        "path": "Tháp Mười, Đồng Tháp",
+        "path_with_type": "Huyện Tháp Mười, Tỉnh Đồng Tháp",
+        "code": "872",
+        "parent_code": "87"
+    },
+    "873": {
+        "name": "Cao Lãnh",
+        "type": "huyen",
+        "slug": "cao-lanh",
+        "name_with_type": "Huyện Cao Lãnh",
+        "path": "Cao Lãnh, Đồng Tháp",
+        "path_with_type": "Huyện Cao Lãnh, Tỉnh Đồng Tháp",
+        "code": "873",
+        "parent_code": "87"
+    },
+    "874": {
+        "name": "Thanh Bình",
+        "type": "huyen",
+        "slug": "thanh-binh",
+        "name_with_type": "Huyện Thanh Bình",
+        "path": "Thanh Bình, Đồng Tháp",
+        "path_with_type": "Huyện Thanh Bình, Tỉnh Đồng Tháp",
+        "code": "874",
+        "parent_code": "87"
+    },
+    "875": {
+        "name": "Lấp Vò",
+        "type": "huyen",
+        "slug": "lap-vo",
+        "name_with_type": "Huyện Lấp Vò",
+        "path": "Lấp Vò, Đồng Tháp",
+        "path_with_type": "Huyện Lấp Vò, Tỉnh Đồng Tháp",
+        "code": "875",
+        "parent_code": "87"
+    },
+    "876": {
+        "name": "Lai Vung",
+        "type": "huyen",
+        "slug": "lai-vung",
+        "name_with_type": "Huyện Lai Vung",
+        "path": "Lai Vung, Đồng Tháp",
+        "path_with_type": "Huyện Lai Vung, Tỉnh Đồng Tháp",
+        "code": "876",
+        "parent_code": "87"
+    },
+    "877": {
+        "name": "Châu Thành",
+        "type": "huyen",
+        "slug": "chau-thanh",
+        "name_with_type": "Huyện Châu Thành",
+        "path": "Châu Thành, Đồng Tháp",
+        "path_with_type": "Huyện Châu Thành, Tỉnh Đồng Tháp",
+        "code": "877",
+        "parent_code": "87"
+    }
+}

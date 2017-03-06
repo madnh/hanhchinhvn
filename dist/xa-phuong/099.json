@@ -1,0 +1,192 @@
+{
+    "03253": {
+        "name": "Tuần Giáo",
+        "type": "thi-tran",
+        "slug": "tuan-giao",
+        "name_with_type": "Thị trấn Tuần Giáo",
+        "path": "Tuần Giáo, Tuần Giáo, Điện Biên",
+        "path_with_type": "Thị trấn Tuần Giáo, Huyện Tuần Giáo, Tỉnh Điện Biên",
+        "code": "03253",
+        "parent_code": "099"
+    },
+    "03259": {
+        "name": "Phình Sáng",
+        "type": "xa",
+        "slug": "phinh-sang",
+        "name_with_type": "Xã Phình Sáng",
+        "path": "Phình Sáng, Tuần Giáo, Điện Biên",
+        "path_with_type": "Xã Phình Sáng, Huyện Tuần Giáo, Tỉnh Điện Biên",
+        "code": "03259",
+        "parent_code": "099"
+    },
+    "03260": {
+        "name": "Rạng Đông",
+        "type": "xa",
+        "slug": "rang-dong",
+        "name_with_type": "Xã Rạng Đông",
+        "path": "Rạng Đông, Tuần Giáo, Điện Biên",
+        "path_with_type": "Xã Rạng Đông, Huyện Tuần Giáo, Tỉnh Điện Biên",
+        "code": "03260",
+        "parent_code": "099"
+    },
+    "03262": {
+        "name": "Mùn Chung",
+        "type": "xa",
+        "slug": "mun-chung",
+        "name_with_type": "Xã Mùn Chung",
+        "path": "Mùn Chung, Tuần Giáo, Điện Biên",
+        "path_with_type": "Xã Mùn Chung, Huyện Tuần Giáo, Tỉnh Điện Biên",
+        "code": "03262",
+        "parent_code": "099"
+    },
+    "03263": {
+        "name": "Nà Tòng",
+        "type": "xa",
+        "slug": "na-tong",
+        "name_with_type": "Xã Nà Tòng",
+        "path": "Nà Tòng, Tuần Giáo, Điện Biên",
+        "path_with_type": "Xã Nà Tòng, Huyện Tuần Giáo, Tỉnh Điện Biên",
+        "code": "03263",
+        "parent_code": "099"
+    },
+    "03265": {
+        "name": "Ta Ma",
+        "type": "xa",
+        "slug": "ta-ma",
+        "name_with_type": "Xã Ta Ma",
+        "path": "Ta Ma, Tuần Giáo, Điện Biên",
+        "path_with_type": "Xã Ta Ma, Huyện Tuần Giáo, Tỉnh Điện Biên",
+        "code": "03265",
+        "parent_code": "099"
+    },
+    "03268": {
+        "name": "Mường Mùn",
+        "type": "xa",
+        "slug": "muong-mun",
+        "name_with_type": "Xã Mường Mùn",
+        "path": "Mường Mùn, Tuần Giáo, Điện Biên",
+        "path_with_type": "Xã Mường Mùn, Huyện Tuần Giáo, Tỉnh Điện Biên",
+        "code": "03268",
+        "parent_code": "099"
+    },
+    "03269": {
+        "name": "Pú Xi",
+        "type": "xa",
+        "slug": "pu-xi",
+        "name_with_type": "Xã Pú Xi",
+        "path": "Pú Xi, Tuần Giáo, Điện Biên",
+        "path_with_type": "Xã Pú Xi, Huyện Tuần Giáo, Tỉnh Điện Biên",
+        "code": "03269",
+        "parent_code": "099"
+    },
+    "03271": {
+        "name": "Pú Nhung",
+        "type": "xa",
+        "slug": "pu-nhung",
+        "name_with_type": "Xã Pú Nhung",
+        "path": "Pú Nhung, Tuần Giáo, Điện Biên",
+        "path_with_type": "Xã Pú Nhung, Huyện Tuần Giáo, Tỉnh Điện Biên",
+        "code": "03271",
+        "parent_code": "099"
+    },
+    "03274": {
+        "name": "Quài Nưa",
+        "type": "xa",
+        "slug": "quai-nua",
+        "name_with_type": "Xã Quài Nưa",
+        "path": "Quài Nưa, Tuần Giáo, Điện Biên",
+        "path_with_type": "Xã Quài Nưa, Huyện Tuần Giáo, Tỉnh Điện Biên",
+        "code": "03274",
+        "parent_code": "099"
+    },
+    "03277": {
+        "name": "Mường Thín",
+        "type": "xa",
+        "slug": "muong-thin",
+        "name_with_type": "Xã Mường Thín",
+        "path": "Mường Thín, Tuần Giáo, Điện Biên",
+        "path_with_type": "Xã Mường Thín, Huyện Tuần Giáo, Tỉnh Điện Biên",
+        "code": "03277",
+        "parent_code": "099"
+    },
+    "03280": {
+        "name": "Tỏa Tình",
+        "type": "xa",
+        "slug": "toa-tinh",
+        "name_with_type": "Xã Tỏa Tình",
+        "path": "Tỏa Tình, Tuần Giáo, Điện Biên",
+        "path_with_type": "Xã Tỏa Tình, Huyện Tuần Giáo, Tỉnh Điện Biên",
+        "code": "03280",
+        "parent_code": "099"
+    },
+    "03283": {
+        "name": "Nà Sáy",
+        "type": "xa",
+        "slug": "na-say",
+        "name_with_type": "Xã Nà Sáy",
+        "path": "Nà Sáy, Tuần Giáo, Điện Biên",
+        "path_with_type": "Xã Nà Sáy, Huyện Tuần Giáo, Tỉnh Điện Biên",
+        "code": "03283",
+        "parent_code": "099"
+    },
+    "03284": {
+        "name": "Mường Khong",
+        "type": "xa",
+        "slug": "muong-khong",
+        "name_with_type": "Xã Mường Khong",
+        "path": "Mường Khong, Tuần Giáo, Điện Biên",
+        "path_with_type": "Xã Mường Khong, Huyện Tuần Giáo, Tỉnh Điện Biên",
+        "code": "03284",
+        "parent_code": "099"
+    },
+    "03289": {
+        "name": "Quài Cang",
+        "type": "xa",
+        "slug": "quai-cang",
+        "name_with_type": "Xã Quài Cang",
+        "path": "Quài Cang, Tuần Giáo, Điện Biên",
+        "path_with_type": "Xã Quài Cang, Huyện Tuần Giáo, Tỉnh Điện Biên",
+        "code": "03289",
+        "parent_code": "099"
+    },
+    "03295": {
+        "name": "Quài Tở",
+        "type": "xa",
+        "slug": "quai-to",
+        "name_with_type": "Xã Quài Tở",
+        "path": "Quài Tở, Tuần Giáo, Điện Biên",
+        "path_with_type": "Xã Quài Tở, Huyện Tuần Giáo, Tỉnh Điện Biên",
+        "code": "03295",
+        "parent_code": "099"
+    },
+    "03298": {
+        "name": "Chiềng Sinh",
+        "type": "xa",
+        "slug": "chieng-sinh",
+        "name_with_type": "Xã Chiềng Sinh",
+        "path": "Chiềng Sinh, Tuần Giáo, Điện Biên",
+        "path_with_type": "Xã Chiềng Sinh, Huyện Tuần Giáo, Tỉnh Điện Biên",
+        "code": "03298",
+        "parent_code": "099"
+    },
+    "03299": {
+        "name": "Chiềng Đông",
+        "type": "xa",
+        "slug": "chieng-dong",
+        "name_with_type": "Xã Chiềng Đông",
+        "path": "Chiềng Đông, Tuần Giáo, Điện Biên",
+        "path_with_type": "Xã Chiềng Đông, Huyện Tuần Giáo, Tỉnh Điện Biên",
+        "code": "03299",
+        "parent_code": "099"
+    },
+    "03304": {
+        "name": "Tênh Phông",
+        "type": "xa",
+        "slug": "tenh-phong",
+        "name_with_type": "Xã Tênh Phông",
+        "path": "Tênh Phông, Tuần Giáo, Điện Biên",
+        "path_with_type": "Xã Tênh Phông, Huyện Tuần Giáo, Tỉnh Điện Biên",
+        "code": "03304",
+        "parent_code": "099"
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "941": {
+        "name": "Sóc Trăng",
+        "type": "thanh-pho",
+        "slug": "soc-trang",
+        "name_with_type": "Thành phố Sóc Trăng",
+        "path": "Sóc Trăng, Sóc Trăng",
+        "path_with_type": "Thành phố Sóc Trăng, Tỉnh Sóc Trăng",
+        "code": "941",
+        "parent_code": "94"
+    },
+    "942": {
+        "name": "Châu Thành",
+        "type": "huyen",
+        "slug": "chau-thanh",
+        "name_with_type": "Huyện Châu Thành",
+        "path": "Châu Thành, Sóc Trăng",
+        "path_with_type": "Huyện Châu Thành, Tỉnh Sóc Trăng",
+        "code": "942",
+        "parent_code": "94"
+    },
+    "943": {
+        "name": "Kế Sách",
+        "type": "huyen",
+        "slug": "ke-sach",
+        "name_with_type": "Huyện Kế Sách",
+        "path": "Kế Sách, Sóc Trăng",
+        "path_with_type": "Huyện Kế Sách, Tỉnh Sóc Trăng",
+        "code": "943",
+        "parent_code": "94"
+    },
+    "944": {
+        "name": "Mỹ Tú",
+        "type": "huyen",
+        "slug": "my-tu",
+        "name_with_type": "Huyện Mỹ Tú",
+        "path": "Mỹ Tú, Sóc Trăng",
+        "path_with_type": "Huyện Mỹ Tú, Tỉnh Sóc Trăng",
+        "code": "944",
+        "parent_code": "94"
+    },
+    "945": {
+        "name": "Cù Lao Dung",
+        "type": "huyen",
+        "slug": "cu-lao-dung",
+        "name_with_type": "Huyện Cù Lao Dung",
+        "path": "Cù Lao Dung, Sóc Trăng",
+        "path_with_type": "Huyện Cù Lao Dung, Tỉnh Sóc Trăng",
+        "code": "945",
+        "parent_code": "94"
+    },
+    "946": {
+        "name": "Long Phú",
+        "type": "huyen",
+        "slug": "long-phu",
+        "name_with_type": "Huyện Long Phú",
+        "path": "Long Phú, Sóc Trăng",
+        "path_with_type": "Huyện Long Phú, Tỉnh Sóc Trăng",
+        "code": "946",
+        "parent_code": "94"
+    },
+    "947": {
+        "name": "Mỹ Xuyên",
+        "type": "huyen",
+        "slug": "my-xuyen",
+        "name_with_type": "Huyện Mỹ Xuyên",
+        "path": "Mỹ Xuyên, Sóc Trăng",
+        "path_with_type": "Huyện Mỹ Xuyên, Tỉnh Sóc Trăng",
+        "code": "947",
+        "parent_code": "94"
+    },
+    "948": {
+        "name": "Ngã Năm",
+        "type": "thi-xa",
+        "slug": "nga-nam",
+        "name_with_type": "Thị xã Ngã Năm",
+        "path": "Ngã Năm, Sóc Trăng",
+        "path_with_type": "Thị xã Ngã Năm, Tỉnh Sóc Trăng",
+        "code": "948",
+        "parent_code": "94"
+    },
+    "949": {
+        "name": "Thạnh Trị",
+        "type": "huyen",
+        "slug": "thanh-tri",
+        "name_with_type": "Huyện Thạnh Trị",
+        "path": "Thạnh Trị, Sóc Trăng",
+        "path_with_type": "Huyện Thạnh Trị, Tỉnh Sóc Trăng",
+        "code": "949",
+        "parent_code": "94"
+    },
+    "950": {
+        "name": "Vĩnh Châu",
+        "type": "thi-xa",
+        "slug": "vinh-chau",
+        "name_with_type": "Thị xã Vĩnh Châu",
+        "path": "Vĩnh Châu, Sóc Trăng",
+        "path_with_type": "Thị xã Vĩnh Châu, Tỉnh Sóc Trăng",
+        "code": "950",
+        "parent_code": "94"
+    },
+    "951": {
+        "name": "Trần Đề",
+        "type": "huyen",
+        "slug": "tran-de",
+        "name_with_type": "Huyện Trần Đề",
+        "path": "Trần Đề, Sóc Trăng",
+        "path_with_type": "Huyện Trần Đề, Tỉnh Sóc Trăng",
+        "code": "951",
+        "parent_code": "94"
+    }
+}

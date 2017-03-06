@@ -1,0 +1,122 @@
+{
+    "25516": {
+        "name": "Tân Châu",
+        "type": "thi-tran",
+        "slug": "tan-chau",
+        "name_with_type": "Thị trấn Tân Châu",
+        "path": "Tân Châu, Tân Châu, Tây Ninh",
+        "path_with_type": "Thị trấn Tân Châu, Huyện Tân Châu, Tỉnh Tây Ninh",
+        "code": "25516",
+        "parent_code": "706"
+    },
+    "25519": {
+        "name": "Tân Hà",
+        "type": "xa",
+        "slug": "tan-ha",
+        "name_with_type": "Xã Tân Hà",
+        "path": "Tân Hà, Tân Châu, Tây Ninh",
+        "path_with_type": "Xã Tân Hà, Huyện Tân Châu, Tỉnh Tây Ninh",
+        "code": "25519",
+        "parent_code": "706"
+    },
+    "25522": {
+        "name": "Tân Đông",
+        "type": "xa",
+        "slug": "tan-dong",
+        "name_with_type": "Xã Tân Đông",
+        "path": "Tân Đông, Tân Châu, Tây Ninh",
+        "path_with_type": "Xã Tân Đông, Huyện Tân Châu, Tỉnh Tây Ninh",
+        "code": "25522",
+        "parent_code": "706"
+    },
+    "25525": {
+        "name": "Tân Hội",
+        "type": "xa",
+        "slug": "tan-hoi",
+        "name_with_type": "Xã Tân Hội",
+        "path": "Tân Hội, Tân Châu, Tây Ninh",
+        "path_with_type": "Xã Tân Hội, Huyện Tân Châu, Tỉnh Tây Ninh",
+        "code": "25525",
+        "parent_code": "706"
+    },
+    "25528": {
+        "name": "Tân Hòa",
+        "type": "xa",
+        "slug": "tan-hoa",
+        "name_with_type": "Xã Tân Hòa",
+        "path": "Tân Hòa, Tân Châu, Tây Ninh",
+        "path_with_type": "Xã Tân Hòa, Huyện Tân Châu, Tỉnh Tây Ninh",
+        "code": "25528",
+        "parent_code": "706"
+    },
+    "25531": {
+        "name": "Suối Ngô",
+        "type": "xa",
+        "slug": "suoi-ngo",
+        "name_with_type": "Xã Suối Ngô",
+        "path": "Suối Ngô, Tân Châu, Tây Ninh",
+        "path_with_type": "Xã Suối Ngô, Huyện Tân Châu, Tỉnh Tây Ninh",
+        "code": "25531",
+        "parent_code": "706"
+    },
+    "25534": {
+        "name": "Suối Dây",
+        "type": "xa",
+        "slug": "suoi-day",
+        "name_with_type": "Xã Suối Dây",
+        "path": "Suối Dây, Tân Châu, Tây Ninh",
+        "path_with_type": "Xã Suối Dây, Huyện Tân Châu, Tỉnh Tây Ninh",
+        "code": "25534",
+        "parent_code": "706"
+    },
+    "25537": {
+        "name": "Tân Hiệp",
+        "type": "xa",
+        "slug": "tan-hiep",
+        "name_with_type": "Xã Tân Hiệp",
+        "path": "Tân Hiệp, Tân Châu, Tây Ninh",
+        "path_with_type": "Xã Tân Hiệp, Huyện Tân Châu, Tỉnh Tây Ninh",
+        "code": "25537",
+        "parent_code": "706"
+    },
+    "25540": {
+        "name": "Thạnh Đông",
+        "type": "xa",
+        "slug": "thanh-dong",
+        "name_with_type": "Xã Thạnh Đông",
+        "path": "Thạnh Đông, Tân Châu, Tây Ninh",
+        "path_with_type": "Xã Thạnh Đông, Huyện Tân Châu, Tỉnh Tây Ninh",
+        "code": "25540",
+        "parent_code": "706"
+    },
+    "25543": {
+        "name": "Tân Thành",
+        "type": "xa",
+        "slug": "tan-thanh",
+        "name_with_type": "Xã Tân Thành",
+        "path": "Tân Thành, Tân Châu, Tây Ninh",
+        "path_with_type": "Xã Tân Thành, Huyện Tân Châu, Tỉnh Tây Ninh",
+        "code": "25543",
+        "parent_code": "706"
+    },
+    "25546": {
+        "name": "Tân Phú",
+        "type": "xa",
+        "slug": "tan-phu",
+        "name_with_type": "Xã Tân Phú",
+        "path": "Tân Phú, Tân Châu, Tây Ninh",
+        "path_with_type": "Xã Tân Phú, Huyện Tân Châu, Tỉnh Tây Ninh",
+        "code": "25546",
+        "parent_code": "706"
+    },
+    "25549": {
+        "name": "Tân Hưng",
+        "type": "xa",
+        "slug": "tan-hung",
+        "name_with_type": "Xã Tân Hưng",
+        "path": "Tân Hưng, Tân Châu, Tây Ninh",
+        "path_with_type": "Xã Tân Hưng, Huyện Tân Châu, Tỉnh Tây Ninh",
+        "code": "25549",
+        "parent_code": "706"
+    }
+}

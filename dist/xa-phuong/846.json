@@ -1,0 +1,112 @@
+{
+    "29341": {
+        "name": "Tiểu Cần",
+        "type": "thi-tran",
+        "slug": "tieu-can",
+        "name_with_type": "Thị trấn Tiểu Cần",
+        "path": "Tiểu Cần, Tiểu Cần, Trà Vinh",
+        "path_with_type": "Thị trấn Tiểu Cần, Huyện Tiểu Cần, Tỉnh Trà Vinh",
+        "code": "29341",
+        "parent_code": "846"
+    },
+    "29344": {
+        "name": "Cầu Quan",
+        "type": "thi-tran",
+        "slug": "cau-quan",
+        "name_with_type": "Thị trấn Cầu Quan",
+        "path": "Cầu Quan, Tiểu Cần, Trà Vinh",
+        "path_with_type": "Thị trấn Cầu Quan, Huyện Tiểu Cần, Tỉnh Trà Vinh",
+        "code": "29344",
+        "parent_code": "846"
+    },
+    "29347": {
+        "name": "Phú Cần",
+        "type": "xa",
+        "slug": "phu-can",
+        "name_with_type": "Xã Phú Cần",
+        "path": "Phú Cần, Tiểu Cần, Trà Vinh",
+        "path_with_type": "Xã Phú Cần, Huyện Tiểu Cần, Tỉnh Trà Vinh",
+        "code": "29347",
+        "parent_code": "846"
+    },
+    "29350": {
+        "name": "Hiếu Tử",
+        "type": "xa",
+        "slug": "hieu-tu",
+        "name_with_type": "Xã Hiếu Tử",
+        "path": "Hiếu Tử, Tiểu Cần, Trà Vinh",
+        "path_with_type": "Xã Hiếu Tử, Huyện Tiểu Cần, Tỉnh Trà Vinh",
+        "code": "29350",
+        "parent_code": "846"
+    },
+    "29353": {
+        "name": "Hiếu Trung",
+        "type": "xa",
+        "slug": "hieu-trung",
+        "name_with_type": "Xã Hiếu Trung",
+        "path": "Hiếu Trung, Tiểu Cần, Trà Vinh",
+        "path_with_type": "Xã Hiếu Trung, Huyện Tiểu Cần, Tỉnh Trà Vinh",
+        "code": "29353",
+        "parent_code": "846"
+    },
+    "29356": {
+        "name": "Long Thới",
+        "type": "xa",
+        "slug": "long-thoi",
+        "name_with_type": "Xã Long Thới",
+        "path": "Long Thới, Tiểu Cần, Trà Vinh",
+        "path_with_type": "Xã Long Thới, Huyện Tiểu Cần, Tỉnh Trà Vinh",
+        "code": "29356",
+        "parent_code": "846"
+    },
+    "29359": {
+        "name": "Hùng Hòa",
+        "type": "xa",
+        "slug": "hung-hoa",
+        "name_with_type": "Xã Hùng Hòa",
+        "path": "Hùng Hòa, Tiểu Cần, Trà Vinh",
+        "path_with_type": "Xã Hùng Hòa, Huyện Tiểu Cần, Tỉnh Trà Vinh",
+        "code": "29359",
+        "parent_code": "846"
+    },
+    "29362": {
+        "name": "Tân Hùng",
+        "type": "xa",
+        "slug": "tan-hung",
+        "name_with_type": "Xã Tân Hùng",
+        "path": "Tân Hùng, Tiểu Cần, Trà Vinh",
+        "path_with_type": "Xã Tân Hùng, Huyện Tiểu Cần, Tỉnh Trà Vinh",
+        "code": "29362",
+        "parent_code": "846"
+    },
+    "29365": {
+        "name": "Tập Ngãi",
+        "type": "xa",
+        "slug": "tap-ngai",
+        "name_with_type": "Xã Tập Ngãi",
+        "path": "Tập Ngãi, Tiểu Cần, Trà Vinh",
+        "path_with_type": "Xã Tập Ngãi, Huyện Tiểu Cần, Tỉnh Trà Vinh",
+        "code": "29365",
+        "parent_code": "846"
+    },
+    "29368": {
+        "name": "Ngãi Hùng",
+        "type": "xa",
+        "slug": "ngai-hung",
+        "name_with_type": "Xã Ngãi Hùng",
+        "path": "Ngãi Hùng, Tiểu Cần, Trà Vinh",
+        "path_with_type": "Xã Ngãi Hùng, Huyện Tiểu Cần, Tỉnh Trà Vinh",
+        "code": "29368",
+        "parent_code": "846"
+    },
+    "29371": {
+        "name": "Tân Hòa",
+        "type": "xa",
+        "slug": "tan-hoa",
+        "name_with_type": "Xã Tân Hòa",
+        "path": "Tân Hòa, Tiểu Cần, Trà Vinh",
+        "path_with_type": "Xã Tân Hòa, Huyện Tiểu Cần, Tỉnh Trà Vinh",
+        "code": "29371",
+        "parent_code": "846"
+    }
+}

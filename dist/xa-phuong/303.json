@@ -1,0 +1,112 @@
+{
+    "11296": {
+        "name": "Quán Toan",
+        "type": "phuong",
+        "slug": "quan-toan",
+        "name_with_type": "Phường Quán Toan",
+        "path": "Quán Toan, Hồng Bàng, Hải Phòng",
+        "path_with_type": "Phường Quán Toan, Quận Hồng Bàng, Thành phố Hải Phòng",
+        "code": "11296",
+        "parent_code": "303"
+    },
+    "11299": {
+        "name": "Hùng Vương",
+        "type": "phuong",
+        "slug": "hung-vuong",
+        "name_with_type": "Phường Hùng Vương",
+        "path": "Hùng Vương, Hồng Bàng, Hải Phòng",
+        "path_with_type": "Phường Hùng Vương, Quận Hồng Bàng, Thành phố Hải Phòng",
+        "code": "11299",
+        "parent_code": "303"
+    },
+    "11302": {
+        "name": "Sở Dầu",
+        "type": "phuong",
+        "slug": "so-dau",
+        "name_with_type": "Phường Sở Dầu",
+        "path": "Sở Dầu, Hồng Bàng, Hải Phòng",
+        "path_with_type": "Phường Sở Dầu, Quận Hồng Bàng, Thành phố Hải Phòng",
+        "code": "11302",
+        "parent_code": "303"
+    },
+    "11305": {
+        "name": "Thượng Lý",
+        "type": "phuong",
+        "slug": "thuong-ly",
+        "name_with_type": "Phường Thượng Lý",
+        "path": "Thượng Lý, Hồng Bàng, Hải Phòng",
+        "path_with_type": "Phường Thượng Lý, Quận Hồng Bàng, Thành phố Hải Phòng",
+        "code": "11305",
+        "parent_code": "303"
+    },
+    "11308": {
+        "name": "Hạ Lý",
+        "type": "phuong",
+        "slug": "ha-ly",
+        "name_with_type": "Phường Hạ Lý",
+        "path": "Hạ Lý, Hồng Bàng, Hải Phòng",
+        "path_with_type": "Phường Hạ Lý, Quận Hồng Bàng, Thành phố Hải Phòng",
+        "code": "11308",
+        "parent_code": "303"
+    },
+    "11311": {
+        "name": "Minh Khai",
+        "type": "phuong",
+        "slug": "minh-khai",
+        "name_with_type": "Phường Minh Khai",
+        "path": "Minh Khai, Hồng Bàng, Hải Phòng",
+        "path_with_type": "Phường Minh Khai, Quận Hồng Bàng, Thành phố Hải Phòng",
+        "code": "11311",
+        "parent_code": "303"
+    },
+    "11314": {
+        "name": "Trại Chuối",
+        "type": "phuong",
+        "slug": "trai-chuoi",
+        "name_with_type": "Phường Trại Chuối",
+        "path": "Trại Chuối, Hồng Bàng, Hải Phòng",
+        "path_with_type": "Phường Trại Chuối, Quận Hồng Bàng, Thành phố Hải Phòng",
+        "code": "11314",
+        "parent_code": "303"
+    },
+    "11317": {
+        "name": "Quang Trung",
+        "type": "phuong",
+        "slug": "quang-trung",
+        "name_with_type": "Phường Quang Trung",
+        "path": "Quang Trung, Hồng Bàng, Hải Phòng",
+        "path_with_type": "Phường Quang Trung, Quận Hồng Bàng, Thành phố Hải Phòng",
+        "code": "11317",
+        "parent_code": "303"
+    },
+    "11320": {
+        "name": "Hoàng Văn Thụ",
+        "type": "phuong",
+        "slug": "hoang-van-thu",
+        "name_with_type": "Phường Hoàng Văn Thụ",
+        "path": "Hoàng Văn Thụ, Hồng Bàng, Hải Phòng",
+        "path_with_type": "Phường Hoàng Văn Thụ, Quận Hồng Bàng, Thành phố Hải Phòng",
+        "code": "11320",
+        "parent_code": "303"
+    },
+    "11323": {
+        "name": "Phan Bội Châu",
+        "type": "phuong",
+        "slug": "phan-boi-chau",
+        "name_with_type": "Phường Phan Bội Châu",
+        "path": "Phan Bội Châu, Hồng Bàng, Hải Phòng",
+        "path_with_type": "Phường Phan Bội Châu, Quận Hồng Bàng, Thành phố Hải Phòng",
+        "code": "11323",
+        "parent_code": "303"
+    },
+    "11326": {
+        "name": "Phạm Hồng Thái",
+        "type": "phuong",
+        "slug": "pham-hong-thai",
+        "name_with_type": "Phường Phạm Hồng Thái",
+        "path": "Phạm Hồng Thái, Hồng Bàng, Hải Phòng",
+        "path_with_type": "Phường Phạm Hồng Thái, Quận Hồng Bàng, Thành phố Hải Phòng",
+        "code": "11326",
+        "parent_code": "303"
+    }
+}

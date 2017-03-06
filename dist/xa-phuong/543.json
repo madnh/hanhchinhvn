@@ -1,0 +1,172 @@
+{
+    "21637": {
+        "name": "Tam Quan",
+        "type": "thi-tran",
+        "slug": "tam-quan",
+        "name_with_type": "Thị trấn  Tam Quan",
+        "path": "Tam Quan, Hoài Nhơn, Bình Định",
+        "path_with_type": "Thị trấn  Tam Quan, Huyện Hoài Nhơn, Tỉnh Bình Định",
+        "code": "21637",
+        "parent_code": "543"
+    },
+    "21640": {
+        "name": "Bồng Sơn",
+        "type": "thi-tran",
+        "slug": "bong-son",
+        "name_with_type": "Thị trấn Bồng Sơn",
+        "path": "Bồng Sơn, Hoài Nhơn, Bình Định",
+        "path_with_type": "Thị trấn Bồng Sơn, Huyện Hoài Nhơn, Tỉnh Bình Định",
+        "code": "21640",
+        "parent_code": "543"
+    },
+    "21643": {
+        "name": "Hoài Sơn",
+        "type": "xa",
+        "slug": "hoai-son",
+        "name_with_type": "Xã Hoài Sơn",
+        "path": "Hoài Sơn, Hoài Nhơn, Bình Định",
+        "path_with_type": "Xã Hoài Sơn, Huyện Hoài Nhơn, Tỉnh Bình Định",
+        "code": "21643",
+        "parent_code": "543"
+    },
+    "21646": {
+        "name": "Hoài Châu Bắc",
+        "type": "xa",
+        "slug": "hoai-chau-bac",
+        "name_with_type": "Xã Hoài Châu Bắc",
+        "path": "Hoài Châu Bắc, Hoài Nhơn, Bình Định",
+        "path_with_type": "Xã Hoài Châu Bắc, Huyện Hoài Nhơn, Tỉnh Bình Định",
+        "code": "21646",
+        "parent_code": "543"
+    },
+    "21649": {
+        "name": "Hoài Châu",
+        "type": "xa",
+        "slug": "hoai-chau",
+        "name_with_type": "Xã Hoài Châu",
+        "path": "Hoài Châu, Hoài Nhơn, Bình Định",
+        "path_with_type": "Xã Hoài Châu, Huyện Hoài Nhơn, Tỉnh Bình Định",
+        "code": "21649",
+        "parent_code": "543"
+    },
+    "21652": {
+        "name": "Hoài Phú",
+        "type": "xa",
+        "slug": "hoai-phu",
+        "name_with_type": "Xã Hoài Phú",
+        "path": "Hoài Phú, Hoài Nhơn, Bình Định",
+        "path_with_type": "Xã Hoài Phú, Huyện Hoài Nhơn, Tỉnh Bình Định",
+        "code": "21652",
+        "parent_code": "543"
+    },
+    "21655": {
+        "name": "Tam Quan Bắc",
+        "type": "xa",
+        "slug": "tam-quan-bac",
+        "name_with_type": "Xã Tam Quan Bắc",
+        "path": "Tam Quan Bắc, Hoài Nhơn, Bình Định",
+        "path_with_type": "Xã Tam Quan Bắc, Huyện Hoài Nhơn, Tỉnh Bình Định",
+        "code": "21655",
+        "parent_code": "543"
+    },
+    "21658": {
+        "name": "Tam Quan Nam",
+        "type": "xa",
+        "slug": "tam-quan-nam",
+        "name_with_type": "Xã Tam Quan Nam",
+        "path": "Tam Quan Nam, Hoài Nhơn, Bình Định",
+        "path_with_type": "Xã Tam Quan Nam, Huyện Hoài Nhơn, Tỉnh Bình Định",
+        "code": "21658",
+        "parent_code": "543"
+    },
+    "21661": {
+        "name": "Hoài Hảo",
+        "type": "xa",
+        "slug": "hoai-hao",
+        "name_with_type": "Xã Hoài Hảo",
+        "path": "Hoài Hảo, Hoài Nhơn, Bình Định",
+        "path_with_type": "Xã Hoài Hảo, Huyện Hoài Nhơn, Tỉnh Bình Định",
+        "code": "21661",
+        "parent_code": "543"
+    },
+    "21664": {
+        "name": "Hoài Thanh Tây",
+        "type": "xa",
+        "slug": "hoai-thanh-tay",
+        "name_with_type": "Xã Hoài Thanh Tây",
+        "path": "Hoài Thanh Tây, Hoài Nhơn, Bình Định",
+        "path_with_type": "Xã Hoài Thanh Tây, Huyện Hoài Nhơn, Tỉnh Bình Định",
+        "code": "21664",
+        "parent_code": "543"
+    },
+    "21667": {
+        "name": "Hoài Thanh",
+        "type": "xa",
+        "slug": "hoai-thanh",
+        "name_with_type": "Xã Hoài Thanh",
+        "path": "Hoài Thanh, Hoài Nhơn, Bình Định",
+        "path_with_type": "Xã Hoài Thanh, Huyện Hoài Nhơn, Tỉnh Bình Định",
+        "code": "21667",
+        "parent_code": "543"
+    },
+    "21670": {
+        "name": "Hoài Hương",
+        "type": "xa",
+        "slug": "hoai-huong",
+        "name_with_type": "Xã Hoài Hương",
+        "path": "Hoài Hương, Hoài Nhơn, Bình Định",
+        "path_with_type": "Xã Hoài Hương, Huyện Hoài Nhơn, Tỉnh Bình Định",
+        "code": "21670",
+        "parent_code": "543"
+    },
+    "21673": {
+        "name": "Hoài Tân",
+        "type": "xa",
+        "slug": "hoai-tan",
+        "name_with_type": "Xã Hoài Tân",
+        "path": "Hoài Tân, Hoài Nhơn, Bình Định",
+        "path_with_type": "Xã Hoài Tân, Huyện Hoài Nhơn, Tỉnh Bình Định",
+        "code": "21673",
+        "parent_code": "543"
+    },
+    "21676": {
+        "name": "Hoài Hải",
+        "type": "xa",
+        "slug": "hoai-hai",
+        "name_with_type": "Xã Hoài Hải",
+        "path": "Hoài Hải, Hoài Nhơn, Bình Định",
+        "path_with_type": "Xã Hoài Hải, Huyện Hoài Nhơn, Tỉnh Bình Định",
+        "code": "21676",
+        "parent_code": "543"
+    },
+    "21679": {
+        "name": "Hoài Xuân",
+        "type": "xa",
+        "slug": "hoai-xuan",
+        "name_with_type": "Xã Hoài Xuân",
+        "path": "Hoài Xuân, Hoài Nhơn, Bình Định",
+        "path_with_type": "Xã Hoài Xuân, Huyện Hoài Nhơn, Tỉnh Bình Định",
+        "code": "21679",
+        "parent_code": "543"
+    },
+    "21682": {
+        "name": "Hoài Mỹ",
+        "type": "xa",
+        "slug": "hoai-my",
+        "name_with_type": "Xã Hoài Mỹ",
+        "path": "Hoài Mỹ, Hoài Nhơn, Bình Định",
+        "path_with_type": "Xã Hoài Mỹ, Huyện Hoài Nhơn, Tỉnh Bình Định",
+        "code": "21682",
+        "parent_code": "543"
+    },
+    "21685": {
+        "name": "Hoài Đức",
+        "type": "xa",
+        "slug": "hoai-duc",
+        "name_with_type": "Xã Hoài Đức",
+        "path": "Hoài Đức, Hoài Nhơn, Bình Định",
+        "path_with_type": "Xã Hoài Đức, Huyện Hoài Nhơn, Tỉnh Bình Định",
+        "code": "21685",
+        "parent_code": "543"
+    }
+}

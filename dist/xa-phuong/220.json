@@ -1,0 +1,232 @@
+{
+    "07615": {
+        "name": "An Châu",
+        "type": "thi-tran",
+        "slug": "an-chau",
+        "name_with_type": "Thị trấn An Châu",
+        "path": "An Châu, Sơn Động, Bắc Giang",
+        "path_with_type": "Thị trấn An Châu, Huyện Sơn Động, Tỉnh Bắc Giang",
+        "code": "07615",
+        "parent_code": "220"
+    },
+    "07616": {
+        "name": "Thanh Sơn",
+        "type": "thi-tran",
+        "slug": "thanh-son",
+        "name_with_type": "Thị trấn Thanh Sơn",
+        "path": "Thanh Sơn, Sơn Động, Bắc Giang",
+        "path_with_type": "Thị trấn Thanh Sơn, Huyện Sơn Động, Tỉnh Bắc Giang",
+        "code": "07616",
+        "parent_code": "220"
+    },
+    "07618": {
+        "name": "Thạch Sơn",
+        "type": "xa",
+        "slug": "thach-son",
+        "name_with_type": "Xã Thạch Sơn",
+        "path": "Thạch Sơn, Sơn Động, Bắc Giang",
+        "path_with_type": "Xã Thạch Sơn, Huyện Sơn Động, Tỉnh Bắc Giang",
+        "code": "07618",
+        "parent_code": "220"
+    },
+    "07621": {
+        "name": "Vân Sơn",
+        "type": "xa",
+        "slug": "van-son",
+        "name_with_type": "Xã Vân Sơn",
+        "path": "Vân Sơn, Sơn Động, Bắc Giang",
+        "path_with_type": "Xã Vân Sơn, Huyện Sơn Động, Tỉnh Bắc Giang",
+        "code": "07621",
+        "parent_code": "220"
+    },
+    "07624": {
+        "name": "Hữu Sản",
+        "type": "xa",
+        "slug": "huu-san",
+        "name_with_type": "Xã Hữu Sản",
+        "path": "Hữu Sản, Sơn Động, Bắc Giang",
+        "path_with_type": "Xã Hữu Sản, Huyện Sơn Động, Tỉnh Bắc Giang",
+        "code": "07624",
+        "parent_code": "220"
+    },
+    "07627": {
+        "name": "Quế Sơn",
+        "type": "xa",
+        "slug": "que-son",
+        "name_with_type": "Xã Quế Sơn",
+        "path": "Quế Sơn, Sơn Động, Bắc Giang",
+        "path_with_type": "Xã Quế Sơn, Huyện Sơn Động, Tỉnh Bắc Giang",
+        "code": "07627",
+        "parent_code": "220"
+    },
+    "07630": {
+        "name": "Phúc Thắng",
+        "type": "xa",
+        "slug": "phuc-thang",
+        "name_with_type": "Xã Phúc Thắng",
+        "path": "Phúc Thắng, Sơn Động, Bắc Giang",
+        "path_with_type": "Xã Phúc Thắng, Huyện Sơn Động, Tỉnh Bắc Giang",
+        "code": "07630",
+        "parent_code": "220"
+    },
+    "07633": {
+        "name": "Chiên Sơn",
+        "type": "xa",
+        "slug": "chien-son",
+        "name_with_type": "Xã Chiên Sơn",
+        "path": "Chiên Sơn, Sơn Động, Bắc Giang",
+        "path_with_type": "Xã Chiên Sơn, Huyện Sơn Động, Tỉnh Bắc Giang",
+        "code": "07633",
+        "parent_code": "220"
+    },
+    "07636": {
+        "name": "Giáo Liêm",
+        "type": "xa",
+        "slug": "giao-liem",
+        "name_with_type": "Xã Giáo Liêm",
+        "path": "Giáo Liêm, Sơn Động, Bắc Giang",
+        "path_with_type": "Xã Giáo Liêm, Huyện Sơn Động, Tỉnh Bắc Giang",
+        "code": "07636",
+        "parent_code": "220"
+    },
+    "07639": {
+        "name": "Vĩnh Khương",
+        "type": "xa",
+        "slug": "vinh-khuong",
+        "name_with_type": "Xã Vĩnh Khương",
+        "path": "Vĩnh Khương, Sơn Động, Bắc Giang",
+        "path_with_type": "Xã Vĩnh Khương, Huyện Sơn Động, Tỉnh Bắc Giang",
+        "code": "07639",
+        "parent_code": "220"
+    },
+    "07642": {
+        "name": "Cẩm Đàn",
+        "type": "xa",
+        "slug": "cam-dan",
+        "name_with_type": "Xã Cẩm Đàn",
+        "path": "Cẩm Đàn, Sơn Động, Bắc Giang",
+        "path_with_type": "Xã Cẩm Đàn, Huyện Sơn Động, Tỉnh Bắc Giang",
+        "code": "07642",
+        "parent_code": "220"
+    },
+    "07645": {
+        "name": "An Lạc",
+        "type": "xa",
+        "slug": "an-lac",
+        "name_with_type": "Xã An Lạc",
+        "path": "An Lạc, Sơn Động, Bắc Giang",
+        "path_with_type": "Xã An Lạc, Huyện Sơn Động, Tỉnh Bắc Giang",
+        "code": "07645",
+        "parent_code": "220"
+    },
+    "07648": {
+        "name": "An Lập",
+        "type": "xa",
+        "slug": "an-lap",
+        "name_with_type": "Xã An Lập",
+        "path": "An Lập, Sơn Động, Bắc Giang",
+        "path_with_type": "Xã An Lập, Huyện Sơn Động, Tỉnh Bắc Giang",
+        "code": "07648",
+        "parent_code": "220"
+    },
+    "07651": {
+        "name": "Yên Định",
+        "type": "xa",
+        "slug": "yen-dinh",
+        "name_with_type": "Xã Yên Định",
+        "path": "Yên Định, Sơn Động, Bắc Giang",
+        "path_with_type": "Xã Yên Định, Huyện Sơn Động, Tỉnh Bắc Giang",
+        "code": "07651",
+        "parent_code": "220"
+    },
+    "07654": {
+        "name": "Lệ Viễn",
+        "type": "xa",
+        "slug": "le-vien",
+        "name_with_type": "Xã Lệ Viễn",
+        "path": "Lệ Viễn, Sơn Động, Bắc Giang",
+        "path_with_type": "Xã Lệ Viễn, Huyện Sơn Động, Tỉnh Bắc Giang",
+        "code": "07654",
+        "parent_code": "220"
+    },
+    "07657": {
+        "name": "An Châu",
+        "type": "xa",
+        "slug": "an-chau",
+        "name_with_type": "Xã An Châu",
+        "path": "An Châu, Sơn Động, Bắc Giang",
+        "path_with_type": "Xã An Châu, Huyện Sơn Động, Tỉnh Bắc Giang",
+        "code": "07657",
+        "parent_code": "220"
+    },
+    "07660": {
+        "name": "An Bá",
+        "type": "xa",
+        "slug": "an-ba",
+        "name_with_type": "Xã An Bá",
+        "path": "An Bá, Sơn Động, Bắc Giang",
+        "path_with_type": "Xã An Bá, Huyện Sơn Động, Tỉnh Bắc Giang",
+        "code": "07660",
+        "parent_code": "220"
+    },
+    "07663": {
+        "name": "Tuấn Đạo",
+        "type": "xa",
+        "slug": "tuan-dao",
+        "name_with_type": "Xã Tuấn Đạo",
+        "path": "Tuấn Đạo, Sơn Động, Bắc Giang",
+        "path_with_type": "Xã Tuấn Đạo, Huyện Sơn Động, Tỉnh Bắc Giang",
+        "code": "07663",
+        "parent_code": "220"
+    },
+    "07666": {
+        "name": "Dương Hưu",
+        "type": "xa",
+        "slug": "duong-huu",
+        "name_with_type": "Xã Dương Hưu",
+        "path": "Dương Hưu, Sơn Động, Bắc Giang",
+        "path_with_type": "Xã Dương Hưu, Huyện Sơn Động, Tỉnh Bắc Giang",
+        "code": "07666",
+        "parent_code": "220"
+    },
+    "07669": {
+        "name": "Bồng Am",
+        "type": "xa",
+        "slug": "bong-am",
+        "name_with_type": "Xã Bồng Am",
+        "path": "Bồng Am, Sơn Động, Bắc Giang",
+        "path_with_type": "Xã Bồng Am, Huyện Sơn Động, Tỉnh Bắc Giang",
+        "code": "07669",
+        "parent_code": "220"
+    },
+    "07672": {
+        "name": "Long Sơn",
+        "type": "xa",
+        "slug": "long-son",
+        "name_with_type": "Xã Long Sơn",
+        "path": "Long Sơn, Sơn Động, Bắc Giang",
+        "path_with_type": "Xã Long Sơn, Huyện Sơn Động, Tỉnh Bắc Giang",
+        "code": "07672",
+        "parent_code": "220"
+    },
+    "07675": {
+        "name": "Tuấn Mậu",
+        "type": "xa",
+        "slug": "tuan-mau",
+        "name_with_type": "Xã Tuấn Mậu",
+        "path": "Tuấn Mậu, Sơn Động, Bắc Giang",
+        "path_with_type": "Xã Tuấn Mậu, Huyện Sơn Động, Tỉnh Bắc Giang",
+        "code": "07675",
+        "parent_code": "220"
+    },
+    "07678": {
+        "name": "Thanh Luận",
+        "type": "xa",
+        "slug": "thanh-luan",
+        "name_with_type": "Xã Thanh Luận",
+        "path": "Thanh Luận, Sơn Động, Bắc Giang",
+        "path_with_type": "Xã Thanh Luận, Huyện Sơn Động, Tỉnh Bắc Giang",
+        "code": "07678",
+        "parent_code": "220"
+    }
+}

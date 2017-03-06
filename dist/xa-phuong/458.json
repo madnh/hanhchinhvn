@@ -1,0 +1,162 @@
+{
+    "19009": {
+        "name": "Ba Đồn",
+        "type": "phuong",
+        "slug": "ba-don",
+        "name_with_type": "Phường Ba Đồn",
+        "path": "Ba Đồn, Ba Đồn, Quảng Bình",
+        "path_with_type": "Phường Ba Đồn, Thị xã Ba Đồn, Tỉnh Quảng Bình",
+        "code": "19009",
+        "parent_code": "458"
+    },
+    "19060": {
+        "name": "Quảng Long",
+        "type": "phuong",
+        "slug": "quang-long",
+        "name_with_type": "Phường Quảng Long",
+        "path": "Quảng Long, Ba Đồn, Quảng Bình",
+        "path_with_type": "Phường Quảng Long, Thị xã Ba Đồn, Tỉnh Quảng Bình",
+        "code": "19060",
+        "parent_code": "458"
+    },
+    "19066": {
+        "name": "Quảng Thọ",
+        "type": "phuong",
+        "slug": "quang-tho",
+        "name_with_type": "Phường Quảng Thọ",
+        "path": "Quảng Thọ, Ba Đồn, Quảng Bình",
+        "path_with_type": "Phường Quảng Thọ, Thị xã Ba Đồn, Tỉnh Quảng Bình",
+        "code": "19066",
+        "parent_code": "458"
+    },
+    "19069": {
+        "name": "Quảng Tiên",
+        "type": "xa",
+        "slug": "quang-tien",
+        "name_with_type": "Xã Quảng Tiên",
+        "path": "Quảng Tiên, Ba Đồn, Quảng Bình",
+        "path_with_type": "Xã Quảng Tiên, Thị xã Ba Đồn, Tỉnh Quảng Bình",
+        "code": "19069",
+        "parent_code": "458"
+    },
+    "19075": {
+        "name": "Quảng Trung",
+        "type": "xa",
+        "slug": "quang-trung",
+        "name_with_type": "Xã Quảng Trung",
+        "path": "Quảng Trung, Ba Đồn, Quảng Bình",
+        "path_with_type": "Xã Quảng Trung, Thị xã Ba Đồn, Tỉnh Quảng Bình",
+        "code": "19075",
+        "parent_code": "458"
+    },
+    "19078": {
+        "name": "Quảng Phong",
+        "type": "phuong",
+        "slug": "quang-phong",
+        "name_with_type": "Phường Quảng Phong",
+        "path": "Quảng Phong, Ba Đồn, Quảng Bình",
+        "path_with_type": "Phường Quảng Phong, Thị xã Ba Đồn, Tỉnh Quảng Bình",
+        "code": "19078",
+        "parent_code": "458"
+    },
+    "19081": {
+        "name": "Quảng Thuận",
+        "type": "phuong",
+        "slug": "quang-thuan",
+        "name_with_type": "Phường Quảng Thuận",
+        "path": "Quảng Thuận, Ba Đồn, Quảng Bình",
+        "path_with_type": "Phường Quảng Thuận, Thị xã Ba Đồn, Tỉnh Quảng Bình",
+        "code": "19081",
+        "parent_code": "458"
+    },
+    "19084": {
+        "name": "Quảng Tân",
+        "type": "xa",
+        "slug": "quang-tan",
+        "name_with_type": "Xã Quảng Tân",
+        "path": "Quảng Tân, Ba Đồn, Quảng Bình",
+        "path_with_type": "Xã Quảng Tân, Thị xã Ba Đồn, Tỉnh Quảng Bình",
+        "code": "19084",
+        "parent_code": "458"
+    },
+    "19087": {
+        "name": "Quảng Hải",
+        "type": "xa",
+        "slug": "quang-hai",
+        "name_with_type": "Xã Quảng Hải",
+        "path": "Quảng Hải, Ba Đồn, Quảng Bình",
+        "path_with_type": "Xã Quảng Hải, Thị xã Ba Đồn, Tỉnh Quảng Bình",
+        "code": "19087",
+        "parent_code": "458"
+    },
+    "19090": {
+        "name": "Quảng Sơn",
+        "type": "xa",
+        "slug": "quang-son",
+        "name_with_type": "Xã Quảng Sơn",
+        "path": "Quảng Sơn, Ba Đồn, Quảng Bình",
+        "path_with_type": "Xã Quảng Sơn, Thị xã Ba Đồn, Tỉnh Quảng Bình",
+        "code": "19090",
+        "parent_code": "458"
+    },
+    "19093": {
+        "name": "Quảng Lộc",
+        "type": "xa",
+        "slug": "quang-loc",
+        "name_with_type": "Xã Quảng Lộc",
+        "path": "Quảng Lộc, Ba Đồn, Quảng Bình",
+        "path_with_type": "Xã Quảng Lộc, Thị xã Ba Đồn, Tỉnh Quảng Bình",
+        "code": "19093",
+        "parent_code": "458"
+    },
+    "19096": {
+        "name": "Quảng Thủy",
+        "type": "xa",
+        "slug": "quang-thuy",
+        "name_with_type": "Xã Quảng Thủy",
+        "path": "Quảng Thủy, Ba Đồn, Quảng Bình",
+        "path_with_type": "Xã Quảng Thủy, Thị xã Ba Đồn, Tỉnh Quảng Bình",
+        "code": "19096",
+        "parent_code": "458"
+    },
+    "19099": {
+        "name": "Quảng Văn",
+        "type": "xa",
+        "slug": "quang-van",
+        "name_with_type": "Xã Quảng Văn",
+        "path": "Quảng Văn, Ba Đồn, Quảng Bình",
+        "path_with_type": "Xã Quảng Văn, Thị xã Ba Đồn, Tỉnh Quảng Bình",
+        "code": "19099",
+        "parent_code": "458"
+    },
+    "19102": {
+        "name": "Quảng Phúc",
+        "type": "phuong",
+        "slug": "quang-phuc",
+        "name_with_type": "Phường Quảng Phúc",
+        "path": "Quảng Phúc, Ba Đồn, Quảng Bình",
+        "path_with_type": "Phường Quảng Phúc, Thị xã Ba Đồn, Tỉnh Quảng Bình",
+        "code": "19102",
+        "parent_code": "458"
+    },
+    "19105": {
+        "name": "Quảng Hòa",
+        "type": "xa",
+        "slug": "quang-hoa",
+        "name_with_type": "Xã Quảng Hòa",
+        "path": "Quảng Hòa, Ba Đồn, Quảng Bình",
+        "path_with_type": "Xã Quảng Hòa, Thị xã Ba Đồn, Tỉnh Quảng Bình",
+        "code": "19105",
+        "parent_code": "458"
+    },
+    "19108": {
+        "name": "Quảng Minh",
+        "type": "xa",
+        "slug": "quang-minh",
+        "name_with_type": "Xã Quảng Minh",
+        "path": "Quảng Minh, Ba Đồn, Quảng Bình",
+        "path_with_type": "Xã Quảng Minh, Thị xã Ba Đồn, Tỉnh Quảng Bình",
+        "code": "19108",
+        "parent_code": "458"
+    }
+}

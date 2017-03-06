@@ -1,0 +1,152 @@
+{
+    "25585": {
+        "name": "Châu Thành",
+        "type": "thi-tran",
+        "slug": "chau-thanh",
+        "name_with_type": "Thị trấn Châu Thành",
+        "path": "Châu Thành, Châu Thành, Tây Ninh",
+        "path_with_type": "Thị trấn Châu Thành, Huyện Châu Thành, Tỉnh Tây Ninh",
+        "code": "25585",
+        "parent_code": "708"
+    },
+    "25588": {
+        "name": "Hảo Đước",
+        "type": "xa",
+        "slug": "hao-duoc",
+        "name_with_type": "Xã Hảo Đước",
+        "path": "Hảo Đước, Châu Thành, Tây Ninh",
+        "path_with_type": "Xã Hảo Đước, Huyện Châu Thành, Tỉnh Tây Ninh",
+        "code": "25588",
+        "parent_code": "708"
+    },
+    "25591": {
+        "name": "Phước Vinh",
+        "type": "xa",
+        "slug": "phuoc-vinh",
+        "name_with_type": "Xã Phước Vinh",
+        "path": "Phước Vinh, Châu Thành, Tây Ninh",
+        "path_with_type": "Xã Phước Vinh, Huyện Châu Thành, Tỉnh Tây Ninh",
+        "code": "25591",
+        "parent_code": "708"
+    },
+    "25594": {
+        "name": "Đồng Khởi",
+        "type": "xa",
+        "slug": "dong-khoi",
+        "name_with_type": "Xã Đồng Khởi",
+        "path": "Đồng Khởi, Châu Thành, Tây Ninh",
+        "path_with_type": "Xã Đồng Khởi, Huyện Châu Thành, Tỉnh Tây Ninh",
+        "code": "25594",
+        "parent_code": "708"
+    },
+    "25597": {
+        "name": "Thái Bình",
+        "type": "xa",
+        "slug": "thai-binh",
+        "name_with_type": "Xã Thái Bình",
+        "path": "Thái Bình, Châu Thành, Tây Ninh",
+        "path_with_type": "Xã Thái Bình, Huyện Châu Thành, Tỉnh Tây Ninh",
+        "code": "25597",
+        "parent_code": "708"
+    },
+    "25600": {
+        "name": "An Cơ",
+        "type": "xa",
+        "slug": "an-co",
+        "name_with_type": "Xã An Cơ",
+        "path": "An Cơ, Châu Thành, Tây Ninh",
+        "path_with_type": "Xã An Cơ, Huyện Châu Thành, Tỉnh Tây Ninh",
+        "code": "25600",
+        "parent_code": "708"
+    },
+    "25603": {
+        "name": "Biên Giới",
+        "type": "xa",
+        "slug": "bien-gioi",
+        "name_with_type": "Xã Biên Giới",
+        "path": "Biên Giới, Châu Thành, Tây Ninh",
+        "path_with_type": "Xã Biên Giới, Huyện Châu Thành, Tỉnh Tây Ninh",
+        "code": "25603",
+        "parent_code": "708"
+    },
+    "25606": {
+        "name": "Hòa Thạnh",
+        "type": "xa",
+        "slug": "hoa-thanh",
+        "name_with_type": "Xã Hòa Thạnh",
+        "path": "Hòa Thạnh, Châu Thành, Tây Ninh",
+        "path_with_type": "Xã Hòa Thạnh, Huyện Châu Thành, Tỉnh Tây Ninh",
+        "code": "25606",
+        "parent_code": "708"
+    },
+    "25609": {
+        "name": "Trí Bình",
+        "type": "xa",
+        "slug": "tri-binh",
+        "name_with_type": "Xã Trí Bình",
+        "path": "Trí Bình, Châu Thành, Tây Ninh",
+        "path_with_type": "Xã Trí Bình, Huyện Châu Thành, Tỉnh Tây Ninh",
+        "code": "25609",
+        "parent_code": "708"
+    },
+    "25612": {
+        "name": "Hòa Hội",
+        "type": "xa",
+        "slug": "hoa-hoi",
+        "name_with_type": "Xã Hòa Hội",
+        "path": "Hòa Hội, Châu Thành, Tây Ninh",
+        "path_with_type": "Xã Hòa Hội, Huyện Châu Thành, Tỉnh Tây Ninh",
+        "code": "25612",
+        "parent_code": "708"
+    },
+    "25615": {
+        "name": "An Bình",
+        "type": "xa",
+        "slug": "an-binh",
+        "name_with_type": "Xã An Bình",
+        "path": "An Bình, Châu Thành, Tây Ninh",
+        "path_with_type": "Xã An Bình, Huyện Châu Thành, Tỉnh Tây Ninh",
+        "code": "25615",
+        "parent_code": "708"
+    },
+    "25618": {
+        "name": "Thanh Điền",
+        "type": "xa",
+        "slug": "thanh-dien",
+        "name_with_type": "Xã Thanh Điền",
+        "path": "Thanh Điền, Châu Thành, Tây Ninh",
+        "path_with_type": "Xã Thanh Điền, Huyện Châu Thành, Tỉnh Tây Ninh",
+        "code": "25618",
+        "parent_code": "708"
+    },
+    "25621": {
+        "name": "Thành Long",
+        "type": "xa",
+        "slug": "thanh-long",
+        "name_with_type": "Xã Thành Long",
+        "path": "Thành Long, Châu Thành, Tây Ninh",
+        "path_with_type": "Xã Thành Long, Huyện Châu Thành, Tỉnh Tây Ninh",
+        "code": "25621",
+        "parent_code": "708"
+    },
+    "25624": {
+        "name": "Ninh Điền",
+        "type": "xa",
+        "slug": "ninh-dien",
+        "name_with_type": "Xã Ninh Điền",
+        "path": "Ninh Điền, Châu Thành, Tây Ninh",
+        "path_with_type": "Xã Ninh Điền, Huyện Châu Thành, Tỉnh Tây Ninh",
+        "code": "25624",
+        "parent_code": "708"
+    },
+    "25627": {
+        "name": "Long Vĩnh",
+        "type": "xa",
+        "slug": "long-vinh",
+        "name_with_type": "Xã Long Vĩnh",
+        "path": "Long Vĩnh, Châu Thành, Tây Ninh",
+        "path_with_type": "Xã Long Vĩnh, Huyện Châu Thành, Tỉnh Tây Ninh",
+        "code": "25627",
+        "parent_code": "708"
+    }
+}

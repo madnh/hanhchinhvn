@@ -1,0 +1,122 @@
+{
+    "288": {
+        "name": "Hải Dương",
+        "type": "thanh-pho",
+        "slug": "hai-duong",
+        "name_with_type": "Thành phố Hải Dương",
+        "path": "Hải Dương, Hải Dương",
+        "path_with_type": "Thành phố Hải Dương, Tỉnh Hải Dương",
+        "code": "288",
+        "parent_code": "30"
+    },
+    "290": {
+        "name": "Chí Linh",
+        "type": "thi-xa",
+        "slug": "chi-linh",
+        "name_with_type": "Thị xã Chí Linh",
+        "path": "Chí Linh, Hải Dương",
+        "path_with_type": "Thị xã Chí Linh, Tỉnh Hải Dương",
+        "code": "290",
+        "parent_code": "30"
+    },
+    "291": {
+        "name": "Nam Sách",
+        "type": "huyen",
+        "slug": "nam-sach",
+        "name_with_type": "Huyện Nam Sách",
+        "path": "Nam Sách, Hải Dương",
+        "path_with_type": "Huyện Nam Sách, Tỉnh Hải Dương",
+        "code": "291",
+        "parent_code": "30"
+    },
+    "292": {
+        "name": "Kinh Môn",
+        "type": "huyen",
+        "slug": "kinh-mon",
+        "name_with_type": "Huyện Kinh Môn",
+        "path": "Kinh Môn, Hải Dương",
+        "path_with_type": "Huyện Kinh Môn, Tỉnh Hải Dương",
+        "code": "292",
+        "parent_code": "30"
+    },
+    "293": {
+        "name": "Kim Thành",
+        "type": "huyen",
+        "slug": "kim-thanh",
+        "name_with_type": "Huyện Kim Thành",
+        "path": "Kim Thành, Hải Dương",
+        "path_with_type": "Huyện Kim Thành, Tỉnh Hải Dương",
+        "code": "293",
+        "parent_code": "30"
+    },
+    "294": {
+        "name": "Thanh Hà",
+        "type": "huyen",
+        "slug": "thanh-ha",
+        "name_with_type": "Huyện Thanh Hà",
+        "path": "Thanh Hà, Hải Dương",
+        "path_with_type": "Huyện Thanh Hà, Tỉnh Hải Dương",
+        "code": "294",
+        "parent_code": "30"
+    },
+    "295": {
+        "name": "Cẩm Giàng",
+        "type": "huyen",
+        "slug": "cam-giang",
+        "name_with_type": "Huyện Cẩm Giàng",
+        "path": "Cẩm Giàng, Hải Dương",
+        "path_with_type": "Huyện Cẩm Giàng, Tỉnh Hải Dương",
+        "code": "295",
+        "parent_code": "30"
+    },
+    "296": {
+        "name": "Bình Giang",
+        "type": "huyen",
+        "slug": "binh-giang",
+        "name_with_type": "Huyện Bình Giang",
+        "path": "Bình Giang, Hải Dương",
+        "path_with_type": "Huyện Bình Giang, Tỉnh Hải Dương",
+        "code": "296",
+        "parent_code": "30"
+    },
+    "297": {
+        "name": "Gia Lộc",
+        "type": "huyen",
+        "slug": "gia-loc",
+        "name_with_type": "Huyện Gia Lộc",
+        "path": "Gia Lộc, Hải Dương",
+        "path_with_type": "Huyện Gia Lộc, Tỉnh Hải Dương",
+        "code": "297",
+        "parent_code": "30"
+    },
+    "298": {
+        "name": "Tứ Kỳ",
+        "type": "huyen",
+        "slug": "tu-ky",
+        "name_with_type": "Huyện Tứ Kỳ",
+        "path": "Tứ Kỳ, Hải Dương",
+        "path_with_type": "Huyện Tứ Kỳ, Tỉnh Hải Dương",
+        "code": "298",
+        "parent_code": "30"
+    },
+    "299": {
+        "name": "Ninh Giang",
+        "type": "huyen",
+        "slug": "ninh-giang",
+        "name_with_type": "Huyện Ninh Giang",
+        "path": "Ninh Giang, Hải Dương",
+        "path_with_type": "Huyện Ninh Giang, Tỉnh Hải Dương",
+        "code": "299",
+        "parent_code": "30"
+    },
+    "300": {
+        "name": "Thanh Miện",
+        "type": "huyen",
+        "slug": "thanh-mien",
+        "name_with_type": "Huyện Thanh Miện",
+        "path": "Thanh Miện, Hải Dương",
+        "path_with_type": "Huyện Thanh Miện, Tỉnh Hải Dương",
+        "code": "300",
+        "parent_code": "30"
+    }
+}

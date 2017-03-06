@@ -1,0 +1,82 @@
+{
+    "06970": {
+        "name": "Ba Chẽ",
+        "type": "thi-tran",
+        "slug": "ba-che",
+        "name_with_type": "Thị trấn Ba Chẽ",
+        "path": "Ba Chẽ, Ba Chẽ, Quảng Ninh",
+        "path_with_type": "Thị trấn Ba Chẽ, Huyện Ba Chẽ, Tỉnh Quảng Ninh",
+        "code": "06970",
+        "parent_code": "202"
+    },
+    "06973": {
+        "name": "Thanh Sơn",
+        "type": "xa",
+        "slug": "thanh-son",
+        "name_with_type": "Xã Thanh Sơn",
+        "path": "Thanh Sơn, Ba Chẽ, Quảng Ninh",
+        "path_with_type": "Xã Thanh Sơn, Huyện Ba Chẽ, Tỉnh Quảng Ninh",
+        "code": "06973",
+        "parent_code": "202"
+    },
+    "06976": {
+        "name": "Thanh Lâm",
+        "type": "xa",
+        "slug": "thanh-lam",
+        "name_with_type": "Xã Thanh Lâm",
+        "path": "Thanh Lâm, Ba Chẽ, Quảng Ninh",
+        "path_with_type": "Xã Thanh Lâm, Huyện Ba Chẽ, Tỉnh Quảng Ninh",
+        "code": "06976",
+        "parent_code": "202"
+    },
+    "06979": {
+        "name": "Đạp Thanh",
+        "type": "xa",
+        "slug": "dap-thanh",
+        "name_with_type": "Xã Đạp Thanh",
+        "path": "Đạp Thanh, Ba Chẽ, Quảng Ninh",
+        "path_with_type": "Xã Đạp Thanh, Huyện Ba Chẽ, Tỉnh Quảng Ninh",
+        "code": "06979",
+        "parent_code": "202"
+    },
+    "06982": {
+        "name": "Nam Sơn",
+        "type": "xa",
+        "slug": "nam-son",
+        "name_with_type": "Xã Nam Sơn",
+        "path": "Nam Sơn, Ba Chẽ, Quảng Ninh",
+        "path_with_type": "Xã Nam Sơn, Huyện Ba Chẽ, Tỉnh Quảng Ninh",
+        "code": "06982",
+        "parent_code": "202"
+    },
+    "06985": {
+        "name": "Lương Mông",
+        "type": "xa",
+        "slug": "luong-mong",
+        "name_with_type": "Xã Lương Mông",
+        "path": "Lương Mông, Ba Chẽ, Quảng Ninh",
+        "path_with_type": "Xã Lương Mông, Huyện Ba Chẽ, Tỉnh Quảng Ninh",
+        "code": "06985",
+        "parent_code": "202"
+    },
+    "06988": {
+        "name": "Đồn Đạc",
+        "type": "xa",
+        "slug": "don-dac",
+        "name_with_type": "Xã Đồn Đạc",
+        "path": "Đồn Đạc, Ba Chẽ, Quảng Ninh",
+        "path_with_type": "Xã Đồn Đạc, Huyện Ba Chẽ, Tỉnh Quảng Ninh",
+        "code": "06988",
+        "parent_code": "202"
+    },
+    "06991": {
+        "name": "Minh Cầm",
+        "type": "xa",
+        "slug": "minh-cam",
+        "name_with_type": "Xã Minh Cầm",
+        "path": "Minh Cầm, Ba Chẽ, Quảng Ninh",
+        "path_with_type": "Xã Minh Cầm, Huyện Ba Chẽ, Tỉnh Quảng Ninh",
+        "code": "06991",
+        "parent_code": "202"
+    }
+}

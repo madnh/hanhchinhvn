@@ -1,0 +1,162 @@
+{
+    "32152": {
+        "name": "Đầm Dơi",
+        "type": "thi-tran",
+        "slug": "dam-doi",
+        "name_with_type": "Thị trấn Đầm Dơi",
+        "path": "Đầm Dơi, Đầm Dơi, Cà Mau",
+        "path_with_type": "Thị trấn Đầm Dơi, Huyện Đầm Dơi, Tỉnh Cà Mau",
+        "code": "32152",
+        "parent_code": "970"
+    },
+    "32155": {
+        "name": "Tạ An Khương",
+        "type": "xa",
+        "slug": "ta-an-khuong",
+        "name_with_type": "Xã Tạ An Khương",
+        "path": "Tạ An Khương, Đầm Dơi, Cà Mau",
+        "path_with_type": "Xã Tạ An Khương, Huyện Đầm Dơi, Tỉnh Cà Mau",
+        "code": "32155",
+        "parent_code": "970"
+    },
+    "32158": {
+        "name": "Tạ An Khương  Đông",
+        "type": "xa",
+        "slug": "ta-an-khuong-dong",
+        "name_with_type": "Xã Tạ An Khương  Đông",
+        "path": "Tạ An Khương  Đông, Đầm Dơi, Cà Mau",
+        "path_with_type": "Xã Tạ An Khương  Đông, Huyện Đầm Dơi, Tỉnh Cà Mau",
+        "code": "32158",
+        "parent_code": "970"
+    },
+    "32161": {
+        "name": "Trần Phán",
+        "type": "xa",
+        "slug": "tran-phan",
+        "name_with_type": "Xã Trần Phán",
+        "path": "Trần Phán, Đầm Dơi, Cà Mau",
+        "path_with_type": "Xã Trần Phán, Huyện Đầm Dơi, Tỉnh Cà Mau",
+        "code": "32161",
+        "parent_code": "970"
+    },
+    "32162": {
+        "name": "Tân Trung",
+        "type": "xa",
+        "slug": "tan-trung",
+        "name_with_type": "Xã Tân Trung",
+        "path": "Tân Trung, Đầm Dơi, Cà Mau",
+        "path_with_type": "Xã Tân Trung, Huyện Đầm Dơi, Tỉnh Cà Mau",
+        "code": "32162",
+        "parent_code": "970"
+    },
+    "32164": {
+        "name": "Tân Đức",
+        "type": "xa",
+        "slug": "tan-duc",
+        "name_with_type": "Xã Tân Đức",
+        "path": "Tân Đức, Đầm Dơi, Cà Mau",
+        "path_with_type": "Xã Tân Đức, Huyện Đầm Dơi, Tỉnh Cà Mau",
+        "code": "32164",
+        "parent_code": "970"
+    },
+    "32167": {
+        "name": "Tân Thuận",
+        "type": "xa",
+        "slug": "tan-thuan",
+        "name_with_type": "Xã Tân Thuận",
+        "path": "Tân Thuận, Đầm Dơi, Cà Mau",
+        "path_with_type": "Xã Tân Thuận, Huyện Đầm Dơi, Tỉnh Cà Mau",
+        "code": "32167",
+        "parent_code": "970"
+    },
+    "32170": {
+        "name": "Tạ An Khương  Nam",
+        "type": "xa",
+        "slug": "ta-an-khuong-nam",
+        "name_with_type": "Xã Tạ An Khương  Nam",
+        "path": "Tạ An Khương  Nam, Đầm Dơi, Cà Mau",
+        "path_with_type": "Xã Tạ An Khương  Nam, Huyện Đầm Dơi, Tỉnh Cà Mau",
+        "code": "32170",
+        "parent_code": "970"
+    },
+    "32173": {
+        "name": "Tân Duyệt",
+        "type": "xa",
+        "slug": "tan-duyet",
+        "name_with_type": "Xã Tân Duyệt",
+        "path": "Tân Duyệt, Đầm Dơi, Cà Mau",
+        "path_with_type": "Xã Tân Duyệt, Huyện Đầm Dơi, Tỉnh Cà Mau",
+        "code": "32173",
+        "parent_code": "970"
+    },
+    "32174": {
+        "name": "Tân Dân",
+        "type": "xa",
+        "slug": "tan-dan",
+        "name_with_type": "Xã Tân Dân",
+        "path": "Tân Dân, Đầm Dơi, Cà Mau",
+        "path_with_type": "Xã Tân Dân, Huyện Đầm Dơi, Tỉnh Cà Mau",
+        "code": "32174",
+        "parent_code": "970"
+    },
+    "32176": {
+        "name": "Tân Tiến",
+        "type": "xa",
+        "slug": "tan-tien",
+        "name_with_type": "Xã Tân Tiến",
+        "path": "Tân Tiến, Đầm Dơi, Cà Mau",
+        "path_with_type": "Xã Tân Tiến, Huyện Đầm Dơi, Tỉnh Cà Mau",
+        "code": "32176",
+        "parent_code": "970"
+    },
+    "32179": {
+        "name": "Quách Phẩm Bắc",
+        "type": "xa",
+        "slug": "quach-pham-bac",
+        "name_with_type": "Xã Quách Phẩm Bắc",
+        "path": "Quách Phẩm Bắc, Đầm Dơi, Cà Mau",
+        "path_with_type": "Xã Quách Phẩm Bắc, Huyện Đầm Dơi, Tỉnh Cà Mau",
+        "code": "32179",
+        "parent_code": "970"
+    },
+    "32182": {
+        "name": "Quách Phẩm",
+        "type": "xa",
+        "slug": "quach-pham",
+        "name_with_type": "Xã Quách Phẩm",
+        "path": "Quách Phẩm, Đầm Dơi, Cà Mau",
+        "path_with_type": "Xã Quách Phẩm, Huyện Đầm Dơi, Tỉnh Cà Mau",
+        "code": "32182",
+        "parent_code": "970"
+    },
+    "32185": {
+        "name": "Thanh Tùng",
+        "type": "xa",
+        "slug": "thanh-tung",
+        "name_with_type": "Xã Thanh Tùng",
+        "path": "Thanh Tùng, Đầm Dơi, Cà Mau",
+        "path_with_type": "Xã Thanh Tùng, Huyện Đầm Dơi, Tỉnh Cà Mau",
+        "code": "32185",
+        "parent_code": "970"
+    },
+    "32186": {
+        "name": "Ngọc Chánh",
+        "type": "xa",
+        "slug": "ngoc-chanh",
+        "name_with_type": "Xã Ngọc Chánh",
+        "path": "Ngọc Chánh, Đầm Dơi, Cà Mau",
+        "path_with_type": "Xã Ngọc Chánh, Huyện Đầm Dơi, Tỉnh Cà Mau",
+        "code": "32186",
+        "parent_code": "970"
+    },
+    "32188": {
+        "name": "Nguyễn Huân",
+        "type": "xa",
+        "slug": "nguyen-huan",
+        "name_with_type": "Xã Nguyễn Huân",
+        "path": "Nguyễn Huân, Đầm Dơi, Cà Mau",
+        "path_with_type": "Xã Nguyễn Huân, Huyện Đầm Dơi, Tỉnh Cà Mau",
+        "code": "32188",
+        "parent_code": "970"
+    }
+}

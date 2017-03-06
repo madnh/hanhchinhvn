@@ -1,0 +1,232 @@
+{
+    "05995": {
+        "name": "Thất Khê",
+        "type": "thi-tran",
+        "slug": "that-khe",
+        "name_with_type": "Thị trấn Thất Khê",
+        "path": "Thất Khê, Tràng Định, Lạng Sơn",
+        "path_with_type": "Thị trấn Thất Khê, Huyện Tràng Định, Tỉnh Lạng Sơn",
+        "code": "05995",
+        "parent_code": "180"
+    },
+    "05998": {
+        "name": "Khánh Long",
+        "type": "xa",
+        "slug": "khanh-long",
+        "name_with_type": "Xã Khánh Long",
+        "path": "Khánh Long, Tràng Định, Lạng Sơn",
+        "path_with_type": "Xã Khánh Long, Huyện Tràng Định, Tỉnh Lạng Sơn",
+        "code": "05998",
+        "parent_code": "180"
+    },
+    "06001": {
+        "name": "Đoàn Kết",
+        "type": "xa",
+        "slug": "doan-ket",
+        "name_with_type": "Xã Đoàn Kết",
+        "path": "Đoàn Kết, Tràng Định, Lạng Sơn",
+        "path_with_type": "Xã Đoàn Kết, Huyện Tràng Định, Tỉnh Lạng Sơn",
+        "code": "06001",
+        "parent_code": "180"
+    },
+    "06004": {
+        "name": "Quốc Khánh",
+        "type": "xa",
+        "slug": "quoc-khanh",
+        "name_with_type": "Xã Quốc Khánh",
+        "path": "Quốc Khánh, Tràng Định, Lạng Sơn",
+        "path_with_type": "Xã Quốc Khánh, Huyện Tràng Định, Tỉnh Lạng Sơn",
+        "code": "06004",
+        "parent_code": "180"
+    },
+    "06007": {
+        "name": "Vĩnh Tiến",
+        "type": "xa",
+        "slug": "vinh-tien",
+        "name_with_type": "Xã Vĩnh Tiến",
+        "path": "Vĩnh Tiến, Tràng Định, Lạng Sơn",
+        "path_with_type": "Xã Vĩnh Tiến, Huyện Tràng Định, Tỉnh Lạng Sơn",
+        "code": "06007",
+        "parent_code": "180"
+    },
+    "06010": {
+        "name": "Cao Minh",
+        "type": "xa",
+        "slug": "cao-minh",
+        "name_with_type": "Xã Cao Minh",
+        "path": "Cao Minh, Tràng Định, Lạng Sơn",
+        "path_with_type": "Xã Cao Minh, Huyện Tràng Định, Tỉnh Lạng Sơn",
+        "code": "06010",
+        "parent_code": "180"
+    },
+    "06013": {
+        "name": "Chí Minh",
+        "type": "xa",
+        "slug": "chi-minh",
+        "name_with_type": "Xã Chí Minh",
+        "path": "Chí Minh, Tràng Định, Lạng Sơn",
+        "path_with_type": "Xã Chí Minh, Huyện Tràng Định, Tỉnh Lạng Sơn",
+        "code": "06013",
+        "parent_code": "180"
+    },
+    "06016": {
+        "name": "Tri Phương",
+        "type": "xa",
+        "slug": "tri-phuong",
+        "name_with_type": "Xã Tri Phương",
+        "path": "Tri Phương, Tràng Định, Lạng Sơn",
+        "path_with_type": "Xã Tri Phương, Huyện Tràng Định, Tỉnh Lạng Sơn",
+        "code": "06016",
+        "parent_code": "180"
+    },
+    "06019": {
+        "name": "Tân Tiến",
+        "type": "xa",
+        "slug": "tan-tien",
+        "name_with_type": "Xã Tân Tiến",
+        "path": "Tân Tiến, Tràng Định, Lạng Sơn",
+        "path_with_type": "Xã Tân Tiến, Huyện Tràng Định, Tỉnh Lạng Sơn",
+        "code": "06019",
+        "parent_code": "180"
+    },
+    "06022": {
+        "name": "Tân Yên",
+        "type": "xa",
+        "slug": "tan-yen",
+        "name_with_type": "Xã Tân Yên",
+        "path": "Tân Yên, Tràng Định, Lạng Sơn",
+        "path_with_type": "Xã Tân Yên, Huyện Tràng Định, Tỉnh Lạng Sơn",
+        "code": "06022",
+        "parent_code": "180"
+    },
+    "06025": {
+        "name": "Đội Cấn",
+        "type": "xa",
+        "slug": "doi-can",
+        "name_with_type": "Xã Đội Cấn",
+        "path": "Đội Cấn, Tràng Định, Lạng Sơn",
+        "path_with_type": "Xã Đội Cấn, Huyện Tràng Định, Tỉnh Lạng Sơn",
+        "code": "06025",
+        "parent_code": "180"
+    },
+    "06028": {
+        "name": "Tân Minh",
+        "type": "xa",
+        "slug": "tan-minh",
+        "name_with_type": "Xã Tân Minh",
+        "path": "Tân Minh, Tràng Định, Lạng Sơn",
+        "path_with_type": "Xã Tân Minh, Huyện Tràng Định, Tỉnh Lạng Sơn",
+        "code": "06028",
+        "parent_code": "180"
+    },
+    "06031": {
+        "name": "Kim Đồng",
+        "type": "xa",
+        "slug": "kim-dong",
+        "name_with_type": "Xã Kim Đồng",
+        "path": "Kim Đồng, Tràng Định, Lạng Sơn",
+        "path_with_type": "Xã Kim Đồng, Huyện Tràng Định, Tỉnh Lạng Sơn",
+        "code": "06031",
+        "parent_code": "180"
+    },
+    "06034": {
+        "name": "Chi Lăng",
+        "type": "xa",
+        "slug": "chi-lang",
+        "name_with_type": "Xã Chi Lăng",
+        "path": "Chi Lăng, Tràng Định, Lạng Sơn",
+        "path_with_type": "Xã Chi Lăng, Huyện Tràng Định, Tỉnh Lạng Sơn",
+        "code": "06034",
+        "parent_code": "180"
+    },
+    "06037": {
+        "name": "Trung Thành",
+        "type": "xa",
+        "slug": "trung-thanh",
+        "name_with_type": "Xã Trung Thành",
+        "path": "Trung Thành, Tràng Định, Lạng Sơn",
+        "path_with_type": "Xã Trung Thành, Huyện Tràng Định, Tỉnh Lạng Sơn",
+        "code": "06037",
+        "parent_code": "180"
+    },
+    "06040": {
+        "name": "Đại Đồng",
+        "type": "xa",
+        "slug": "dai-dong",
+        "name_with_type": "Xã Đại Đồng",
+        "path": "Đại Đồng, Tràng Định, Lạng Sơn",
+        "path_with_type": "Xã Đại Đồng, Huyện Tràng Định, Tỉnh Lạng Sơn",
+        "code": "06040",
+        "parent_code": "180"
+    },
+    "06043": {
+        "name": "Đào Viên",
+        "type": "xa",
+        "slug": "dao-vien",
+        "name_with_type": "Xã Đào Viên",
+        "path": "Đào Viên, Tràng Định, Lạng Sơn",
+        "path_with_type": "Xã Đào Viên, Huyện Tràng Định, Tỉnh Lạng Sơn",
+        "code": "06043",
+        "parent_code": "180"
+    },
+    "06046": {
+        "name": "Đề Thám",
+        "type": "xa",
+        "slug": "de-tham",
+        "name_with_type": "Xã Đề Thám",
+        "path": "Đề Thám, Tràng Định, Lạng Sơn",
+        "path_with_type": "Xã Đề Thám, Huyện Tràng Định, Tỉnh Lạng Sơn",
+        "code": "06046",
+        "parent_code": "180"
+    },
+    "06049": {
+        "name": "Kháng Chiến",
+        "type": "xa",
+        "slug": "khang-chien",
+        "name_with_type": "Xã Kháng Chiến",
+        "path": "Kháng Chiến, Tràng Định, Lạng Sơn",
+        "path_with_type": "Xã Kháng Chiến, Huyện Tràng Định, Tỉnh Lạng Sơn",
+        "code": "06049",
+        "parent_code": "180"
+    },
+    "06052": {
+        "name": "Bắc Ái",
+        "type": "xa",
+        "slug": "bac-ai",
+        "name_with_type": "Xã Bắc Ái",
+        "path": "Bắc Ái, Tràng Định, Lạng Sơn",
+        "path_with_type": "Xã Bắc Ái, Huyện Tràng Định, Tỉnh Lạng Sơn",
+        "code": "06052",
+        "parent_code": "180"
+    },
+    "06055": {
+        "name": "Hùng Sơn",
+        "type": "xa",
+        "slug": "hung-son",
+        "name_with_type": "Xã Hùng Sơn",
+        "path": "Hùng Sơn, Tràng Định, Lạng Sơn",
+        "path_with_type": "Xã Hùng Sơn, Huyện Tràng Định, Tỉnh Lạng Sơn",
+        "code": "06055",
+        "parent_code": "180"
+    },
+    "06058": {
+        "name": "Quốc Việt",
+        "type": "xa",
+        "slug": "quoc-viet",
+        "name_with_type": "Xã Quốc Việt",
+        "path": "Quốc Việt, Tràng Định, Lạng Sơn",
+        "path_with_type": "Xã Quốc Việt, Huyện Tràng Định, Tỉnh Lạng Sơn",
+        "code": "06058",
+        "parent_code": "180"
+    },
+    "06061": {
+        "name": "Hùng Việt",
+        "type": "xa",
+        "slug": "hung-viet",
+        "name_with_type": "Xã Hùng Việt",
+        "path": "Hùng Việt, Tràng Định, Lạng Sơn",
+        "path_with_type": "Xã Hùng Việt, Huyện Tràng Định, Tỉnh Lạng Sơn",
+        "code": "06061",
+        "parent_code": "180"
+    }
+}

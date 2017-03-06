@@ -1,0 +1,122 @@
+{
+    "27721": {
+        "name": "Tân Hưng",
+        "type": "thi-tran",
+        "slug": "tan-hung",
+        "name_with_type": "Thị trấn Tân Hưng",
+        "path": "Tân Hưng, Tân Hưng, Long An",
+        "path_with_type": "Thị trấn Tân Hưng, Huyện Tân Hưng, Tỉnh Long An",
+        "code": "27721",
+        "parent_code": "796"
+    },
+    "27724": {
+        "name": "Hưng Hà",
+        "type": "xa",
+        "slug": "hung-ha",
+        "name_with_type": "Xã Hưng Hà",
+        "path": "Hưng Hà, Tân Hưng, Long An",
+        "path_with_type": "Xã Hưng Hà, Huyện Tân Hưng, Tỉnh Long An",
+        "code": "27724",
+        "parent_code": "796"
+    },
+    "27727": {
+        "name": "Hưng Điền B",
+        "type": "xa",
+        "slug": "hung-dien-b",
+        "name_with_type": "Xã Hưng Điền B",
+        "path": "Hưng Điền B, Tân Hưng, Long An",
+        "path_with_type": "Xã Hưng Điền B, Huyện Tân Hưng, Tỉnh Long An",
+        "code": "27727",
+        "parent_code": "796"
+    },
+    "27730": {
+        "name": "Hưng Điền",
+        "type": "xa",
+        "slug": "hung-dien",
+        "name_with_type": "Xã Hưng Điền",
+        "path": "Hưng Điền, Tân Hưng, Long An",
+        "path_with_type": "Xã Hưng Điền, Huyện Tân Hưng, Tỉnh Long An",
+        "code": "27730",
+        "parent_code": "796"
+    },
+    "27733": {
+        "name": "Thạnh Hưng",
+        "type": "xa",
+        "slug": "thanh-hung",
+        "name_with_type": "Xã Thạnh Hưng",
+        "path": "Thạnh Hưng, Tân Hưng, Long An",
+        "path_with_type": "Xã Thạnh Hưng, Huyện Tân Hưng, Tỉnh Long An",
+        "code": "27733",
+        "parent_code": "796"
+    },
+    "27736": {
+        "name": "Hưng Thạnh",
+        "type": "xa",
+        "slug": "hung-thanh",
+        "name_with_type": "Xã Hưng Thạnh",
+        "path": "Hưng Thạnh, Tân Hưng, Long An",
+        "path_with_type": "Xã Hưng Thạnh, Huyện Tân Hưng, Tỉnh Long An",
+        "code": "27736",
+        "parent_code": "796"
+    },
+    "27739": {
+        "name": "Vĩnh Thạnh",
+        "type": "xa",
+        "slug": "vinh-thanh",
+        "name_with_type": "Xã Vĩnh Thạnh",
+        "path": "Vĩnh Thạnh, Tân Hưng, Long An",
+        "path_with_type": "Xã Vĩnh Thạnh, Huyện Tân Hưng, Tỉnh Long An",
+        "code": "27739",
+        "parent_code": "796"
+    },
+    "27742": {
+        "name": "Vĩnh Châu B",
+        "type": "xa",
+        "slug": "vinh-chau-b",
+        "name_with_type": "Xã Vĩnh Châu B",
+        "path": "Vĩnh Châu B, Tân Hưng, Long An",
+        "path_with_type": "Xã Vĩnh Châu B, Huyện Tân Hưng, Tỉnh Long An",
+        "code": "27742",
+        "parent_code": "796"
+    },
+    "27745": {
+        "name": "Vĩnh Lợi",
+        "type": "xa",
+        "slug": "vinh-loi",
+        "name_with_type": "Xã Vĩnh Lợi",
+        "path": "Vĩnh Lợi, Tân Hưng, Long An",
+        "path_with_type": "Xã Vĩnh Lợi, Huyện Tân Hưng, Tỉnh Long An",
+        "code": "27745",
+        "parent_code": "796"
+    },
+    "27748": {
+        "name": "Vĩnh Đại",
+        "type": "xa",
+        "slug": "vinh-dai",
+        "name_with_type": "Xã Vĩnh Đại",
+        "path": "Vĩnh Đại, Tân Hưng, Long An",
+        "path_with_type": "Xã Vĩnh Đại, Huyện Tân Hưng, Tỉnh Long An",
+        "code": "27748",
+        "parent_code": "796"
+    },
+    "27751": {
+        "name": "Vĩnh Châu A",
+        "type": "xa",
+        "slug": "vinh-chau-a",
+        "name_with_type": "Xã Vĩnh Châu A",
+        "path": "Vĩnh Châu A, Tân Hưng, Long An",
+        "path_with_type": "Xã Vĩnh Châu A, Huyện Tân Hưng, Tỉnh Long An",
+        "code": "27751",
+        "parent_code": "796"
+    },
+    "27754": {
+        "name": "Vĩnh Bửu",
+        "type": "xa",
+        "slug": "vinh-buu",
+        "name_with_type": "Xã Vĩnh Bửu",
+        "path": "Vĩnh Bửu, Tân Hưng, Long An",
+        "path_with_type": "Xã Vĩnh Bửu, Huyện Tân Hưng, Tỉnh Long An",
+        "code": "27754",
+        "parent_code": "796"
+    }
+}

@@ -1,0 +1,192 @@
+{
+    "18349": {
+        "name": "Nghi Xuân",
+        "type": "thi-tran",
+        "slug": "nghi-xuan",
+        "name_with_type": "Thị trấn Nghi Xuân",
+        "path": "Nghi Xuân, Nghi Xuân, Hà Tĩnh",
+        "path_with_type": "Thị trấn Nghi Xuân, Huyện Nghi Xuân, Tỉnh Hà Tĩnh",
+        "code": "18349",
+        "parent_code": "442"
+    },
+    "18352": {
+        "name": "Xuân An",
+        "type": "thi-tran",
+        "slug": "xuan-an",
+        "name_with_type": "Thị trấn Xuân An",
+        "path": "Xuân An, Nghi Xuân, Hà Tĩnh",
+        "path_with_type": "Thị trấn Xuân An, Huyện Nghi Xuân, Tỉnh Hà Tĩnh",
+        "code": "18352",
+        "parent_code": "442"
+    },
+    "18355": {
+        "name": "Xuân Hội",
+        "type": "xa",
+        "slug": "xuan-hoi",
+        "name_with_type": "Xã Xuân Hội",
+        "path": "Xuân Hội, Nghi Xuân, Hà Tĩnh",
+        "path_with_type": "Xã Xuân Hội, Huyện Nghi Xuân, Tỉnh Hà Tĩnh",
+        "code": "18355",
+        "parent_code": "442"
+    },
+    "18358": {
+        "name": "Xuân Trường",
+        "type": "xa",
+        "slug": "xuan-truong",
+        "name_with_type": "Xã Xuân Trường",
+        "path": "Xuân Trường, Nghi Xuân, Hà Tĩnh",
+        "path_with_type": "Xã Xuân Trường, Huyện Nghi Xuân, Tỉnh Hà Tĩnh",
+        "code": "18358",
+        "parent_code": "442"
+    },
+    "18361": {
+        "name": "Xuân Đan",
+        "type": "xa",
+        "slug": "xuan-dan",
+        "name_with_type": "Xã Xuân Đan",
+        "path": "Xuân Đan, Nghi Xuân, Hà Tĩnh",
+        "path_with_type": "Xã Xuân Đan, Huyện Nghi Xuân, Tỉnh Hà Tĩnh",
+        "code": "18361",
+        "parent_code": "442"
+    },
+    "18364": {
+        "name": "Xuân Phổ",
+        "type": "xa",
+        "slug": "xuan-pho",
+        "name_with_type": "Xã Xuân Phổ",
+        "path": "Xuân Phổ, Nghi Xuân, Hà Tĩnh",
+        "path_with_type": "Xã Xuân Phổ, Huyện Nghi Xuân, Tỉnh Hà Tĩnh",
+        "code": "18364",
+        "parent_code": "442"
+    },
+    "18367": {
+        "name": "Xuân Hải",
+        "type": "xa",
+        "slug": "xuan-hai",
+        "name_with_type": "Xã Xuân Hải",
+        "path": "Xuân Hải, Nghi Xuân, Hà Tĩnh",
+        "path_with_type": "Xã Xuân Hải, Huyện Nghi Xuân, Tỉnh Hà Tĩnh",
+        "code": "18367",
+        "parent_code": "442"
+    },
+    "18370": {
+        "name": "Xuân Giang",
+        "type": "xa",
+        "slug": "xuan-giang",
+        "name_with_type": "Xã Xuân Giang",
+        "path": "Xuân Giang, Nghi Xuân, Hà Tĩnh",
+        "path_with_type": "Xã Xuân Giang, Huyện Nghi Xuân, Tỉnh Hà Tĩnh",
+        "code": "18370",
+        "parent_code": "442"
+    },
+    "18373": {
+        "name": "Tiên Điền",
+        "type": "xa",
+        "slug": "tien-dien",
+        "name_with_type": "Xã Tiên Điền",
+        "path": "Tiên Điền, Nghi Xuân, Hà Tĩnh",
+        "path_with_type": "Xã Tiên Điền, Huyện Nghi Xuân, Tỉnh Hà Tĩnh",
+        "code": "18373",
+        "parent_code": "442"
+    },
+    "18376": {
+        "name": "Xuân Yên",
+        "type": "xa",
+        "slug": "xuan-yen",
+        "name_with_type": "Xã Xuân Yên",
+        "path": "Xuân Yên, Nghi Xuân, Hà Tĩnh",
+        "path_with_type": "Xã Xuân Yên, Huyện Nghi Xuân, Tỉnh Hà Tĩnh",
+        "code": "18376",
+        "parent_code": "442"
+    },
+    "18379": {
+        "name": "Xuân Mỹ",
+        "type": "xa",
+        "slug": "xuan-my",
+        "name_with_type": "Xã Xuân Mỹ",
+        "path": "Xuân Mỹ, Nghi Xuân, Hà Tĩnh",
+        "path_with_type": "Xã Xuân Mỹ, Huyện Nghi Xuân, Tỉnh Hà Tĩnh",
+        "code": "18379",
+        "parent_code": "442"
+    },
+    "18382": {
+        "name": "Xuân Thành",
+        "type": "xa",
+        "slug": "xuan-thanh",
+        "name_with_type": "Xã Xuân Thành",
+        "path": "Xuân Thành, Nghi Xuân, Hà Tĩnh",
+        "path_with_type": "Xã Xuân Thành, Huyện Nghi Xuân, Tỉnh Hà Tĩnh",
+        "code": "18382",
+        "parent_code": "442"
+    },
+    "18385": {
+        "name": "Xuân Viên",
+        "type": "xa",
+        "slug": "xuan-vien",
+        "name_with_type": "Xã Xuân Viên",
+        "path": "Xuân Viên, Nghi Xuân, Hà Tĩnh",
+        "path_with_type": "Xã Xuân Viên, Huyện Nghi Xuân, Tỉnh Hà Tĩnh",
+        "code": "18385",
+        "parent_code": "442"
+    },
+    "18388": {
+        "name": "Xuân Hồng",
+        "type": "xa",
+        "slug": "xuan-hong",
+        "name_with_type": "Xã Xuân Hồng",
+        "path": "Xuân Hồng, Nghi Xuân, Hà Tĩnh",
+        "path_with_type": "Xã Xuân Hồng, Huyện Nghi Xuân, Tỉnh Hà Tĩnh",
+        "code": "18388",
+        "parent_code": "442"
+    },
+    "18391": {
+        "name": "Cỗ Đạm",
+        "type": "xa",
+        "slug": "co-dam",
+        "name_with_type": "Xã Cỗ Đạm",
+        "path": "Cỗ Đạm, Nghi Xuân, Hà Tĩnh",
+        "path_with_type": "Xã Cỗ Đạm, Huyện Nghi Xuân, Tỉnh Hà Tĩnh",
+        "code": "18391",
+        "parent_code": "442"
+    },
+    "18394": {
+        "name": "Xuân Liên",
+        "type": "xa",
+        "slug": "xuan-lien",
+        "name_with_type": "Xã Xuân Liên",
+        "path": "Xuân Liên, Nghi Xuân, Hà Tĩnh",
+        "path_with_type": "Xã Xuân Liên, Huyện Nghi Xuân, Tỉnh Hà Tĩnh",
+        "code": "18394",
+        "parent_code": "442"
+    },
+    "18397": {
+        "name": "Xuân Lĩnh",
+        "type": "xa",
+        "slug": "xuan-linh",
+        "name_with_type": "Xã Xuân Lĩnh",
+        "path": "Xuân Lĩnh, Nghi Xuân, Hà Tĩnh",
+        "path_with_type": "Xã Xuân Lĩnh, Huyện Nghi Xuân, Tỉnh Hà Tĩnh",
+        "code": "18397",
+        "parent_code": "442"
+    },
+    "18400": {
+        "name": "Xuân Lam",
+        "type": "xa",
+        "slug": "xuan-lam",
+        "name_with_type": "Xã Xuân Lam",
+        "path": "Xuân Lam, Nghi Xuân, Hà Tĩnh",
+        "path_with_type": "Xã Xuân Lam, Huyện Nghi Xuân, Tỉnh Hà Tĩnh",
+        "code": "18400",
+        "parent_code": "442"
+    },
+    "18403": {
+        "name": "Cương Gián",
+        "type": "xa",
+        "slug": "cuong-gian",
+        "name_with_type": "Xã Cương Gián",
+        "path": "Cương Gián, Nghi Xuân, Hà Tĩnh",
+        "path_with_type": "Xã Cương Gián, Huyện Nghi Xuân, Tỉnh Hà Tĩnh",
+        "code": "18403",
+        "parent_code": "442"
+    }
+}

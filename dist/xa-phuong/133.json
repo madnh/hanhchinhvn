@@ -1,0 +1,72 @@
+{
+    "04282": {
+        "name": "Pú Trạng",
+        "type": "phuong",
+        "slug": "pu-trang",
+        "name_with_type": "Phường Pú Trạng",
+        "path": "Pú Trạng, Nghĩa Lộ, Yên Bái",
+        "path_with_type": "Phường Pú Trạng, Thị xã Nghĩa Lộ, Tỉnh Yên Bái",
+        "code": "04282",
+        "parent_code": "133"
+    },
+    "04285": {
+        "name": "Trung Tâm",
+        "type": "phuong",
+        "slug": "trung-tam",
+        "name_with_type": "Phường Trung Tâm",
+        "path": "Trung Tâm, Nghĩa Lộ, Yên Bái",
+        "path_with_type": "Phường Trung Tâm, Thị xã Nghĩa Lộ, Tỉnh Yên Bái",
+        "code": "04285",
+        "parent_code": "133"
+    },
+    "04288": {
+        "name": "Tân An",
+        "type": "phuong",
+        "slug": "tan-an",
+        "name_with_type": "Phường Tân An",
+        "path": "Tân An, Nghĩa Lộ, Yên Bái",
+        "path_with_type": "Phường Tân An, Thị xã Nghĩa Lộ, Tỉnh Yên Bái",
+        "code": "04288",
+        "parent_code": "133"
+    },
+    "04291": {
+        "name": "Cầu Thia",
+        "type": "phuong",
+        "slug": "cau-thia",
+        "name_with_type": "Phường Cầu Thia",
+        "path": "Cầu Thia, Nghĩa Lộ, Yên Bái",
+        "path_with_type": "Phường Cầu Thia, Thị xã Nghĩa Lộ, Tỉnh Yên Bái",
+        "code": "04291",
+        "parent_code": "133"
+    },
+    "04294": {
+        "name": "Nghĩa Lợi",
+        "type": "xa",
+        "slug": "nghia-loi",
+        "name_with_type": "Xã Nghĩa Lợi",
+        "path": "Nghĩa Lợi, Nghĩa Lộ, Yên Bái",
+        "path_with_type": "Xã Nghĩa Lợi, Thị xã Nghĩa Lộ, Tỉnh Yên Bái",
+        "code": "04294",
+        "parent_code": "133"
+    },
+    "04297": {
+        "name": "Nghĩa Phúc",
+        "type": "xa",
+        "slug": "nghia-phuc",
+        "name_with_type": "Xã Nghĩa Phúc",
+        "path": "Nghĩa Phúc, Nghĩa Lộ, Yên Bái",
+        "path_with_type": "Xã Nghĩa Phúc, Thị xã Nghĩa Lộ, Tỉnh Yên Bái",
+        "code": "04297",
+        "parent_code": "133"
+    },
+    "04300": {
+        "name": "Nghĩa An",
+        "type": "xa",
+        "slug": "nghia-an",
+        "name_with_type": "Xã Nghĩa An",
+        "path": "Nghĩa An, Nghĩa Lộ, Yên Bái",
+        "path_with_type": "Xã Nghĩa An, Thị xã Nghĩa Lộ, Tỉnh Yên Bái",
+        "code": "04300",
+        "parent_code": "133"
+    }
+}

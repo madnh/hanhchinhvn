@@ -1,0 +1,82 @@
+{
+    "24540": {
+        "name": "Ea Ning",
+        "type": "xa",
+        "slug": "ea-ning",
+        "name_with_type": "Xã Ea Ning",
+        "path": "Ea Ning, Cư Kuin, Đắk Lắk",
+        "path_with_type": "Xã Ea Ning, Huyện Cư Kuin, Tỉnh Đắk Lắk",
+        "code": "24540",
+        "parent_code": "657"
+    },
+    "24541": {
+        "name": "Cư Ê Wi",
+        "type": "xa",
+        "slug": "cu-e-wi",
+        "name_with_type": "Xã Cư Ê Wi",
+        "path": "Cư Ê Wi, Cư Kuin, Đắk Lắk",
+        "path_with_type": "Xã Cư Ê Wi, Huyện Cư Kuin, Tỉnh Đắk Lắk",
+        "code": "24541",
+        "parent_code": "657"
+    },
+    "24544": {
+        "name": "Ea Ktur",
+        "type": "xa",
+        "slug": "ea-ktur",
+        "name_with_type": "Xã Ea Ktur",
+        "path": "Ea Ktur, Cư Kuin, Đắk Lắk",
+        "path_with_type": "Xã Ea Ktur, Huyện Cư Kuin, Tỉnh Đắk Lắk",
+        "code": "24544",
+        "parent_code": "657"
+    },
+    "24547": {
+        "name": "Ea Tiêu",
+        "type": "xa",
+        "slug": "ea-tieu",
+        "name_with_type": "Xã Ea Tiêu",
+        "path": "Ea Tiêu, Cư Kuin, Đắk Lắk",
+        "path_with_type": "Xã Ea Tiêu, Huyện Cư Kuin, Tỉnh Đắk Lắk",
+        "code": "24547",
+        "parent_code": "657"
+    },
+    "24550": {
+        "name": "Ea BHốk",
+        "type": "xa",
+        "slug": "ea-bhok",
+        "name_with_type": "Xã Ea BHốk",
+        "path": "Ea BHốk, Cư Kuin, Đắk Lắk",
+        "path_with_type": "Xã Ea BHốk, Huyện Cư Kuin, Tỉnh Đắk Lắk",
+        "code": "24550",
+        "parent_code": "657"
+    },
+    "24553": {
+        "name": "Ea Hu",
+        "type": "xa",
+        "slug": "ea-hu",
+        "name_with_type": "Xã Ea Hu",
+        "path": "Ea Hu, Cư Kuin, Đắk Lắk",
+        "path_with_type": "Xã Ea Hu, Huyện Cư Kuin, Tỉnh Đắk Lắk",
+        "code": "24553",
+        "parent_code": "657"
+    },
+    "24561": {
+        "name": "Dray Bhăng",
+        "type": "xa",
+        "slug": "dray-bhang",
+        "name_with_type": "Xã Dray Bhăng",
+        "path": "Dray Bhăng, Cư Kuin, Đắk Lắk",
+        "path_with_type": "Xã Dray Bhăng, Huyện Cư Kuin, Tỉnh Đắk Lắk",
+        "code": "24561",
+        "parent_code": "657"
+    },
+    "24562": {
+        "name": "Hòa Hiệp",
+        "type": "xa",
+        "slug": "hoa-hiep",
+        "name_with_type": "Xã Hòa Hiệp",
+        "path": "Hòa Hiệp, Cư Kuin, Đắk Lắk",
+        "path_with_type": "Xã Hòa Hiệp, Huyện Cư Kuin, Tỉnh Đắk Lắk",
+        "code": "24562",
+        "parent_code": "657"
+    }
+}

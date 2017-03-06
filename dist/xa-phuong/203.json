@@ -1,0 +1,122 @@
+{
+    "06994": {
+        "name": "Cái Rồng",
+        "type": "thi-tran",
+        "slug": "cai-rong",
+        "name_with_type": "Thị trấn Cái Rồng",
+        "path": "Cái Rồng, Vân Đồn, Quảng Ninh",
+        "path_with_type": "Thị trấn Cái Rồng, Huyện Vân Đồn, Tỉnh Quảng Ninh",
+        "code": "06994",
+        "parent_code": "203"
+    },
+    "06997": {
+        "name": "Đài Xuyên",
+        "type": "xa",
+        "slug": "dai-xuyen",
+        "name_with_type": "Xã Đài Xuyên",
+        "path": "Đài Xuyên, Vân Đồn, Quảng Ninh",
+        "path_with_type": "Xã Đài Xuyên, Huyện Vân Đồn, Tỉnh Quảng Ninh",
+        "code": "06997",
+        "parent_code": "203"
+    },
+    "07000": {
+        "name": "Bình Dân",
+        "type": "xa",
+        "slug": "binh-dan",
+        "name_with_type": "Xã Bình Dân",
+        "path": "Bình Dân, Vân Đồn, Quảng Ninh",
+        "path_with_type": "Xã Bình Dân, Huyện Vân Đồn, Tỉnh Quảng Ninh",
+        "code": "07000",
+        "parent_code": "203"
+    },
+    "07003": {
+        "name": "Vạn Yên",
+        "type": "xa",
+        "slug": "van-yen",
+        "name_with_type": "Xã Vạn Yên",
+        "path": "Vạn Yên, Vân Đồn, Quảng Ninh",
+        "path_with_type": "Xã Vạn Yên, Huyện Vân Đồn, Tỉnh Quảng Ninh",
+        "code": "07003",
+        "parent_code": "203"
+    },
+    "07006": {
+        "name": "Minh Châu",
+        "type": "xa",
+        "slug": "minh-chau",
+        "name_with_type": "Xã Minh Châu",
+        "path": "Minh Châu, Vân Đồn, Quảng Ninh",
+        "path_with_type": "Xã Minh Châu, Huyện Vân Đồn, Tỉnh Quảng Ninh",
+        "code": "07006",
+        "parent_code": "203"
+    },
+    "07009": {
+        "name": "Đoàn Kết",
+        "type": "xa",
+        "slug": "doan-ket",
+        "name_with_type": "Xã Đoàn Kết",
+        "path": "Đoàn Kết, Vân Đồn, Quảng Ninh",
+        "path_with_type": "Xã Đoàn Kết, Huyện Vân Đồn, Tỉnh Quảng Ninh",
+        "code": "07009",
+        "parent_code": "203"
+    },
+    "07012": {
+        "name": "Hạ Long",
+        "type": "xa",
+        "slug": "ha-long",
+        "name_with_type": "Xã Hạ Long",
+        "path": "Hạ Long, Vân Đồn, Quảng Ninh",
+        "path_with_type": "Xã Hạ Long, Huyện Vân Đồn, Tỉnh Quảng Ninh",
+        "code": "07012",
+        "parent_code": "203"
+    },
+    "07015": {
+        "name": "Đông Xá",
+        "type": "xa",
+        "slug": "dong-xa",
+        "name_with_type": "Xã Đông Xá",
+        "path": "Đông Xá, Vân Đồn, Quảng Ninh",
+        "path_with_type": "Xã Đông Xá, Huyện Vân Đồn, Tỉnh Quảng Ninh",
+        "code": "07015",
+        "parent_code": "203"
+    },
+    "07018": {
+        "name": "Bản Sen",
+        "type": "xa",
+        "slug": "ban-sen",
+        "name_with_type": "Xã Bản Sen",
+        "path": "Bản Sen, Vân Đồn, Quảng Ninh",
+        "path_with_type": "Xã Bản Sen, Huyện Vân Đồn, Tỉnh Quảng Ninh",
+        "code": "07018",
+        "parent_code": "203"
+    },
+    "07021": {
+        "name": "Thắng Lợi",
+        "type": "xa",
+        "slug": "thang-loi",
+        "name_with_type": "Xã Thắng Lợi",
+        "path": "Thắng Lợi, Vân Đồn, Quảng Ninh",
+        "path_with_type": "Xã Thắng Lợi, Huyện Vân Đồn, Tỉnh Quảng Ninh",
+        "code": "07021",
+        "parent_code": "203"
+    },
+    "07024": {
+        "name": "Quan Lạn",
+        "type": "xa",
+        "slug": "quan-lan",
+        "name_with_type": "Xã Quan Lạn",
+        "path": "Quan Lạn, Vân Đồn, Quảng Ninh",
+        "path_with_type": "Xã Quan Lạn, Huyện Vân Đồn, Tỉnh Quảng Ninh",
+        "code": "07024",
+        "parent_code": "203"
+    },
+    "07027": {
+        "name": "Ngọc Vừng",
+        "type": "xa",
+        "slug": "ngoc-vung",
+        "name_with_type": "Xã Ngọc Vừng",
+        "path": "Ngọc Vừng, Vân Đồn, Quảng Ninh",
+        "path_with_type": "Xã Ngọc Vừng, Huyện Vân Đồn, Tỉnh Quảng Ninh",
+        "code": "07027",
+        "parent_code": "203"
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "13708": {
+        "name": "Mỹ Lộc",
+        "type": "thi-tran",
+        "slug": "my-loc",
+        "name_with_type": "Thị trấn Mỹ Lộc",
+        "path": "Mỹ Lộc, Mỹ Lộc, Nam Định",
+        "path_with_type": "Thị trấn Mỹ Lộc, Huyện Mỹ Lộc, Tỉnh Nam Định",
+        "code": "13708",
+        "parent_code": "358"
+    },
+    "13711": {
+        "name": "Mỹ Hà",
+        "type": "xa",
+        "slug": "my-ha",
+        "name_with_type": "Xã Mỹ Hà",
+        "path": "Mỹ Hà, Mỹ Lộc, Nam Định",
+        "path_with_type": "Xã Mỹ Hà, Huyện Mỹ Lộc, Tỉnh Nam Định",
+        "code": "13711",
+        "parent_code": "358"
+    },
+    "13714": {
+        "name": "Mỹ Tiến",
+        "type": "xa",
+        "slug": "my-tien",
+        "name_with_type": "Xã Mỹ Tiến",
+        "path": "Mỹ Tiến, Mỹ Lộc, Nam Định",
+        "path_with_type": "Xã Mỹ Tiến, Huyện Mỹ Lộc, Tỉnh Nam Định",
+        "code": "13714",
+        "parent_code": "358"
+    },
+    "13717": {
+        "name": "Mỹ Thắng",
+        "type": "xa",
+        "slug": "my-thang",
+        "name_with_type": "Xã Mỹ Thắng",
+        "path": "Mỹ Thắng, Mỹ Lộc, Nam Định",
+        "path_with_type": "Xã Mỹ Thắng, Huyện Mỹ Lộc, Tỉnh Nam Định",
+        "code": "13717",
+        "parent_code": "358"
+    },
+    "13720": {
+        "name": "Mỹ Trung",
+        "type": "xa",
+        "slug": "my-trung",
+        "name_with_type": "Xã Mỹ Trung",
+        "path": "Mỹ Trung, Mỹ Lộc, Nam Định",
+        "path_with_type": "Xã Mỹ Trung, Huyện Mỹ Lộc, Tỉnh Nam Định",
+        "code": "13720",
+        "parent_code": "358"
+    },
+    "13723": {
+        "name": "Mỹ Tân",
+        "type": "xa",
+        "slug": "my-tan",
+        "name_with_type": "Xã Mỹ Tân",
+        "path": "Mỹ Tân, Mỹ Lộc, Nam Định",
+        "path_with_type": "Xã Mỹ Tân, Huyện Mỹ Lộc, Tỉnh Nam Định",
+        "code": "13723",
+        "parent_code": "358"
+    },
+    "13726": {
+        "name": "Mỹ Phúc",
+        "type": "xa",
+        "slug": "my-phuc",
+        "name_with_type": "Xã Mỹ Phúc",
+        "path": "Mỹ Phúc, Mỹ Lộc, Nam Định",
+        "path_with_type": "Xã Mỹ Phúc, Huyện Mỹ Lộc, Tỉnh Nam Định",
+        "code": "13726",
+        "parent_code": "358"
+    },
+    "13729": {
+        "name": "Mỹ Hưng",
+        "type": "xa",
+        "slug": "my-hung",
+        "name_with_type": "Xã Mỹ Hưng",
+        "path": "Mỹ Hưng, Mỹ Lộc, Nam Định",
+        "path_with_type": "Xã Mỹ Hưng, Huyện Mỹ Lộc, Tỉnh Nam Định",
+        "code": "13729",
+        "parent_code": "358"
+    },
+    "13732": {
+        "name": "Mỹ Thuận",
+        "type": "xa",
+        "slug": "my-thuan",
+        "name_with_type": "Xã Mỹ Thuận",
+        "path": "Mỹ Thuận, Mỹ Lộc, Nam Định",
+        "path_with_type": "Xã Mỹ Thuận, Huyện Mỹ Lộc, Tỉnh Nam Định",
+        "code": "13732",
+        "parent_code": "358"
+    },
+    "13735": {
+        "name": "Mỹ Thịnh",
+        "type": "xa",
+        "slug": "my-thinh",
+        "name_with_type": "Xã Mỹ Thịnh",
+        "path": "Mỹ Thịnh, Mỹ Lộc, Nam Định",
+        "path_with_type": "Xã Mỹ Thịnh, Huyện Mỹ Lộc, Tỉnh Nam Định",
+        "code": "13735",
+        "parent_code": "358"
+    },
+    "13738": {
+        "name": "Mỹ Thành",
+        "type": "xa",
+        "slug": "my-thanh",
+        "name_with_type": "Xã Mỹ Thành",
+        "path": "Mỹ Thành, Mỹ Lộc, Nam Định",
+        "path_with_type": "Xã Mỹ Thành, Huyện Mỹ Lộc, Tỉnh Nam Định",
+        "code": "13738",
+        "parent_code": "358"
+    }
+}

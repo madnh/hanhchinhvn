@@ -1,0 +1,202 @@
+{
+    "08434": {
+        "name": "Hưng Hoá",
+        "type": "thi-tran",
+        "slug": "hung-hoa",
+        "name_with_type": "Thị trấn Hưng Hoá",
+        "path": "Hưng Hoá, Tam Nông, Phú Thọ",
+        "path_with_type": "Thị trấn Hưng Hoá, Huyện Tam Nông, Tỉnh Phú Thọ",
+        "code": "08434",
+        "parent_code": "236"
+    },
+    "08437": {
+        "name": "Vực Trường",
+        "type": "xa",
+        "slug": "vuc-truong",
+        "name_with_type": "Xã Vực Trường",
+        "path": "Vực Trường, Tam Nông, Phú Thọ",
+        "path_with_type": "Xã Vực Trường, Huyện Tam Nông, Tỉnh Phú Thọ",
+        "code": "08437",
+        "parent_code": "236"
+    },
+    "08440": {
+        "name": "Hiền Quan",
+        "type": "xa",
+        "slug": "hien-quan",
+        "name_with_type": "Xã Hiền Quan",
+        "path": "Hiền Quan, Tam Nông, Phú Thọ",
+        "path_with_type": "Xã Hiền Quan, Huyện Tam Nông, Tỉnh Phú Thọ",
+        "code": "08440",
+        "parent_code": "236"
+    },
+    "08443": {
+        "name": "Hương Nha",
+        "type": "xa",
+        "slug": "huong-nha",
+        "name_with_type": "Xã Hương Nha",
+        "path": "Hương Nha, Tam Nông, Phú Thọ",
+        "path_with_type": "Xã Hương Nha, Huyện Tam Nông, Tỉnh Phú Thọ",
+        "code": "08443",
+        "parent_code": "236"
+    },
+    "08446": {
+        "name": "Thanh Uyên",
+        "type": "xa",
+        "slug": "thanh-uyen",
+        "name_with_type": "Xã Thanh Uyên",
+        "path": "Thanh Uyên, Tam Nông, Phú Thọ",
+        "path_with_type": "Xã Thanh Uyên, Huyện Tam Nông, Tỉnh Phú Thọ",
+        "code": "08446",
+        "parent_code": "236"
+    },
+    "08449": {
+        "name": "Xuân Quang",
+        "type": "xa",
+        "slug": "xuan-quang",
+        "name_with_type": "Xã Xuân Quang",
+        "path": "Xuân Quang, Tam Nông, Phú Thọ",
+        "path_with_type": "Xã Xuân Quang, Huyện Tam Nông, Tỉnh Phú Thọ",
+        "code": "08449",
+        "parent_code": "236"
+    },
+    "08452": {
+        "name": "Tứ Mỹ",
+        "type": "xa",
+        "slug": "tu-my",
+        "name_with_type": "Xã Tứ Mỹ",
+        "path": "Tứ Mỹ, Tam Nông, Phú Thọ",
+        "path_with_type": "Xã Tứ Mỹ, Huyện Tam Nông, Tỉnh Phú Thọ",
+        "code": "08452",
+        "parent_code": "236"
+    },
+    "08455": {
+        "name": "Văn Lương",
+        "type": "xa",
+        "slug": "van-luong",
+        "name_with_type": "Xã Văn Lương",
+        "path": "Văn Lương, Tam Nông, Phú Thọ",
+        "path_with_type": "Xã Văn Lương, Huyện Tam Nông, Tỉnh Phú Thọ",
+        "code": "08455",
+        "parent_code": "236"
+    },
+    "08458": {
+        "name": "Hùng Đô",
+        "type": "xa",
+        "slug": "hung-do",
+        "name_with_type": "Xã Hùng Đô",
+        "path": "Hùng Đô, Tam Nông, Phú Thọ",
+        "path_with_type": "Xã Hùng Đô, Huyện Tam Nông, Tỉnh Phú Thọ",
+        "code": "08458",
+        "parent_code": "236"
+    },
+    "08461": {
+        "name": "Phương Thịnh",
+        "type": "xa",
+        "slug": "phuong-thinh",
+        "name_with_type": "Xã Phương Thịnh",
+        "path": "Phương Thịnh, Tam Nông, Phú Thọ",
+        "path_with_type": "Xã Phương Thịnh, Huyện Tam Nông, Tỉnh Phú Thọ",
+        "code": "08461",
+        "parent_code": "236"
+    },
+    "08464": {
+        "name": "Tam Cường",
+        "type": "xa",
+        "slug": "tam-cuong",
+        "name_with_type": "Xã Tam Cường",
+        "path": "Tam Cường, Tam Nông, Phú Thọ",
+        "path_with_type": "Xã Tam Cường, Huyện Tam Nông, Tỉnh Phú Thọ",
+        "code": "08464",
+        "parent_code": "236"
+    },
+    "08467": {
+        "name": "Cổ Tiết",
+        "type": "xa",
+        "slug": "co-tiet",
+        "name_with_type": "Xã Cổ Tiết",
+        "path": "Cổ Tiết, Tam Nông, Phú Thọ",
+        "path_with_type": "Xã Cổ Tiết, Huyện Tam Nông, Tỉnh Phú Thọ",
+        "code": "08467",
+        "parent_code": "236"
+    },
+    "08470": {
+        "name": "Quang Húc",
+        "type": "xa",
+        "slug": "quang-huc",
+        "name_with_type": "Xã Quang Húc",
+        "path": "Quang Húc, Tam Nông, Phú Thọ",
+        "path_with_type": "Xã Quang Húc, Huyện Tam Nông, Tỉnh Phú Thọ",
+        "code": "08470",
+        "parent_code": "236"
+    },
+    "08473": {
+        "name": "Hương Nộn",
+        "type": "xa",
+        "slug": "huong-non",
+        "name_with_type": "Xã Hương Nộn",
+        "path": "Hương Nộn, Tam Nông, Phú Thọ",
+        "path_with_type": "Xã Hương Nộn, Huyện Tam Nông, Tỉnh Phú Thọ",
+        "code": "08473",
+        "parent_code": "236"
+    },
+    "08476": {
+        "name": "Tề Lễ",
+        "type": "xa",
+        "slug": "te-le",
+        "name_with_type": "Xã Tề Lễ",
+        "path": "Tề Lễ, Tam Nông, Phú Thọ",
+        "path_with_type": "Xã Tề Lễ, Huyện Tam Nông, Tỉnh Phú Thọ",
+        "code": "08476",
+        "parent_code": "236"
+    },
+    "08479": {
+        "name": "Thọ Văn",
+        "type": "xa",
+        "slug": "tho-van",
+        "name_with_type": "Xã Thọ Văn",
+        "path": "Thọ Văn, Tam Nông, Phú Thọ",
+        "path_with_type": "Xã Thọ Văn, Huyện Tam Nông, Tỉnh Phú Thọ",
+        "code": "08479",
+        "parent_code": "236"
+    },
+    "08482": {
+        "name": "Dị Nậu",
+        "type": "xa",
+        "slug": "di-nau",
+        "name_with_type": "Xã Dị Nậu",
+        "path": "Dị Nậu, Tam Nông, Phú Thọ",
+        "path_with_type": "Xã Dị Nậu, Huyện Tam Nông, Tỉnh Phú Thọ",
+        "code": "08482",
+        "parent_code": "236"
+    },
+    "08485": {
+        "name": "Hồng Đà",
+        "type": "xa",
+        "slug": "hong-da",
+        "name_with_type": "Xã Hồng Đà",
+        "path": "Hồng Đà, Tam Nông, Phú Thọ",
+        "path_with_type": "Xã Hồng Đà, Huyện Tam Nông, Tỉnh Phú Thọ",
+        "code": "08485",
+        "parent_code": "236"
+    },
+    "08488": {
+        "name": "Dậu Dương",
+        "type": "xa",
+        "slug": "dau-duong",
+        "name_with_type": "Xã Dậu Dương",
+        "path": "Dậu Dương, Tam Nông, Phú Thọ",
+        "path_with_type": "Xã Dậu Dương, Huyện Tam Nông, Tỉnh Phú Thọ",
+        "code": "08488",
+        "parent_code": "236"
+    },
+    "08491": {
+        "name": "Thượng Nông",
+        "type": "xa",
+        "slug": "thuong-nong",
+        "name_with_type": "Xã Thượng Nông",
+        "path": "Thượng Nông, Tam Nông, Phú Thọ",
+        "path_with_type": "Xã Thượng Nông, Huyện Tam Nông, Tỉnh Phú Thọ",
+        "code": "08491",
+        "parent_code": "236"
+    }
+}

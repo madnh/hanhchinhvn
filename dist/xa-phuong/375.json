@@ -1,0 +1,192 @@
+{
+    "14560": {
+        "name": "Yên Ninh",
+        "type": "thi-tran",
+        "slug": "yen-ninh",
+        "name_with_type": "Thị trấn Yên Ninh",
+        "path": "Yên Ninh, Yên Khánh, Ninh Bình",
+        "path_with_type": "Thị trấn Yên Ninh, Huyện Yên Khánh, Tỉnh Ninh Bình",
+        "code": "14560",
+        "parent_code": "375"
+    },
+    "14563": {
+        "name": "Khánh Tiên",
+        "type": "xa",
+        "slug": "khanh-tien",
+        "name_with_type": "Xã Khánh Tiên",
+        "path": "Khánh Tiên, Yên Khánh, Ninh Bình",
+        "path_with_type": "Xã Khánh Tiên, Huyện Yên Khánh, Tỉnh Ninh Bình",
+        "code": "14563",
+        "parent_code": "375"
+    },
+    "14566": {
+        "name": "Khánh Phú",
+        "type": "xa",
+        "slug": "khanh-phu",
+        "name_with_type": "Xã Khánh Phú",
+        "path": "Khánh Phú, Yên Khánh, Ninh Bình",
+        "path_with_type": "Xã Khánh Phú, Huyện Yên Khánh, Tỉnh Ninh Bình",
+        "code": "14566",
+        "parent_code": "375"
+    },
+    "14569": {
+        "name": "Khánh Hòa",
+        "type": "xa",
+        "slug": "khanh-hoa",
+        "name_with_type": "Xã Khánh Hòa",
+        "path": "Khánh Hòa, Yên Khánh, Ninh Bình",
+        "path_with_type": "Xã Khánh Hòa, Huyện Yên Khánh, Tỉnh Ninh Bình",
+        "code": "14569",
+        "parent_code": "375"
+    },
+    "14572": {
+        "name": "Khánh Lợi",
+        "type": "xa",
+        "slug": "khanh-loi",
+        "name_with_type": "Xã Khánh Lợi",
+        "path": "Khánh Lợi, Yên Khánh, Ninh Bình",
+        "path_with_type": "Xã Khánh Lợi, Huyện Yên Khánh, Tỉnh Ninh Bình",
+        "code": "14572",
+        "parent_code": "375"
+    },
+    "14575": {
+        "name": "Khánh An",
+        "type": "xa",
+        "slug": "khanh-an",
+        "name_with_type": "Xã Khánh An",
+        "path": "Khánh An, Yên Khánh, Ninh Bình",
+        "path_with_type": "Xã Khánh An, Huyện Yên Khánh, Tỉnh Ninh Bình",
+        "code": "14575",
+        "parent_code": "375"
+    },
+    "14578": {
+        "name": "Khánh Cường",
+        "type": "xa",
+        "slug": "khanh-cuong",
+        "name_with_type": "Xã Khánh Cường",
+        "path": "Khánh Cường, Yên Khánh, Ninh Bình",
+        "path_with_type": "Xã Khánh Cường, Huyện Yên Khánh, Tỉnh Ninh Bình",
+        "code": "14578",
+        "parent_code": "375"
+    },
+    "14581": {
+        "name": "Khánh Cư",
+        "type": "xa",
+        "slug": "khanh-cu",
+        "name_with_type": "Xã Khánh Cư",
+        "path": "Khánh Cư, Yên Khánh, Ninh Bình",
+        "path_with_type": "Xã Khánh Cư, Huyện Yên Khánh, Tỉnh Ninh Bình",
+        "code": "14581",
+        "parent_code": "375"
+    },
+    "14584": {
+        "name": "Khánh Thiện",
+        "type": "xa",
+        "slug": "khanh-thien",
+        "name_with_type": "Xã Khánh Thiện",
+        "path": "Khánh Thiện, Yên Khánh, Ninh Bình",
+        "path_with_type": "Xã Khánh Thiện, Huyện Yên Khánh, Tỉnh Ninh Bình",
+        "code": "14584",
+        "parent_code": "375"
+    },
+    "14587": {
+        "name": "Khánh Hải",
+        "type": "xa",
+        "slug": "khanh-hai",
+        "name_with_type": "Xã Khánh Hải",
+        "path": "Khánh Hải, Yên Khánh, Ninh Bình",
+        "path_with_type": "Xã Khánh Hải, Huyện Yên Khánh, Tỉnh Ninh Bình",
+        "code": "14587",
+        "parent_code": "375"
+    },
+    "14590": {
+        "name": "Khánh Trung",
+        "type": "xa",
+        "slug": "khanh-trung",
+        "name_with_type": "Xã Khánh Trung",
+        "path": "Khánh Trung, Yên Khánh, Ninh Bình",
+        "path_with_type": "Xã Khánh Trung, Huyện Yên Khánh, Tỉnh Ninh Bình",
+        "code": "14590",
+        "parent_code": "375"
+    },
+    "14593": {
+        "name": "Khánh Mậu",
+        "type": "xa",
+        "slug": "khanh-mau",
+        "name_with_type": "Xã Khánh Mậu",
+        "path": "Khánh Mậu, Yên Khánh, Ninh Bình",
+        "path_with_type": "Xã Khánh Mậu, Huyện Yên Khánh, Tỉnh Ninh Bình",
+        "code": "14593",
+        "parent_code": "375"
+    },
+    "14596": {
+        "name": "Khánh Vân",
+        "type": "xa",
+        "slug": "khanh-van",
+        "name_with_type": "Xã Khánh Vân",
+        "path": "Khánh Vân, Yên Khánh, Ninh Bình",
+        "path_with_type": "Xã Khánh Vân, Huyện Yên Khánh, Tỉnh Ninh Bình",
+        "code": "14596",
+        "parent_code": "375"
+    },
+    "14599": {
+        "name": "Khánh Hội",
+        "type": "xa",
+        "slug": "khanh-hoi",
+        "name_with_type": "Xã Khánh Hội",
+        "path": "Khánh Hội, Yên Khánh, Ninh Bình",
+        "path_with_type": "Xã Khánh Hội, Huyện Yên Khánh, Tỉnh Ninh Bình",
+        "code": "14599",
+        "parent_code": "375"
+    },
+    "14602": {
+        "name": "Khánh Công",
+        "type": "xa",
+        "slug": "khanh-cong",
+        "name_with_type": "Xã Khánh Công",
+        "path": "Khánh Công, Yên Khánh, Ninh Bình",
+        "path_with_type": "Xã Khánh Công, Huyện Yên Khánh, Tỉnh Ninh Bình",
+        "code": "14602",
+        "parent_code": "375"
+    },
+    "14608": {
+        "name": "Khánh Thành",
+        "type": "xa",
+        "slug": "khanh-thanh",
+        "name_with_type": "Xã Khánh Thành",
+        "path": "Khánh Thành, Yên Khánh, Ninh Bình",
+        "path_with_type": "Xã Khánh Thành, Huyện Yên Khánh, Tỉnh Ninh Bình",
+        "code": "14608",
+        "parent_code": "375"
+    },
+    "14611": {
+        "name": "Khánh Nhạc",
+        "type": "xa",
+        "slug": "khanh-nhac",
+        "name_with_type": "Xã Khánh Nhạc",
+        "path": "Khánh Nhạc, Yên Khánh, Ninh Bình",
+        "path_with_type": "Xã Khánh Nhạc, Huyện Yên Khánh, Tỉnh Ninh Bình",
+        "code": "14611",
+        "parent_code": "375"
+    },
+    "14614": {
+        "name": "Khánh Thủy",
+        "type": "xa",
+        "slug": "khanh-thuy",
+        "name_with_type": "Xã Khánh Thủy",
+        "path": "Khánh Thủy, Yên Khánh, Ninh Bình",
+        "path_with_type": "Xã Khánh Thủy, Huyện Yên Khánh, Tỉnh Ninh Bình",
+        "code": "14614",
+        "parent_code": "375"
+    },
+    "14617": {
+        "name": "Khánh Hồng",
+        "type": "xa",
+        "slug": "khanh-hong",
+        "name_with_type": "Xã Khánh Hồng",
+        "path": "Khánh Hồng, Yên Khánh, Ninh Bình",
+        "path_with_type": "Xã Khánh Hồng, Huyện Yên Khánh, Tỉnh Ninh Bình",
+        "code": "14617",
+        "parent_code": "375"
+    }
+}

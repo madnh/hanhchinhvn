@@ -1,0 +1,92 @@
+{
+    "31318": {
+        "name": "I",
+        "type": "phuong",
+        "slug": "i",
+        "name_with_type": "Phường I",
+        "path": "I, Vị Thanh, Hậu Giang",
+        "path_with_type": "Phường I, Thành phố Vị Thanh, Tỉnh Hậu Giang",
+        "code": "31318",
+        "parent_code": "930"
+    },
+    "31321": {
+        "name": "III",
+        "type": "phuong",
+        "slug": "iii",
+        "name_with_type": "Phường III",
+        "path": "III, Vị Thanh, Hậu Giang",
+        "path_with_type": "Phường III, Thành phố Vị Thanh, Tỉnh Hậu Giang",
+        "code": "31321",
+        "parent_code": "930"
+    },
+    "31324": {
+        "name": "IV",
+        "type": "phuong",
+        "slug": "iv",
+        "name_with_type": "Phường IV",
+        "path": "IV, Vị Thanh, Hậu Giang",
+        "path_with_type": "Phường IV, Thành phố Vị Thanh, Tỉnh Hậu Giang",
+        "code": "31324",
+        "parent_code": "930"
+    },
+    "31327": {
+        "name": "V",
+        "type": "phuong",
+        "slug": "v",
+        "name_with_type": "Phường V",
+        "path": "V, Vị Thanh, Hậu Giang",
+        "path_with_type": "Phường V, Thành phố Vị Thanh, Tỉnh Hậu Giang",
+        "code": "31327",
+        "parent_code": "930"
+    },
+    "31330": {
+        "name": "VII",
+        "type": "phuong",
+        "slug": "vii",
+        "name_with_type": "Phường VII",
+        "path": "VII, Vị Thanh, Hậu Giang",
+        "path_with_type": "Phường VII, Thành phố Vị Thanh, Tỉnh Hậu Giang",
+        "code": "31330",
+        "parent_code": "930"
+    },
+    "31333": {
+        "name": "Vị Tân",
+        "type": "xa",
+        "slug": "vi-tan",
+        "name_with_type": "Xã Vị Tân",
+        "path": "Vị Tân, Vị Thanh, Hậu Giang",
+        "path_with_type": "Xã Vị Tân, Thành phố Vị Thanh, Tỉnh Hậu Giang",
+        "code": "31333",
+        "parent_code": "930"
+    },
+    "31336": {
+        "name": "Hoả Lựu",
+        "type": "xa",
+        "slug": "hoa-luu",
+        "name_with_type": "Xã Hoả Lựu",
+        "path": "Hoả Lựu, Vị Thanh, Hậu Giang",
+        "path_with_type": "Xã Hoả Lựu, Thành phố Vị Thanh, Tỉnh Hậu Giang",
+        "code": "31336",
+        "parent_code": "930"
+    },
+    "31338": {
+        "name": "Tân Tiến",
+        "type": "xa",
+        "slug": "tan-tien",
+        "name_with_type": "Xã Tân Tiến",
+        "path": "Tân Tiến, Vị Thanh, Hậu Giang",
+        "path_with_type": "Xã Tân Tiến, Thành phố Vị Thanh, Tỉnh Hậu Giang",
+        "code": "31338",
+        "parent_code": "930"
+    },
+    "31339": {
+        "name": "Hoả Tiến",
+        "type": "xa",
+        "slug": "hoa-tien",
+        "name_with_type": "Xã Hoả Tiến",
+        "path": "Hoả Tiến, Vị Thanh, Hậu Giang",
+        "path_with_type": "Xã Hoả Tiến, Thành phố Vị Thanh, Tỉnh Hậu Giang",
+        "code": "31339",
+        "parent_code": "930"
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "23377": {
+        "name": "Plei Cần",
+        "type": "thi-tran",
+        "slug": "plei-can",
+        "name_with_type": "Thị trấn Plei Cần",
+        "path": "Plei Cần, Ngọc Hồi, Kon Tum",
+        "path_with_type": "Thị trấn Plei Cần, Huyện Ngọc Hồi, Tỉnh Kon Tum",
+        "code": "23377",
+        "parent_code": "611"
+    },
+    "23380": {
+        "name": "Đắk Ang",
+        "type": "xa",
+        "slug": "dak-ang",
+        "name_with_type": "Xã Đắk Ang",
+        "path": "Đắk Ang, Ngọc Hồi, Kon Tum",
+        "path_with_type": "Xã Đắk Ang, Huyện Ngọc Hồi, Tỉnh Kon Tum",
+        "code": "23380",
+        "parent_code": "611"
+    },
+    "23383": {
+        "name": "Đắk Dục",
+        "type": "xa",
+        "slug": "dak-duc",
+        "name_with_type": "Xã Đắk Dục",
+        "path": "Đắk Dục, Ngọc Hồi, Kon Tum",
+        "path_with_type": "Xã Đắk Dục, Huyện Ngọc Hồi, Tỉnh Kon Tum",
+        "code": "23383",
+        "parent_code": "611"
+    },
+    "23386": {
+        "name": "Đắk Nông",
+        "type": "xa",
+        "slug": "dak-nong",
+        "name_with_type": "Xã Đắk Nông",
+        "path": "Đắk Nông, Ngọc Hồi, Kon Tum",
+        "path_with_type": "Xã Đắk Nông, Huyện Ngọc Hồi, Tỉnh Kon Tum",
+        "code": "23386",
+        "parent_code": "611"
+    },
+    "23389": {
+        "name": "Đắk Xú",
+        "type": "xa",
+        "slug": "dak-xu",
+        "name_with_type": "Xã Đắk Xú",
+        "path": "Đắk Xú, Ngọc Hồi, Kon Tum",
+        "path_with_type": "Xã Đắk Xú, Huyện Ngọc Hồi, Tỉnh Kon Tum",
+        "code": "23389",
+        "parent_code": "611"
+    },
+    "23392": {
+        "name": "Đắk Kan",
+        "type": "xa",
+        "slug": "dak-kan",
+        "name_with_type": "Xã Đắk Kan",
+        "path": "Đắk Kan, Ngọc Hồi, Kon Tum",
+        "path_with_type": "Xã Đắk Kan, Huyện Ngọc Hồi, Tỉnh Kon Tum",
+        "code": "23392",
+        "parent_code": "611"
+    },
+    "23395": {
+        "name": "Pờ Y",
+        "type": "xa",
+        "slug": "po-y",
+        "name_with_type": "Xã Pờ Y",
+        "path": "Pờ Y, Ngọc Hồi, Kon Tum",
+        "path_with_type": "Xã Pờ Y, Huyện Ngọc Hồi, Tỉnh Kon Tum",
+        "code": "23395",
+        "parent_code": "611"
+    },
+    "23398": {
+        "name": "Sa Loong",
+        "type": "xa",
+        "slug": "sa-loong",
+        "name_with_type": "Xã Sa Loong",
+        "path": "Sa Loong, Ngọc Hồi, Kon Tum",
+        "path_with_type": "Xã Sa Loong, Huyện Ngọc Hồi, Tỉnh Kon Tum",
+        "code": "23398",
+        "parent_code": "611"
+    }
+}

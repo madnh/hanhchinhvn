@@ -1,0 +1,162 @@
+{
+    "11581": {
+        "name": "An Dương",
+        "type": "thi-tran",
+        "slug": "an-duong",
+        "name_with_type": "Thị trấn An Dương",
+        "path": "An Dương, An Dương, Hải Phòng",
+        "path_with_type": "Thị trấn An Dương, Huyện An Dương, Thành phố Hải Phòng",
+        "code": "11581",
+        "parent_code": "312"
+    },
+    "11584": {
+        "name": "Lê Thiện",
+        "type": "xa",
+        "slug": "le-thien",
+        "name_with_type": "Xã Lê Thiện",
+        "path": "Lê Thiện, An Dương, Hải Phòng",
+        "path_with_type": "Xã Lê Thiện, Huyện An Dương, Thành phố Hải Phòng",
+        "code": "11584",
+        "parent_code": "312"
+    },
+    "11587": {
+        "name": "Đại Bản",
+        "type": "xa",
+        "slug": "dai-ban",
+        "name_with_type": "Xã Đại Bản",
+        "path": "Đại Bản, An Dương, Hải Phòng",
+        "path_with_type": "Xã Đại Bản, Huyện An Dương, Thành phố Hải Phòng",
+        "code": "11587",
+        "parent_code": "312"
+    },
+    "11590": {
+        "name": "An Hoà",
+        "type": "xa",
+        "slug": "an-hoa",
+        "name_with_type": "Xã An Hoà",
+        "path": "An Hoà, An Dương, Hải Phòng",
+        "path_with_type": "Xã An Hoà, Huyện An Dương, Thành phố Hải Phòng",
+        "code": "11590",
+        "parent_code": "312"
+    },
+    "11593": {
+        "name": "Hồng Phong",
+        "type": "xa",
+        "slug": "hong-phong",
+        "name_with_type": "Xã Hồng Phong",
+        "path": "Hồng Phong, An Dương, Hải Phòng",
+        "path_with_type": "Xã Hồng Phong, Huyện An Dương, Thành phố Hải Phòng",
+        "code": "11593",
+        "parent_code": "312"
+    },
+    "11596": {
+        "name": "Tân Tiến",
+        "type": "xa",
+        "slug": "tan-tien",
+        "name_with_type": "Xã Tân Tiến",
+        "path": "Tân Tiến, An Dương, Hải Phòng",
+        "path_with_type": "Xã Tân Tiến, Huyện An Dương, Thành phố Hải Phòng",
+        "code": "11596",
+        "parent_code": "312"
+    },
+    "11599": {
+        "name": "An Hưng",
+        "type": "xa",
+        "slug": "an-hung",
+        "name_with_type": "Xã An Hưng",
+        "path": "An Hưng, An Dương, Hải Phòng",
+        "path_with_type": "Xã An Hưng, Huyện An Dương, Thành phố Hải Phòng",
+        "code": "11599",
+        "parent_code": "312"
+    },
+    "11602": {
+        "name": "An Hồng",
+        "type": "xa",
+        "slug": "an-hong",
+        "name_with_type": "Xã An Hồng",
+        "path": "An Hồng, An Dương, Hải Phòng",
+        "path_with_type": "Xã An Hồng, Huyện An Dương, Thành phố Hải Phòng",
+        "code": "11602",
+        "parent_code": "312"
+    },
+    "11605": {
+        "name": "Bắc Sơn",
+        "type": "xa",
+        "slug": "bac-son",
+        "name_with_type": "Xã Bắc Sơn",
+        "path": "Bắc Sơn, An Dương, Hải Phòng",
+        "path_with_type": "Xã Bắc Sơn, Huyện An Dương, Thành phố Hải Phòng",
+        "code": "11605",
+        "parent_code": "312"
+    },
+    "11608": {
+        "name": "Nam Sơn",
+        "type": "xa",
+        "slug": "nam-son",
+        "name_with_type": "Xã Nam Sơn",
+        "path": "Nam Sơn, An Dương, Hải Phòng",
+        "path_with_type": "Xã Nam Sơn, Huyện An Dương, Thành phố Hải Phòng",
+        "code": "11608",
+        "parent_code": "312"
+    },
+    "11611": {
+        "name": "Lê Lợi",
+        "type": "xa",
+        "slug": "le-loi",
+        "name_with_type": "Xã Lê Lợi",
+        "path": "Lê Lợi, An Dương, Hải Phòng",
+        "path_with_type": "Xã Lê Lợi, Huyện An Dương, Thành phố Hải Phòng",
+        "code": "11611",
+        "parent_code": "312"
+    },
+    "11614": {
+        "name": "Đặng Cương",
+        "type": "xa",
+        "slug": "dang-cuong",
+        "name_with_type": "Xã Đặng Cương",
+        "path": "Đặng Cương, An Dương, Hải Phòng",
+        "path_with_type": "Xã Đặng Cương, Huyện An Dương, Thành phố Hải Phòng",
+        "code": "11614",
+        "parent_code": "312"
+    },
+    "11617": {
+        "name": "Đồng Thái",
+        "type": "xa",
+        "slug": "dong-thai",
+        "name_with_type": "Xã Đồng Thái",
+        "path": "Đồng Thái, An Dương, Hải Phòng",
+        "path_with_type": "Xã Đồng Thái, Huyện An Dương, Thành phố Hải Phòng",
+        "code": "11617",
+        "parent_code": "312"
+    },
+    "11620": {
+        "name": "Quốc Tuấn",
+        "type": "xa",
+        "slug": "quoc-tuan",
+        "name_with_type": "Xã Quốc Tuấn",
+        "path": "Quốc Tuấn, An Dương, Hải Phòng",
+        "path_with_type": "Xã Quốc Tuấn, Huyện An Dương, Thành phố Hải Phòng",
+        "code": "11620",
+        "parent_code": "312"
+    },
+    "11623": {
+        "name": "An Đồng",
+        "type": "xa",
+        "slug": "an-dong",
+        "name_with_type": "Xã An Đồng",
+        "path": "An Đồng, An Dương, Hải Phòng",
+        "path_with_type": "Xã An Đồng, Huyện An Dương, Thành phố Hải Phòng",
+        "code": "11623",
+        "parent_code": "312"
+    },
+    "11626": {
+        "name": "Hồng Thái",
+        "type": "xa",
+        "slug": "hong-thai",
+        "name_with_type": "Xã Hồng Thái",
+        "path": "Hồng Thái, An Dương, Hải Phòng",
+        "path_with_type": "Xã Hồng Thái, Huyện An Dương, Thành phố Hải Phòng",
+        "code": "11626",
+        "parent_code": "312"
+    }
+}

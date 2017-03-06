@@ -1,0 +1,152 @@
+{
+    "21907": {
+        "name": "Bình Định",
+        "type": "phuong",
+        "slug": "binh-dinh",
+        "name_with_type": "Phường Bình Định",
+        "path": "Bình Định, An Nhơn, Bình Định",
+        "path_with_type": "Phường Bình Định, Thị xã An Nhơn, Tỉnh Bình Định",
+        "code": "21907",
+        "parent_code": "549"
+    },
+    "21910": {
+        "name": "Đập Đá",
+        "type": "phuong",
+        "slug": "dap-da",
+        "name_with_type": "Phường Đập Đá",
+        "path": "Đập Đá, An Nhơn, Bình Định",
+        "path_with_type": "Phường Đập Đá, Thị xã An Nhơn, Tỉnh Bình Định",
+        "code": "21910",
+        "parent_code": "549"
+    },
+    "21913": {
+        "name": "Nhơn Mỹ",
+        "type": "xa",
+        "slug": "nhon-my",
+        "name_with_type": "Xã Nhơn Mỹ",
+        "path": "Nhơn Mỹ, An Nhơn, Bình Định",
+        "path_with_type": "Xã Nhơn Mỹ, Thị xã An Nhơn, Tỉnh Bình Định",
+        "code": "21913",
+        "parent_code": "549"
+    },
+    "21916": {
+        "name": "Nhơn Thành",
+        "type": "phuong",
+        "slug": "nhon-thanh",
+        "name_with_type": "Phường Nhơn Thành",
+        "path": "Nhơn Thành, An Nhơn, Bình Định",
+        "path_with_type": "Phường Nhơn Thành, Thị xã An Nhơn, Tỉnh Bình Định",
+        "code": "21916",
+        "parent_code": "549"
+    },
+    "21919": {
+        "name": "Nhơn Hạnh",
+        "type": "xa",
+        "slug": "nhon-hanh",
+        "name_with_type": "Xã Nhơn Hạnh",
+        "path": "Nhơn Hạnh, An Nhơn, Bình Định",
+        "path_with_type": "Xã Nhơn Hạnh, Thị xã An Nhơn, Tỉnh Bình Định",
+        "code": "21919",
+        "parent_code": "549"
+    },
+    "21922": {
+        "name": "Nhơn Hậu",
+        "type": "xa",
+        "slug": "nhon-hau",
+        "name_with_type": "Xã Nhơn Hậu",
+        "path": "Nhơn Hậu, An Nhơn, Bình Định",
+        "path_with_type": "Xã Nhơn Hậu, Thị xã An Nhơn, Tỉnh Bình Định",
+        "code": "21922",
+        "parent_code": "549"
+    },
+    "21925": {
+        "name": "Nhơn Phong",
+        "type": "xa",
+        "slug": "nhon-phong",
+        "name_with_type": "Xã Nhơn Phong",
+        "path": "Nhơn Phong, An Nhơn, Bình Định",
+        "path_with_type": "Xã Nhơn Phong, Thị xã An Nhơn, Tỉnh Bình Định",
+        "code": "21925",
+        "parent_code": "549"
+    },
+    "21928": {
+        "name": "Nhơn An",
+        "type": "xa",
+        "slug": "nhon-an",
+        "name_with_type": "Xã Nhơn An",
+        "path": "Nhơn An, An Nhơn, Bình Định",
+        "path_with_type": "Xã Nhơn An, Thị xã An Nhơn, Tỉnh Bình Định",
+        "code": "21928",
+        "parent_code": "549"
+    },
+    "21931": {
+        "name": "Nhơn Phúc",
+        "type": "xa",
+        "slug": "nhon-phuc",
+        "name_with_type": "Xã Nhơn Phúc",
+        "path": "Nhơn Phúc, An Nhơn, Bình Định",
+        "path_with_type": "Xã Nhơn Phúc, Thị xã An Nhơn, Tỉnh Bình Định",
+        "code": "21931",
+        "parent_code": "549"
+    },
+    "21934": {
+        "name": "Nhơn Hưng",
+        "type": "phuong",
+        "slug": "nhon-hung",
+        "name_with_type": "Phường Nhơn Hưng",
+        "path": "Nhơn Hưng, An Nhơn, Bình Định",
+        "path_with_type": "Phường Nhơn Hưng, Thị xã An Nhơn, Tỉnh Bình Định",
+        "code": "21934",
+        "parent_code": "549"
+    },
+    "21937": {
+        "name": "Nhơn Khánh",
+        "type": "xa",
+        "slug": "nhon-khanh",
+        "name_with_type": "Xã Nhơn Khánh",
+        "path": "Nhơn Khánh, An Nhơn, Bình Định",
+        "path_with_type": "Xã Nhơn Khánh, Thị xã An Nhơn, Tỉnh Bình Định",
+        "code": "21937",
+        "parent_code": "549"
+    },
+    "21940": {
+        "name": "Nhơn Lộc",
+        "type": "xa",
+        "slug": "nhon-loc",
+        "name_with_type": "Xã Nhơn Lộc",
+        "path": "Nhơn Lộc, An Nhơn, Bình Định",
+        "path_with_type": "Xã Nhơn Lộc, Thị xã An Nhơn, Tỉnh Bình Định",
+        "code": "21940",
+        "parent_code": "549"
+    },
+    "21943": {
+        "name": "Nhơn Hoà",
+        "type": "phuong",
+        "slug": "nhon-hoa",
+        "name_with_type": "Phường Nhơn Hoà",
+        "path": "Nhơn Hoà, An Nhơn, Bình Định",
+        "path_with_type": "Phường Nhơn Hoà, Thị xã An Nhơn, Tỉnh Bình Định",
+        "code": "21943",
+        "parent_code": "549"
+    },
+    "21946": {
+        "name": "Nhơn Tân",
+        "type": "xa",
+        "slug": "nhon-tan",
+        "name_with_type": "Xã Nhơn Tân",
+        "path": "Nhơn Tân, An Nhơn, Bình Định",
+        "path_with_type": "Xã Nhơn Tân, Thị xã An Nhơn, Tỉnh Bình Định",
+        "code": "21946",
+        "parent_code": "549"
+    },
+    "21949": {
+        "name": "Nhơn Thọ",
+        "type": "xa",
+        "slug": "nhon-tho",
+        "name_with_type": "Xã Nhơn Thọ",
+        "path": "Nhơn Thọ, An Nhơn, Bình Định",
+        "path_with_type": "Xã Nhơn Thọ, Thị xã An Nhơn, Tỉnh Bình Định",
+        "code": "21949",
+        "parent_code": "549"
+    }
+}

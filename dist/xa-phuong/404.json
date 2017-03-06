@@ -1,0 +1,322 @@
+{
+    "16279": {
+        "name": "Nông Cống",
+        "type": "thi-tran",
+        "slug": "nong-cong",
+        "name_with_type": "Thị trấn Nông Cống",
+        "path": "Nông Cống, Nông Cống, Thanh Hóa",
+        "path_with_type": "Thị trấn Nông Cống, Huyện Nông Cống, Tỉnh Thanh Hóa",
+        "code": "16279",
+        "parent_code": "404"
+    },
+    "16282": {
+        "name": "Tân Phúc",
+        "type": "xa",
+        "slug": "tan-phuc",
+        "name_with_type": "Xã Tân Phúc",
+        "path": "Tân Phúc, Nông Cống, Thanh Hóa",
+        "path_with_type": "Xã Tân Phúc, Huyện Nông Cống, Tỉnh Thanh Hóa",
+        "code": "16282",
+        "parent_code": "404"
+    },
+    "16285": {
+        "name": "Tân Thọ",
+        "type": "xa",
+        "slug": "tan-tho",
+        "name_with_type": "Xã Tân Thọ",
+        "path": "Tân Thọ, Nông Cống, Thanh Hóa",
+        "path_with_type": "Xã Tân Thọ, Huyện Nông Cống, Tỉnh Thanh Hóa",
+        "code": "16285",
+        "parent_code": "404"
+    },
+    "16288": {
+        "name": "Hoàng Sơn",
+        "type": "xa",
+        "slug": "hoang-son",
+        "name_with_type": "Xã Hoàng Sơn",
+        "path": "Hoàng Sơn, Nông Cống, Thanh Hóa",
+        "path_with_type": "Xã Hoàng Sơn, Huyện Nông Cống, Tỉnh Thanh Hóa",
+        "code": "16288",
+        "parent_code": "404"
+    },
+    "16291": {
+        "name": "Tân Khang",
+        "type": "xa",
+        "slug": "tan-khang",
+        "name_with_type": "Xã Tân Khang",
+        "path": "Tân Khang, Nông Cống, Thanh Hóa",
+        "path_with_type": "Xã Tân Khang, Huyện Nông Cống, Tỉnh Thanh Hóa",
+        "code": "16291",
+        "parent_code": "404"
+    },
+    "16294": {
+        "name": "Hoàng Giang",
+        "type": "xa",
+        "slug": "hoang-giang",
+        "name_with_type": "Xã Hoàng Giang",
+        "path": "Hoàng Giang, Nông Cống, Thanh Hóa",
+        "path_with_type": "Xã Hoàng Giang, Huyện Nông Cống, Tỉnh Thanh Hóa",
+        "code": "16294",
+        "parent_code": "404"
+    },
+    "16297": {
+        "name": "Trung Chính",
+        "type": "xa",
+        "slug": "trung-chinh",
+        "name_with_type": "Xã Trung Chính",
+        "path": "Trung Chính, Nông Cống, Thanh Hóa",
+        "path_with_type": "Xã Trung Chính, Huyện Nông Cống, Tỉnh Thanh Hóa",
+        "code": "16297",
+        "parent_code": "404"
+    },
+    "16300": {
+        "name": "Trung Ý",
+        "type": "xa",
+        "slug": "trung-y",
+        "name_with_type": "Xã Trung Ý",
+        "path": "Trung Ý, Nông Cống, Thanh Hóa",
+        "path_with_type": "Xã Trung Ý, Huyện Nông Cống, Tỉnh Thanh Hóa",
+        "code": "16300",
+        "parent_code": "404"
+    },
+    "16303": {
+        "name": "Trung Thành",
+        "type": "xa",
+        "slug": "trung-thanh",
+        "name_with_type": "Xã Trung Thành",
+        "path": "Trung Thành, Nông Cống, Thanh Hóa",
+        "path_with_type": "Xã Trung Thành, Huyện Nông Cống, Tỉnh Thanh Hóa",
+        "code": "16303",
+        "parent_code": "404"
+    },
+    "16306": {
+        "name": "Tế Tân",
+        "type": "xa",
+        "slug": "te-tan",
+        "name_with_type": "Xã Tế Tân",
+        "path": "Tế Tân, Nông Cống, Thanh Hóa",
+        "path_with_type": "Xã Tế Tân, Huyện Nông Cống, Tỉnh Thanh Hóa",
+        "code": "16306",
+        "parent_code": "404"
+    },
+    "16309": {
+        "name": "Tế Thắng",
+        "type": "xa",
+        "slug": "te-thang",
+        "name_with_type": "Xã Tế Thắng",
+        "path": "Tế Thắng, Nông Cống, Thanh Hóa",
+        "path_with_type": "Xã Tế Thắng, Huyện Nông Cống, Tỉnh Thanh Hóa",
+        "code": "16309",
+        "parent_code": "404"
+    },
+    "16315": {
+        "name": "Tế Lợi",
+        "type": "xa",
+        "slug": "te-loi",
+        "name_with_type": "Xã Tế Lợi",
+        "path": "Tế Lợi, Nông Cống, Thanh Hóa",
+        "path_with_type": "Xã Tế Lợi, Huyện Nông Cống, Tỉnh Thanh Hóa",
+        "code": "16315",
+        "parent_code": "404"
+    },
+    "16318": {
+        "name": "Tế Nông",
+        "type": "xa",
+        "slug": "te-nong",
+        "name_with_type": "Xã Tế Nông",
+        "path": "Tế Nông, Nông Cống, Thanh Hóa",
+        "path_with_type": "Xã Tế Nông, Huyện Nông Cống, Tỉnh Thanh Hóa",
+        "code": "16318",
+        "parent_code": "404"
+    },
+    "16321": {
+        "name": "Minh Nghĩa",
+        "type": "xa",
+        "slug": "minh-nghia",
+        "name_with_type": "Xã Minh Nghĩa",
+        "path": "Minh Nghĩa, Nông Cống, Thanh Hóa",
+        "path_with_type": "Xã Minh Nghĩa, Huyện Nông Cống, Tỉnh Thanh Hóa",
+        "code": "16321",
+        "parent_code": "404"
+    },
+    "16324": {
+        "name": "Minh Khôi",
+        "type": "xa",
+        "slug": "minh-khoi",
+        "name_with_type": "Xã Minh Khôi",
+        "path": "Minh Khôi, Nông Cống, Thanh Hóa",
+        "path_with_type": "Xã Minh Khôi, Huyện Nông Cống, Tỉnh Thanh Hóa",
+        "code": "16324",
+        "parent_code": "404"
+    },
+    "16327": {
+        "name": "Vạn Hòa",
+        "type": "xa",
+        "slug": "van-hoa",
+        "name_with_type": "Xã Vạn Hòa",
+        "path": "Vạn Hòa, Nông Cống, Thanh Hóa",
+        "path_with_type": "Xã Vạn Hòa, Huyện Nông Cống, Tỉnh Thanh Hóa",
+        "code": "16327",
+        "parent_code": "404"
+    },
+    "16330": {
+        "name": "Trường Trung",
+        "type": "xa",
+        "slug": "truong-trung",
+        "name_with_type": "Xã Trường Trung",
+        "path": "Trường Trung, Nông Cống, Thanh Hóa",
+        "path_with_type": "Xã Trường Trung, Huyện Nông Cống, Tỉnh Thanh Hóa",
+        "code": "16330",
+        "parent_code": "404"
+    },
+    "16333": {
+        "name": "Vạn Thắng",
+        "type": "xa",
+        "slug": "van-thang",
+        "name_with_type": "Xã Vạn Thắng",
+        "path": "Vạn Thắng, Nông Cống, Thanh Hóa",
+        "path_with_type": "Xã Vạn Thắng, Huyện Nông Cống, Tỉnh Thanh Hóa",
+        "code": "16333",
+        "parent_code": "404"
+    },
+    "16336": {
+        "name": "Trường Giang",
+        "type": "xa",
+        "slug": "truong-giang",
+        "name_with_type": "Xã Trường Giang",
+        "path": "Trường Giang, Nông Cống, Thanh Hóa",
+        "path_with_type": "Xã Trường Giang, Huyện Nông Cống, Tỉnh Thanh Hóa",
+        "code": "16336",
+        "parent_code": "404"
+    },
+    "16339": {
+        "name": "Vạn Thiện",
+        "type": "xa",
+        "slug": "van-thien",
+        "name_with_type": "Xã Vạn Thiện",
+        "path": "Vạn Thiện, Nông Cống, Thanh Hóa",
+        "path_with_type": "Xã Vạn Thiện, Huyện Nông Cống, Tỉnh Thanh Hóa",
+        "code": "16339",
+        "parent_code": "404"
+    },
+    "16342": {
+        "name": "Thăng Long",
+        "type": "xa",
+        "slug": "thang-long",
+        "name_with_type": "Xã Thăng Long",
+        "path": "Thăng Long, Nông Cống, Thanh Hóa",
+        "path_with_type": "Xã Thăng Long, Huyện Nông Cống, Tỉnh Thanh Hóa",
+        "code": "16342",
+        "parent_code": "404"
+    },
+    "16345": {
+        "name": "Trường Minh",
+        "type": "xa",
+        "slug": "truong-minh",
+        "name_with_type": "Xã Trường Minh",
+        "path": "Trường Minh, Nông Cống, Thanh Hóa",
+        "path_with_type": "Xã Trường Minh, Huyện Nông Cống, Tỉnh Thanh Hóa",
+        "code": "16345",
+        "parent_code": "404"
+    },
+    "16348": {
+        "name": "Trường Sơn",
+        "type": "xa",
+        "slug": "truong-son",
+        "name_with_type": "Xã Trường Sơn",
+        "path": "Trường Sơn, Nông Cống, Thanh Hóa",
+        "path_with_type": "Xã Trường Sơn, Huyện Nông Cống, Tỉnh Thanh Hóa",
+        "code": "16348",
+        "parent_code": "404"
+    },
+    "16351": {
+        "name": "Thăng Bình",
+        "type": "xa",
+        "slug": "thang-binh",
+        "name_with_type": "Xã Thăng Bình",
+        "path": "Thăng Bình, Nông Cống, Thanh Hóa",
+        "path_with_type": "Xã Thăng Bình, Huyện Nông Cống, Tỉnh Thanh Hóa",
+        "code": "16351",
+        "parent_code": "404"
+    },
+    "16354": {
+        "name": "Công Liêm",
+        "type": "xa",
+        "slug": "cong-liem",
+        "name_with_type": "Xã Công Liêm",
+        "path": "Công Liêm, Nông Cống, Thanh Hóa",
+        "path_with_type": "Xã Công Liêm, Huyện Nông Cống, Tỉnh Thanh Hóa",
+        "code": "16354",
+        "parent_code": "404"
+    },
+    "16357": {
+        "name": "Tượng Văn",
+        "type": "xa",
+        "slug": "tuong-van",
+        "name_with_type": "Xã Tượng Văn",
+        "path": "Tượng Văn, Nông Cống, Thanh Hóa",
+        "path_with_type": "Xã Tượng Văn, Huyện Nông Cống, Tỉnh Thanh Hóa",
+        "code": "16357",
+        "parent_code": "404"
+    },
+    "16360": {
+        "name": "Thăng Thọ",
+        "type": "xa",
+        "slug": "thang-tho",
+        "name_with_type": "Xã Thăng Thọ",
+        "path": "Thăng Thọ, Nông Cống, Thanh Hóa",
+        "path_with_type": "Xã Thăng Thọ, Huyện Nông Cống, Tỉnh Thanh Hóa",
+        "code": "16360",
+        "parent_code": "404"
+    },
+    "16363": {
+        "name": "Tượng Lĩnh",
+        "type": "xa",
+        "slug": "tuong-linh",
+        "name_with_type": "Xã Tượng Lĩnh",
+        "path": "Tượng Lĩnh, Nông Cống, Thanh Hóa",
+        "path_with_type": "Xã Tượng Lĩnh, Huyện Nông Cống, Tỉnh Thanh Hóa",
+        "code": "16363",
+        "parent_code": "404"
+    },
+    "16366": {
+        "name": "Tượng Sơn",
+        "type": "xa",
+        "slug": "tuong-son",
+        "name_with_type": "Xã Tượng Sơn",
+        "path": "Tượng Sơn, Nông Cống, Thanh Hóa",
+        "path_with_type": "Xã Tượng Sơn, Huyện Nông Cống, Tỉnh Thanh Hóa",
+        "code": "16366",
+        "parent_code": "404"
+    },
+    "16369": {
+        "name": "Công Chính",
+        "type": "xa",
+        "slug": "cong-chinh",
+        "name_with_type": "Xã Công Chính",
+        "path": "Công Chính, Nông Cống, Thanh Hóa",
+        "path_with_type": "Xã Công Chính, Huyện Nông Cống, Tỉnh Thanh Hóa",
+        "code": "16369",
+        "parent_code": "404"
+    },
+    "16372": {
+        "name": "Công Bình",
+        "type": "xa",
+        "slug": "cong-binh",
+        "name_with_type": "Xã Công Bình",
+        "path": "Công Bình, Nông Cống, Thanh Hóa",
+        "path_with_type": "Xã Công Bình, Huyện Nông Cống, Tỉnh Thanh Hóa",
+        "code": "16372",
+        "parent_code": "404"
+    },
+    "16375": {
+        "name": "Yên Mỹ",
+        "type": "xa",
+        "slug": "yen-my",
+        "name_with_type": "Xã Yên Mỹ",
+        "path": "Yên Mỹ, Nông Cống, Thanh Hóa",
+        "path_with_type": "Xã Yên Mỹ, Huyện Nông Cống, Tỉnh Thanh Hóa",
+        "code": "16375",
+        "parent_code": "404"
+    }
+}

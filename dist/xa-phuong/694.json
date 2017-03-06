@@ -1,0 +1,132 @@
+{
+    "25327": {
+        "name": "Thanh An",
+        "type": "xa",
+        "slug": "thanh-an",
+        "name_with_type": "Xã Thanh An",
+        "path": "Thanh An, Hớn Quản, Bình Phước",
+        "path_with_type": "Xã Thanh An, Huyện Hớn Quản, Tỉnh Bình Phước",
+        "code": "25327",
+        "parent_code": "694"
+    },
+    "25330": {
+        "name": "An Khương",
+        "type": "xa",
+        "slug": "an-khuong",
+        "name_with_type": "Xã An Khương",
+        "path": "An Khương, Hớn Quản, Bình Phước",
+        "path_with_type": "Xã An Khương, Huyện Hớn Quản, Tỉnh Bình Phước",
+        "code": "25330",
+        "parent_code": "694"
+    },
+    "25339": {
+        "name": "An Phú",
+        "type": "xa",
+        "slug": "an-phu",
+        "name_with_type": "Xã An Phú",
+        "path": "An Phú, Hớn Quản, Bình Phước",
+        "path_with_type": "Xã An Phú, Huyện Hớn Quản, Tỉnh Bình Phước",
+        "code": "25339",
+        "parent_code": "694"
+    },
+    "25342": {
+        "name": "Tân Lợi",
+        "type": "xa",
+        "slug": "tan-loi",
+        "name_with_type": "Xã Tân Lợi",
+        "path": "Tân Lợi, Hớn Quản, Bình Phước",
+        "path_with_type": "Xã Tân Lợi, Huyện Hớn Quản, Tỉnh Bình Phước",
+        "code": "25342",
+        "parent_code": "694"
+    },
+    "25345": {
+        "name": "Tân Hưng",
+        "type": "xa",
+        "slug": "tan-hung",
+        "name_with_type": "Xã Tân Hưng",
+        "path": "Tân Hưng, Hớn Quản, Bình Phước",
+        "path_with_type": "Xã Tân Hưng, Huyện Hớn Quản, Tỉnh Bình Phước",
+        "code": "25345",
+        "parent_code": "694"
+    },
+    "25348": {
+        "name": "Minh Đức",
+        "type": "xa",
+        "slug": "minh-duc",
+        "name_with_type": "Xã Minh Đức",
+        "path": "Minh Đức, Hớn Quản, Bình Phước",
+        "path_with_type": "Xã Minh Đức, Huyện Hớn Quản, Tỉnh Bình Phước",
+        "code": "25348",
+        "parent_code": "694"
+    },
+    "25349": {
+        "name": "Minh Tâm",
+        "type": "xa",
+        "slug": "minh-tam",
+        "name_with_type": "Xã Minh Tâm",
+        "path": "Minh Tâm, Hớn Quản, Bình Phước",
+        "path_with_type": "Xã Minh Tâm, Huyện Hớn Quản, Tỉnh Bình Phước",
+        "code": "25349",
+        "parent_code": "694"
+    },
+    "25351": {
+        "name": "Phước An",
+        "type": "xa",
+        "slug": "phuoc-an",
+        "name_with_type": "Xã Phước An",
+        "path": "Phước An, Hớn Quản, Bình Phước",
+        "path_with_type": "Xã Phước An, Huyện Hớn Quản, Tỉnh Bình Phước",
+        "code": "25351",
+        "parent_code": "694"
+    },
+    "25354": {
+        "name": "Thanh Bình",
+        "type": "xa",
+        "slug": "thanh-binh",
+        "name_with_type": "Xã Thanh Bình",
+        "path": "Thanh Bình, Hớn Quản, Bình Phước",
+        "path_with_type": "Xã Thanh Bình, Huyện Hớn Quản, Tỉnh Bình Phước",
+        "code": "25354",
+        "parent_code": "694"
+    },
+    "25357": {
+        "name": "Tân Khai",
+        "type": "xa",
+        "slug": "tan-khai",
+        "name_with_type": "Xã Tân Khai",
+        "path": "Tân Khai, Hớn Quản, Bình Phước",
+        "path_with_type": "Xã Tân Khai, Huyện Hớn Quản, Tỉnh Bình Phước",
+        "code": "25357",
+        "parent_code": "694"
+    },
+    "25360": {
+        "name": "Đồng Nơ",
+        "type": "xa",
+        "slug": "dong-no",
+        "name_with_type": "Xã Đồng Nơ",
+        "path": "Đồng Nơ, Hớn Quản, Bình Phước",
+        "path_with_type": "Xã Đồng Nơ, Huyện Hớn Quản, Tỉnh Bình Phước",
+        "code": "25360",
+        "parent_code": "694"
+    },
+    "25361": {
+        "name": "Tân Hiệp",
+        "type": "xa",
+        "slug": "tan-hiep",
+        "name_with_type": "Xã Tân Hiệp",
+        "path": "Tân Hiệp, Hớn Quản, Bình Phước",
+        "path_with_type": "Xã Tân Hiệp, Huyện Hớn Quản, Tỉnh Bình Phước",
+        "code": "25361",
+        "parent_code": "694"
+    },
+    "25438": {
+        "name": "Tân Quan",
+        "type": "xa",
+        "slug": "tan-quan",
+        "name_with_type": "Xã Tân Quan",
+        "path": "Tân Quan, Hớn Quản, Bình Phước",
+        "path_with_type": "Xã Tân Quan, Huyện Hớn Quản, Tỉnh Bình Phước",
+        "code": "25438",
+        "parent_code": "694"
+    }
+}

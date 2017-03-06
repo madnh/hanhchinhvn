@@ -1,0 +1,272 @@
+{
+    "07444": {
+        "name": "Đồi Ngô",
+        "type": "thi-tran",
+        "slug": "doi-ngo",
+        "name_with_type": "Thị trấn Đồi Ngô",
+        "path": "Đồi Ngô, Lục Nam, Bắc Giang",
+        "path_with_type": "Thị trấn Đồi Ngô, Huyện Lục Nam, Tỉnh Bắc Giang",
+        "code": "07444",
+        "parent_code": "218"
+    },
+    "07447": {
+        "name": "Lục Nam",
+        "type": "thi-tran",
+        "slug": "luc-nam",
+        "name_with_type": "Thị trấn Lục Nam",
+        "path": "Lục Nam, Lục Nam, Bắc Giang",
+        "path_with_type": "Thị trấn Lục Nam, Huyện Lục Nam, Tỉnh Bắc Giang",
+        "code": "07447",
+        "parent_code": "218"
+    },
+    "07450": {
+        "name": "Đông Hưng",
+        "type": "xa",
+        "slug": "dong-hung",
+        "name_with_type": "Xã Đông Hưng",
+        "path": "Đông Hưng, Lục Nam, Bắc Giang",
+        "path_with_type": "Xã Đông Hưng, Huyện Lục Nam, Tỉnh Bắc Giang",
+        "code": "07450",
+        "parent_code": "218"
+    },
+    "07453": {
+        "name": "Đông Phú",
+        "type": "xa",
+        "slug": "dong-phu",
+        "name_with_type": "Xã Đông Phú",
+        "path": "Đông Phú, Lục Nam, Bắc Giang",
+        "path_with_type": "Xã Đông Phú, Huyện Lục Nam, Tỉnh Bắc Giang",
+        "code": "07453",
+        "parent_code": "218"
+    },
+    "07456": {
+        "name": "Tam Dị",
+        "type": "xa",
+        "slug": "tam-di",
+        "name_with_type": "Xã Tam Dị",
+        "path": "Tam Dị, Lục Nam, Bắc Giang",
+        "path_with_type": "Xã Tam Dị, Huyện Lục Nam, Tỉnh Bắc Giang",
+        "code": "07456",
+        "parent_code": "218"
+    },
+    "07459": {
+        "name": "Bảo Sơn",
+        "type": "xa",
+        "slug": "bao-son",
+        "name_with_type": "Xã Bảo Sơn",
+        "path": "Bảo Sơn, Lục Nam, Bắc Giang",
+        "path_with_type": "Xã Bảo Sơn, Huyện Lục Nam, Tỉnh Bắc Giang",
+        "code": "07459",
+        "parent_code": "218"
+    },
+    "07462": {
+        "name": "Bảo Đài",
+        "type": "xa",
+        "slug": "bao-dai",
+        "name_with_type": "Xã Bảo Đài",
+        "path": "Bảo Đài, Lục Nam, Bắc Giang",
+        "path_with_type": "Xã Bảo Đài, Huyện Lục Nam, Tỉnh Bắc Giang",
+        "code": "07462",
+        "parent_code": "218"
+    },
+    "07465": {
+        "name": "Thanh Lâm",
+        "type": "xa",
+        "slug": "thanh-lam",
+        "name_with_type": "Xã Thanh Lâm",
+        "path": "Thanh Lâm, Lục Nam, Bắc Giang",
+        "path_with_type": "Xã Thanh Lâm, Huyện Lục Nam, Tỉnh Bắc Giang",
+        "code": "07465",
+        "parent_code": "218"
+    },
+    "07468": {
+        "name": "Tiên Nha",
+        "type": "xa",
+        "slug": "tien-nha",
+        "name_with_type": "Xã Tiên Nha",
+        "path": "Tiên Nha, Lục Nam, Bắc Giang",
+        "path_with_type": "Xã Tiên Nha, Huyện Lục Nam, Tỉnh Bắc Giang",
+        "code": "07468",
+        "parent_code": "218"
+    },
+    "07471": {
+        "name": "Trường Giang",
+        "type": "xa",
+        "slug": "truong-giang",
+        "name_with_type": "Xã Trường Giang",
+        "path": "Trường Giang, Lục Nam, Bắc Giang",
+        "path_with_type": "Xã Trường Giang, Huyện Lục Nam, Tỉnh Bắc Giang",
+        "code": "07471",
+        "parent_code": "218"
+    },
+    "07474": {
+        "name": "Tiên Hưng",
+        "type": "xa",
+        "slug": "tien-hung",
+        "name_with_type": "Xã Tiên Hưng",
+        "path": "Tiên Hưng, Lục Nam, Bắc Giang",
+        "path_with_type": "Xã Tiên Hưng, Huyện Lục Nam, Tỉnh Bắc Giang",
+        "code": "07474",
+        "parent_code": "218"
+    },
+    "07477": {
+        "name": "Phương Sơn",
+        "type": "xa",
+        "slug": "phuong-son",
+        "name_with_type": "Xã Phương Sơn",
+        "path": "Phương Sơn, Lục Nam, Bắc Giang",
+        "path_with_type": "Xã Phương Sơn, Huyện Lục Nam, Tỉnh Bắc Giang",
+        "code": "07477",
+        "parent_code": "218"
+    },
+    "07480": {
+        "name": "Chu Điện",
+        "type": "xa",
+        "slug": "chu-dien",
+        "name_with_type": "Xã Chu Điện",
+        "path": "Chu Điện, Lục Nam, Bắc Giang",
+        "path_with_type": "Xã Chu Điện, Huyện Lục Nam, Tỉnh Bắc Giang",
+        "code": "07480",
+        "parent_code": "218"
+    },
+    "07483": {
+        "name": "Cương Sơn",
+        "type": "xa",
+        "slug": "cuong-son",
+        "name_with_type": "Xã Cương Sơn",
+        "path": "Cương Sơn, Lục Nam, Bắc Giang",
+        "path_with_type": "Xã Cương Sơn, Huyện Lục Nam, Tỉnh Bắc Giang",
+        "code": "07483",
+        "parent_code": "218"
+    },
+    "07486": {
+        "name": "Nghĩa Phương",
+        "type": "xa",
+        "slug": "nghia-phuong",
+        "name_with_type": "Xã Nghĩa Phương",
+        "path": "Nghĩa Phương, Lục Nam, Bắc Giang",
+        "path_with_type": "Xã Nghĩa Phương, Huyện Lục Nam, Tỉnh Bắc Giang",
+        "code": "07486",
+        "parent_code": "218"
+    },
+    "07489": {
+        "name": "Vô Tranh",
+        "type": "xa",
+        "slug": "vo-tranh",
+        "name_with_type": "Xã Vô Tranh",
+        "path": "Vô Tranh, Lục Nam, Bắc Giang",
+        "path_with_type": "Xã Vô Tranh, Huyện Lục Nam, Tỉnh Bắc Giang",
+        "code": "07489",
+        "parent_code": "218"
+    },
+    "07492": {
+        "name": "Bình Sơn",
+        "type": "xa",
+        "slug": "binh-son",
+        "name_with_type": "Xã Bình Sơn",
+        "path": "Bình Sơn, Lục Nam, Bắc Giang",
+        "path_with_type": "Xã Bình Sơn, Huyện Lục Nam, Tỉnh Bắc Giang",
+        "code": "07492",
+        "parent_code": "218"
+    },
+    "07495": {
+        "name": "Lan Mẫu",
+        "type": "xa",
+        "slug": "lan-mau",
+        "name_with_type": "Xã Lan Mẫu",
+        "path": "Lan Mẫu, Lục Nam, Bắc Giang",
+        "path_with_type": "Xã Lan Mẫu, Huyện Lục Nam, Tỉnh Bắc Giang",
+        "code": "07495",
+        "parent_code": "218"
+    },
+    "07498": {
+        "name": "Yên Sơn",
+        "type": "xa",
+        "slug": "yen-son",
+        "name_with_type": "Xã Yên Sơn",
+        "path": "Yên Sơn, Lục Nam, Bắc Giang",
+        "path_with_type": "Xã Yên Sơn, Huyện Lục Nam, Tỉnh Bắc Giang",
+        "code": "07498",
+        "parent_code": "218"
+    },
+    "07501": {
+        "name": "Khám Lạng",
+        "type": "xa",
+        "slug": "kham-lang",
+        "name_with_type": "Xã Khám Lạng",
+        "path": "Khám Lạng, Lục Nam, Bắc Giang",
+        "path_with_type": "Xã Khám Lạng, Huyện Lục Nam, Tỉnh Bắc Giang",
+        "code": "07501",
+        "parent_code": "218"
+    },
+    "07504": {
+        "name": "Huyền Sơn",
+        "type": "xa",
+        "slug": "huyen-son",
+        "name_with_type": "Xã Huyền Sơn",
+        "path": "Huyền Sơn, Lục Nam, Bắc Giang",
+        "path_with_type": "Xã Huyền Sơn, Huyện Lục Nam, Tỉnh Bắc Giang",
+        "code": "07504",
+        "parent_code": "218"
+    },
+    "07507": {
+        "name": "Trường Sơn",
+        "type": "xa",
+        "slug": "truong-son",
+        "name_with_type": "Xã Trường Sơn",
+        "path": "Trường Sơn, Lục Nam, Bắc Giang",
+        "path_with_type": "Xã Trường Sơn, Huyện Lục Nam, Tỉnh Bắc Giang",
+        "code": "07507",
+        "parent_code": "218"
+    },
+    "07510": {
+        "name": "Lục Sơn",
+        "type": "xa",
+        "slug": "luc-son",
+        "name_with_type": "Xã Lục Sơn",
+        "path": "Lục Sơn, Lục Nam, Bắc Giang",
+        "path_with_type": "Xã Lục Sơn, Huyện Lục Nam, Tỉnh Bắc Giang",
+        "code": "07510",
+        "parent_code": "218"
+    },
+    "07513": {
+        "name": "Bắc Lũng",
+        "type": "xa",
+        "slug": "bac-lung",
+        "name_with_type": "Xã Bắc Lũng",
+        "path": "Bắc Lũng, Lục Nam, Bắc Giang",
+        "path_with_type": "Xã Bắc Lũng, Huyện Lục Nam, Tỉnh Bắc Giang",
+        "code": "07513",
+        "parent_code": "218"
+    },
+    "07516": {
+        "name": "Vũ Xá",
+        "type": "xa",
+        "slug": "vu-xa",
+        "name_with_type": "Xã Vũ Xá",
+        "path": "Vũ Xá, Lục Nam, Bắc Giang",
+        "path_with_type": "Xã Vũ Xá, Huyện Lục Nam, Tỉnh Bắc Giang",
+        "code": "07516",
+        "parent_code": "218"
+    },
+    "07519": {
+        "name": "Cẩm Lý",
+        "type": "xa",
+        "slug": "cam-ly",
+        "name_with_type": "Xã Cẩm Lý",
+        "path": "Cẩm Lý, Lục Nam, Bắc Giang",
+        "path_with_type": "Xã Cẩm Lý, Huyện Lục Nam, Tỉnh Bắc Giang",
+        "code": "07519",
+        "parent_code": "218"
+    },
+    "07522": {
+        "name": "Đan Hội",
+        "type": "xa",
+        "slug": "dan-hoi",
+        "name_with_type": "Xã Đan Hội",
+        "path": "Đan Hội, Lục Nam, Bắc Giang",
+        "path_with_type": "Xã Đan Hội, Huyện Lục Nam, Tỉnh Bắc Giang",
+        "code": "07522",
+        "parent_code": "218"
+    }
+}

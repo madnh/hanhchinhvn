@@ -1,0 +1,82 @@
+{
+    "06838": {
+        "name": "Bình Liêu",
+        "type": "thi-tran",
+        "slug": "binh-lieu",
+        "name_with_type": "Thị trấn Bình Liêu",
+        "path": "Bình Liêu, Bình Liêu, Quảng Ninh",
+        "path_with_type": "Thị trấn Bình Liêu, Huyện Bình Liêu, Tỉnh Quảng Ninh",
+        "code": "06838",
+        "parent_code": "198"
+    },
+    "06841": {
+        "name": "Hoành Mô",
+        "type": "xa",
+        "slug": "hoanh-mo",
+        "name_with_type": "Xã Hoành Mô",
+        "path": "Hoành Mô, Bình Liêu, Quảng Ninh",
+        "path_with_type": "Xã Hoành Mô, Huyện Bình Liêu, Tỉnh Quảng Ninh",
+        "code": "06841",
+        "parent_code": "198"
+    },
+    "06844": {
+        "name": "Đồng Tâm",
+        "type": "xa",
+        "slug": "dong-tam",
+        "name_with_type": "Xã Đồng Tâm",
+        "path": "Đồng Tâm, Bình Liêu, Quảng Ninh",
+        "path_with_type": "Xã Đồng Tâm, Huyện Bình Liêu, Tỉnh Quảng Ninh",
+        "code": "06844",
+        "parent_code": "198"
+    },
+    "06847": {
+        "name": "Đồng Văn",
+        "type": "xa",
+        "slug": "dong-van",
+        "name_with_type": "Xã Đồng Văn",
+        "path": "Đồng Văn, Bình Liêu, Quảng Ninh",
+        "path_with_type": "Xã Đồng Văn, Huyện Bình Liêu, Tỉnh Quảng Ninh",
+        "code": "06847",
+        "parent_code": "198"
+    },
+    "06850": {
+        "name": "Tình Húc",
+        "type": "xa",
+        "slug": "tinh-huc",
+        "name_with_type": "Xã Tình Húc",
+        "path": "Tình Húc, Bình Liêu, Quảng Ninh",
+        "path_with_type": "Xã Tình Húc, Huyện Bình Liêu, Tỉnh Quảng Ninh",
+        "code": "06850",
+        "parent_code": "198"
+    },
+    "06853": {
+        "name": "Vô Ngại",
+        "type": "xa",
+        "slug": "vo-ngai",
+        "name_with_type": "Xã Vô Ngại",
+        "path": "Vô Ngại, Bình Liêu, Quảng Ninh",
+        "path_with_type": "Xã Vô Ngại, Huyện Bình Liêu, Tỉnh Quảng Ninh",
+        "code": "06853",
+        "parent_code": "198"
+    },
+    "06856": {
+        "name": "Lục Hồn",
+        "type": "xa",
+        "slug": "luc-hon",
+        "name_with_type": "Xã Lục Hồn",
+        "path": "Lục Hồn, Bình Liêu, Quảng Ninh",
+        "path_with_type": "Xã Lục Hồn, Huyện Bình Liêu, Tỉnh Quảng Ninh",
+        "code": "06856",
+        "parent_code": "198"
+    },
+    "06859": {
+        "name": "Húc Động",
+        "type": "xa",
+        "slug": "huc-dong",
+        "name_with_type": "Xã Húc Động",
+        "path": "Húc Động, Bình Liêu, Quảng Ninh",
+        "path_with_type": "Xã Húc Động, Huyện Bình Liêu, Tỉnh Quảng Ninh",
+        "code": "06859",
+        "parent_code": "198"
+    }
+}

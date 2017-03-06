@@ -1,0 +1,212 @@
+{
+    "09247": {
+        "name": "Phố Mới",
+        "type": "thi-tran",
+        "slug": "pho-moi",
+        "name_with_type": "Thị trấn Phố Mới",
+        "path": "Phố Mới, Quế Võ, Bắc Ninh",
+        "path_with_type": "Thị trấn Phố Mới, Huyện Quế Võ, Tỉnh Bắc Ninh",
+        "code": "09247",
+        "parent_code": "259"
+    },
+    "09250": {
+        "name": "Việt Thống",
+        "type": "xa",
+        "slug": "viet-thong",
+        "name_with_type": "Xã Việt Thống",
+        "path": "Việt Thống, Quế Võ, Bắc Ninh",
+        "path_with_type": "Xã Việt Thống, Huyện Quế Võ, Tỉnh Bắc Ninh",
+        "code": "09250",
+        "parent_code": "259"
+    },
+    "09253": {
+        "name": "Đại Xuân",
+        "type": "xa",
+        "slug": "dai-xuan",
+        "name_with_type": "Xã Đại Xuân",
+        "path": "Đại Xuân, Quế Võ, Bắc Ninh",
+        "path_with_type": "Xã Đại Xuân, Huyện Quế Võ, Tỉnh Bắc Ninh",
+        "code": "09253",
+        "parent_code": "259"
+    },
+    "09259": {
+        "name": "Nhân Hòa",
+        "type": "xa",
+        "slug": "nhan-hoa",
+        "name_with_type": "Xã Nhân Hòa",
+        "path": "Nhân Hòa, Quế Võ, Bắc Ninh",
+        "path_with_type": "Xã Nhân Hòa, Huyện Quế Võ, Tỉnh Bắc Ninh",
+        "code": "09259",
+        "parent_code": "259"
+    },
+    "09262": {
+        "name": "Bằng An",
+        "type": "xa",
+        "slug": "bang-an",
+        "name_with_type": "Xã Bằng An",
+        "path": "Bằng An, Quế Võ, Bắc Ninh",
+        "path_with_type": "Xã Bằng An, Huyện Quế Võ, Tỉnh Bắc Ninh",
+        "code": "09262",
+        "parent_code": "259"
+    },
+    "09265": {
+        "name": "Phương Liễu",
+        "type": "xa",
+        "slug": "phuong-lieu",
+        "name_with_type": "Xã Phương Liễu",
+        "path": "Phương Liễu, Quế Võ, Bắc Ninh",
+        "path_with_type": "Xã Phương Liễu, Huyện Quế Võ, Tỉnh Bắc Ninh",
+        "code": "09265",
+        "parent_code": "259"
+    },
+    "09268": {
+        "name": "Quế Tân",
+        "type": "xa",
+        "slug": "que-tan",
+        "name_with_type": "Xã Quế Tân",
+        "path": "Quế Tân, Quế Võ, Bắc Ninh",
+        "path_with_type": "Xã Quế Tân, Huyện Quế Võ, Tỉnh Bắc Ninh",
+        "code": "09268",
+        "parent_code": "259"
+    },
+    "09274": {
+        "name": "Phù Lương",
+        "type": "xa",
+        "slug": "phu-luong",
+        "name_with_type": "Xã Phù Lương",
+        "path": "Phù Lương, Quế Võ, Bắc Ninh",
+        "path_with_type": "Xã Phù Lương, Huyện Quế Võ, Tỉnh Bắc Ninh",
+        "code": "09274",
+        "parent_code": "259"
+    },
+    "09277": {
+        "name": "Phù Lãng",
+        "type": "xa",
+        "slug": "phu-lang",
+        "name_with_type": "Xã Phù Lãng",
+        "path": "Phù Lãng, Quế Võ, Bắc Ninh",
+        "path_with_type": "Xã Phù Lãng, Huyện Quế Võ, Tỉnh Bắc Ninh",
+        "code": "09277",
+        "parent_code": "259"
+    },
+    "09280": {
+        "name": "Phượng Mao",
+        "type": "xa",
+        "slug": "phuong-mao",
+        "name_with_type": "Xã Phượng Mao",
+        "path": "Phượng Mao, Quế Võ, Bắc Ninh",
+        "path_with_type": "Xã Phượng Mao, Huyện Quế Võ, Tỉnh Bắc Ninh",
+        "code": "09280",
+        "parent_code": "259"
+    },
+    "09283": {
+        "name": "Việt Hùng",
+        "type": "xa",
+        "slug": "viet-hung",
+        "name_with_type": "Xã Việt Hùng",
+        "path": "Việt Hùng, Quế Võ, Bắc Ninh",
+        "path_with_type": "Xã Việt Hùng, Huyện Quế Võ, Tỉnh Bắc Ninh",
+        "code": "09283",
+        "parent_code": "259"
+    },
+    "09289": {
+        "name": "Ngọc Xá",
+        "type": "xa",
+        "slug": "ngoc-xa",
+        "name_with_type": "Xã Ngọc Xá",
+        "path": "Ngọc Xá, Quế Võ, Bắc Ninh",
+        "path_with_type": "Xã Ngọc Xá, Huyện Quế Võ, Tỉnh Bắc Ninh",
+        "code": "09289",
+        "parent_code": "259"
+    },
+    "09292": {
+        "name": "Châu Phong",
+        "type": "xa",
+        "slug": "chau-phong",
+        "name_with_type": "Xã Châu Phong",
+        "path": "Châu Phong, Quế Võ, Bắc Ninh",
+        "path_with_type": "Xã Châu Phong, Huyện Quế Võ, Tỉnh Bắc Ninh",
+        "code": "09292",
+        "parent_code": "259"
+    },
+    "09295": {
+        "name": "Bồng Lai",
+        "type": "xa",
+        "slug": "bong-lai",
+        "name_with_type": "Xã Bồng Lai",
+        "path": "Bồng Lai, Quế Võ, Bắc Ninh",
+        "path_with_type": "Xã Bồng Lai, Huyện Quế Võ, Tỉnh Bắc Ninh",
+        "code": "09295",
+        "parent_code": "259"
+    },
+    "09298": {
+        "name": "Cách Bi",
+        "type": "xa",
+        "slug": "cach-bi",
+        "name_with_type": "Xã Cách Bi",
+        "path": "Cách Bi, Quế Võ, Bắc Ninh",
+        "path_with_type": "Xã Cách Bi, Huyện Quế Võ, Tỉnh Bắc Ninh",
+        "code": "09298",
+        "parent_code": "259"
+    },
+    "09301": {
+        "name": "Đào Viên",
+        "type": "xa",
+        "slug": "dao-vien",
+        "name_with_type": "Xã Đào Viên",
+        "path": "Đào Viên, Quế Võ, Bắc Ninh",
+        "path_with_type": "Xã Đào Viên, Huyện Quế Võ, Tỉnh Bắc Ninh",
+        "code": "09301",
+        "parent_code": "259"
+    },
+    "09304": {
+        "name": "Yên Giả",
+        "type": "xa",
+        "slug": "yen-gia",
+        "name_with_type": "Xã Yên Giả",
+        "path": "Yên Giả, Quế Võ, Bắc Ninh",
+        "path_with_type": "Xã Yên Giả, Huyện Quế Võ, Tỉnh Bắc Ninh",
+        "code": "09304",
+        "parent_code": "259"
+    },
+    "09307": {
+        "name": "Mộ Đạo",
+        "type": "xa",
+        "slug": "mo-dao",
+        "name_with_type": "Xã Mộ Đạo",
+        "path": "Mộ Đạo, Quế Võ, Bắc Ninh",
+        "path_with_type": "Xã Mộ Đạo, Huyện Quế Võ, Tỉnh Bắc Ninh",
+        "code": "09307",
+        "parent_code": "259"
+    },
+    "09310": {
+        "name": "Đức Long",
+        "type": "xa",
+        "slug": "duc-long",
+        "name_with_type": "Xã Đức Long",
+        "path": "Đức Long, Quế Võ, Bắc Ninh",
+        "path_with_type": "Xã Đức Long, Huyện Quế Võ, Tỉnh Bắc Ninh",
+        "code": "09310",
+        "parent_code": "259"
+    },
+    "09313": {
+        "name": "Chi Lăng",
+        "type": "xa",
+        "slug": "chi-lang",
+        "name_with_type": "Xã Chi Lăng",
+        "path": "Chi Lăng, Quế Võ, Bắc Ninh",
+        "path_with_type": "Xã Chi Lăng, Huyện Quế Võ, Tỉnh Bắc Ninh",
+        "code": "09313",
+        "parent_code": "259"
+    },
+    "09316": {
+        "name": "Hán Quảng",
+        "type": "xa",
+        "slug": "han-quang",
+        "name_with_type": "Xã Hán Quảng",
+        "path": "Hán Quảng, Quế Võ, Bắc Ninh",
+        "path_with_type": "Xã Hán Quảng, Huyện Quế Võ, Tỉnh Bắc Ninh",
+        "code": "09316",
+        "parent_code": "259"
+    }
+}

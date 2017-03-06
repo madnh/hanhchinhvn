@@ -1,0 +1,132 @@
+{
+    "00595": {
+        "name": "Thượng Cát",
+        "type": "phuong",
+        "slug": "thuong-cat",
+        "name_with_type": "Phường Thượng Cát",
+        "path": "Thượng Cát, Bắc Từ Liêm, Hà Nội",
+        "path_with_type": "Phường Thượng Cát, Quận Bắc Từ Liêm, Thành phố Hà Nội",
+        "code": "00595",
+        "parent_code": "021"
+    },
+    "00598": {
+        "name": "Liên Mạc",
+        "type": "phuong",
+        "slug": "lien-mac",
+        "name_with_type": "Phường Liên Mạc",
+        "path": "Liên Mạc, Bắc Từ Liêm, Hà Nội",
+        "path_with_type": "Phường Liên Mạc, Quận Bắc Từ Liêm, Thành phố Hà Nội",
+        "code": "00598",
+        "parent_code": "021"
+    },
+    "00601": {
+        "name": "Đông Ngạc",
+        "type": "phuong",
+        "slug": "dong-ngac",
+        "name_with_type": "Phường Đông Ngạc",
+        "path": "Đông Ngạc, Bắc Từ Liêm, Hà Nội",
+        "path_with_type": "Phường Đông Ngạc, Quận Bắc Từ Liêm, Thành phố Hà Nội",
+        "code": "00601",
+        "parent_code": "021"
+    },
+    "00602": {
+        "name": "Đức Thắng",
+        "type": "phuong",
+        "slug": "duc-thang",
+        "name_with_type": "Phường Đức Thắng",
+        "path": "Đức Thắng, Bắc Từ Liêm, Hà Nội",
+        "path_with_type": "Phường Đức Thắng, Quận Bắc Từ Liêm, Thành phố Hà Nội",
+        "code": "00602",
+        "parent_code": "021"
+    },
+    "00604": {
+        "name": "Thụy Phương",
+        "type": "phuong",
+        "slug": "thuy-phuong",
+        "name_with_type": "Phường Thụy Phương",
+        "path": "Thụy Phương, Bắc Từ Liêm, Hà Nội",
+        "path_with_type": "Phường Thụy Phương, Quận Bắc Từ Liêm, Thành phố Hà Nội",
+        "code": "00604",
+        "parent_code": "021"
+    },
+    "00607": {
+        "name": "Tây Tựu",
+        "type": "phuong",
+        "slug": "tay-tuu",
+        "name_with_type": "Phường Tây Tựu",
+        "path": "Tây Tựu, Bắc Từ Liêm, Hà Nội",
+        "path_with_type": "Phường Tây Tựu, Quận Bắc Từ Liêm, Thành phố Hà Nội",
+        "code": "00607",
+        "parent_code": "021"
+    },
+    "00610": {
+        "name": "Xuân Đỉnh",
+        "type": "phuong",
+        "slug": "xuan-dinh",
+        "name_with_type": "Phường Xuân Đỉnh",
+        "path": "Xuân Đỉnh, Bắc Từ Liêm, Hà Nội",
+        "path_with_type": "Phường Xuân Đỉnh, Quận Bắc Từ Liêm, Thành phố Hà Nội",
+        "code": "00610",
+        "parent_code": "021"
+    },
+    "00611": {
+        "name": "Xuân Tảo",
+        "type": "phuong",
+        "slug": "xuan-tao",
+        "name_with_type": "Phường Xuân Tảo",
+        "path": "Xuân Tảo, Bắc Từ Liêm, Hà Nội",
+        "path_with_type": "Phường Xuân Tảo, Quận Bắc Từ Liêm, Thành phố Hà Nội",
+        "code": "00611",
+        "parent_code": "021"
+    },
+    "00613": {
+        "name": "Minh Khai",
+        "type": "phuong",
+        "slug": "minh-khai",
+        "name_with_type": "Phường Minh Khai",
+        "path": "Minh Khai, Bắc Từ Liêm, Hà Nội",
+        "path_with_type": "Phường Minh Khai, Quận Bắc Từ Liêm, Thành phố Hà Nội",
+        "code": "00613",
+        "parent_code": "021"
+    },
+    "00616": {
+        "name": "Cổ Nhuế 1",
+        "type": "phuong",
+        "slug": "co-nhue-1",
+        "name_with_type": "Phường Cổ Nhuế 1",
+        "path": "Cổ Nhuế 1, Bắc Từ Liêm, Hà Nội",
+        "path_with_type": "Phường Cổ Nhuế 1, Quận Bắc Từ Liêm, Thành phố Hà Nội",
+        "code": "00616",
+        "parent_code": "021"
+    },
+    "00617": {
+        "name": "Cổ Nhuế 2",
+        "type": "phuong",
+        "slug": "co-nhue-2",
+        "name_with_type": "Phường Cổ Nhuế 2",
+        "path": "Cổ Nhuế 2, Bắc Từ Liêm, Hà Nội",
+        "path_with_type": "Phường Cổ Nhuế 2, Quận Bắc Từ Liêm, Thành phố Hà Nội",
+        "code": "00617",
+        "parent_code": "021"
+    },
+    "00619": {
+        "name": "Phú Diễn",
+        "type": "phuong",
+        "slug": "phu-dien",
+        "name_with_type": "Phường Phú Diễn",
+        "path": "Phú Diễn, Bắc Từ Liêm, Hà Nội",
+        "path_with_type": "Phường Phú Diễn, Quận Bắc Từ Liêm, Thành phố Hà Nội",
+        "code": "00619",
+        "parent_code": "021"
+    },
+    "00620": {
+        "name": "Phúc Diễn",
+        "type": "phuong",
+        "slug": "phuc-dien",
+        "name_with_type": "Phường Phúc Diễn",
+        "path": "Phúc Diễn, Bắc Từ Liêm, Hà Nội",
+        "path_with_type": "Phường Phúc Diễn, Quận Bắc Từ Liêm, Thành phố Hà Nội",
+        "code": "00620",
+        "parent_code": "021"
+    }
+}

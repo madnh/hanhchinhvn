@@ -1,0 +1,132 @@
+{
+    "17227": {
+        "name": "Con Cuông",
+        "type": "thi-tran",
+        "slug": "con-cuong",
+        "name_with_type": "Thị trấn Con Cuông",
+        "path": "Con Cuông, Con Cuông, Nghệ An",
+        "path_with_type": "Thị trấn Con Cuông, Huyện Con Cuông, Tỉnh Nghệ An",
+        "code": "17227",
+        "parent_code": "422"
+    },
+    "17230": {
+        "name": "Bình Chuẩn",
+        "type": "xa",
+        "slug": "binh-chuan",
+        "name_with_type": "Xã Bình Chuẩn",
+        "path": "Bình Chuẩn, Con Cuông, Nghệ An",
+        "path_with_type": "Xã Bình Chuẩn, Huyện Con Cuông, Tỉnh Nghệ An",
+        "code": "17230",
+        "parent_code": "422"
+    },
+    "17233": {
+        "name": "Lạng Khê",
+        "type": "xa",
+        "slug": "lang-khe",
+        "name_with_type": "Xã Lạng Khê",
+        "path": "Lạng Khê, Con Cuông, Nghệ An",
+        "path_with_type": "Xã Lạng Khê, Huyện Con Cuông, Tỉnh Nghệ An",
+        "code": "17233",
+        "parent_code": "422"
+    },
+    "17236": {
+        "name": "Cam Lâm",
+        "type": "xa",
+        "slug": "cam-lam",
+        "name_with_type": "Xã Cam Lâm",
+        "path": "Cam Lâm, Con Cuông, Nghệ An",
+        "path_with_type": "Xã Cam Lâm, Huyện Con Cuông, Tỉnh Nghệ An",
+        "code": "17236",
+        "parent_code": "422"
+    },
+    "17239": {
+        "name": "Thạch Ngàn",
+        "type": "xa",
+        "slug": "thach-ngan",
+        "name_with_type": "Xã Thạch Ngàn",
+        "path": "Thạch Ngàn, Con Cuông, Nghệ An",
+        "path_with_type": "Xã Thạch Ngàn, Huyện Con Cuông, Tỉnh Nghệ An",
+        "code": "17239",
+        "parent_code": "422"
+    },
+    "17242": {
+        "name": "Đôn Phục",
+        "type": "xa",
+        "slug": "don-phuc",
+        "name_with_type": "Xã Đôn Phục",
+        "path": "Đôn Phục, Con Cuông, Nghệ An",
+        "path_with_type": "Xã Đôn Phục, Huyện Con Cuông, Tỉnh Nghệ An",
+        "code": "17242",
+        "parent_code": "422"
+    },
+    "17245": {
+        "name": "Mậu Đức",
+        "type": "xa",
+        "slug": "mau-duc",
+        "name_with_type": "Xã Mậu Đức",
+        "path": "Mậu Đức, Con Cuông, Nghệ An",
+        "path_with_type": "Xã Mậu Đức, Huyện Con Cuông, Tỉnh Nghệ An",
+        "code": "17245",
+        "parent_code": "422"
+    },
+    "17248": {
+        "name": "Châu Khê",
+        "type": "xa",
+        "slug": "chau-khe",
+        "name_with_type": "Xã Châu Khê",
+        "path": "Châu Khê, Con Cuông, Nghệ An",
+        "path_with_type": "Xã Châu Khê, Huyện Con Cuông, Tỉnh Nghệ An",
+        "code": "17248",
+        "parent_code": "422"
+    },
+    "17251": {
+        "name": "Chi Khê",
+        "type": "xa",
+        "slug": "chi-khe",
+        "name_with_type": "Xã Chi Khê",
+        "path": "Chi Khê, Con Cuông, Nghệ An",
+        "path_with_type": "Xã Chi Khê, Huyện Con Cuông, Tỉnh Nghệ An",
+        "code": "17251",
+        "parent_code": "422"
+    },
+    "17254": {
+        "name": "Bồng Khê",
+        "type": "xa",
+        "slug": "bong-khe",
+        "name_with_type": "Xã Bồng Khê",
+        "path": "Bồng Khê, Con Cuông, Nghệ An",
+        "path_with_type": "Xã Bồng Khê, Huyện Con Cuông, Tỉnh Nghệ An",
+        "code": "17254",
+        "parent_code": "422"
+    },
+    "17257": {
+        "name": "Yên Khê",
+        "type": "xa",
+        "slug": "yen-khe",
+        "name_with_type": "Xã Yên Khê",
+        "path": "Yên Khê, Con Cuông, Nghệ An",
+        "path_with_type": "Xã Yên Khê, Huyện Con Cuông, Tỉnh Nghệ An",
+        "code": "17257",
+        "parent_code": "422"
+    },
+    "17260": {
+        "name": "Lục Dạ",
+        "type": "xa",
+        "slug": "luc-da",
+        "name_with_type": "Xã Lục Dạ",
+        "path": "Lục Dạ, Con Cuông, Nghệ An",
+        "path_with_type": "Xã Lục Dạ, Huyện Con Cuông, Tỉnh Nghệ An",
+        "code": "17260",
+        "parent_code": "422"
+    },
+    "17263": {
+        "name": "Môn Sơn",
+        "type": "xa",
+        "slug": "mon-son",
+        "name_with_type": "Xã Môn Sơn",
+        "path": "Môn Sơn, Con Cuông, Nghệ An",
+        "path_with_type": "Xã Môn Sơn, Huyện Con Cuông, Tỉnh Nghệ An",
+        "code": "17263",
+        "parent_code": "422"
+    }
+}

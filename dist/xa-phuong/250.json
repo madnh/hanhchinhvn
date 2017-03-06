@@ -1,0 +1,182 @@
+{
+    "08973": {
+        "name": "Chi Đông",
+        "type": "thi-tran",
+        "slug": "chi-dong",
+        "name_with_type": "Thị trấn Chi Đông",
+        "path": "Chi Đông, Mê Linh, Hà Nội",
+        "path_with_type": "Thị trấn Chi Đông, Huyện Mê Linh, Thành phố Hà Nội",
+        "code": "08973",
+        "parent_code": "250"
+    },
+    "08974": {
+        "name": "Đại Thịnh",
+        "type": "xa",
+        "slug": "dai-thinh",
+        "name_with_type": "Xã Đại Thịnh",
+        "path": "Đại Thịnh, Mê Linh, Hà Nội",
+        "path_with_type": "Xã Đại Thịnh, Huyện Mê Linh, Thành phố Hà Nội",
+        "code": "08974",
+        "parent_code": "250"
+    },
+    "08977": {
+        "name": "Kim Hoa",
+        "type": "xa",
+        "slug": "kim-hoa",
+        "name_with_type": "Xã Kim Hoa",
+        "path": "Kim Hoa, Mê Linh, Hà Nội",
+        "path_with_type": "Xã Kim Hoa, Huyện Mê Linh, Thành phố Hà Nội",
+        "code": "08977",
+        "parent_code": "250"
+    },
+    "08980": {
+        "name": "Thạch Đà",
+        "type": "xa",
+        "slug": "thach-da",
+        "name_with_type": "Xã Thạch Đà",
+        "path": "Thạch Đà, Mê Linh, Hà Nội",
+        "path_with_type": "Xã Thạch Đà, Huyện Mê Linh, Thành phố Hà Nội",
+        "code": "08980",
+        "parent_code": "250"
+    },
+    "08983": {
+        "name": "Tiến Thắng",
+        "type": "xa",
+        "slug": "tien-thang",
+        "name_with_type": "Xã Tiến Thắng",
+        "path": "Tiến Thắng, Mê Linh, Hà Nội",
+        "path_with_type": "Xã Tiến Thắng, Huyện Mê Linh, Thành phố Hà Nội",
+        "code": "08983",
+        "parent_code": "250"
+    },
+    "08986": {
+        "name": "Tự Lập",
+        "type": "xa",
+        "slug": "tu-lap",
+        "name_with_type": "Xã Tự Lập",
+        "path": "Tự Lập, Mê Linh, Hà Nội",
+        "path_with_type": "Xã Tự Lập, Huyện Mê Linh, Thành phố Hà Nội",
+        "code": "08986",
+        "parent_code": "250"
+    },
+    "08989": {
+        "name": "Quang Minh",
+        "type": "thi-tran",
+        "slug": "quang-minh",
+        "name_with_type": "Thị trấn Quang Minh",
+        "path": "Quang Minh, Mê Linh, Hà Nội",
+        "path_with_type": "Thị trấn Quang Minh, Huyện Mê Linh, Thành phố Hà Nội",
+        "code": "08989",
+        "parent_code": "250"
+    },
+    "08992": {
+        "name": "Thanh Lâm",
+        "type": "xa",
+        "slug": "thanh-lam",
+        "name_with_type": "Xã Thanh Lâm",
+        "path": "Thanh Lâm, Mê Linh, Hà Nội",
+        "path_with_type": "Xã Thanh Lâm, Huyện Mê Linh, Thành phố Hà Nội",
+        "code": "08992",
+        "parent_code": "250"
+    },
+    "08995": {
+        "name": "Tam Đồng",
+        "type": "xa",
+        "slug": "tam-dong",
+        "name_with_type": "Xã Tam Đồng",
+        "path": "Tam Đồng, Mê Linh, Hà Nội",
+        "path_with_type": "Xã Tam Đồng, Huyện Mê Linh, Thành phố Hà Nội",
+        "code": "08995",
+        "parent_code": "250"
+    },
+    "08998": {
+        "name": "Liên Mạc",
+        "type": "xa",
+        "slug": "lien-mac",
+        "name_with_type": "Xã Liên Mạc",
+        "path": "Liên Mạc, Mê Linh, Hà Nội",
+        "path_with_type": "Xã Liên Mạc, Huyện Mê Linh, Thành phố Hà Nội",
+        "code": "08998",
+        "parent_code": "250"
+    },
+    "09001": {
+        "name": "Vạn Yên",
+        "type": "xa",
+        "slug": "van-yen",
+        "name_with_type": "Xã Vạn Yên",
+        "path": "Vạn Yên, Mê Linh, Hà Nội",
+        "path_with_type": "Xã Vạn Yên, Huyện Mê Linh, Thành phố Hà Nội",
+        "code": "09001",
+        "parent_code": "250"
+    },
+    "09004": {
+        "name": "Chu Phan",
+        "type": "xa",
+        "slug": "chu-phan",
+        "name_with_type": "Xã Chu Phan",
+        "path": "Chu Phan, Mê Linh, Hà Nội",
+        "path_with_type": "Xã Chu Phan, Huyện Mê Linh, Thành phố Hà Nội",
+        "code": "09004",
+        "parent_code": "250"
+    },
+    "09007": {
+        "name": "Tiến Thịnh",
+        "type": "xa",
+        "slug": "tien-thinh",
+        "name_with_type": "Xã Tiến Thịnh",
+        "path": "Tiến Thịnh, Mê Linh, Hà Nội",
+        "path_with_type": "Xã Tiến Thịnh, Huyện Mê Linh, Thành phố Hà Nội",
+        "code": "09007",
+        "parent_code": "250"
+    },
+    "09010": {
+        "name": "Mê Linh",
+        "type": "xa",
+        "slug": "me-linh",
+        "name_with_type": "Xã Mê Linh",
+        "path": "Mê Linh, Mê Linh, Hà Nội",
+        "path_with_type": "Xã Mê Linh, Huyện Mê Linh, Thành phố Hà Nội",
+        "code": "09010",
+        "parent_code": "250"
+    },
+    "09013": {
+        "name": "Văn Khê",
+        "type": "xa",
+        "slug": "van-khe",
+        "name_with_type": "Xã Văn Khê",
+        "path": "Văn Khê, Mê Linh, Hà Nội",
+        "path_with_type": "Xã Văn Khê, Huyện Mê Linh, Thành phố Hà Nội",
+        "code": "09013",
+        "parent_code": "250"
+    },
+    "09016": {
+        "name": "Hoàng Kim",
+        "type": "xa",
+        "slug": "hoang-kim",
+        "name_with_type": "Xã Hoàng Kim",
+        "path": "Hoàng Kim, Mê Linh, Hà Nội",
+        "path_with_type": "Xã Hoàng Kim, Huyện Mê Linh, Thành phố Hà Nội",
+        "code": "09016",
+        "parent_code": "250"
+    },
+    "09019": {
+        "name": "Tiền Phong",
+        "type": "xa",
+        "slug": "tien-phong",
+        "name_with_type": "Xã Tiền Phong",
+        "path": "Tiền Phong, Mê Linh, Hà Nội",
+        "path_with_type": "Xã Tiền Phong, Huyện Mê Linh, Thành phố Hà Nội",
+        "code": "09019",
+        "parent_code": "250"
+    },
+    "09022": {
+        "name": "Tráng Việt",
+        "type": "xa",
+        "slug": "trang-viet",
+        "name_with_type": "Xã Tráng Việt",
+        "path": "Tráng Việt, Mê Linh, Hà Nội",
+        "path_with_type": "Xã Tráng Việt, Huyện Mê Linh, Thành phố Hà Nội",
+        "code": "09022",
+        "parent_code": "250"
+    }
+}

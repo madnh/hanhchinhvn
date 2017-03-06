@@ -1,0 +1,112 @@
+{
+    "31211": {
+        "name": "Vĩnh Bình",
+        "type": "xa",
+        "slug": "vinh-binh",
+        "name_with_type": "Xã Vĩnh Bình",
+        "path": "Vĩnh Bình, Vĩnh Thạnh, Cần Thơ",
+        "path_with_type": "Xã Vĩnh Bình, Huyện Vĩnh Thạnh, Thành phố Cần Thơ",
+        "code": "31211",
+        "parent_code": "924"
+    },
+    "31231": {
+        "name": "Thanh An",
+        "type": "thi-tran",
+        "slug": "thanh-an",
+        "name_with_type": "Thị trấn Thanh An",
+        "path": "Thanh An, Vĩnh Thạnh, Cần Thơ",
+        "path_with_type": "Thị trấn Thanh An, Huyện Vĩnh Thạnh, Thành phố Cần Thơ",
+        "code": "31231",
+        "parent_code": "924"
+    },
+    "31232": {
+        "name": "Vĩnh Thạnh",
+        "type": "thi-tran",
+        "slug": "vinh-thanh",
+        "name_with_type": "Thị trấn Vĩnh Thạnh",
+        "path": "Vĩnh Thạnh, Vĩnh Thạnh, Cần Thơ",
+        "path_with_type": "Thị trấn Vĩnh Thạnh, Huyện Vĩnh Thạnh, Thành phố Cần Thơ",
+        "code": "31232",
+        "parent_code": "924"
+    },
+    "31234": {
+        "name": "Thạnh Mỹ",
+        "type": "xa",
+        "slug": "thanh-my",
+        "name_with_type": "Xã Thạnh Mỹ",
+        "path": "Thạnh Mỹ, Vĩnh Thạnh, Cần Thơ",
+        "path_with_type": "Xã Thạnh Mỹ, Huyện Vĩnh Thạnh, Thành phố Cần Thơ",
+        "code": "31234",
+        "parent_code": "924"
+    },
+    "31237": {
+        "name": "Vĩnh Trinh",
+        "type": "xa",
+        "slug": "vinh-trinh",
+        "name_with_type": "Xã Vĩnh Trinh",
+        "path": "Vĩnh Trinh, Vĩnh Thạnh, Cần Thơ",
+        "path_with_type": "Xã Vĩnh Trinh, Huyện Vĩnh Thạnh, Thành phố Cần Thơ",
+        "code": "31237",
+        "parent_code": "924"
+    },
+    "31240": {
+        "name": "Thạnh An",
+        "type": "xa",
+        "slug": "thanh-an",
+        "name_with_type": "Xã Thạnh An",
+        "path": "Thạnh An, Vĩnh Thạnh, Cần Thơ",
+        "path_with_type": "Xã Thạnh An, Huyện Vĩnh Thạnh, Thành phố Cần Thơ",
+        "code": "31240",
+        "parent_code": "924"
+    },
+    "31241": {
+        "name": "Thạnh Tiến",
+        "type": "xa",
+        "slug": "thanh-tien",
+        "name_with_type": "Xã Thạnh Tiến",
+        "path": "Thạnh Tiến, Vĩnh Thạnh, Cần Thơ",
+        "path_with_type": "Xã Thạnh Tiến, Huyện Vĩnh Thạnh, Thành phố Cần Thơ",
+        "code": "31241",
+        "parent_code": "924"
+    },
+    "31243": {
+        "name": "Thạnh Thắng",
+        "type": "xa",
+        "slug": "thanh-thang",
+        "name_with_type": "Xã Thạnh Thắng",
+        "path": "Thạnh Thắng, Vĩnh Thạnh, Cần Thơ",
+        "path_with_type": "Xã Thạnh Thắng, Huyện Vĩnh Thạnh, Thành phố Cần Thơ",
+        "code": "31243",
+        "parent_code": "924"
+    },
+    "31244": {
+        "name": "Thạnh Lợi",
+        "type": "xa",
+        "slug": "thanh-loi",
+        "name_with_type": "Xã Thạnh Lợi",
+        "path": "Thạnh Lợi, Vĩnh Thạnh, Cần Thơ",
+        "path_with_type": "Xã Thạnh Lợi, Huyện Vĩnh Thạnh, Thành phố Cần Thơ",
+        "code": "31244",
+        "parent_code": "924"
+    },
+    "31246": {
+        "name": "Thạnh Qưới",
+        "type": "xa",
+        "slug": "thanh-quoi",
+        "name_with_type": "Xã Thạnh Qưới",
+        "path": "Thạnh Qưới, Vĩnh Thạnh, Cần Thơ",
+        "path_with_type": "Xã Thạnh Qưới, Huyện Vĩnh Thạnh, Thành phố Cần Thơ",
+        "code": "31246",
+        "parent_code": "924"
+    },
+    "31252": {
+        "name": "Thạnh Lộc",
+        "type": "xa",
+        "slug": "thanh-loc",
+        "name_with_type": "Xã Thạnh Lộc",
+        "path": "Thạnh Lộc, Vĩnh Thạnh, Cần Thơ",
+        "path_with_type": "Xã Thạnh Lộc, Huyện Vĩnh Thạnh, Thành phố Cần Thơ",
+        "code": "31252",
+        "parent_code": "924"
+    }
+}

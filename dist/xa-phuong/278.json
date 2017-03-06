@@ -1,0 +1,212 @@
+{
+    "10114": {
+        "name": "Kim Bài",
+        "type": "thi-tran",
+        "slug": "kim-bai",
+        "name_with_type": "Thị trấn Kim Bài",
+        "path": "Kim Bài, Thanh Oai, Hà Nội",
+        "path_with_type": "Thị trấn Kim Bài, Huyện Thanh Oai, Thành phố Hà Nội",
+        "code": "10114",
+        "parent_code": "278"
+    },
+    "10120": {
+        "name": "Cự Khê",
+        "type": "xa",
+        "slug": "cu-khe",
+        "name_with_type": "Xã Cự Khê",
+        "path": "Cự Khê, Thanh Oai, Hà Nội",
+        "path_with_type": "Xã Cự Khê, Huyện Thanh Oai, Thành phố Hà Nội",
+        "code": "10120",
+        "parent_code": "278"
+    },
+    "10126": {
+        "name": "Bích Hòa",
+        "type": "xa",
+        "slug": "bich-hoa",
+        "name_with_type": "Xã Bích Hòa",
+        "path": "Bích Hòa, Thanh Oai, Hà Nội",
+        "path_with_type": "Xã Bích Hòa, Huyện Thanh Oai, Thành phố Hà Nội",
+        "code": "10126",
+        "parent_code": "278"
+    },
+    "10129": {
+        "name": "Mỹ Hưng",
+        "type": "xa",
+        "slug": "my-hung",
+        "name_with_type": "Xã Mỹ Hưng",
+        "path": "Mỹ Hưng, Thanh Oai, Hà Nội",
+        "path_with_type": "Xã Mỹ Hưng, Huyện Thanh Oai, Thành phố Hà Nội",
+        "code": "10129",
+        "parent_code": "278"
+    },
+    "10132": {
+        "name": "Cao Viên",
+        "type": "xa",
+        "slug": "cao-vien",
+        "name_with_type": "Xã Cao Viên",
+        "path": "Cao Viên, Thanh Oai, Hà Nội",
+        "path_with_type": "Xã Cao Viên, Huyện Thanh Oai, Thành phố Hà Nội",
+        "code": "10132",
+        "parent_code": "278"
+    },
+    "10135": {
+        "name": "Bình Minh",
+        "type": "xa",
+        "slug": "binh-minh",
+        "name_with_type": "Xã Bình Minh",
+        "path": "Bình Minh, Thanh Oai, Hà Nội",
+        "path_with_type": "Xã Bình Minh, Huyện Thanh Oai, Thành phố Hà Nội",
+        "code": "10135",
+        "parent_code": "278"
+    },
+    "10138": {
+        "name": "Tam Hưng",
+        "type": "xa",
+        "slug": "tam-hung",
+        "name_with_type": "Xã Tam Hưng",
+        "path": "Tam Hưng, Thanh Oai, Hà Nội",
+        "path_with_type": "Xã Tam Hưng, Huyện Thanh Oai, Thành phố Hà Nội",
+        "code": "10138",
+        "parent_code": "278"
+    },
+    "10141": {
+        "name": "Thanh Cao",
+        "type": "xa",
+        "slug": "thanh-cao",
+        "name_with_type": "Xã Thanh Cao",
+        "path": "Thanh Cao, Thanh Oai, Hà Nội",
+        "path_with_type": "Xã Thanh Cao, Huyện Thanh Oai, Thành phố Hà Nội",
+        "code": "10141",
+        "parent_code": "278"
+    },
+    "10144": {
+        "name": "Thanh Thùy",
+        "type": "xa",
+        "slug": "thanh-thuy",
+        "name_with_type": "Xã Thanh Thùy",
+        "path": "Thanh Thùy, Thanh Oai, Hà Nội",
+        "path_with_type": "Xã Thanh Thùy, Huyện Thanh Oai, Thành phố Hà Nội",
+        "code": "10144",
+        "parent_code": "278"
+    },
+    "10147": {
+        "name": "Thanh Mai",
+        "type": "xa",
+        "slug": "thanh-mai",
+        "name_with_type": "Xã Thanh Mai",
+        "path": "Thanh Mai, Thanh Oai, Hà Nội",
+        "path_with_type": "Xã Thanh Mai, Huyện Thanh Oai, Thành phố Hà Nội",
+        "code": "10147",
+        "parent_code": "278"
+    },
+    "10150": {
+        "name": "Thanh Văn",
+        "type": "xa",
+        "slug": "thanh-van",
+        "name_with_type": "Xã Thanh Văn",
+        "path": "Thanh Văn, Thanh Oai, Hà Nội",
+        "path_with_type": "Xã Thanh Văn, Huyện Thanh Oai, Thành phố Hà Nội",
+        "code": "10150",
+        "parent_code": "278"
+    },
+    "10153": {
+        "name": "Đỗ Động",
+        "type": "xa",
+        "slug": "do-dong",
+        "name_with_type": "Xã Đỗ Động",
+        "path": "Đỗ Động, Thanh Oai, Hà Nội",
+        "path_with_type": "Xã Đỗ Động, Huyện Thanh Oai, Thành phố Hà Nội",
+        "code": "10153",
+        "parent_code": "278"
+    },
+    "10156": {
+        "name": "Kim An",
+        "type": "xa",
+        "slug": "kim-an",
+        "name_with_type": "Xã Kim An",
+        "path": "Kim An, Thanh Oai, Hà Nội",
+        "path_with_type": "Xã Kim An, Huyện Thanh Oai, Thành phố Hà Nội",
+        "code": "10156",
+        "parent_code": "278"
+    },
+    "10159": {
+        "name": "Kim Thư",
+        "type": "xa",
+        "slug": "kim-thu",
+        "name_with_type": "Xã Kim Thư",
+        "path": "Kim Thư, Thanh Oai, Hà Nội",
+        "path_with_type": "Xã Kim Thư, Huyện Thanh Oai, Thành phố Hà Nội",
+        "code": "10159",
+        "parent_code": "278"
+    },
+    "10162": {
+        "name": "Phương Trung",
+        "type": "xa",
+        "slug": "phuong-trung",
+        "name_with_type": "Xã Phương Trung",
+        "path": "Phương Trung, Thanh Oai, Hà Nội",
+        "path_with_type": "Xã Phương Trung, Huyện Thanh Oai, Thành phố Hà Nội",
+        "code": "10162",
+        "parent_code": "278"
+    },
+    "10165": {
+        "name": "Tân Ước",
+        "type": "xa",
+        "slug": "tan-uoc",
+        "name_with_type": "Xã Tân Ước",
+        "path": "Tân Ước, Thanh Oai, Hà Nội",
+        "path_with_type": "Xã Tân Ước, Huyện Thanh Oai, Thành phố Hà Nội",
+        "code": "10165",
+        "parent_code": "278"
+    },
+    "10168": {
+        "name": "Dân Hòa",
+        "type": "xa",
+        "slug": "dan-hoa",
+        "name_with_type": "Xã Dân Hòa",
+        "path": "Dân Hòa, Thanh Oai, Hà Nội",
+        "path_with_type": "Xã Dân Hòa, Huyện Thanh Oai, Thành phố Hà Nội",
+        "code": "10168",
+        "parent_code": "278"
+    },
+    "10171": {
+        "name": "Liên Châu",
+        "type": "xa",
+        "slug": "lien-chau",
+        "name_with_type": "Xã Liên Châu",
+        "path": "Liên Châu, Thanh Oai, Hà Nội",
+        "path_with_type": "Xã Liên Châu, Huyện Thanh Oai, Thành phố Hà Nội",
+        "code": "10171",
+        "parent_code": "278"
+    },
+    "10174": {
+        "name": "Cao Dương",
+        "type": "xa",
+        "slug": "cao-duong",
+        "name_with_type": "Xã Cao Dương",
+        "path": "Cao Dương, Thanh Oai, Hà Nội",
+        "path_with_type": "Xã Cao Dương, Huyện Thanh Oai, Thành phố Hà Nội",
+        "code": "10174",
+        "parent_code": "278"
+    },
+    "10177": {
+        "name": "Xuân Dương",
+        "type": "xa",
+        "slug": "xuan-duong",
+        "name_with_type": "Xã Xuân Dương",
+        "path": "Xuân Dương, Thanh Oai, Hà Nội",
+        "path_with_type": "Xã Xuân Dương, Huyện Thanh Oai, Thành phố Hà Nội",
+        "code": "10177",
+        "parent_code": "278"
+    },
+    "10180": {
+        "name": "Hồng Dương",
+        "type": "xa",
+        "slug": "hong-duong",
+        "name_with_type": "Xã Hồng Dương",
+        "path": "Hồng Dương, Thanh Oai, Hà Nội",
+        "path_with_type": "Xã Hồng Dương, Huyện Thanh Oai, Thành phố Hà Nội",
+        "code": "10180",
+        "parent_code": "278"
+    }
+}

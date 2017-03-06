@@ -1,0 +1,142 @@
+{
+    "29821": {
+        "name": "Trà Ôn",
+        "type": "thi-tran",
+        "slug": "tra-on",
+        "name_with_type": "Thị trấn Trà Ôn",
+        "path": "Trà Ôn, Trà Ôn, Vĩnh Long",
+        "path_with_type": "Thị trấn Trà Ôn, Huyện Trà Ôn, Tỉnh Vĩnh Long",
+        "code": "29821",
+        "parent_code": "862"
+    },
+    "29824": {
+        "name": "Xuân Hiệp",
+        "type": "xa",
+        "slug": "xuan-hiep",
+        "name_with_type": "Xã Xuân Hiệp",
+        "path": "Xuân Hiệp, Trà Ôn, Vĩnh Long",
+        "path_with_type": "Xã Xuân Hiệp, Huyện Trà Ôn, Tỉnh Vĩnh Long",
+        "code": "29824",
+        "parent_code": "862"
+    },
+    "29827": {
+        "name": "Nhơn Bình",
+        "type": "xa",
+        "slug": "nhon-binh",
+        "name_with_type": "Xã Nhơn Bình",
+        "path": "Nhơn Bình, Trà Ôn, Vĩnh Long",
+        "path_with_type": "Xã Nhơn Bình, Huyện Trà Ôn, Tỉnh Vĩnh Long",
+        "code": "29827",
+        "parent_code": "862"
+    },
+    "29830": {
+        "name": "Hòa Bình",
+        "type": "xa",
+        "slug": "hoa-binh",
+        "name_with_type": "Xã Hòa Bình",
+        "path": "Hòa Bình, Trà Ôn, Vĩnh Long",
+        "path_with_type": "Xã Hòa Bình, Huyện Trà Ôn, Tỉnh Vĩnh Long",
+        "code": "29830",
+        "parent_code": "862"
+    },
+    "29833": {
+        "name": "Thới Hòa",
+        "type": "xa",
+        "slug": "thoi-hoa",
+        "name_with_type": "Xã Thới Hòa",
+        "path": "Thới Hòa, Trà Ôn, Vĩnh Long",
+        "path_with_type": "Xã Thới Hòa, Huyện Trà Ôn, Tỉnh Vĩnh Long",
+        "code": "29833",
+        "parent_code": "862"
+    },
+    "29836": {
+        "name": "Trà Côn",
+        "type": "xa",
+        "slug": "tra-con",
+        "name_with_type": "Xã Trà Côn",
+        "path": "Trà Côn, Trà Ôn, Vĩnh Long",
+        "path_with_type": "Xã Trà Côn, Huyện Trà Ôn, Tỉnh Vĩnh Long",
+        "code": "29836",
+        "parent_code": "862"
+    },
+    "29839": {
+        "name": "Tân Mỹ",
+        "type": "xa",
+        "slug": "tan-my",
+        "name_with_type": "Xã Tân Mỹ",
+        "path": "Tân Mỹ, Trà Ôn, Vĩnh Long",
+        "path_with_type": "Xã Tân Mỹ, Huyện Trà Ôn, Tỉnh Vĩnh Long",
+        "code": "29839",
+        "parent_code": "862"
+    },
+    "29842": {
+        "name": "Hựu Thành",
+        "type": "xa",
+        "slug": "huu-thanh",
+        "name_with_type": "Xã Hựu Thành",
+        "path": "Hựu Thành, Trà Ôn, Vĩnh Long",
+        "path_with_type": "Xã Hựu Thành, Huyện Trà Ôn, Tỉnh Vĩnh Long",
+        "code": "29842",
+        "parent_code": "862"
+    },
+    "29845": {
+        "name": "Vĩnh Xuân",
+        "type": "xa",
+        "slug": "vinh-xuan",
+        "name_with_type": "Xã Vĩnh Xuân",
+        "path": "Vĩnh Xuân, Trà Ôn, Vĩnh Long",
+        "path_with_type": "Xã Vĩnh Xuân, Huyện Trà Ôn, Tỉnh Vĩnh Long",
+        "code": "29845",
+        "parent_code": "862"
+    },
+    "29848": {
+        "name": "Thuận Thới",
+        "type": "xa",
+        "slug": "thuan-thoi",
+        "name_with_type": "Xã Thuận Thới",
+        "path": "Thuận Thới, Trà Ôn, Vĩnh Long",
+        "path_with_type": "Xã Thuận Thới, Huyện Trà Ôn, Tỉnh Vĩnh Long",
+        "code": "29848",
+        "parent_code": "862"
+    },
+    "29851": {
+        "name": "Phú Thành",
+        "type": "xa",
+        "slug": "phu-thanh",
+        "name_with_type": "Xã Phú Thành",
+        "path": "Phú Thành, Trà Ôn, Vĩnh Long",
+        "path_with_type": "Xã Phú Thành, Huyện Trà Ôn, Tỉnh Vĩnh Long",
+        "code": "29851",
+        "parent_code": "862"
+    },
+    "29854": {
+        "name": "Thiện Mỹ",
+        "type": "xa",
+        "slug": "thien-my",
+        "name_with_type": "Xã Thiện Mỹ",
+        "path": "Thiện Mỹ, Trà Ôn, Vĩnh Long",
+        "path_with_type": "Xã Thiện Mỹ, Huyện Trà Ôn, Tỉnh Vĩnh Long",
+        "code": "29854",
+        "parent_code": "862"
+    },
+    "29857": {
+        "name": "Lục Sỹ Thành",
+        "type": "xa",
+        "slug": "luc-sy-thanh",
+        "name_with_type": "Xã Lục Sỹ Thành",
+        "path": "Lục Sỹ Thành, Trà Ôn, Vĩnh Long",
+        "path_with_type": "Xã Lục Sỹ Thành, Huyện Trà Ôn, Tỉnh Vĩnh Long",
+        "code": "29857",
+        "parent_code": "862"
+    },
+    "29860": {
+        "name": "Tích Thiện",
+        "type": "xa",
+        "slug": "tich-thien",
+        "name_with_type": "Xã Tích Thiện",
+        "path": "Tích Thiện, Trà Ôn, Vĩnh Long",
+        "path_with_type": "Xã Tích Thiện, Huyện Trà Ôn, Tỉnh Vĩnh Long",
+        "code": "29860",
+        "parent_code": "862"
+    }
+}

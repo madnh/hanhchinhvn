@@ -1,0 +1,232 @@
+{
+    "21010": {
+        "name": "Lê Hồng Phong",
+        "type": "phuong",
+        "slug": "le-hong-phong",
+        "name_with_type": "Phường Lê Hồng Phong",
+        "path": "Lê Hồng Phong, Quảng Ngãi, Quảng Ngãi",
+        "path_with_type": "Phường Lê Hồng Phong, Thành phố Quảng Ngãi, Tỉnh Quảng Ngãi",
+        "code": "21010",
+        "parent_code": "522"
+    },
+    "21013": {
+        "name": "Trần Phú",
+        "type": "phuong",
+        "slug": "tran-phu",
+        "name_with_type": "Phường Trần Phú",
+        "path": "Trần Phú, Quảng Ngãi, Quảng Ngãi",
+        "path_with_type": "Phường Trần Phú, Thành phố Quảng Ngãi, Tỉnh Quảng Ngãi",
+        "code": "21013",
+        "parent_code": "522"
+    },
+    "21016": {
+        "name": "Quảng Phú",
+        "type": "phuong",
+        "slug": "quang-phu",
+        "name_with_type": "Phường Quảng Phú",
+        "path": "Quảng Phú, Quảng Ngãi, Quảng Ngãi",
+        "path_with_type": "Phường Quảng Phú, Thành phố Quảng Ngãi, Tỉnh Quảng Ngãi",
+        "code": "21016",
+        "parent_code": "522"
+    },
+    "21019": {
+        "name": "Nghĩa Chánh",
+        "type": "phuong",
+        "slug": "nghia-chanh",
+        "name_with_type": "Phường Nghĩa Chánh",
+        "path": "Nghĩa Chánh, Quảng Ngãi, Quảng Ngãi",
+        "path_with_type": "Phường Nghĩa Chánh, Thành phố Quảng Ngãi, Tỉnh Quảng Ngãi",
+        "code": "21019",
+        "parent_code": "522"
+    },
+    "21022": {
+        "name": "Trần Hưng Đạo",
+        "type": "phuong",
+        "slug": "tran-hung-dao",
+        "name_with_type": "Phường Trần Hưng Đạo",
+        "path": "Trần Hưng Đạo, Quảng Ngãi, Quảng Ngãi",
+        "path_with_type": "Phường Trần Hưng Đạo, Thành phố Quảng Ngãi, Tỉnh Quảng Ngãi",
+        "code": "21022",
+        "parent_code": "522"
+    },
+    "21025": {
+        "name": "Nguyễn Nghiêm",
+        "type": "phuong",
+        "slug": "nguyen-nghiem",
+        "name_with_type": "Phường Nguyễn Nghiêm",
+        "path": "Nguyễn Nghiêm, Quảng Ngãi, Quảng Ngãi",
+        "path_with_type": "Phường Nguyễn Nghiêm, Thành phố Quảng Ngãi, Tỉnh Quảng Ngãi",
+        "code": "21025",
+        "parent_code": "522"
+    },
+    "21028": {
+        "name": "Nghĩa Lộ",
+        "type": "phuong",
+        "slug": "nghia-lo",
+        "name_with_type": "Phường Nghĩa Lộ",
+        "path": "Nghĩa Lộ, Quảng Ngãi, Quảng Ngãi",
+        "path_with_type": "Phường Nghĩa Lộ, Thành phố Quảng Ngãi, Tỉnh Quảng Ngãi",
+        "code": "21028",
+        "parent_code": "522"
+    },
+    "21031": {
+        "name": "Chánh Lộ",
+        "type": "phuong",
+        "slug": "chanh-lo",
+        "name_with_type": "Phường Chánh Lộ",
+        "path": "Chánh Lộ, Quảng Ngãi, Quảng Ngãi",
+        "path_with_type": "Phường Chánh Lộ, Thành phố Quảng Ngãi, Tỉnh Quảng Ngãi",
+        "code": "21031",
+        "parent_code": "522"
+    },
+    "21034": {
+        "name": "Nghĩa Dũng",
+        "type": "xa",
+        "slug": "nghia-dung",
+        "name_with_type": "Xã Nghĩa Dũng",
+        "path": "Nghĩa Dũng, Quảng Ngãi, Quảng Ngãi",
+        "path_with_type": "Xã Nghĩa Dũng, Thành phố Quảng Ngãi, Tỉnh Quảng Ngãi",
+        "code": "21034",
+        "parent_code": "522"
+    },
+    "21037": {
+        "name": "Nghĩa Dõng",
+        "type": "xa",
+        "slug": "nghia-dong",
+        "name_with_type": "Xã Nghĩa Dõng",
+        "path": "Nghĩa Dõng, Quảng Ngãi, Quảng Ngãi",
+        "path_with_type": "Xã Nghĩa Dõng, Thành phố Quảng Ngãi, Tỉnh Quảng Ngãi",
+        "code": "21037",
+        "parent_code": "522"
+    },
+    "21172": {
+        "name": "Trương Quang Trọng",
+        "type": "phuong",
+        "slug": "truong-quang-trong",
+        "name_with_type": "Phường Trương Quang Trọng",
+        "path": "Trương Quang Trọng, Quảng Ngãi, Quảng Ngãi",
+        "path_with_type": "Phường Trương Quang Trọng, Thành phố Quảng Ngãi, Tỉnh Quảng Ngãi",
+        "code": "21172",
+        "parent_code": "522"
+    },
+    "21187": {
+        "name": "Tịnh Hòa",
+        "type": "xa",
+        "slug": "tinh-hoa",
+        "name_with_type": "Xã Tịnh Hòa",
+        "path": "Tịnh Hòa, Quảng Ngãi, Quảng Ngãi",
+        "path_with_type": "Xã Tịnh Hòa, Thành phố Quảng Ngãi, Tỉnh Quảng Ngãi",
+        "code": "21187",
+        "parent_code": "522"
+    },
+    "21190": {
+        "name": "Tịnh Kỳ",
+        "type": "xa",
+        "slug": "tinh-ky",
+        "name_with_type": "Xã Tịnh Kỳ",
+        "path": "Tịnh Kỳ, Quảng Ngãi, Quảng Ngãi",
+        "path_with_type": "Xã Tịnh Kỳ, Thành phố Quảng Ngãi, Tỉnh Quảng Ngãi",
+        "code": "21190",
+        "parent_code": "522"
+    },
+    "21199": {
+        "name": "Tịnh Thiện",
+        "type": "xa",
+        "slug": "tinh-thien",
+        "name_with_type": "Xã Tịnh Thiện",
+        "path": "Tịnh Thiện, Quảng Ngãi, Quảng Ngãi",
+        "path_with_type": "Xã Tịnh Thiện, Thành phố Quảng Ngãi, Tỉnh Quảng Ngãi",
+        "code": "21199",
+        "parent_code": "522"
+    },
+    "21202": {
+        "name": "Tịnh Ấn Đông",
+        "type": "xa",
+        "slug": "tinh-an-dong",
+        "name_with_type": "Xã Tịnh Ấn Đông",
+        "path": "Tịnh Ấn Đông, Quảng Ngãi, Quảng Ngãi",
+        "path_with_type": "Xã Tịnh Ấn Đông, Thành phố Quảng Ngãi, Tỉnh Quảng Ngãi",
+        "code": "21202",
+        "parent_code": "522"
+    },
+    "21208": {
+        "name": "Tịnh Châu",
+        "type": "xa",
+        "slug": "tinh-chau",
+        "name_with_type": "Xã Tịnh Châu",
+        "path": "Tịnh Châu, Quảng Ngãi, Quảng Ngãi",
+        "path_with_type": "Xã Tịnh Châu, Thành phố Quảng Ngãi, Tỉnh Quảng Ngãi",
+        "code": "21208",
+        "parent_code": "522"
+    },
+    "21211": {
+        "name": "Tịnh Khê",
+        "type": "xa",
+        "slug": "tinh-khe",
+        "name_with_type": "Xã Tịnh Khê",
+        "path": "Tịnh Khê, Quảng Ngãi, Quảng Ngãi",
+        "path_with_type": "Xã Tịnh Khê, Thành phố Quảng Ngãi, Tỉnh Quảng Ngãi",
+        "code": "21211",
+        "parent_code": "522"
+    },
+    "21214": {
+        "name": "Tịnh Long",
+        "type": "xa",
+        "slug": "tinh-long",
+        "name_with_type": "Xã Tịnh Long",
+        "path": "Tịnh Long, Quảng Ngãi, Quảng Ngãi",
+        "path_with_type": "Xã Tịnh Long, Thành phố Quảng Ngãi, Tỉnh Quảng Ngãi",
+        "code": "21214",
+        "parent_code": "522"
+    },
+    "21223": {
+        "name": "Tịnh Ấn Tây",
+        "type": "xa",
+        "slug": "tinh-an-tay",
+        "name_with_type": "Xã Tịnh Ấn Tây",
+        "path": "Tịnh Ấn Tây, Quảng Ngãi, Quảng Ngãi",
+        "path_with_type": "Xã Tịnh Ấn Tây, Thành phố Quảng Ngãi, Tỉnh Quảng Ngãi",
+        "code": "21223",
+        "parent_code": "522"
+    },
+    "21232": {
+        "name": "Tịnh An",
+        "type": "xa",
+        "slug": "tinh-an",
+        "name_with_type": "Xã Tịnh An",
+        "path": "Tịnh An, Quảng Ngãi, Quảng Ngãi",
+        "path_with_type": "Xã Tịnh An, Thành phố Quảng Ngãi, Tỉnh Quảng Ngãi",
+        "code": "21232",
+        "parent_code": "522"
+    },
+    "21253": {
+        "name": "Nghĩa Phú",
+        "type": "xa",
+        "slug": "nghia-phu",
+        "name_with_type": "Xã Nghĩa Phú",
+        "path": "Nghĩa Phú, Quảng Ngãi, Quảng Ngãi",
+        "path_with_type": "Xã Nghĩa Phú, Thành phố Quảng Ngãi, Tỉnh Quảng Ngãi",
+        "code": "21253",
+        "parent_code": "522"
+    },
+    "21256": {
+        "name": "Nghĩa Hà",
+        "type": "xa",
+        "slug": "nghia-ha",
+        "name_with_type": "Xã Nghĩa Hà",
+        "path": "Nghĩa Hà, Quảng Ngãi, Quảng Ngãi",
+        "path_with_type": "Xã Nghĩa Hà, Thành phố Quảng Ngãi, Tỉnh Quảng Ngãi",
+        "code": "21256",
+        "parent_code": "522"
+    },
+    "21262": {
+        "name": "Nghĩa An",
+        "type": "xa",
+        "slug": "nghia-an",
+        "name_with_type": "Xã Nghĩa An",
+        "path": "Nghĩa An, Quảng Ngãi, Quảng Ngãi",
+        "path_with_type": "Xã Nghĩa An, Thành phố Quảng Ngãi, Tỉnh Quảng Ngãi",
+        "code": "21262",
+        "parent_code": "522"
+    }
+}

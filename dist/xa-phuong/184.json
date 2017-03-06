@@ -1,0 +1,242 @@
+{
+    "06253": {
+        "name": "Văn Quan",
+        "type": "thi-tran",
+        "slug": "van-quan",
+        "name_with_type": "Thị trấn Văn Quan",
+        "path": "Văn Quan, Văn Quan, Lạng Sơn",
+        "path_with_type": "Thị trấn Văn Quan, Huyện Văn Quan, Tỉnh Lạng Sơn",
+        "code": "06253",
+        "parent_code": "184"
+    },
+    "06256": {
+        "name": "Trấn Ninh",
+        "type": "xa",
+        "slug": "tran-ninh",
+        "name_with_type": "Xã Trấn Ninh",
+        "path": "Trấn Ninh, Văn Quan, Lạng Sơn",
+        "path_with_type": "Xã Trấn Ninh, Huyện Văn Quan, Tỉnh Lạng Sơn",
+        "code": "06256",
+        "parent_code": "184"
+    },
+    "06259": {
+        "name": "Phú Mỹ",
+        "type": "xa",
+        "slug": "phu-my",
+        "name_with_type": "Xã Phú Mỹ",
+        "path": "Phú Mỹ, Văn Quan, Lạng Sơn",
+        "path_with_type": "Xã Phú Mỹ, Huyện Văn Quan, Tỉnh Lạng Sơn",
+        "code": "06259",
+        "parent_code": "184"
+    },
+    "06262": {
+        "name": "Việt Yên",
+        "type": "xa",
+        "slug": "viet-yen",
+        "name_with_type": "Xã Việt Yên",
+        "path": "Việt Yên, Văn Quan, Lạng Sơn",
+        "path_with_type": "Xã Việt Yên, Huyện Văn Quan, Tỉnh Lạng Sơn",
+        "code": "06262",
+        "parent_code": "184"
+    },
+    "06265": {
+        "name": "Song Giang",
+        "type": "xa",
+        "slug": "song-giang",
+        "name_with_type": "Xã Song Giang",
+        "path": "Song Giang, Văn Quan, Lạng Sơn",
+        "path_with_type": "Xã Song Giang, Huyện Văn Quan, Tỉnh Lạng Sơn",
+        "code": "06265",
+        "parent_code": "184"
+    },
+    "06268": {
+        "name": "Vân Mộng",
+        "type": "xa",
+        "slug": "van-mong",
+        "name_with_type": "Xã Vân Mộng",
+        "path": "Vân Mộng, Văn Quan, Lạng Sơn",
+        "path_with_type": "Xã Vân Mộng, Huyện Văn Quan, Tỉnh Lạng Sơn",
+        "code": "06268",
+        "parent_code": "184"
+    },
+    "06271": {
+        "name": "Vĩnh Lại",
+        "type": "xa",
+        "slug": "vinh-lai",
+        "name_with_type": "Xã Vĩnh Lại",
+        "path": "Vĩnh Lại, Văn Quan, Lạng Sơn",
+        "path_with_type": "Xã Vĩnh Lại, Huyện Văn Quan, Tỉnh Lạng Sơn",
+        "code": "06271",
+        "parent_code": "184"
+    },
+    "06274": {
+        "name": "Hòa Bình",
+        "type": "xa",
+        "slug": "hoa-binh",
+        "name_with_type": "Xã Hòa Bình",
+        "path": "Hòa Bình, Văn Quan, Lạng Sơn",
+        "path_with_type": "Xã Hòa Bình, Huyện Văn Quan, Tỉnh Lạng Sơn",
+        "code": "06274",
+        "parent_code": "184"
+    },
+    "06277": {
+        "name": "Tú Xuyên",
+        "type": "xa",
+        "slug": "tu-xuyen",
+        "name_with_type": "Xã Tú Xuyên",
+        "path": "Tú Xuyên, Văn Quan, Lạng Sơn",
+        "path_with_type": "Xã Tú Xuyên, Huyện Văn Quan, Tỉnh Lạng Sơn",
+        "code": "06277",
+        "parent_code": "184"
+    },
+    "06280": {
+        "name": "Văn An",
+        "type": "xa",
+        "slug": "van-an",
+        "name_with_type": "Xã Văn An",
+        "path": "Văn An, Văn Quan, Lạng Sơn",
+        "path_with_type": "Xã Văn An, Huyện Văn Quan, Tỉnh Lạng Sơn",
+        "code": "06280",
+        "parent_code": "184"
+    },
+    "06283": {
+        "name": "Đại An",
+        "type": "xa",
+        "slug": "dai-an",
+        "name_with_type": "Xã Đại An",
+        "path": "Đại An, Văn Quan, Lạng Sơn",
+        "path_with_type": "Xã Đại An, Huyện Văn Quan, Tỉnh Lạng Sơn",
+        "code": "06283",
+        "parent_code": "184"
+    },
+    "06286": {
+        "name": "Khánh Khê",
+        "type": "xa",
+        "slug": "khanh-khe",
+        "name_with_type": "Xã Khánh Khê",
+        "path": "Khánh Khê, Văn Quan, Lạng Sơn",
+        "path_with_type": "Xã Khánh Khê, Huyện Văn Quan, Tỉnh Lạng Sơn",
+        "code": "06286",
+        "parent_code": "184"
+    },
+    "06289": {
+        "name": "Chu Túc",
+        "type": "xa",
+        "slug": "chu-tuc",
+        "name_with_type": "Xã Chu Túc",
+        "path": "Chu Túc, Văn Quan, Lạng Sơn",
+        "path_with_type": "Xã Chu Túc, Huyện Văn Quan, Tỉnh Lạng Sơn",
+        "code": "06289",
+        "parent_code": "184"
+    },
+    "06292": {
+        "name": "Lương Năng",
+        "type": "xa",
+        "slug": "luong-nang",
+        "name_with_type": "Xã Lương Năng",
+        "path": "Lương Năng, Văn Quan, Lạng Sơn",
+        "path_with_type": "Xã Lương Năng, Huyện Văn Quan, Tỉnh Lạng Sơn",
+        "code": "06292",
+        "parent_code": "184"
+    },
+    "06295": {
+        "name": "Đồng Giáp",
+        "type": "xa",
+        "slug": "dong-giap",
+        "name_with_type": "Xã Đồng Giáp",
+        "path": "Đồng Giáp, Văn Quan, Lạng Sơn",
+        "path_with_type": "Xã Đồng Giáp, Huyện Văn Quan, Tỉnh Lạng Sơn",
+        "code": "06295",
+        "parent_code": "184"
+    },
+    "06298": {
+        "name": "Xuân Mai",
+        "type": "xa",
+        "slug": "xuan-mai",
+        "name_with_type": "Xã Xuân Mai",
+        "path": "Xuân Mai, Văn Quan, Lạng Sơn",
+        "path_with_type": "Xã Xuân Mai, Huyện Văn Quan, Tỉnh Lạng Sơn",
+        "code": "06298",
+        "parent_code": "184"
+    },
+    "06301": {
+        "name": "Tràng Các",
+        "type": "xa",
+        "slug": "trang-cac",
+        "name_with_type": "Xã Tràng Các",
+        "path": "Tràng Các, Văn Quan, Lạng Sơn",
+        "path_with_type": "Xã Tràng Các, Huyện Văn Quan, Tỉnh Lạng Sơn",
+        "code": "06301",
+        "parent_code": "184"
+    },
+    "06304": {
+        "name": "Tràng Sơn",
+        "type": "xa",
+        "slug": "trang-son",
+        "name_with_type": "Xã Tràng Sơn",
+        "path": "Tràng Sơn, Văn Quan, Lạng Sơn",
+        "path_with_type": "Xã Tràng Sơn, Huyện Văn Quan, Tỉnh Lạng Sơn",
+        "code": "06304",
+        "parent_code": "184"
+    },
+    "06307": {
+        "name": "Tân Đoàn",
+        "type": "xa",
+        "slug": "tan-doan",
+        "name_with_type": "Xã Tân Đoàn",
+        "path": "Tân Đoàn, Văn Quan, Lạng Sơn",
+        "path_with_type": "Xã Tân Đoàn, Huyện Văn Quan, Tỉnh Lạng Sơn",
+        "code": "06307",
+        "parent_code": "184"
+    },
+    "06310": {
+        "name": "Bình Phúc",
+        "type": "xa",
+        "slug": "binh-phuc",
+        "name_with_type": "Xã Bình Phúc",
+        "path": "Bình Phúc, Văn Quan, Lạng Sơn",
+        "path_with_type": "Xã Bình Phúc, Huyện Văn Quan, Tỉnh Lạng Sơn",
+        "code": "06310",
+        "parent_code": "184"
+    },
+    "06313": {
+        "name": "Tri Lễ",
+        "type": "xa",
+        "slug": "tri-le",
+        "name_with_type": "Xã Tri Lễ",
+        "path": "Tri Lễ, Văn Quan, Lạng Sơn",
+        "path_with_type": "Xã Tri Lễ, Huyện Văn Quan, Tỉnh Lạng Sơn",
+        "code": "06313",
+        "parent_code": "184"
+    },
+    "06316": {
+        "name": "Tràng Phái",
+        "type": "xa",
+        "slug": "trang-phai",
+        "name_with_type": "Xã Tràng Phái",
+        "path": "Tràng Phái, Văn Quan, Lạng Sơn",
+        "path_with_type": "Xã Tràng Phái, Huyện Văn Quan, Tỉnh Lạng Sơn",
+        "code": "06316",
+        "parent_code": "184"
+    },
+    "06319": {
+        "name": "Yên Phúc",
+        "type": "xa",
+        "slug": "yen-phuc",
+        "name_with_type": "Xã Yên Phúc",
+        "path": "Yên Phúc, Văn Quan, Lạng Sơn",
+        "path_with_type": "Xã Yên Phúc, Huyện Văn Quan, Tỉnh Lạng Sơn",
+        "code": "06319",
+        "parent_code": "184"
+    },
+    "06322": {
+        "name": "Hữu Lễ",
+        "type": "xa",
+        "slug": "huu-le",
+        "name_with_type": "Xã Hữu Lễ",
+        "path": "Hữu Lễ, Văn Quan, Lạng Sơn",
+        "path_with_type": "Xã Hữu Lễ, Huyện Văn Quan, Tỉnh Lạng Sơn",
+        "code": "06322",
+        "parent_code": "184"
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "25363": {
+        "name": "Tân Phú",
+        "type": "thi-tran",
+        "slug": "tan-phu",
+        "name_with_type": "Thị trấn Tân Phú",
+        "path": "Tân Phú, Đồng Phú, Bình Phước",
+        "path_with_type": "Thị trấn Tân Phú, Huyện Đồng Phú, Tỉnh Bình Phước",
+        "code": "25363",
+        "parent_code": "695"
+    },
+    "25366": {
+        "name": "Thuận Lợi",
+        "type": "xa",
+        "slug": "thuan-loi",
+        "name_with_type": "Xã Thuận Lợi",
+        "path": "Thuận Lợi, Đồng Phú, Bình Phước",
+        "path_with_type": "Xã Thuận Lợi, Huyện Đồng Phú, Tỉnh Bình Phước",
+        "code": "25366",
+        "parent_code": "695"
+    },
+    "25369": {
+        "name": "Đồng Tâm",
+        "type": "xa",
+        "slug": "dong-tam",
+        "name_with_type": "Xã Đồng Tâm",
+        "path": "Đồng Tâm, Đồng Phú, Bình Phước",
+        "path_with_type": "Xã Đồng Tâm, Huyện Đồng Phú, Tỉnh Bình Phước",
+        "code": "25369",
+        "parent_code": "695"
+    },
+    "25372": {
+        "name": "Tân Phước",
+        "type": "xa",
+        "slug": "tan-phuoc",
+        "name_with_type": "Xã Tân Phước",
+        "path": "Tân Phước, Đồng Phú, Bình Phước",
+        "path_with_type": "Xã Tân Phước, Huyện Đồng Phú, Tỉnh Bình Phước",
+        "code": "25372",
+        "parent_code": "695"
+    },
+    "25375": {
+        "name": "Tân Hưng",
+        "type": "xa",
+        "slug": "tan-hung",
+        "name_with_type": "Xã Tân Hưng",
+        "path": "Tân Hưng, Đồng Phú, Bình Phước",
+        "path_with_type": "Xã Tân Hưng, Huyện Đồng Phú, Tỉnh Bình Phước",
+        "code": "25375",
+        "parent_code": "695"
+    },
+    "25378": {
+        "name": "Tân Lợi",
+        "type": "xa",
+        "slug": "tan-loi",
+        "name_with_type": "Xã Tân Lợi",
+        "path": "Tân Lợi, Đồng Phú, Bình Phước",
+        "path_with_type": "Xã Tân Lợi, Huyện Đồng Phú, Tỉnh Bình Phước",
+        "code": "25378",
+        "parent_code": "695"
+    },
+    "25381": {
+        "name": "Tân Lập",
+        "type": "xa",
+        "slug": "tan-lap",
+        "name_with_type": "Xã Tân Lập",
+        "path": "Tân Lập, Đồng Phú, Bình Phước",
+        "path_with_type": "Xã Tân Lập, Huyện Đồng Phú, Tỉnh Bình Phước",
+        "code": "25381",
+        "parent_code": "695"
+    },
+    "25384": {
+        "name": "Tân Hòa",
+        "type": "xa",
+        "slug": "tan-hoa",
+        "name_with_type": "Xã Tân Hòa",
+        "path": "Tân Hòa, Đồng Phú, Bình Phước",
+        "path_with_type": "Xã Tân Hòa, Huyện Đồng Phú, Tỉnh Bình Phước",
+        "code": "25384",
+        "parent_code": "695"
+    },
+    "25387": {
+        "name": "Thuận Phú",
+        "type": "xa",
+        "slug": "thuan-phu",
+        "name_with_type": "Xã Thuận Phú",
+        "path": "Thuận Phú, Đồng Phú, Bình Phước",
+        "path_with_type": "Xã Thuận Phú, Huyện Đồng Phú, Tỉnh Bình Phước",
+        "code": "25387",
+        "parent_code": "695"
+    },
+    "25390": {
+        "name": "Đồng Tiến",
+        "type": "xa",
+        "slug": "dong-tien",
+        "name_with_type": "Xã Đồng Tiến",
+        "path": "Đồng Tiến, Đồng Phú, Bình Phước",
+        "path_with_type": "Xã Đồng Tiến, Huyện Đồng Phú, Tỉnh Bình Phước",
+        "code": "25390",
+        "parent_code": "695"
+    },
+    "25393": {
+        "name": "Tân Tiến",
+        "type": "xa",
+        "slug": "tan-tien",
+        "name_with_type": "Xã Tân Tiến",
+        "path": "Tân Tiến, Đồng Phú, Bình Phước",
+        "path_with_type": "Xã Tân Tiến, Huyện Đồng Phú, Tỉnh Bình Phước",
+        "code": "25393",
+        "parent_code": "695"
+    }
+}

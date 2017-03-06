@@ -1,0 +1,142 @@
+{
+    "25054": {
+        "name": "Lộc Thắng",
+        "type": "thi-tran",
+        "slug": "loc-thang",
+        "name_with_type": "Thị trấn Lộc Thắng",
+        "path": "Lộc Thắng, Bảo Lâm, Lâm Đồng",
+        "path_with_type": "Thị trấn Lộc Thắng, Huyện Bảo Lâm, Tỉnh Lâm Đồng",
+        "code": "25054",
+        "parent_code": "680"
+    },
+    "25057": {
+        "name": "Lộc Bảo",
+        "type": "xa",
+        "slug": "loc-bao",
+        "name_with_type": "Xã Lộc Bảo",
+        "path": "Lộc Bảo, Bảo Lâm, Lâm Đồng",
+        "path_with_type": "Xã Lộc Bảo, Huyện Bảo Lâm, Tỉnh Lâm Đồng",
+        "code": "25057",
+        "parent_code": "680"
+    },
+    "25060": {
+        "name": "Lộc Lâm",
+        "type": "xa",
+        "slug": "loc-lam",
+        "name_with_type": "Xã Lộc Lâm",
+        "path": "Lộc Lâm, Bảo Lâm, Lâm Đồng",
+        "path_with_type": "Xã Lộc Lâm, Huyện Bảo Lâm, Tỉnh Lâm Đồng",
+        "code": "25060",
+        "parent_code": "680"
+    },
+    "25063": {
+        "name": "Lộc Phú",
+        "type": "xa",
+        "slug": "loc-phu",
+        "name_with_type": "Xã Lộc Phú",
+        "path": "Lộc Phú, Bảo Lâm, Lâm Đồng",
+        "path_with_type": "Xã Lộc Phú, Huyện Bảo Lâm, Tỉnh Lâm Đồng",
+        "code": "25063",
+        "parent_code": "680"
+    },
+    "25066": {
+        "name": "Lộc Bắc",
+        "type": "xa",
+        "slug": "loc-bac",
+        "name_with_type": "Xã Lộc Bắc",
+        "path": "Lộc Bắc, Bảo Lâm, Lâm Đồng",
+        "path_with_type": "Xã Lộc Bắc, Huyện Bảo Lâm, Tỉnh Lâm Đồng",
+        "code": "25066",
+        "parent_code": "680"
+    },
+    "25069": {
+        "name": "B' Lá",
+        "type": "xa",
+        "slug": "b-la",
+        "name_with_type": "Xã B' Lá",
+        "path": "B' Lá, Bảo Lâm, Lâm Đồng",
+        "path_with_type": "Xã B' Lá, Huyện Bảo Lâm, Tỉnh Lâm Đồng",
+        "code": "25069",
+        "parent_code": "680"
+    },
+    "25072": {
+        "name": "Lộc Ngãi",
+        "type": "xa",
+        "slug": "loc-ngai",
+        "name_with_type": "Xã Lộc Ngãi",
+        "path": "Lộc Ngãi, Bảo Lâm, Lâm Đồng",
+        "path_with_type": "Xã Lộc Ngãi, Huyện Bảo Lâm, Tỉnh Lâm Đồng",
+        "code": "25072",
+        "parent_code": "680"
+    },
+    "25075": {
+        "name": "Lộc Quảng",
+        "type": "xa",
+        "slug": "loc-quang",
+        "name_with_type": "Xã Lộc Quảng",
+        "path": "Lộc Quảng, Bảo Lâm, Lâm Đồng",
+        "path_with_type": "Xã Lộc Quảng, Huyện Bảo Lâm, Tỉnh Lâm Đồng",
+        "code": "25075",
+        "parent_code": "680"
+    },
+    "25078": {
+        "name": "Lộc Tân",
+        "type": "xa",
+        "slug": "loc-tan",
+        "name_with_type": "Xã Lộc Tân",
+        "path": "Lộc Tân, Bảo Lâm, Lâm Đồng",
+        "path_with_type": "Xã Lộc Tân, Huyện Bảo Lâm, Tỉnh Lâm Đồng",
+        "code": "25078",
+        "parent_code": "680"
+    },
+    "25081": {
+        "name": "Lộc Đức",
+        "type": "xa",
+        "slug": "loc-duc",
+        "name_with_type": "Xã Lộc Đức",
+        "path": "Lộc Đức, Bảo Lâm, Lâm Đồng",
+        "path_with_type": "Xã Lộc Đức, Huyện Bảo Lâm, Tỉnh Lâm Đồng",
+        "code": "25081",
+        "parent_code": "680"
+    },
+    "25084": {
+        "name": "Lộc An",
+        "type": "xa",
+        "slug": "loc-an",
+        "name_with_type": "Xã Lộc An",
+        "path": "Lộc An, Bảo Lâm, Lâm Đồng",
+        "path_with_type": "Xã Lộc An, Huyện Bảo Lâm, Tỉnh Lâm Đồng",
+        "code": "25084",
+        "parent_code": "680"
+    },
+    "25087": {
+        "name": "Tân Lạc",
+        "type": "xa",
+        "slug": "tan-lac",
+        "name_with_type": "Xã Tân Lạc",
+        "path": "Tân Lạc, Bảo Lâm, Lâm Đồng",
+        "path_with_type": "Xã Tân Lạc, Huyện Bảo Lâm, Tỉnh Lâm Đồng",
+        "code": "25087",
+        "parent_code": "680"
+    },
+    "25090": {
+        "name": "Lộc Thành",
+        "type": "xa",
+        "slug": "loc-thanh",
+        "name_with_type": "Xã Lộc Thành",
+        "path": "Lộc Thành, Bảo Lâm, Lâm Đồng",
+        "path_with_type": "Xã Lộc Thành, Huyện Bảo Lâm, Tỉnh Lâm Đồng",
+        "code": "25090",
+        "parent_code": "680"
+    },
+    "25093": {
+        "name": "Lộc Nam",
+        "type": "xa",
+        "slug": "loc-nam",
+        "name_with_type": "Xã Lộc Nam",
+        "path": "Lộc Nam, Bảo Lâm, Lâm Đồng",
+        "path_with_type": "Xã Lộc Nam, Huyện Bảo Lâm, Tỉnh Lâm Đồng",
+        "code": "25093",
+        "parent_code": "680"
+    }
+}

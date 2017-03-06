@@ -1,0 +1,142 @@
+{
+    "193": {
+        "name": "Hạ Long",
+        "type": "thanh-pho",
+        "slug": "ha-long",
+        "name_with_type": "Thành phố Hạ Long",
+        "path": "Hạ Long, Quảng Ninh",
+        "path_with_type": "Thành phố Hạ Long, Tỉnh Quảng Ninh",
+        "code": "193",
+        "parent_code": "22"
+    },
+    "194": {
+        "name": "Móng Cái",
+        "type": "thanh-pho",
+        "slug": "mong-cai",
+        "name_with_type": "Thành phố Móng Cái",
+        "path": "Móng Cái, Quảng Ninh",
+        "path_with_type": "Thành phố Móng Cái, Tỉnh Quảng Ninh",
+        "code": "194",
+        "parent_code": "22"
+    },
+    "195": {
+        "name": "Cẩm Phả",
+        "type": "thanh-pho",
+        "slug": "cam-pha",
+        "name_with_type": "Thành phố Cẩm Phả",
+        "path": "Cẩm Phả, Quảng Ninh",
+        "path_with_type": "Thành phố Cẩm Phả, Tỉnh Quảng Ninh",
+        "code": "195",
+        "parent_code": "22"
+    },
+    "196": {
+        "name": "Uông Bí",
+        "type": "thanh-pho",
+        "slug": "uong-bi",
+        "name_with_type": "Thành phố Uông Bí",
+        "path": "Uông Bí, Quảng Ninh",
+        "path_with_type": "Thành phố Uông Bí, Tỉnh Quảng Ninh",
+        "code": "196",
+        "parent_code": "22"
+    },
+    "198": {
+        "name": "Bình Liêu",
+        "type": "huyen",
+        "slug": "binh-lieu",
+        "name_with_type": "Huyện Bình Liêu",
+        "path": "Bình Liêu, Quảng Ninh",
+        "path_with_type": "Huyện Bình Liêu, Tỉnh Quảng Ninh",
+        "code": "198",
+        "parent_code": "22"
+    },
+    "199": {
+        "name": "Tiên Yên",
+        "type": "huyen",
+        "slug": "tien-yen",
+        "name_with_type": "Huyện Tiên Yên",
+        "path": "Tiên Yên, Quảng Ninh",
+        "path_with_type": "Huyện Tiên Yên, Tỉnh Quảng Ninh",
+        "code": "199",
+        "parent_code": "22"
+    },
+    "200": {
+        "name": "Đầm Hà",
+        "type": "huyen",
+        "slug": "dam-ha",
+        "name_with_type": "Huyện Đầm Hà",
+        "path": "Đầm Hà, Quảng Ninh",
+        "path_with_type": "Huyện Đầm Hà, Tỉnh Quảng Ninh",
+        "code": "200",
+        "parent_code": "22"
+    },
+    "201": {
+        "name": "Hải Hà",
+        "type": "huyen",
+        "slug": "hai-ha",
+        "name_with_type": "Huyện Hải Hà",
+        "path": "Hải Hà, Quảng Ninh",
+        "path_with_type": "Huyện Hải Hà, Tỉnh Quảng Ninh",
+        "code": "201",
+        "parent_code": "22"
+    },
+    "202": {
+        "name": "Ba Chẽ",
+        "type": "huyen",
+        "slug": "ba-che",
+        "name_with_type": "Huyện Ba Chẽ",
+        "path": "Ba Chẽ, Quảng Ninh",
+        "path_with_type": "Huyện Ba Chẽ, Tỉnh Quảng Ninh",
+        "code": "202",
+        "parent_code": "22"
+    },
+    "203": {
+        "name": "Vân Đồn",
+        "type": "huyen",
+        "slug": "van-don",
+        "name_with_type": "Huyện Vân Đồn",
+        "path": "Vân Đồn, Quảng Ninh",
+        "path_with_type": "Huyện Vân Đồn, Tỉnh Quảng Ninh",
+        "code": "203",
+        "parent_code": "22"
+    },
+    "204": {
+        "name": "Hoành Bồ",
+        "type": "huyen",
+        "slug": "hoanh-bo",
+        "name_with_type": "Huyện Hoành Bồ",
+        "path": "Hoành Bồ, Quảng Ninh",
+        "path_with_type": "Huyện Hoành Bồ, Tỉnh Quảng Ninh",
+        "code": "204",
+        "parent_code": "22"
+    },
+    "205": {
+        "name": "Đông Triều",
+        "type": "thi-xa",
+        "slug": "dong-trieu",
+        "name_with_type": "Thị xã Đông Triều",
+        "path": "Đông Triều, Quảng Ninh",
+        "path_with_type": "Thị xã Đông Triều, Tỉnh Quảng Ninh",
+        "code": "205",
+        "parent_code": "22"
+    },
+    "206": {
+        "name": "Quảng Yên",
+        "type": "thi-xa",
+        "slug": "quang-yen",
+        "name_with_type": "Thị xã Quảng Yên",
+        "path": "Quảng Yên, Quảng Ninh",
+        "path_with_type": "Thị xã Quảng Yên, Tỉnh Quảng Ninh",
+        "code": "206",
+        "parent_code": "22"
+    },
+    "207": {
+        "name": "Cô Tô",
+        "type": "huyen",
+        "slug": "co-to",
+        "name_with_type": "Huyện Cô Tô",
+        "path": "Cô Tô, Quảng Ninh",
+        "path_with_type": "Huyện Cô Tô, Tỉnh Quảng Ninh",
+        "code": "207",
+        "parent_code": "22"
+    }
+}

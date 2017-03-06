@@ -1,0 +1,102 @@
+{
+    "25456": {
+        "name": "1",
+        "type": "phuong",
+        "slug": "1",
+        "name_with_type": "Phường 1",
+        "path": "1, Tây Ninh, Tây Ninh",
+        "path_with_type": "Phường 1, Thành phố Tây Ninh, Tỉnh Tây Ninh",
+        "code": "25456",
+        "parent_code": "703"
+    },
+    "25459": {
+        "name": "3",
+        "type": "phuong",
+        "slug": "3",
+        "name_with_type": "Phường 3",
+        "path": "3, Tây Ninh, Tây Ninh",
+        "path_with_type": "Phường 3, Thành phố Tây Ninh, Tỉnh Tây Ninh",
+        "code": "25459",
+        "parent_code": "703"
+    },
+    "25462": {
+        "name": "4",
+        "type": "phuong",
+        "slug": "4",
+        "name_with_type": "Phường 4",
+        "path": "4, Tây Ninh, Tây Ninh",
+        "path_with_type": "Phường 4, Thành phố Tây Ninh, Tỉnh Tây Ninh",
+        "code": "25462",
+        "parent_code": "703"
+    },
+    "25465": {
+        "name": "Hiệp Ninh",
+        "type": "phuong",
+        "slug": "hiep-ninh",
+        "name_with_type": "Phường Hiệp Ninh",
+        "path": "Hiệp Ninh, Tây Ninh, Tây Ninh",
+        "path_with_type": "Phường Hiệp Ninh, Thành phố Tây Ninh, Tỉnh Tây Ninh",
+        "code": "25465",
+        "parent_code": "703"
+    },
+    "25468": {
+        "name": "2",
+        "type": "phuong",
+        "slug": "2",
+        "name_with_type": "Phường 2",
+        "path": "2, Tây Ninh, Tây Ninh",
+        "path_with_type": "Phường 2, Thành phố Tây Ninh, Tỉnh Tây Ninh",
+        "code": "25468",
+        "parent_code": "703"
+    },
+    "25471": {
+        "name": "Thạnh Tân",
+        "type": "xa",
+        "slug": "thanh-tan",
+        "name_with_type": "Xã Thạnh Tân",
+        "path": "Thạnh Tân, Tây Ninh, Tây Ninh",
+        "path_with_type": "Xã Thạnh Tân, Thành phố Tây Ninh, Tỉnh Tây Ninh",
+        "code": "25471",
+        "parent_code": "703"
+    },
+    "25474": {
+        "name": "Tân Bình",
+        "type": "xa",
+        "slug": "tan-binh",
+        "name_with_type": "Xã Tân Bình",
+        "path": "Tân Bình, Tây Ninh, Tây Ninh",
+        "path_with_type": "Xã Tân Bình, Thành phố Tây Ninh, Tỉnh Tây Ninh",
+        "code": "25474",
+        "parent_code": "703"
+    },
+    "25477": {
+        "name": "Bình Minh",
+        "type": "xa",
+        "slug": "binh-minh",
+        "name_with_type": "Xã Bình Minh",
+        "path": "Bình Minh, Tây Ninh, Tây Ninh",
+        "path_with_type": "Xã Bình Minh, Thành phố Tây Ninh, Tỉnh Tây Ninh",
+        "code": "25477",
+        "parent_code": "703"
+    },
+    "25480": {
+        "name": "Ninh Sơn",
+        "type": "phuong",
+        "slug": "ninh-son",
+        "name_with_type": "Phường Ninh Sơn",
+        "path": "Ninh Sơn, Tây Ninh, Tây Ninh",
+        "path_with_type": "Phường Ninh Sơn, Thành phố Tây Ninh, Tỉnh Tây Ninh",
+        "code": "25480",
+        "parent_code": "703"
+    },
+    "25483": {
+        "name": "Ninh Thạnh",
+        "type": "phuong",
+        "slug": "ninh-thanh",
+        "name_with_type": "Phường Ninh Thạnh",
+        "path": "Ninh Thạnh, Tây Ninh, Tây Ninh",
+        "path_with_type": "Phường Ninh Thạnh, Thành phố Tây Ninh, Tỉnh Tây Ninh",
+        "code": "25483",
+        "parent_code": "703"
+    }
+}

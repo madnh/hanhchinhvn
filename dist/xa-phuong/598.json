@@ -1,0 +1,132 @@
+{
+    "23110": {
+        "name": "Thuận Nam",
+        "type": "thi-tran",
+        "slug": "thuan-nam",
+        "name_with_type": "Thị trấn Thuận Nam",
+        "path": "Thuận Nam, Hàm Thuận Nam, Bình Thuận",
+        "path_with_type": "Thị trấn Thuận Nam, Huyện Hàm Thuận Nam, Tỉnh Bình Thuận",
+        "code": "23110",
+        "parent_code": "598"
+    },
+    "23113": {
+        "name": "Mỹ Thạnh",
+        "type": "xa",
+        "slug": "my-thanh",
+        "name_with_type": "Xã Mỹ Thạnh",
+        "path": "Mỹ Thạnh, Hàm Thuận Nam, Bình Thuận",
+        "path_with_type": "Xã Mỹ Thạnh, Huyện Hàm Thuận Nam, Tỉnh Bình Thuận",
+        "code": "23113",
+        "parent_code": "598"
+    },
+    "23116": {
+        "name": "Hàm Cần",
+        "type": "xa",
+        "slug": "ham-can",
+        "name_with_type": "Xã Hàm Cần",
+        "path": "Hàm Cần, Hàm Thuận Nam, Bình Thuận",
+        "path_with_type": "Xã Hàm Cần, Huyện Hàm Thuận Nam, Tỉnh Bình Thuận",
+        "code": "23116",
+        "parent_code": "598"
+    },
+    "23119": {
+        "name": "Mương Mán",
+        "type": "xa",
+        "slug": "muong-man",
+        "name_with_type": "Xã Mương Mán",
+        "path": "Mương Mán, Hàm Thuận Nam, Bình Thuận",
+        "path_with_type": "Xã Mương Mán, Huyện Hàm Thuận Nam, Tỉnh Bình Thuận",
+        "code": "23119",
+        "parent_code": "598"
+    },
+    "23122": {
+        "name": "Hàm Thạnh",
+        "type": "xa",
+        "slug": "ham-thanh",
+        "name_with_type": "Xã Hàm Thạnh",
+        "path": "Hàm Thạnh, Hàm Thuận Nam, Bình Thuận",
+        "path_with_type": "Xã Hàm Thạnh, Huyện Hàm Thuận Nam, Tỉnh Bình Thuận",
+        "code": "23122",
+        "parent_code": "598"
+    },
+    "23125": {
+        "name": "Hàm Kiệm",
+        "type": "xa",
+        "slug": "ham-kiem",
+        "name_with_type": "Xã Hàm Kiệm",
+        "path": "Hàm Kiệm, Hàm Thuận Nam, Bình Thuận",
+        "path_with_type": "Xã Hàm Kiệm, Huyện Hàm Thuận Nam, Tỉnh Bình Thuận",
+        "code": "23125",
+        "parent_code": "598"
+    },
+    "23128": {
+        "name": "Hàm Cường",
+        "type": "xa",
+        "slug": "ham-cuong",
+        "name_with_type": "Xã Hàm Cường",
+        "path": "Hàm Cường, Hàm Thuận Nam, Bình Thuận",
+        "path_with_type": "Xã Hàm Cường, Huyện Hàm Thuận Nam, Tỉnh Bình Thuận",
+        "code": "23128",
+        "parent_code": "598"
+    },
+    "23131": {
+        "name": "Hàm Mỹ",
+        "type": "xa",
+        "slug": "ham-my",
+        "name_with_type": "Xã Hàm Mỹ",
+        "path": "Hàm Mỹ, Hàm Thuận Nam, Bình Thuận",
+        "path_with_type": "Xã Hàm Mỹ, Huyện Hàm Thuận Nam, Tỉnh Bình Thuận",
+        "code": "23131",
+        "parent_code": "598"
+    },
+    "23134": {
+        "name": "Tân Lập",
+        "type": "xa",
+        "slug": "tan-lap",
+        "name_with_type": "Xã Tân Lập",
+        "path": "Tân Lập, Hàm Thuận Nam, Bình Thuận",
+        "path_with_type": "Xã Tân Lập, Huyện Hàm Thuận Nam, Tỉnh Bình Thuận",
+        "code": "23134",
+        "parent_code": "598"
+    },
+    "23137": {
+        "name": "Hàm Minh",
+        "type": "xa",
+        "slug": "ham-minh",
+        "name_with_type": "Xã Hàm Minh",
+        "path": "Hàm Minh, Hàm Thuận Nam, Bình Thuận",
+        "path_with_type": "Xã Hàm Minh, Huyện Hàm Thuận Nam, Tỉnh Bình Thuận",
+        "code": "23137",
+        "parent_code": "598"
+    },
+    "23140": {
+        "name": "Thuận Quí",
+        "type": "xa",
+        "slug": "thuan-qui",
+        "name_with_type": "Xã Thuận Quí",
+        "path": "Thuận Quí, Hàm Thuận Nam, Bình Thuận",
+        "path_with_type": "Xã Thuận Quí, Huyện Hàm Thuận Nam, Tỉnh Bình Thuận",
+        "code": "23140",
+        "parent_code": "598"
+    },
+    "23143": {
+        "name": "Tân Thuận",
+        "type": "xa",
+        "slug": "tan-thuan",
+        "name_with_type": "Xã Tân Thuận",
+        "path": "Tân Thuận, Hàm Thuận Nam, Bình Thuận",
+        "path_with_type": "Xã Tân Thuận, Huyện Hàm Thuận Nam, Tỉnh Bình Thuận",
+        "code": "23143",
+        "parent_code": "598"
+    },
+    "23146": {
+        "name": "Tân Thành",
+        "type": "xa",
+        "slug": "tan-thanh",
+        "name_with_type": "Xã Tân Thành",
+        "path": "Tân Thành, Hàm Thuận Nam, Bình Thuận",
+        "path_with_type": "Xã Tân Thành, Huyện Hàm Thuận Nam, Tỉnh Bình Thuận",
+        "code": "23146",
+        "parent_code": "598"
+    }
+}

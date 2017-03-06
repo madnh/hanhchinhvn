@@ -1,0 +1,92 @@
+{
+    "916": {
+        "name": "Ninh Kiều",
+        "type": "quan",
+        "slug": "ninh-kieu",
+        "name_with_type": "Quận Ninh Kiều",
+        "path": "Ninh Kiều, Cần Thơ",
+        "path_with_type": "Quận Ninh Kiều, Thành phố Cần Thơ",
+        "code": "916",
+        "parent_code": "92"
+    },
+    "917": {
+        "name": "Ô Môn",
+        "type": "quan",
+        "slug": "o-mon",
+        "name_with_type": "Quận Ô Môn",
+        "path": "Ô Môn, Cần Thơ",
+        "path_with_type": "Quận Ô Môn, Thành phố Cần Thơ",
+        "code": "917",
+        "parent_code": "92"
+    },
+    "918": {
+        "name": "Bình Thuỷ",
+        "type": "quan",
+        "slug": "binh-thuy",
+        "name_with_type": "Quận Bình Thuỷ",
+        "path": "Bình Thuỷ, Cần Thơ",
+        "path_with_type": "Quận Bình Thuỷ, Thành phố Cần Thơ",
+        "code": "918",
+        "parent_code": "92"
+    },
+    "919": {
+        "name": "Cái Răng",
+        "type": "quan",
+        "slug": "cai-rang",
+        "name_with_type": "Quận Cái Răng",
+        "path": "Cái Răng, Cần Thơ",
+        "path_with_type": "Quận Cái Răng, Thành phố Cần Thơ",
+        "code": "919",
+        "parent_code": "92"
+    },
+    "923": {
+        "name": "Thốt Nốt",
+        "type": "quan",
+        "slug": "thot-not",
+        "name_with_type": "Quận Thốt Nốt",
+        "path": "Thốt Nốt, Cần Thơ",
+        "path_with_type": "Quận Thốt Nốt, Thành phố Cần Thơ",
+        "code": "923",
+        "parent_code": "92"
+    },
+    "924": {
+        "name": "Vĩnh Thạnh",
+        "type": "huyen",
+        "slug": "vinh-thanh",
+        "name_with_type": "Huyện Vĩnh Thạnh",
+        "path": "Vĩnh Thạnh, Cần Thơ",
+        "path_with_type": "Huyện Vĩnh Thạnh, Thành phố Cần Thơ",
+        "code": "924",
+        "parent_code": "92"
+    },
+    "925": {
+        "name": "Cờ Đỏ",
+        "type": "huyen",
+        "slug": "co-do",
+        "name_with_type": "Huyện Cờ Đỏ",
+        "path": "Cờ Đỏ, Cần Thơ",
+        "path_with_type": "Huyện Cờ Đỏ, Thành phố Cần Thơ",
+        "code": "925",
+        "parent_code": "92"
+    },
+    "926": {
+        "name": "Phong Điền",
+        "type": "huyen",
+        "slug": "phong-dien",
+        "name_with_type": "Huyện Phong Điền",
+        "path": "Phong Điền, Cần Thơ",
+        "path_with_type": "Huyện Phong Điền, Thành phố Cần Thơ",
+        "code": "926",
+        "parent_code": "92"
+    },
+    "927": {
+        "name": "Thới Lai",
+        "type": "huyen",
+        "slug": "thoi-lai",
+        "name_with_type": "Huyện Thới Lai",
+        "path": "Thới Lai, Cần Thơ",
+        "path_with_type": "Huyện Thới Lai, Thành phố Cần Thơ",
+        "code": "927",
+        "parent_code": "92"
+    }
+}

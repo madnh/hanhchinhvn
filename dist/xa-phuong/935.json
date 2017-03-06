@@ -1,0 +1,102 @@
+{
+    "31441": {
+        "name": "Nàng Mau",
+        "type": "thi-tran",
+        "slug": "nang-mau",
+        "name_with_type": "Thị trấn Nàng Mau",
+        "path": "Nàng Mau, Vị Thuỷ, Hậu Giang",
+        "path_with_type": "Thị trấn Nàng Mau, Huyện Vị Thuỷ, Tỉnh Hậu Giang",
+        "code": "31441",
+        "parent_code": "935"
+    },
+    "31444": {
+        "name": "Vị Trung",
+        "type": "xa",
+        "slug": "vi-trung",
+        "name_with_type": "Xã Vị Trung",
+        "path": "Vị Trung, Vị Thuỷ, Hậu Giang",
+        "path_with_type": "Xã Vị Trung, Huyện Vị Thuỷ, Tỉnh Hậu Giang",
+        "code": "31444",
+        "parent_code": "935"
+    },
+    "31447": {
+        "name": "Vị Thuỷ",
+        "type": "xa",
+        "slug": "vi-thuy",
+        "name_with_type": "Xã Vị Thuỷ",
+        "path": "Vị Thuỷ, Vị Thuỷ, Hậu Giang",
+        "path_with_type": "Xã Vị Thuỷ, Huyện Vị Thuỷ, Tỉnh Hậu Giang",
+        "code": "31447",
+        "parent_code": "935"
+    },
+    "31450": {
+        "name": "Vị Thắng",
+        "type": "xa",
+        "slug": "vi-thang",
+        "name_with_type": "Xã Vị Thắng",
+        "path": "Vị Thắng, Vị Thuỷ, Hậu Giang",
+        "path_with_type": "Xã Vị Thắng, Huyện Vị Thuỷ, Tỉnh Hậu Giang",
+        "code": "31450",
+        "parent_code": "935"
+    },
+    "31453": {
+        "name": "Vĩnh Thuận Tây",
+        "type": "xa",
+        "slug": "vinh-thuan-tay",
+        "name_with_type": "Xã Vĩnh Thuận Tây",
+        "path": "Vĩnh Thuận Tây, Vị Thuỷ, Hậu Giang",
+        "path_with_type": "Xã Vĩnh Thuận Tây, Huyện Vị Thuỷ, Tỉnh Hậu Giang",
+        "code": "31453",
+        "parent_code": "935"
+    },
+    "31456": {
+        "name": "Vĩnh Trung",
+        "type": "xa",
+        "slug": "vinh-trung",
+        "name_with_type": "Xã Vĩnh Trung",
+        "path": "Vĩnh Trung, Vị Thuỷ, Hậu Giang",
+        "path_with_type": "Xã Vĩnh Trung, Huyện Vị Thuỷ, Tỉnh Hậu Giang",
+        "code": "31456",
+        "parent_code": "935"
+    },
+    "31459": {
+        "name": "Vĩnh Tường",
+        "type": "xa",
+        "slug": "vinh-tuong",
+        "name_with_type": "Xã Vĩnh Tường",
+        "path": "Vĩnh Tường, Vị Thuỷ, Hậu Giang",
+        "path_with_type": "Xã Vĩnh Tường, Huyện Vị Thuỷ, Tỉnh Hậu Giang",
+        "code": "31459",
+        "parent_code": "935"
+    },
+    "31462": {
+        "name": "Vị Đông",
+        "type": "xa",
+        "slug": "vi-dong",
+        "name_with_type": "Xã Vị Đông",
+        "path": "Vị Đông, Vị Thuỷ, Hậu Giang",
+        "path_with_type": "Xã Vị Đông, Huyện Vị Thuỷ, Tỉnh Hậu Giang",
+        "code": "31462",
+        "parent_code": "935"
+    },
+    "31465": {
+        "name": "Vị Thanh",
+        "type": "xa",
+        "slug": "vi-thanh",
+        "name_with_type": "Xã Vị Thanh",
+        "path": "Vị Thanh, Vị Thuỷ, Hậu Giang",
+        "path_with_type": "Xã Vị Thanh, Huyện Vị Thuỷ, Tỉnh Hậu Giang",
+        "code": "31465",
+        "parent_code": "935"
+    },
+    "31468": {
+        "name": "Vị Bình",
+        "type": "xa",
+        "slug": "vi-binh",
+        "name_with_type": "Xã Vị Bình",
+        "path": "Vị Bình, Vị Thuỷ, Hậu Giang",
+        "path_with_type": "Xã Vị Bình, Huyện Vị Thuỷ, Tỉnh Hậu Giang",
+        "code": "31468",
+        "parent_code": "935"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "24013": {
+        "name": "Pờ Tó",
+        "type": "xa",
+        "slug": "po-to",
+        "name_with_type": "Xã Pờ Tó",
+        "path": "Pờ Tó, Ia Pa, Gia Lai",
+        "path_with_type": "Xã Pờ Tó, Huyện Ia Pa, Tỉnh Gia Lai",
+        "code": "24013",
+        "parent_code": "635"
+    },
+    "24016": {
+        "name": "Chư Răng",
+        "type": "xa",
+        "slug": "chu-rang",
+        "name_with_type": "Xã Chư Răng",
+        "path": "Chư Răng, Ia Pa, Gia Lai",
+        "path_with_type": "Xã Chư Răng, Huyện Ia Pa, Tỉnh Gia Lai",
+        "code": "24016",
+        "parent_code": "635"
+    },
+    "24019": {
+        "name": "Ia KDăm",
+        "type": "xa",
+        "slug": "ia-kdam",
+        "name_with_type": "Xã Ia KDăm",
+        "path": "Ia KDăm, Ia Pa, Gia Lai",
+        "path_with_type": "Xã Ia KDăm, Huyện Ia Pa, Tỉnh Gia Lai",
+        "code": "24019",
+        "parent_code": "635"
+    },
+    "24022": {
+        "name": "Kim Tân",
+        "type": "xa",
+        "slug": "kim-tan",
+        "name_with_type": "Xã Kim Tân",
+        "path": "Kim Tân, Ia Pa, Gia Lai",
+        "path_with_type": "Xã Kim Tân, Huyện Ia Pa, Tỉnh Gia Lai",
+        "code": "24022",
+        "parent_code": "635"
+    },
+    "24025": {
+        "name": "Chư Mố",
+        "type": "xa",
+        "slug": "chu-mo",
+        "name_with_type": "Xã Chư Mố",
+        "path": "Chư Mố, Ia Pa, Gia Lai",
+        "path_with_type": "Xã Chư Mố, Huyện Ia Pa, Tỉnh Gia Lai",
+        "code": "24025",
+        "parent_code": "635"
+    },
+    "24028": {
+        "name": "Ia Tul",
+        "type": "xa",
+        "slug": "ia-tul",
+        "name_with_type": "Xã Ia Tul",
+        "path": "Ia Tul, Ia Pa, Gia Lai",
+        "path_with_type": "Xã Ia Tul, Huyện Ia Pa, Tỉnh Gia Lai",
+        "code": "24028",
+        "parent_code": "635"
+    },
+    "24031": {
+        "name": "Ia Ma Rơn",
+        "type": "xa",
+        "slug": "ia-ma-ron",
+        "name_with_type": "Xã Ia Ma Rơn",
+        "path": "Ia Ma Rơn, Ia Pa, Gia Lai",
+        "path_with_type": "Xã Ia Ma Rơn, Huyện Ia Pa, Tỉnh Gia Lai",
+        "code": "24031",
+        "parent_code": "635"
+    },
+    "24034": {
+        "name": "Ia Broăi",
+        "type": "xa",
+        "slug": "ia-broai",
+        "name_with_type": "Xã Ia Broăi",
+        "path": "Ia Broăi, Ia Pa, Gia Lai",
+        "path_with_type": "Xã Ia Broăi, Huyện Ia Pa, Tỉnh Gia Lai",
+        "code": "24034",
+        "parent_code": "635"
+    },
+    "24037": {
+        "name": "Ia Trok",
+        "type": "xa",
+        "slug": "ia-trok",
+        "name_with_type": "Xã Ia Trok",
+        "path": "Ia Trok, Ia Pa, Gia Lai",
+        "path_with_type": "Xã Ia Trok, Huyện Ia Pa, Tỉnh Gia Lai",
+        "code": "24037",
+        "parent_code": "635"
+    }
+}

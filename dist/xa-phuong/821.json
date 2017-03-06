@@ -1,0 +1,232 @@
+{
+    "28519": {
+        "name": "Tân Hiệp",
+        "type": "thi-tran",
+        "slug": "tan-hiep",
+        "name_with_type": "Thị trấn Tân Hiệp",
+        "path": "Tân Hiệp, Châu Thành, Tiền Giang",
+        "path_with_type": "Thị trấn Tân Hiệp, Huyện Châu Thành, Tỉnh Tiền Giang",
+        "code": "28519",
+        "parent_code": "821"
+    },
+    "28522": {
+        "name": "Tân Hội Đông",
+        "type": "xa",
+        "slug": "tan-hoi-dong",
+        "name_with_type": "Xã Tân Hội Đông",
+        "path": "Tân Hội Đông, Châu Thành, Tiền Giang",
+        "path_with_type": "Xã Tân Hội Đông, Huyện Châu Thành, Tỉnh Tiền Giang",
+        "code": "28522",
+        "parent_code": "821"
+    },
+    "28525": {
+        "name": "Tân Hương",
+        "type": "xa",
+        "slug": "tan-huong",
+        "name_with_type": "Xã Tân Hương",
+        "path": "Tân Hương, Châu Thành, Tiền Giang",
+        "path_with_type": "Xã Tân Hương, Huyện Châu Thành, Tỉnh Tiền Giang",
+        "code": "28525",
+        "parent_code": "821"
+    },
+    "28528": {
+        "name": "Tân Lý Đông",
+        "type": "xa",
+        "slug": "tan-ly-dong",
+        "name_with_type": "Xã Tân Lý Đông",
+        "path": "Tân Lý Đông, Châu Thành, Tiền Giang",
+        "path_with_type": "Xã Tân Lý Đông, Huyện Châu Thành, Tỉnh Tiền Giang",
+        "code": "28528",
+        "parent_code": "821"
+    },
+    "28531": {
+        "name": "Tân Lý Tây",
+        "type": "xa",
+        "slug": "tan-ly-tay",
+        "name_with_type": "Xã Tân Lý Tây",
+        "path": "Tân Lý Tây, Châu Thành, Tiền Giang",
+        "path_with_type": "Xã Tân Lý Tây, Huyện Châu Thành, Tỉnh Tiền Giang",
+        "code": "28531",
+        "parent_code": "821"
+    },
+    "28534": {
+        "name": "Thân Cửu Nghĩa",
+        "type": "xa",
+        "slug": "than-cuu-nghia",
+        "name_with_type": "Xã Thân Cửu Nghĩa",
+        "path": "Thân Cửu Nghĩa, Châu Thành, Tiền Giang",
+        "path_with_type": "Xã Thân Cửu Nghĩa, Huyện Châu Thành, Tỉnh Tiền Giang",
+        "code": "28534",
+        "parent_code": "821"
+    },
+    "28537": {
+        "name": "Tam Hiệp",
+        "type": "xa",
+        "slug": "tam-hiep",
+        "name_with_type": "Xã Tam Hiệp",
+        "path": "Tam Hiệp, Châu Thành, Tiền Giang",
+        "path_with_type": "Xã Tam Hiệp, Huyện Châu Thành, Tỉnh Tiền Giang",
+        "code": "28537",
+        "parent_code": "821"
+    },
+    "28540": {
+        "name": "Điềm Hy",
+        "type": "xa",
+        "slug": "diem-hy",
+        "name_with_type": "Xã Điềm Hy",
+        "path": "Điềm Hy, Châu Thành, Tiền Giang",
+        "path_with_type": "Xã Điềm Hy, Huyện Châu Thành, Tỉnh Tiền Giang",
+        "code": "28540",
+        "parent_code": "821"
+    },
+    "28543": {
+        "name": "Nhị Bình",
+        "type": "xa",
+        "slug": "nhi-binh",
+        "name_with_type": "Xã Nhị Bình",
+        "path": "Nhị Bình, Châu Thành, Tiền Giang",
+        "path_with_type": "Xã Nhị Bình, Huyện Châu Thành, Tỉnh Tiền Giang",
+        "code": "28543",
+        "parent_code": "821"
+    },
+    "28546": {
+        "name": "Dưỡng Điềm",
+        "type": "xa",
+        "slug": "duong-diem",
+        "name_with_type": "Xã Dưỡng Điềm",
+        "path": "Dưỡng Điềm, Châu Thành, Tiền Giang",
+        "path_with_type": "Xã Dưỡng Điềm, Huyện Châu Thành, Tỉnh Tiền Giang",
+        "code": "28546",
+        "parent_code": "821"
+    },
+    "28549": {
+        "name": "Đông Hòa",
+        "type": "xa",
+        "slug": "dong-hoa",
+        "name_with_type": "Xã Đông Hòa",
+        "path": "Đông Hòa, Châu Thành, Tiền Giang",
+        "path_with_type": "Xã Đông Hòa, Huyện Châu Thành, Tỉnh Tiền Giang",
+        "code": "28549",
+        "parent_code": "821"
+    },
+    "28552": {
+        "name": "Long Định",
+        "type": "xa",
+        "slug": "long-dinh",
+        "name_with_type": "Xã Long Định",
+        "path": "Long Định, Châu Thành, Tiền Giang",
+        "path_with_type": "Xã Long Định, Huyện Châu Thành, Tỉnh Tiền Giang",
+        "code": "28552",
+        "parent_code": "821"
+    },
+    "28555": {
+        "name": "Hữu Đạo",
+        "type": "xa",
+        "slug": "huu-dao",
+        "name_with_type": "Xã Hữu Đạo",
+        "path": "Hữu Đạo, Châu Thành, Tiền Giang",
+        "path_with_type": "Xã Hữu Đạo, Huyện Châu Thành, Tỉnh Tiền Giang",
+        "code": "28555",
+        "parent_code": "821"
+    },
+    "28558": {
+        "name": "Long An",
+        "type": "xa",
+        "slug": "long-an",
+        "name_with_type": "Xã Long An",
+        "path": "Long An, Châu Thành, Tiền Giang",
+        "path_with_type": "Xã Long An, Huyện Châu Thành, Tỉnh Tiền Giang",
+        "code": "28558",
+        "parent_code": "821"
+    },
+    "28561": {
+        "name": "Long Hưng",
+        "type": "xa",
+        "slug": "long-hung",
+        "name_with_type": "Xã Long Hưng",
+        "path": "Long Hưng, Châu Thành, Tiền Giang",
+        "path_with_type": "Xã Long Hưng, Huyện Châu Thành, Tỉnh Tiền Giang",
+        "code": "28561",
+        "parent_code": "821"
+    },
+    "28564": {
+        "name": "Bình Trưng",
+        "type": "xa",
+        "slug": "binh-trung",
+        "name_with_type": "Xã Bình Trưng",
+        "path": "Bình Trưng, Châu Thành, Tiền Giang",
+        "path_with_type": "Xã Bình Trưng, Huyện Châu Thành, Tỉnh Tiền Giang",
+        "code": "28564",
+        "parent_code": "821"
+    },
+    "28570": {
+        "name": "Thạnh Phú",
+        "type": "xa",
+        "slug": "thanh-phu",
+        "name_with_type": "Xã Thạnh Phú",
+        "path": "Thạnh Phú, Châu Thành, Tiền Giang",
+        "path_with_type": "Xã Thạnh Phú, Huyện Châu Thành, Tỉnh Tiền Giang",
+        "code": "28570",
+        "parent_code": "821"
+    },
+    "28573": {
+        "name": "Bàn Long",
+        "type": "xa",
+        "slug": "ban-long",
+        "name_with_type": "Xã Bàn Long",
+        "path": "Bàn Long, Châu Thành, Tiền Giang",
+        "path_with_type": "Xã Bàn Long, Huyện Châu Thành, Tỉnh Tiền Giang",
+        "code": "28573",
+        "parent_code": "821"
+    },
+    "28576": {
+        "name": "Vĩnh Kim",
+        "type": "xa",
+        "slug": "vinh-kim",
+        "name_with_type": "Xã Vĩnh Kim",
+        "path": "Vĩnh Kim, Châu Thành, Tiền Giang",
+        "path_with_type": "Xã Vĩnh Kim, Huyện Châu Thành, Tỉnh Tiền Giang",
+        "code": "28576",
+        "parent_code": "821"
+    },
+    "28579": {
+        "name": "Bình Đức",
+        "type": "xa",
+        "slug": "binh-duc",
+        "name_with_type": "Xã Bình Đức",
+        "path": "Bình Đức, Châu Thành, Tiền Giang",
+        "path_with_type": "Xã Bình Đức, Huyện Châu Thành, Tỉnh Tiền Giang",
+        "code": "28579",
+        "parent_code": "821"
+    },
+    "28582": {
+        "name": "Song Thuận",
+        "type": "xa",
+        "slug": "song-thuan",
+        "name_with_type": "Xã Song Thuận",
+        "path": "Song Thuận, Châu Thành, Tiền Giang",
+        "path_with_type": "Xã Song Thuận, Huyện Châu Thành, Tỉnh Tiền Giang",
+        "code": "28582",
+        "parent_code": "821"
+    },
+    "28585": {
+        "name": "Kim Sơn",
+        "type": "xa",
+        "slug": "kim-son",
+        "name_with_type": "Xã Kim Sơn",
+        "path": "Kim Sơn, Châu Thành, Tiền Giang",
+        "path_with_type": "Xã Kim Sơn, Huyện Châu Thành, Tỉnh Tiền Giang",
+        "code": "28585",
+        "parent_code": "821"
+    },
+    "28588": {
+        "name": "Phú Phong",
+        "type": "xa",
+        "slug": "phu-phong",
+        "name_with_type": "Xã Phú Phong",
+        "path": "Phú Phong, Châu Thành, Tiền Giang",
+        "path_with_type": "Xã Phú Phong, Huyện Châu Thành, Tỉnh Tiền Giang",
+        "code": "28588",
+        "parent_code": "821"
+    }
+}

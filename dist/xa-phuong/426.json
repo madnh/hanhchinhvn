@@ -1,0 +1,392 @@
+{
+    "17506": {
+        "name": "Yên Thành",
+        "type": "thi-tran",
+        "slug": "yen-thanh",
+        "name_with_type": "Thị trấn Yên Thành",
+        "path": "Yên Thành, Yên Thành, Nghệ An",
+        "path_with_type": "Thị trấn Yên Thành, Huyện Yên Thành, Tỉnh Nghệ An",
+        "code": "17506",
+        "parent_code": "426"
+    },
+    "17509": {
+        "name": "Mã Thành",
+        "type": "xa",
+        "slug": "ma-thanh",
+        "name_with_type": "Xã Mã Thành",
+        "path": "Mã Thành, Yên Thành, Nghệ An",
+        "path_with_type": "Xã Mã Thành, Huyện Yên Thành, Tỉnh Nghệ An",
+        "code": "17509",
+        "parent_code": "426"
+    },
+    "17510": {
+        "name": "Tiến Thành",
+        "type": "xa",
+        "slug": "tien-thanh",
+        "name_with_type": "Xã Tiến Thành",
+        "path": "Tiến Thành, Yên Thành, Nghệ An",
+        "path_with_type": "Xã Tiến Thành, Huyện Yên Thành, Tỉnh Nghệ An",
+        "code": "17510",
+        "parent_code": "426"
+    },
+    "17512": {
+        "name": "Lăng Thành",
+        "type": "xa",
+        "slug": "lang-thanh",
+        "name_with_type": "Xã Lăng Thành",
+        "path": "Lăng Thành, Yên Thành, Nghệ An",
+        "path_with_type": "Xã Lăng Thành, Huyện Yên Thành, Tỉnh Nghệ An",
+        "code": "17512",
+        "parent_code": "426"
+    },
+    "17515": {
+        "name": "Tân Thành",
+        "type": "xa",
+        "slug": "tan-thanh",
+        "name_with_type": "Xã Tân Thành",
+        "path": "Tân Thành, Yên Thành, Nghệ An",
+        "path_with_type": "Xã Tân Thành, Huyện Yên Thành, Tỉnh Nghệ An",
+        "code": "17515",
+        "parent_code": "426"
+    },
+    "17518": {
+        "name": "Đức Thành",
+        "type": "xa",
+        "slug": "duc-thanh",
+        "name_with_type": "Xã Đức Thành",
+        "path": "Đức Thành, Yên Thành, Nghệ An",
+        "path_with_type": "Xã Đức Thành, Huyện Yên Thành, Tỉnh Nghệ An",
+        "code": "17518",
+        "parent_code": "426"
+    },
+    "17521": {
+        "name": "Kim Thành",
+        "type": "xa",
+        "slug": "kim-thanh",
+        "name_with_type": "Xã Kim Thành",
+        "path": "Kim Thành, Yên Thành, Nghệ An",
+        "path_with_type": "Xã Kim Thành, Huyện Yên Thành, Tỉnh Nghệ An",
+        "code": "17521",
+        "parent_code": "426"
+    },
+    "17524": {
+        "name": "Hậu Thành",
+        "type": "xa",
+        "slug": "hau-thanh",
+        "name_with_type": "Xã Hậu Thành",
+        "path": "Hậu Thành, Yên Thành, Nghệ An",
+        "path_with_type": "Xã Hậu Thành, Huyện Yên Thành, Tỉnh Nghệ An",
+        "code": "17524",
+        "parent_code": "426"
+    },
+    "17525": {
+        "name": "Hùng Thành",
+        "type": "xa",
+        "slug": "hung-thanh",
+        "name_with_type": "Xã Hùng Thành",
+        "path": "Hùng Thành, Yên Thành, Nghệ An",
+        "path_with_type": "Xã Hùng Thành, Huyện Yên Thành, Tỉnh Nghệ An",
+        "code": "17525",
+        "parent_code": "426"
+    },
+    "17527": {
+        "name": "Đô Thành",
+        "type": "xa",
+        "slug": "do-thanh",
+        "name_with_type": "Xã Đô Thành",
+        "path": "Đô Thành, Yên Thành, Nghệ An",
+        "path_with_type": "Xã Đô Thành, Huyện Yên Thành, Tỉnh Nghệ An",
+        "code": "17527",
+        "parent_code": "426"
+    },
+    "17530": {
+        "name": "Thọ Thành",
+        "type": "xa",
+        "slug": "tho-thanh",
+        "name_with_type": "Xã Thọ Thành",
+        "path": "Thọ Thành, Yên Thành, Nghệ An",
+        "path_with_type": "Xã Thọ Thành, Huyện Yên Thành, Tỉnh Nghệ An",
+        "code": "17530",
+        "parent_code": "426"
+    },
+    "17533": {
+        "name": "Quang Thành",
+        "type": "xa",
+        "slug": "quang-thanh",
+        "name_with_type": "Xã Quang Thành",
+        "path": "Quang Thành, Yên Thành, Nghệ An",
+        "path_with_type": "Xã Quang Thành, Huyện Yên Thành, Tỉnh Nghệ An",
+        "code": "17533",
+        "parent_code": "426"
+    },
+    "17536": {
+        "name": "Tây Thành",
+        "type": "xa",
+        "slug": "tay-thanh",
+        "name_with_type": "Xã Tây Thành",
+        "path": "Tây Thành, Yên Thành, Nghệ An",
+        "path_with_type": "Xã Tây Thành, Huyện Yên Thành, Tỉnh Nghệ An",
+        "code": "17536",
+        "parent_code": "426"
+    },
+    "17539": {
+        "name": "Phúc Thành",
+        "type": "xa",
+        "slug": "phuc-thanh",
+        "name_with_type": "Xã Phúc Thành",
+        "path": "Phúc Thành, Yên Thành, Nghệ An",
+        "path_with_type": "Xã Phúc Thành, Huyện Yên Thành, Tỉnh Nghệ An",
+        "code": "17539",
+        "parent_code": "426"
+    },
+    "17542": {
+        "name": "Hồng Thành",
+        "type": "xa",
+        "slug": "hong-thanh",
+        "name_with_type": "Xã Hồng Thành",
+        "path": "Hồng Thành, Yên Thành, Nghệ An",
+        "path_with_type": "Xã Hồng Thành, Huyện Yên Thành, Tỉnh Nghệ An",
+        "code": "17542",
+        "parent_code": "426"
+    },
+    "17545": {
+        "name": "Đồng Thành",
+        "type": "xa",
+        "slug": "dong-thanh",
+        "name_with_type": "Xã Đồng Thành",
+        "path": "Đồng Thành, Yên Thành, Nghệ An",
+        "path_with_type": "Xã Đồng Thành, Huyện Yên Thành, Tỉnh Nghệ An",
+        "code": "17545",
+        "parent_code": "426"
+    },
+    "17548": {
+        "name": "Phú Thành",
+        "type": "xa",
+        "slug": "phu-thanh",
+        "name_with_type": "Xã Phú Thành",
+        "path": "Phú Thành, Yên Thành, Nghệ An",
+        "path_with_type": "Xã Phú Thành, Huyện Yên Thành, Tỉnh Nghệ An",
+        "code": "17548",
+        "parent_code": "426"
+    },
+    "17551": {
+        "name": "Hoa Thành",
+        "type": "xa",
+        "slug": "hoa-thanh",
+        "name_with_type": "Xã Hoa Thành",
+        "path": "Hoa Thành, Yên Thành, Nghệ An",
+        "path_with_type": "Xã Hoa Thành, Huyện Yên Thành, Tỉnh Nghệ An",
+        "code": "17551",
+        "parent_code": "426"
+    },
+    "17554": {
+        "name": "Tăng Thành",
+        "type": "xa",
+        "slug": "tang-thanh",
+        "name_with_type": "Xã Tăng Thành",
+        "path": "Tăng Thành, Yên Thành, Nghệ An",
+        "path_with_type": "Xã Tăng Thành, Huyện Yên Thành, Tỉnh Nghệ An",
+        "code": "17554",
+        "parent_code": "426"
+    },
+    "17557": {
+        "name": "Văn Thành",
+        "type": "xa",
+        "slug": "van-thanh",
+        "name_with_type": "Xã Văn Thành",
+        "path": "Văn Thành, Yên Thành, Nghệ An",
+        "path_with_type": "Xã Văn Thành, Huyện Yên Thành, Tỉnh Nghệ An",
+        "code": "17557",
+        "parent_code": "426"
+    },
+    "17560": {
+        "name": "Thịnh Thành",
+        "type": "xa",
+        "slug": "thinh-thanh",
+        "name_with_type": "Xã Thịnh Thành",
+        "path": "Thịnh Thành, Yên Thành, Nghệ An",
+        "path_with_type": "Xã Thịnh Thành, Huyện Yên Thành, Tỉnh Nghệ An",
+        "code": "17560",
+        "parent_code": "426"
+    },
+    "17563": {
+        "name": "Hợp Thành",
+        "type": "xa",
+        "slug": "hop-thanh",
+        "name_with_type": "Xã Hợp Thành",
+        "path": "Hợp Thành, Yên Thành, Nghệ An",
+        "path_with_type": "Xã Hợp Thành, Huyện Yên Thành, Tỉnh Nghệ An",
+        "code": "17563",
+        "parent_code": "426"
+    },
+    "17566": {
+        "name": "Xuân Thành",
+        "type": "xa",
+        "slug": "xuan-thanh",
+        "name_with_type": "Xã Xuân Thành",
+        "path": "Xuân Thành, Yên Thành, Nghệ An",
+        "path_with_type": "Xã Xuân Thành, Huyện Yên Thành, Tỉnh Nghệ An",
+        "code": "17566",
+        "parent_code": "426"
+    },
+    "17569": {
+        "name": "Bắc Thành",
+        "type": "xa",
+        "slug": "bac-thanh",
+        "name_with_type": "Xã Bắc Thành",
+        "path": "Bắc Thành, Yên Thành, Nghệ An",
+        "path_with_type": "Xã Bắc Thành, Huyện Yên Thành, Tỉnh Nghệ An",
+        "code": "17569",
+        "parent_code": "426"
+    },
+    "17572": {
+        "name": "Nhân Thành",
+        "type": "xa",
+        "slug": "nhan-thanh",
+        "name_with_type": "Xã Nhân Thành",
+        "path": "Nhân Thành, Yên Thành, Nghệ An",
+        "path_with_type": "Xã Nhân Thành, Huyện Yên Thành, Tỉnh Nghệ An",
+        "code": "17572",
+        "parent_code": "426"
+    },
+    "17575": {
+        "name": "Trung Thành",
+        "type": "xa",
+        "slug": "trung-thanh",
+        "name_with_type": "Xã Trung Thành",
+        "path": "Trung Thành, Yên Thành, Nghệ An",
+        "path_with_type": "Xã Trung Thành, Huyện Yên Thành, Tỉnh Nghệ An",
+        "code": "17575",
+        "parent_code": "426"
+    },
+    "17578": {
+        "name": "Long Thành",
+        "type": "xa",
+        "slug": "long-thanh",
+        "name_with_type": "Xã Long Thành",
+        "path": "Long Thành, Yên Thành, Nghệ An",
+        "path_with_type": "Xã Long Thành, Huyện Yên Thành, Tỉnh Nghệ An",
+        "code": "17578",
+        "parent_code": "426"
+    },
+    "17581": {
+        "name": "Minh Thành",
+        "type": "xa",
+        "slug": "minh-thanh",
+        "name_with_type": "Xã Minh Thành",
+        "path": "Minh Thành, Yên Thành, Nghệ An",
+        "path_with_type": "Xã Minh Thành, Huyện Yên Thành, Tỉnh Nghệ An",
+        "code": "17581",
+        "parent_code": "426"
+    },
+    "17584": {
+        "name": "Nam Thành",
+        "type": "xa",
+        "slug": "nam-thanh",
+        "name_with_type": "Xã Nam Thành",
+        "path": "Nam Thành, Yên Thành, Nghệ An",
+        "path_with_type": "Xã Nam Thành, Huyện Yên Thành, Tỉnh Nghệ An",
+        "code": "17584",
+        "parent_code": "426"
+    },
+    "17587": {
+        "name": "Vĩnh Thành",
+        "type": "xa",
+        "slug": "vinh-thanh",
+        "name_with_type": "Xã Vĩnh Thành",
+        "path": "Vĩnh Thành, Yên Thành, Nghệ An",
+        "path_with_type": "Xã Vĩnh Thành, Huyện Yên Thành, Tỉnh Nghệ An",
+        "code": "17587",
+        "parent_code": "426"
+    },
+    "17590": {
+        "name": "Lý Thành",
+        "type": "xa",
+        "slug": "ly-thanh",
+        "name_with_type": "Xã Lý Thành",
+        "path": "Lý Thành, Yên Thành, Nghệ An",
+        "path_with_type": "Xã Lý Thành, Huyện Yên Thành, Tỉnh Nghệ An",
+        "code": "17590",
+        "parent_code": "426"
+    },
+    "17593": {
+        "name": "Khánh Thành",
+        "type": "xa",
+        "slug": "khanh-thanh",
+        "name_with_type": "Xã Khánh Thành",
+        "path": "Khánh Thành, Yên Thành, Nghệ An",
+        "path_with_type": "Xã Khánh Thành, Huyện Yên Thành, Tỉnh Nghệ An",
+        "code": "17593",
+        "parent_code": "426"
+    },
+    "17596": {
+        "name": "Viên Thành",
+        "type": "xa",
+        "slug": "vien-thanh",
+        "name_with_type": "Xã Viên Thành",
+        "path": "Viên Thành, Yên Thành, Nghệ An",
+        "path_with_type": "Xã Viên Thành, Huyện Yên Thành, Tỉnh Nghệ An",
+        "code": "17596",
+        "parent_code": "426"
+    },
+    "17599": {
+        "name": "Đại Thành",
+        "type": "xa",
+        "slug": "dai-thanh",
+        "name_with_type": "Xã Đại Thành",
+        "path": "Đại Thành, Yên Thành, Nghệ An",
+        "path_with_type": "Xã Đại Thành, Huyện Yên Thành, Tỉnh Nghệ An",
+        "code": "17599",
+        "parent_code": "426"
+    },
+    "17602": {
+        "name": "Liên Thành",
+        "type": "xa",
+        "slug": "lien-thanh",
+        "name_with_type": "Xã Liên Thành",
+        "path": "Liên Thành, Yên Thành, Nghệ An",
+        "path_with_type": "Xã Liên Thành, Huyện Yên Thành, Tỉnh Nghệ An",
+        "code": "17602",
+        "parent_code": "426"
+    },
+    "17605": {
+        "name": "Bảo Thành",
+        "type": "xa",
+        "slug": "bao-thanh",
+        "name_with_type": "Xã Bảo Thành",
+        "path": "Bảo Thành, Yên Thành, Nghệ An",
+        "path_with_type": "Xã Bảo Thành, Huyện Yên Thành, Tỉnh Nghệ An",
+        "code": "17605",
+        "parent_code": "426"
+    },
+    "17608": {
+        "name": "Mỹ Thành",
+        "type": "xa",
+        "slug": "my-thanh",
+        "name_with_type": "Xã Mỹ Thành",
+        "path": "Mỹ Thành, Yên Thành, Nghệ An",
+        "path_with_type": "Xã Mỹ Thành, Huyện Yên Thành, Tỉnh Nghệ An",
+        "code": "17608",
+        "parent_code": "426"
+    },
+    "17611": {
+        "name": "Công Thành",
+        "type": "xa",
+        "slug": "cong-thanh",
+        "name_with_type": "Xã Công Thành",
+        "path": "Công Thành, Yên Thành, Nghệ An",
+        "path_with_type": "Xã Công Thành, Huyện Yên Thành, Tỉnh Nghệ An",
+        "code": "17611",
+        "parent_code": "426"
+    },
+    "17614": {
+        "name": "Sơn Thành",
+        "type": "xa",
+        "slug": "son-thanh",
+        "name_with_type": "Xã Sơn Thành",
+        "path": "Sơn Thành, Yên Thành, Nghệ An",
+        "path_with_type": "Xã Sơn Thành, Huyện Yên Thành, Tỉnh Nghệ An",
+        "code": "17614",
+        "parent_code": "426"
+    }
+}

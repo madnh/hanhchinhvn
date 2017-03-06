@@ -1,0 +1,312 @@
+{
+    "02428": {
+        "name": "Tân Bình",
+        "type": "thi-tran",
+        "slug": "tan-binh",
+        "name_with_type": "Thị trấn Tân Bình",
+        "path": "Tân Bình, Yên Sơn, Tuyên Quang",
+        "path_with_type": "Thị trấn Tân Bình, Huyện Yên Sơn, Tỉnh Tuyên Quang",
+        "code": "02428",
+        "parent_code": "075"
+    },
+    "02431": {
+        "name": "Quí Quân",
+        "type": "xa",
+        "slug": "qui-quan",
+        "name_with_type": "Xã Quí Quân",
+        "path": "Quí Quân, Yên Sơn, Tuyên Quang",
+        "path_with_type": "Xã Quí Quân, Huyện Yên Sơn, Tỉnh Tuyên Quang",
+        "code": "02431",
+        "parent_code": "075"
+    },
+    "02434": {
+        "name": "Lực Hành",
+        "type": "xa",
+        "slug": "luc-hanh",
+        "name_with_type": "Xã Lực Hành",
+        "path": "Lực Hành, Yên Sơn, Tuyên Quang",
+        "path_with_type": "Xã Lực Hành, Huyện Yên Sơn, Tỉnh Tuyên Quang",
+        "code": "02434",
+        "parent_code": "075"
+    },
+    "02437": {
+        "name": "Kiến Thiết",
+        "type": "xa",
+        "slug": "kien-thiet",
+        "name_with_type": "Xã Kiến Thiết",
+        "path": "Kiến Thiết, Yên Sơn, Tuyên Quang",
+        "path_with_type": "Xã Kiến Thiết, Huyện Yên Sơn, Tỉnh Tuyên Quang",
+        "code": "02437",
+        "parent_code": "075"
+    },
+    "02440": {
+        "name": "Trung Minh",
+        "type": "xa",
+        "slug": "trung-minh",
+        "name_with_type": "Xã Trung Minh",
+        "path": "Trung Minh, Yên Sơn, Tuyên Quang",
+        "path_with_type": "Xã Trung Minh, Huyện Yên Sơn, Tỉnh Tuyên Quang",
+        "code": "02440",
+        "parent_code": "075"
+    },
+    "02443": {
+        "name": "Chiêu Yên",
+        "type": "xa",
+        "slug": "chieu-yen",
+        "name_with_type": "Xã Chiêu Yên",
+        "path": "Chiêu Yên, Yên Sơn, Tuyên Quang",
+        "path_with_type": "Xã Chiêu Yên, Huyện Yên Sơn, Tỉnh Tuyên Quang",
+        "code": "02443",
+        "parent_code": "075"
+    },
+    "02446": {
+        "name": "Trung Trực",
+        "type": "xa",
+        "slug": "trung-truc",
+        "name_with_type": "Xã Trung Trực",
+        "path": "Trung Trực, Yên Sơn, Tuyên Quang",
+        "path_with_type": "Xã Trung Trực, Huyện Yên Sơn, Tỉnh Tuyên Quang",
+        "code": "02446",
+        "parent_code": "075"
+    },
+    "02449": {
+        "name": "Xuân Vân",
+        "type": "xa",
+        "slug": "xuan-van",
+        "name_with_type": "Xã Xuân Vân",
+        "path": "Xuân Vân, Yên Sơn, Tuyên Quang",
+        "path_with_type": "Xã Xuân Vân, Huyện Yên Sơn, Tỉnh Tuyên Quang",
+        "code": "02449",
+        "parent_code": "075"
+    },
+    "02452": {
+        "name": "Phúc Ninh",
+        "type": "xa",
+        "slug": "phuc-ninh",
+        "name_with_type": "Xã Phúc Ninh",
+        "path": "Phúc Ninh, Yên Sơn, Tuyên Quang",
+        "path_with_type": "Xã Phúc Ninh, Huyện Yên Sơn, Tỉnh Tuyên Quang",
+        "code": "02452",
+        "parent_code": "075"
+    },
+    "02455": {
+        "name": "Hùng Lợi",
+        "type": "xa",
+        "slug": "hung-loi",
+        "name_with_type": "Xã Hùng Lợi",
+        "path": "Hùng Lợi, Yên Sơn, Tuyên Quang",
+        "path_with_type": "Xã Hùng Lợi, Huyện Yên Sơn, Tỉnh Tuyên Quang",
+        "code": "02455",
+        "parent_code": "075"
+    },
+    "02458": {
+        "name": "Trung Sơn",
+        "type": "xa",
+        "slug": "trung-son",
+        "name_with_type": "Xã Trung Sơn",
+        "path": "Trung Sơn, Yên Sơn, Tuyên Quang",
+        "path_with_type": "Xã Trung Sơn, Huyện Yên Sơn, Tỉnh Tuyên Quang",
+        "code": "02458",
+        "parent_code": "075"
+    },
+    "02461": {
+        "name": "Tân Tiến",
+        "type": "xa",
+        "slug": "tan-tien",
+        "name_with_type": "Xã Tân Tiến",
+        "path": "Tân Tiến, Yên Sơn, Tuyên Quang",
+        "path_with_type": "Xã Tân Tiến, Huyện Yên Sơn, Tỉnh Tuyên Quang",
+        "code": "02461",
+        "parent_code": "075"
+    },
+    "02464": {
+        "name": "Tứ Quận",
+        "type": "xa",
+        "slug": "tu-quan",
+        "name_with_type": "Xã Tứ Quận",
+        "path": "Tứ Quận, Yên Sơn, Tuyên Quang",
+        "path_with_type": "Xã Tứ Quận, Huyện Yên Sơn, Tỉnh Tuyên Quang",
+        "code": "02464",
+        "parent_code": "075"
+    },
+    "02467": {
+        "name": "Đạo Viện",
+        "type": "xa",
+        "slug": "dao-vien",
+        "name_with_type": "Xã Đạo Viện",
+        "path": "Đạo Viện, Yên Sơn, Tuyên Quang",
+        "path_with_type": "Xã Đạo Viện, Huyện Yên Sơn, Tỉnh Tuyên Quang",
+        "code": "02467",
+        "parent_code": "075"
+    },
+    "02470": {
+        "name": "Tân Long",
+        "type": "xa",
+        "slug": "tan-long",
+        "name_with_type": "Xã Tân Long",
+        "path": "Tân Long, Yên Sơn, Tuyên Quang",
+        "path_with_type": "Xã Tân Long, Huyện Yên Sơn, Tỉnh Tuyên Quang",
+        "code": "02470",
+        "parent_code": "075"
+    },
+    "02473": {
+        "name": "Thắng Quân",
+        "type": "xa",
+        "slug": "thang-quan",
+        "name_with_type": "Xã Thắng Quân",
+        "path": "Thắng Quân, Yên Sơn, Tuyên Quang",
+        "path_with_type": "Xã Thắng Quân, Huyện Yên Sơn, Tỉnh Tuyên Quang",
+        "code": "02473",
+        "parent_code": "075"
+    },
+    "02476": {
+        "name": "Kim Quan",
+        "type": "xa",
+        "slug": "kim-quan",
+        "name_with_type": "Xã Kim Quan",
+        "path": "Kim Quan, Yên Sơn, Tuyên Quang",
+        "path_with_type": "Xã Kim Quan, Huyện Yên Sơn, Tỉnh Tuyên Quang",
+        "code": "02476",
+        "parent_code": "075"
+    },
+    "02479": {
+        "name": "Lang Quán",
+        "type": "xa",
+        "slug": "lang-quan",
+        "name_with_type": "Xã Lang Quán",
+        "path": "Lang Quán, Yên Sơn, Tuyên Quang",
+        "path_with_type": "Xã Lang Quán, Huyện Yên Sơn, Tỉnh Tuyên Quang",
+        "code": "02479",
+        "parent_code": "075"
+    },
+    "02482": {
+        "name": "Phú Thịnh",
+        "type": "xa",
+        "slug": "phu-thinh",
+        "name_with_type": "Xã Phú Thịnh",
+        "path": "Phú Thịnh, Yên Sơn, Tuyên Quang",
+        "path_with_type": "Xã Phú Thịnh, Huyện Yên Sơn, Tỉnh Tuyên Quang",
+        "code": "02482",
+        "parent_code": "075"
+    },
+    "02485": {
+        "name": "Công Đa",
+        "type": "xa",
+        "slug": "cong-da",
+        "name_with_type": "Xã Công Đa",
+        "path": "Công Đa, Yên Sơn, Tuyên Quang",
+        "path_with_type": "Xã Công Đa, Huyện Yên Sơn, Tỉnh Tuyên Quang",
+        "code": "02485",
+        "parent_code": "075"
+    },
+    "02488": {
+        "name": "Trung Môn",
+        "type": "xa",
+        "slug": "trung-mon",
+        "name_with_type": "Xã Trung Môn",
+        "path": "Trung Môn, Yên Sơn, Tuyên Quang",
+        "path_with_type": "Xã Trung Môn, Huyện Yên Sơn, Tỉnh Tuyên Quang",
+        "code": "02488",
+        "parent_code": "075"
+    },
+    "02491": {
+        "name": "Chân Sơn",
+        "type": "xa",
+        "slug": "chan-son",
+        "name_with_type": "Xã Chân Sơn",
+        "path": "Chân Sơn, Yên Sơn, Tuyên Quang",
+        "path_with_type": "Xã Chân Sơn, Huyện Yên Sơn, Tỉnh Tuyên Quang",
+        "code": "02491",
+        "parent_code": "075"
+    },
+    "02494": {
+        "name": "Thái Bình",
+        "type": "xa",
+        "slug": "thai-binh",
+        "name_with_type": "Xã Thái Bình",
+        "path": "Thái Bình, Yên Sơn, Tuyên Quang",
+        "path_with_type": "Xã Thái Bình, Huyện Yên Sơn, Tỉnh Tuyên Quang",
+        "code": "02494",
+        "parent_code": "075"
+    },
+    "02497": {
+        "name": "Kim Phú",
+        "type": "xa",
+        "slug": "kim-phu",
+        "name_with_type": "Xã Kim Phú",
+        "path": "Kim Phú, Yên Sơn, Tuyên Quang",
+        "path_with_type": "Xã Kim Phú, Huyện Yên Sơn, Tỉnh Tuyên Quang",
+        "code": "02497",
+        "parent_code": "075"
+    },
+    "02500": {
+        "name": "Tiến Bộ",
+        "type": "xa",
+        "slug": "tien-bo",
+        "name_with_type": "Xã Tiến Bộ",
+        "path": "Tiến Bộ, Yên Sơn, Tuyên Quang",
+        "path_with_type": "Xã Tiến Bộ, Huyện Yên Sơn, Tỉnh Tuyên Quang",
+        "code": "02500",
+        "parent_code": "075"
+    },
+    "02506": {
+        "name": "Mỹ Bằng",
+        "type": "xa",
+        "slug": "my-bang",
+        "name_with_type": "Xã Mỹ Bằng",
+        "path": "Mỹ Bằng, Yên Sơn, Tuyên Quang",
+        "path_with_type": "Xã Mỹ Bằng, Huyện Yên Sơn, Tỉnh Tuyên Quang",
+        "code": "02506",
+        "parent_code": "075"
+    },
+    "02509": {
+        "name": "Phú Lâm",
+        "type": "xa",
+        "slug": "phu-lam",
+        "name_with_type": "Xã Phú Lâm",
+        "path": "Phú Lâm, Yên Sơn, Tuyên Quang",
+        "path_with_type": "Xã Phú Lâm, Huyện Yên Sơn, Tỉnh Tuyên Quang",
+        "code": "02509",
+        "parent_code": "075"
+    },
+    "02518": {
+        "name": "Hoàng Khai",
+        "type": "xa",
+        "slug": "hoang-khai",
+        "name_with_type": "Xã Hoàng Khai",
+        "path": "Hoàng Khai, Yên Sơn, Tuyên Quang",
+        "path_with_type": "Xã Hoàng Khai, Huyện Yên Sơn, Tỉnh Tuyên Quang",
+        "code": "02518",
+        "parent_code": "075"
+    },
+    "02527": {
+        "name": "Nhữ Hán",
+        "type": "xa",
+        "slug": "nhu-han",
+        "name_with_type": "Xã Nhữ Hán",
+        "path": "Nhữ Hán, Yên Sơn, Tuyên Quang",
+        "path_with_type": "Xã Nhữ Hán, Huyện Yên Sơn, Tỉnh Tuyên Quang",
+        "code": "02527",
+        "parent_code": "075"
+    },
+    "02530": {
+        "name": "Nhữ Khê",
+        "type": "xa",
+        "slug": "nhu-khe",
+        "name_with_type": "Xã Nhữ Khê",
+        "path": "Nhữ Khê, Yên Sơn, Tuyên Quang",
+        "path_with_type": "Xã Nhữ Khê, Huyện Yên Sơn, Tỉnh Tuyên Quang",
+        "code": "02530",
+        "parent_code": "075"
+    },
+    "02533": {
+        "name": "Đội Bình",
+        "type": "xa",
+        "slug": "doi-binh",
+        "name_with_type": "Xã Đội Bình",
+        "path": "Đội Bình, Yên Sơn, Tuyên Quang",
+        "path_with_type": "Xã Đội Bình, Huyện Yên Sơn, Tỉnh Tuyên Quang",
+        "code": "02533",
+        "parent_code": "075"
+    }
+}

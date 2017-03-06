@@ -1,0 +1,202 @@
+{
+    "10546": {
+        "name": "Phả Lại",
+        "type": "phuong",
+        "slug": "pha-lai",
+        "name_with_type": "Phường Phả Lại",
+        "path": "Phả Lại, Chí Linh, Hải Dương",
+        "path_with_type": "Phường Phả Lại, Thị xã Chí Linh, Tỉnh Hải Dương",
+        "code": "10546",
+        "parent_code": "290"
+    },
+    "10549": {
+        "name": "Sao Đỏ",
+        "type": "phuong",
+        "slug": "sao-do",
+        "name_with_type": "Phường Sao Đỏ",
+        "path": "Sao Đỏ, Chí Linh, Hải Dương",
+        "path_with_type": "Phường Sao Đỏ, Thị xã Chí Linh, Tỉnh Hải Dương",
+        "code": "10549",
+        "parent_code": "290"
+    },
+    "10552": {
+        "name": "Bến Tắm",
+        "type": "phuong",
+        "slug": "ben-tam",
+        "name_with_type": "Phường Bến Tắm",
+        "path": "Bến Tắm, Chí Linh, Hải Dương",
+        "path_with_type": "Phường Bến Tắm, Thị xã Chí Linh, Tỉnh Hải Dương",
+        "code": "10552",
+        "parent_code": "290"
+    },
+    "10555": {
+        "name": "Hoàng Hoa Thám",
+        "type": "xa",
+        "slug": "hoang-hoa-tham",
+        "name_with_type": "Xã Hoàng Hoa Thám",
+        "path": "Hoàng Hoa Thám, Chí Linh, Hải Dương",
+        "path_with_type": "Xã Hoàng Hoa Thám, Thị xã Chí Linh, Tỉnh Hải Dương",
+        "code": "10555",
+        "parent_code": "290"
+    },
+    "10558": {
+        "name": "Bắc An",
+        "type": "xa",
+        "slug": "bac-an",
+        "name_with_type": "Xã Bắc An",
+        "path": "Bắc An, Chí Linh, Hải Dương",
+        "path_with_type": "Xã Bắc An, Thị xã Chí Linh, Tỉnh Hải Dương",
+        "code": "10558",
+        "parent_code": "290"
+    },
+    "10561": {
+        "name": "Hưng Đạo",
+        "type": "xa",
+        "slug": "hung-dao",
+        "name_with_type": "Xã Hưng Đạo",
+        "path": "Hưng Đạo, Chí Linh, Hải Dương",
+        "path_with_type": "Xã Hưng Đạo, Thị xã Chí Linh, Tỉnh Hải Dương",
+        "code": "10561",
+        "parent_code": "290"
+    },
+    "10564": {
+        "name": "Lê Lợi",
+        "type": "xa",
+        "slug": "le-loi",
+        "name_with_type": "Xã Lê Lợi",
+        "path": "Lê Lợi, Chí Linh, Hải Dương",
+        "path_with_type": "Xã Lê Lợi, Thị xã Chí Linh, Tỉnh Hải Dương",
+        "code": "10564",
+        "parent_code": "290"
+    },
+    "10567": {
+        "name": "Hoàng Tiến",
+        "type": "xa",
+        "slug": "hoang-tien",
+        "name_with_type": "Xã Hoàng Tiến",
+        "path": "Hoàng Tiến, Chí Linh, Hải Dương",
+        "path_with_type": "Xã Hoàng Tiến, Thị xã Chí Linh, Tỉnh Hải Dương",
+        "code": "10567",
+        "parent_code": "290"
+    },
+    "10570": {
+        "name": "Cộng Hoà",
+        "type": "phuong",
+        "slug": "cong-hoa",
+        "name_with_type": "Phường Cộng Hoà",
+        "path": "Cộng Hoà, Chí Linh, Hải Dương",
+        "path_with_type": "Phường Cộng Hoà, Thị xã Chí Linh, Tỉnh Hải Dương",
+        "code": "10570",
+        "parent_code": "290"
+    },
+    "10573": {
+        "name": "Hoàng Tân",
+        "type": "phuong",
+        "slug": "hoang-tan",
+        "name_with_type": "Phường Hoàng Tân",
+        "path": "Hoàng Tân, Chí Linh, Hải Dương",
+        "path_with_type": "Phường Hoàng Tân, Thị xã Chí Linh, Tỉnh Hải Dương",
+        "code": "10573",
+        "parent_code": "290"
+    },
+    "10576": {
+        "name": "Cổ Thành",
+        "type": "xa",
+        "slug": "co-thanh",
+        "name_with_type": "Xã Cổ Thành",
+        "path": "Cổ Thành, Chí Linh, Hải Dương",
+        "path_with_type": "Xã Cổ Thành, Thị xã Chí Linh, Tỉnh Hải Dương",
+        "code": "10576",
+        "parent_code": "290"
+    },
+    "10579": {
+        "name": "Văn An",
+        "type": "phuong",
+        "slug": "van-an",
+        "name_with_type": "Phường Văn An",
+        "path": "Văn An, Chí Linh, Hải Dương",
+        "path_with_type": "Phường Văn An, Thị xã Chí Linh, Tỉnh Hải Dương",
+        "code": "10579",
+        "parent_code": "290"
+    },
+    "10582": {
+        "name": "Chí Minh",
+        "type": "phuong",
+        "slug": "chi-minh",
+        "name_with_type": "Phường Chí Minh",
+        "path": "Chí Minh, Chí Linh, Hải Dương",
+        "path_with_type": "Phường Chí Minh, Thị xã Chí Linh, Tỉnh Hải Dương",
+        "code": "10582",
+        "parent_code": "290"
+    },
+    "10585": {
+        "name": "Văn Đức",
+        "type": "xa",
+        "slug": "van-duc",
+        "name_with_type": "Xã Văn Đức",
+        "path": "Văn Đức, Chí Linh, Hải Dương",
+        "path_with_type": "Xã Văn Đức, Thị xã Chí Linh, Tỉnh Hải Dương",
+        "code": "10585",
+        "parent_code": "290"
+    },
+    "10588": {
+        "name": "Thái Học",
+        "type": "phuong",
+        "slug": "thai-hoc",
+        "name_with_type": "Phường Thái Học",
+        "path": "Thái Học, Chí Linh, Hải Dương",
+        "path_with_type": "Phường Thái Học, Thị xã Chí Linh, Tỉnh Hải Dương",
+        "code": "10588",
+        "parent_code": "290"
+    },
+    "10591": {
+        "name": "Nhân Huệ",
+        "type": "xa",
+        "slug": "nhan-hue",
+        "name_with_type": "Xã Nhân Huệ",
+        "path": "Nhân Huệ, Chí Linh, Hải Dương",
+        "path_with_type": "Xã Nhân Huệ, Thị xã Chí Linh, Tỉnh Hải Dương",
+        "code": "10591",
+        "parent_code": "290"
+    },
+    "10594": {
+        "name": "An Lạc",
+        "type": "xa",
+        "slug": "an-lac",
+        "name_with_type": "Xã An Lạc",
+        "path": "An Lạc, Chí Linh, Hải Dương",
+        "path_with_type": "Xã An Lạc, Thị xã Chí Linh, Tỉnh Hải Dương",
+        "code": "10594",
+        "parent_code": "290"
+    },
+    "10597": {
+        "name": "Kênh Giang",
+        "type": "xa",
+        "slug": "kenh-giang",
+        "name_with_type": "Xã Kênh Giang",
+        "path": "Kênh Giang, Chí Linh, Hải Dương",
+        "path_with_type": "Xã Kênh Giang, Thị xã Chí Linh, Tỉnh Hải Dương",
+        "code": "10597",
+        "parent_code": "290"
+    },
+    "10600": {
+        "name": "Đồng Lạc",
+        "type": "xa",
+        "slug": "dong-lac",
+        "name_with_type": "Xã Đồng Lạc",
+        "path": "Đồng Lạc, Chí Linh, Hải Dương",
+        "path_with_type": "Xã Đồng Lạc, Thị xã Chí Linh, Tỉnh Hải Dương",
+        "code": "10600",
+        "parent_code": "290"
+    },
+    "10603": {
+        "name": "Tân Dân",
+        "type": "xa",
+        "slug": "tan-dan",
+        "name_with_type": "Xã Tân Dân",
+        "path": "Tân Dân, Chí Linh, Hải Dương",
+        "path_with_type": "Xã Tân Dân, Thị xã Chí Linh, Tỉnh Hải Dương",
+        "code": "10603",
+        "parent_code": "290"
+    }
+}

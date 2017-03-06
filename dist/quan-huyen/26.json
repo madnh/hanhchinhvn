@@ -1,0 +1,92 @@
+{
+    "243": {
+        "name": "Vĩnh Yên",
+        "type": "thanh-pho",
+        "slug": "vinh-yen",
+        "name_with_type": "Thành phố Vĩnh Yên",
+        "path": "Vĩnh Yên, Vĩnh Phúc",
+        "path_with_type": "Thành phố Vĩnh Yên, Tỉnh Vĩnh Phúc",
+        "code": "243",
+        "parent_code": "26"
+    },
+    "244": {
+        "name": "Phúc Yên",
+        "type": "thi-xa",
+        "slug": "phuc-yen",
+        "name_with_type": "Thị xã Phúc Yên",
+        "path": "Phúc Yên, Vĩnh Phúc",
+        "path_with_type": "Thị xã Phúc Yên, Tỉnh Vĩnh Phúc",
+        "code": "244",
+        "parent_code": "26"
+    },
+    "246": {
+        "name": "Lập Thạch",
+        "type": "huyen",
+        "slug": "lap-thach",
+        "name_with_type": "Huyện Lập Thạch",
+        "path": "Lập Thạch, Vĩnh Phúc",
+        "path_with_type": "Huyện Lập Thạch, Tỉnh Vĩnh Phúc",
+        "code": "246",
+        "parent_code": "26"
+    },
+    "247": {
+        "name": "Tam Dương",
+        "type": "huyen",
+        "slug": "tam-duong",
+        "name_with_type": "Huyện Tam Dương",
+        "path": "Tam Dương, Vĩnh Phúc",
+        "path_with_type": "Huyện Tam Dương, Tỉnh Vĩnh Phúc",
+        "code": "247",
+        "parent_code": "26"
+    },
+    "248": {
+        "name": "Tam Đảo",
+        "type": "huyen",
+        "slug": "tam-dao",
+        "name_with_type": "Huyện Tam Đảo",
+        "path": "Tam Đảo, Vĩnh Phúc",
+        "path_with_type": "Huyện Tam Đảo, Tỉnh Vĩnh Phúc",
+        "code": "248",
+        "parent_code": "26"
+    },
+    "249": {
+        "name": "Bình Xuyên",
+        "type": "huyen",
+        "slug": "binh-xuyen",
+        "name_with_type": "Huyện Bình Xuyên",
+        "path": "Bình Xuyên, Vĩnh Phúc",
+        "path_with_type": "Huyện Bình Xuyên, Tỉnh Vĩnh Phúc",
+        "code": "249",
+        "parent_code": "26"
+    },
+    "251": {
+        "name": "Yên Lạc",
+        "type": "huyen",
+        "slug": "yen-lac",
+        "name_with_type": "Huyện Yên Lạc",
+        "path": "Yên Lạc, Vĩnh Phúc",
+        "path_with_type": "Huyện Yên Lạc, Tỉnh Vĩnh Phúc",
+        "code": "251",
+        "parent_code": "26"
+    },
+    "252": {
+        "name": "Vĩnh Tường",
+        "type": "huyen",
+        "slug": "vinh-tuong",
+        "name_with_type": "Huyện Vĩnh Tường",
+        "path": "Vĩnh Tường, Vĩnh Phúc",
+        "path_with_type": "Huyện Vĩnh Tường, Tỉnh Vĩnh Phúc",
+        "code": "252",
+        "parent_code": "26"
+    },
+    "253": {
+        "name": "Sông Lô",
+        "type": "huyen",
+        "slug": "song-lo",
+        "name_with_type": "Huyện Sông Lô",
+        "path": "Sông Lô, Vĩnh Phúc",
+        "path_with_type": "Huyện Sông Lô, Tỉnh Vĩnh Phúc",
+        "code": "253",
+        "parent_code": "26"
+    }
+}

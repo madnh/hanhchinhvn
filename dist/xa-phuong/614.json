@@ -1,0 +1,72 @@
+{
+    "23479": {
+        "name": "Đắk Rve",
+        "type": "thi-tran",
+        "slug": "dak-rve",
+        "name_with_type": "Thị trấn Đắk Rve",
+        "path": "Đắk Rve, Kon Rẫy, Kon Tum",
+        "path_with_type": "Thị trấn Đắk Rve, Huyện Kon Rẫy, Tỉnh Kon Tum",
+        "code": "23479",
+        "parent_code": "614"
+    },
+    "23482": {
+        "name": "Đắk Kôi",
+        "type": "xa",
+        "slug": "dak-koi",
+        "name_with_type": "Xã Đắk Kôi",
+        "path": "Đắk Kôi, Kon Rẫy, Kon Tum",
+        "path_with_type": "Xã Đắk Kôi, Huyện Kon Rẫy, Tỉnh Kon Tum",
+        "code": "23482",
+        "parent_code": "614"
+    },
+    "23485": {
+        "name": "Đắk Tơ Lung",
+        "type": "xa",
+        "slug": "dak-to-lung",
+        "name_with_type": "Xã Đắk Tơ Lung",
+        "path": "Đắk Tơ Lung, Kon Rẫy, Kon Tum",
+        "path_with_type": "Xã Đắk Tơ Lung, Huyện Kon Rẫy, Tỉnh Kon Tum",
+        "code": "23485",
+        "parent_code": "614"
+    },
+    "23488": {
+        "name": "Đắk Ruồng",
+        "type": "xa",
+        "slug": "dak-ruong",
+        "name_with_type": "Xã Đắk Ruồng",
+        "path": "Đắk Ruồng, Kon Rẫy, Kon Tum",
+        "path_with_type": "Xã Đắk Ruồng, Huyện Kon Rẫy, Tỉnh Kon Tum",
+        "code": "23488",
+        "parent_code": "614"
+    },
+    "23491": {
+        "name": "Đắk Pne",
+        "type": "xa",
+        "slug": "dak-pne",
+        "name_with_type": "Xã Đắk Pne",
+        "path": "Đắk Pne, Kon Rẫy, Kon Tum",
+        "path_with_type": "Xã Đắk Pne, Huyện Kon Rẫy, Tỉnh Kon Tum",
+        "code": "23491",
+        "parent_code": "614"
+    },
+    "23494": {
+        "name": "Đắk Tờ Re",
+        "type": "xa",
+        "slug": "dak-to-re",
+        "name_with_type": "Xã Đắk Tờ Re",
+        "path": "Đắk Tờ Re, Kon Rẫy, Kon Tum",
+        "path_with_type": "Xã Đắk Tờ Re, Huyện Kon Rẫy, Tỉnh Kon Tum",
+        "code": "23494",
+        "parent_code": "614"
+    },
+    "23497": {
+        "name": "Tân Lập",
+        "type": "xa",
+        "slug": "tan-lap",
+        "name_with_type": "Xã Tân Lập",
+        "path": "Tân Lập, Kon Rẫy, Kon Tum",
+        "path_with_type": "Xã Tân Lập, Huyện Kon Rẫy, Tỉnh Kon Tum",
+        "code": "23497",
+        "parent_code": "614"
+    }
+}

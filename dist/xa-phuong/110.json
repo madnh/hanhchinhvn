@@ -1,0 +1,122 @@
+{
+    "03595": {
+        "name": "Than Uyên",
+        "type": "thi-tran",
+        "slug": "than-uyen",
+        "name_with_type": "Thị trấn Than Uyên",
+        "path": "Than Uyên, Than Uyên, Lai Châu",
+        "path_with_type": "Thị trấn Than Uyên, Huyện Than Uyên, Tỉnh Lai Châu",
+        "code": "03595",
+        "parent_code": "110"
+    },
+    "03618": {
+        "name": "Phúc Than",
+        "type": "xa",
+        "slug": "phuc-than",
+        "name_with_type": "Xã Phúc Than",
+        "path": "Phúc Than, Than Uyên, Lai Châu",
+        "path_with_type": "Xã Phúc Than, Huyện Than Uyên, Tỉnh Lai Châu",
+        "code": "03618",
+        "parent_code": "110"
+    },
+    "03619": {
+        "name": "Mường Than",
+        "type": "xa",
+        "slug": "muong-than",
+        "name_with_type": "Xã Mường Than",
+        "path": "Mường Than, Than Uyên, Lai Châu",
+        "path_with_type": "Xã Mường Than, Huyện Than Uyên, Tỉnh Lai Châu",
+        "code": "03619",
+        "parent_code": "110"
+    },
+    "03625": {
+        "name": "Mường Mít",
+        "type": "xa",
+        "slug": "muong-mit",
+        "name_with_type": "Xã Mường Mít",
+        "path": "Mường Mít, Than Uyên, Lai Châu",
+        "path_with_type": "Xã Mường Mít, Huyện Than Uyên, Tỉnh Lai Châu",
+        "code": "03625",
+        "parent_code": "110"
+    },
+    "03628": {
+        "name": "Pha Mu",
+        "type": "xa",
+        "slug": "pha-mu",
+        "name_with_type": "Xã Pha Mu",
+        "path": "Pha Mu, Than Uyên, Lai Châu",
+        "path_with_type": "Xã Pha Mu, Huyện Than Uyên, Tỉnh Lai Châu",
+        "code": "03628",
+        "parent_code": "110"
+    },
+    "03631": {
+        "name": "Mường Cang",
+        "type": "xa",
+        "slug": "muong-cang",
+        "name_with_type": "Xã Mường Cang",
+        "path": "Mường Cang, Than Uyên, Lai Châu",
+        "path_with_type": "Xã Mường Cang, Huyện Than Uyên, Tỉnh Lai Châu",
+        "code": "03631",
+        "parent_code": "110"
+    },
+    "03632": {
+        "name": "Hua Nà",
+        "type": "xa",
+        "slug": "hua-na",
+        "name_with_type": "Xã Hua Nà",
+        "path": "Hua Nà, Than Uyên, Lai Châu",
+        "path_with_type": "Xã Hua Nà, Huyện Than Uyên, Tỉnh Lai Châu",
+        "code": "03632",
+        "parent_code": "110"
+    },
+    "03634": {
+        "name": "Tà Hừa",
+        "type": "xa",
+        "slug": "ta-hua",
+        "name_with_type": "Xã Tà Hừa",
+        "path": "Tà Hừa, Than Uyên, Lai Châu",
+        "path_with_type": "Xã Tà Hừa, Huyện Than Uyên, Tỉnh Lai Châu",
+        "code": "03634",
+        "parent_code": "110"
+    },
+    "03637": {
+        "name": "Mường Kim",
+        "type": "xa",
+        "slug": "muong-kim",
+        "name_with_type": "Xã Mường Kim",
+        "path": "Mường Kim, Than Uyên, Lai Châu",
+        "path_with_type": "Xã Mường Kim, Huyện Than Uyên, Tỉnh Lai Châu",
+        "code": "03637",
+        "parent_code": "110"
+    },
+    "03638": {
+        "name": "Tà Mung",
+        "type": "xa",
+        "slug": "ta-mung",
+        "name_with_type": "Xã Tà Mung",
+        "path": "Tà Mung, Than Uyên, Lai Châu",
+        "path_with_type": "Xã Tà Mung, Huyện Than Uyên, Tỉnh Lai Châu",
+        "code": "03638",
+        "parent_code": "110"
+    },
+    "03640": {
+        "name": "Tà Gia",
+        "type": "xa",
+        "slug": "ta-gia",
+        "name_with_type": "Xã Tà Gia",
+        "path": "Tà Gia, Than Uyên, Lai Châu",
+        "path_with_type": "Xã Tà Gia, Huyện Than Uyên, Tỉnh Lai Châu",
+        "code": "03640",
+        "parent_code": "110"
+    },
+    "03643": {
+        "name": "Khoen On",
+        "type": "xa",
+        "slug": "khoen-on",
+        "name_with_type": "Xã Khoen On",
+        "path": "Khoen On, Than Uyên, Lai Châu",
+        "path_with_type": "Xã Khoen On, Huyện Than Uyên, Tỉnh Lai Châu",
+        "code": "03643",
+        "parent_code": "110"
+    }
+}

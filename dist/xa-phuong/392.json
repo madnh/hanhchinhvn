@@ -1,0 +1,252 @@
+{
+    "15271": {
+        "name": "Hà Trung",
+        "type": "thi-tran",
+        "slug": "ha-trung",
+        "name_with_type": "Thị trấn Hà Trung",
+        "path": "Hà Trung, Hà Trung, Thanh Hóa",
+        "path_with_type": "Thị trấn Hà Trung, Huyện Hà Trung, Tỉnh Thanh Hóa",
+        "code": "15271",
+        "parent_code": "392"
+    },
+    "15274": {
+        "name": "Hà Long",
+        "type": "xa",
+        "slug": "ha-long",
+        "name_with_type": "Xã Hà Long",
+        "path": "Hà Long, Hà Trung, Thanh Hóa",
+        "path_with_type": "Xã Hà Long, Huyện Hà Trung, Tỉnh Thanh Hóa",
+        "code": "15274",
+        "parent_code": "392"
+    },
+    "15277": {
+        "name": "Hà Vinh",
+        "type": "xa",
+        "slug": "ha-vinh",
+        "name_with_type": "Xã Hà Vinh",
+        "path": "Hà Vinh, Hà Trung, Thanh Hóa",
+        "path_with_type": "Xã Hà Vinh, Huyện Hà Trung, Tỉnh Thanh Hóa",
+        "code": "15277",
+        "parent_code": "392"
+    },
+    "15280": {
+        "name": "Hà Bắc",
+        "type": "xa",
+        "slug": "ha-bac",
+        "name_with_type": "Xã Hà Bắc",
+        "path": "Hà Bắc, Hà Trung, Thanh Hóa",
+        "path_with_type": "Xã Hà Bắc, Huyện Hà Trung, Tỉnh Thanh Hóa",
+        "code": "15280",
+        "parent_code": "392"
+    },
+    "15283": {
+        "name": "Hà Vân",
+        "type": "xa",
+        "slug": "ha-van",
+        "name_with_type": "Xã Hà Vân",
+        "path": "Hà Vân, Hà Trung, Thanh Hóa",
+        "path_with_type": "Xã Hà Vân, Huyện Hà Trung, Tỉnh Thanh Hóa",
+        "code": "15283",
+        "parent_code": "392"
+    },
+    "15286": {
+        "name": "Hà Yên",
+        "type": "xa",
+        "slug": "ha-yen",
+        "name_with_type": "Xã Hà Yên",
+        "path": "Hà Yên, Hà Trung, Thanh Hóa",
+        "path_with_type": "Xã Hà Yên, Huyện Hà Trung, Tỉnh Thanh Hóa",
+        "code": "15286",
+        "parent_code": "392"
+    },
+    "15289": {
+        "name": "Hà Thanh",
+        "type": "xa",
+        "slug": "ha-thanh",
+        "name_with_type": "Xã Hà Thanh",
+        "path": "Hà Thanh, Hà Trung, Thanh Hóa",
+        "path_with_type": "Xã Hà Thanh, Huyện Hà Trung, Tỉnh Thanh Hóa",
+        "code": "15289",
+        "parent_code": "392"
+    },
+    "15292": {
+        "name": "Hà Giang",
+        "type": "xa",
+        "slug": "ha-giang",
+        "name_with_type": "Xã Hà Giang",
+        "path": "Hà Giang, Hà Trung, Thanh Hóa",
+        "path_with_type": "Xã Hà Giang, Huyện Hà Trung, Tỉnh Thanh Hóa",
+        "code": "15292",
+        "parent_code": "392"
+    },
+    "15295": {
+        "name": "Hà Dương",
+        "type": "xa",
+        "slug": "ha-duong",
+        "name_with_type": "Xã Hà Dương",
+        "path": "Hà Dương, Hà Trung, Thanh Hóa",
+        "path_with_type": "Xã Hà Dương, Huyện Hà Trung, Tỉnh Thanh Hóa",
+        "code": "15295",
+        "parent_code": "392"
+    },
+    "15298": {
+        "name": "Hà Phú",
+        "type": "xa",
+        "slug": "ha-phu",
+        "name_with_type": "Xã Hà Phú",
+        "path": "Hà Phú, Hà Trung, Thanh Hóa",
+        "path_with_type": "Xã Hà Phú, Huyện Hà Trung, Tỉnh Thanh Hóa",
+        "code": "15298",
+        "parent_code": "392"
+    },
+    "15301": {
+        "name": "Hà Phong",
+        "type": "xa",
+        "slug": "ha-phong",
+        "name_with_type": "Xã Hà Phong",
+        "path": "Hà Phong, Hà Trung, Thanh Hóa",
+        "path_with_type": "Xã Hà Phong, Huyện Hà Trung, Tỉnh Thanh Hóa",
+        "code": "15301",
+        "parent_code": "392"
+    },
+    "15304": {
+        "name": "Hà Ngọc",
+        "type": "xa",
+        "slug": "ha-ngoc",
+        "name_with_type": "Xã Hà Ngọc",
+        "path": "Hà Ngọc, Hà Trung, Thanh Hóa",
+        "path_with_type": "Xã Hà Ngọc, Huyện Hà Trung, Tỉnh Thanh Hóa",
+        "code": "15304",
+        "parent_code": "392"
+    },
+    "15307": {
+        "name": "Hà Ninh",
+        "type": "xa",
+        "slug": "ha-ninh",
+        "name_with_type": "Xã Hà Ninh",
+        "path": "Hà Ninh, Hà Trung, Thanh Hóa",
+        "path_with_type": "Xã Hà Ninh, Huyện Hà Trung, Tỉnh Thanh Hóa",
+        "code": "15307",
+        "parent_code": "392"
+    },
+    "15310": {
+        "name": "Hà Lâm",
+        "type": "xa",
+        "slug": "ha-lam",
+        "name_with_type": "Xã Hà Lâm",
+        "path": "Hà Lâm, Hà Trung, Thanh Hóa",
+        "path_with_type": "Xã Hà Lâm, Huyện Hà Trung, Tỉnh Thanh Hóa",
+        "code": "15310",
+        "parent_code": "392"
+    },
+    "15313": {
+        "name": "Hà Sơn",
+        "type": "xa",
+        "slug": "ha-son",
+        "name_with_type": "Xã Hà Sơn",
+        "path": "Hà Sơn, Hà Trung, Thanh Hóa",
+        "path_with_type": "Xã Hà Sơn, Huyện Hà Trung, Tỉnh Thanh Hóa",
+        "code": "15313",
+        "parent_code": "392"
+    },
+    "15316": {
+        "name": "Hà Lĩnh",
+        "type": "xa",
+        "slug": "ha-linh",
+        "name_with_type": "Xã Hà Lĩnh",
+        "path": "Hà Lĩnh, Hà Trung, Thanh Hóa",
+        "path_with_type": "Xã Hà Lĩnh, Huyện Hà Trung, Tỉnh Thanh Hóa",
+        "code": "15316",
+        "parent_code": "392"
+    },
+    "15319": {
+        "name": "Hà Đông",
+        "type": "xa",
+        "slug": "ha-dong",
+        "name_with_type": "Xã Hà Đông",
+        "path": "Hà Đông, Hà Trung, Thanh Hóa",
+        "path_with_type": "Xã Hà Đông, Huyện Hà Trung, Tỉnh Thanh Hóa",
+        "code": "15319",
+        "parent_code": "392"
+    },
+    "15322": {
+        "name": "Hà Tân",
+        "type": "xa",
+        "slug": "ha-tan",
+        "name_with_type": "Xã Hà Tân",
+        "path": "Hà Tân, Hà Trung, Thanh Hóa",
+        "path_with_type": "Xã Hà Tân, Huyện Hà Trung, Tỉnh Thanh Hóa",
+        "code": "15322",
+        "parent_code": "392"
+    },
+    "15325": {
+        "name": "Hà Tiến",
+        "type": "xa",
+        "slug": "ha-tien",
+        "name_with_type": "Xã Hà Tiến",
+        "path": "Hà Tiến, Hà Trung, Thanh Hóa",
+        "path_with_type": "Xã Hà Tiến, Huyện Hà Trung, Tỉnh Thanh Hóa",
+        "code": "15325",
+        "parent_code": "392"
+    },
+    "15328": {
+        "name": "Hà Bình",
+        "type": "xa",
+        "slug": "ha-binh",
+        "name_with_type": "Xã Hà Bình",
+        "path": "Hà Bình, Hà Trung, Thanh Hóa",
+        "path_with_type": "Xã Hà Bình, Huyện Hà Trung, Tỉnh Thanh Hóa",
+        "code": "15328",
+        "parent_code": "392"
+    },
+    "15331": {
+        "name": "Hà Lai",
+        "type": "xa",
+        "slug": "ha-lai",
+        "name_with_type": "Xã Hà Lai",
+        "path": "Hà Lai, Hà Trung, Thanh Hóa",
+        "path_with_type": "Xã Hà Lai, Huyện Hà Trung, Tỉnh Thanh Hóa",
+        "code": "15331",
+        "parent_code": "392"
+    },
+    "15334": {
+        "name": "Hà Châu",
+        "type": "xa",
+        "slug": "ha-chau",
+        "name_with_type": "Xã Hà Châu",
+        "path": "Hà Châu, Hà Trung, Thanh Hóa",
+        "path_with_type": "Xã Hà Châu, Huyện Hà Trung, Tỉnh Thanh Hóa",
+        "code": "15334",
+        "parent_code": "392"
+    },
+    "15337": {
+        "name": "Hà Toại",
+        "type": "xa",
+        "slug": "ha-toai",
+        "name_with_type": "Xã Hà Toại",
+        "path": "Hà Toại, Hà Trung, Thanh Hóa",
+        "path_with_type": "Xã Hà Toại, Huyện Hà Trung, Tỉnh Thanh Hóa",
+        "code": "15337",
+        "parent_code": "392"
+    },
+    "15340": {
+        "name": "Hà Thái",
+        "type": "xa",
+        "slug": "ha-thai",
+        "name_with_type": "Xã Hà Thái",
+        "path": "Hà Thái, Hà Trung, Thanh Hóa",
+        "path_with_type": "Xã Hà Thái, Huyện Hà Trung, Tỉnh Thanh Hóa",
+        "code": "15340",
+        "parent_code": "392"
+    },
+    "15343": {
+        "name": "Hà Hải",
+        "type": "xa",
+        "slug": "ha-hai",
+        "name_with_type": "Xã Hà Hải",
+        "path": "Hà Hải, Hà Trung, Thanh Hóa",
+        "path_with_type": "Xã Hà Hải, Huyện Hà Trung, Tỉnh Thanh Hóa",
+        "code": "15343",
+        "parent_code": "392"
+    }
+}

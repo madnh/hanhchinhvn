@@ -1,0 +1,102 @@
+{
+    "27757": {
+        "name": "Vĩnh Hưng",
+        "type": "thi-tran",
+        "slug": "vinh-hung",
+        "name_with_type": "Thị trấn Vĩnh Hưng",
+        "path": "Vĩnh Hưng, Vĩnh Hưng, Long An",
+        "path_with_type": "Thị trấn Vĩnh Hưng, Huyện Vĩnh Hưng, Tỉnh Long An",
+        "code": "27757",
+        "parent_code": "797"
+    },
+    "27760": {
+        "name": "Hưng Điền A",
+        "type": "xa",
+        "slug": "hung-dien-a",
+        "name_with_type": "Xã Hưng Điền A",
+        "path": "Hưng Điền A, Vĩnh Hưng, Long An",
+        "path_with_type": "Xã Hưng Điền A, Huyện Vĩnh Hưng, Tỉnh Long An",
+        "code": "27760",
+        "parent_code": "797"
+    },
+    "27763": {
+        "name": "Khánh Hưng",
+        "type": "xa",
+        "slug": "khanh-hung",
+        "name_with_type": "Xã Khánh Hưng",
+        "path": "Khánh Hưng, Vĩnh Hưng, Long An",
+        "path_with_type": "Xã Khánh Hưng, Huyện Vĩnh Hưng, Tỉnh Long An",
+        "code": "27763",
+        "parent_code": "797"
+    },
+    "27766": {
+        "name": "Thái Trị",
+        "type": "xa",
+        "slug": "thai-tri",
+        "name_with_type": "Xã Thái Trị",
+        "path": "Thái Trị, Vĩnh Hưng, Long An",
+        "path_with_type": "Xã Thái Trị, Huyện Vĩnh Hưng, Tỉnh Long An",
+        "code": "27766",
+        "parent_code": "797"
+    },
+    "27769": {
+        "name": "Vĩnh Trị",
+        "type": "xa",
+        "slug": "vinh-tri",
+        "name_with_type": "Xã Vĩnh Trị",
+        "path": "Vĩnh Trị, Vĩnh Hưng, Long An",
+        "path_with_type": "Xã Vĩnh Trị, Huyện Vĩnh Hưng, Tỉnh Long An",
+        "code": "27769",
+        "parent_code": "797"
+    },
+    "27772": {
+        "name": "Thái Bình Trung",
+        "type": "xa",
+        "slug": "thai-binh-trung",
+        "name_with_type": "Xã Thái Bình Trung",
+        "path": "Thái Bình Trung, Vĩnh Hưng, Long An",
+        "path_with_type": "Xã Thái Bình Trung, Huyện Vĩnh Hưng, Tỉnh Long An",
+        "code": "27772",
+        "parent_code": "797"
+    },
+    "27775": {
+        "name": "Vĩnh Bình",
+        "type": "xa",
+        "slug": "vinh-binh",
+        "name_with_type": "Xã Vĩnh Bình",
+        "path": "Vĩnh Bình, Vĩnh Hưng, Long An",
+        "path_with_type": "Xã Vĩnh Bình, Huyện Vĩnh Hưng, Tỉnh Long An",
+        "code": "27775",
+        "parent_code": "797"
+    },
+    "27778": {
+        "name": "Vĩnh Thuận",
+        "type": "xa",
+        "slug": "vinh-thuan",
+        "name_with_type": "Xã Vĩnh Thuận",
+        "path": "Vĩnh Thuận, Vĩnh Hưng, Long An",
+        "path_with_type": "Xã Vĩnh Thuận, Huyện Vĩnh Hưng, Tỉnh Long An",
+        "code": "27778",
+        "parent_code": "797"
+    },
+    "27781": {
+        "name": "Tuyên Bình",
+        "type": "xa",
+        "slug": "tuyen-binh",
+        "name_with_type": "Xã Tuyên Bình",
+        "path": "Tuyên Bình, Vĩnh Hưng, Long An",
+        "path_with_type": "Xã Tuyên Bình, Huyện Vĩnh Hưng, Tỉnh Long An",
+        "code": "27781",
+        "parent_code": "797"
+    },
+    "27784": {
+        "name": "Tuyên Bình Tây",
+        "type": "xa",
+        "slug": "tuyen-binh-tay",
+        "name_with_type": "Xã Tuyên Bình Tây",
+        "path": "Tuyên Bình Tây, Vĩnh Hưng, Long An",
+        "path_with_type": "Xã Tuyên Bình Tây, Huyện Vĩnh Hưng, Tỉnh Long An",
+        "code": "27784",
+        "parent_code": "797"
+    }
+}

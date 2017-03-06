@@ -1,0 +1,222 @@
+{
+    "04105": {
+        "name": "Hát Lót",
+        "type": "thi-tran",
+        "slug": "hat-lot",
+        "name_with_type": "Thị trấn Hát Lót",
+        "path": "Hát Lót, Mai Sơn, Sơn La",
+        "path_with_type": "Thị trấn Hát Lót, Huyện Mai Sơn, Tỉnh Sơn La",
+        "code": "04105",
+        "parent_code": "125"
+    },
+    "04108": {
+        "name": "Chiềng Sung",
+        "type": "xa",
+        "slug": "chieng-sung",
+        "name_with_type": "Xã Chiềng Sung",
+        "path": "Chiềng Sung, Mai Sơn, Sơn La",
+        "path_with_type": "Xã Chiềng Sung, Huyện Mai Sơn, Tỉnh Sơn La",
+        "code": "04108",
+        "parent_code": "125"
+    },
+    "04111": {
+        "name": "Mường Bằng",
+        "type": "xa",
+        "slug": "muong-bang",
+        "name_with_type": "Xã Mường Bằng",
+        "path": "Mường Bằng, Mai Sơn, Sơn La",
+        "path_with_type": "Xã Mường Bằng, Huyện Mai Sơn, Tỉnh Sơn La",
+        "code": "04111",
+        "parent_code": "125"
+    },
+    "04114": {
+        "name": "Chiềng Chăn",
+        "type": "xa",
+        "slug": "chieng-chan",
+        "name_with_type": "Xã Chiềng Chăn",
+        "path": "Chiềng Chăn, Mai Sơn, Sơn La",
+        "path_with_type": "Xã Chiềng Chăn, Huyện Mai Sơn, Tỉnh Sơn La",
+        "code": "04114",
+        "parent_code": "125"
+    },
+    "04117": {
+        "name": "Mương Tranh",
+        "type": "xa",
+        "slug": "muong-tranh",
+        "name_with_type": "Xã Mương Tranh",
+        "path": "Mương Tranh, Mai Sơn, Sơn La",
+        "path_with_type": "Xã Mương Tranh, Huyện Mai Sơn, Tỉnh Sơn La",
+        "code": "04117",
+        "parent_code": "125"
+    },
+    "04120": {
+        "name": "Chiềng Ban",
+        "type": "xa",
+        "slug": "chieng-ban",
+        "name_with_type": "Xã Chiềng Ban",
+        "path": "Chiềng Ban, Mai Sơn, Sơn La",
+        "path_with_type": "Xã Chiềng Ban, Huyện Mai Sơn, Tỉnh Sơn La",
+        "code": "04120",
+        "parent_code": "125"
+    },
+    "04123": {
+        "name": "Chiềng Mung",
+        "type": "xa",
+        "slug": "chieng-mung",
+        "name_with_type": "Xã Chiềng Mung",
+        "path": "Chiềng Mung, Mai Sơn, Sơn La",
+        "path_with_type": "Xã Chiềng Mung, Huyện Mai Sơn, Tỉnh Sơn La",
+        "code": "04123",
+        "parent_code": "125"
+    },
+    "04126": {
+        "name": "Mường Bon",
+        "type": "xa",
+        "slug": "muong-bon",
+        "name_with_type": "Xã Mường Bon",
+        "path": "Mường Bon, Mai Sơn, Sơn La",
+        "path_with_type": "Xã Mường Bon, Huyện Mai Sơn, Tỉnh Sơn La",
+        "code": "04126",
+        "parent_code": "125"
+    },
+    "04129": {
+        "name": "Chiềng Chung",
+        "type": "xa",
+        "slug": "chieng-chung",
+        "name_with_type": "Xã Chiềng Chung",
+        "path": "Chiềng Chung, Mai Sơn, Sơn La",
+        "path_with_type": "Xã Chiềng Chung, Huyện Mai Sơn, Tỉnh Sơn La",
+        "code": "04129",
+        "parent_code": "125"
+    },
+    "04132": {
+        "name": "Chiềng Mai",
+        "type": "xa",
+        "slug": "chieng-mai",
+        "name_with_type": "Xã Chiềng Mai",
+        "path": "Chiềng Mai, Mai Sơn, Sơn La",
+        "path_with_type": "Xã Chiềng Mai, Huyện Mai Sơn, Tỉnh Sơn La",
+        "code": "04132",
+        "parent_code": "125"
+    },
+    "04135": {
+        "name": "Hát Lót",
+        "type": "xa",
+        "slug": "hat-lot",
+        "name_with_type": "Xã Hát Lót",
+        "path": "Hát Lót, Mai Sơn, Sơn La",
+        "path_with_type": "Xã Hát Lót, Huyện Mai Sơn, Tỉnh Sơn La",
+        "code": "04135",
+        "parent_code": "125"
+    },
+    "04136": {
+        "name": "Nà Pó",
+        "type": "xa",
+        "slug": "na-po",
+        "name_with_type": "Xã Nà Pó",
+        "path": "Nà Pó, Mai Sơn, Sơn La",
+        "path_with_type": "Xã Nà Pó, Huyện Mai Sơn, Tỉnh Sơn La",
+        "code": "04136",
+        "parent_code": "125"
+    },
+    "04138": {
+        "name": "Cò  Nòi",
+        "type": "xa",
+        "slug": "co-noi",
+        "name_with_type": "Xã Cò  Nòi",
+        "path": "Cò  Nòi, Mai Sơn, Sơn La",
+        "path_with_type": "Xã Cò  Nòi, Huyện Mai Sơn, Tỉnh Sơn La",
+        "code": "04138",
+        "parent_code": "125"
+    },
+    "04141": {
+        "name": "Chiềng Nơi",
+        "type": "xa",
+        "slug": "chieng-noi",
+        "name_with_type": "Xã Chiềng Nơi",
+        "path": "Chiềng Nơi, Mai Sơn, Sơn La",
+        "path_with_type": "Xã Chiềng Nơi, Huyện Mai Sơn, Tỉnh Sơn La",
+        "code": "04141",
+        "parent_code": "125"
+    },
+    "04144": {
+        "name": "Phiêng Cằm",
+        "type": "xa",
+        "slug": "phieng-cam",
+        "name_with_type": "Xã Phiêng Cằm",
+        "path": "Phiêng Cằm, Mai Sơn, Sơn La",
+        "path_with_type": "Xã Phiêng Cằm, Huyện Mai Sơn, Tỉnh Sơn La",
+        "code": "04144",
+        "parent_code": "125"
+    },
+    "04147": {
+        "name": "Chiềng Dong",
+        "type": "xa",
+        "slug": "chieng-dong",
+        "name_with_type": "Xã Chiềng Dong",
+        "path": "Chiềng Dong, Mai Sơn, Sơn La",
+        "path_with_type": "Xã Chiềng Dong, Huyện Mai Sơn, Tỉnh Sơn La",
+        "code": "04147",
+        "parent_code": "125"
+    },
+    "04150": {
+        "name": "Chiềng Kheo",
+        "type": "xa",
+        "slug": "chieng-kheo",
+        "name_with_type": "Xã Chiềng Kheo",
+        "path": "Chiềng Kheo, Mai Sơn, Sơn La",
+        "path_with_type": "Xã Chiềng Kheo, Huyện Mai Sơn, Tỉnh Sơn La",
+        "code": "04150",
+        "parent_code": "125"
+    },
+    "04153": {
+        "name": "Chiềng Ve",
+        "type": "xa",
+        "slug": "chieng-ve",
+        "name_with_type": "Xã Chiềng Ve",
+        "path": "Chiềng Ve, Mai Sơn, Sơn La",
+        "path_with_type": "Xã Chiềng Ve, Huyện Mai Sơn, Tỉnh Sơn La",
+        "code": "04153",
+        "parent_code": "125"
+    },
+    "04156": {
+        "name": "Chiềng Lương",
+        "type": "xa",
+        "slug": "chieng-luong",
+        "name_with_type": "Xã Chiềng Lương",
+        "path": "Chiềng Lương, Mai Sơn, Sơn La",
+        "path_with_type": "Xã Chiềng Lương, Huyện Mai Sơn, Tỉnh Sơn La",
+        "code": "04156",
+        "parent_code": "125"
+    },
+    "04159": {
+        "name": "Phiêng Pằn",
+        "type": "xa",
+        "slug": "phieng-pan",
+        "name_with_type": "Xã Phiêng Pằn",
+        "path": "Phiêng Pằn, Mai Sơn, Sơn La",
+        "path_with_type": "Xã Phiêng Pằn, Huyện Mai Sơn, Tỉnh Sơn La",
+        "code": "04159",
+        "parent_code": "125"
+    },
+    "04162": {
+        "name": "Nà Ơt",
+        "type": "xa",
+        "slug": "na-ot",
+        "name_with_type": "Xã Nà Ơt",
+        "path": "Nà Ơt, Mai Sơn, Sơn La",
+        "path_with_type": "Xã Nà Ơt, Huyện Mai Sơn, Tỉnh Sơn La",
+        "code": "04162",
+        "parent_code": "125"
+    },
+    "04165": {
+        "name": "Tà Hộc",
+        "type": "xa",
+        "slug": "ta-hoc",
+        "name_with_type": "Xã Tà Hộc",
+        "path": "Tà Hộc, Mai Sơn, Sơn La",
+        "path_with_type": "Xã Tà Hộc, Huyện Mai Sơn, Tỉnh Sơn La",
+        "code": "04165",
+        "parent_code": "125"
+    }
+}

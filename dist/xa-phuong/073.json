@@ -1,0 +1,262 @@
+{
+    "02287": {
+        "name": "Vĩnh Lộc",
+        "type": "thi-tran",
+        "slug": "vinh-loc",
+        "name_with_type": "Thị trấn Vĩnh Lộc",
+        "path": "Vĩnh Lộc, Chiêm Hóa, Tuyên Quang",
+        "path_with_type": "Thị trấn Vĩnh Lộc, Huyện Chiêm Hóa, Tỉnh Tuyên Quang",
+        "code": "02287",
+        "parent_code": "073"
+    },
+    "02299": {
+        "name": "Phúc Sơn",
+        "type": "xa",
+        "slug": "phuc-son",
+        "name_with_type": "Xã Phúc Sơn",
+        "path": "Phúc Sơn, Chiêm Hóa, Tuyên Quang",
+        "path_with_type": "Xã Phúc Sơn, Huyện Chiêm Hóa, Tỉnh Tuyên Quang",
+        "code": "02299",
+        "parent_code": "073"
+    },
+    "02302": {
+        "name": "Minh Quang",
+        "type": "xa",
+        "slug": "minh-quang",
+        "name_with_type": "Xã Minh Quang",
+        "path": "Minh Quang, Chiêm Hóa, Tuyên Quang",
+        "path_with_type": "Xã Minh Quang, Huyện Chiêm Hóa, Tỉnh Tuyên Quang",
+        "code": "02302",
+        "parent_code": "073"
+    },
+    "02305": {
+        "name": "Trung Hà",
+        "type": "xa",
+        "slug": "trung-ha",
+        "name_with_type": "Xã Trung Hà",
+        "path": "Trung Hà, Chiêm Hóa, Tuyên Quang",
+        "path_with_type": "Xã Trung Hà, Huyện Chiêm Hóa, Tỉnh Tuyên Quang",
+        "code": "02305",
+        "parent_code": "073"
+    },
+    "02308": {
+        "name": "Tân Mỹ",
+        "type": "xa",
+        "slug": "tan-my",
+        "name_with_type": "Xã Tân Mỹ",
+        "path": "Tân Mỹ, Chiêm Hóa, Tuyên Quang",
+        "path_with_type": "Xã Tân Mỹ, Huyện Chiêm Hóa, Tỉnh Tuyên Quang",
+        "code": "02308",
+        "parent_code": "073"
+    },
+    "02311": {
+        "name": "Hà Lang",
+        "type": "xa",
+        "slug": "ha-lang",
+        "name_with_type": "Xã Hà Lang",
+        "path": "Hà Lang, Chiêm Hóa, Tuyên Quang",
+        "path_with_type": "Xã Hà Lang, Huyện Chiêm Hóa, Tỉnh Tuyên Quang",
+        "code": "02311",
+        "parent_code": "073"
+    },
+    "02314": {
+        "name": "Hùng Mỹ",
+        "type": "xa",
+        "slug": "hung-my",
+        "name_with_type": "Xã Hùng Mỹ",
+        "path": "Hùng Mỹ, Chiêm Hóa, Tuyên Quang",
+        "path_with_type": "Xã Hùng Mỹ, Huyện Chiêm Hóa, Tỉnh Tuyên Quang",
+        "code": "02314",
+        "parent_code": "073"
+    },
+    "02317": {
+        "name": "Yên Lập",
+        "type": "xa",
+        "slug": "yen-lap",
+        "name_with_type": "Xã Yên Lập",
+        "path": "Yên Lập, Chiêm Hóa, Tuyên Quang",
+        "path_with_type": "Xã Yên Lập, Huyện Chiêm Hóa, Tỉnh Tuyên Quang",
+        "code": "02317",
+        "parent_code": "073"
+    },
+    "02320": {
+        "name": "Tân An",
+        "type": "xa",
+        "slug": "tan-an",
+        "name_with_type": "Xã Tân An",
+        "path": "Tân An, Chiêm Hóa, Tuyên Quang",
+        "path_with_type": "Xã Tân An, Huyện Chiêm Hóa, Tỉnh Tuyên Quang",
+        "code": "02320",
+        "parent_code": "073"
+    },
+    "02323": {
+        "name": "Bình Phú",
+        "type": "xa",
+        "slug": "binh-phu",
+        "name_with_type": "Xã Bình Phú",
+        "path": "Bình Phú, Chiêm Hóa, Tuyên Quang",
+        "path_with_type": "Xã Bình Phú, Huyện Chiêm Hóa, Tỉnh Tuyên Quang",
+        "code": "02323",
+        "parent_code": "073"
+    },
+    "02326": {
+        "name": "Xuân Quang",
+        "type": "xa",
+        "slug": "xuan-quang",
+        "name_with_type": "Xã Xuân Quang",
+        "path": "Xuân Quang, Chiêm Hóa, Tuyên Quang",
+        "path_with_type": "Xã Xuân Quang, Huyện Chiêm Hóa, Tỉnh Tuyên Quang",
+        "code": "02326",
+        "parent_code": "073"
+    },
+    "02329": {
+        "name": "Ngọc Hội",
+        "type": "xa",
+        "slug": "ngoc-hoi",
+        "name_with_type": "Xã Ngọc Hội",
+        "path": "Ngọc Hội, Chiêm Hóa, Tuyên Quang",
+        "path_with_type": "Xã Ngọc Hội, Huyện Chiêm Hóa, Tỉnh Tuyên Quang",
+        "code": "02329",
+        "parent_code": "073"
+    },
+    "02332": {
+        "name": "Phú Bình",
+        "type": "xa",
+        "slug": "phu-binh",
+        "name_with_type": "Xã Phú Bình",
+        "path": "Phú Bình, Chiêm Hóa, Tuyên Quang",
+        "path_with_type": "Xã Phú Bình, Huyện Chiêm Hóa, Tỉnh Tuyên Quang",
+        "code": "02332",
+        "parent_code": "073"
+    },
+    "02335": {
+        "name": "Hòa Phú",
+        "type": "xa",
+        "slug": "hoa-phu",
+        "name_with_type": "Xã Hòa Phú",
+        "path": "Hòa Phú, Chiêm Hóa, Tuyên Quang",
+        "path_with_type": "Xã Hòa Phú, Huyện Chiêm Hóa, Tỉnh Tuyên Quang",
+        "code": "02335",
+        "parent_code": "073"
+    },
+    "02338": {
+        "name": "Phúc Thịnh",
+        "type": "xa",
+        "slug": "phuc-thinh",
+        "name_with_type": "Xã Phúc Thịnh",
+        "path": "Phúc Thịnh, Chiêm Hóa, Tuyên Quang",
+        "path_with_type": "Xã Phúc Thịnh, Huyện Chiêm Hóa, Tỉnh Tuyên Quang",
+        "code": "02338",
+        "parent_code": "073"
+    },
+    "02341": {
+        "name": "Kiên Đài",
+        "type": "xa",
+        "slug": "kien-dai",
+        "name_with_type": "Xã Kiên Đài",
+        "path": "Kiên Đài, Chiêm Hóa, Tuyên Quang",
+        "path_with_type": "Xã Kiên Đài, Huyện Chiêm Hóa, Tỉnh Tuyên Quang",
+        "code": "02341",
+        "parent_code": "073"
+    },
+    "02344": {
+        "name": "Tân Thịnh",
+        "type": "xa",
+        "slug": "tan-thinh",
+        "name_with_type": "Xã Tân Thịnh",
+        "path": "Tân Thịnh, Chiêm Hóa, Tuyên Quang",
+        "path_with_type": "Xã Tân Thịnh, Huyện Chiêm Hóa, Tỉnh Tuyên Quang",
+        "code": "02344",
+        "parent_code": "073"
+    },
+    "02347": {
+        "name": "Trung Hòa",
+        "type": "xa",
+        "slug": "trung-hoa",
+        "name_with_type": "Xã Trung Hòa",
+        "path": "Trung Hòa, Chiêm Hóa, Tuyên Quang",
+        "path_with_type": "Xã Trung Hòa, Huyện Chiêm Hóa, Tỉnh Tuyên Quang",
+        "code": "02347",
+        "parent_code": "073"
+    },
+    "02350": {
+        "name": "Kim Bình",
+        "type": "xa",
+        "slug": "kim-binh",
+        "name_with_type": "Xã Kim Bình",
+        "path": "Kim Bình, Chiêm Hóa, Tuyên Quang",
+        "path_with_type": "Xã Kim Bình, Huyện Chiêm Hóa, Tỉnh Tuyên Quang",
+        "code": "02350",
+        "parent_code": "073"
+    },
+    "02353": {
+        "name": "Hòa An",
+        "type": "xa",
+        "slug": "hoa-an",
+        "name_with_type": "Xã Hòa An",
+        "path": "Hòa An, Chiêm Hóa, Tuyên Quang",
+        "path_with_type": "Xã Hòa An, Huyện Chiêm Hóa, Tỉnh Tuyên Quang",
+        "code": "02353",
+        "parent_code": "073"
+    },
+    "02356": {
+        "name": "Vinh Quang",
+        "type": "xa",
+        "slug": "vinh-quang",
+        "name_with_type": "Xã Vinh Quang",
+        "path": "Vinh Quang, Chiêm Hóa, Tuyên Quang",
+        "path_with_type": "Xã Vinh Quang, Huyện Chiêm Hóa, Tỉnh Tuyên Quang",
+        "code": "02356",
+        "parent_code": "073"
+    },
+    "02359": {
+        "name": "Tri Phú",
+        "type": "xa",
+        "slug": "tri-phu",
+        "name_with_type": "Xã Tri Phú",
+        "path": "Tri Phú, Chiêm Hóa, Tuyên Quang",
+        "path_with_type": "Xã Tri Phú, Huyện Chiêm Hóa, Tỉnh Tuyên Quang",
+        "code": "02359",
+        "parent_code": "073"
+    },
+    "02362": {
+        "name": "Nhân Lý",
+        "type": "xa",
+        "slug": "nhan-ly",
+        "name_with_type": "Xã Nhân Lý",
+        "path": "Nhân Lý, Chiêm Hóa, Tuyên Quang",
+        "path_with_type": "Xã Nhân Lý, Huyện Chiêm Hóa, Tỉnh Tuyên Quang",
+        "code": "02362",
+        "parent_code": "073"
+    },
+    "02365": {
+        "name": "Yên Nguyên",
+        "type": "xa",
+        "slug": "yen-nguyen",
+        "name_with_type": "Xã Yên Nguyên",
+        "path": "Yên Nguyên, Chiêm Hóa, Tuyên Quang",
+        "path_with_type": "Xã Yên Nguyên, Huyện Chiêm Hóa, Tỉnh Tuyên Quang",
+        "code": "02365",
+        "parent_code": "073"
+    },
+    "02368": {
+        "name": "Linh Phú",
+        "type": "xa",
+        "slug": "linh-phu",
+        "name_with_type": "Xã Linh Phú",
+        "path": "Linh Phú, Chiêm Hóa, Tuyên Quang",
+        "path_with_type": "Xã Linh Phú, Huyện Chiêm Hóa, Tỉnh Tuyên Quang",
+        "code": "02368",
+        "parent_code": "073"
+    },
+    "02371": {
+        "name": "Bình Nhân",
+        "type": "xa",
+        "slug": "binh-nhan",
+        "name_with_type": "Xã Bình Nhân",
+        "path": "Bình Nhân, Chiêm Hóa, Tuyên Quang",
+        "path_with_type": "Xã Bình Nhân, Huyện Chiêm Hóa, Tỉnh Tuyên Quang",
+        "code": "02371",
+        "parent_code": "073"
+    }
+}

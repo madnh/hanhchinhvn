@@ -1,0 +1,202 @@
+{
+    "15127": {
+        "name": "Cẩm Thủy",
+        "type": "thi-tran",
+        "slug": "cam-thuy",
+        "name_with_type": "Thị trấn Cẩm Thủy",
+        "path": "Cẩm Thủy, Cẩm Thủy, Thanh Hóa",
+        "path_with_type": "Thị trấn Cẩm Thủy, Huyện Cẩm Thủy, Tỉnh Thanh Hóa",
+        "code": "15127",
+        "parent_code": "390"
+    },
+    "15130": {
+        "name": "Phúc Do",
+        "type": "xa",
+        "slug": "phuc-do",
+        "name_with_type": "Xã Phúc Do",
+        "path": "Phúc Do, Cẩm Thủy, Thanh Hóa",
+        "path_with_type": "Xã Phúc Do, Huyện Cẩm Thủy, Tỉnh Thanh Hóa",
+        "code": "15130",
+        "parent_code": "390"
+    },
+    "15133": {
+        "name": "Cẩm Thành",
+        "type": "xa",
+        "slug": "cam-thanh",
+        "name_with_type": "Xã Cẩm Thành",
+        "path": "Cẩm Thành, Cẩm Thủy, Thanh Hóa",
+        "path_with_type": "Xã Cẩm Thành, Huyện Cẩm Thủy, Tỉnh Thanh Hóa",
+        "code": "15133",
+        "parent_code": "390"
+    },
+    "15136": {
+        "name": "Cẩm Quý",
+        "type": "xa",
+        "slug": "cam-quy",
+        "name_with_type": "Xã Cẩm Quý",
+        "path": "Cẩm Quý, Cẩm Thủy, Thanh Hóa",
+        "path_with_type": "Xã Cẩm Quý, Huyện Cẩm Thủy, Tỉnh Thanh Hóa",
+        "code": "15136",
+        "parent_code": "390"
+    },
+    "15139": {
+        "name": "Cẩm Lương",
+        "type": "xa",
+        "slug": "cam-luong",
+        "name_with_type": "Xã Cẩm Lương",
+        "path": "Cẩm Lương, Cẩm Thủy, Thanh Hóa",
+        "path_with_type": "Xã Cẩm Lương, Huyện Cẩm Thủy, Tỉnh Thanh Hóa",
+        "code": "15139",
+        "parent_code": "390"
+    },
+    "15142": {
+        "name": "Cẩm Thạch",
+        "type": "xa",
+        "slug": "cam-thach",
+        "name_with_type": "Xã Cẩm Thạch",
+        "path": "Cẩm Thạch, Cẩm Thủy, Thanh Hóa",
+        "path_with_type": "Xã Cẩm Thạch, Huyện Cẩm Thủy, Tỉnh Thanh Hóa",
+        "code": "15142",
+        "parent_code": "390"
+    },
+    "15145": {
+        "name": "Cẩm Liên",
+        "type": "xa",
+        "slug": "cam-lien",
+        "name_with_type": "Xã Cẩm Liên",
+        "path": "Cẩm Liên, Cẩm Thủy, Thanh Hóa",
+        "path_with_type": "Xã Cẩm Liên, Huyện Cẩm Thủy, Tỉnh Thanh Hóa",
+        "code": "15145",
+        "parent_code": "390"
+    },
+    "15148": {
+        "name": "Cẩm Giang",
+        "type": "xa",
+        "slug": "cam-giang",
+        "name_with_type": "Xã Cẩm Giang",
+        "path": "Cẩm Giang, Cẩm Thủy, Thanh Hóa",
+        "path_with_type": "Xã Cẩm Giang, Huyện Cẩm Thủy, Tỉnh Thanh Hóa",
+        "code": "15148",
+        "parent_code": "390"
+    },
+    "15151": {
+        "name": "Cẩm Bình",
+        "type": "xa",
+        "slug": "cam-binh",
+        "name_with_type": "Xã Cẩm Bình",
+        "path": "Cẩm Bình, Cẩm Thủy, Thanh Hóa",
+        "path_with_type": "Xã Cẩm Bình, Huyện Cẩm Thủy, Tỉnh Thanh Hóa",
+        "code": "15151",
+        "parent_code": "390"
+    },
+    "15154": {
+        "name": "Cẩm Tú",
+        "type": "xa",
+        "slug": "cam-tu",
+        "name_with_type": "Xã Cẩm Tú",
+        "path": "Cẩm Tú, Cẩm Thủy, Thanh Hóa",
+        "path_with_type": "Xã Cẩm Tú, Huyện Cẩm Thủy, Tỉnh Thanh Hóa",
+        "code": "15154",
+        "parent_code": "390"
+    },
+    "15157": {
+        "name": "Cẩm Sơn",
+        "type": "xa",
+        "slug": "cam-son",
+        "name_with_type": "Xã Cẩm Sơn",
+        "path": "Cẩm Sơn, Cẩm Thủy, Thanh Hóa",
+        "path_with_type": "Xã Cẩm Sơn, Huyện Cẩm Thủy, Tỉnh Thanh Hóa",
+        "code": "15157",
+        "parent_code": "390"
+    },
+    "15160": {
+        "name": "Cẩm Châu",
+        "type": "xa",
+        "slug": "cam-chau",
+        "name_with_type": "Xã Cẩm Châu",
+        "path": "Cẩm Châu, Cẩm Thủy, Thanh Hóa",
+        "path_with_type": "Xã Cẩm Châu, Huyện Cẩm Thủy, Tỉnh Thanh Hóa",
+        "code": "15160",
+        "parent_code": "390"
+    },
+    "15163": {
+        "name": "Cẩm Tâm",
+        "type": "xa",
+        "slug": "cam-tam",
+        "name_with_type": "Xã Cẩm Tâm",
+        "path": "Cẩm Tâm, Cẩm Thủy, Thanh Hóa",
+        "path_with_type": "Xã Cẩm Tâm, Huyện Cẩm Thủy, Tỉnh Thanh Hóa",
+        "code": "15163",
+        "parent_code": "390"
+    },
+    "15166": {
+        "name": "Cẩm Phong",
+        "type": "xa",
+        "slug": "cam-phong",
+        "name_with_type": "Xã Cẩm Phong",
+        "path": "Cẩm Phong, Cẩm Thủy, Thanh Hóa",
+        "path_with_type": "Xã Cẩm Phong, Huyện Cẩm Thủy, Tỉnh Thanh Hóa",
+        "code": "15166",
+        "parent_code": "390"
+    },
+    "15169": {
+        "name": "Cẩm Ngọc",
+        "type": "xa",
+        "slug": "cam-ngoc",
+        "name_with_type": "Xã Cẩm Ngọc",
+        "path": "Cẩm Ngọc, Cẩm Thủy, Thanh Hóa",
+        "path_with_type": "Xã Cẩm Ngọc, Huyện Cẩm Thủy, Tỉnh Thanh Hóa",
+        "code": "15169",
+        "parent_code": "390"
+    },
+    "15172": {
+        "name": "Cẩm Long",
+        "type": "xa",
+        "slug": "cam-long",
+        "name_with_type": "Xã Cẩm Long",
+        "path": "Cẩm Long, Cẩm Thủy, Thanh Hóa",
+        "path_with_type": "Xã Cẩm Long, Huyện Cẩm Thủy, Tỉnh Thanh Hóa",
+        "code": "15172",
+        "parent_code": "390"
+    },
+    "15175": {
+        "name": "Cẩm Yên",
+        "type": "xa",
+        "slug": "cam-yen",
+        "name_with_type": "Xã Cẩm Yên",
+        "path": "Cẩm Yên, Cẩm Thủy, Thanh Hóa",
+        "path_with_type": "Xã Cẩm Yên, Huyện Cẩm Thủy, Tỉnh Thanh Hóa",
+        "code": "15175",
+        "parent_code": "390"
+    },
+    "15178": {
+        "name": "Cẩm Tân",
+        "type": "xa",
+        "slug": "cam-tan",
+        "name_with_type": "Xã Cẩm Tân",
+        "path": "Cẩm Tân, Cẩm Thủy, Thanh Hóa",
+        "path_with_type": "Xã Cẩm Tân, Huyện Cẩm Thủy, Tỉnh Thanh Hóa",
+        "code": "15178",
+        "parent_code": "390"
+    },
+    "15181": {
+        "name": "Cẩm Phú",
+        "type": "xa",
+        "slug": "cam-phu",
+        "name_with_type": "Xã Cẩm Phú",
+        "path": "Cẩm Phú, Cẩm Thủy, Thanh Hóa",
+        "path_with_type": "Xã Cẩm Phú, Huyện Cẩm Thủy, Tỉnh Thanh Hóa",
+        "code": "15181",
+        "parent_code": "390"
+    },
+    "15184": {
+        "name": "Cẩm Vân",
+        "type": "xa",
+        "slug": "cam-van",
+        "name_with_type": "Xã Cẩm Vân",
+        "path": "Cẩm Vân, Cẩm Thủy, Thanh Hóa",
+        "path_with_type": "Xã Cẩm Vân, Huyện Cẩm Thủy, Tỉnh Thanh Hóa",
+        "code": "15184",
+        "parent_code": "390"
+    }
+}

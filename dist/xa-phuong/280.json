@@ -1,0 +1,282 @@
+{
+    "10270": {
+        "name": "Phú Minh",
+        "type": "thi-tran",
+        "slug": "phu-minh",
+        "name_with_type": "Thị trấn Phú Minh",
+        "path": "Phú Minh, Phú Xuyên, Hà Nội",
+        "path_with_type": "Thị trấn Phú Minh, Huyện Phú Xuyên, Thành phố Hà Nội",
+        "code": "10270",
+        "parent_code": "280"
+    },
+    "10273": {
+        "name": "Phú Xuyên",
+        "type": "thi-tran",
+        "slug": "phu-xuyen",
+        "name_with_type": "Thị trấn Phú Xuyên",
+        "path": "Phú Xuyên, Phú Xuyên, Hà Nội",
+        "path_with_type": "Thị trấn Phú Xuyên, Huyện Phú Xuyên, Thành phố Hà Nội",
+        "code": "10273",
+        "parent_code": "280"
+    },
+    "10276": {
+        "name": "Hồng Minh",
+        "type": "xa",
+        "slug": "hong-minh",
+        "name_with_type": "Xã Hồng Minh",
+        "path": "Hồng Minh, Phú Xuyên, Hà Nội",
+        "path_with_type": "Xã Hồng Minh, Huyện Phú Xuyên, Thành phố Hà Nội",
+        "code": "10276",
+        "parent_code": "280"
+    },
+    "10279": {
+        "name": "Phượng Dực",
+        "type": "xa",
+        "slug": "phuong-duc",
+        "name_with_type": "Xã Phượng Dực",
+        "path": "Phượng Dực, Phú Xuyên, Hà Nội",
+        "path_with_type": "Xã Phượng Dực, Huyện Phú Xuyên, Thành phố Hà Nội",
+        "code": "10279",
+        "parent_code": "280"
+    },
+    "10282": {
+        "name": "Văn Nhân",
+        "type": "xa",
+        "slug": "van-nhan",
+        "name_with_type": "Xã Văn Nhân",
+        "path": "Văn Nhân, Phú Xuyên, Hà Nội",
+        "path_with_type": "Xã Văn Nhân, Huyện Phú Xuyên, Thành phố Hà Nội",
+        "code": "10282",
+        "parent_code": "280"
+    },
+    "10285": {
+        "name": "Thụy Phú",
+        "type": "xa",
+        "slug": "thuy-phu",
+        "name_with_type": "Xã Thụy Phú",
+        "path": "Thụy Phú, Phú Xuyên, Hà Nội",
+        "path_with_type": "Xã Thụy Phú, Huyện Phú Xuyên, Thành phố Hà Nội",
+        "code": "10285",
+        "parent_code": "280"
+    },
+    "10288": {
+        "name": "Tri Trung",
+        "type": "xa",
+        "slug": "tri-trung",
+        "name_with_type": "Xã Tri Trung",
+        "path": "Tri Trung, Phú Xuyên, Hà Nội",
+        "path_with_type": "Xã Tri Trung, Huyện Phú Xuyên, Thành phố Hà Nội",
+        "code": "10288",
+        "parent_code": "280"
+    },
+    "10291": {
+        "name": "Đại Thắng",
+        "type": "xa",
+        "slug": "dai-thang",
+        "name_with_type": "Xã Đại Thắng",
+        "path": "Đại Thắng, Phú Xuyên, Hà Nội",
+        "path_with_type": "Xã Đại Thắng, Huyện Phú Xuyên, Thành phố Hà Nội",
+        "code": "10291",
+        "parent_code": "280"
+    },
+    "10294": {
+        "name": "Phú Túc",
+        "type": "xa",
+        "slug": "phu-tuc",
+        "name_with_type": "Xã Phú Túc",
+        "path": "Phú Túc, Phú Xuyên, Hà Nội",
+        "path_with_type": "Xã Phú Túc, Huyện Phú Xuyên, Thành phố Hà Nội",
+        "code": "10294",
+        "parent_code": "280"
+    },
+    "10297": {
+        "name": "Văn Hoàng",
+        "type": "xa",
+        "slug": "van-hoang",
+        "name_with_type": "Xã Văn Hoàng",
+        "path": "Văn Hoàng, Phú Xuyên, Hà Nội",
+        "path_with_type": "Xã Văn Hoàng, Huyện Phú Xuyên, Thành phố Hà Nội",
+        "code": "10297",
+        "parent_code": "280"
+    },
+    "10300": {
+        "name": "Hồng Thái",
+        "type": "xa",
+        "slug": "hong-thai",
+        "name_with_type": "Xã Hồng Thái",
+        "path": "Hồng Thái, Phú Xuyên, Hà Nội",
+        "path_with_type": "Xã Hồng Thái, Huyện Phú Xuyên, Thành phố Hà Nội",
+        "code": "10300",
+        "parent_code": "280"
+    },
+    "10303": {
+        "name": "Hoàng Long",
+        "type": "xa",
+        "slug": "hoang-long",
+        "name_with_type": "Xã Hoàng Long",
+        "path": "Hoàng Long, Phú Xuyên, Hà Nội",
+        "path_with_type": "Xã Hoàng Long, Huyện Phú Xuyên, Thành phố Hà Nội",
+        "code": "10303",
+        "parent_code": "280"
+    },
+    "10306": {
+        "name": "Quang Trung",
+        "type": "xa",
+        "slug": "quang-trung",
+        "name_with_type": "Xã Quang Trung",
+        "path": "Quang Trung, Phú Xuyên, Hà Nội",
+        "path_with_type": "Xã Quang Trung, Huyện Phú Xuyên, Thành phố Hà Nội",
+        "code": "10306",
+        "parent_code": "280"
+    },
+    "10309": {
+        "name": "Nam Phong",
+        "type": "xa",
+        "slug": "nam-phong",
+        "name_with_type": "Xã Nam Phong",
+        "path": "Nam Phong, Phú Xuyên, Hà Nội",
+        "path_with_type": "Xã Nam Phong, Huyện Phú Xuyên, Thành phố Hà Nội",
+        "code": "10309",
+        "parent_code": "280"
+    },
+    "10312": {
+        "name": "Nam Triều",
+        "type": "xa",
+        "slug": "nam-trieu",
+        "name_with_type": "Xã Nam Triều",
+        "path": "Nam Triều, Phú Xuyên, Hà Nội",
+        "path_with_type": "Xã Nam Triều, Huyện Phú Xuyên, Thành phố Hà Nội",
+        "code": "10312",
+        "parent_code": "280"
+    },
+    "10315": {
+        "name": "Tân Dân",
+        "type": "xa",
+        "slug": "tan-dan",
+        "name_with_type": "Xã Tân Dân",
+        "path": "Tân Dân, Phú Xuyên, Hà Nội",
+        "path_with_type": "Xã Tân Dân, Huyện Phú Xuyên, Thành phố Hà Nội",
+        "code": "10315",
+        "parent_code": "280"
+    },
+    "10318": {
+        "name": "Sơn Hà",
+        "type": "xa",
+        "slug": "son-ha",
+        "name_with_type": "Xã Sơn Hà",
+        "path": "Sơn Hà, Phú Xuyên, Hà Nội",
+        "path_with_type": "Xã Sơn Hà, Huyện Phú Xuyên, Thành phố Hà Nội",
+        "code": "10318",
+        "parent_code": "280"
+    },
+    "10321": {
+        "name": "Chuyên Mỹ",
+        "type": "xa",
+        "slug": "chuyen-my",
+        "name_with_type": "Xã Chuyên Mỹ",
+        "path": "Chuyên Mỹ, Phú Xuyên, Hà Nội",
+        "path_with_type": "Xã Chuyên Mỹ, Huyện Phú Xuyên, Thành phố Hà Nội",
+        "code": "10321",
+        "parent_code": "280"
+    },
+    "10324": {
+        "name": "Khai Thái",
+        "type": "xa",
+        "slug": "khai-thai",
+        "name_with_type": "Xã Khai Thái",
+        "path": "Khai Thái, Phú Xuyên, Hà Nội",
+        "path_with_type": "Xã Khai Thái, Huyện Phú Xuyên, Thành phố Hà Nội",
+        "code": "10324",
+        "parent_code": "280"
+    },
+    "10327": {
+        "name": "Phúc Tiến",
+        "type": "xa",
+        "slug": "phuc-tien",
+        "name_with_type": "Xã Phúc Tiến",
+        "path": "Phúc Tiến, Phú Xuyên, Hà Nội",
+        "path_with_type": "Xã Phúc Tiến, Huyện Phú Xuyên, Thành phố Hà Nội",
+        "code": "10327",
+        "parent_code": "280"
+    },
+    "10330": {
+        "name": "Vân Từ",
+        "type": "xa",
+        "slug": "van-tu",
+        "name_with_type": "Xã Vân Từ",
+        "path": "Vân Từ, Phú Xuyên, Hà Nội",
+        "path_with_type": "Xã Vân Từ, Huyện Phú Xuyên, Thành phố Hà Nội",
+        "code": "10330",
+        "parent_code": "280"
+    },
+    "10333": {
+        "name": "Tri Thủy",
+        "type": "xa",
+        "slug": "tri-thuy",
+        "name_with_type": "Xã Tri Thủy",
+        "path": "Tri Thủy, Phú Xuyên, Hà Nội",
+        "path_with_type": "Xã Tri Thủy, Huyện Phú Xuyên, Thành phố Hà Nội",
+        "code": "10333",
+        "parent_code": "280"
+    },
+    "10336": {
+        "name": "Đại Xuyên",
+        "type": "xa",
+        "slug": "dai-xuyen",
+        "name_with_type": "Xã Đại Xuyên",
+        "path": "Đại Xuyên, Phú Xuyên, Hà Nội",
+        "path_with_type": "Xã Đại Xuyên, Huyện Phú Xuyên, Thành phố Hà Nội",
+        "code": "10336",
+        "parent_code": "280"
+    },
+    "10339": {
+        "name": "Phú Yên",
+        "type": "xa",
+        "slug": "phu-yen",
+        "name_with_type": "Xã Phú Yên",
+        "path": "Phú Yên, Phú Xuyên, Hà Nội",
+        "path_with_type": "Xã Phú Yên, Huyện Phú Xuyên, Thành phố Hà Nội",
+        "code": "10339",
+        "parent_code": "280"
+    },
+    "10342": {
+        "name": "Bạch Hạ",
+        "type": "xa",
+        "slug": "bach-ha",
+        "name_with_type": "Xã Bạch Hạ",
+        "path": "Bạch Hạ, Phú Xuyên, Hà Nội",
+        "path_with_type": "Xã Bạch Hạ, Huyện Phú Xuyên, Thành phố Hà Nội",
+        "code": "10342",
+        "parent_code": "280"
+    },
+    "10345": {
+        "name": "Quang Lãng",
+        "type": "xa",
+        "slug": "quang-lang",
+        "name_with_type": "Xã Quang Lãng",
+        "path": "Quang Lãng, Phú Xuyên, Hà Nội",
+        "path_with_type": "Xã Quang Lãng, Huyện Phú Xuyên, Thành phố Hà Nội",
+        "code": "10345",
+        "parent_code": "280"
+    },
+    "10348": {
+        "name": "Châu Can",
+        "type": "xa",
+        "slug": "chau-can",
+        "name_with_type": "Xã Châu Can",
+        "path": "Châu Can, Phú Xuyên, Hà Nội",
+        "path_with_type": "Xã Châu Can, Huyện Phú Xuyên, Thành phố Hà Nội",
+        "code": "10348",
+        "parent_code": "280"
+    },
+    "10351": {
+        "name": "Minh Tân",
+        "type": "xa",
+        "slug": "minh-tan",
+        "name_with_type": "Xã Minh Tân",
+        "path": "Minh Tân, Phú Xuyên, Hà Nội",
+        "path_with_type": "Xã Minh Tân, Huyện Phú Xuyên, Thành phố Hà Nội",
+        "code": "10351",
+        "parent_code": "280"
+    }
+}

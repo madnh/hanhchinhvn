@@ -1,0 +1,72 @@
+{
+    "31299": {
+        "name": "Phong Điền",
+        "type": "thi-tran",
+        "slug": "phong-dien",
+        "name_with_type": "Thị trấn Phong Điền",
+        "path": "Phong Điền, Phong Điền, Cần Thơ",
+        "path_with_type": "Thị trấn Phong Điền, Huyện Phong Điền, Thành phố Cần Thơ",
+        "code": "31299",
+        "parent_code": "926"
+    },
+    "31300": {
+        "name": "Nhơn Ái",
+        "type": "xa",
+        "slug": "nhon-ai",
+        "name_with_type": "Xã Nhơn Ái",
+        "path": "Nhơn Ái, Phong Điền, Cần Thơ",
+        "path_with_type": "Xã Nhơn Ái, Huyện Phong Điền, Thành phố Cần Thơ",
+        "code": "31300",
+        "parent_code": "926"
+    },
+    "31303": {
+        "name": "Giai Xuân",
+        "type": "xa",
+        "slug": "giai-xuan",
+        "name_with_type": "Xã Giai Xuân",
+        "path": "Giai Xuân, Phong Điền, Cần Thơ",
+        "path_with_type": "Xã Giai Xuân, Huyện Phong Điền, Thành phố Cần Thơ",
+        "code": "31303",
+        "parent_code": "926"
+    },
+    "31306": {
+        "name": "Tân Thới",
+        "type": "xa",
+        "slug": "tan-thoi",
+        "name_with_type": "Xã Tân Thới",
+        "path": "Tân Thới, Phong Điền, Cần Thơ",
+        "path_with_type": "Xã Tân Thới, Huyện Phong Điền, Thành phố Cần Thơ",
+        "code": "31306",
+        "parent_code": "926"
+    },
+    "31309": {
+        "name": "Trường Long",
+        "type": "xa",
+        "slug": "truong-long",
+        "name_with_type": "Xã Trường Long",
+        "path": "Trường Long, Phong Điền, Cần Thơ",
+        "path_with_type": "Xã Trường Long, Huyện Phong Điền, Thành phố Cần Thơ",
+        "code": "31309",
+        "parent_code": "926"
+    },
+    "31312": {
+        "name": "Mỹ Khánh",
+        "type": "xa",
+        "slug": "my-khanh",
+        "name_with_type": "Xã Mỹ Khánh",
+        "path": "Mỹ Khánh, Phong Điền, Cần Thơ",
+        "path_with_type": "Xã Mỹ Khánh, Huyện Phong Điền, Thành phố Cần Thơ",
+        "code": "31312",
+        "parent_code": "926"
+    },
+    "31315": {
+        "name": "Nhơn Nghĩa",
+        "type": "xa",
+        "slug": "nhon-nghia",
+        "name_with_type": "Xã Nhơn Nghĩa",
+        "path": "Nhơn Nghĩa, Phong Điền, Cần Thơ",
+        "path_with_type": "Xã Nhơn Nghĩa, Huyện Phong Điền, Thành phố Cần Thơ",
+        "code": "31315",
+        "parent_code": "926"
+    }
+}

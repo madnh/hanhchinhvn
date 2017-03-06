@@ -1,0 +1,202 @@
+{
+    "06649": {
+        "name": "Hà Khánh",
+        "type": "phuong",
+        "slug": "ha-khanh",
+        "name_with_type": "Phường Hà Khánh",
+        "path": "Hà Khánh, Hạ Long, Quảng Ninh",
+        "path_with_type": "Phường Hà Khánh, Thành phố Hạ Long, Tỉnh Quảng Ninh",
+        "code": "06649",
+        "parent_code": "193"
+    },
+    "06652": {
+        "name": "Hà Phong",
+        "type": "phuong",
+        "slug": "ha-phong",
+        "name_with_type": "Phường Hà Phong",
+        "path": "Hà Phong, Hạ Long, Quảng Ninh",
+        "path_with_type": "Phường Hà Phong, Thành phố Hạ Long, Tỉnh Quảng Ninh",
+        "code": "06652",
+        "parent_code": "193"
+    },
+    "06655": {
+        "name": "Hà Khẩu",
+        "type": "phuong",
+        "slug": "ha-khau",
+        "name_with_type": "Phường Hà Khẩu",
+        "path": "Hà Khẩu, Hạ Long, Quảng Ninh",
+        "path_with_type": "Phường Hà Khẩu, Thành phố Hạ Long, Tỉnh Quảng Ninh",
+        "code": "06655",
+        "parent_code": "193"
+    },
+    "06658": {
+        "name": "Cao Xanh",
+        "type": "phuong",
+        "slug": "cao-xanh",
+        "name_with_type": "Phường Cao Xanh",
+        "path": "Cao Xanh, Hạ Long, Quảng Ninh",
+        "path_with_type": "Phường Cao Xanh, Thành phố Hạ Long, Tỉnh Quảng Ninh",
+        "code": "06658",
+        "parent_code": "193"
+    },
+    "06661": {
+        "name": "Giếng Đáy",
+        "type": "phuong",
+        "slug": "gieng-day",
+        "name_with_type": "Phường Giếng Đáy",
+        "path": "Giếng Đáy, Hạ Long, Quảng Ninh",
+        "path_with_type": "Phường Giếng Đáy, Thành phố Hạ Long, Tỉnh Quảng Ninh",
+        "code": "06661",
+        "parent_code": "193"
+    },
+    "06664": {
+        "name": "Hà Tu",
+        "type": "phuong",
+        "slug": "ha-tu",
+        "name_with_type": "Phường Hà Tu",
+        "path": "Hà Tu, Hạ Long, Quảng Ninh",
+        "path_with_type": "Phường Hà Tu, Thành phố Hạ Long, Tỉnh Quảng Ninh",
+        "code": "06664",
+        "parent_code": "193"
+    },
+    "06667": {
+        "name": "Hà Trung",
+        "type": "phuong",
+        "slug": "ha-trung",
+        "name_with_type": "Phường Hà Trung",
+        "path": "Hà Trung, Hạ Long, Quảng Ninh",
+        "path_with_type": "Phường Hà Trung, Thành phố Hạ Long, Tỉnh Quảng Ninh",
+        "code": "06667",
+        "parent_code": "193"
+    },
+    "06670": {
+        "name": "Hà Lầm",
+        "type": "phuong",
+        "slug": "ha-lam",
+        "name_with_type": "Phường Hà Lầm",
+        "path": "Hà Lầm, Hạ Long, Quảng Ninh",
+        "path_with_type": "Phường Hà Lầm, Thành phố Hạ Long, Tỉnh Quảng Ninh",
+        "code": "06670",
+        "parent_code": "193"
+    },
+    "06673": {
+        "name": "Bãi Cháy",
+        "type": "phuong",
+        "slug": "bai-chay",
+        "name_with_type": "Phường Bãi Cháy",
+        "path": "Bãi Cháy, Hạ Long, Quảng Ninh",
+        "path_with_type": "Phường Bãi Cháy, Thành phố Hạ Long, Tỉnh Quảng Ninh",
+        "code": "06673",
+        "parent_code": "193"
+    },
+    "06676": {
+        "name": "Cao Thắng",
+        "type": "phuong",
+        "slug": "cao-thang",
+        "name_with_type": "Phường Cao Thắng",
+        "path": "Cao Thắng, Hạ Long, Quảng Ninh",
+        "path_with_type": "Phường Cao Thắng, Thành phố Hạ Long, Tỉnh Quảng Ninh",
+        "code": "06676",
+        "parent_code": "193"
+    },
+    "06679": {
+        "name": "Hùng Thắng",
+        "type": "phuong",
+        "slug": "hung-thang",
+        "name_with_type": "Phường Hùng Thắng",
+        "path": "Hùng Thắng, Hạ Long, Quảng Ninh",
+        "path_with_type": "Phường Hùng Thắng, Thành phố Hạ Long, Tỉnh Quảng Ninh",
+        "code": "06679",
+        "parent_code": "193"
+    },
+    "06682": {
+        "name": "Yết Kiêu",
+        "type": "phuong",
+        "slug": "yet-kieu",
+        "name_with_type": "Phường Yết Kiêu",
+        "path": "Yết Kiêu, Hạ Long, Quảng Ninh",
+        "path_with_type": "Phường Yết Kiêu, Thành phố Hạ Long, Tỉnh Quảng Ninh",
+        "code": "06682",
+        "parent_code": "193"
+    },
+    "06685": {
+        "name": "Trần Hưng Đạo",
+        "type": "phuong",
+        "slug": "tran-hung-dao",
+        "name_with_type": "Phường Trần Hưng Đạo",
+        "path": "Trần Hưng Đạo, Hạ Long, Quảng Ninh",
+        "path_with_type": "Phường Trần Hưng Đạo, Thành phố Hạ Long, Tỉnh Quảng Ninh",
+        "code": "06685",
+        "parent_code": "193"
+    },
+    "06688": {
+        "name": "Hồng Hải",
+        "type": "phuong",
+        "slug": "hong-hai",
+        "name_with_type": "Phường Hồng Hải",
+        "path": "Hồng Hải, Hạ Long, Quảng Ninh",
+        "path_with_type": "Phường Hồng Hải, Thành phố Hạ Long, Tỉnh Quảng Ninh",
+        "code": "06688",
+        "parent_code": "193"
+    },
+    "06691": {
+        "name": "Hồng Gai",
+        "type": "phuong",
+        "slug": "hong-gai",
+        "name_with_type": "Phường Hồng Gai",
+        "path": "Hồng Gai, Hạ Long, Quảng Ninh",
+        "path_with_type": "Phường Hồng Gai, Thành phố Hạ Long, Tỉnh Quảng Ninh",
+        "code": "06691",
+        "parent_code": "193"
+    },
+    "06694": {
+        "name": "Bạch Đằng",
+        "type": "phuong",
+        "slug": "bach-dang",
+        "name_with_type": "Phường Bạch Đằng",
+        "path": "Bạch Đằng, Hạ Long, Quảng Ninh",
+        "path_with_type": "Phường Bạch Đằng, Thành phố Hạ Long, Tỉnh Quảng Ninh",
+        "code": "06694",
+        "parent_code": "193"
+    },
+    "06697": {
+        "name": "Hồng Hà",
+        "type": "phuong",
+        "slug": "hong-ha",
+        "name_with_type": "Phường Hồng Hà",
+        "path": "Hồng Hà, Hạ Long, Quảng Ninh",
+        "path_with_type": "Phường Hồng Hà, Thành phố Hạ Long, Tỉnh Quảng Ninh",
+        "code": "06697",
+        "parent_code": "193"
+    },
+    "06700": {
+        "name": "Tuần Châu",
+        "type": "phuong",
+        "slug": "tuan-chau",
+        "name_with_type": "Phường Tuần Châu",
+        "path": "Tuần Châu, Hạ Long, Quảng Ninh",
+        "path_with_type": "Phường Tuần Châu, Thành phố Hạ Long, Tỉnh Quảng Ninh",
+        "code": "06700",
+        "parent_code": "193"
+    },
+    "06703": {
+        "name": "Việt Hưng",
+        "type": "phuong",
+        "slug": "viet-hung",
+        "name_with_type": "Phường Việt Hưng",
+        "path": "Việt Hưng, Hạ Long, Quảng Ninh",
+        "path_with_type": "Phường Việt Hưng, Thành phố Hạ Long, Tỉnh Quảng Ninh",
+        "code": "06703",
+        "parent_code": "193"
+    },
+    "06706": {
+        "name": "Đại Yên",
+        "type": "phuong",
+        "slug": "dai-yen",
+        "name_with_type": "Phường Đại Yên",
+        "path": "Đại Yên, Hạ Long, Quảng Ninh",
+        "path_with_type": "Phường Đại Yên, Thành phố Hạ Long, Tỉnh Quảng Ninh",
+        "code": "06706",
+        "parent_code": "193"
+    }
+}

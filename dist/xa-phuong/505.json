@@ -1,0 +1,112 @@
+{
+    "20467": {
+        "name": "P Rao",
+        "type": "thi-tran",
+        "slug": "p-rao",
+        "name_with_type": "Thị trấn P Rao",
+        "path": "P Rao, Đông Giang, Quảng Nam",
+        "path_with_type": "Thị trấn P Rao, Huyện Đông Giang, Tỉnh Quảng Nam",
+        "code": "20467",
+        "parent_code": "505"
+    },
+    "20470": {
+        "name": "Tà Lu",
+        "type": "xa",
+        "slug": "ta-lu",
+        "name_with_type": "Xã Tà Lu",
+        "path": "Tà Lu, Đông Giang, Quảng Nam",
+        "path_with_type": "Xã Tà Lu, Huyện Đông Giang, Tỉnh Quảng Nam",
+        "code": "20470",
+        "parent_code": "505"
+    },
+    "20473": {
+        "name": "Sông Kôn",
+        "type": "xa",
+        "slug": "song-kon",
+        "name_with_type": "Xã Sông Kôn",
+        "path": "Sông Kôn, Đông Giang, Quảng Nam",
+        "path_with_type": "Xã Sông Kôn, Huyện Đông Giang, Tỉnh Quảng Nam",
+        "code": "20473",
+        "parent_code": "505"
+    },
+    "20476": {
+        "name": "Jơ Ngây",
+        "type": "xa",
+        "slug": "jo-ngay",
+        "name_with_type": "Xã Jơ Ngây",
+        "path": "Jơ Ngây, Đông Giang, Quảng Nam",
+        "path_with_type": "Xã Jơ Ngây, Huyện Đông Giang, Tỉnh Quảng Nam",
+        "code": "20476",
+        "parent_code": "505"
+    },
+    "20479": {
+        "name": "A Ting",
+        "type": "xa",
+        "slug": "a-ting",
+        "name_with_type": "Xã A Ting",
+        "path": "A Ting, Đông Giang, Quảng Nam",
+        "path_with_type": "Xã A Ting, Huyện Đông Giang, Tỉnh Quảng Nam",
+        "code": "20479",
+        "parent_code": "505"
+    },
+    "20482": {
+        "name": "Tư",
+        "type": "xa",
+        "slug": "tu",
+        "name_with_type": "Xã  Tư",
+        "path": "Tư, Đông Giang, Quảng Nam",
+        "path_with_type": "Xã  Tư, Huyện Đông Giang, Tỉnh Quảng Nam",
+        "code": "20482",
+        "parent_code": "505"
+    },
+    "20485": {
+        "name": "Ba",
+        "type": "xa",
+        "slug": "ba",
+        "name_with_type": "Xã Ba",
+        "path": "Ba, Đông Giang, Quảng Nam",
+        "path_with_type": "Xã Ba, Huyện Đông Giang, Tỉnh Quảng Nam",
+        "code": "20485",
+        "parent_code": "505"
+    },
+    "20488": {
+        "name": "A Rooi",
+        "type": "xa",
+        "slug": "a-rooi",
+        "name_with_type": "Xã A Rooi",
+        "path": "A Rooi, Đông Giang, Quảng Nam",
+        "path_with_type": "Xã A Rooi, Huyện Đông Giang, Tỉnh Quảng Nam",
+        "code": "20488",
+        "parent_code": "505"
+    },
+    "20491": {
+        "name": "Za Hung",
+        "type": "xa",
+        "slug": "za-hung",
+        "name_with_type": "Xã Za Hung",
+        "path": "Za Hung, Đông Giang, Quảng Nam",
+        "path_with_type": "Xã Za Hung, Huyện Đông Giang, Tỉnh Quảng Nam",
+        "code": "20491",
+        "parent_code": "505"
+    },
+    "20494": {
+        "name": "Mà Cooi",
+        "type": "xa",
+        "slug": "ma-cooi",
+        "name_with_type": "Xã Mà Cooi",
+        "path": "Mà Cooi, Đông Giang, Quảng Nam",
+        "path_with_type": "Xã Mà Cooi, Huyện Đông Giang, Tỉnh Quảng Nam",
+        "code": "20494",
+        "parent_code": "505"
+    },
+    "20497": {
+        "name": "Ka Dăng",
+        "type": "xa",
+        "slug": "ka-dang",
+        "name_with_type": "Xã Ka Dăng",
+        "path": "Ka Dăng, Đông Giang, Quảng Nam",
+        "path_with_type": "Xã Ka Dăng, Huyện Đông Giang, Tỉnh Quảng Nam",
+        "code": "20497",
+        "parent_code": "505"
+    }
+}

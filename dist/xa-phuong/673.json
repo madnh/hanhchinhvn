@@ -1,0 +1,112 @@
+{
+    "24814": {
+        "name": "Lộc Phát",
+        "type": "phuong",
+        "slug": "loc-phat",
+        "name_with_type": "Phường Lộc Phát",
+        "path": "Lộc Phát, Bảo Lộc, Lâm Đồng",
+        "path_with_type": "Phường Lộc Phát, Thành phố Bảo Lộc, Tỉnh Lâm Đồng",
+        "code": "24814",
+        "parent_code": "673"
+    },
+    "24817": {
+        "name": "Lộc Tiến",
+        "type": "phuong",
+        "slug": "loc-tien",
+        "name_with_type": "Phường Lộc Tiến",
+        "path": "Lộc Tiến, Bảo Lộc, Lâm Đồng",
+        "path_with_type": "Phường Lộc Tiến, Thành phố Bảo Lộc, Tỉnh Lâm Đồng",
+        "code": "24817",
+        "parent_code": "673"
+    },
+    "24820": {
+        "name": "2",
+        "type": "phuong",
+        "slug": "2",
+        "name_with_type": "Phường 2",
+        "path": "2, Bảo Lộc, Lâm Đồng",
+        "path_with_type": "Phường 2, Thành phố Bảo Lộc, Tỉnh Lâm Đồng",
+        "code": "24820",
+        "parent_code": "673"
+    },
+    "24823": {
+        "name": "1",
+        "type": "phuong",
+        "slug": "1",
+        "name_with_type": "Phường 1",
+        "path": "1, Bảo Lộc, Lâm Đồng",
+        "path_with_type": "Phường 1, Thành phố Bảo Lộc, Tỉnh Lâm Đồng",
+        "code": "24823",
+        "parent_code": "673"
+    },
+    "24826": {
+        "name": "B'lao",
+        "type": "phuong",
+        "slug": "b-lao",
+        "name_with_type": "Phường B'lao",
+        "path": "B'lao, Bảo Lộc, Lâm Đồng",
+        "path_with_type": "Phường B'lao, Thành phố Bảo Lộc, Tỉnh Lâm Đồng",
+        "code": "24826",
+        "parent_code": "673"
+    },
+    "24829": {
+        "name": "Lộc Sơn",
+        "type": "phuong",
+        "slug": "loc-son",
+        "name_with_type": "Phường Lộc Sơn",
+        "path": "Lộc Sơn, Bảo Lộc, Lâm Đồng",
+        "path_with_type": "Phường Lộc Sơn, Thành phố Bảo Lộc, Tỉnh Lâm Đồng",
+        "code": "24829",
+        "parent_code": "673"
+    },
+    "24832": {
+        "name": "Đạm Bri",
+        "type": "xa",
+        "slug": "dam-bri",
+        "name_with_type": "Xã Đạm Bri",
+        "path": "Đạm Bri, Bảo Lộc, Lâm Đồng",
+        "path_with_type": "Xã Đạm Bri, Thành phố Bảo Lộc, Tỉnh Lâm Đồng",
+        "code": "24832",
+        "parent_code": "673"
+    },
+    "24835": {
+        "name": "Lộc Thanh",
+        "type": "xa",
+        "slug": "loc-thanh",
+        "name_with_type": "Xã Lộc Thanh",
+        "path": "Lộc Thanh, Bảo Lộc, Lâm Đồng",
+        "path_with_type": "Xã Lộc Thanh, Thành phố Bảo Lộc, Tỉnh Lâm Đồng",
+        "code": "24835",
+        "parent_code": "673"
+    },
+    "24838": {
+        "name": "Lộc Nga",
+        "type": "xa",
+        "slug": "loc-nga",
+        "name_with_type": "Xã Lộc Nga",
+        "path": "Lộc Nga, Bảo Lộc, Lâm Đồng",
+        "path_with_type": "Xã Lộc Nga, Thành phố Bảo Lộc, Tỉnh Lâm Đồng",
+        "code": "24838",
+        "parent_code": "673"
+    },
+    "24841": {
+        "name": "Lộc Châu",
+        "type": "xa",
+        "slug": "loc-chau",
+        "name_with_type": "Xã Lộc Châu",
+        "path": "Lộc Châu, Bảo Lộc, Lâm Đồng",
+        "path_with_type": "Xã Lộc Châu, Thành phố Bảo Lộc, Tỉnh Lâm Đồng",
+        "code": "24841",
+        "parent_code": "673"
+    },
+    "24844": {
+        "name": "Đại Lào",
+        "type": "xa",
+        "slug": "dai-lao",
+        "name_with_type": "Xã Đại Lào",
+        "path": "Đại Lào, Bảo Lộc, Lâm Đồng",
+        "path_with_type": "Xã Đại Lào, Thành phố Bảo Lộc, Tỉnh Lâm Đồng",
+        "code": "24844",
+        "parent_code": "673"
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "31672": {
+        "name": "Đại Ân  2",
+        "type": "xa",
+        "slug": "dai-an-2",
+        "name_with_type": "Xã Đại Ân  2",
+        "path": "Đại Ân  2, Trần Đề, Sóc Trăng",
+        "path_with_type": "Xã Đại Ân  2, Huyện Trần Đề, Tỉnh Sóc Trăng",
+        "code": "31672",
+        "parent_code": "951"
+    },
+    "31673": {
+        "name": "Trần Đề",
+        "type": "thi-tran",
+        "slug": "tran-de",
+        "name_with_type": "Thị trấn Trần Đề",
+        "path": "Trần Đề, Trần Đề, Sóc Trăng",
+        "path_with_type": "Thị trấn Trần Đề, Huyện Trần Đề, Tỉnh Sóc Trăng",
+        "code": "31673",
+        "parent_code": "951"
+    },
+    "31675": {
+        "name": "Liêu Tú",
+        "type": "xa",
+        "slug": "lieu-tu",
+        "name_with_type": "Xã Liêu Tú",
+        "path": "Liêu Tú, Trần Đề, Sóc Trăng",
+        "path_with_type": "Xã Liêu Tú, Huyện Trần Đề, Tỉnh Sóc Trăng",
+        "code": "31675",
+        "parent_code": "951"
+    },
+    "31678": {
+        "name": "Lịch Hội Thượng",
+        "type": "xa",
+        "slug": "lich-hoi-thuong",
+        "name_with_type": "Xã Lịch Hội Thượng",
+        "path": "Lịch Hội Thượng, Trần Đề, Sóc Trăng",
+        "path_with_type": "Xã Lịch Hội Thượng, Huyện Trần Đề, Tỉnh Sóc Trăng",
+        "code": "31678",
+        "parent_code": "951"
+    },
+    "31679": {
+        "name": "Lịch Hội Thượng",
+        "type": "thi-tran",
+        "slug": "lich-hoi-thuong",
+        "name_with_type": "Thị trấn Lịch Hội Thượng",
+        "path": "Lịch Hội Thượng, Trần Đề, Sóc Trăng",
+        "path_with_type": "Thị trấn Lịch Hội Thượng, Huyện Trần Đề, Tỉnh Sóc Trăng",
+        "code": "31679",
+        "parent_code": "951"
+    },
+    "31681": {
+        "name": "Trung Bình",
+        "type": "xa",
+        "slug": "trung-binh",
+        "name_with_type": "Xã Trung Bình",
+        "path": "Trung Bình, Trần Đề, Sóc Trăng",
+        "path_with_type": "Xã Trung Bình, Huyện Trần Đề, Tỉnh Sóc Trăng",
+        "code": "31681",
+        "parent_code": "951"
+    },
+    "31687": {
+        "name": "Tài Văn",
+        "type": "xa",
+        "slug": "tai-van",
+        "name_with_type": "Xã Tài Văn",
+        "path": "Tài Văn, Trần Đề, Sóc Trăng",
+        "path_with_type": "Xã Tài Văn, Huyện Trần Đề, Tỉnh Sóc Trăng",
+        "code": "31687",
+        "parent_code": "951"
+    },
+    "31696": {
+        "name": "Viên An",
+        "type": "xa",
+        "slug": "vien-an",
+        "name_with_type": "Xã Viên An",
+        "path": "Viên An, Trần Đề, Sóc Trăng",
+        "path_with_type": "Xã Viên An, Huyện Trần Đề, Tỉnh Sóc Trăng",
+        "code": "31696",
+        "parent_code": "951"
+    },
+    "31699": {
+        "name": "Thạnh Thới An",
+        "type": "xa",
+        "slug": "thanh-thoi-an",
+        "name_with_type": "Xã Thạnh Thới An",
+        "path": "Thạnh Thới An, Trần Đề, Sóc Trăng",
+        "path_with_type": "Xã Thạnh Thới An, Huyện Trần Đề, Tỉnh Sóc Trăng",
+        "code": "31699",
+        "parent_code": "951"
+    },
+    "31702": {
+        "name": "Thạnh Thới Thuận",
+        "type": "xa",
+        "slug": "thanh-thoi-thuan",
+        "name_with_type": "Xã Thạnh Thới Thuận",
+        "path": "Thạnh Thới Thuận, Trần Đề, Sóc Trăng",
+        "path_with_type": "Xã Thạnh Thới Thuận, Huyện Trần Đề, Tỉnh Sóc Trăng",
+        "code": "31702",
+        "parent_code": "951"
+    },
+    "31705": {
+        "name": "Viên Bình",
+        "type": "xa",
+        "slug": "vien-binh",
+        "name_with_type": "Xã Viên Bình",
+        "path": "Viên Bình, Trần Đề, Sóc Trăng",
+        "path_with_type": "Xã Viên Bình, Huyện Trần Đề, Tỉnh Sóc Trăng",
+        "code": "31705",
+        "parent_code": "951"
+    }
+}

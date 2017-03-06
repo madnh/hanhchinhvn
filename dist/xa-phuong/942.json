@@ -1,0 +1,82 @@
+{
+    "31569": {
+        "name": "Châu Thành",
+        "type": "thi-tran",
+        "slug": "chau-thanh",
+        "name_with_type": "Thị trấn Châu Thành",
+        "path": "Châu Thành, Châu Thành, Sóc Trăng",
+        "path_with_type": "Thị trấn Châu Thành, Huyện Châu Thành, Tỉnh Sóc Trăng",
+        "code": "31569",
+        "parent_code": "942"
+    },
+    "31570": {
+        "name": "Hồ Đắc Kiện",
+        "type": "xa",
+        "slug": "ho-dac-kien",
+        "name_with_type": "Xã Hồ Đắc Kiện",
+        "path": "Hồ Đắc Kiện, Châu Thành, Sóc Trăng",
+        "path_with_type": "Xã Hồ Đắc Kiện, Huyện Châu Thành, Tỉnh Sóc Trăng",
+        "code": "31570",
+        "parent_code": "942"
+    },
+    "31573": {
+        "name": "Phú Tâm",
+        "type": "xa",
+        "slug": "phu-tam",
+        "name_with_type": "Xã Phú Tâm",
+        "path": "Phú Tâm, Châu Thành, Sóc Trăng",
+        "path_with_type": "Xã Phú Tâm, Huyện Châu Thành, Tỉnh Sóc Trăng",
+        "code": "31573",
+        "parent_code": "942"
+    },
+    "31576": {
+        "name": "Thuận Hòa",
+        "type": "xa",
+        "slug": "thuan-hoa",
+        "name_with_type": "Xã Thuận Hòa",
+        "path": "Thuận Hòa, Châu Thành, Sóc Trăng",
+        "path_with_type": "Xã Thuận Hòa, Huyện Châu Thành, Tỉnh Sóc Trăng",
+        "code": "31576",
+        "parent_code": "942"
+    },
+    "31582": {
+        "name": "Phú Tân",
+        "type": "xa",
+        "slug": "phu-tan",
+        "name_with_type": "Xã Phú Tân",
+        "path": "Phú Tân, Châu Thành, Sóc Trăng",
+        "path_with_type": "Xã Phú Tân, Huyện Châu Thành, Tỉnh Sóc Trăng",
+        "code": "31582",
+        "parent_code": "942"
+    },
+    "31585": {
+        "name": "Thiện Mỹ",
+        "type": "xa",
+        "slug": "thien-my",
+        "name_with_type": "Xã Thiện Mỹ",
+        "path": "Thiện Mỹ, Châu Thành, Sóc Trăng",
+        "path_with_type": "Xã Thiện Mỹ, Huyện Châu Thành, Tỉnh Sóc Trăng",
+        "code": "31585",
+        "parent_code": "942"
+    },
+    "31594": {
+        "name": "An Hiệp",
+        "type": "xa",
+        "slug": "an-hiep",
+        "name_with_type": "Xã An Hiệp",
+        "path": "An Hiệp, Châu Thành, Sóc Trăng",
+        "path_with_type": "Xã An Hiệp, Huyện Châu Thành, Tỉnh Sóc Trăng",
+        "code": "31594",
+        "parent_code": "942"
+    },
+    "31600": {
+        "name": "An Ninh",
+        "type": "xa",
+        "slug": "an-ninh",
+        "name_with_type": "Xã An Ninh",
+        "path": "An Ninh, Châu Thành, Sóc Trăng",
+        "path_with_type": "Xã An Ninh, Huyện Châu Thành, Tỉnh Sóc Trăng",
+        "code": "31600",
+        "parent_code": "942"
+    }
+}

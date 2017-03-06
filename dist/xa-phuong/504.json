@@ -1,0 +1,102 @@
+{
+    "20437": {
+        "name": "Ch'ơm",
+        "type": "xa",
+        "slug": "ch-om",
+        "name_with_type": "Xã Ch'ơm",
+        "path": "Ch'ơm, Tây Giang, Quảng Nam",
+        "path_with_type": "Xã Ch'ơm, Huyện Tây Giang, Tỉnh Quảng Nam",
+        "code": "20437",
+        "parent_code": "504"
+    },
+    "20440": {
+        "name": "Ga Ri",
+        "type": "xa",
+        "slug": "ga-ri",
+        "name_with_type": "Xã Ga Ri",
+        "path": "Ga Ri, Tây Giang, Quảng Nam",
+        "path_with_type": "Xã Ga Ri, Huyện Tây Giang, Tỉnh Quảng Nam",
+        "code": "20440",
+        "parent_code": "504"
+    },
+    "20443": {
+        "name": "A Xan",
+        "type": "xa",
+        "slug": "a-xan",
+        "name_with_type": "Xã A Xan",
+        "path": "A Xan, Tây Giang, Quảng Nam",
+        "path_with_type": "Xã A Xan, Huyện Tây Giang, Tỉnh Quảng Nam",
+        "code": "20443",
+        "parent_code": "504"
+    },
+    "20446": {
+        "name": "Tr'Hy",
+        "type": "xa",
+        "slug": "tr-hy",
+        "name_with_type": "Xã Tr'Hy",
+        "path": "Tr'Hy, Tây Giang, Quảng Nam",
+        "path_with_type": "Xã Tr'Hy, Huyện Tây Giang, Tỉnh Quảng Nam",
+        "code": "20446",
+        "parent_code": "504"
+    },
+    "20449": {
+        "name": "Lăng",
+        "type": "xa",
+        "slug": "lang",
+        "name_with_type": "Xã Lăng",
+        "path": "Lăng, Tây Giang, Quảng Nam",
+        "path_with_type": "Xã Lăng, Huyện Tây Giang, Tỉnh Quảng Nam",
+        "code": "20449",
+        "parent_code": "504"
+    },
+    "20452": {
+        "name": "A Nông",
+        "type": "xa",
+        "slug": "a-nong",
+        "name_with_type": "Xã A Nông",
+        "path": "A Nông, Tây Giang, Quảng Nam",
+        "path_with_type": "Xã A Nông, Huyện Tây Giang, Tỉnh Quảng Nam",
+        "code": "20452",
+        "parent_code": "504"
+    },
+    "20455": {
+        "name": "A Tiêng",
+        "type": "xa",
+        "slug": "a-tieng",
+        "name_with_type": "Xã A Tiêng",
+        "path": "A Tiêng, Tây Giang, Quảng Nam",
+        "path_with_type": "Xã A Tiêng, Huyện Tây Giang, Tỉnh Quảng Nam",
+        "code": "20455",
+        "parent_code": "504"
+    },
+    "20458": {
+        "name": "Bha Lê",
+        "type": "xa",
+        "slug": "bha-le",
+        "name_with_type": "Xã Bha Lê",
+        "path": "Bha Lê, Tây Giang, Quảng Nam",
+        "path_with_type": "Xã Bha Lê, Huyện Tây Giang, Tỉnh Quảng Nam",
+        "code": "20458",
+        "parent_code": "504"
+    },
+    "20461": {
+        "name": "A Vương",
+        "type": "xa",
+        "slug": "a-vuong",
+        "name_with_type": "Xã A Vương",
+        "path": "A Vương, Tây Giang, Quảng Nam",
+        "path_with_type": "Xã A Vương, Huyện Tây Giang, Tỉnh Quảng Nam",
+        "code": "20461",
+        "parent_code": "504"
+    },
+    "20464": {
+        "name": "Dang",
+        "type": "xa",
+        "slug": "dang",
+        "name_with_type": "Xã Dang",
+        "path": "Dang, Tây Giang, Quảng Nam",
+        "path_with_type": "Xã Dang, Huyện Tây Giang, Tỉnh Quảng Nam",
+        "code": "20464",
+        "parent_code": "504"
+    }
+}

@@ -1,0 +1,202 @@
+{
+    "01477": {
+        "name": "Trùng Khánh",
+        "type": "thi-tran",
+        "slug": "trung-khanh",
+        "name_with_type": "Thị trấn Trùng Khánh",
+        "path": "Trùng Khánh, Trùng Khánh, Cao Bằng",
+        "path_with_type": "Thị trấn Trùng Khánh, Huyện Trùng Khánh, Tỉnh Cao Bằng",
+        "code": "01477",
+        "parent_code": "047"
+    },
+    "01480": {
+        "name": "Ngọc Khê",
+        "type": "xa",
+        "slug": "ngoc-khe",
+        "name_with_type": "Xã Ngọc Khê",
+        "path": "Ngọc Khê, Trùng Khánh, Cao Bằng",
+        "path_with_type": "Xã Ngọc Khê, Huyện Trùng Khánh, Tỉnh Cao Bằng",
+        "code": "01480",
+        "parent_code": "047"
+    },
+    "01481": {
+        "name": "Ngọc Côn",
+        "type": "xa",
+        "slug": "ngoc-con",
+        "name_with_type": "Xã Ngọc Côn",
+        "path": "Ngọc Côn, Trùng Khánh, Cao Bằng",
+        "path_with_type": "Xã Ngọc Côn, Huyện Trùng Khánh, Tỉnh Cao Bằng",
+        "code": "01481",
+        "parent_code": "047"
+    },
+    "01483": {
+        "name": "Phong Nậm",
+        "type": "xa",
+        "slug": "phong-nam",
+        "name_with_type": "Xã Phong Nậm",
+        "path": "Phong Nậm, Trùng Khánh, Cao Bằng",
+        "path_with_type": "Xã Phong Nậm, Huyện Trùng Khánh, Tỉnh Cao Bằng",
+        "code": "01483",
+        "parent_code": "047"
+    },
+    "01486": {
+        "name": "Ngọc Chung",
+        "type": "xa",
+        "slug": "ngoc-chung",
+        "name_with_type": "Xã Ngọc Chung",
+        "path": "Ngọc Chung, Trùng Khánh, Cao Bằng",
+        "path_with_type": "Xã Ngọc Chung, Huyện Trùng Khánh, Tỉnh Cao Bằng",
+        "code": "01486",
+        "parent_code": "047"
+    },
+    "01489": {
+        "name": "Đình Phong",
+        "type": "xa",
+        "slug": "dinh-phong",
+        "name_with_type": "Xã Đình Phong",
+        "path": "Đình Phong, Trùng Khánh, Cao Bằng",
+        "path_with_type": "Xã Đình Phong, Huyện Trùng Khánh, Tỉnh Cao Bằng",
+        "code": "01489",
+        "parent_code": "047"
+    },
+    "01492": {
+        "name": "Lăng Yên",
+        "type": "xa",
+        "slug": "lang-yen",
+        "name_with_type": "Xã Lăng Yên",
+        "path": "Lăng Yên, Trùng Khánh, Cao Bằng",
+        "path_with_type": "Xã Lăng Yên, Huyện Trùng Khánh, Tỉnh Cao Bằng",
+        "code": "01492",
+        "parent_code": "047"
+    },
+    "01495": {
+        "name": "Đàm Thuỷ",
+        "type": "xa",
+        "slug": "dam-thuy",
+        "name_with_type": "Xã Đàm Thuỷ",
+        "path": "Đàm Thuỷ, Trùng Khánh, Cao Bằng",
+        "path_with_type": "Xã Đàm Thuỷ, Huyện Trùng Khánh, Tỉnh Cao Bằng",
+        "code": "01495",
+        "parent_code": "047"
+    },
+    "01498": {
+        "name": "Khâm Thành",
+        "type": "xa",
+        "slug": "kham-thanh",
+        "name_with_type": "Xã Khâm Thành",
+        "path": "Khâm Thành, Trùng Khánh, Cao Bằng",
+        "path_with_type": "Xã Khâm Thành, Huyện Trùng Khánh, Tỉnh Cao Bằng",
+        "code": "01498",
+        "parent_code": "047"
+    },
+    "01501": {
+        "name": "Chí Viễn",
+        "type": "xa",
+        "slug": "chi-vien",
+        "name_with_type": "Xã Chí Viễn",
+        "path": "Chí Viễn, Trùng Khánh, Cao Bằng",
+        "path_with_type": "Xã Chí Viễn, Huyện Trùng Khánh, Tỉnh Cao Bằng",
+        "code": "01501",
+        "parent_code": "047"
+    },
+    "01504": {
+        "name": "Lăng Hiếu",
+        "type": "xa",
+        "slug": "lang-hieu",
+        "name_with_type": "Xã Lăng Hiếu",
+        "path": "Lăng Hiếu, Trùng Khánh, Cao Bằng",
+        "path_with_type": "Xã Lăng Hiếu, Huyện Trùng Khánh, Tỉnh Cao Bằng",
+        "code": "01504",
+        "parent_code": "047"
+    },
+    "01507": {
+        "name": "Phong Châu",
+        "type": "xa",
+        "slug": "phong-chau",
+        "name_with_type": "Xã Phong Châu",
+        "path": "Phong Châu, Trùng Khánh, Cao Bằng",
+        "path_with_type": "Xã Phong Châu, Huyện Trùng Khánh, Tỉnh Cao Bằng",
+        "code": "01507",
+        "parent_code": "047"
+    },
+    "01510": {
+        "name": "Đình Minh",
+        "type": "xa",
+        "slug": "dinh-minh",
+        "name_with_type": "Xã Đình Minh",
+        "path": "Đình Minh, Trùng Khánh, Cao Bằng",
+        "path_with_type": "Xã Đình Minh, Huyện Trùng Khánh, Tỉnh Cao Bằng",
+        "code": "01510",
+        "parent_code": "047"
+    },
+    "01513": {
+        "name": "Cảnh Tiên",
+        "type": "xa",
+        "slug": "canh-tien",
+        "name_with_type": "Xã Cảnh Tiên",
+        "path": "Cảnh Tiên, Trùng Khánh, Cao Bằng",
+        "path_with_type": "Xã Cảnh Tiên, Huyện Trùng Khánh, Tỉnh Cao Bằng",
+        "code": "01513",
+        "parent_code": "047"
+    },
+    "01516": {
+        "name": "Trung Phúc",
+        "type": "xa",
+        "slug": "trung-phuc",
+        "name_with_type": "Xã Trung Phúc",
+        "path": "Trung Phúc, Trùng Khánh, Cao Bằng",
+        "path_with_type": "Xã Trung Phúc, Huyện Trùng Khánh, Tỉnh Cao Bằng",
+        "code": "01516",
+        "parent_code": "047"
+    },
+    "01519": {
+        "name": "Cao Thăng",
+        "type": "xa",
+        "slug": "cao-thang",
+        "name_with_type": "Xã Cao Thăng",
+        "path": "Cao Thăng, Trùng Khánh, Cao Bằng",
+        "path_with_type": "Xã Cao Thăng, Huyện Trùng Khánh, Tỉnh Cao Bằng",
+        "code": "01519",
+        "parent_code": "047"
+    },
+    "01522": {
+        "name": "Đức Hồng",
+        "type": "xa",
+        "slug": "duc-hong",
+        "name_with_type": "Xã Đức Hồng",
+        "path": "Đức Hồng, Trùng Khánh, Cao Bằng",
+        "path_with_type": "Xã Đức Hồng, Huyện Trùng Khánh, Tỉnh Cao Bằng",
+        "code": "01522",
+        "parent_code": "047"
+    },
+    "01525": {
+        "name": "Thông Hoè",
+        "type": "xa",
+        "slug": "thong-hoe",
+        "name_with_type": "Xã Thông Hoè",
+        "path": "Thông Hoè, Trùng Khánh, Cao Bằng",
+        "path_with_type": "Xã Thông Hoè, Huyện Trùng Khánh, Tỉnh Cao Bằng",
+        "code": "01525",
+        "parent_code": "047"
+    },
+    "01528": {
+        "name": "Thân Giáp",
+        "type": "xa",
+        "slug": "than-giap",
+        "name_with_type": "Xã Thân Giáp",
+        "path": "Thân Giáp, Trùng Khánh, Cao Bằng",
+        "path_with_type": "Xã Thân Giáp, Huyện Trùng Khánh, Tỉnh Cao Bằng",
+        "code": "01528",
+        "parent_code": "047"
+    },
+    "01531": {
+        "name": "Đoài Côn",
+        "type": "xa",
+        "slug": "doai-con",
+        "name_with_type": "Xã Đoài Côn",
+        "path": "Đoài Côn, Trùng Khánh, Cao Bằng",
+        "path_with_type": "Xã Đoài Côn, Huyện Trùng Khánh, Tỉnh Cao Bằng",
+        "code": "01531",
+        "parent_code": "047"
+    }
+}

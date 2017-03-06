@@ -1,0 +1,142 @@
+{
+    "29374": {
+        "name": "Châu Thành",
+        "type": "thi-tran",
+        "slug": "chau-thanh",
+        "name_with_type": "Thị trấn Châu Thành",
+        "path": "Châu Thành, Châu Thành, Trà Vinh",
+        "path_with_type": "Thị trấn Châu Thành, Huyện Châu Thành, Tỉnh Trà Vinh",
+        "code": "29374",
+        "parent_code": "847"
+    },
+    "29377": {
+        "name": "Đa Lộc",
+        "type": "xa",
+        "slug": "da-loc",
+        "name_with_type": "Xã Đa Lộc",
+        "path": "Đa Lộc, Châu Thành, Trà Vinh",
+        "path_with_type": "Xã Đa Lộc, Huyện Châu Thành, Tỉnh Trà Vinh",
+        "code": "29377",
+        "parent_code": "847"
+    },
+    "29380": {
+        "name": "Mỹ Chánh",
+        "type": "xa",
+        "slug": "my-chanh",
+        "name_with_type": "Xã Mỹ Chánh",
+        "path": "Mỹ Chánh, Châu Thành, Trà Vinh",
+        "path_with_type": "Xã Mỹ Chánh, Huyện Châu Thành, Tỉnh Trà Vinh",
+        "code": "29380",
+        "parent_code": "847"
+    },
+    "29383": {
+        "name": "Thanh Mỹ",
+        "type": "xa",
+        "slug": "thanh-my",
+        "name_with_type": "Xã Thanh Mỹ",
+        "path": "Thanh Mỹ, Châu Thành, Trà Vinh",
+        "path_with_type": "Xã Thanh Mỹ, Huyện Châu Thành, Tỉnh Trà Vinh",
+        "code": "29383",
+        "parent_code": "847"
+    },
+    "29386": {
+        "name": "Lương Hoà A",
+        "type": "xa",
+        "slug": "luong-hoa-a",
+        "name_with_type": "Xã Lương Hoà A",
+        "path": "Lương Hoà A, Châu Thành, Trà Vinh",
+        "path_with_type": "Xã Lương Hoà A, Huyện Châu Thành, Tỉnh Trà Vinh",
+        "code": "29386",
+        "parent_code": "847"
+    },
+    "29389": {
+        "name": "Lương Hòa",
+        "type": "xa",
+        "slug": "luong-hoa",
+        "name_with_type": "Xã Lương Hòa",
+        "path": "Lương Hòa, Châu Thành, Trà Vinh",
+        "path_with_type": "Xã Lương Hòa, Huyện Châu Thành, Tỉnh Trà Vinh",
+        "code": "29389",
+        "parent_code": "847"
+    },
+    "29392": {
+        "name": "Song Lộc",
+        "type": "xa",
+        "slug": "song-loc",
+        "name_with_type": "Xã Song Lộc",
+        "path": "Song Lộc, Châu Thành, Trà Vinh",
+        "path_with_type": "Xã Song Lộc, Huyện Châu Thành, Tỉnh Trà Vinh",
+        "code": "29392",
+        "parent_code": "847"
+    },
+    "29395": {
+        "name": "Nguyệt Hóa",
+        "type": "xa",
+        "slug": "nguyet-hoa",
+        "name_with_type": "Xã Nguyệt Hóa",
+        "path": "Nguyệt Hóa, Châu Thành, Trà Vinh",
+        "path_with_type": "Xã Nguyệt Hóa, Huyện Châu Thành, Tỉnh Trà Vinh",
+        "code": "29395",
+        "parent_code": "847"
+    },
+    "29398": {
+        "name": "Hòa Thuận",
+        "type": "xa",
+        "slug": "hoa-thuan",
+        "name_with_type": "Xã Hòa Thuận",
+        "path": "Hòa Thuận, Châu Thành, Trà Vinh",
+        "path_with_type": "Xã Hòa Thuận, Huyện Châu Thành, Tỉnh Trà Vinh",
+        "code": "29398",
+        "parent_code": "847"
+    },
+    "29401": {
+        "name": "Hòa Lợi",
+        "type": "xa",
+        "slug": "hoa-loi",
+        "name_with_type": "Xã Hòa Lợi",
+        "path": "Hòa Lợi, Châu Thành, Trà Vinh",
+        "path_with_type": "Xã Hòa Lợi, Huyện Châu Thành, Tỉnh Trà Vinh",
+        "code": "29401",
+        "parent_code": "847"
+    },
+    "29404": {
+        "name": "Phước Hảo",
+        "type": "xa",
+        "slug": "phuoc-hao",
+        "name_with_type": "Xã Phước Hảo",
+        "path": "Phước Hảo, Châu Thành, Trà Vinh",
+        "path_with_type": "Xã Phước Hảo, Huyện Châu Thành, Tỉnh Trà Vinh",
+        "code": "29404",
+        "parent_code": "847"
+    },
+    "29407": {
+        "name": "Hưng Mỹ",
+        "type": "xa",
+        "slug": "hung-my",
+        "name_with_type": "Xã Hưng Mỹ",
+        "path": "Hưng Mỹ, Châu Thành, Trà Vinh",
+        "path_with_type": "Xã Hưng Mỹ, Huyện Châu Thành, Tỉnh Trà Vinh",
+        "code": "29407",
+        "parent_code": "847"
+    },
+    "29410": {
+        "name": "Hòa Minh",
+        "type": "xa",
+        "slug": "hoa-minh",
+        "name_with_type": "Xã Hòa Minh",
+        "path": "Hòa Minh, Châu Thành, Trà Vinh",
+        "path_with_type": "Xã Hòa Minh, Huyện Châu Thành, Tỉnh Trà Vinh",
+        "code": "29410",
+        "parent_code": "847"
+    },
+    "29413": {
+        "name": "Long Hòa",
+        "type": "xa",
+        "slug": "long-hoa",
+        "name_with_type": "Xã Long Hòa",
+        "path": "Long Hòa, Châu Thành, Trà Vinh",
+        "path_with_type": "Xã Long Hòa, Huyện Châu Thành, Tỉnh Trà Vinh",
+        "code": "29413",
+        "parent_code": "847"
+    }
+}

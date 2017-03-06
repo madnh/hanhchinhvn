@@ -1,0 +1,212 @@
+{
+    "14464": {
+        "name": "Me",
+        "type": "thi-tran",
+        "slug": "me",
+        "name_with_type": "Thị trấn Me",
+        "path": "Me, Gia Viễn, Ninh Bình",
+        "path_with_type": "Thị trấn Me, Huyện Gia Viễn, Tỉnh Ninh Bình",
+        "code": "14464",
+        "parent_code": "373"
+    },
+    "14467": {
+        "name": "Gia Hòa",
+        "type": "xa",
+        "slug": "gia-hoa",
+        "name_with_type": "Xã Gia Hòa",
+        "path": "Gia Hòa, Gia Viễn, Ninh Bình",
+        "path_with_type": "Xã Gia Hòa, Huyện Gia Viễn, Tỉnh Ninh Bình",
+        "code": "14467",
+        "parent_code": "373"
+    },
+    "14470": {
+        "name": "Gia Hưng",
+        "type": "xa",
+        "slug": "gia-hung",
+        "name_with_type": "Xã Gia Hưng",
+        "path": "Gia Hưng, Gia Viễn, Ninh Bình",
+        "path_with_type": "Xã Gia Hưng, Huyện Gia Viễn, Tỉnh Ninh Bình",
+        "code": "14470",
+        "parent_code": "373"
+    },
+    "14473": {
+        "name": "Liên Sơn",
+        "type": "xa",
+        "slug": "lien-son",
+        "name_with_type": "Xã Liên Sơn",
+        "path": "Liên Sơn, Gia Viễn, Ninh Bình",
+        "path_with_type": "Xã Liên Sơn, Huyện Gia Viễn, Tỉnh Ninh Bình",
+        "code": "14473",
+        "parent_code": "373"
+    },
+    "14476": {
+        "name": "Gia Thanh",
+        "type": "xa",
+        "slug": "gia-thanh",
+        "name_with_type": "Xã Gia Thanh",
+        "path": "Gia Thanh, Gia Viễn, Ninh Bình",
+        "path_with_type": "Xã Gia Thanh, Huyện Gia Viễn, Tỉnh Ninh Bình",
+        "code": "14476",
+        "parent_code": "373"
+    },
+    "14479": {
+        "name": "Gia Vân",
+        "type": "xa",
+        "slug": "gia-van",
+        "name_with_type": "Xã Gia Vân",
+        "path": "Gia Vân, Gia Viễn, Ninh Bình",
+        "path_with_type": "Xã Gia Vân, Huyện Gia Viễn, Tỉnh Ninh Bình",
+        "code": "14479",
+        "parent_code": "373"
+    },
+    "14482": {
+        "name": "Gia Phú",
+        "type": "xa",
+        "slug": "gia-phu",
+        "name_with_type": "Xã Gia Phú",
+        "path": "Gia Phú, Gia Viễn, Ninh Bình",
+        "path_with_type": "Xã Gia Phú, Huyện Gia Viễn, Tỉnh Ninh Bình",
+        "code": "14482",
+        "parent_code": "373"
+    },
+    "14485": {
+        "name": "Gia Xuân",
+        "type": "xa",
+        "slug": "gia-xuan",
+        "name_with_type": "Xã Gia Xuân",
+        "path": "Gia Xuân, Gia Viễn, Ninh Bình",
+        "path_with_type": "Xã Gia Xuân, Huyện Gia Viễn, Tỉnh Ninh Bình",
+        "code": "14485",
+        "parent_code": "373"
+    },
+    "14488": {
+        "name": "Gia Lập",
+        "type": "xa",
+        "slug": "gia-lap",
+        "name_with_type": "Xã Gia Lập",
+        "path": "Gia Lập, Gia Viễn, Ninh Bình",
+        "path_with_type": "Xã Gia Lập, Huyện Gia Viễn, Tỉnh Ninh Bình",
+        "code": "14488",
+        "parent_code": "373"
+    },
+    "14491": {
+        "name": "Gia Vượng",
+        "type": "xa",
+        "slug": "gia-vuong",
+        "name_with_type": "Xã Gia Vượng",
+        "path": "Gia Vượng, Gia Viễn, Ninh Bình",
+        "path_with_type": "Xã Gia Vượng, Huyện Gia Viễn, Tỉnh Ninh Bình",
+        "code": "14491",
+        "parent_code": "373"
+    },
+    "14494": {
+        "name": "Gia Trấn",
+        "type": "xa",
+        "slug": "gia-tran",
+        "name_with_type": "Xã Gia Trấn",
+        "path": "Gia Trấn, Gia Viễn, Ninh Bình",
+        "path_with_type": "Xã Gia Trấn, Huyện Gia Viễn, Tỉnh Ninh Bình",
+        "code": "14494",
+        "parent_code": "373"
+    },
+    "14497": {
+        "name": "Gia Thịnh",
+        "type": "xa",
+        "slug": "gia-thinh",
+        "name_with_type": "Xã Gia Thịnh",
+        "path": "Gia Thịnh, Gia Viễn, Ninh Bình",
+        "path_with_type": "Xã Gia Thịnh, Huyện Gia Viễn, Tỉnh Ninh Bình",
+        "code": "14497",
+        "parent_code": "373"
+    },
+    "14500": {
+        "name": "Gia Phương",
+        "type": "xa",
+        "slug": "gia-phuong",
+        "name_with_type": "Xã Gia Phương",
+        "path": "Gia Phương, Gia Viễn, Ninh Bình",
+        "path_with_type": "Xã Gia Phương, Huyện Gia Viễn, Tỉnh Ninh Bình",
+        "code": "14500",
+        "parent_code": "373"
+    },
+    "14503": {
+        "name": "Gia Tân",
+        "type": "xa",
+        "slug": "gia-tan",
+        "name_with_type": "Xã Gia Tân",
+        "path": "Gia Tân, Gia Viễn, Ninh Bình",
+        "path_with_type": "Xã Gia Tân, Huyện Gia Viễn, Tỉnh Ninh Bình",
+        "code": "14503",
+        "parent_code": "373"
+    },
+    "14506": {
+        "name": "Gia Thắng",
+        "type": "xa",
+        "slug": "gia-thang",
+        "name_with_type": "Xã Gia Thắng",
+        "path": "Gia Thắng, Gia Viễn, Ninh Bình",
+        "path_with_type": "Xã Gia Thắng, Huyện Gia Viễn, Tỉnh Ninh Bình",
+        "code": "14506",
+        "parent_code": "373"
+    },
+    "14509": {
+        "name": "Gia Trung",
+        "type": "xa",
+        "slug": "gia-trung",
+        "name_with_type": "Xã Gia Trung",
+        "path": "Gia Trung, Gia Viễn, Ninh Bình",
+        "path_with_type": "Xã Gia Trung, Huyện Gia Viễn, Tỉnh Ninh Bình",
+        "code": "14509",
+        "parent_code": "373"
+    },
+    "14512": {
+        "name": "Gia Minh",
+        "type": "xa",
+        "slug": "gia-minh",
+        "name_with_type": "Xã Gia Minh",
+        "path": "Gia Minh, Gia Viễn, Ninh Bình",
+        "path_with_type": "Xã Gia Minh, Huyện Gia Viễn, Tỉnh Ninh Bình",
+        "code": "14512",
+        "parent_code": "373"
+    },
+    "14515": {
+        "name": "Gia Lạc",
+        "type": "xa",
+        "slug": "gia-lac",
+        "name_with_type": "Xã Gia Lạc",
+        "path": "Gia Lạc, Gia Viễn, Ninh Bình",
+        "path_with_type": "Xã Gia Lạc, Huyện Gia Viễn, Tỉnh Ninh Bình",
+        "code": "14515",
+        "parent_code": "373"
+    },
+    "14518": {
+        "name": "Gia Tiến",
+        "type": "xa",
+        "slug": "gia-tien",
+        "name_with_type": "Xã Gia Tiến",
+        "path": "Gia Tiến, Gia Viễn, Ninh Bình",
+        "path_with_type": "Xã Gia Tiến, Huyện Gia Viễn, Tỉnh Ninh Bình",
+        "code": "14518",
+        "parent_code": "373"
+    },
+    "14521": {
+        "name": "Gia Sinh",
+        "type": "xa",
+        "slug": "gia-sinh",
+        "name_with_type": "Xã Gia Sinh",
+        "path": "Gia Sinh, Gia Viễn, Ninh Bình",
+        "path_with_type": "Xã Gia Sinh, Huyện Gia Viễn, Tỉnh Ninh Bình",
+        "code": "14521",
+        "parent_code": "373"
+    },
+    "14524": {
+        "name": "Gia Phong",
+        "type": "xa",
+        "slug": "gia-phong",
+        "name_with_type": "Xã Gia Phong",
+        "path": "Gia Phong, Gia Viễn, Ninh Bình",
+        "path_with_type": "Xã Gia Phong, Huyện Gia Viễn, Tỉnh Ninh Bình",
+        "code": "14524",
+        "parent_code": "373"
+    }
+}

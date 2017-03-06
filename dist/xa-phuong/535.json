@@ -1,0 +1,202 @@
+{
+    "21484": {
+        "name": "Ba Tơ",
+        "type": "thi-tran",
+        "slug": "ba-to",
+        "name_with_type": "Thị trấn Ba Tơ",
+        "path": "Ba Tơ, Ba Tơ, Quảng Ngãi",
+        "path_with_type": "Thị trấn Ba Tơ, Huyện Ba Tơ, Tỉnh Quảng Ngãi",
+        "code": "21484",
+        "parent_code": "535"
+    },
+    "21487": {
+        "name": "Ba Điền",
+        "type": "xa",
+        "slug": "ba-dien",
+        "name_with_type": "Xã Ba Điền",
+        "path": "Ba Điền, Ba Tơ, Quảng Ngãi",
+        "path_with_type": "Xã Ba Điền, Huyện Ba Tơ, Tỉnh Quảng Ngãi",
+        "code": "21487",
+        "parent_code": "535"
+    },
+    "21490": {
+        "name": "Ba Vinh",
+        "type": "xa",
+        "slug": "ba-vinh",
+        "name_with_type": "Xã Ba Vinh",
+        "path": "Ba Vinh, Ba Tơ, Quảng Ngãi",
+        "path_with_type": "Xã Ba Vinh, Huyện Ba Tơ, Tỉnh Quảng Ngãi",
+        "code": "21490",
+        "parent_code": "535"
+    },
+    "21493": {
+        "name": "Ba Thành",
+        "type": "xa",
+        "slug": "ba-thanh",
+        "name_with_type": "Xã Ba Thành",
+        "path": "Ba Thành, Ba Tơ, Quảng Ngãi",
+        "path_with_type": "Xã Ba Thành, Huyện Ba Tơ, Tỉnh Quảng Ngãi",
+        "code": "21493",
+        "parent_code": "535"
+    },
+    "21496": {
+        "name": "Ba Động",
+        "type": "xa",
+        "slug": "ba-dong",
+        "name_with_type": "Xã Ba Động",
+        "path": "Ba Động, Ba Tơ, Quảng Ngãi",
+        "path_with_type": "Xã Ba Động, Huyện Ba Tơ, Tỉnh Quảng Ngãi",
+        "code": "21496",
+        "parent_code": "535"
+    },
+    "21499": {
+        "name": "Ba Dinh",
+        "type": "xa",
+        "slug": "ba-dinh",
+        "name_with_type": "Xã Ba Dinh",
+        "path": "Ba Dinh, Ba Tơ, Quảng Ngãi",
+        "path_with_type": "Xã Ba Dinh, Huyện Ba Tơ, Tỉnh Quảng Ngãi",
+        "code": "21499",
+        "parent_code": "535"
+    },
+    "21500": {
+        "name": "Ba Giang",
+        "type": "xa",
+        "slug": "ba-giang",
+        "name_with_type": "Xã Ba Giang",
+        "path": "Ba Giang, Ba Tơ, Quảng Ngãi",
+        "path_with_type": "Xã Ba Giang, Huyện Ba Tơ, Tỉnh Quảng Ngãi",
+        "code": "21500",
+        "parent_code": "535"
+    },
+    "21502": {
+        "name": "Ba Liên",
+        "type": "xa",
+        "slug": "ba-lien",
+        "name_with_type": "Xã Ba Liên",
+        "path": "Ba Liên, Ba Tơ, Quảng Ngãi",
+        "path_with_type": "Xã Ba Liên, Huyện Ba Tơ, Tỉnh Quảng Ngãi",
+        "code": "21502",
+        "parent_code": "535"
+    },
+    "21505": {
+        "name": "Ba Ngạc",
+        "type": "xa",
+        "slug": "ba-ngac",
+        "name_with_type": "Xã Ba Ngạc",
+        "path": "Ba Ngạc, Ba Tơ, Quảng Ngãi",
+        "path_with_type": "Xã Ba Ngạc, Huyện Ba Tơ, Tỉnh Quảng Ngãi",
+        "code": "21505",
+        "parent_code": "535"
+    },
+    "21508": {
+        "name": "Ba Khâm",
+        "type": "xa",
+        "slug": "ba-kham",
+        "name_with_type": "Xã Ba Khâm",
+        "path": "Ba Khâm, Ba Tơ, Quảng Ngãi",
+        "path_with_type": "Xã Ba Khâm, Huyện Ba Tơ, Tỉnh Quảng Ngãi",
+        "code": "21508",
+        "parent_code": "535"
+    },
+    "21511": {
+        "name": "Ba Cung",
+        "type": "xa",
+        "slug": "ba-cung",
+        "name_with_type": "Xã Ba Cung",
+        "path": "Ba Cung, Ba Tơ, Quảng Ngãi",
+        "path_with_type": "Xã Ba Cung, Huyện Ba Tơ, Tỉnh Quảng Ngãi",
+        "code": "21511",
+        "parent_code": "535"
+    },
+    "21514": {
+        "name": "Ba Chùa",
+        "type": "xa",
+        "slug": "ba-chua",
+        "name_with_type": "Xã Ba Chùa",
+        "path": "Ba Chùa, Ba Tơ, Quảng Ngãi",
+        "path_with_type": "Xã Ba Chùa, Huyện Ba Tơ, Tỉnh Quảng Ngãi",
+        "code": "21514",
+        "parent_code": "535"
+    },
+    "21517": {
+        "name": "Ba Tiêu",
+        "type": "xa",
+        "slug": "ba-tieu",
+        "name_with_type": "Xã Ba Tiêu",
+        "path": "Ba Tiêu, Ba Tơ, Quảng Ngãi",
+        "path_with_type": "Xã Ba Tiêu, Huyện Ba Tơ, Tỉnh Quảng Ngãi",
+        "code": "21517",
+        "parent_code": "535"
+    },
+    "21520": {
+        "name": "Ba Trang",
+        "type": "xa",
+        "slug": "ba-trang",
+        "name_with_type": "Xã Ba Trang",
+        "path": "Ba Trang, Ba Tơ, Quảng Ngãi",
+        "path_with_type": "Xã Ba Trang, Huyện Ba Tơ, Tỉnh Quảng Ngãi",
+        "code": "21520",
+        "parent_code": "535"
+    },
+    "21523": {
+        "name": "Ba Tô",
+        "type": "xa",
+        "slug": "ba-to",
+        "name_with_type": "Xã Ba Tô",
+        "path": "Ba Tô, Ba Tơ, Quảng Ngãi",
+        "path_with_type": "Xã Ba Tô, Huyện Ba Tơ, Tỉnh Quảng Ngãi",
+        "code": "21523",
+        "parent_code": "535"
+    },
+    "21526": {
+        "name": "Ba Bích",
+        "type": "xa",
+        "slug": "ba-bich",
+        "name_with_type": "Xã Ba Bích",
+        "path": "Ba Bích, Ba Tơ, Quảng Ngãi",
+        "path_with_type": "Xã Ba Bích, Huyện Ba Tơ, Tỉnh Quảng Ngãi",
+        "code": "21526",
+        "parent_code": "535"
+    },
+    "21529": {
+        "name": "Ba Vì",
+        "type": "xa",
+        "slug": "ba-vi",
+        "name_with_type": "Xã Ba Vì",
+        "path": "Ba Vì, Ba Tơ, Quảng Ngãi",
+        "path_with_type": "Xã Ba Vì, Huyện Ba Tơ, Tỉnh Quảng Ngãi",
+        "code": "21529",
+        "parent_code": "535"
+    },
+    "21532": {
+        "name": "Ba Lế",
+        "type": "xa",
+        "slug": "ba-le",
+        "name_with_type": "Xã Ba Lế",
+        "path": "Ba Lế, Ba Tơ, Quảng Ngãi",
+        "path_with_type": "Xã Ba Lế, Huyện Ba Tơ, Tỉnh Quảng Ngãi",
+        "code": "21532",
+        "parent_code": "535"
+    },
+    "21535": {
+        "name": "Ba Nam",
+        "type": "xa",
+        "slug": "ba-nam",
+        "name_with_type": "Xã Ba Nam",
+        "path": "Ba Nam, Ba Tơ, Quảng Ngãi",
+        "path_with_type": "Xã Ba Nam, Huyện Ba Tơ, Tỉnh Quảng Ngãi",
+        "code": "21535",
+        "parent_code": "535"
+    },
+    "21538": {
+        "name": "Ba Xa",
+        "type": "xa",
+        "slug": "ba-xa",
+        "name_with_type": "Xã Ba Xa",
+        "path": "Ba Xa, Ba Tơ, Quảng Ngãi",
+        "path_with_type": "Xã Ba Xa, Huyện Ba Tơ, Tỉnh Quảng Ngãi",
+        "code": "21538",
+        "parent_code": "535"
+    }
+}

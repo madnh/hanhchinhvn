@@ -1,0 +1,152 @@
+{
+    "21688": {
+        "name": "Tăng Bạt Hổ",
+        "type": "thi-tran",
+        "slug": "tang-bat-ho",
+        "name_with_type": "Thị trấn Tăng Bạt Hổ",
+        "path": "Tăng Bạt Hổ, Hoài Ân, Bình Định",
+        "path_with_type": "Thị trấn Tăng Bạt Hổ, Huyện Hoài Ân, Tỉnh Bình Định",
+        "code": "21688",
+        "parent_code": "544"
+    },
+    "21690": {
+        "name": "Ân Hảo Tây",
+        "type": "xa",
+        "slug": "an-hao-tay",
+        "name_with_type": "Xã Ân Hảo Tây",
+        "path": "Ân Hảo Tây, Hoài Ân, Bình Định",
+        "path_with_type": "Xã Ân Hảo Tây, Huyện Hoài Ân, Tỉnh Bình Định",
+        "code": "21690",
+        "parent_code": "544"
+    },
+    "21691": {
+        "name": "Ân Hảo Đông",
+        "type": "xa",
+        "slug": "an-hao-dong",
+        "name_with_type": "Xã Ân Hảo Đông",
+        "path": "Ân Hảo Đông, Hoài Ân, Bình Định",
+        "path_with_type": "Xã Ân Hảo Đông, Huyện Hoài Ân, Tỉnh Bình Định",
+        "code": "21691",
+        "parent_code": "544"
+    },
+    "21694": {
+        "name": "Ân Sơn",
+        "type": "xa",
+        "slug": "an-son",
+        "name_with_type": "Xã Ân Sơn",
+        "path": "Ân Sơn, Hoài Ân, Bình Định",
+        "path_with_type": "Xã Ân Sơn, Huyện Hoài Ân, Tỉnh Bình Định",
+        "code": "21694",
+        "parent_code": "544"
+    },
+    "21697": {
+        "name": "Ân Mỹ",
+        "type": "xa",
+        "slug": "an-my",
+        "name_with_type": "Xã Ân Mỹ",
+        "path": "Ân Mỹ, Hoài Ân, Bình Định",
+        "path_with_type": "Xã Ân Mỹ, Huyện Hoài Ân, Tỉnh Bình Định",
+        "code": "21697",
+        "parent_code": "544"
+    },
+    "21700": {
+        "name": "Dak Mang",
+        "type": "xa",
+        "slug": "dak-mang",
+        "name_with_type": "Xã Dak Mang",
+        "path": "Dak Mang, Hoài Ân, Bình Định",
+        "path_with_type": "Xã Dak Mang, Huyện Hoài Ân, Tỉnh Bình Định",
+        "code": "21700",
+        "parent_code": "544"
+    },
+    "21703": {
+        "name": "Ân Tín",
+        "type": "xa",
+        "slug": "an-tin",
+        "name_with_type": "Xã Ân Tín",
+        "path": "Ân Tín, Hoài Ân, Bình Định",
+        "path_with_type": "Xã Ân Tín, Huyện Hoài Ân, Tỉnh Bình Định",
+        "code": "21703",
+        "parent_code": "544"
+    },
+    "21706": {
+        "name": "Ân Thạnh",
+        "type": "xa",
+        "slug": "an-thanh",
+        "name_with_type": "Xã Ân Thạnh",
+        "path": "Ân Thạnh, Hoài Ân, Bình Định",
+        "path_with_type": "Xã Ân Thạnh, Huyện Hoài Ân, Tỉnh Bình Định",
+        "code": "21706",
+        "parent_code": "544"
+    },
+    "21709": {
+        "name": "Ân Phong",
+        "type": "xa",
+        "slug": "an-phong",
+        "name_with_type": "Xã Ân Phong",
+        "path": "Ân Phong, Hoài Ân, Bình Định",
+        "path_with_type": "Xã Ân Phong, Huyện Hoài Ân, Tỉnh Bình Định",
+        "code": "21709",
+        "parent_code": "544"
+    },
+    "21712": {
+        "name": "Ân Đức",
+        "type": "xa",
+        "slug": "an-duc",
+        "name_with_type": "Xã Ân Đức",
+        "path": "Ân Đức, Hoài Ân, Bình Định",
+        "path_with_type": "Xã Ân Đức, Huyện Hoài Ân, Tỉnh Bình Định",
+        "code": "21712",
+        "parent_code": "544"
+    },
+    "21715": {
+        "name": "Ân Hữu",
+        "type": "xa",
+        "slug": "an-huu",
+        "name_with_type": "Xã Ân Hữu",
+        "path": "Ân Hữu, Hoài Ân, Bình Định",
+        "path_with_type": "Xã Ân Hữu, Huyện Hoài Ân, Tỉnh Bình Định",
+        "code": "21715",
+        "parent_code": "544"
+    },
+    "21718": {
+        "name": "Bok Tới",
+        "type": "xa",
+        "slug": "bok-toi",
+        "name_with_type": "Xã Bok Tới",
+        "path": "Bok Tới, Hoài Ân, Bình Định",
+        "path_with_type": "Xã Bok Tới, Huyện Hoài Ân, Tỉnh Bình Định",
+        "code": "21718",
+        "parent_code": "544"
+    },
+    "21721": {
+        "name": "Ân Tường Tây",
+        "type": "xa",
+        "slug": "an-tuong-tay",
+        "name_with_type": "Xã Ân Tường Tây",
+        "path": "Ân Tường Tây, Hoài Ân, Bình Định",
+        "path_with_type": "Xã Ân Tường Tây, Huyện Hoài Ân, Tỉnh Bình Định",
+        "code": "21721",
+        "parent_code": "544"
+    },
+    "21724": {
+        "name": "Ân Tường Đông",
+        "type": "xa",
+        "slug": "an-tuong-dong",
+        "name_with_type": "Xã Ân Tường Đông",
+        "path": "Ân Tường Đông, Hoài Ân, Bình Định",
+        "path_with_type": "Xã Ân Tường Đông, Huyện Hoài Ân, Tỉnh Bình Định",
+        "code": "21724",
+        "parent_code": "544"
+    },
+    "21727": {
+        "name": "Ân Nghĩa",
+        "type": "xa",
+        "slug": "an-nghia",
+        "name_with_type": "Xã Ân Nghĩa",
+        "path": "Ân Nghĩa, Hoài Ân, Bình Định",
+        "path_with_type": "Xã Ân Nghĩa, Huyện Hoài Ân, Tỉnh Bình Định",
+        "code": "21727",
+        "parent_code": "544"
+    }
+}

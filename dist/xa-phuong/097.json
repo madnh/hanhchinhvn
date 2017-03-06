@@ -1,0 +1,122 @@
+{
+    "03172": {
+        "name": "Mường Chà",
+        "type": "thi-tran",
+        "slug": "muong-cha",
+        "name_with_type": "Thị Trấn Mường Chà",
+        "path": "Mường Chà, Mường Chà, Điện Biên",
+        "path_with_type": "Thị Trấn Mường Chà, Huyện Mường Chà, Tỉnh Điện Biên",
+        "code": "03172",
+        "parent_code": "097"
+    },
+    "03178": {
+        "name": "Xá Tổng",
+        "type": "xa",
+        "slug": "xa-tong",
+        "name_with_type": "Xã Xá Tổng",
+        "path": "Xá Tổng, Mường Chà, Điện Biên",
+        "path_with_type": "Xã Xá Tổng, Huyện Mường Chà, Tỉnh Điện Biên",
+        "code": "03178",
+        "parent_code": "097"
+    },
+    "03181": {
+        "name": "Mường Tùng",
+        "type": "xa",
+        "slug": "muong-tung",
+        "name_with_type": "Xã Mường Tùng",
+        "path": "Mường Tùng, Mường Chà, Điện Biên",
+        "path_with_type": "Xã Mường Tùng, Huyện Mường Chà, Tỉnh Điện Biên",
+        "code": "03181",
+        "parent_code": "097"
+    },
+    "03190": {
+        "name": "Hừa Ngài",
+        "type": "xa",
+        "slug": "hua-ngai",
+        "name_with_type": "Xã Hừa Ngài",
+        "path": "Hừa Ngài, Mường Chà, Điện Biên",
+        "path_with_type": "Xã Hừa Ngài, Huyện Mường Chà, Tỉnh Điện Biên",
+        "code": "03190",
+        "parent_code": "097"
+    },
+    "03191": {
+        "name": "Huổi Mí",
+        "type": "xa",
+        "slug": "huoi-mi",
+        "name_with_type": "Xã Huổi Mí",
+        "path": "Huổi Mí, Mường Chà, Điện Biên",
+        "path_with_type": "Xã Huổi Mí, Huyện Mường Chà, Tỉnh Điện Biên",
+        "code": "03191",
+        "parent_code": "097"
+    },
+    "03193": {
+        "name": "Pa Ham",
+        "type": "xa",
+        "slug": "pa-ham",
+        "name_with_type": "Xã Pa Ham",
+        "path": "Pa Ham, Mường Chà, Điện Biên",
+        "path_with_type": "Xã Pa Ham, Huyện Mường Chà, Tỉnh Điện Biên",
+        "code": "03193",
+        "parent_code": "097"
+    },
+    "03194": {
+        "name": "Nậm Nèn",
+        "type": "xa",
+        "slug": "nam-nen",
+        "name_with_type": "Xã Nậm Nèn",
+        "path": "Nậm Nèn, Mường Chà, Điện Biên",
+        "path_with_type": "Xã Nậm Nèn, Huyện Mường Chà, Tỉnh Điện Biên",
+        "code": "03194",
+        "parent_code": "097"
+    },
+    "03196": {
+        "name": "Huổi Lèng",
+        "type": "xa",
+        "slug": "huoi-leng",
+        "name_with_type": "Xã Huổi Lèng",
+        "path": "Huổi Lèng, Mường Chà, Điện Biên",
+        "path_with_type": "Xã Huổi Lèng, Huyện Mường Chà, Tỉnh Điện Biên",
+        "code": "03196",
+        "parent_code": "097"
+    },
+    "03197": {
+        "name": "Sa Lông",
+        "type": "xa",
+        "slug": "sa-long",
+        "name_with_type": "Xã Sa Lông",
+        "path": "Sa Lông, Mường Chà, Điện Biên",
+        "path_with_type": "Xã Sa Lông, Huyện Mường Chà, Tỉnh Điện Biên",
+        "code": "03197",
+        "parent_code": "097"
+    },
+    "03200": {
+        "name": "Ma Thì Hồ",
+        "type": "xa",
+        "slug": "ma-thi-ho",
+        "name_with_type": "Xã Ma Thì Hồ",
+        "path": "Ma Thì Hồ, Mường Chà, Điện Biên",
+        "path_with_type": "Xã Ma Thì Hồ, Huyện Mường Chà, Tỉnh Điện Biên",
+        "code": "03200",
+        "parent_code": "097"
+    },
+    "03201": {
+        "name": "Na Sang",
+        "type": "xa",
+        "slug": "na-sang",
+        "name_with_type": "Xã Na Sang",
+        "path": "Na Sang, Mường Chà, Điện Biên",
+        "path_with_type": "Xã Na Sang, Huyện Mường Chà, Tỉnh Điện Biên",
+        "code": "03201",
+        "parent_code": "097"
+    },
+    "03202": {
+        "name": "Mường Mươn",
+        "type": "xa",
+        "slug": "muong-muon",
+        "name_with_type": "Xã Mường Mươn",
+        "path": "Mường Mươn, Mường Chà, Điện Biên",
+        "path_with_type": "Xã Mường Mươn, Huyện Mường Chà, Tỉnh Điện Biên",
+        "code": "03202",
+        "parent_code": "097"
+    }
+}

@@ -1,0 +1,142 @@
+{
+    "09496": {
+        "name": "Thứa",
+        "type": "thi-tran",
+        "slug": "thua",
+        "name_with_type": "Thị trấn Thứa",
+        "path": "Thứa, Lương Tài, Bắc Ninh",
+        "path_with_type": "Thị trấn Thứa, Huyện Lương Tài, Tỉnh Bắc Ninh",
+        "code": "09496",
+        "parent_code": "264"
+    },
+    "09499": {
+        "name": "An Thịnh",
+        "type": "xa",
+        "slug": "an-thinh",
+        "name_with_type": "Xã An Thịnh",
+        "path": "An Thịnh, Lương Tài, Bắc Ninh",
+        "path_with_type": "Xã An Thịnh, Huyện Lương Tài, Tỉnh Bắc Ninh",
+        "code": "09499",
+        "parent_code": "264"
+    },
+    "09502": {
+        "name": "Trung Kênh",
+        "type": "xa",
+        "slug": "trung-kenh",
+        "name_with_type": "Xã Trung Kênh",
+        "path": "Trung Kênh, Lương Tài, Bắc Ninh",
+        "path_with_type": "Xã Trung Kênh, Huyện Lương Tài, Tỉnh Bắc Ninh",
+        "code": "09502",
+        "parent_code": "264"
+    },
+    "09505": {
+        "name": "Phú Hòa",
+        "type": "xa",
+        "slug": "phu-hoa",
+        "name_with_type": "Xã Phú Hòa",
+        "path": "Phú Hòa, Lương Tài, Bắc Ninh",
+        "path_with_type": "Xã Phú Hòa, Huyện Lương Tài, Tỉnh Bắc Ninh",
+        "code": "09505",
+        "parent_code": "264"
+    },
+    "09508": {
+        "name": "Mỹ Hương",
+        "type": "xa",
+        "slug": "my-huong",
+        "name_with_type": "Xã Mỹ Hương",
+        "path": "Mỹ Hương, Lương Tài, Bắc Ninh",
+        "path_with_type": "Xã Mỹ Hương, Huyện Lương Tài, Tỉnh Bắc Ninh",
+        "code": "09508",
+        "parent_code": "264"
+    },
+    "09511": {
+        "name": "Tân Lãng",
+        "type": "xa",
+        "slug": "tan-lang",
+        "name_with_type": "Xã Tân Lãng",
+        "path": "Tân Lãng, Lương Tài, Bắc Ninh",
+        "path_with_type": "Xã Tân Lãng, Huyện Lương Tài, Tỉnh Bắc Ninh",
+        "code": "09511",
+        "parent_code": "264"
+    },
+    "09514": {
+        "name": "Quảng Phú",
+        "type": "xa",
+        "slug": "quang-phu",
+        "name_with_type": "Xã Quảng Phú",
+        "path": "Quảng Phú, Lương Tài, Bắc Ninh",
+        "path_with_type": "Xã Quảng Phú, Huyện Lương Tài, Tỉnh Bắc Ninh",
+        "code": "09514",
+        "parent_code": "264"
+    },
+    "09517": {
+        "name": "Trừng Xá",
+        "type": "xa",
+        "slug": "trung-xa",
+        "name_with_type": "Xã Trừng Xá",
+        "path": "Trừng Xá, Lương Tài, Bắc Ninh",
+        "path_with_type": "Xã Trừng Xá, Huyện Lương Tài, Tỉnh Bắc Ninh",
+        "code": "09517",
+        "parent_code": "264"
+    },
+    "09520": {
+        "name": "Lai Hạ",
+        "type": "xa",
+        "slug": "lai-ha",
+        "name_with_type": "Xã Lai Hạ",
+        "path": "Lai Hạ, Lương Tài, Bắc Ninh",
+        "path_with_type": "Xã Lai Hạ, Huyện Lương Tài, Tỉnh Bắc Ninh",
+        "code": "09520",
+        "parent_code": "264"
+    },
+    "09523": {
+        "name": "Trung Chính",
+        "type": "xa",
+        "slug": "trung-chinh",
+        "name_with_type": "Xã Trung Chính",
+        "path": "Trung Chính, Lương Tài, Bắc Ninh",
+        "path_with_type": "Xã Trung Chính, Huyện Lương Tài, Tỉnh Bắc Ninh",
+        "code": "09523",
+        "parent_code": "264"
+    },
+    "09526": {
+        "name": "Minh Tân",
+        "type": "xa",
+        "slug": "minh-tan",
+        "name_with_type": "Xã Minh Tân",
+        "path": "Minh Tân, Lương Tài, Bắc Ninh",
+        "path_with_type": "Xã Minh Tân, Huyện Lương Tài, Tỉnh Bắc Ninh",
+        "code": "09526",
+        "parent_code": "264"
+    },
+    "09529": {
+        "name": "Bình Định",
+        "type": "xa",
+        "slug": "binh-dinh",
+        "name_with_type": "Xã Bình Định",
+        "path": "Bình Định, Lương Tài, Bắc Ninh",
+        "path_with_type": "Xã Bình Định, Huyện Lương Tài, Tỉnh Bắc Ninh",
+        "code": "09529",
+        "parent_code": "264"
+    },
+    "09532": {
+        "name": "Phú Lương",
+        "type": "xa",
+        "slug": "phu-luong",
+        "name_with_type": "Xã Phú Lương",
+        "path": "Phú Lương, Lương Tài, Bắc Ninh",
+        "path_with_type": "Xã Phú Lương, Huyện Lương Tài, Tỉnh Bắc Ninh",
+        "code": "09532",
+        "parent_code": "264"
+    },
+    "09535": {
+        "name": "Lâm Thao",
+        "type": "xa",
+        "slug": "lam-thao",
+        "name_with_type": "Xã Lâm Thao",
+        "path": "Lâm Thao, Lương Tài, Bắc Ninh",
+        "path_with_type": "Xã Lâm Thao, Huyện Lương Tài, Tỉnh Bắc Ninh",
+        "code": "09535",
+        "parent_code": "264"
+    }
+}

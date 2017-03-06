@@ -1,0 +1,82 @@
+{
+    "336": {
+        "name": "Thái Bình",
+        "type": "thanh-pho",
+        "slug": "thai-binh",
+        "name_with_type": "Thành phố Thái Bình",
+        "path": "Thái Bình, Thái Bình",
+        "path_with_type": "Thành phố Thái Bình, Tỉnh Thái Bình",
+        "code": "336",
+        "parent_code": "34"
+    },
+    "338": {
+        "name": "Quỳnh Phụ",
+        "type": "huyen",
+        "slug": "quynh-phu",
+        "name_with_type": "Huyện Quỳnh Phụ",
+        "path": "Quỳnh Phụ, Thái Bình",
+        "path_with_type": "Huyện Quỳnh Phụ, Tỉnh Thái Bình",
+        "code": "338",
+        "parent_code": "34"
+    },
+    "339": {
+        "name": "Hưng Hà",
+        "type": "huyen",
+        "slug": "hung-ha",
+        "name_with_type": "Huyện Hưng Hà",
+        "path": "Hưng Hà, Thái Bình",
+        "path_with_type": "Huyện Hưng Hà, Tỉnh Thái Bình",
+        "code": "339",
+        "parent_code": "34"
+    },
+    "340": {
+        "name": "Đông Hưng",
+        "type": "huyen",
+        "slug": "dong-hung",
+        "name_with_type": "Huyện Đông Hưng",
+        "path": "Đông Hưng, Thái Bình",
+        "path_with_type": "Huyện Đông Hưng, Tỉnh Thái Bình",
+        "code": "340",
+        "parent_code": "34"
+    },
+    "341": {
+        "name": "Thái Thụy",
+        "type": "huyen",
+        "slug": "thai-thuy",
+        "name_with_type": "Huyện Thái Thụy",
+        "path": "Thái Thụy, Thái Bình",
+        "path_with_type": "Huyện Thái Thụy, Tỉnh Thái Bình",
+        "code": "341",
+        "parent_code": "34"
+    },
+    "342": {
+        "name": "Tiền Hải",
+        "type": "huyen",
+        "slug": "tien-hai",
+        "name_with_type": "Huyện Tiền Hải",
+        "path": "Tiền Hải, Thái Bình",
+        "path_with_type": "Huyện Tiền Hải, Tỉnh Thái Bình",
+        "code": "342",
+        "parent_code": "34"
+    },
+    "343": {
+        "name": "Kiến Xương",
+        "type": "huyen",
+        "slug": "kien-xuong",
+        "name_with_type": "Huyện Kiến Xương",
+        "path": "Kiến Xương, Thái Bình",
+        "path_with_type": "Huyện Kiến Xương, Tỉnh Thái Bình",
+        "code": "343",
+        "parent_code": "34"
+    },
+    "344": {
+        "name": "Vũ Thư",
+        "type": "huyen",
+        "slug": "vu-thu",
+        "name_with_type": "Huyện Vũ Thư",
+        "path": "Vũ Thư, Thái Bình",
+        "path_with_type": "Huyện Vũ Thư, Tỉnh Thái Bình",
+        "code": "344",
+        "parent_code": "34"
+    }
+}

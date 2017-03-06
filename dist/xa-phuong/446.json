@@ -1,0 +1,272 @@
+{
+    "18673": {
+        "name": "Cẩm Xuyên",
+        "type": "thi-tran",
+        "slug": "cam-xuyen",
+        "name_with_type": "Thị trấn Cẩm Xuyên",
+        "path": "Cẩm Xuyên, Cẩm Xuyên, Hà Tĩnh",
+        "path_with_type": "Thị trấn Cẩm Xuyên, Huyện Cẩm Xuyên, Tỉnh Hà Tĩnh",
+        "code": "18673",
+        "parent_code": "446"
+    },
+    "18676": {
+        "name": "Thiên Cầm",
+        "type": "thi-tran",
+        "slug": "thien-cam",
+        "name_with_type": "Thị trấn Thiên Cầm",
+        "path": "Thiên Cầm, Cẩm Xuyên, Hà Tĩnh",
+        "path_with_type": "Thị trấn Thiên Cầm, Huyện Cẩm Xuyên, Tỉnh Hà Tĩnh",
+        "code": "18676",
+        "parent_code": "446"
+    },
+    "18679": {
+        "name": "Cẩm Hòa",
+        "type": "xa",
+        "slug": "cam-hoa",
+        "name_with_type": "Xã Cẩm Hòa",
+        "path": "Cẩm Hòa, Cẩm Xuyên, Hà Tĩnh",
+        "path_with_type": "Xã Cẩm Hòa, Huyện Cẩm Xuyên, Tỉnh Hà Tĩnh",
+        "code": "18679",
+        "parent_code": "446"
+    },
+    "18682": {
+        "name": "Cẩm Dương",
+        "type": "xa",
+        "slug": "cam-duong",
+        "name_with_type": "Xã Cẩm Dương",
+        "path": "Cẩm Dương, Cẩm Xuyên, Hà Tĩnh",
+        "path_with_type": "Xã Cẩm Dương, Huyện Cẩm Xuyên, Tỉnh Hà Tĩnh",
+        "code": "18682",
+        "parent_code": "446"
+    },
+    "18685": {
+        "name": "Cẩm Bình",
+        "type": "xa",
+        "slug": "cam-binh",
+        "name_with_type": "Xã Cẩm Bình",
+        "path": "Cẩm Bình, Cẩm Xuyên, Hà Tĩnh",
+        "path_with_type": "Xã Cẩm Bình, Huyện Cẩm Xuyên, Tỉnh Hà Tĩnh",
+        "code": "18685",
+        "parent_code": "446"
+    },
+    "18688": {
+        "name": "Cẩm Yên",
+        "type": "xa",
+        "slug": "cam-yen",
+        "name_with_type": "Xã Cẩm Yên",
+        "path": "Cẩm Yên, Cẩm Xuyên, Hà Tĩnh",
+        "path_with_type": "Xã Cẩm Yên, Huyện Cẩm Xuyên, Tỉnh Hà Tĩnh",
+        "code": "18688",
+        "parent_code": "446"
+    },
+    "18691": {
+        "name": "Cẩm Vĩnh",
+        "type": "xa",
+        "slug": "cam-vinh",
+        "name_with_type": "Xã Cẩm Vĩnh",
+        "path": "Cẩm Vĩnh, Cẩm Xuyên, Hà Tĩnh",
+        "path_with_type": "Xã Cẩm Vĩnh, Huyện Cẩm Xuyên, Tỉnh Hà Tĩnh",
+        "code": "18691",
+        "parent_code": "446"
+    },
+    "18694": {
+        "name": "Cẩm Thành",
+        "type": "xa",
+        "slug": "cam-thanh",
+        "name_with_type": "Xã Cẩm Thành",
+        "path": "Cẩm Thành, Cẩm Xuyên, Hà Tĩnh",
+        "path_with_type": "Xã Cẩm Thành, Huyện Cẩm Xuyên, Tỉnh Hà Tĩnh",
+        "code": "18694",
+        "parent_code": "446"
+    },
+    "18697": {
+        "name": "Cẩm Quang",
+        "type": "xa",
+        "slug": "cam-quang",
+        "name_with_type": "Xã Cẩm Quang",
+        "path": "Cẩm Quang, Cẩm Xuyên, Hà Tĩnh",
+        "path_with_type": "Xã Cẩm Quang, Huyện Cẩm Xuyên, Tỉnh Hà Tĩnh",
+        "code": "18697",
+        "parent_code": "446"
+    },
+    "18700": {
+        "name": "Cẩm Nam",
+        "type": "xa",
+        "slug": "cam-nam",
+        "name_with_type": "Xã Cẩm Nam",
+        "path": "Cẩm Nam, Cẩm Xuyên, Hà Tĩnh",
+        "path_with_type": "Xã Cẩm Nam, Huyện Cẩm Xuyên, Tỉnh Hà Tĩnh",
+        "code": "18700",
+        "parent_code": "446"
+    },
+    "18703": {
+        "name": "Cẩm Huy",
+        "type": "xa",
+        "slug": "cam-huy",
+        "name_with_type": "Xã Cẩm Huy",
+        "path": "Cẩm Huy, Cẩm Xuyên, Hà Tĩnh",
+        "path_with_type": "Xã Cẩm Huy, Huyện Cẩm Xuyên, Tỉnh Hà Tĩnh",
+        "code": "18703",
+        "parent_code": "446"
+    },
+    "18706": {
+        "name": "Cẩm Thạch",
+        "type": "xa",
+        "slug": "cam-thach",
+        "name_with_type": "Xã Cẩm Thạch",
+        "path": "Cẩm Thạch, Cẩm Xuyên, Hà Tĩnh",
+        "path_with_type": "Xã Cẩm Thạch, Huyện Cẩm Xuyên, Tỉnh Hà Tĩnh",
+        "code": "18706",
+        "parent_code": "446"
+    },
+    "18709": {
+        "name": "Cẩm Nhượng",
+        "type": "xa",
+        "slug": "cam-nhuong",
+        "name_with_type": "Xã Cẩm Nhượng",
+        "path": "Cẩm Nhượng, Cẩm Xuyên, Hà Tĩnh",
+        "path_with_type": "Xã Cẩm Nhượng, Huyện Cẩm Xuyên, Tỉnh Hà Tĩnh",
+        "code": "18709",
+        "parent_code": "446"
+    },
+    "18712": {
+        "name": "Cẩm Thăng",
+        "type": "xa",
+        "slug": "cam-thang",
+        "name_with_type": "Xã Cẩm Thăng",
+        "path": "Cẩm Thăng, Cẩm Xuyên, Hà Tĩnh",
+        "path_with_type": "Xã Cẩm Thăng, Huyện Cẩm Xuyên, Tỉnh Hà Tĩnh",
+        "code": "18712",
+        "parent_code": "446"
+    },
+    "18715": {
+        "name": "Cẩm Duệ",
+        "type": "xa",
+        "slug": "cam-due",
+        "name_with_type": "Xã Cẩm Duệ",
+        "path": "Cẩm Duệ, Cẩm Xuyên, Hà Tĩnh",
+        "path_with_type": "Xã Cẩm Duệ, Huyện Cẩm Xuyên, Tỉnh Hà Tĩnh",
+        "code": "18715",
+        "parent_code": "446"
+    },
+    "18718": {
+        "name": "Cẩm Phúc",
+        "type": "xa",
+        "slug": "cam-phuc",
+        "name_with_type": "Xã Cẩm Phúc",
+        "path": "Cẩm Phúc, Cẩm Xuyên, Hà Tĩnh",
+        "path_with_type": "Xã Cẩm Phúc, Huyện Cẩm Xuyên, Tỉnh Hà Tĩnh",
+        "code": "18718",
+        "parent_code": "446"
+    },
+    "18721": {
+        "name": "Cẩm Lĩnh",
+        "type": "xa",
+        "slug": "cam-linh",
+        "name_with_type": "Xã Cẩm Lĩnh",
+        "path": "Cẩm Lĩnh, Cẩm Xuyên, Hà Tĩnh",
+        "path_with_type": "Xã Cẩm Lĩnh, Huyện Cẩm Xuyên, Tỉnh Hà Tĩnh",
+        "code": "18721",
+        "parent_code": "446"
+    },
+    "18724": {
+        "name": "Cẩm Quan",
+        "type": "xa",
+        "slug": "cam-quan",
+        "name_with_type": "Xã Cẩm Quan",
+        "path": "Cẩm Quan, Cẩm Xuyên, Hà Tĩnh",
+        "path_with_type": "Xã Cẩm Quan, Huyện Cẩm Xuyên, Tỉnh Hà Tĩnh",
+        "code": "18724",
+        "parent_code": "446"
+    },
+    "18727": {
+        "name": "Cẩm Hà",
+        "type": "xa",
+        "slug": "cam-ha",
+        "name_with_type": "Xã Cẩm Hà",
+        "path": "Cẩm Hà, Cẩm Xuyên, Hà Tĩnh",
+        "path_with_type": "Xã Cẩm Hà, Huyện Cẩm Xuyên, Tỉnh Hà Tĩnh",
+        "code": "18727",
+        "parent_code": "446"
+    },
+    "18730": {
+        "name": "Cẩm Lộc",
+        "type": "xa",
+        "slug": "cam-loc",
+        "name_with_type": "Xã Cẩm Lộc",
+        "path": "Cẩm Lộc, Cẩm Xuyên, Hà Tĩnh",
+        "path_with_type": "Xã Cẩm Lộc, Huyện Cẩm Xuyên, Tỉnh Hà Tĩnh",
+        "code": "18730",
+        "parent_code": "446"
+    },
+    "18733": {
+        "name": "Cẩm Hưng",
+        "type": "xa",
+        "slug": "cam-hung",
+        "name_with_type": "Xã Cẩm Hưng",
+        "path": "Cẩm Hưng, Cẩm Xuyên, Hà Tĩnh",
+        "path_with_type": "Xã Cẩm Hưng, Huyện Cẩm Xuyên, Tỉnh Hà Tĩnh",
+        "code": "18733",
+        "parent_code": "446"
+    },
+    "18736": {
+        "name": "Cẩm Thịnh",
+        "type": "xa",
+        "slug": "cam-thinh",
+        "name_with_type": "Xã Cẩm Thịnh",
+        "path": "Cẩm Thịnh, Cẩm Xuyên, Hà Tĩnh",
+        "path_with_type": "Xã Cẩm Thịnh, Huyện Cẩm Xuyên, Tỉnh Hà Tĩnh",
+        "code": "18736",
+        "parent_code": "446"
+    },
+    "18739": {
+        "name": "Cẩm Mỹ",
+        "type": "xa",
+        "slug": "cam-my",
+        "name_with_type": "Xã Cẩm Mỹ",
+        "path": "Cẩm Mỹ, Cẩm Xuyên, Hà Tĩnh",
+        "path_with_type": "Xã Cẩm Mỹ, Huyện Cẩm Xuyên, Tỉnh Hà Tĩnh",
+        "code": "18739",
+        "parent_code": "446"
+    },
+    "18742": {
+        "name": "Cẩm Trung",
+        "type": "xa",
+        "slug": "cam-trung",
+        "name_with_type": "Xã Cẩm Trung",
+        "path": "Cẩm Trung, Cẩm Xuyên, Hà Tĩnh",
+        "path_with_type": "Xã Cẩm Trung, Huyện Cẩm Xuyên, Tỉnh Hà Tĩnh",
+        "code": "18742",
+        "parent_code": "446"
+    },
+    "18745": {
+        "name": "Cẩm Sơn",
+        "type": "xa",
+        "slug": "cam-son",
+        "name_with_type": "Xã Cẩm Sơn",
+        "path": "Cẩm Sơn, Cẩm Xuyên, Hà Tĩnh",
+        "path_with_type": "Xã Cẩm Sơn, Huyện Cẩm Xuyên, Tỉnh Hà Tĩnh",
+        "code": "18745",
+        "parent_code": "446"
+    },
+    "18748": {
+        "name": "Cẩm Lạc",
+        "type": "xa",
+        "slug": "cam-lac",
+        "name_with_type": "Xã Cẩm Lạc",
+        "path": "Cẩm Lạc, Cẩm Xuyên, Hà Tĩnh",
+        "path_with_type": "Xã Cẩm Lạc, Huyện Cẩm Xuyên, Tỉnh Hà Tĩnh",
+        "code": "18748",
+        "parent_code": "446"
+    },
+    "18751": {
+        "name": "Cẩm Minh",
+        "type": "xa",
+        "slug": "cam-minh",
+        "name_with_type": "Xã Cẩm Minh",
+        "path": "Cẩm Minh, Cẩm Xuyên, Hà Tĩnh",
+        "path_with_type": "Xã Cẩm Minh, Huyện Cẩm Xuyên, Tỉnh Hà Tĩnh",
+        "code": "18751",
+        "parent_code": "446"
+    }
+}

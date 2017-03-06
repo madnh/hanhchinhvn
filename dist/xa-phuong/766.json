@@ -1,0 +1,152 @@
+{
+    "26965": {
+        "name": "02",
+        "type": "phuong",
+        "slug": "02",
+        "name_with_type": "Phường 02",
+        "path": "02, Tân Bình, Hồ Chí Minh",
+        "path_with_type": "Phường 02, Quận Tân Bình, Thành phố Hồ Chí Minh",
+        "code": "26965",
+        "parent_code": "766"
+    },
+    "26968": {
+        "name": "04",
+        "type": "phuong",
+        "slug": "04",
+        "name_with_type": "Phường 04",
+        "path": "04, Tân Bình, Hồ Chí Minh",
+        "path_with_type": "Phường 04, Quận Tân Bình, Thành phố Hồ Chí Minh",
+        "code": "26968",
+        "parent_code": "766"
+    },
+    "26971": {
+        "name": "12",
+        "type": "phuong",
+        "slug": "12",
+        "name_with_type": "Phường 12",
+        "path": "12, Tân Bình, Hồ Chí Minh",
+        "path_with_type": "Phường 12, Quận Tân Bình, Thành phố Hồ Chí Minh",
+        "code": "26971",
+        "parent_code": "766"
+    },
+    "26974": {
+        "name": "13",
+        "type": "phuong",
+        "slug": "13",
+        "name_with_type": "Phường 13",
+        "path": "13, Tân Bình, Hồ Chí Minh",
+        "path_with_type": "Phường 13, Quận Tân Bình, Thành phố Hồ Chí Minh",
+        "code": "26974",
+        "parent_code": "766"
+    },
+    "26977": {
+        "name": "01",
+        "type": "phuong",
+        "slug": "01",
+        "name_with_type": "Phường 01",
+        "path": "01, Tân Bình, Hồ Chí Minh",
+        "path_with_type": "Phường 01, Quận Tân Bình, Thành phố Hồ Chí Minh",
+        "code": "26977",
+        "parent_code": "766"
+    },
+    "26980": {
+        "name": "03",
+        "type": "phuong",
+        "slug": "03",
+        "name_with_type": "Phường 03",
+        "path": "03, Tân Bình, Hồ Chí Minh",
+        "path_with_type": "Phường 03, Quận Tân Bình, Thành phố Hồ Chí Minh",
+        "code": "26980",
+        "parent_code": "766"
+    },
+    "26983": {
+        "name": "11",
+        "type": "phuong",
+        "slug": "11",
+        "name_with_type": "Phường 11",
+        "path": "11, Tân Bình, Hồ Chí Minh",
+        "path_with_type": "Phường 11, Quận Tân Bình, Thành phố Hồ Chí Minh",
+        "code": "26983",
+        "parent_code": "766"
+    },
+    "26986": {
+        "name": "07",
+        "type": "phuong",
+        "slug": "07",
+        "name_with_type": "Phường 07",
+        "path": "07, Tân Bình, Hồ Chí Minh",
+        "path_with_type": "Phường 07, Quận Tân Bình, Thành phố Hồ Chí Minh",
+        "code": "26986",
+        "parent_code": "766"
+    },
+    "26989": {
+        "name": "05",
+        "type": "phuong",
+        "slug": "05",
+        "name_with_type": "Phường 05",
+        "path": "05, Tân Bình, Hồ Chí Minh",
+        "path_with_type": "Phường 05, Quận Tân Bình, Thành phố Hồ Chí Minh",
+        "code": "26989",
+        "parent_code": "766"
+    },
+    "26992": {
+        "name": "10",
+        "type": "phuong",
+        "slug": "10",
+        "name_with_type": "Phường 10",
+        "path": "10, Tân Bình, Hồ Chí Minh",
+        "path_with_type": "Phường 10, Quận Tân Bình, Thành phố Hồ Chí Minh",
+        "code": "26992",
+        "parent_code": "766"
+    },
+    "26995": {
+        "name": "06",
+        "type": "phuong",
+        "slug": "06",
+        "name_with_type": "Phường 06",
+        "path": "06, Tân Bình, Hồ Chí Minh",
+        "path_with_type": "Phường 06, Quận Tân Bình, Thành phố Hồ Chí Minh",
+        "code": "26995",
+        "parent_code": "766"
+    },
+    "26998": {
+        "name": "08",
+        "type": "phuong",
+        "slug": "08",
+        "name_with_type": "Phường 08",
+        "path": "08, Tân Bình, Hồ Chí Minh",
+        "path_with_type": "Phường 08, Quận Tân Bình, Thành phố Hồ Chí Minh",
+        "code": "26998",
+        "parent_code": "766"
+    },
+    "27001": {
+        "name": "09",
+        "type": "phuong",
+        "slug": "09",
+        "name_with_type": "Phường 09",
+        "path": "09, Tân Bình, Hồ Chí Minh",
+        "path_with_type": "Phường 09, Quận Tân Bình, Thành phố Hồ Chí Minh",
+        "code": "27001",
+        "parent_code": "766"
+    },
+    "27004": {
+        "name": "14",
+        "type": "phuong",
+        "slug": "14",
+        "name_with_type": "Phường 14",
+        "path": "14, Tân Bình, Hồ Chí Minh",
+        "path_with_type": "Phường 14, Quận Tân Bình, Thành phố Hồ Chí Minh",
+        "code": "27004",
+        "parent_code": "766"
+    },
+    "27007": {
+        "name": "15",
+        "type": "phuong",
+        "slug": "15",
+        "name_with_type": "Phường 15",
+        "path": "15, Tân Bình, Hồ Chí Minh",
+        "path_with_type": "Phường 15, Quận Tân Bình, Thành phố Hồ Chí Minh",
+        "code": "27007",
+        "parent_code": "766"
+    }
+}

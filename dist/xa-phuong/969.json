@@ -1,0 +1,112 @@
+{
+    "32128": {
+        "name": "Cái Nước",
+        "type": "thi-tran",
+        "slug": "cai-nuoc",
+        "name_with_type": "Thị trấn Cái Nước",
+        "path": "Cái Nước, Cái Nước, Cà Mau",
+        "path_with_type": "Thị trấn Cái Nước, Huyện Cái Nước, Tỉnh Cà Mau",
+        "code": "32128",
+        "parent_code": "969"
+    },
+    "32130": {
+        "name": "Thạnh Phú",
+        "type": "xa",
+        "slug": "thanh-phu",
+        "name_with_type": "Xã Thạnh Phú",
+        "path": "Thạnh Phú, Cái Nước, Cà Mau",
+        "path_with_type": "Xã Thạnh Phú, Huyện Cái Nước, Tỉnh Cà Mau",
+        "code": "32130",
+        "parent_code": "969"
+    },
+    "32131": {
+        "name": "Lương Thế Trân",
+        "type": "xa",
+        "slug": "luong-the-tran",
+        "name_with_type": "Xã Lương Thế Trân",
+        "path": "Lương Thế Trân, Cái Nước, Cà Mau",
+        "path_with_type": "Xã Lương Thế Trân, Huyện Cái Nước, Tỉnh Cà Mau",
+        "code": "32131",
+        "parent_code": "969"
+    },
+    "32134": {
+        "name": "Phú Hưng",
+        "type": "xa",
+        "slug": "phu-hung",
+        "name_with_type": "Xã Phú Hưng",
+        "path": "Phú Hưng, Cái Nước, Cà Mau",
+        "path_with_type": "Xã Phú Hưng, Huyện Cái Nước, Tỉnh Cà Mau",
+        "code": "32134",
+        "parent_code": "969"
+    },
+    "32137": {
+        "name": "Tân Hưng",
+        "type": "xa",
+        "slug": "tan-hung",
+        "name_with_type": "Xã Tân Hưng",
+        "path": "Tân Hưng, Cái Nước, Cà Mau",
+        "path_with_type": "Xã Tân Hưng, Huyện Cái Nước, Tỉnh Cà Mau",
+        "code": "32137",
+        "parent_code": "969"
+    },
+    "32140": {
+        "name": "Hưng Mỹ",
+        "type": "xa",
+        "slug": "hung-my",
+        "name_with_type": "Xã Hưng Mỹ",
+        "path": "Hưng Mỹ, Cái Nước, Cà Mau",
+        "path_with_type": "Xã Hưng Mỹ, Huyện Cái Nước, Tỉnh Cà Mau",
+        "code": "32140",
+        "parent_code": "969"
+    },
+    "32141": {
+        "name": "Hoà Mỹ",
+        "type": "xa",
+        "slug": "hoa-my",
+        "name_with_type": "Xã Hoà Mỹ",
+        "path": "Hoà Mỹ, Cái Nước, Cà Mau",
+        "path_with_type": "Xã Hoà Mỹ, Huyện Cái Nước, Tỉnh Cà Mau",
+        "code": "32141",
+        "parent_code": "969"
+    },
+    "32142": {
+        "name": "Đông Hưng",
+        "type": "xa",
+        "slug": "dong-hung",
+        "name_with_type": "Xã Đông Hưng",
+        "path": "Đông Hưng, Cái Nước, Cà Mau",
+        "path_with_type": "Xã Đông Hưng, Huyện Cái Nước, Tỉnh Cà Mau",
+        "code": "32142",
+        "parent_code": "969"
+    },
+    "32143": {
+        "name": "Đông Thới",
+        "type": "xa",
+        "slug": "dong-thoi",
+        "name_with_type": "Xã Đông Thới",
+        "path": "Đông Thới, Cái Nước, Cà Mau",
+        "path_with_type": "Xã Đông Thới, Huyện Cái Nước, Tỉnh Cà Mau",
+        "code": "32143",
+        "parent_code": "969"
+    },
+    "32146": {
+        "name": "Tân Hưng Đông",
+        "type": "xa",
+        "slug": "tan-hung-dong",
+        "name_with_type": "Xã Tân Hưng Đông",
+        "path": "Tân Hưng Đông, Cái Nước, Cà Mau",
+        "path_with_type": "Xã Tân Hưng Đông, Huyện Cái Nước, Tỉnh Cà Mau",
+        "code": "32146",
+        "parent_code": "969"
+    },
+    "32149": {
+        "name": "Trần Thới",
+        "type": "xa",
+        "slug": "tran-thoi",
+        "name_with_type": "Xã Trần Thới",
+        "path": "Trần Thới, Cái Nước, Cà Mau",
+        "path_with_type": "Xã Trần Thới, Huyện Cái Nước, Tỉnh Cà Mau",
+        "code": "32149",
+        "parent_code": "969"
+    }
+}

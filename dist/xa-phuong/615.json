@@ -1,0 +1,112 @@
+{
+    "23500": {
+        "name": "Đắk Hà",
+        "type": "thi-tran",
+        "slug": "dak-ha",
+        "name_with_type": "Thị trấn Đắk Hà",
+        "path": "Đắk Hà, Đắk Hà, Kon Tum",
+        "path_with_type": "Thị trấn Đắk Hà, Huyện Đắk Hà, Tỉnh Kon Tum",
+        "code": "23500",
+        "parent_code": "615"
+    },
+    "23503": {
+        "name": "Đắk PXi",
+        "type": "xa",
+        "slug": "dak-pxi",
+        "name_with_type": "Xã Đắk PXi",
+        "path": "Đắk PXi, Đắk Hà, Kon Tum",
+        "path_with_type": "Xã Đắk PXi, Huyện Đắk Hà, Tỉnh Kon Tum",
+        "code": "23503",
+        "parent_code": "615"
+    },
+    "23504": {
+        "name": "Đăk Long",
+        "type": "xa",
+        "slug": "dak-long",
+        "name_with_type": "Xã Đăk Long",
+        "path": "Đăk Long, Đắk Hà, Kon Tum",
+        "path_with_type": "Xã Đăk Long, Huyện Đắk Hà, Tỉnh Kon Tum",
+        "code": "23504",
+        "parent_code": "615"
+    },
+    "23506": {
+        "name": "Đắk HRing",
+        "type": "xa",
+        "slug": "dak-hring",
+        "name_with_type": "Xã Đắk HRing",
+        "path": "Đắk HRing, Đắk Hà, Kon Tum",
+        "path_with_type": "Xã Đắk HRing, Huyện Đắk Hà, Tỉnh Kon Tum",
+        "code": "23506",
+        "parent_code": "615"
+    },
+    "23509": {
+        "name": "Đắk Ui",
+        "type": "xa",
+        "slug": "dak-ui",
+        "name_with_type": "Xã Đắk Ui",
+        "path": "Đắk Ui, Đắk Hà, Kon Tum",
+        "path_with_type": "Xã Đắk Ui, Huyện Đắk Hà, Tỉnh Kon Tum",
+        "code": "23509",
+        "parent_code": "615"
+    },
+    "23510": {
+        "name": "Đăk Ngọk",
+        "type": "xa",
+        "slug": "dak-ngok",
+        "name_with_type": "Xã Đăk Ngọk",
+        "path": "Đăk Ngọk, Đắk Hà, Kon Tum",
+        "path_with_type": "Xã Đăk Ngọk, Huyện Đắk Hà, Tỉnh Kon Tum",
+        "code": "23510",
+        "parent_code": "615"
+    },
+    "23512": {
+        "name": "Đắk Mar",
+        "type": "xa",
+        "slug": "dak-mar",
+        "name_with_type": "Xã Đắk Mar",
+        "path": "Đắk Mar, Đắk Hà, Kon Tum",
+        "path_with_type": "Xã Đắk Mar, Huyện Đắk Hà, Tỉnh Kon Tum",
+        "code": "23512",
+        "parent_code": "615"
+    },
+    "23515": {
+        "name": "Ngok Wang",
+        "type": "xa",
+        "slug": "ngok-wang",
+        "name_with_type": "Xã Ngok Wang",
+        "path": "Ngok Wang, Đắk Hà, Kon Tum",
+        "path_with_type": "Xã Ngok Wang, Huyện Đắk Hà, Tỉnh Kon Tum",
+        "code": "23515",
+        "parent_code": "615"
+    },
+    "23518": {
+        "name": "Ngok Réo",
+        "type": "xa",
+        "slug": "ngok-reo",
+        "name_with_type": "Xã Ngok Réo",
+        "path": "Ngok Réo, Đắk Hà, Kon Tum",
+        "path_with_type": "Xã Ngok Réo, Huyện Đắk Hà, Tỉnh Kon Tum",
+        "code": "23518",
+        "parent_code": "615"
+    },
+    "23521": {
+        "name": "Hà Mòn",
+        "type": "xa",
+        "slug": "ha-mon",
+        "name_with_type": "Xã Hà Mòn",
+        "path": "Hà Mòn, Đắk Hà, Kon Tum",
+        "path_with_type": "Xã Hà Mòn, Huyện Đắk Hà, Tỉnh Kon Tum",
+        "code": "23521",
+        "parent_code": "615"
+    },
+    "23524": {
+        "name": "Đắk La",
+        "type": "xa",
+        "slug": "dak-la",
+        "name_with_type": "Xã Đắk La",
+        "path": "Đắk La, Đắk Hà, Kon Tum",
+        "path_with_type": "Xã Đắk La, Huyện Đắk Hà, Tỉnh Kon Tum",
+        "code": "23524",
+        "parent_code": "615"
+    }
+}

@@ -1,0 +1,212 @@
+{
+    "02839": {
+        "name": "Bắc Hà",
+        "type": "thi-tran",
+        "slug": "bac-ha",
+        "name_with_type": "Thị trấn Bắc Hà",
+        "path": "Bắc Hà, Bắc Hà, Lào Cai",
+        "path_with_type": "Thị trấn Bắc Hà, Huyện Bắc Hà, Tỉnh Lào Cai",
+        "code": "02839",
+        "parent_code": "085"
+    },
+    "02842": {
+        "name": "Lùng Cải",
+        "type": "xa",
+        "slug": "lung-cai",
+        "name_with_type": "Xã Lùng Cải",
+        "path": "Lùng Cải, Bắc Hà, Lào Cai",
+        "path_with_type": "Xã Lùng Cải, Huyện Bắc Hà, Tỉnh Lào Cai",
+        "code": "02842",
+        "parent_code": "085"
+    },
+    "02845": {
+        "name": "Bản Già",
+        "type": "xa",
+        "slug": "ban-gia",
+        "name_with_type": "Xã Bản Già",
+        "path": "Bản Già, Bắc Hà, Lào Cai",
+        "path_with_type": "Xã Bản Già, Huyện Bắc Hà, Tỉnh Lào Cai",
+        "code": "02845",
+        "parent_code": "085"
+    },
+    "02848": {
+        "name": "Lùng Phình",
+        "type": "xa",
+        "slug": "lung-phinh",
+        "name_with_type": "Xã Lùng Phình",
+        "path": "Lùng Phình, Bắc Hà, Lào Cai",
+        "path_with_type": "Xã Lùng Phình, Huyện Bắc Hà, Tỉnh Lào Cai",
+        "code": "02848",
+        "parent_code": "085"
+    },
+    "02851": {
+        "name": "Tả Van Chư",
+        "type": "xa",
+        "slug": "ta-van-chu",
+        "name_with_type": "Xã Tả Van Chư",
+        "path": "Tả Van Chư, Bắc Hà, Lào Cai",
+        "path_with_type": "Xã Tả Van Chư, Huyện Bắc Hà, Tỉnh Lào Cai",
+        "code": "02851",
+        "parent_code": "085"
+    },
+    "02854": {
+        "name": "Tả Củ Tỷ",
+        "type": "xa",
+        "slug": "ta-cu-ty",
+        "name_with_type": "Xã Tả Củ Tỷ",
+        "path": "Tả Củ Tỷ, Bắc Hà, Lào Cai",
+        "path_with_type": "Xã Tả Củ Tỷ, Huyện Bắc Hà, Tỉnh Lào Cai",
+        "code": "02854",
+        "parent_code": "085"
+    },
+    "02857": {
+        "name": "Thải Giàng Phố",
+        "type": "xa",
+        "slug": "thai-giang-pho",
+        "name_with_type": "Xã Thải Giàng Phố",
+        "path": "Thải Giàng Phố, Bắc Hà, Lào Cai",
+        "path_with_type": "Xã Thải Giàng Phố, Huyện Bắc Hà, Tỉnh Lào Cai",
+        "code": "02857",
+        "parent_code": "085"
+    },
+    "02860": {
+        "name": "Lầu Thí Ngài",
+        "type": "xa",
+        "slug": "lau-thi-ngai",
+        "name_with_type": "Xã Lầu Thí Ngài",
+        "path": "Lầu Thí Ngài, Bắc Hà, Lào Cai",
+        "path_with_type": "Xã Lầu Thí Ngài, Huyện Bắc Hà, Tỉnh Lào Cai",
+        "code": "02860",
+        "parent_code": "085"
+    },
+    "02863": {
+        "name": "Hoàng Thu Phố",
+        "type": "xa",
+        "slug": "hoang-thu-pho",
+        "name_with_type": "Xã Hoàng Thu Phố",
+        "path": "Hoàng Thu Phố, Bắc Hà, Lào Cai",
+        "path_with_type": "Xã Hoàng Thu Phố, Huyện Bắc Hà, Tỉnh Lào Cai",
+        "code": "02863",
+        "parent_code": "085"
+    },
+    "02866": {
+        "name": "Bản Phố",
+        "type": "xa",
+        "slug": "ban-pho",
+        "name_with_type": "Xã Bản Phố",
+        "path": "Bản Phố, Bắc Hà, Lào Cai",
+        "path_with_type": "Xã Bản Phố, Huyện Bắc Hà, Tỉnh Lào Cai",
+        "code": "02866",
+        "parent_code": "085"
+    },
+    "02869": {
+        "name": "Bản Liền",
+        "type": "xa",
+        "slug": "ban-lien",
+        "name_with_type": "Xã Bản Liền",
+        "path": "Bản Liền, Bắc Hà, Lào Cai",
+        "path_with_type": "Xã Bản Liền, Huyện Bắc Hà, Tỉnh Lào Cai",
+        "code": "02869",
+        "parent_code": "085"
+    },
+    "02872": {
+        "name": "Tà Chải",
+        "type": "xa",
+        "slug": "ta-chai",
+        "name_with_type": "Xã Tà Chải",
+        "path": "Tà Chải, Bắc Hà, Lào Cai",
+        "path_with_type": "Xã Tà Chải, Huyện Bắc Hà, Tỉnh Lào Cai",
+        "code": "02872",
+        "parent_code": "085"
+    },
+    "02875": {
+        "name": "Na Hối",
+        "type": "xa",
+        "slug": "na-hoi",
+        "name_with_type": "Xã Na Hối",
+        "path": "Na Hối, Bắc Hà, Lào Cai",
+        "path_with_type": "Xã Na Hối, Huyện Bắc Hà, Tỉnh Lào Cai",
+        "code": "02875",
+        "parent_code": "085"
+    },
+    "02878": {
+        "name": "Cốc Ly",
+        "type": "xa",
+        "slug": "coc-ly",
+        "name_with_type": "Xã Cốc Ly",
+        "path": "Cốc Ly, Bắc Hà, Lào Cai",
+        "path_with_type": "Xã Cốc Ly, Huyện Bắc Hà, Tỉnh Lào Cai",
+        "code": "02878",
+        "parent_code": "085"
+    },
+    "02881": {
+        "name": "Nậm Mòn",
+        "type": "xa",
+        "slug": "nam-mon",
+        "name_with_type": "Xã Nậm Mòn",
+        "path": "Nậm Mòn, Bắc Hà, Lào Cai",
+        "path_with_type": "Xã Nậm Mòn, Huyện Bắc Hà, Tỉnh Lào Cai",
+        "code": "02881",
+        "parent_code": "085"
+    },
+    "02884": {
+        "name": "Nậm Đét",
+        "type": "xa",
+        "slug": "nam-det",
+        "name_with_type": "Xã Nậm Đét",
+        "path": "Nậm Đét, Bắc Hà, Lào Cai",
+        "path_with_type": "Xã Nậm Đét, Huyện Bắc Hà, Tỉnh Lào Cai",
+        "code": "02884",
+        "parent_code": "085"
+    },
+    "02887": {
+        "name": "Nậm Khánh",
+        "type": "xa",
+        "slug": "nam-khanh",
+        "name_with_type": "Xã Nậm Khánh",
+        "path": "Nậm Khánh, Bắc Hà, Lào Cai",
+        "path_with_type": "Xã Nậm Khánh, Huyện Bắc Hà, Tỉnh Lào Cai",
+        "code": "02887",
+        "parent_code": "085"
+    },
+    "02890": {
+        "name": "Bảo Nhai",
+        "type": "xa",
+        "slug": "bao-nhai",
+        "name_with_type": "Xã Bảo Nhai",
+        "path": "Bảo Nhai, Bắc Hà, Lào Cai",
+        "path_with_type": "Xã Bảo Nhai, Huyện Bắc Hà, Tỉnh Lào Cai",
+        "code": "02890",
+        "parent_code": "085"
+    },
+    "02893": {
+        "name": "Nậm Lúc",
+        "type": "xa",
+        "slug": "nam-luc",
+        "name_with_type": "Xã Nậm Lúc",
+        "path": "Nậm Lúc, Bắc Hà, Lào Cai",
+        "path_with_type": "Xã Nậm Lúc, Huyện Bắc Hà, Tỉnh Lào Cai",
+        "code": "02893",
+        "parent_code": "085"
+    },
+    "02896": {
+        "name": "Cốc Lầu",
+        "type": "xa",
+        "slug": "coc-lau",
+        "name_with_type": "Xã Cốc Lầu",
+        "path": "Cốc Lầu, Bắc Hà, Lào Cai",
+        "path_with_type": "Xã Cốc Lầu, Huyện Bắc Hà, Tỉnh Lào Cai",
+        "code": "02896",
+        "parent_code": "085"
+    },
+    "02899": {
+        "name": "Bản Cái",
+        "type": "xa",
+        "slug": "ban-cai",
+        "name_with_type": "Xã Bản Cái",
+        "path": "Bản Cái, Bắc Hà, Lào Cai",
+        "path_with_type": "Xã Bản Cái, Huyện Bắc Hà, Tỉnh Lào Cai",
+        "code": "02899",
+        "parent_code": "085"
+    }
+}

@@ -1,0 +1,232 @@
+{
+    "04927": {
+        "name": "Yên Trung",
+        "type": "xa",
+        "slug": "yen-trung",
+        "name_with_type": "Xã Yên Trung",
+        "path": "Yên Trung, Thạch Thất, Hà Nội",
+        "path_with_type": "Xã Yên Trung, Huyện Thạch Thất, Thành phố Hà Nội",
+        "code": "04927",
+        "parent_code": "276"
+    },
+    "04930": {
+        "name": "Yên Bình",
+        "type": "xa",
+        "slug": "yen-binh",
+        "name_with_type": "Xã Yên Bình",
+        "path": "Yên Bình, Thạch Thất, Hà Nội",
+        "path_with_type": "Xã Yên Bình, Huyện Thạch Thất, Thành phố Hà Nội",
+        "code": "04930",
+        "parent_code": "276"
+    },
+    "04936": {
+        "name": "Tiến Xuân",
+        "type": "xa",
+        "slug": "tien-xuan",
+        "name_with_type": "Xã Tiến Xuân",
+        "path": "Tiến Xuân, Thạch Thất, Hà Nội",
+        "path_with_type": "Xã Tiến Xuân, Huyện Thạch Thất, Thành phố Hà Nội",
+        "code": "04936",
+        "parent_code": "276"
+    },
+    "09955": {
+        "name": "Liên Quan",
+        "type": "thi-tran",
+        "slug": "lien-quan",
+        "name_with_type": "Thị trấn Liên Quan",
+        "path": "Liên Quan, Thạch Thất, Hà Nội",
+        "path_with_type": "Thị trấn Liên Quan, Huyện Thạch Thất, Thành phố Hà Nội",
+        "code": "09955",
+        "parent_code": "276"
+    },
+    "09958": {
+        "name": "Đại Đồng",
+        "type": "xa",
+        "slug": "dai-dong",
+        "name_with_type": "Xã Đại Đồng",
+        "path": "Đại Đồng, Thạch Thất, Hà Nội",
+        "path_with_type": "Xã Đại Đồng, Huyện Thạch Thất, Thành phố Hà Nội",
+        "code": "09958",
+        "parent_code": "276"
+    },
+    "09961": {
+        "name": "Cẩm Yên",
+        "type": "xa",
+        "slug": "cam-yen",
+        "name_with_type": "Xã Cẩm Yên",
+        "path": "Cẩm Yên, Thạch Thất, Hà Nội",
+        "path_with_type": "Xã Cẩm Yên, Huyện Thạch Thất, Thành phố Hà Nội",
+        "code": "09961",
+        "parent_code": "276"
+    },
+    "09964": {
+        "name": "Lại Thượng",
+        "type": "xa",
+        "slug": "lai-thuong",
+        "name_with_type": "Xã Lại Thượng",
+        "path": "Lại Thượng, Thạch Thất, Hà Nội",
+        "path_with_type": "Xã Lại Thượng, Huyện Thạch Thất, Thành phố Hà Nội",
+        "code": "09964",
+        "parent_code": "276"
+    },
+    "09967": {
+        "name": "Phú Kim",
+        "type": "xa",
+        "slug": "phu-kim",
+        "name_with_type": "Xã Phú Kim",
+        "path": "Phú Kim, Thạch Thất, Hà Nội",
+        "path_with_type": "Xã Phú Kim, Huyện Thạch Thất, Thành phố Hà Nội",
+        "code": "09967",
+        "parent_code": "276"
+    },
+    "09970": {
+        "name": "Hương Ngải",
+        "type": "xa",
+        "slug": "huong-ngai",
+        "name_with_type": "Xã Hương Ngải",
+        "path": "Hương Ngải, Thạch Thất, Hà Nội",
+        "path_with_type": "Xã Hương Ngải, Huyện Thạch Thất, Thành phố Hà Nội",
+        "code": "09970",
+        "parent_code": "276"
+    },
+    "09973": {
+        "name": "Canh Nậu",
+        "type": "xa",
+        "slug": "canh-nau",
+        "name_with_type": "Xã Canh Nậu",
+        "path": "Canh Nậu, Thạch Thất, Hà Nội",
+        "path_with_type": "Xã Canh Nậu, Huyện Thạch Thất, Thành phố Hà Nội",
+        "code": "09973",
+        "parent_code": "276"
+    },
+    "09976": {
+        "name": "Kim Quan",
+        "type": "xa",
+        "slug": "kim-quan",
+        "name_with_type": "Xã Kim Quan",
+        "path": "Kim Quan, Thạch Thất, Hà Nội",
+        "path_with_type": "Xã Kim Quan, Huyện Thạch Thất, Thành phố Hà Nội",
+        "code": "09976",
+        "parent_code": "276"
+    },
+    "09979": {
+        "name": "Dị Nậu",
+        "type": "xa",
+        "slug": "di-nau",
+        "name_with_type": "Xã Dị Nậu",
+        "path": "Dị Nậu, Thạch Thất, Hà Nội",
+        "path_with_type": "Xã Dị Nậu, Huyện Thạch Thất, Thành phố Hà Nội",
+        "code": "09979",
+        "parent_code": "276"
+    },
+    "09982": {
+        "name": "Bình Yên",
+        "type": "xa",
+        "slug": "binh-yen",
+        "name_with_type": "Xã Bình Yên",
+        "path": "Bình Yên, Thạch Thất, Hà Nội",
+        "path_with_type": "Xã Bình Yên, Huyện Thạch Thất, Thành phố Hà Nội",
+        "code": "09982",
+        "parent_code": "276"
+    },
+    "09985": {
+        "name": "Chàng Sơn",
+        "type": "xa",
+        "slug": "chang-son",
+        "name_with_type": "Xã Chàng Sơn",
+        "path": "Chàng Sơn, Thạch Thất, Hà Nội",
+        "path_with_type": "Xã Chàng Sơn, Huyện Thạch Thất, Thành phố Hà Nội",
+        "code": "09985",
+        "parent_code": "276"
+    },
+    "09988": {
+        "name": "Thạch Hoà",
+        "type": "xa",
+        "slug": "thach-hoa",
+        "name_with_type": "Xã Thạch Hoà",
+        "path": "Thạch Hoà, Thạch Thất, Hà Nội",
+        "path_with_type": "Xã Thạch Hoà, Huyện Thạch Thất, Thành phố Hà Nội",
+        "code": "09988",
+        "parent_code": "276"
+    },
+    "09991": {
+        "name": "Cần Kiệm",
+        "type": "xa",
+        "slug": "can-kiem",
+        "name_with_type": "Xã Cần Kiệm",
+        "path": "Cần Kiệm, Thạch Thất, Hà Nội",
+        "path_with_type": "Xã Cần Kiệm, Huyện Thạch Thất, Thành phố Hà Nội",
+        "code": "09991",
+        "parent_code": "276"
+    },
+    "09994": {
+        "name": "Hữu Bằng",
+        "type": "xa",
+        "slug": "huu-bang",
+        "name_with_type": "Xã Hữu Bằng",
+        "path": "Hữu Bằng, Thạch Thất, Hà Nội",
+        "path_with_type": "Xã Hữu Bằng, Huyện Thạch Thất, Thành phố Hà Nội",
+        "code": "09994",
+        "parent_code": "276"
+    },
+    "09997": {
+        "name": "Phùng Xá",
+        "type": "xa",
+        "slug": "phung-xa",
+        "name_with_type": "Xã Phùng Xá",
+        "path": "Phùng Xá, Thạch Thất, Hà Nội",
+        "path_with_type": "Xã Phùng Xá, Huyện Thạch Thất, Thành phố Hà Nội",
+        "code": "09997",
+        "parent_code": "276"
+    },
+    "10000": {
+        "name": "Tân Xã",
+        "type": "xa",
+        "slug": "tan-xa",
+        "name_with_type": "Xã Tân Xã",
+        "path": "Tân Xã, Thạch Thất, Hà Nội",
+        "path_with_type": "Xã Tân Xã, Huyện Thạch Thất, Thành phố Hà Nội",
+        "code": "10000",
+        "parent_code": "276"
+    },
+    "10003": {
+        "name": "Thạch Xá",
+        "type": "xa",
+        "slug": "thach-xa",
+        "name_with_type": "Xã Thạch Xá",
+        "path": "Thạch Xá, Thạch Thất, Hà Nội",
+        "path_with_type": "Xã Thạch Xá, Huyện Thạch Thất, Thành phố Hà Nội",
+        "code": "10003",
+        "parent_code": "276"
+    },
+    "10006": {
+        "name": "Bình Phú",
+        "type": "xa",
+        "slug": "binh-phu",
+        "name_with_type": "Xã Bình Phú",
+        "path": "Bình Phú, Thạch Thất, Hà Nội",
+        "path_with_type": "Xã Bình Phú, Huyện Thạch Thất, Thành phố Hà Nội",
+        "code": "10006",
+        "parent_code": "276"
+    },
+    "10009": {
+        "name": "Hạ Bằng",
+        "type": "xa",
+        "slug": "ha-bang",
+        "name_with_type": "Xã Hạ Bằng",
+        "path": "Hạ Bằng, Thạch Thất, Hà Nội",
+        "path_with_type": "Xã Hạ Bằng, Huyện Thạch Thất, Thành phố Hà Nội",
+        "code": "10009",
+        "parent_code": "276"
+    },
+    "10012": {
+        "name": "Đồng Trúc",
+        "type": "xa",
+        "slug": "dong-truc",
+        "name_with_type": "Xã Đồng Trúc",
+        "path": "Đồng Trúc, Thạch Thất, Hà Nội",
+        "path_with_type": "Xã Đồng Trúc, Huyện Thạch Thất, Thành phố Hà Nội",
+        "code": "10012",
+        "parent_code": "276"
+    }
+}

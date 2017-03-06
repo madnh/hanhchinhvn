@@ -1,0 +1,192 @@
+{
+    "10606": {
+        "name": "Nam Sách",
+        "type": "thi-tran",
+        "slug": "nam-sach",
+        "name_with_type": "Thị trấn Nam Sách",
+        "path": "Nam Sách, Nam Sách, Hải Dương",
+        "path_with_type": "Thị trấn Nam Sách, Huyện Nam Sách, Tỉnh Hải Dương",
+        "code": "10606",
+        "parent_code": "291"
+    },
+    "10609": {
+        "name": "Nam Hưng",
+        "type": "xa",
+        "slug": "nam-hung",
+        "name_with_type": "Xã Nam Hưng",
+        "path": "Nam Hưng, Nam Sách, Hải Dương",
+        "path_with_type": "Xã Nam Hưng, Huyện Nam Sách, Tỉnh Hải Dương",
+        "code": "10609",
+        "parent_code": "291"
+    },
+    "10612": {
+        "name": "Nam Tân",
+        "type": "xa",
+        "slug": "nam-tan",
+        "name_with_type": "Xã Nam Tân",
+        "path": "Nam Tân, Nam Sách, Hải Dương",
+        "path_with_type": "Xã Nam Tân, Huyện Nam Sách, Tỉnh Hải Dương",
+        "code": "10612",
+        "parent_code": "291"
+    },
+    "10615": {
+        "name": "Hợp Tiến",
+        "type": "xa",
+        "slug": "hop-tien",
+        "name_with_type": "Xã Hợp Tiến",
+        "path": "Hợp Tiến, Nam Sách, Hải Dương",
+        "path_with_type": "Xã Hợp Tiến, Huyện Nam Sách, Tỉnh Hải Dương",
+        "code": "10615",
+        "parent_code": "291"
+    },
+    "10618": {
+        "name": "Hiệp Cát",
+        "type": "xa",
+        "slug": "hiep-cat",
+        "name_with_type": "Xã Hiệp Cát",
+        "path": "Hiệp Cát, Nam Sách, Hải Dương",
+        "path_with_type": "Xã Hiệp Cát, Huyện Nam Sách, Tỉnh Hải Dương",
+        "code": "10618",
+        "parent_code": "291"
+    },
+    "10621": {
+        "name": "Thanh Quang",
+        "type": "xa",
+        "slug": "thanh-quang",
+        "name_with_type": "Xã Thanh Quang",
+        "path": "Thanh Quang, Nam Sách, Hải Dương",
+        "path_with_type": "Xã Thanh Quang, Huyện Nam Sách, Tỉnh Hải Dương",
+        "code": "10621",
+        "parent_code": "291"
+    },
+    "10624": {
+        "name": "Quốc Tuấn",
+        "type": "xa",
+        "slug": "quoc-tuan",
+        "name_with_type": "Xã Quốc Tuấn",
+        "path": "Quốc Tuấn, Nam Sách, Hải Dương",
+        "path_with_type": "Xã Quốc Tuấn, Huyện Nam Sách, Tỉnh Hải Dương",
+        "code": "10624",
+        "parent_code": "291"
+    },
+    "10627": {
+        "name": "Nam Chính",
+        "type": "xa",
+        "slug": "nam-chinh",
+        "name_with_type": "Xã Nam Chính",
+        "path": "Nam Chính, Nam Sách, Hải Dương",
+        "path_with_type": "Xã Nam Chính, Huyện Nam Sách, Tỉnh Hải Dương",
+        "code": "10627",
+        "parent_code": "291"
+    },
+    "10630": {
+        "name": "An Bình",
+        "type": "xa",
+        "slug": "an-binh",
+        "name_with_type": "Xã An Bình",
+        "path": "An Bình, Nam Sách, Hải Dương",
+        "path_with_type": "Xã An Bình, Huyện Nam Sách, Tỉnh Hải Dương",
+        "code": "10630",
+        "parent_code": "291"
+    },
+    "10633": {
+        "name": "Nam Trung",
+        "type": "xa",
+        "slug": "nam-trung",
+        "name_with_type": "Xã Nam Trung",
+        "path": "Nam Trung, Nam Sách, Hải Dương",
+        "path_with_type": "Xã Nam Trung, Huyện Nam Sách, Tỉnh Hải Dương",
+        "code": "10633",
+        "parent_code": "291"
+    },
+    "10636": {
+        "name": "An Sơn",
+        "type": "xa",
+        "slug": "an-son",
+        "name_with_type": "Xã An Sơn",
+        "path": "An Sơn, Nam Sách, Hải Dương",
+        "path_with_type": "Xã An Sơn, Huyện Nam Sách, Tỉnh Hải Dương",
+        "code": "10636",
+        "parent_code": "291"
+    },
+    "10639": {
+        "name": "Cộng Hòa",
+        "type": "xa",
+        "slug": "cong-hoa",
+        "name_with_type": "Xã Cộng Hòa",
+        "path": "Cộng Hòa, Nam Sách, Hải Dương",
+        "path_with_type": "Xã Cộng Hòa, Huyện Nam Sách, Tỉnh Hải Dương",
+        "code": "10639",
+        "parent_code": "291"
+    },
+    "10642": {
+        "name": "Thái Tân",
+        "type": "xa",
+        "slug": "thai-tan",
+        "name_with_type": "Xã Thái Tân",
+        "path": "Thái Tân, Nam Sách, Hải Dương",
+        "path_with_type": "Xã Thái Tân, Huyện Nam Sách, Tỉnh Hải Dương",
+        "code": "10642",
+        "parent_code": "291"
+    },
+    "10645": {
+        "name": "An Lâm",
+        "type": "xa",
+        "slug": "an-lam",
+        "name_with_type": "Xã An Lâm",
+        "path": "An Lâm, Nam Sách, Hải Dương",
+        "path_with_type": "Xã An Lâm, Huyện Nam Sách, Tỉnh Hải Dương",
+        "code": "10645",
+        "parent_code": "291"
+    },
+    "10648": {
+        "name": "Phú Điền",
+        "type": "xa",
+        "slug": "phu-dien",
+        "name_with_type": "Xã Phú Điền",
+        "path": "Phú Điền, Nam Sách, Hải Dương",
+        "path_with_type": "Xã Phú Điền, Huyện Nam Sách, Tỉnh Hải Dương",
+        "code": "10648",
+        "parent_code": "291"
+    },
+    "10651": {
+        "name": "Nam Hồng",
+        "type": "xa",
+        "slug": "nam-hong",
+        "name_with_type": "Xã Nam Hồng",
+        "path": "Nam Hồng, Nam Sách, Hải Dương",
+        "path_with_type": "Xã Nam Hồng, Huyện Nam Sách, Tỉnh Hải Dương",
+        "code": "10651",
+        "parent_code": "291"
+    },
+    "10654": {
+        "name": "Hồng Phong",
+        "type": "xa",
+        "slug": "hong-phong",
+        "name_with_type": "Xã Hồng Phong",
+        "path": "Hồng Phong, Nam Sách, Hải Dương",
+        "path_with_type": "Xã Hồng Phong, Huyện Nam Sách, Tỉnh Hải Dương",
+        "code": "10654",
+        "parent_code": "291"
+    },
+    "10657": {
+        "name": "Đồng Lạc",
+        "type": "xa",
+        "slug": "dong-lac",
+        "name_with_type": "Xã Đồng Lạc",
+        "path": "Đồng Lạc, Nam Sách, Hải Dương",
+        "path_with_type": "Xã Đồng Lạc, Huyện Nam Sách, Tỉnh Hải Dương",
+        "code": "10657",
+        "parent_code": "291"
+    },
+    "10666": {
+        "name": "Minh Tân",
+        "type": "xa",
+        "slug": "minh-tan",
+        "name_with_type": "Xã Minh Tân",
+        "path": "Minh Tân, Nam Sách, Hải Dương",
+        "path_with_type": "Xã Minh Tân, Huyện Nam Sách, Tỉnh Hải Dương",
+        "code": "10666",
+        "parent_code": "291"
+    }
+}

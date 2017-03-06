@@ -1,0 +1,172 @@
+{
+    "14701": {
+        "name": "Yên Thịnh",
+        "type": "thi-tran",
+        "slug": "yen-thinh",
+        "name_with_type": "Thị trấn Yên Thịnh",
+        "path": "Yên Thịnh, Yên Mô, Ninh Bình",
+        "path_with_type": "Thị trấn Yên Thịnh, Huyện Yên Mô, Tỉnh Ninh Bình",
+        "code": "14701",
+        "parent_code": "377"
+    },
+    "14704": {
+        "name": "Khánh Thượng",
+        "type": "xa",
+        "slug": "khanh-thuong",
+        "name_with_type": "Xã Khánh Thượng",
+        "path": "Khánh Thượng, Yên Mô, Ninh Bình",
+        "path_with_type": "Xã Khánh Thượng, Huyện Yên Mô, Tỉnh Ninh Bình",
+        "code": "14704",
+        "parent_code": "377"
+    },
+    "14707": {
+        "name": "Khánh Dương",
+        "type": "xa",
+        "slug": "khanh-duong",
+        "name_with_type": "Xã Khánh Dương",
+        "path": "Khánh Dương, Yên Mô, Ninh Bình",
+        "path_with_type": "Xã Khánh Dương, Huyện Yên Mô, Tỉnh Ninh Bình",
+        "code": "14707",
+        "parent_code": "377"
+    },
+    "14710": {
+        "name": "Mai Sơn",
+        "type": "xa",
+        "slug": "mai-son",
+        "name_with_type": "Xã Mai Sơn",
+        "path": "Mai Sơn, Yên Mô, Ninh Bình",
+        "path_with_type": "Xã Mai Sơn, Huyện Yên Mô, Tỉnh Ninh Bình",
+        "code": "14710",
+        "parent_code": "377"
+    },
+    "14713": {
+        "name": "Khánh Thịnh",
+        "type": "xa",
+        "slug": "khanh-thinh",
+        "name_with_type": "Xã Khánh Thịnh",
+        "path": "Khánh Thịnh, Yên Mô, Ninh Bình",
+        "path_with_type": "Xã Khánh Thịnh, Huyện Yên Mô, Tỉnh Ninh Bình",
+        "code": "14713",
+        "parent_code": "377"
+    },
+    "14719": {
+        "name": "Yên Phong",
+        "type": "xa",
+        "slug": "yen-phong",
+        "name_with_type": "Xã Yên Phong",
+        "path": "Yên Phong, Yên Mô, Ninh Bình",
+        "path_with_type": "Xã Yên Phong, Huyện Yên Mô, Tỉnh Ninh Bình",
+        "code": "14719",
+        "parent_code": "377"
+    },
+    "14722": {
+        "name": "Yên Hòa",
+        "type": "xa",
+        "slug": "yen-hoa",
+        "name_with_type": "Xã Yên Hòa",
+        "path": "Yên Hòa, Yên Mô, Ninh Bình",
+        "path_with_type": "Xã Yên Hòa, Huyện Yên Mô, Tỉnh Ninh Bình",
+        "code": "14722",
+        "parent_code": "377"
+    },
+    "14725": {
+        "name": "Yên Thắng",
+        "type": "xa",
+        "slug": "yen-thang",
+        "name_with_type": "Xã Yên Thắng",
+        "path": "Yên Thắng, Yên Mô, Ninh Bình",
+        "path_with_type": "Xã Yên Thắng, Huyện Yên Mô, Tỉnh Ninh Bình",
+        "code": "14725",
+        "parent_code": "377"
+    },
+    "14728": {
+        "name": "Yên Từ",
+        "type": "xa",
+        "slug": "yen-tu",
+        "name_with_type": "Xã Yên Từ",
+        "path": "Yên Từ, Yên Mô, Ninh Bình",
+        "path_with_type": "Xã Yên Từ, Huyện Yên Mô, Tỉnh Ninh Bình",
+        "code": "14728",
+        "parent_code": "377"
+    },
+    "14731": {
+        "name": "Yên Hưng",
+        "type": "xa",
+        "slug": "yen-hung",
+        "name_with_type": "Xã Yên Hưng",
+        "path": "Yên Hưng, Yên Mô, Ninh Bình",
+        "path_with_type": "Xã Yên Hưng, Huyện Yên Mô, Tỉnh Ninh Bình",
+        "code": "14731",
+        "parent_code": "377"
+    },
+    "14734": {
+        "name": "Yên Thành",
+        "type": "xa",
+        "slug": "yen-thanh",
+        "name_with_type": "Xã Yên Thành",
+        "path": "Yên Thành, Yên Mô, Ninh Bình",
+        "path_with_type": "Xã Yên Thành, Huyện Yên Mô, Tỉnh Ninh Bình",
+        "code": "14734",
+        "parent_code": "377"
+    },
+    "14737": {
+        "name": "Yên Nhân",
+        "type": "xa",
+        "slug": "yen-nhan",
+        "name_with_type": "Xã Yên Nhân",
+        "path": "Yên Nhân, Yên Mô, Ninh Bình",
+        "path_with_type": "Xã Yên Nhân, Huyện Yên Mô, Tỉnh Ninh Bình",
+        "code": "14737",
+        "parent_code": "377"
+    },
+    "14740": {
+        "name": "Yên Mỹ",
+        "type": "xa",
+        "slug": "yen-my",
+        "name_with_type": "Xã Yên Mỹ",
+        "path": "Yên Mỹ, Yên Mô, Ninh Bình",
+        "path_with_type": "Xã Yên Mỹ, Huyện Yên Mô, Tỉnh Ninh Bình",
+        "code": "14740",
+        "parent_code": "377"
+    },
+    "14743": {
+        "name": "Yên Mạc",
+        "type": "xa",
+        "slug": "yen-mac",
+        "name_with_type": "Xã Yên Mạc",
+        "path": "Yên Mạc, Yên Mô, Ninh Bình",
+        "path_with_type": "Xã Yên Mạc, Huyện Yên Mô, Tỉnh Ninh Bình",
+        "code": "14743",
+        "parent_code": "377"
+    },
+    "14746": {
+        "name": "Yên Đồng",
+        "type": "xa",
+        "slug": "yen-dong",
+        "name_with_type": "Xã Yên Đồng",
+        "path": "Yên Đồng, Yên Mô, Ninh Bình",
+        "path_with_type": "Xã Yên Đồng, Huyện Yên Mô, Tỉnh Ninh Bình",
+        "code": "14746",
+        "parent_code": "377"
+    },
+    "14749": {
+        "name": "Yên Thái",
+        "type": "xa",
+        "slug": "yen-thai",
+        "name_with_type": "Xã Yên Thái",
+        "path": "Yên Thái, Yên Mô, Ninh Bình",
+        "path_with_type": "Xã Yên Thái, Huyện Yên Mô, Tỉnh Ninh Bình",
+        "code": "14749",
+        "parent_code": "377"
+    },
+    "14752": {
+        "name": "Yên Lâm",
+        "type": "xa",
+        "slug": "yen-lam",
+        "name_with_type": "Xã Yên Lâm",
+        "path": "Yên Lâm, Yên Mô, Ninh Bình",
+        "path_with_type": "Xã Yên Lâm, Huyện Yên Mô, Tỉnh Ninh Bình",
+        "code": "14752",
+        "parent_code": "377"
+    }
+}

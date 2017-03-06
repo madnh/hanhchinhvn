@@ -1,0 +1,122 @@
+{
+    "18754": {
+        "name": "Sông Trí",
+        "type": "phuong",
+        "slug": "song-tri",
+        "name_with_type": "Phường Sông Trí",
+        "path": "Sông Trí, Kỳ Anh, Hà Tĩnh",
+        "path_with_type": "Phường Sông Trí, Thị xã Kỳ Anh, Tỉnh Hà Tĩnh",
+        "code": "18754",
+        "parent_code": "449"
+    },
+    "18781": {
+        "name": "Kỳ Ninh",
+        "type": "xa",
+        "slug": "ky-ninh",
+        "name_with_type": "Xã Kỳ Ninh",
+        "path": "Kỳ Ninh, Kỳ Anh, Hà Tĩnh",
+        "path_with_type": "Xã Kỳ Ninh, Thị xã Kỳ Anh, Tỉnh Hà Tĩnh",
+        "code": "18781",
+        "parent_code": "449"
+    },
+    "18796": {
+        "name": "Kỳ Lợi",
+        "type": "xa",
+        "slug": "ky-loi",
+        "name_with_type": "Xã Kỳ Lợi",
+        "path": "Kỳ Lợi, Kỳ Anh, Hà Tĩnh",
+        "path_with_type": "Xã Kỳ Lợi, Thị xã Kỳ Anh, Tỉnh Hà Tĩnh",
+        "code": "18796",
+        "parent_code": "449"
+    },
+    "18808": {
+        "name": "Kỳ Hà",
+        "type": "xa",
+        "slug": "ky-ha",
+        "name_with_type": "Xã Kỳ Hà",
+        "path": "Kỳ Hà, Kỳ Anh, Hà Tĩnh",
+        "path_with_type": "Xã Kỳ Hà, Thị xã Kỳ Anh, Tỉnh Hà Tĩnh",
+        "code": "18808",
+        "parent_code": "449"
+    },
+    "18817": {
+        "name": "Kỳ Hưng",
+        "type": "xa",
+        "slug": "ky-hung",
+        "name_with_type": "Xã Kỳ Hưng",
+        "path": "Kỳ Hưng, Kỳ Anh, Hà Tĩnh",
+        "path_with_type": "Xã Kỳ Hưng, Thị xã Kỳ Anh, Tỉnh Hà Tĩnh",
+        "code": "18817",
+        "parent_code": "449"
+    },
+    "18820": {
+        "name": "Kỳ Trinh",
+        "type": "phuong",
+        "slug": "ky-trinh",
+        "name_with_type": "Phường Kỳ Trinh",
+        "path": "Kỳ Trinh, Kỳ Anh, Hà Tĩnh",
+        "path_with_type": "Phường Kỳ Trinh, Thị xã Kỳ Anh, Tỉnh Hà Tĩnh",
+        "code": "18820",
+        "parent_code": "449"
+    },
+    "18823": {
+        "name": "Kỳ Thịnh",
+        "type": "phuong",
+        "slug": "ky-thinh",
+        "name_with_type": "Phường Kỳ Thịnh",
+        "path": "Kỳ Thịnh, Kỳ Anh, Hà Tĩnh",
+        "path_with_type": "Phường Kỳ Thịnh, Thị xã Kỳ Anh, Tỉnh Hà Tĩnh",
+        "code": "18823",
+        "parent_code": "449"
+    },
+    "18829": {
+        "name": "Kỳ Hoa",
+        "type": "xa",
+        "slug": "ky-hoa",
+        "name_with_type": "Xã Kỳ Hoa",
+        "path": "Kỳ Hoa, Kỳ Anh, Hà Tĩnh",
+        "path_with_type": "Xã Kỳ Hoa, Thị xã Kỳ Anh, Tỉnh Hà Tĩnh",
+        "code": "18829",
+        "parent_code": "449"
+    },
+    "18832": {
+        "name": "Kỳ Phương",
+        "type": "phuong",
+        "slug": "ky-phuong",
+        "name_with_type": "Phường Kỳ Phương",
+        "path": "Kỳ Phương, Kỳ Anh, Hà Tĩnh",
+        "path_with_type": "Phường Kỳ Phương, Thị xã Kỳ Anh, Tỉnh Hà Tĩnh",
+        "code": "18832",
+        "parent_code": "449"
+    },
+    "18835": {
+        "name": "Kỳ Long",
+        "type": "phuong",
+        "slug": "ky-long",
+        "name_with_type": "Phường Kỳ Long",
+        "path": "Kỳ Long, Kỳ Anh, Hà Tĩnh",
+        "path_with_type": "Phường Kỳ Long, Thị xã Kỳ Anh, Tỉnh Hà Tĩnh",
+        "code": "18835",
+        "parent_code": "449"
+    },
+    "18841": {
+        "name": "Kỳ Liên",
+        "type": "phuong",
+        "slug": "ky-lien",
+        "name_with_type": "Phường Kỳ Liên",
+        "path": "Kỳ Liên, Kỳ Anh, Hà Tĩnh",
+        "path_with_type": "Phường Kỳ Liên, Thị xã Kỳ Anh, Tỉnh Hà Tĩnh",
+        "code": "18841",
+        "parent_code": "449"
+    },
+    "18847": {
+        "name": "Kỳ Nam",
+        "type": "xa",
+        "slug": "ky-nam",
+        "name_with_type": "Xã Kỳ Nam",
+        "path": "Kỳ Nam, Kỳ Anh, Hà Tĩnh",
+        "path_with_type": "Xã Kỳ Nam, Thị xã Kỳ Anh, Tỉnh Hà Tĩnh",
+        "code": "18847",
+        "parent_code": "449"
+    }
+}

@@ -1,0 +1,292 @@
+{
+    "06526": {
+        "name": "Na Dương",
+        "type": "thi-tran",
+        "slug": "na-duong",
+        "name_with_type": "Thị trấn Na Dương",
+        "path": "Na Dương, Lộc Bình, Lạng Sơn",
+        "path_with_type": "Thị trấn Na Dương, Huyện Lộc Bình, Tỉnh Lạng Sơn",
+        "code": "06526",
+        "parent_code": "188"
+    },
+    "06529": {
+        "name": "Lộc Bình",
+        "type": "thi-tran",
+        "slug": "loc-binh",
+        "name_with_type": "Thị trấn Lộc Bình",
+        "path": "Lộc Bình, Lộc Bình, Lạng Sơn",
+        "path_with_type": "Thị trấn Lộc Bình, Huyện Lộc Bình, Tỉnh Lạng Sơn",
+        "code": "06529",
+        "parent_code": "188"
+    },
+    "06532": {
+        "name": "Mẫu Sơn",
+        "type": "xa",
+        "slug": "mau-son",
+        "name_with_type": "Xã Mẫu Sơn",
+        "path": "Mẫu Sơn, Lộc Bình, Lạng Sơn",
+        "path_with_type": "Xã Mẫu Sơn, Huyện Lộc Bình, Tỉnh Lạng Sơn",
+        "code": "06532",
+        "parent_code": "188"
+    },
+    "06535": {
+        "name": "Bằng Khánh",
+        "type": "xa",
+        "slug": "bang-khanh",
+        "name_with_type": "Xã Bằng Khánh",
+        "path": "Bằng Khánh, Lộc Bình, Lạng Sơn",
+        "path_with_type": "Xã Bằng Khánh, Huyện Lộc Bình, Tỉnh Lạng Sơn",
+        "code": "06535",
+        "parent_code": "188"
+    },
+    "06538": {
+        "name": "Xuân Lễ",
+        "type": "xa",
+        "slug": "xuan-le",
+        "name_with_type": "Xã Xuân Lễ",
+        "path": "Xuân Lễ, Lộc Bình, Lạng Sơn",
+        "path_with_type": "Xã Xuân Lễ, Huyện Lộc Bình, Tỉnh Lạng Sơn",
+        "code": "06538",
+        "parent_code": "188"
+    },
+    "06541": {
+        "name": "Yên Khoái",
+        "type": "xa",
+        "slug": "yen-khoai",
+        "name_with_type": "Xã Yên Khoái",
+        "path": "Yên Khoái, Lộc Bình, Lạng Sơn",
+        "path_with_type": "Xã Yên Khoái, Huyện Lộc Bình, Tỉnh Lạng Sơn",
+        "code": "06541",
+        "parent_code": "188"
+    },
+    "06544": {
+        "name": "Xuân Mãn",
+        "type": "xa",
+        "slug": "xuan-man",
+        "name_with_type": "Xã Xuân Mãn",
+        "path": "Xuân Mãn, Lộc Bình, Lạng Sơn",
+        "path_with_type": "Xã Xuân Mãn, Huyện Lộc Bình, Tỉnh Lạng Sơn",
+        "code": "06544",
+        "parent_code": "188"
+    },
+    "06547": {
+        "name": "Tú Mịch",
+        "type": "xa",
+        "slug": "tu-mich",
+        "name_with_type": "Xã Tú Mịch",
+        "path": "Tú Mịch, Lộc Bình, Lạng Sơn",
+        "path_with_type": "Xã Tú Mịch, Huyện Lộc Bình, Tỉnh Lạng Sơn",
+        "code": "06547",
+        "parent_code": "188"
+    },
+    "06550": {
+        "name": "Hữu Khánh",
+        "type": "xa",
+        "slug": "huu-khanh",
+        "name_with_type": "Xã Hữu Khánh",
+        "path": "Hữu Khánh, Lộc Bình, Lạng Sơn",
+        "path_with_type": "Xã Hữu Khánh, Huyện Lộc Bình, Tỉnh Lạng Sơn",
+        "code": "06550",
+        "parent_code": "188"
+    },
+    "06553": {
+        "name": "Đồng Bục",
+        "type": "xa",
+        "slug": "dong-buc",
+        "name_with_type": "Xã Đồng Bục",
+        "path": "Đồng Bục, Lộc Bình, Lạng Sơn",
+        "path_with_type": "Xã Đồng Bục, Huyện Lộc Bình, Tỉnh Lạng Sơn",
+        "code": "06553",
+        "parent_code": "188"
+    },
+    "06556": {
+        "name": "Vân Mộng",
+        "type": "xa",
+        "slug": "van-mong",
+        "name_with_type": "Xã Vân Mộng",
+        "path": "Vân Mộng, Lộc Bình, Lạng Sơn",
+        "path_with_type": "Xã Vân Mộng, Huyện Lộc Bình, Tỉnh Lạng Sơn",
+        "code": "06556",
+        "parent_code": "188"
+    },
+    "06559": {
+        "name": "Tam Gia",
+        "type": "xa",
+        "slug": "tam-gia",
+        "name_with_type": "Xã Tam Gia",
+        "path": "Tam Gia, Lộc Bình, Lạng Sơn",
+        "path_with_type": "Xã Tam Gia, Huyện Lộc Bình, Tỉnh Lạng Sơn",
+        "code": "06559",
+        "parent_code": "188"
+    },
+    "06562": {
+        "name": "Tú Đoạn",
+        "type": "xa",
+        "slug": "tu-doan",
+        "name_with_type": "Xã Tú Đoạn",
+        "path": "Tú Đoạn, Lộc Bình, Lạng Sơn",
+        "path_with_type": "Xã Tú Đoạn, Huyện Lộc Bình, Tỉnh Lạng Sơn",
+        "code": "06562",
+        "parent_code": "188"
+    },
+    "06565": {
+        "name": "Khuất Xá",
+        "type": "xa",
+        "slug": "khuat-xa",
+        "name_with_type": "Xã Khuất Xá",
+        "path": "Khuất Xá, Lộc Bình, Lạng Sơn",
+        "path_with_type": "Xã Khuất Xá, Huyện Lộc Bình, Tỉnh Lạng Sơn",
+        "code": "06565",
+        "parent_code": "188"
+    },
+    "06568": {
+        "name": "Như Khuê",
+        "type": "xa",
+        "slug": "nhu-khue",
+        "name_with_type": "Xã Như Khuê",
+        "path": "Như Khuê, Lộc Bình, Lạng Sơn",
+        "path_with_type": "Xã Như Khuê, Huyện Lộc Bình, Tỉnh Lạng Sơn",
+        "code": "06568",
+        "parent_code": "188"
+    },
+    "06571": {
+        "name": "Lục Thôn",
+        "type": "xa",
+        "slug": "luc-thon",
+        "name_with_type": "Xã Lục Thôn",
+        "path": "Lục Thôn, Lộc Bình, Lạng Sơn",
+        "path_with_type": "Xã Lục Thôn, Huyện Lộc Bình, Tỉnh Lạng Sơn",
+        "code": "06571",
+        "parent_code": "188"
+    },
+    "06574": {
+        "name": "Tĩnh Bắc",
+        "type": "xa",
+        "slug": "tinh-bac",
+        "name_with_type": "Xã Tĩnh Bắc",
+        "path": "Tĩnh Bắc, Lộc Bình, Lạng Sơn",
+        "path_with_type": "Xã Tĩnh Bắc, Huyện Lộc Bình, Tỉnh Lạng Sơn",
+        "code": "06574",
+        "parent_code": "188"
+    },
+    "06577": {
+        "name": "Xuân Tình",
+        "type": "xa",
+        "slug": "xuan-tinh",
+        "name_with_type": "Xã Xuân Tình",
+        "path": "Xuân Tình, Lộc Bình, Lạng Sơn",
+        "path_with_type": "Xã Xuân Tình, Huyện Lộc Bình, Tỉnh Lạng Sơn",
+        "code": "06577",
+        "parent_code": "188"
+    },
+    "06580": {
+        "name": "Hiệp Hạ",
+        "type": "xa",
+        "slug": "hiep-ha",
+        "name_with_type": "Xã Hiệp Hạ",
+        "path": "Hiệp Hạ, Lộc Bình, Lạng Sơn",
+        "path_with_type": "Xã Hiệp Hạ, Huyện Lộc Bình, Tỉnh Lạng Sơn",
+        "code": "06580",
+        "parent_code": "188"
+    },
+    "06583": {
+        "name": "Nhượng Bạn",
+        "type": "xa",
+        "slug": "nhuong-ban",
+        "name_with_type": "Xã Nhượng Bạn",
+        "path": "Nhượng Bạn, Lộc Bình, Lạng Sơn",
+        "path_with_type": "Xã Nhượng Bạn, Huyện Lộc Bình, Tỉnh Lạng Sơn",
+        "code": "06583",
+        "parent_code": "188"
+    },
+    "06586": {
+        "name": "Quan Bản",
+        "type": "xa",
+        "slug": "quan-ban",
+        "name_with_type": "Xã Quan Bản",
+        "path": "Quan Bản, Lộc Bình, Lạng Sơn",
+        "path_with_type": "Xã Quan Bản, Huyện Lộc Bình, Tỉnh Lạng Sơn",
+        "code": "06586",
+        "parent_code": "188"
+    },
+    "06589": {
+        "name": "Sàn Viên",
+        "type": "xa",
+        "slug": "san-vien",
+        "name_with_type": "Xã Sàn Viên",
+        "path": "Sàn Viên, Lộc Bình, Lạng Sơn",
+        "path_with_type": "Xã Sàn Viên, Huyện Lộc Bình, Tỉnh Lạng Sơn",
+        "code": "06589",
+        "parent_code": "188"
+    },
+    "06592": {
+        "name": "Đông Quan",
+        "type": "xa",
+        "slug": "dong-quan",
+        "name_with_type": "Xã Đông Quan",
+        "path": "Đông Quan, Lộc Bình, Lạng Sơn",
+        "path_with_type": "Xã Đông Quan, Huyện Lộc Bình, Tỉnh Lạng Sơn",
+        "code": "06592",
+        "parent_code": "188"
+    },
+    "06595": {
+        "name": "Minh Phát",
+        "type": "xa",
+        "slug": "minh-phat",
+        "name_with_type": "Xã Minh Phát",
+        "path": "Minh Phát, Lộc Bình, Lạng Sơn",
+        "path_with_type": "Xã Minh Phát, Huyện Lộc Bình, Tỉnh Lạng Sơn",
+        "code": "06595",
+        "parent_code": "188"
+    },
+    "06598": {
+        "name": "Hữu Lân",
+        "type": "xa",
+        "slug": "huu-lan",
+        "name_with_type": "Xã Hữu Lân",
+        "path": "Hữu Lân, Lộc Bình, Lạng Sơn",
+        "path_with_type": "Xã Hữu Lân, Huyện Lộc Bình, Tỉnh Lạng Sơn",
+        "code": "06598",
+        "parent_code": "188"
+    },
+    "06601": {
+        "name": "Lợi Bác",
+        "type": "xa",
+        "slug": "loi-bac",
+        "name_with_type": "Xã Lợi Bác",
+        "path": "Lợi Bác, Lộc Bình, Lạng Sơn",
+        "path_with_type": "Xã Lợi Bác, Huyện Lộc Bình, Tỉnh Lạng Sơn",
+        "code": "06601",
+        "parent_code": "188"
+    },
+    "06604": {
+        "name": "Nam Quan",
+        "type": "xa",
+        "slug": "nam-quan",
+        "name_with_type": "Xã Nam Quan",
+        "path": "Nam Quan, Lộc Bình, Lạng Sơn",
+        "path_with_type": "Xã Nam Quan, Huyện Lộc Bình, Tỉnh Lạng Sơn",
+        "code": "06604",
+        "parent_code": "188"
+    },
+    "06607": {
+        "name": "Xuân Dương",
+        "type": "xa",
+        "slug": "xuan-duong",
+        "name_with_type": "Xã Xuân Dương",
+        "path": "Xuân Dương, Lộc Bình, Lạng Sơn",
+        "path_with_type": "Xã Xuân Dương, Huyện Lộc Bình, Tỉnh Lạng Sơn",
+        "code": "06607",
+        "parent_code": "188"
+    },
+    "06610": {
+        "name": "Ái Quốc",
+        "type": "xa",
+        "slug": "ai-quoc",
+        "name_with_type": "Xã Ái Quốc",
+        "path": "Ái Quốc, Lộc Bình, Lạng Sơn",
+        "path_with_type": "Xã Ái Quốc, Huyện Lộc Bình, Tỉnh Lạng Sơn",
+        "code": "06610",
+        "parent_code": "188"
+    }
+}

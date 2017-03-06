@@ -1,0 +1,212 @@
+{
+    "27496": {
+        "name": "Củ Chi",
+        "type": "thi-tran",
+        "slug": "cu-chi",
+        "name_with_type": "Thị trấn Củ Chi",
+        "path": "Củ Chi, Củ Chi, Hồ Chí Minh",
+        "path_with_type": "Thị trấn Củ Chi, Huyện Củ Chi, Thành phố Hồ Chí Minh",
+        "code": "27496",
+        "parent_code": "783"
+    },
+    "27499": {
+        "name": "Phú Mỹ Hưng",
+        "type": "xa",
+        "slug": "phu-my-hung",
+        "name_with_type": "Xã Phú Mỹ Hưng",
+        "path": "Phú Mỹ Hưng, Củ Chi, Hồ Chí Minh",
+        "path_with_type": "Xã Phú Mỹ Hưng, Huyện Củ Chi, Thành phố Hồ Chí Minh",
+        "code": "27499",
+        "parent_code": "783"
+    },
+    "27502": {
+        "name": "An Phú",
+        "type": "xa",
+        "slug": "an-phu",
+        "name_with_type": "Xã An Phú",
+        "path": "An Phú, Củ Chi, Hồ Chí Minh",
+        "path_with_type": "Xã An Phú, Huyện Củ Chi, Thành phố Hồ Chí Minh",
+        "code": "27502",
+        "parent_code": "783"
+    },
+    "27505": {
+        "name": "Trung Lập Thượng",
+        "type": "xa",
+        "slug": "trung-lap-thuong",
+        "name_with_type": "Xã Trung Lập Thượng",
+        "path": "Trung Lập Thượng, Củ Chi, Hồ Chí Minh",
+        "path_with_type": "Xã Trung Lập Thượng, Huyện Củ Chi, Thành phố Hồ Chí Minh",
+        "code": "27505",
+        "parent_code": "783"
+    },
+    "27508": {
+        "name": "An Nhơn Tây",
+        "type": "xa",
+        "slug": "an-nhon-tay",
+        "name_with_type": "Xã An Nhơn Tây",
+        "path": "An Nhơn Tây, Củ Chi, Hồ Chí Minh",
+        "path_with_type": "Xã An Nhơn Tây, Huyện Củ Chi, Thành phố Hồ Chí Minh",
+        "code": "27508",
+        "parent_code": "783"
+    },
+    "27511": {
+        "name": "Nhuận Đức",
+        "type": "xa",
+        "slug": "nhuan-duc",
+        "name_with_type": "Xã Nhuận Đức",
+        "path": "Nhuận Đức, Củ Chi, Hồ Chí Minh",
+        "path_with_type": "Xã Nhuận Đức, Huyện Củ Chi, Thành phố Hồ Chí Minh",
+        "code": "27511",
+        "parent_code": "783"
+    },
+    "27514": {
+        "name": "Phạm Văn Cội",
+        "type": "xa",
+        "slug": "pham-van-coi",
+        "name_with_type": "Xã Phạm Văn Cội",
+        "path": "Phạm Văn Cội, Củ Chi, Hồ Chí Minh",
+        "path_with_type": "Xã Phạm Văn Cội, Huyện Củ Chi, Thành phố Hồ Chí Minh",
+        "code": "27514",
+        "parent_code": "783"
+    },
+    "27517": {
+        "name": "Phú Hòa Đông",
+        "type": "xa",
+        "slug": "phu-hoa-dong",
+        "name_with_type": "Xã Phú Hòa Đông",
+        "path": "Phú Hòa Đông, Củ Chi, Hồ Chí Minh",
+        "path_with_type": "Xã Phú Hòa Đông, Huyện Củ Chi, Thành phố Hồ Chí Minh",
+        "code": "27517",
+        "parent_code": "783"
+    },
+    "27520": {
+        "name": "Trung Lập Hạ",
+        "type": "xa",
+        "slug": "trung-lap-ha",
+        "name_with_type": "Xã Trung Lập Hạ",
+        "path": "Trung Lập Hạ, Củ Chi, Hồ Chí Minh",
+        "path_with_type": "Xã Trung Lập Hạ, Huyện Củ Chi, Thành phố Hồ Chí Minh",
+        "code": "27520",
+        "parent_code": "783"
+    },
+    "27523": {
+        "name": "Trung An",
+        "type": "xa",
+        "slug": "trung-an",
+        "name_with_type": "Xã Trung An",
+        "path": "Trung An, Củ Chi, Hồ Chí Minh",
+        "path_with_type": "Xã Trung An, Huyện Củ Chi, Thành phố Hồ Chí Minh",
+        "code": "27523",
+        "parent_code": "783"
+    },
+    "27526": {
+        "name": "Phước Thạnh",
+        "type": "xa",
+        "slug": "phuoc-thanh",
+        "name_with_type": "Xã Phước Thạnh",
+        "path": "Phước Thạnh, Củ Chi, Hồ Chí Minh",
+        "path_with_type": "Xã Phước Thạnh, Huyện Củ Chi, Thành phố Hồ Chí Minh",
+        "code": "27526",
+        "parent_code": "783"
+    },
+    "27529": {
+        "name": "Phước Hiệp",
+        "type": "xa",
+        "slug": "phuoc-hiep",
+        "name_with_type": "Xã Phước Hiệp",
+        "path": "Phước Hiệp, Củ Chi, Hồ Chí Minh",
+        "path_with_type": "Xã Phước Hiệp, Huyện Củ Chi, Thành phố Hồ Chí Minh",
+        "code": "27529",
+        "parent_code": "783"
+    },
+    "27532": {
+        "name": "Tân An Hội",
+        "type": "xa",
+        "slug": "tan-an-hoi",
+        "name_with_type": "Xã Tân An Hội",
+        "path": "Tân An Hội, Củ Chi, Hồ Chí Minh",
+        "path_with_type": "Xã Tân An Hội, Huyện Củ Chi, Thành phố Hồ Chí Minh",
+        "code": "27532",
+        "parent_code": "783"
+    },
+    "27535": {
+        "name": "Phước Vĩnh An",
+        "type": "xa",
+        "slug": "phuoc-vinh-an",
+        "name_with_type": "Xã Phước Vĩnh An",
+        "path": "Phước Vĩnh An, Củ Chi, Hồ Chí Minh",
+        "path_with_type": "Xã Phước Vĩnh An, Huyện Củ Chi, Thành phố Hồ Chí Minh",
+        "code": "27535",
+        "parent_code": "783"
+    },
+    "27538": {
+        "name": "Thái Mỹ",
+        "type": "xa",
+        "slug": "thai-my",
+        "name_with_type": "Xã Thái Mỹ",
+        "path": "Thái Mỹ, Củ Chi, Hồ Chí Minh",
+        "path_with_type": "Xã Thái Mỹ, Huyện Củ Chi, Thành phố Hồ Chí Minh",
+        "code": "27538",
+        "parent_code": "783"
+    },
+    "27541": {
+        "name": "Tân Thạnh Tây",
+        "type": "xa",
+        "slug": "tan-thanh-tay",
+        "name_with_type": "Xã Tân Thạnh Tây",
+        "path": "Tân Thạnh Tây, Củ Chi, Hồ Chí Minh",
+        "path_with_type": "Xã Tân Thạnh Tây, Huyện Củ Chi, Thành phố Hồ Chí Minh",
+        "code": "27541",
+        "parent_code": "783"
+    },
+    "27544": {
+        "name": "Hòa Phú",
+        "type": "xa",
+        "slug": "hoa-phu",
+        "name_with_type": "Xã Hòa Phú",
+        "path": "Hòa Phú, Củ Chi, Hồ Chí Minh",
+        "path_with_type": "Xã Hòa Phú, Huyện Củ Chi, Thành phố Hồ Chí Minh",
+        "code": "27544",
+        "parent_code": "783"
+    },
+    "27547": {
+        "name": "Tân Thạnh Đông",
+        "type": "xa",
+        "slug": "tan-thanh-dong",
+        "name_with_type": "Xã Tân Thạnh Đông",
+        "path": "Tân Thạnh Đông, Củ Chi, Hồ Chí Minh",
+        "path_with_type": "Xã Tân Thạnh Đông, Huyện Củ Chi, Thành phố Hồ Chí Minh",
+        "code": "27547",
+        "parent_code": "783"
+    },
+    "27550": {
+        "name": "Bình Mỹ",
+        "type": "xa",
+        "slug": "binh-my",
+        "name_with_type": "Xã Bình Mỹ",
+        "path": "Bình Mỹ, Củ Chi, Hồ Chí Minh",
+        "path_with_type": "Xã Bình Mỹ, Huyện Củ Chi, Thành phố Hồ Chí Minh",
+        "code": "27550",
+        "parent_code": "783"
+    },
+    "27553": {
+        "name": "Tân Phú Trung",
+        "type": "xa",
+        "slug": "tan-phu-trung",
+        "name_with_type": "Xã Tân Phú Trung",
+        "path": "Tân Phú Trung, Củ Chi, Hồ Chí Minh",
+        "path_with_type": "Xã Tân Phú Trung, Huyện Củ Chi, Thành phố Hồ Chí Minh",
+        "code": "27553",
+        "parent_code": "783"
+    },
+    "27556": {
+        "name": "Tân Thông Hội",
+        "type": "xa",
+        "slug": "tan-thong-hoi",
+        "name_with_type": "Xã Tân Thông Hội",
+        "path": "Tân Thông Hội, Củ Chi, Hồ Chí Minh",
+        "path_with_type": "Xã Tân Thông Hội, Huyện Củ Chi, Thành phố Hồ Chí Minh",
+        "code": "27556",
+        "parent_code": "783"
+    }
+}

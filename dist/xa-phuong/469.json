@@ -1,0 +1,192 @@
+{
+    "19624": {
+        "name": "Ái Tử",
+        "type": "thi-tran",
+        "slug": "ai-tu",
+        "name_with_type": "Thị Trấn Ái Tử",
+        "path": "Ái Tử, Triệu Phong, Quảng Trị",
+        "path_with_type": "Thị Trấn Ái Tử, Huyện Triệu Phong, Tỉnh Quảng Trị",
+        "code": "19624",
+        "parent_code": "469"
+    },
+    "19627": {
+        "name": "Triệu An",
+        "type": "xa",
+        "slug": "trieu-an",
+        "name_with_type": "Xã Triệu An",
+        "path": "Triệu An, Triệu Phong, Quảng Trị",
+        "path_with_type": "Xã Triệu An, Huyện Triệu Phong, Tỉnh Quảng Trị",
+        "code": "19627",
+        "parent_code": "469"
+    },
+    "19630": {
+        "name": "Triệu Vân",
+        "type": "xa",
+        "slug": "trieu-van",
+        "name_with_type": "Xã Triệu Vân",
+        "path": "Triệu Vân, Triệu Phong, Quảng Trị",
+        "path_with_type": "Xã Triệu Vân, Huyện Triệu Phong, Tỉnh Quảng Trị",
+        "code": "19630",
+        "parent_code": "469"
+    },
+    "19633": {
+        "name": "Triệu Phước",
+        "type": "xa",
+        "slug": "trieu-phuoc",
+        "name_with_type": "Xã Triệu Phước",
+        "path": "Triệu Phước, Triệu Phong, Quảng Trị",
+        "path_with_type": "Xã Triệu Phước, Huyện Triệu Phong, Tỉnh Quảng Trị",
+        "code": "19633",
+        "parent_code": "469"
+    },
+    "19636": {
+        "name": "Triệu Độ",
+        "type": "xa",
+        "slug": "trieu-do",
+        "name_with_type": "Xã Triệu Độ",
+        "path": "Triệu Độ, Triệu Phong, Quảng Trị",
+        "path_with_type": "Xã Triệu Độ, Huyện Triệu Phong, Tỉnh Quảng Trị",
+        "code": "19636",
+        "parent_code": "469"
+    },
+    "19639": {
+        "name": "Triệu Trạch",
+        "type": "xa",
+        "slug": "trieu-trach",
+        "name_with_type": "Xã Triệu Trạch",
+        "path": "Triệu Trạch, Triệu Phong, Quảng Trị",
+        "path_with_type": "Xã Triệu Trạch, Huyện Triệu Phong, Tỉnh Quảng Trị",
+        "code": "19639",
+        "parent_code": "469"
+    },
+    "19642": {
+        "name": "Triệu Thuận",
+        "type": "xa",
+        "slug": "trieu-thuan",
+        "name_with_type": "Xã Triệu Thuận",
+        "path": "Triệu Thuận, Triệu Phong, Quảng Trị",
+        "path_with_type": "Xã Triệu Thuận, Huyện Triệu Phong, Tỉnh Quảng Trị",
+        "code": "19642",
+        "parent_code": "469"
+    },
+    "19645": {
+        "name": "Triệu Đại",
+        "type": "xa",
+        "slug": "trieu-dai",
+        "name_with_type": "Xã Triệu Đại",
+        "path": "Triệu Đại, Triệu Phong, Quảng Trị",
+        "path_with_type": "Xã Triệu Đại, Huyện Triệu Phong, Tỉnh Quảng Trị",
+        "code": "19645",
+        "parent_code": "469"
+    },
+    "19648": {
+        "name": "Triệu Hòa",
+        "type": "xa",
+        "slug": "trieu-hoa",
+        "name_with_type": "Xã Triệu Hòa",
+        "path": "Triệu Hòa, Triệu Phong, Quảng Trị",
+        "path_with_type": "Xã Triệu Hòa, Huyện Triệu Phong, Tỉnh Quảng Trị",
+        "code": "19648",
+        "parent_code": "469"
+    },
+    "19651": {
+        "name": "Triệu Lăng",
+        "type": "xa",
+        "slug": "trieu-lang",
+        "name_with_type": "Xã Triệu Lăng",
+        "path": "Triệu Lăng, Triệu Phong, Quảng Trị",
+        "path_with_type": "Xã Triệu Lăng, Huyện Triệu Phong, Tỉnh Quảng Trị",
+        "code": "19651",
+        "parent_code": "469"
+    },
+    "19654": {
+        "name": "Triệu Sơn",
+        "type": "xa",
+        "slug": "trieu-son",
+        "name_with_type": "Xã Triệu Sơn",
+        "path": "Triệu Sơn, Triệu Phong, Quảng Trị",
+        "path_with_type": "Xã Triệu Sơn, Huyện Triệu Phong, Tỉnh Quảng Trị",
+        "code": "19654",
+        "parent_code": "469"
+    },
+    "19657": {
+        "name": "Triệu Long",
+        "type": "xa",
+        "slug": "trieu-long",
+        "name_with_type": "Xã Triệu Long",
+        "path": "Triệu Long, Triệu Phong, Quảng Trị",
+        "path_with_type": "Xã Triệu Long, Huyện Triệu Phong, Tỉnh Quảng Trị",
+        "code": "19657",
+        "parent_code": "469"
+    },
+    "19660": {
+        "name": "Triệu Tài",
+        "type": "xa",
+        "slug": "trieu-tai",
+        "name_with_type": "Xã Triệu Tài",
+        "path": "Triệu Tài, Triệu Phong, Quảng Trị",
+        "path_with_type": "Xã Triệu Tài, Huyện Triệu Phong, Tỉnh Quảng Trị",
+        "code": "19660",
+        "parent_code": "469"
+    },
+    "19663": {
+        "name": "Triệu Đông",
+        "type": "xa",
+        "slug": "trieu-dong",
+        "name_with_type": "Xã Triệu Đông",
+        "path": "Triệu Đông, Triệu Phong, Quảng Trị",
+        "path_with_type": "Xã Triệu Đông, Huyện Triệu Phong, Tỉnh Quảng Trị",
+        "code": "19663",
+        "parent_code": "469"
+    },
+    "19666": {
+        "name": "Triệu Trung",
+        "type": "xa",
+        "slug": "trieu-trung",
+        "name_with_type": "Xã Triệu Trung",
+        "path": "Triệu Trung, Triệu Phong, Quảng Trị",
+        "path_with_type": "Xã Triệu Trung, Huyện Triệu Phong, Tỉnh Quảng Trị",
+        "code": "19666",
+        "parent_code": "469"
+    },
+    "19669": {
+        "name": "Triệu Ái",
+        "type": "xa",
+        "slug": "trieu-ai",
+        "name_with_type": "Xã Triệu Ái",
+        "path": "Triệu Ái, Triệu Phong, Quảng Trị",
+        "path_with_type": "Xã Triệu Ái, Huyện Triệu Phong, Tỉnh Quảng Trị",
+        "code": "19669",
+        "parent_code": "469"
+    },
+    "19672": {
+        "name": "Triệu Thượng",
+        "type": "xa",
+        "slug": "trieu-thuong",
+        "name_with_type": "Xã Triệu Thượng",
+        "path": "Triệu Thượng, Triệu Phong, Quảng Trị",
+        "path_with_type": "Xã Triệu Thượng, Huyện Triệu Phong, Tỉnh Quảng Trị",
+        "code": "19672",
+        "parent_code": "469"
+    },
+    "19675": {
+        "name": "Triệu Giang",
+        "type": "xa",
+        "slug": "trieu-giang",
+        "name_with_type": "Xã Triệu Giang",
+        "path": "Triệu Giang, Triệu Phong, Quảng Trị",
+        "path_with_type": "Xã Triệu Giang, Huyện Triệu Phong, Tỉnh Quảng Trị",
+        "code": "19675",
+        "parent_code": "469"
+    },
+    "19678": {
+        "name": "Triệu Thành",
+        "type": "xa",
+        "slug": "trieu-thanh",
+        "name_with_type": "Xã Triệu Thành",
+        "path": "Triệu Thành, Triệu Phong, Quảng Trị",
+        "path_with_type": "Xã Triệu Thành, Huyện Triệu Phong, Tỉnh Quảng Trị",
+        "code": "19678",
+        "parent_code": "469"
+    }
+}

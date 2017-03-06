@@ -1,0 +1,242 @@
+{
+    "00454": {
+        "name": "Đông Anh",
+        "type": "thi-tran",
+        "slug": "dong-anh",
+        "name_with_type": "Thị trấn Đông Anh",
+        "path": "Đông Anh, Đông Anh, Hà Nội",
+        "path_with_type": "Thị trấn Đông Anh, Huyện Đông Anh, Thành phố Hà Nội",
+        "code": "00454",
+        "parent_code": "017"
+    },
+    "00457": {
+        "name": "Xuân Nộn",
+        "type": "xa",
+        "slug": "xuan-non",
+        "name_with_type": "Xã Xuân Nộn",
+        "path": "Xuân Nộn, Đông Anh, Hà Nội",
+        "path_with_type": "Xã Xuân Nộn, Huyện Đông Anh, Thành phố Hà Nội",
+        "code": "00457",
+        "parent_code": "017"
+    },
+    "00460": {
+        "name": "Thuỵ Lâm",
+        "type": "xa",
+        "slug": "thuy-lam",
+        "name_with_type": "Xã Thuỵ Lâm",
+        "path": "Thuỵ Lâm, Đông Anh, Hà Nội",
+        "path_with_type": "Xã Thuỵ Lâm, Huyện Đông Anh, Thành phố Hà Nội",
+        "code": "00460",
+        "parent_code": "017"
+    },
+    "00463": {
+        "name": "Bắc Hồng",
+        "type": "xa",
+        "slug": "bac-hong",
+        "name_with_type": "Xã Bắc Hồng",
+        "path": "Bắc Hồng, Đông Anh, Hà Nội",
+        "path_with_type": "Xã Bắc Hồng, Huyện Đông Anh, Thành phố Hà Nội",
+        "code": "00463",
+        "parent_code": "017"
+    },
+    "00466": {
+        "name": "Nguyên Khê",
+        "type": "xa",
+        "slug": "nguyen-khe",
+        "name_with_type": "Xã Nguyên Khê",
+        "path": "Nguyên Khê, Đông Anh, Hà Nội",
+        "path_with_type": "Xã Nguyên Khê, Huyện Đông Anh, Thành phố Hà Nội",
+        "code": "00466",
+        "parent_code": "017"
+    },
+    "00469": {
+        "name": "Nam Hồng",
+        "type": "xa",
+        "slug": "nam-hong",
+        "name_with_type": "Xã Nam Hồng",
+        "path": "Nam Hồng, Đông Anh, Hà Nội",
+        "path_with_type": "Xã Nam Hồng, Huyện Đông Anh, Thành phố Hà Nội",
+        "code": "00469",
+        "parent_code": "017"
+    },
+    "00472": {
+        "name": "Tiên Dương",
+        "type": "xa",
+        "slug": "tien-duong",
+        "name_with_type": "Xã Tiên Dương",
+        "path": "Tiên Dương, Đông Anh, Hà Nội",
+        "path_with_type": "Xã Tiên Dương, Huyện Đông Anh, Thành phố Hà Nội",
+        "code": "00472",
+        "parent_code": "017"
+    },
+    "00475": {
+        "name": "Vân Hà",
+        "type": "xa",
+        "slug": "van-ha",
+        "name_with_type": "Xã Vân Hà",
+        "path": "Vân Hà, Đông Anh, Hà Nội",
+        "path_with_type": "Xã Vân Hà, Huyện Đông Anh, Thành phố Hà Nội",
+        "code": "00475",
+        "parent_code": "017"
+    },
+    "00478": {
+        "name": "Uy Nỗ",
+        "type": "xa",
+        "slug": "uy-no",
+        "name_with_type": "Xã Uy Nỗ",
+        "path": "Uy Nỗ, Đông Anh, Hà Nội",
+        "path_with_type": "Xã Uy Nỗ, Huyện Đông Anh, Thành phố Hà Nội",
+        "code": "00478",
+        "parent_code": "017"
+    },
+    "00481": {
+        "name": "Vân Nội",
+        "type": "xa",
+        "slug": "van-noi",
+        "name_with_type": "Xã Vân Nội",
+        "path": "Vân Nội, Đông Anh, Hà Nội",
+        "path_with_type": "Xã Vân Nội, Huyện Đông Anh, Thành phố Hà Nội",
+        "code": "00481",
+        "parent_code": "017"
+    },
+    "00484": {
+        "name": "Liên Hà",
+        "type": "xa",
+        "slug": "lien-ha",
+        "name_with_type": "Xã Liên Hà",
+        "path": "Liên Hà, Đông Anh, Hà Nội",
+        "path_with_type": "Xã Liên Hà, Huyện Đông Anh, Thành phố Hà Nội",
+        "code": "00484",
+        "parent_code": "017"
+    },
+    "00487": {
+        "name": "Việt Hùng",
+        "type": "xa",
+        "slug": "viet-hung",
+        "name_with_type": "Xã Việt Hùng",
+        "path": "Việt Hùng, Đông Anh, Hà Nội",
+        "path_with_type": "Xã Việt Hùng, Huyện Đông Anh, Thành phố Hà Nội",
+        "code": "00487",
+        "parent_code": "017"
+    },
+    "00490": {
+        "name": "Kim Nỗ",
+        "type": "xa",
+        "slug": "kim-no",
+        "name_with_type": "Xã Kim Nỗ",
+        "path": "Kim Nỗ, Đông Anh, Hà Nội",
+        "path_with_type": "Xã Kim Nỗ, Huyện Đông Anh, Thành phố Hà Nội",
+        "code": "00490",
+        "parent_code": "017"
+    },
+    "00493": {
+        "name": "Kim Chung",
+        "type": "xa",
+        "slug": "kim-chung",
+        "name_with_type": "Xã Kim Chung",
+        "path": "Kim Chung, Đông Anh, Hà Nội",
+        "path_with_type": "Xã Kim Chung, Huyện Đông Anh, Thành phố Hà Nội",
+        "code": "00493",
+        "parent_code": "017"
+    },
+    "00496": {
+        "name": "Dục Tú",
+        "type": "xa",
+        "slug": "duc-tu",
+        "name_with_type": "Xã Dục Tú",
+        "path": "Dục Tú, Đông Anh, Hà Nội",
+        "path_with_type": "Xã Dục Tú, Huyện Đông Anh, Thành phố Hà Nội",
+        "code": "00496",
+        "parent_code": "017"
+    },
+    "00499": {
+        "name": "Đại Mạch",
+        "type": "xa",
+        "slug": "dai-mach",
+        "name_with_type": "Xã Đại Mạch",
+        "path": "Đại Mạch, Đông Anh, Hà Nội",
+        "path_with_type": "Xã Đại Mạch, Huyện Đông Anh, Thành phố Hà Nội",
+        "code": "00499",
+        "parent_code": "017"
+    },
+    "00502": {
+        "name": "Vĩnh Ngọc",
+        "type": "xa",
+        "slug": "vinh-ngoc",
+        "name_with_type": "Xã Vĩnh Ngọc",
+        "path": "Vĩnh Ngọc, Đông Anh, Hà Nội",
+        "path_with_type": "Xã Vĩnh Ngọc, Huyện Đông Anh, Thành phố Hà Nội",
+        "code": "00502",
+        "parent_code": "017"
+    },
+    "00505": {
+        "name": "Cổ Loa",
+        "type": "xa",
+        "slug": "co-loa",
+        "name_with_type": "Xã Cổ Loa",
+        "path": "Cổ Loa, Đông Anh, Hà Nội",
+        "path_with_type": "Xã Cổ Loa, Huyện Đông Anh, Thành phố Hà Nội",
+        "code": "00505",
+        "parent_code": "017"
+    },
+    "00508": {
+        "name": "Hải Bối",
+        "type": "xa",
+        "slug": "hai-boi",
+        "name_with_type": "Xã Hải Bối",
+        "path": "Hải Bối, Đông Anh, Hà Nội",
+        "path_with_type": "Xã Hải Bối, Huyện Đông Anh, Thành phố Hà Nội",
+        "code": "00508",
+        "parent_code": "017"
+    },
+    "00511": {
+        "name": "Xuân Canh",
+        "type": "xa",
+        "slug": "xuan-canh",
+        "name_with_type": "Xã Xuân Canh",
+        "path": "Xuân Canh, Đông Anh, Hà Nội",
+        "path_with_type": "Xã Xuân Canh, Huyện Đông Anh, Thành phố Hà Nội",
+        "code": "00511",
+        "parent_code": "017"
+    },
+    "00514": {
+        "name": "Võng La",
+        "type": "xa",
+        "slug": "vong-la",
+        "name_with_type": "Xã Võng La",
+        "path": "Võng La, Đông Anh, Hà Nội",
+        "path_with_type": "Xã Võng La, Huyện Đông Anh, Thành phố Hà Nội",
+        "code": "00514",
+        "parent_code": "017"
+    },
+    "00517": {
+        "name": "Tầm Xá",
+        "type": "xa",
+        "slug": "tam-xa",
+        "name_with_type": "Xã Tầm Xá",
+        "path": "Tầm Xá, Đông Anh, Hà Nội",
+        "path_with_type": "Xã Tầm Xá, Huyện Đông Anh, Thành phố Hà Nội",
+        "code": "00517",
+        "parent_code": "017"
+    },
+    "00520": {
+        "name": "Mai Lâm",
+        "type": "xa",
+        "slug": "mai-lam",
+        "name_with_type": "Xã Mai Lâm",
+        "path": "Mai Lâm, Đông Anh, Hà Nội",
+        "path_with_type": "Xã Mai Lâm, Huyện Đông Anh, Thành phố Hà Nội",
+        "code": "00520",
+        "parent_code": "017"
+    },
+    "00523": {
+        "name": "Đông Hội",
+        "type": "xa",
+        "slug": "dong-hoi",
+        "name_with_type": "Xã Đông Hội",
+        "path": "Đông Hội, Đông Anh, Hà Nội",
+        "path_with_type": "Xã Đông Hội, Huyện Đông Anh, Thành phố Hà Nội",
+        "code": "00523",
+        "parent_code": "017"
+    }
+}

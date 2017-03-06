@@ -1,0 +1,102 @@
+{
+    "24043": {
+        "name": "Phú Thiện",
+        "type": "thi-tran",
+        "slug": "phu-thien",
+        "name_with_type": "Thị trấn Phú Thiện",
+        "path": "Phú Thiện, Phú Thiện, Gia Lai",
+        "path_with_type": "Thị trấn Phú Thiện, Huyện Phú Thiện, Tỉnh Gia Lai",
+        "code": "24043",
+        "parent_code": "638"
+    },
+    "24046": {
+        "name": "Chư A Thai",
+        "type": "xa",
+        "slug": "chu-a-thai",
+        "name_with_type": "Xã Chư A Thai",
+        "path": "Chư A Thai, Phú Thiện, Gia Lai",
+        "path_with_type": "Xã Chư A Thai, Huyện Phú Thiện, Tỉnh Gia Lai",
+        "code": "24046",
+        "parent_code": "638"
+    },
+    "24048": {
+        "name": "Ayun Hạ",
+        "type": "xa",
+        "slug": "ayun-ha",
+        "name_with_type": "Xã Ayun Hạ",
+        "path": "Ayun Hạ, Phú Thiện, Gia Lai",
+        "path_with_type": "Xã Ayun Hạ, Huyện Phú Thiện, Tỉnh Gia Lai",
+        "code": "24048",
+        "parent_code": "638"
+    },
+    "24049": {
+        "name": "Ia Ake",
+        "type": "xa",
+        "slug": "ia-ake",
+        "name_with_type": "Xã Ia Ake",
+        "path": "Ia Ake, Phú Thiện, Gia Lai",
+        "path_with_type": "Xã Ia Ake, Huyện Phú Thiện, Tỉnh Gia Lai",
+        "code": "24049",
+        "parent_code": "638"
+    },
+    "24052": {
+        "name": "Ia Sol",
+        "type": "xa",
+        "slug": "ia-sol",
+        "name_with_type": "Xã Ia Sol",
+        "path": "Ia Sol, Phú Thiện, Gia Lai",
+        "path_with_type": "Xã Ia Sol, Huyện Phú Thiện, Tỉnh Gia Lai",
+        "code": "24052",
+        "parent_code": "638"
+    },
+    "24055": {
+        "name": "Ia Piar",
+        "type": "xa",
+        "slug": "ia-piar",
+        "name_with_type": "Xã Ia Piar",
+        "path": "Ia Piar, Phú Thiện, Gia Lai",
+        "path_with_type": "Xã Ia Piar, Huyện Phú Thiện, Tỉnh Gia Lai",
+        "code": "24055",
+        "parent_code": "638"
+    },
+    "24058": {
+        "name": "Ia Peng",
+        "type": "xa",
+        "slug": "ia-peng",
+        "name_with_type": "Xã Ia Peng",
+        "path": "Ia Peng, Phú Thiện, Gia Lai",
+        "path_with_type": "Xã Ia Peng, Huyện Phú Thiện, Tỉnh Gia Lai",
+        "code": "24058",
+        "parent_code": "638"
+    },
+    "24060": {
+        "name": "Chrôh Pơnan",
+        "type": "xa",
+        "slug": "chroh-ponan",
+        "name_with_type": "Xã Chrôh Pơnan",
+        "path": "Chrôh Pơnan, Phú Thiện, Gia Lai",
+        "path_with_type": "Xã Chrôh Pơnan, Huyện Phú Thiện, Tỉnh Gia Lai",
+        "code": "24060",
+        "parent_code": "638"
+    },
+    "24061": {
+        "name": "Ia Hiao",
+        "type": "xa",
+        "slug": "ia-hiao",
+        "name_with_type": "Xã Ia Hiao",
+        "path": "Ia Hiao, Phú Thiện, Gia Lai",
+        "path_with_type": "Xã Ia Hiao, Huyện Phú Thiện, Tỉnh Gia Lai",
+        "code": "24061",
+        "parent_code": "638"
+    },
+    "24067": {
+        "name": "Ia Yeng",
+        "type": "xa",
+        "slug": "ia-yeng",
+        "name_with_type": "Xã Ia Yeng",
+        "path": "Ia Yeng, Phú Thiện, Gia Lai",
+        "path_with_type": "Xã Ia Yeng, Huyện Phú Thiện, Tỉnh Gia Lai",
+        "code": "24067",
+        "parent_code": "638"
+    }
+}

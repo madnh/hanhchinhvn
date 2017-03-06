@@ -1,0 +1,122 @@
+{
+    "20755": {
+        "name": "Tân An",
+        "type": "thi-tran",
+        "slug": "tan-an",
+        "name_with_type": "Thị trấn Tân An",
+        "path": "Tân An, Hiệp Đức, Quảng Nam",
+        "path_with_type": "Thị trấn Tân An, Huyện Hiệp Đức, Tỉnh Quảng Nam",
+        "code": "20755",
+        "parent_code": "512"
+    },
+    "20758": {
+        "name": "Hiệp Hòa",
+        "type": "xa",
+        "slug": "hiep-hoa",
+        "name_with_type": "Xã Hiệp Hòa",
+        "path": "Hiệp Hòa, Hiệp Đức, Quảng Nam",
+        "path_with_type": "Xã Hiệp Hòa, Huyện Hiệp Đức, Tỉnh Quảng Nam",
+        "code": "20758",
+        "parent_code": "512"
+    },
+    "20761": {
+        "name": "Hiệp Thuận",
+        "type": "xa",
+        "slug": "hiep-thuan",
+        "name_with_type": "Xã Hiệp Thuận",
+        "path": "Hiệp Thuận, Hiệp Đức, Quảng Nam",
+        "path_with_type": "Xã Hiệp Thuận, Huyện Hiệp Đức, Tỉnh Quảng Nam",
+        "code": "20761",
+        "parent_code": "512"
+    },
+    "20764": {
+        "name": "Quế Thọ",
+        "type": "xa",
+        "slug": "que-tho",
+        "name_with_type": "Xã Quế Thọ",
+        "path": "Quế Thọ, Hiệp Đức, Quảng Nam",
+        "path_with_type": "Xã Quế Thọ, Huyện Hiệp Đức, Tỉnh Quảng Nam",
+        "code": "20764",
+        "parent_code": "512"
+    },
+    "20767": {
+        "name": "Bình Lâm",
+        "type": "xa",
+        "slug": "binh-lam",
+        "name_with_type": "Xã Bình Lâm",
+        "path": "Bình Lâm, Hiệp Đức, Quảng Nam",
+        "path_with_type": "Xã Bình Lâm, Huyện Hiệp Đức, Tỉnh Quảng Nam",
+        "code": "20767",
+        "parent_code": "512"
+    },
+    "20770": {
+        "name": "Sông Trà",
+        "type": "xa",
+        "slug": "song-tra",
+        "name_with_type": "Xã Sông Trà",
+        "path": "Sông Trà, Hiệp Đức, Quảng Nam",
+        "path_with_type": "Xã Sông Trà, Huyện Hiệp Đức, Tỉnh Quảng Nam",
+        "code": "20770",
+        "parent_code": "512"
+    },
+    "20773": {
+        "name": "Phước Trà",
+        "type": "xa",
+        "slug": "phuoc-tra",
+        "name_with_type": "Xã Phước Trà",
+        "path": "Phước Trà, Hiệp Đức, Quảng Nam",
+        "path_with_type": "Xã Phước Trà, Huyện Hiệp Đức, Tỉnh Quảng Nam",
+        "code": "20773",
+        "parent_code": "512"
+    },
+    "20776": {
+        "name": "Phước Gia",
+        "type": "xa",
+        "slug": "phuoc-gia",
+        "name_with_type": "Xã Phước Gia",
+        "path": "Phước Gia, Hiệp Đức, Quảng Nam",
+        "path_with_type": "Xã Phước Gia, Huyện Hiệp Đức, Tỉnh Quảng Nam",
+        "code": "20776",
+        "parent_code": "512"
+    },
+    "20779": {
+        "name": "Quế Bình",
+        "type": "xa",
+        "slug": "que-binh",
+        "name_with_type": "Xã Quế Bình",
+        "path": "Quế Bình, Hiệp Đức, Quảng Nam",
+        "path_with_type": "Xã Quế Bình, Huyện Hiệp Đức, Tỉnh Quảng Nam",
+        "code": "20779",
+        "parent_code": "512"
+    },
+    "20782": {
+        "name": "Quế Lưu",
+        "type": "xa",
+        "slug": "que-luu",
+        "name_with_type": "Xã Quế Lưu",
+        "path": "Quế Lưu, Hiệp Đức, Quảng Nam",
+        "path_with_type": "Xã Quế Lưu, Huyện Hiệp Đức, Tỉnh Quảng Nam",
+        "code": "20782",
+        "parent_code": "512"
+    },
+    "20785": {
+        "name": "Thăng Phước",
+        "type": "xa",
+        "slug": "thang-phuoc",
+        "name_with_type": "Xã Thăng Phước",
+        "path": "Thăng Phước, Hiệp Đức, Quảng Nam",
+        "path_with_type": "Xã Thăng Phước, Huyện Hiệp Đức, Tỉnh Quảng Nam",
+        "code": "20785",
+        "parent_code": "512"
+    },
+    "20788": {
+        "name": "Bình Sơn",
+        "type": "xa",
+        "slug": "binh-son",
+        "name_with_type": "Xã Bình Sơn",
+        "path": "Bình Sơn, Hiệp Đức, Quảng Nam",
+        "path_with_type": "Xã Bình Sơn, Huyện Hiệp Đức, Tỉnh Quảng Nam",
+        "code": "20788",
+        "parent_code": "512"
+    }
+}

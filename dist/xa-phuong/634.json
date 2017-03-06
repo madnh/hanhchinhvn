@@ -1,0 +1,82 @@
+{
+    "23989": {
+        "name": "Hà Tam",
+        "type": "xa",
+        "slug": "ha-tam",
+        "name_with_type": "Xã Hà Tam",
+        "path": "Hà Tam, Đăk Pơ, Gia Lai",
+        "path_with_type": "Xã Hà Tam, Huyện Đăk Pơ, Tỉnh Gia Lai",
+        "code": "23989",
+        "parent_code": "634"
+    },
+    "23992": {
+        "name": "An Thành",
+        "type": "xa",
+        "slug": "an-thanh",
+        "name_with_type": "Xã An Thành",
+        "path": "An Thành, Đăk Pơ, Gia Lai",
+        "path_with_type": "Xã An Thành, Huyện Đăk Pơ, Tỉnh Gia Lai",
+        "code": "23992",
+        "parent_code": "634"
+    },
+    "23995": {
+        "name": "Đak Pơ",
+        "type": "thi-tran",
+        "slug": "dak-po",
+        "name_with_type": "Thị trấn Đak Pơ",
+        "path": "Đak Pơ, Đăk Pơ, Gia Lai",
+        "path_with_type": "Thị trấn Đak Pơ, Huyện Đăk Pơ, Tỉnh Gia Lai",
+        "code": "23995",
+        "parent_code": "634"
+    },
+    "23998": {
+        "name": "Yang Bắc",
+        "type": "xa",
+        "slug": "yang-bac",
+        "name_with_type": "Xã Yang Bắc",
+        "path": "Yang Bắc, Đăk Pơ, Gia Lai",
+        "path_with_type": "Xã Yang Bắc, Huyện Đăk Pơ, Tỉnh Gia Lai",
+        "code": "23998",
+        "parent_code": "634"
+    },
+    "24001": {
+        "name": "Cư An",
+        "type": "xa",
+        "slug": "cu-an",
+        "name_with_type": "Xã Cư An",
+        "path": "Cư An, Đăk Pơ, Gia Lai",
+        "path_with_type": "Xã Cư An, Huyện Đăk Pơ, Tỉnh Gia Lai",
+        "code": "24001",
+        "parent_code": "634"
+    },
+    "24004": {
+        "name": "Tân An",
+        "type": "xa",
+        "slug": "tan-an",
+        "name_with_type": "Xã Tân An",
+        "path": "Tân An, Đăk Pơ, Gia Lai",
+        "path_with_type": "Xã Tân An, Huyện Đăk Pơ, Tỉnh Gia Lai",
+        "code": "24004",
+        "parent_code": "634"
+    },
+    "24007": {
+        "name": "Phú An",
+        "type": "xa",
+        "slug": "phu-an",
+        "name_with_type": "Xã Phú An",
+        "path": "Phú An, Đăk Pơ, Gia Lai",
+        "path_with_type": "Xã Phú An, Huyện Đăk Pơ, Tỉnh Gia Lai",
+        "code": "24007",
+        "parent_code": "634"
+    },
+    "24010": {
+        "name": "Ya Hội",
+        "type": "xa",
+        "slug": "ya-hoi",
+        "name_with_type": "Xã Ya Hội",
+        "path": "Ya Hội, Đăk Pơ, Gia Lai",
+        "path_with_type": "Xã Ya Hội, Huyện Đăk Pơ, Tỉnh Gia Lai",
+        "code": "24010",
+        "parent_code": "634"
+    }
+}

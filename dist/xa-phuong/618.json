@@ -1,0 +1,32 @@
+{
+    "23535": {
+        "name": "Ia Dal",
+        "type": "xa",
+        "slug": "ia-dal",
+        "name_with_type": "Xã Ia Dal",
+        "path": "Ia Dal, Ia H' Drai, Kon Tum",
+        "path_with_type": "Xã Ia Dal, Huyện Ia H' Drai, Tỉnh Kon Tum",
+        "code": "23535",
+        "parent_code": "618"
+    },
+    "23537": {
+        "name": "Ia Dom",
+        "type": "xa",
+        "slug": "ia-dom",
+        "name_with_type": "Xã Ia Dom",
+        "path": "Ia Dom, Ia H' Drai, Kon Tum",
+        "path_with_type": "Xã Ia Dom, Huyện Ia H' Drai, Tỉnh Kon Tum",
+        "code": "23537",
+        "parent_code": "618"
+    },
+    "23538": {
+        "name": "Ia Tơi",
+        "type": "xa",
+        "slug": "ia-toi",
+        "name_with_type": "Xã Ia Tơi",
+        "path": "Ia Tơi, Ia H' Drai, Kon Tum",
+        "path_with_type": "Xã Ia Tơi, Huyện Ia H' Drai, Tỉnh Kon Tum",
+        "code": "23538",
+        "parent_code": "618"
+    }
+}

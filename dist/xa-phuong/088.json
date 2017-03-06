@@ -1,0 +1,182 @@
+{
+    "03001": {
+        "name": "Sa Pa",
+        "type": "thi-tran",
+        "slug": "sa-pa",
+        "name_with_type": "Thị trấn Sa Pa",
+        "path": "Sa Pa, Sa Pa, Lào Cai",
+        "path_with_type": "Thị trấn Sa Pa, Huyện Sa Pa, Tỉnh Lào Cai",
+        "code": "03001",
+        "parent_code": "088"
+    },
+    "03004": {
+        "name": "Bản Khoang",
+        "type": "xa",
+        "slug": "ban-khoang",
+        "name_with_type": "Xã Bản Khoang",
+        "path": "Bản Khoang, Sa Pa, Lào Cai",
+        "path_with_type": "Xã Bản Khoang, Huyện Sa Pa, Tỉnh Lào Cai",
+        "code": "03004",
+        "parent_code": "088"
+    },
+    "03007": {
+        "name": "Tả Giàng Phình",
+        "type": "xa",
+        "slug": "ta-giang-phinh",
+        "name_with_type": "Xã Tả Giàng Phình",
+        "path": "Tả Giàng Phình, Sa Pa, Lào Cai",
+        "path_with_type": "Xã Tả Giàng Phình, Huyện Sa Pa, Tỉnh Lào Cai",
+        "code": "03007",
+        "parent_code": "088"
+    },
+    "03010": {
+        "name": "Trung Chải",
+        "type": "xa",
+        "slug": "trung-chai",
+        "name_with_type": "Xã Trung Chải",
+        "path": "Trung Chải, Sa Pa, Lào Cai",
+        "path_with_type": "Xã Trung Chải, Huyện Sa Pa, Tỉnh Lào Cai",
+        "code": "03010",
+        "parent_code": "088"
+    },
+    "03013": {
+        "name": "Tả Phìn",
+        "type": "xa",
+        "slug": "ta-phin",
+        "name_with_type": "Xã Tả Phìn",
+        "path": "Tả Phìn, Sa Pa, Lào Cai",
+        "path_with_type": "Xã Tả Phìn, Huyện Sa Pa, Tỉnh Lào Cai",
+        "code": "03013",
+        "parent_code": "088"
+    },
+    "03016": {
+        "name": "Sa Pả",
+        "type": "xa",
+        "slug": "sa-pa",
+        "name_with_type": "Xã Sa Pả",
+        "path": "Sa Pả, Sa Pa, Lào Cai",
+        "path_with_type": "Xã Sa Pả, Huyện Sa Pa, Tỉnh Lào Cai",
+        "code": "03016",
+        "parent_code": "088"
+    },
+    "03019": {
+        "name": "San Sả Hồ",
+        "type": "xa",
+        "slug": "san-sa-ho",
+        "name_with_type": "Xã San Sả Hồ",
+        "path": "San Sả Hồ, Sa Pa, Lào Cai",
+        "path_with_type": "Xã San Sả Hồ, Huyện Sa Pa, Tỉnh Lào Cai",
+        "code": "03019",
+        "parent_code": "088"
+    },
+    "03022": {
+        "name": "Bản Phùng",
+        "type": "xa",
+        "slug": "ban-phung",
+        "name_with_type": "Xã Bản Phùng",
+        "path": "Bản Phùng, Sa Pa, Lào Cai",
+        "path_with_type": "Xã Bản Phùng, Huyện Sa Pa, Tỉnh Lào Cai",
+        "code": "03022",
+        "parent_code": "088"
+    },
+    "03025": {
+        "name": "Hầu Thào",
+        "type": "xa",
+        "slug": "hau-thao",
+        "name_with_type": "Xã Hầu Thào",
+        "path": "Hầu Thào, Sa Pa, Lào Cai",
+        "path_with_type": "Xã Hầu Thào, Huyện Sa Pa, Tỉnh Lào Cai",
+        "code": "03025",
+        "parent_code": "088"
+    },
+    "03028": {
+        "name": "Lao Chải",
+        "type": "xa",
+        "slug": "lao-chai",
+        "name_with_type": "Xã Lao Chải",
+        "path": "Lao Chải, Sa Pa, Lào Cai",
+        "path_with_type": "Xã Lao Chải, Huyện Sa Pa, Tỉnh Lào Cai",
+        "code": "03028",
+        "parent_code": "088"
+    },
+    "03031": {
+        "name": "Thanh Kim",
+        "type": "xa",
+        "slug": "thanh-kim",
+        "name_with_type": "Xã Thanh Kim",
+        "path": "Thanh Kim, Sa Pa, Lào Cai",
+        "path_with_type": "Xã Thanh Kim, Huyện Sa Pa, Tỉnh Lào Cai",
+        "code": "03031",
+        "parent_code": "088"
+    },
+    "03034": {
+        "name": "Suối Thầu",
+        "type": "xa",
+        "slug": "suoi-thau",
+        "name_with_type": "Xã Suối Thầu",
+        "path": "Suối Thầu, Sa Pa, Lào Cai",
+        "path_with_type": "Xã Suối Thầu, Huyện Sa Pa, Tỉnh Lào Cai",
+        "code": "03034",
+        "parent_code": "088"
+    },
+    "03037": {
+        "name": "Sử Pán",
+        "type": "xa",
+        "slug": "su-pan",
+        "name_with_type": "Xã Sử Pán",
+        "path": "Sử Pán, Sa Pa, Lào Cai",
+        "path_with_type": "Xã Sử Pán, Huyện Sa Pa, Tỉnh Lào Cai",
+        "code": "03037",
+        "parent_code": "088"
+    },
+    "03040": {
+        "name": "Tả Van",
+        "type": "xa",
+        "slug": "ta-van",
+        "name_with_type": "Xã Tả Van",
+        "path": "Tả Van, Sa Pa, Lào Cai",
+        "path_with_type": "Xã Tả Van, Huyện Sa Pa, Tỉnh Lào Cai",
+        "code": "03040",
+        "parent_code": "088"
+    },
+    "03043": {
+        "name": "Thanh Phú",
+        "type": "xa",
+        "slug": "thanh-phu",
+        "name_with_type": "Xã Thanh Phú",
+        "path": "Thanh Phú, Sa Pa, Lào Cai",
+        "path_with_type": "Xã Thanh Phú, Huyện Sa Pa, Tỉnh Lào Cai",
+        "code": "03043",
+        "parent_code": "088"
+    },
+    "03046": {
+        "name": "Bản Hồ",
+        "type": "xa",
+        "slug": "ban-ho",
+        "name_with_type": "Xã Bản Hồ",
+        "path": "Bản Hồ, Sa Pa, Lào Cai",
+        "path_with_type": "Xã Bản Hồ, Huyện Sa Pa, Tỉnh Lào Cai",
+        "code": "03046",
+        "parent_code": "088"
+    },
+    "03049": {
+        "name": "Nậm Sài",
+        "type": "xa",
+        "slug": "nam-sai",
+        "name_with_type": "Xã Nậm Sài",
+        "path": "Nậm Sài, Sa Pa, Lào Cai",
+        "path_with_type": "Xã Nậm Sài, Huyện Sa Pa, Tỉnh Lào Cai",
+        "code": "03049",
+        "parent_code": "088"
+    },
+    "03052": {
+        "name": "Nậm Cang",
+        "type": "xa",
+        "slug": "nam-cang",
+        "name_with_type": "Xã Nậm Cang",
+        "path": "Nậm Cang, Sa Pa, Lào Cai",
+        "path_with_type": "Xã Nậm Cang, Huyện Sa Pa, Tỉnh Lào Cai",
+        "code": "03052",
+        "parent_code": "088"
+    }
+}

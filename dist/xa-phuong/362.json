@@ -1,0 +1,202 @@
+{
+    "13966": {
+        "name": "Nam Giang",
+        "type": "thi-tran",
+        "slug": "nam-giang",
+        "name_with_type": "Thị trấn Nam Giang",
+        "path": "Nam Giang, Nam Trực, Nam Định",
+        "path_with_type": "Thị trấn Nam Giang, Huyện Nam Trực, Tỉnh Nam Định",
+        "code": "13966",
+        "parent_code": "362"
+    },
+    "13969": {
+        "name": "Nam Mỹ",
+        "type": "xa",
+        "slug": "nam-my",
+        "name_with_type": "Xã Nam Mỹ",
+        "path": "Nam Mỹ, Nam Trực, Nam Định",
+        "path_with_type": "Xã Nam Mỹ, Huyện Nam Trực, Tỉnh Nam Định",
+        "code": "13969",
+        "parent_code": "362"
+    },
+    "13972": {
+        "name": "Điền Xá",
+        "type": "xa",
+        "slug": "dien-xa",
+        "name_with_type": "Xã Điền Xá",
+        "path": "Điền Xá, Nam Trực, Nam Định",
+        "path_with_type": "Xã Điền Xá, Huyện Nam Trực, Tỉnh Nam Định",
+        "code": "13972",
+        "parent_code": "362"
+    },
+    "13975": {
+        "name": "Nghĩa An",
+        "type": "xa",
+        "slug": "nghia-an",
+        "name_with_type": "Xã Nghĩa An",
+        "path": "Nghĩa An, Nam Trực, Nam Định",
+        "path_with_type": "Xã Nghĩa An, Huyện Nam Trực, Tỉnh Nam Định",
+        "code": "13975",
+        "parent_code": "362"
+    },
+    "13978": {
+        "name": "Nam Thắng",
+        "type": "xa",
+        "slug": "nam-thang",
+        "name_with_type": "Xã Nam Thắng",
+        "path": "Nam Thắng, Nam Trực, Nam Định",
+        "path_with_type": "Xã Nam Thắng, Huyện Nam Trực, Tỉnh Nam Định",
+        "code": "13978",
+        "parent_code": "362"
+    },
+    "13981": {
+        "name": "Nam Toàn",
+        "type": "xa",
+        "slug": "nam-toan",
+        "name_with_type": "Xã Nam Toàn",
+        "path": "Nam Toàn, Nam Trực, Nam Định",
+        "path_with_type": "Xã Nam Toàn, Huyện Nam Trực, Tỉnh Nam Định",
+        "code": "13981",
+        "parent_code": "362"
+    },
+    "13984": {
+        "name": "Hồng Quang",
+        "type": "xa",
+        "slug": "hong-quang",
+        "name_with_type": "Xã Hồng Quang",
+        "path": "Hồng Quang, Nam Trực, Nam Định",
+        "path_with_type": "Xã Hồng Quang, Huyện Nam Trực, Tỉnh Nam Định",
+        "code": "13984",
+        "parent_code": "362"
+    },
+    "13987": {
+        "name": "Tân Thịnh",
+        "type": "xa",
+        "slug": "tan-thinh",
+        "name_with_type": "Xã Tân Thịnh",
+        "path": "Tân Thịnh, Nam Trực, Nam Định",
+        "path_with_type": "Xã Tân Thịnh, Huyện Nam Trực, Tỉnh Nam Định",
+        "code": "13987",
+        "parent_code": "362"
+    },
+    "13990": {
+        "name": "Nam Cường",
+        "type": "xa",
+        "slug": "nam-cuong",
+        "name_with_type": "Xã Nam Cường",
+        "path": "Nam Cường, Nam Trực, Nam Định",
+        "path_with_type": "Xã Nam Cường, Huyện Nam Trực, Tỉnh Nam Định",
+        "code": "13990",
+        "parent_code": "362"
+    },
+    "13993": {
+        "name": "Nam Hồng",
+        "type": "xa",
+        "slug": "nam-hong",
+        "name_with_type": "Xã Nam Hồng",
+        "path": "Nam Hồng, Nam Trực, Nam Định",
+        "path_with_type": "Xã Nam Hồng, Huyện Nam Trực, Tỉnh Nam Định",
+        "code": "13993",
+        "parent_code": "362"
+    },
+    "13996": {
+        "name": "Nam Hùng",
+        "type": "xa",
+        "slug": "nam-hung",
+        "name_with_type": "Xã Nam Hùng",
+        "path": "Nam Hùng, Nam Trực, Nam Định",
+        "path_with_type": "Xã Nam Hùng, Huyện Nam Trực, Tỉnh Nam Định",
+        "code": "13996",
+        "parent_code": "362"
+    },
+    "13999": {
+        "name": "Nam Hoa",
+        "type": "xa",
+        "slug": "nam-hoa",
+        "name_with_type": "Xã Nam Hoa",
+        "path": "Nam Hoa, Nam Trực, Nam Định",
+        "path_with_type": "Xã Nam Hoa, Huyện Nam Trực, Tỉnh Nam Định",
+        "code": "13999",
+        "parent_code": "362"
+    },
+    "14002": {
+        "name": "Nam Dương",
+        "type": "xa",
+        "slug": "nam-duong",
+        "name_with_type": "Xã Nam Dương",
+        "path": "Nam Dương, Nam Trực, Nam Định",
+        "path_with_type": "Xã Nam Dương, Huyện Nam Trực, Tỉnh Nam Định",
+        "code": "14002",
+        "parent_code": "362"
+    },
+    "14005": {
+        "name": "Nam Thanh",
+        "type": "xa",
+        "slug": "nam-thanh",
+        "name_with_type": "Xã Nam Thanh",
+        "path": "Nam Thanh, Nam Trực, Nam Định",
+        "path_with_type": "Xã Nam Thanh, Huyện Nam Trực, Tỉnh Nam Định",
+        "code": "14005",
+        "parent_code": "362"
+    },
+    "14008": {
+        "name": "Nam Lợi",
+        "type": "xa",
+        "slug": "nam-loi",
+        "name_with_type": "Xã Nam Lợi",
+        "path": "Nam Lợi, Nam Trực, Nam Định",
+        "path_with_type": "Xã Nam Lợi, Huyện Nam Trực, Tỉnh Nam Định",
+        "code": "14008",
+        "parent_code": "362"
+    },
+    "14011": {
+        "name": "Bình Minh",
+        "type": "xa",
+        "slug": "binh-minh",
+        "name_with_type": "Xã Bình Minh",
+        "path": "Bình Minh, Nam Trực, Nam Định",
+        "path_with_type": "Xã Bình Minh, Huyện Nam Trực, Tỉnh Nam Định",
+        "code": "14011",
+        "parent_code": "362"
+    },
+    "14014": {
+        "name": "Đồng Sơn",
+        "type": "xa",
+        "slug": "dong-son",
+        "name_with_type": "Xã Đồng Sơn",
+        "path": "Đồng Sơn, Nam Trực, Nam Định",
+        "path_with_type": "Xã Đồng Sơn, Huyện Nam Trực, Tỉnh Nam Định",
+        "code": "14014",
+        "parent_code": "362"
+    },
+    "14017": {
+        "name": "Nam Tiến",
+        "type": "xa",
+        "slug": "nam-tien",
+        "name_with_type": "Xã Nam Tiến",
+        "path": "Nam Tiến, Nam Trực, Nam Định",
+        "path_with_type": "Xã Nam Tiến, Huyện Nam Trực, Tỉnh Nam Định",
+        "code": "14017",
+        "parent_code": "362"
+    },
+    "14020": {
+        "name": "Nam Hải",
+        "type": "xa",
+        "slug": "nam-hai",
+        "name_with_type": "Xã Nam Hải",
+        "path": "Nam Hải, Nam Trực, Nam Định",
+        "path_with_type": "Xã Nam Hải, Huyện Nam Trực, Tỉnh Nam Định",
+        "code": "14020",
+        "parent_code": "362"
+    },
+    "14023": {
+        "name": "Nam Thái",
+        "type": "xa",
+        "slug": "nam-thai",
+        "name_with_type": "Xã Nam Thái",
+        "path": "Nam Thái, Nam Trực, Nam Định",
+        "path_with_type": "Xã Nam Thái, Huyện Nam Trực, Tỉnh Nam Định",
+        "code": "14023",
+        "parent_code": "362"
+    }
+}

@@ -1,0 +1,252 @@
+{
+    "13891": {
+        "name": "Liễu Đề",
+        "type": "thi-tran",
+        "slug": "lieu-de",
+        "name_with_type": "Thị trấn Liễu Đề",
+        "path": "Liễu Đề, Nghĩa Hưng, Nam Định",
+        "path_with_type": "Thị trấn Liễu Đề, Huyện Nghĩa Hưng, Tỉnh Nam Định",
+        "code": "13891",
+        "parent_code": "361"
+    },
+    "13894": {
+        "name": "Rạng Đông",
+        "type": "thi-tran",
+        "slug": "rang-dong",
+        "name_with_type": "Thị trấn Rạng Đông",
+        "path": "Rạng Đông, Nghĩa Hưng, Nam Định",
+        "path_with_type": "Thị trấn Rạng Đông, Huyện Nghĩa Hưng, Tỉnh Nam Định",
+        "code": "13894",
+        "parent_code": "361"
+    },
+    "13897": {
+        "name": "Nghĩa Đồng",
+        "type": "xa",
+        "slug": "nghia-dong",
+        "name_with_type": "Xã Nghĩa Đồng",
+        "path": "Nghĩa Đồng, Nghĩa Hưng, Nam Định",
+        "path_with_type": "Xã Nghĩa Đồng, Huyện Nghĩa Hưng, Tỉnh Nam Định",
+        "code": "13897",
+        "parent_code": "361"
+    },
+    "13900": {
+        "name": "Nghĩa Thịnh",
+        "type": "xa",
+        "slug": "nghia-thinh",
+        "name_with_type": "Xã Nghĩa Thịnh",
+        "path": "Nghĩa Thịnh, Nghĩa Hưng, Nam Định",
+        "path_with_type": "Xã Nghĩa Thịnh, Huyện Nghĩa Hưng, Tỉnh Nam Định",
+        "code": "13900",
+        "parent_code": "361"
+    },
+    "13903": {
+        "name": "Nghĩa Minh",
+        "type": "xa",
+        "slug": "nghia-minh",
+        "name_with_type": "Xã Nghĩa Minh",
+        "path": "Nghĩa Minh, Nghĩa Hưng, Nam Định",
+        "path_with_type": "Xã Nghĩa Minh, Huyện Nghĩa Hưng, Tỉnh Nam Định",
+        "code": "13903",
+        "parent_code": "361"
+    },
+    "13906": {
+        "name": "Nghĩa Thái",
+        "type": "xa",
+        "slug": "nghia-thai",
+        "name_with_type": "Xã Nghĩa Thái",
+        "path": "Nghĩa Thái, Nghĩa Hưng, Nam Định",
+        "path_with_type": "Xã Nghĩa Thái, Huyện Nghĩa Hưng, Tỉnh Nam Định",
+        "code": "13906",
+        "parent_code": "361"
+    },
+    "13909": {
+        "name": "Hoàng Nam",
+        "type": "xa",
+        "slug": "hoang-nam",
+        "name_with_type": "Xã Hoàng Nam",
+        "path": "Hoàng Nam, Nghĩa Hưng, Nam Định",
+        "path_with_type": "Xã Hoàng Nam, Huyện Nghĩa Hưng, Tỉnh Nam Định",
+        "code": "13909",
+        "parent_code": "361"
+    },
+    "13912": {
+        "name": "Nghĩa Châu",
+        "type": "xa",
+        "slug": "nghia-chau",
+        "name_with_type": "Xã Nghĩa Châu",
+        "path": "Nghĩa Châu, Nghĩa Hưng, Nam Định",
+        "path_with_type": "Xã Nghĩa Châu, Huyện Nghĩa Hưng, Tỉnh Nam Định",
+        "code": "13912",
+        "parent_code": "361"
+    },
+    "13915": {
+        "name": "Nghĩa Trung",
+        "type": "xa",
+        "slug": "nghia-trung",
+        "name_with_type": "Xã Nghĩa Trung",
+        "path": "Nghĩa Trung, Nghĩa Hưng, Nam Định",
+        "path_with_type": "Xã Nghĩa Trung, Huyện Nghĩa Hưng, Tỉnh Nam Định",
+        "code": "13915",
+        "parent_code": "361"
+    },
+    "13918": {
+        "name": "Nghĩa Sơn",
+        "type": "xa",
+        "slug": "nghia-son",
+        "name_with_type": "Xã Nghĩa Sơn",
+        "path": "Nghĩa Sơn, Nghĩa Hưng, Nam Định",
+        "path_with_type": "Xã Nghĩa Sơn, Huyện Nghĩa Hưng, Tỉnh Nam Định",
+        "code": "13918",
+        "parent_code": "361"
+    },
+    "13921": {
+        "name": "Nghĩa Lạc",
+        "type": "xa",
+        "slug": "nghia-lac",
+        "name_with_type": "Xã Nghĩa Lạc",
+        "path": "Nghĩa Lạc, Nghĩa Hưng, Nam Định",
+        "path_with_type": "Xã Nghĩa Lạc, Huyện Nghĩa Hưng, Tỉnh Nam Định",
+        "code": "13921",
+        "parent_code": "361"
+    },
+    "13924": {
+        "name": "Nghĩa Hồng",
+        "type": "xa",
+        "slug": "nghia-hong",
+        "name_with_type": "Xã Nghĩa Hồng",
+        "path": "Nghĩa Hồng, Nghĩa Hưng, Nam Định",
+        "path_with_type": "Xã Nghĩa Hồng, Huyện Nghĩa Hưng, Tỉnh Nam Định",
+        "code": "13924",
+        "parent_code": "361"
+    },
+    "13927": {
+        "name": "Nghĩa Phong",
+        "type": "xa",
+        "slug": "nghia-phong",
+        "name_with_type": "Xã Nghĩa Phong",
+        "path": "Nghĩa Phong, Nghĩa Hưng, Nam Định",
+        "path_with_type": "Xã Nghĩa Phong, Huyện Nghĩa Hưng, Tỉnh Nam Định",
+        "code": "13927",
+        "parent_code": "361"
+    },
+    "13930": {
+        "name": "Nghĩa Phú",
+        "type": "xa",
+        "slug": "nghia-phu",
+        "name_with_type": "Xã Nghĩa Phú",
+        "path": "Nghĩa Phú, Nghĩa Hưng, Nam Định",
+        "path_with_type": "Xã Nghĩa Phú, Huyện Nghĩa Hưng, Tỉnh Nam Định",
+        "code": "13930",
+        "parent_code": "361"
+    },
+    "13933": {
+        "name": "Nghĩa Bình",
+        "type": "xa",
+        "slug": "nghia-binh",
+        "name_with_type": "Xã Nghĩa Bình",
+        "path": "Nghĩa Bình, Nghĩa Hưng, Nam Định",
+        "path_with_type": "Xã Nghĩa Bình, Huyện Nghĩa Hưng, Tỉnh Nam Định",
+        "code": "13933",
+        "parent_code": "361"
+    },
+    "13936": {
+        "name": "Quỹ Nhất",
+        "type": "thi-tran",
+        "slug": "quy-nhat",
+        "name_with_type": "Thị trấn Quỹ Nhất",
+        "path": "Quỹ Nhất, Nghĩa Hưng, Nam Định",
+        "path_with_type": "Thị trấn Quỹ Nhất, Huyện Nghĩa Hưng, Tỉnh Nam Định",
+        "code": "13936",
+        "parent_code": "361"
+    },
+    "13939": {
+        "name": "Nghĩa Tân",
+        "type": "xa",
+        "slug": "nghia-tan",
+        "name_with_type": "Xã Nghĩa Tân",
+        "path": "Nghĩa Tân, Nghĩa Hưng, Nam Định",
+        "path_with_type": "Xã Nghĩa Tân, Huyện Nghĩa Hưng, Tỉnh Nam Định",
+        "code": "13939",
+        "parent_code": "361"
+    },
+    "13942": {
+        "name": "Nghĩa Hùng",
+        "type": "xa",
+        "slug": "nghia-hung",
+        "name_with_type": "Xã Nghĩa Hùng",
+        "path": "Nghĩa Hùng, Nghĩa Hưng, Nam Định",
+        "path_with_type": "Xã Nghĩa Hùng, Huyện Nghĩa Hưng, Tỉnh Nam Định",
+        "code": "13942",
+        "parent_code": "361"
+    },
+    "13945": {
+        "name": "Nghĩa Lâm",
+        "type": "xa",
+        "slug": "nghia-lam",
+        "name_with_type": "Xã Nghĩa Lâm",
+        "path": "Nghĩa Lâm, Nghĩa Hưng, Nam Định",
+        "path_with_type": "Xã Nghĩa Lâm, Huyện Nghĩa Hưng, Tỉnh Nam Định",
+        "code": "13945",
+        "parent_code": "361"
+    },
+    "13948": {
+        "name": "Nghĩa Thành",
+        "type": "xa",
+        "slug": "nghia-thanh",
+        "name_with_type": "Xã Nghĩa Thành",
+        "path": "Nghĩa Thành, Nghĩa Hưng, Nam Định",
+        "path_with_type": "Xã Nghĩa Thành, Huyện Nghĩa Hưng, Tỉnh Nam Định",
+        "code": "13948",
+        "parent_code": "361"
+    },
+    "13951": {
+        "name": "Nghĩa Thắng",
+        "type": "xa",
+        "slug": "nghia-thang",
+        "name_with_type": "Xã Nghĩa Thắng",
+        "path": "Nghĩa Thắng, Nghĩa Hưng, Nam Định",
+        "path_with_type": "Xã Nghĩa Thắng, Huyện Nghĩa Hưng, Tỉnh Nam Định",
+        "code": "13951",
+        "parent_code": "361"
+    },
+    "13954": {
+        "name": "Nghĩa Lợi",
+        "type": "xa",
+        "slug": "nghia-loi",
+        "name_with_type": "Xã Nghĩa Lợi",
+        "path": "Nghĩa Lợi, Nghĩa Hưng, Nam Định",
+        "path_with_type": "Xã Nghĩa Lợi, Huyện Nghĩa Hưng, Tỉnh Nam Định",
+        "code": "13954",
+        "parent_code": "361"
+    },
+    "13957": {
+        "name": "Nghĩa Hải",
+        "type": "xa",
+        "slug": "nghia-hai",
+        "name_with_type": "Xã Nghĩa Hải",
+        "path": "Nghĩa Hải, Nghĩa Hưng, Nam Định",
+        "path_with_type": "Xã Nghĩa Hải, Huyện Nghĩa Hưng, Tỉnh Nam Định",
+        "code": "13957",
+        "parent_code": "361"
+    },
+    "13960": {
+        "name": "Nghĩa Phúc",
+        "type": "xa",
+        "slug": "nghia-phuc",
+        "name_with_type": "Xã Nghĩa Phúc",
+        "path": "Nghĩa Phúc, Nghĩa Hưng, Nam Định",
+        "path_with_type": "Xã Nghĩa Phúc, Huyện Nghĩa Hưng, Tỉnh Nam Định",
+        "code": "13960",
+        "parent_code": "361"
+    },
+    "13963": {
+        "name": "Nam Điền",
+        "type": "xa",
+        "slug": "nam-dien",
+        "name_with_type": "Xã Nam Điền",
+        "path": "Nam Điền, Nghĩa Hưng, Nam Định",
+        "path_with_type": "Xã Nam Điền, Huyện Nghĩa Hưng, Tỉnh Nam Định",
+        "code": "13963",
+        "parent_code": "361"
+    }
+}

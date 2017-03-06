@@ -1,0 +1,152 @@
+{
+    "19201": {
+        "name": "Quán Hàu",
+        "type": "thi-tran",
+        "slug": "quan-hau",
+        "name_with_type": "Thị trấn Quán Hàu",
+        "path": "Quán Hàu, Quảng Ninh, Quảng Bình",
+        "path_with_type": "Thị trấn Quán Hàu, Huyện Quảng Ninh, Tỉnh Quảng Bình",
+        "code": "19201",
+        "parent_code": "456"
+    },
+    "19204": {
+        "name": "Trường Sơn",
+        "type": "xa",
+        "slug": "truong-son",
+        "name_with_type": "Xã Trường Sơn",
+        "path": "Trường Sơn, Quảng Ninh, Quảng Bình",
+        "path_with_type": "Xã Trường Sơn, Huyện Quảng Ninh, Tỉnh Quảng Bình",
+        "code": "19204",
+        "parent_code": "456"
+    },
+    "19207": {
+        "name": "Lương Ninh",
+        "type": "xa",
+        "slug": "luong-ninh",
+        "name_with_type": "Xã Lương Ninh",
+        "path": "Lương Ninh, Quảng Ninh, Quảng Bình",
+        "path_with_type": "Xã Lương Ninh, Huyện Quảng Ninh, Tỉnh Quảng Bình",
+        "code": "19207",
+        "parent_code": "456"
+    },
+    "19210": {
+        "name": "Vĩnh Ninh",
+        "type": "xa",
+        "slug": "vinh-ninh",
+        "name_with_type": "Xã Vĩnh Ninh",
+        "path": "Vĩnh Ninh, Quảng Ninh, Quảng Bình",
+        "path_with_type": "Xã Vĩnh Ninh, Huyện Quảng Ninh, Tỉnh Quảng Bình",
+        "code": "19210",
+        "parent_code": "456"
+    },
+    "19213": {
+        "name": "Võ Ninh",
+        "type": "xa",
+        "slug": "vo-ninh",
+        "name_with_type": "Xã Võ Ninh",
+        "path": "Võ Ninh, Quảng Ninh, Quảng Bình",
+        "path_with_type": "Xã Võ Ninh, Huyện Quảng Ninh, Tỉnh Quảng Bình",
+        "code": "19213",
+        "parent_code": "456"
+    },
+    "19216": {
+        "name": "Hải Ninh",
+        "type": "xa",
+        "slug": "hai-ninh",
+        "name_with_type": "Xã Hải Ninh",
+        "path": "Hải Ninh, Quảng Ninh, Quảng Bình",
+        "path_with_type": "Xã Hải Ninh, Huyện Quảng Ninh, Tỉnh Quảng Bình",
+        "code": "19216",
+        "parent_code": "456"
+    },
+    "19219": {
+        "name": "Hàm Ninh",
+        "type": "xa",
+        "slug": "ham-ninh",
+        "name_with_type": "Xã Hàm Ninh",
+        "path": "Hàm Ninh, Quảng Ninh, Quảng Bình",
+        "path_with_type": "Xã Hàm Ninh, Huyện Quảng Ninh, Tỉnh Quảng Bình",
+        "code": "19219",
+        "parent_code": "456"
+    },
+    "19222": {
+        "name": "Duy Ninh",
+        "type": "xa",
+        "slug": "duy-ninh",
+        "name_with_type": "Xã Duy Ninh",
+        "path": "Duy Ninh, Quảng Ninh, Quảng Bình",
+        "path_with_type": "Xã Duy Ninh, Huyện Quảng Ninh, Tỉnh Quảng Bình",
+        "code": "19222",
+        "parent_code": "456"
+    },
+    "19225": {
+        "name": "Gia Ninh",
+        "type": "xa",
+        "slug": "gia-ninh",
+        "name_with_type": "Xã Gia Ninh",
+        "path": "Gia Ninh, Quảng Ninh, Quảng Bình",
+        "path_with_type": "Xã Gia Ninh, Huyện Quảng Ninh, Tỉnh Quảng Bình",
+        "code": "19225",
+        "parent_code": "456"
+    },
+    "19228": {
+        "name": "Trường Xuân",
+        "type": "xa",
+        "slug": "truong-xuan",
+        "name_with_type": "Xã Trường Xuân",
+        "path": "Trường Xuân, Quảng Ninh, Quảng Bình",
+        "path_with_type": "Xã Trường Xuân, Huyện Quảng Ninh, Tỉnh Quảng Bình",
+        "code": "19228",
+        "parent_code": "456"
+    },
+    "19231": {
+        "name": "Hiền Ninh",
+        "type": "xa",
+        "slug": "hien-ninh",
+        "name_with_type": "Xã Hiền Ninh",
+        "path": "Hiền Ninh, Quảng Ninh, Quảng Bình",
+        "path_with_type": "Xã Hiền Ninh, Huyện Quảng Ninh, Tỉnh Quảng Bình",
+        "code": "19231",
+        "parent_code": "456"
+    },
+    "19234": {
+        "name": "Tân Ninh",
+        "type": "xa",
+        "slug": "tan-ninh",
+        "name_with_type": "Xã Tân Ninh",
+        "path": "Tân Ninh, Quảng Ninh, Quảng Bình",
+        "path_with_type": "Xã Tân Ninh, Huyện Quảng Ninh, Tỉnh Quảng Bình",
+        "code": "19234",
+        "parent_code": "456"
+    },
+    "19237": {
+        "name": "Xuân Ninh",
+        "type": "xa",
+        "slug": "xuan-ninh",
+        "name_with_type": "Xã Xuân Ninh",
+        "path": "Xuân Ninh, Quảng Ninh, Quảng Bình",
+        "path_with_type": "Xã Xuân Ninh, Huyện Quảng Ninh, Tỉnh Quảng Bình",
+        "code": "19237",
+        "parent_code": "456"
+    },
+    "19240": {
+        "name": "An Ninh",
+        "type": "xa",
+        "slug": "an-ninh",
+        "name_with_type": "Xã An Ninh",
+        "path": "An Ninh, Quảng Ninh, Quảng Bình",
+        "path_with_type": "Xã An Ninh, Huyện Quảng Ninh, Tỉnh Quảng Bình",
+        "code": "19240",
+        "parent_code": "456"
+    },
+    "19243": {
+        "name": "Vạn Ninh",
+        "type": "xa",
+        "slug": "van-ninh",
+        "name_with_type": "Xã Vạn Ninh",
+        "path": "Vạn Ninh, Quảng Ninh, Quảng Bình",
+        "path_with_type": "Xã Vạn Ninh, Huyện Quảng Ninh, Tỉnh Quảng Bình",
+        "code": "19243",
+        "parent_code": "456"
+    }
+}

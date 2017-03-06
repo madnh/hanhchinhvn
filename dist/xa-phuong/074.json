@@ -1,0 +1,182 @@
+{
+    "02374": {
+        "name": "Tân Yên",
+        "type": "thi-tran",
+        "slug": "tan-yen",
+        "name_with_type": "Thị trấn Tân Yên",
+        "path": "Tân Yên, Hàm Yên, Tuyên Quang",
+        "path_with_type": "Thị trấn Tân Yên, Huyện Hàm Yên, Tỉnh Tuyên Quang",
+        "code": "02374",
+        "parent_code": "074"
+    },
+    "02377": {
+        "name": "Yên Thuận",
+        "type": "xa",
+        "slug": "yen-thuan",
+        "name_with_type": "Xã Yên Thuận",
+        "path": "Yên Thuận, Hàm Yên, Tuyên Quang",
+        "path_with_type": "Xã Yên Thuận, Huyện Hàm Yên, Tỉnh Tuyên Quang",
+        "code": "02377",
+        "parent_code": "074"
+    },
+    "02380": {
+        "name": "Bạch Xa",
+        "type": "xa",
+        "slug": "bach-xa",
+        "name_with_type": "Xã Bạch Xa",
+        "path": "Bạch Xa, Hàm Yên, Tuyên Quang",
+        "path_with_type": "Xã Bạch Xa, Huyện Hàm Yên, Tỉnh Tuyên Quang",
+        "code": "02380",
+        "parent_code": "074"
+    },
+    "02383": {
+        "name": "Minh Khương",
+        "type": "xa",
+        "slug": "minh-khuong",
+        "name_with_type": "Xã Minh Khương",
+        "path": "Minh Khương, Hàm Yên, Tuyên Quang",
+        "path_with_type": "Xã Minh Khương, Huyện Hàm Yên, Tỉnh Tuyên Quang",
+        "code": "02383",
+        "parent_code": "074"
+    },
+    "02386": {
+        "name": "Yên Lâm",
+        "type": "xa",
+        "slug": "yen-lam",
+        "name_with_type": "Xã Yên Lâm",
+        "path": "Yên Lâm, Hàm Yên, Tuyên Quang",
+        "path_with_type": "Xã Yên Lâm, Huyện Hàm Yên, Tỉnh Tuyên Quang",
+        "code": "02386",
+        "parent_code": "074"
+    },
+    "02389": {
+        "name": "Minh Dân",
+        "type": "xa",
+        "slug": "minh-dan",
+        "name_with_type": "Xã Minh Dân",
+        "path": "Minh Dân, Hàm Yên, Tuyên Quang",
+        "path_with_type": "Xã Minh Dân, Huyện Hàm Yên, Tỉnh Tuyên Quang",
+        "code": "02389",
+        "parent_code": "074"
+    },
+    "02392": {
+        "name": "Phù Lưu",
+        "type": "xa",
+        "slug": "phu-luu",
+        "name_with_type": "Xã Phù Lưu",
+        "path": "Phù Lưu, Hàm Yên, Tuyên Quang",
+        "path_with_type": "Xã Phù Lưu, Huyện Hàm Yên, Tỉnh Tuyên Quang",
+        "code": "02392",
+        "parent_code": "074"
+    },
+    "02395": {
+        "name": "Minh Hương",
+        "type": "xa",
+        "slug": "minh-huong",
+        "name_with_type": "Xã Minh Hương",
+        "path": "Minh Hương, Hàm Yên, Tuyên Quang",
+        "path_with_type": "Xã Minh Hương, Huyện Hàm Yên, Tỉnh Tuyên Quang",
+        "code": "02395",
+        "parent_code": "074"
+    },
+    "02398": {
+        "name": "Yên Phú",
+        "type": "xa",
+        "slug": "yen-phu",
+        "name_with_type": "Xã Yên Phú",
+        "path": "Yên Phú, Hàm Yên, Tuyên Quang",
+        "path_with_type": "Xã Yên Phú, Huyện Hàm Yên, Tỉnh Tuyên Quang",
+        "code": "02398",
+        "parent_code": "074"
+    },
+    "02401": {
+        "name": "Tân Thành",
+        "type": "xa",
+        "slug": "tan-thanh",
+        "name_with_type": "Xã Tân Thành",
+        "path": "Tân Thành, Hàm Yên, Tuyên Quang",
+        "path_with_type": "Xã Tân Thành, Huyện Hàm Yên, Tỉnh Tuyên Quang",
+        "code": "02401",
+        "parent_code": "074"
+    },
+    "02404": {
+        "name": "Bình Xa",
+        "type": "xa",
+        "slug": "binh-xa",
+        "name_with_type": "Xã Bình Xa",
+        "path": "Bình Xa, Hàm Yên, Tuyên Quang",
+        "path_with_type": "Xã Bình Xa, Huyện Hàm Yên, Tỉnh Tuyên Quang",
+        "code": "02404",
+        "parent_code": "074"
+    },
+    "02407": {
+        "name": "Thái Sơn",
+        "type": "xa",
+        "slug": "thai-son",
+        "name_with_type": "Xã Thái Sơn",
+        "path": "Thái Sơn, Hàm Yên, Tuyên Quang",
+        "path_with_type": "Xã Thái Sơn, Huyện Hàm Yên, Tỉnh Tuyên Quang",
+        "code": "02407",
+        "parent_code": "074"
+    },
+    "02410": {
+        "name": "Nhân Mục",
+        "type": "xa",
+        "slug": "nhan-muc",
+        "name_with_type": "Xã Nhân Mục",
+        "path": "Nhân Mục, Hàm Yên, Tuyên Quang",
+        "path_with_type": "Xã Nhân Mục, Huyện Hàm Yên, Tỉnh Tuyên Quang",
+        "code": "02410",
+        "parent_code": "074"
+    },
+    "02413": {
+        "name": "Thành Long",
+        "type": "xa",
+        "slug": "thanh-long",
+        "name_with_type": "Xã Thành Long",
+        "path": "Thành Long, Hàm Yên, Tuyên Quang",
+        "path_with_type": "Xã Thành Long, Huyện Hàm Yên, Tỉnh Tuyên Quang",
+        "code": "02413",
+        "parent_code": "074"
+    },
+    "02416": {
+        "name": "Bằng Cốc",
+        "type": "xa",
+        "slug": "bang-coc",
+        "name_with_type": "Xã Bằng Cốc",
+        "path": "Bằng Cốc, Hàm Yên, Tuyên Quang",
+        "path_with_type": "Xã Bằng Cốc, Huyện Hàm Yên, Tỉnh Tuyên Quang",
+        "code": "02416",
+        "parent_code": "074"
+    },
+    "02419": {
+        "name": "Thái Hòa",
+        "type": "xa",
+        "slug": "thai-hoa",
+        "name_with_type": "Xã Thái Hòa",
+        "path": "Thái Hòa, Hàm Yên, Tuyên Quang",
+        "path_with_type": "Xã Thái Hòa, Huyện Hàm Yên, Tỉnh Tuyên Quang",
+        "code": "02419",
+        "parent_code": "074"
+    },
+    "02422": {
+        "name": "Đức Ninh",
+        "type": "xa",
+        "slug": "duc-ninh",
+        "name_with_type": "Xã Đức Ninh",
+        "path": "Đức Ninh, Hàm Yên, Tuyên Quang",
+        "path_with_type": "Xã Đức Ninh, Huyện Hàm Yên, Tỉnh Tuyên Quang",
+        "code": "02422",
+        "parent_code": "074"
+    },
+    "02425": {
+        "name": "Hùng Đức",
+        "type": "xa",
+        "slug": "hung-duc",
+        "name_with_type": "Xã Hùng Đức",
+        "path": "Hùng Đức, Hàm Yên, Tuyên Quang",
+        "path_with_type": "Xã Hùng Đức, Huyện Hàm Yên, Tỉnh Tuyên Quang",
+        "code": "02425",
+        "parent_code": "074"
+    }
+}

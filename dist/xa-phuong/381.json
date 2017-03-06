@@ -1,0 +1,82 @@
+{
+    "14809": {
+        "name": "Bắc Sơn",
+        "type": "phuong",
+        "slug": "bac-son",
+        "name_with_type": "Phường Bắc Sơn",
+        "path": "Bắc Sơn, Bỉm Sơn, Thanh Hóa",
+        "path_with_type": "Phường Bắc Sơn, Thị xã Bỉm Sơn, Tỉnh Thanh Hóa",
+        "code": "14809",
+        "parent_code": "381"
+    },
+    "14812": {
+        "name": "Ba Đình",
+        "type": "phuong",
+        "slug": "ba-dinh",
+        "name_with_type": "Phường Ba Đình",
+        "path": "Ba Đình, Bỉm Sơn, Thanh Hóa",
+        "path_with_type": "Phường Ba Đình, Thị xã Bỉm Sơn, Tỉnh Thanh Hóa",
+        "code": "14812",
+        "parent_code": "381"
+    },
+    "14815": {
+        "name": "Lam Sơn",
+        "type": "phuong",
+        "slug": "lam-son",
+        "name_with_type": "Phường Lam Sơn",
+        "path": "Lam Sơn, Bỉm Sơn, Thanh Hóa",
+        "path_with_type": "Phường Lam Sơn, Thị xã Bỉm Sơn, Tỉnh Thanh Hóa",
+        "code": "14815",
+        "parent_code": "381"
+    },
+    "14818": {
+        "name": "Ngọc Trạo",
+        "type": "phuong",
+        "slug": "ngoc-trao",
+        "name_with_type": "Phường Ngọc Trạo",
+        "path": "Ngọc Trạo, Bỉm Sơn, Thanh Hóa",
+        "path_with_type": "Phường Ngọc Trạo, Thị xã Bỉm Sơn, Tỉnh Thanh Hóa",
+        "code": "14818",
+        "parent_code": "381"
+    },
+    "14821": {
+        "name": "Đông Sơn",
+        "type": "phuong",
+        "slug": "dong-son",
+        "name_with_type": "Phường Đông Sơn",
+        "path": "Đông Sơn, Bỉm Sơn, Thanh Hóa",
+        "path_with_type": "Phường Đông Sơn, Thị xã Bỉm Sơn, Tỉnh Thanh Hóa",
+        "code": "14821",
+        "parent_code": "381"
+    },
+    "14823": {
+        "name": "Phú Sơn",
+        "type": "phuong",
+        "slug": "phu-son",
+        "name_with_type": "Phường Phú Sơn",
+        "path": "Phú Sơn, Bỉm Sơn, Thanh Hóa",
+        "path_with_type": "Phường Phú Sơn, Thị xã Bỉm Sơn, Tỉnh Thanh Hóa",
+        "code": "14823",
+        "parent_code": "381"
+    },
+    "14824": {
+        "name": "Quang Trung",
+        "type": "xa",
+        "slug": "quang-trung",
+        "name_with_type": "Xã Quang Trung",
+        "path": "Quang Trung, Bỉm Sơn, Thanh Hóa",
+        "path_with_type": "Xã Quang Trung, Thị xã Bỉm Sơn, Tỉnh Thanh Hóa",
+        "code": "14824",
+        "parent_code": "381"
+    },
+    "14827": {
+        "name": "Hà Lan",
+        "type": "xa",
+        "slug": "ha-lan",
+        "name_with_type": "Xã Hà Lan",
+        "path": "Hà Lan, Bỉm Sơn, Thanh Hóa",
+        "path_with_type": "Xã Hà Lan, Thị xã Bỉm Sơn, Tỉnh Thanh Hóa",
+        "code": "14827",
+        "parent_code": "381"
+    }
+}

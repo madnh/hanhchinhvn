@@ -1,0 +1,92 @@
+{
+    "08908": {
+        "name": "Tam Đảo",
+        "type": "thi-tran",
+        "slug": "tam-dao",
+        "name_with_type": "Thị trấn Tam Đảo",
+        "path": "Tam Đảo, Tam Đảo, Vĩnh Phúc",
+        "path_with_type": "Thị trấn Tam Đảo, Huyện Tam Đảo, Tỉnh Vĩnh Phúc",
+        "code": "08908",
+        "parent_code": "248"
+    },
+    "08911": {
+        "name": "Hợp Châu",
+        "type": "xa",
+        "slug": "hop-chau",
+        "name_with_type": "Xã Hợp Châu",
+        "path": "Hợp Châu, Tam Đảo, Vĩnh Phúc",
+        "path_with_type": "Xã Hợp Châu, Huyện Tam Đảo, Tỉnh Vĩnh Phúc",
+        "code": "08911",
+        "parent_code": "248"
+    },
+    "08914": {
+        "name": "Đạo Trù",
+        "type": "xa",
+        "slug": "dao-tru",
+        "name_with_type": "Xã Đạo Trù",
+        "path": "Đạo Trù, Tam Đảo, Vĩnh Phúc",
+        "path_with_type": "Xã Đạo Trù, Huyện Tam Đảo, Tỉnh Vĩnh Phúc",
+        "code": "08914",
+        "parent_code": "248"
+    },
+    "08917": {
+        "name": "Yên Dương",
+        "type": "xa",
+        "slug": "yen-duong",
+        "name_with_type": "Xã Yên Dương",
+        "path": "Yên Dương, Tam Đảo, Vĩnh Phúc",
+        "path_with_type": "Xã Yên Dương, Huyện Tam Đảo, Tỉnh Vĩnh Phúc",
+        "code": "08917",
+        "parent_code": "248"
+    },
+    "08920": {
+        "name": "Bồ Lý",
+        "type": "xa",
+        "slug": "bo-ly",
+        "name_with_type": "Xã Bồ Lý",
+        "path": "Bồ Lý, Tam Đảo, Vĩnh Phúc",
+        "path_with_type": "Xã Bồ Lý, Huyện Tam Đảo, Tỉnh Vĩnh Phúc",
+        "code": "08920",
+        "parent_code": "248"
+    },
+    "08923": {
+        "name": "Đại Đình",
+        "type": "xa",
+        "slug": "dai-dinh",
+        "name_with_type": "Xã Đại Đình",
+        "path": "Đại Đình, Tam Đảo, Vĩnh Phúc",
+        "path_with_type": "Xã Đại Đình, Huyện Tam Đảo, Tỉnh Vĩnh Phúc",
+        "code": "08923",
+        "parent_code": "248"
+    },
+    "08926": {
+        "name": "Tam Quan",
+        "type": "xa",
+        "slug": "tam-quan",
+        "name_with_type": "Xã Tam Quan",
+        "path": "Tam Quan, Tam Đảo, Vĩnh Phúc",
+        "path_with_type": "Xã Tam Quan, Huyện Tam Đảo, Tỉnh Vĩnh Phúc",
+        "code": "08926",
+        "parent_code": "248"
+    },
+    "08929": {
+        "name": "Hồ Sơn",
+        "type": "xa",
+        "slug": "ho-son",
+        "name_with_type": "Xã Hồ Sơn",
+        "path": "Hồ Sơn, Tam Đảo, Vĩnh Phúc",
+        "path_with_type": "Xã Hồ Sơn, Huyện Tam Đảo, Tỉnh Vĩnh Phúc",
+        "code": "08929",
+        "parent_code": "248"
+    },
+    "08932": {
+        "name": "Minh Quang",
+        "type": "xa",
+        "slug": "minh-quang",
+        "name_with_type": "Xã Minh Quang",
+        "path": "Minh Quang, Tam Đảo, Vĩnh Phúc",
+        "path_with_type": "Xã Minh Quang, Huyện Tam Đảo, Tỉnh Vĩnh Phúc",
+        "code": "08932",
+        "parent_code": "248"
+    }
+}

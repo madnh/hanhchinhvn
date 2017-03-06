@@ -1,0 +1,112 @@
+{
+    "25708": {
+        "name": "Trảng Bàng",
+        "type": "thi-tran",
+        "slug": "trang-bang",
+        "name_with_type": "Thị trấn Trảng Bàng",
+        "path": "Trảng Bàng, Trảng Bàng, Tây Ninh",
+        "path_with_type": "Thị trấn Trảng Bàng, Huyện Trảng Bàng, Tỉnh Tây Ninh",
+        "code": "25708",
+        "parent_code": "712"
+    },
+    "25711": {
+        "name": "Đôn Thuận",
+        "type": "xa",
+        "slug": "don-thuan",
+        "name_with_type": "Xã Đôn Thuận",
+        "path": "Đôn Thuận, Trảng Bàng, Tây Ninh",
+        "path_with_type": "Xã Đôn Thuận, Huyện Trảng Bàng, Tỉnh Tây Ninh",
+        "code": "25711",
+        "parent_code": "712"
+    },
+    "25714": {
+        "name": "Hưng Thuận",
+        "type": "xa",
+        "slug": "hung-thuan",
+        "name_with_type": "Xã Hưng Thuận",
+        "path": "Hưng Thuận, Trảng Bàng, Tây Ninh",
+        "path_with_type": "Xã Hưng Thuận, Huyện Trảng Bàng, Tỉnh Tây Ninh",
+        "code": "25714",
+        "parent_code": "712"
+    },
+    "25717": {
+        "name": "Lộc Hưng",
+        "type": "xa",
+        "slug": "loc-hung",
+        "name_with_type": "Xã Lộc Hưng",
+        "path": "Lộc Hưng, Trảng Bàng, Tây Ninh",
+        "path_with_type": "Xã Lộc Hưng, Huyện Trảng Bàng, Tỉnh Tây Ninh",
+        "code": "25717",
+        "parent_code": "712"
+    },
+    "25720": {
+        "name": "Gia Lộc",
+        "type": "xa",
+        "slug": "gia-loc",
+        "name_with_type": "Xã Gia Lộc",
+        "path": "Gia Lộc, Trảng Bàng, Tây Ninh",
+        "path_with_type": "Xã Gia Lộc, Huyện Trảng Bàng, Tỉnh Tây Ninh",
+        "code": "25720",
+        "parent_code": "712"
+    },
+    "25723": {
+        "name": "Gia Bình",
+        "type": "xa",
+        "slug": "gia-binh",
+        "name_with_type": "Xã Gia Bình",
+        "path": "Gia Bình, Trảng Bàng, Tây Ninh",
+        "path_with_type": "Xã Gia Bình, Huyện Trảng Bàng, Tỉnh Tây Ninh",
+        "code": "25723",
+        "parent_code": "712"
+    },
+    "25726": {
+        "name": "Phước Lưu",
+        "type": "xa",
+        "slug": "phuoc-luu",
+        "name_with_type": "Xã Phước Lưu",
+        "path": "Phước Lưu, Trảng Bàng, Tây Ninh",
+        "path_with_type": "Xã Phước Lưu, Huyện Trảng Bàng, Tỉnh Tây Ninh",
+        "code": "25726",
+        "parent_code": "712"
+    },
+    "25729": {
+        "name": "Bình Thạnh",
+        "type": "xa",
+        "slug": "binh-thanh",
+        "name_with_type": "Xã Bình Thạnh",
+        "path": "Bình Thạnh, Trảng Bàng, Tây Ninh",
+        "path_with_type": "Xã Bình Thạnh, Huyện Trảng Bàng, Tỉnh Tây Ninh",
+        "code": "25729",
+        "parent_code": "712"
+    },
+    "25732": {
+        "name": "An Tịnh",
+        "type": "xa",
+        "slug": "an-tinh",
+        "name_with_type": "Xã An Tịnh",
+        "path": "An Tịnh, Trảng Bàng, Tây Ninh",
+        "path_with_type": "Xã An Tịnh, Huyện Trảng Bàng, Tỉnh Tây Ninh",
+        "code": "25732",
+        "parent_code": "712"
+    },
+    "25735": {
+        "name": "An Hòa",
+        "type": "xa",
+        "slug": "an-hoa",
+        "name_with_type": "Xã An Hòa",
+        "path": "An Hòa, Trảng Bàng, Tây Ninh",
+        "path_with_type": "Xã An Hòa, Huyện Trảng Bàng, Tỉnh Tây Ninh",
+        "code": "25735",
+        "parent_code": "712"
+    },
+    "25738": {
+        "name": "Phước Chỉ",
+        "type": "xa",
+        "slug": "phuoc-chi",
+        "name_with_type": "Xã Phước Chỉ",
+        "path": "Phước Chỉ, Trảng Bàng, Tây Ninh",
+        "path_with_type": "Xã Phước Chỉ, Huyện Trảng Bàng, Tỉnh Tây Ninh",
+        "code": "25738",
+        "parent_code": "712"
+    }
+}

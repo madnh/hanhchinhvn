@@ -1,0 +1,262 @@
+{
+    "00376": {
+        "name": "Sóc Sơn",
+        "type": "thi-tran",
+        "slug": "soc-son",
+        "name_with_type": "Thị trấn Sóc Sơn",
+        "path": "Sóc Sơn, Sóc Sơn, Hà Nội",
+        "path_with_type": "Thị trấn Sóc Sơn, Huyện Sóc Sơn, Thành phố Hà Nội",
+        "code": "00376",
+        "parent_code": "016"
+    },
+    "00379": {
+        "name": "Bắc Sơn",
+        "type": "xa",
+        "slug": "bac-son",
+        "name_with_type": "Xã Bắc Sơn",
+        "path": "Bắc Sơn, Sóc Sơn, Hà Nội",
+        "path_with_type": "Xã Bắc Sơn, Huyện Sóc Sơn, Thành phố Hà Nội",
+        "code": "00379",
+        "parent_code": "016"
+    },
+    "00382": {
+        "name": "Minh Trí",
+        "type": "xa",
+        "slug": "minh-tri",
+        "name_with_type": "Xã Minh Trí",
+        "path": "Minh Trí, Sóc Sơn, Hà Nội",
+        "path_with_type": "Xã Minh Trí, Huyện Sóc Sơn, Thành phố Hà Nội",
+        "code": "00382",
+        "parent_code": "016"
+    },
+    "00385": {
+        "name": "Hồng Kỳ",
+        "type": "xa",
+        "slug": "hong-ky",
+        "name_with_type": "Xã Hồng Kỳ",
+        "path": "Hồng Kỳ, Sóc Sơn, Hà Nội",
+        "path_with_type": "Xã Hồng Kỳ, Huyện Sóc Sơn, Thành phố Hà Nội",
+        "code": "00385",
+        "parent_code": "016"
+    },
+    "00388": {
+        "name": "Nam Sơn",
+        "type": "xa",
+        "slug": "nam-son",
+        "name_with_type": "Xã Nam Sơn",
+        "path": "Nam Sơn, Sóc Sơn, Hà Nội",
+        "path_with_type": "Xã Nam Sơn, Huyện Sóc Sơn, Thành phố Hà Nội",
+        "code": "00388",
+        "parent_code": "016"
+    },
+    "00391": {
+        "name": "Trung Giã",
+        "type": "xa",
+        "slug": "trung-gia",
+        "name_with_type": "Xã Trung Giã",
+        "path": "Trung Giã, Sóc Sơn, Hà Nội",
+        "path_with_type": "Xã Trung Giã, Huyện Sóc Sơn, Thành phố Hà Nội",
+        "code": "00391",
+        "parent_code": "016"
+    },
+    "00394": {
+        "name": "Tân Hưng",
+        "type": "xa",
+        "slug": "tan-hung",
+        "name_with_type": "Xã Tân Hưng",
+        "path": "Tân Hưng, Sóc Sơn, Hà Nội",
+        "path_with_type": "Xã Tân Hưng, Huyện Sóc Sơn, Thành phố Hà Nội",
+        "code": "00394",
+        "parent_code": "016"
+    },
+    "00397": {
+        "name": "Minh Phú",
+        "type": "xa",
+        "slug": "minh-phu",
+        "name_with_type": "Xã Minh Phú",
+        "path": "Minh Phú, Sóc Sơn, Hà Nội",
+        "path_with_type": "Xã Minh Phú, Huyện Sóc Sơn, Thành phố Hà Nội",
+        "code": "00397",
+        "parent_code": "016"
+    },
+    "00400": {
+        "name": "Phù Linh",
+        "type": "xa",
+        "slug": "phu-linh",
+        "name_with_type": "Xã Phù Linh",
+        "path": "Phù Linh, Sóc Sơn, Hà Nội",
+        "path_with_type": "Xã Phù Linh, Huyện Sóc Sơn, Thành phố Hà Nội",
+        "code": "00400",
+        "parent_code": "016"
+    },
+    "00403": {
+        "name": "Bắc Phú",
+        "type": "xa",
+        "slug": "bac-phu",
+        "name_with_type": "Xã Bắc Phú",
+        "path": "Bắc Phú, Sóc Sơn, Hà Nội",
+        "path_with_type": "Xã Bắc Phú, Huyện Sóc Sơn, Thành phố Hà Nội",
+        "code": "00403",
+        "parent_code": "016"
+    },
+    "00406": {
+        "name": "Tân Minh",
+        "type": "xa",
+        "slug": "tan-minh",
+        "name_with_type": "Xã Tân Minh",
+        "path": "Tân Minh, Sóc Sơn, Hà Nội",
+        "path_with_type": "Xã Tân Minh, Huyện Sóc Sơn, Thành phố Hà Nội",
+        "code": "00406",
+        "parent_code": "016"
+    },
+    "00409": {
+        "name": "Quang Tiến",
+        "type": "xa",
+        "slug": "quang-tien",
+        "name_with_type": "Xã Quang Tiến",
+        "path": "Quang Tiến, Sóc Sơn, Hà Nội",
+        "path_with_type": "Xã Quang Tiến, Huyện Sóc Sơn, Thành phố Hà Nội",
+        "code": "00409",
+        "parent_code": "016"
+    },
+    "00412": {
+        "name": "Hiền Ninh",
+        "type": "xa",
+        "slug": "hien-ninh",
+        "name_with_type": "Xã Hiền Ninh",
+        "path": "Hiền Ninh, Sóc Sơn, Hà Nội",
+        "path_with_type": "Xã Hiền Ninh, Huyện Sóc Sơn, Thành phố Hà Nội",
+        "code": "00412",
+        "parent_code": "016"
+    },
+    "00415": {
+        "name": "Tân Dân",
+        "type": "xa",
+        "slug": "tan-dan",
+        "name_with_type": "Xã Tân Dân",
+        "path": "Tân Dân, Sóc Sơn, Hà Nội",
+        "path_with_type": "Xã Tân Dân, Huyện Sóc Sơn, Thành phố Hà Nội",
+        "code": "00415",
+        "parent_code": "016"
+    },
+    "00418": {
+        "name": "Tiên Dược",
+        "type": "xa",
+        "slug": "tien-duoc",
+        "name_with_type": "Xã Tiên Dược",
+        "path": "Tiên Dược, Sóc Sơn, Hà Nội",
+        "path_with_type": "Xã Tiên Dược, Huyện Sóc Sơn, Thành phố Hà Nội",
+        "code": "00418",
+        "parent_code": "016"
+    },
+    "00421": {
+        "name": "Việt Long",
+        "type": "xa",
+        "slug": "viet-long",
+        "name_with_type": "Xã Việt Long",
+        "path": "Việt Long, Sóc Sơn, Hà Nội",
+        "path_with_type": "Xã Việt Long, Huyện Sóc Sơn, Thành phố Hà Nội",
+        "code": "00421",
+        "parent_code": "016"
+    },
+    "00424": {
+        "name": "Xuân Giang",
+        "type": "xa",
+        "slug": "xuan-giang",
+        "name_with_type": "Xã Xuân Giang",
+        "path": "Xuân Giang, Sóc Sơn, Hà Nội",
+        "path_with_type": "Xã Xuân Giang, Huyện Sóc Sơn, Thành phố Hà Nội",
+        "code": "00424",
+        "parent_code": "016"
+    },
+    "00427": {
+        "name": "Mai Đình",
+        "type": "xa",
+        "slug": "mai-dinh",
+        "name_with_type": "Xã Mai Đình",
+        "path": "Mai Đình, Sóc Sơn, Hà Nội",
+        "path_with_type": "Xã Mai Đình, Huyện Sóc Sơn, Thành phố Hà Nội",
+        "code": "00427",
+        "parent_code": "016"
+    },
+    "00430": {
+        "name": "Đức Hoà",
+        "type": "xa",
+        "slug": "duc-hoa",
+        "name_with_type": "Xã Đức Hoà",
+        "path": "Đức Hoà, Sóc Sơn, Hà Nội",
+        "path_with_type": "Xã Đức Hoà, Huyện Sóc Sơn, Thành phố Hà Nội",
+        "code": "00430",
+        "parent_code": "016"
+    },
+    "00433": {
+        "name": "Thanh Xuân",
+        "type": "xa",
+        "slug": "thanh-xuan",
+        "name_with_type": "Xã Thanh Xuân",
+        "path": "Thanh Xuân, Sóc Sơn, Hà Nội",
+        "path_with_type": "Xã Thanh Xuân, Huyện Sóc Sơn, Thành phố Hà Nội",
+        "code": "00433",
+        "parent_code": "016"
+    },
+    "00436": {
+        "name": "Đông Xuân",
+        "type": "xa",
+        "slug": "dong-xuan",
+        "name_with_type": "Xã Đông Xuân",
+        "path": "Đông Xuân, Sóc Sơn, Hà Nội",
+        "path_with_type": "Xã Đông Xuân, Huyện Sóc Sơn, Thành phố Hà Nội",
+        "code": "00436",
+        "parent_code": "016"
+    },
+    "00439": {
+        "name": "Kim Lũ",
+        "type": "xa",
+        "slug": "kim-lu",
+        "name_with_type": "Xã Kim Lũ",
+        "path": "Kim Lũ, Sóc Sơn, Hà Nội",
+        "path_with_type": "Xã Kim Lũ, Huyện Sóc Sơn, Thành phố Hà Nội",
+        "code": "00439",
+        "parent_code": "016"
+    },
+    "00442": {
+        "name": "Phú Cường",
+        "type": "xa",
+        "slug": "phu-cuong",
+        "name_with_type": "Xã Phú Cường",
+        "path": "Phú Cường, Sóc Sơn, Hà Nội",
+        "path_with_type": "Xã Phú Cường, Huyện Sóc Sơn, Thành phố Hà Nội",
+        "code": "00442",
+        "parent_code": "016"
+    },
+    "00445": {
+        "name": "Phú Minh",
+        "type": "xa",
+        "slug": "phu-minh",
+        "name_with_type": "Xã Phú Minh",
+        "path": "Phú Minh, Sóc Sơn, Hà Nội",
+        "path_with_type": "Xã Phú Minh, Huyện Sóc Sơn, Thành phố Hà Nội",
+        "code": "00445",
+        "parent_code": "016"
+    },
+    "00448": {
+        "name": "Phù Lỗ",
+        "type": "xa",
+        "slug": "phu-lo",
+        "name_with_type": "Xã Phù Lỗ",
+        "path": "Phù Lỗ, Sóc Sơn, Hà Nội",
+        "path_with_type": "Xã Phù Lỗ, Huyện Sóc Sơn, Thành phố Hà Nội",
+        "code": "00448",
+        "parent_code": "016"
+    },
+    "00451": {
+        "name": "Xuân Thu",
+        "type": "xa",
+        "slug": "xuan-thu",
+        "name_with_type": "Xã Xuân Thu",
+        "path": "Xuân Thu, Sóc Sơn, Hà Nội",
+        "path_with_type": "Xã Xuân Thu, Huyện Sóc Sơn, Thành phố Hà Nội",
+        "code": "00451",
+        "parent_code": "016"
+    }
+}

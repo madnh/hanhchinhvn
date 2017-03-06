@@ -1,0 +1,72 @@
+{
+    "070": {
+        "name": "Tuyên Quang",
+        "type": "thanh-pho",
+        "slug": "tuyen-quang",
+        "name_with_type": "Thành phố Tuyên Quang",
+        "path": "Tuyên Quang, Tuyên Quang",
+        "path_with_type": "Thành phố Tuyên Quang, Tỉnh Tuyên Quang",
+        "code": "070",
+        "parent_code": "08"
+    },
+    "071": {
+        "name": "Lâm Bình",
+        "type": "huyen",
+        "slug": "lam-binh",
+        "name_with_type": "Huyện Lâm Bình",
+        "path": "Lâm Bình, Tuyên Quang",
+        "path_with_type": "Huyện Lâm Bình, Tỉnh Tuyên Quang",
+        "code": "071",
+        "parent_code": "08"
+    },
+    "072": {
+        "name": "Nà Hang",
+        "type": "huyen",
+        "slug": "na-hang",
+        "name_with_type": "Huyện Nà Hang",
+        "path": "Nà Hang, Tuyên Quang",
+        "path_with_type": "Huyện Nà Hang, Tỉnh Tuyên Quang",
+        "code": "072",
+        "parent_code": "08"
+    },
+    "073": {
+        "name": "Chiêm Hóa",
+        "type": "huyen",
+        "slug": "chiem-hoa",
+        "name_with_type": "Huyện Chiêm Hóa",
+        "path": "Chiêm Hóa, Tuyên Quang",
+        "path_with_type": "Huyện Chiêm Hóa, Tỉnh Tuyên Quang",
+        "code": "073",
+        "parent_code": "08"
+    },
+    "074": {
+        "name": "Hàm Yên",
+        "type": "huyen",
+        "slug": "ham-yen",
+        "name_with_type": "Huyện Hàm Yên",
+        "path": "Hàm Yên, Tuyên Quang",
+        "path_with_type": "Huyện Hàm Yên, Tỉnh Tuyên Quang",
+        "code": "074",
+        "parent_code": "08"
+    },
+    "075": {
+        "name": "Yên Sơn",
+        "type": "huyen",
+        "slug": "yen-son",
+        "name_with_type": "Huyện Yên Sơn",
+        "path": "Yên Sơn, Tuyên Quang",
+        "path_with_type": "Huyện Yên Sơn, Tỉnh Tuyên Quang",
+        "code": "075",
+        "parent_code": "08"
+    },
+    "076": {
+        "name": "Sơn Dương",
+        "type": "huyen",
+        "slug": "son-duong",
+        "name_with_type": "Huyện Sơn Dương",
+        "path": "Sơn Dương, Tuyên Quang",
+        "path_with_type": "Huyện Sơn Dương, Tỉnh Tuyên Quang",
+        "code": "076",
+        "parent_code": "08"
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "25240": {
+        "name": "Long Bình",
+        "type": "xa",
+        "slug": "long-binh",
+        "name_with_type": "Xã Long Bình",
+        "path": "Long Bình, Phú Riềng, Bình Phước",
+        "path_with_type": "Xã Long Bình, Huyện Phú Riềng, Tỉnh Bình Phước",
+        "code": "25240",
+        "parent_code": "698"
+    },
+    "25243": {
+        "name": "Bình Tân",
+        "type": "xa",
+        "slug": "binh-tan",
+        "name_with_type": "Xã Bình Tân",
+        "path": "Bình Tân, Phú Riềng, Bình Phước",
+        "path_with_type": "Xã Bình Tân, Huyện Phú Riềng, Tỉnh Bình Phước",
+        "code": "25243",
+        "parent_code": "698"
+    },
+    "25244": {
+        "name": "Bình Sơn",
+        "type": "xa",
+        "slug": "binh-son",
+        "name_with_type": "Xã Bình Sơn",
+        "path": "Bình Sơn, Phú Riềng, Bình Phước",
+        "path_with_type": "Xã Bình Sơn, Huyện Phú Riềng, Tỉnh Bình Phước",
+        "code": "25244",
+        "parent_code": "698"
+    },
+    "25246": {
+        "name": "Long Hưng",
+        "type": "xa",
+        "slug": "long-hung",
+        "name_with_type": "Xã Long Hưng",
+        "path": "Long Hưng, Phú Riềng, Bình Phước",
+        "path_with_type": "Xã Long Hưng, Huyện Phú Riềng, Tỉnh Bình Phước",
+        "code": "25246",
+        "parent_code": "698"
+    },
+    "25250": {
+        "name": "Phước Tân",
+        "type": "xa",
+        "slug": "phuoc-tan",
+        "name_with_type": "Xã Phước Tân",
+        "path": "Phước Tân, Phú Riềng, Bình Phước",
+        "path_with_type": "Xã Phước Tân, Huyện Phú Riềng, Tỉnh Bình Phước",
+        "code": "25250",
+        "parent_code": "698"
+    },
+    "25252": {
+        "name": "Bù Nho",
+        "type": "xa",
+        "slug": "bu-nho",
+        "name_with_type": "Xã Bù Nho",
+        "path": "Bù Nho, Phú Riềng, Bình Phước",
+        "path_with_type": "Xã Bù Nho, Huyện Phú Riềng, Tỉnh Bình Phước",
+        "code": "25252",
+        "parent_code": "698"
+    },
+    "25255": {
+        "name": "Long Hà",
+        "type": "xa",
+        "slug": "long-ha",
+        "name_with_type": "Xã Long Hà",
+        "path": "Long Hà, Phú Riềng, Bình Phước",
+        "path_with_type": "Xã Long Hà, Huyện Phú Riềng, Tỉnh Bình Phước",
+        "code": "25255",
+        "parent_code": "698"
+    },
+    "25258": {
+        "name": "Long Tân",
+        "type": "xa",
+        "slug": "long-tan",
+        "name_with_type": "Xã Long Tân",
+        "path": "Long Tân, Phú Riềng, Bình Phước",
+        "path_with_type": "Xã Long Tân, Huyện Phú Riềng, Tỉnh Bình Phước",
+        "code": "25258",
+        "parent_code": "698"
+    },
+    "25261": {
+        "name": "Phú Trung",
+        "type": "xa",
+        "slug": "phu-trung",
+        "name_with_type": "Xã Phú Trung",
+        "path": "Phú Trung, Phú Riềng, Bình Phước",
+        "path_with_type": "Xã Phú Trung, Huyện Phú Riềng, Tỉnh Bình Phước",
+        "code": "25261",
+        "parent_code": "698"
+    },
+    "25264": {
+        "name": "Phú Riềng",
+        "type": "xa",
+        "slug": "phu-rieng",
+        "name_with_type": "Xã Phú Riềng",
+        "path": "Phú Riềng, Phú Riềng, Bình Phước",
+        "path_with_type": "Xã Phú Riềng, Huyện Phú Riềng, Tỉnh Bình Phước",
+        "code": "25264",
+        "parent_code": "698"
+    }
+}

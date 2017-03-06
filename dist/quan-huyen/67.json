@@ -1,0 +1,82 @@
+{
+    "660": {
+        "name": "Gia Nghĩa",
+        "type": "thi-xa",
+        "slug": "gia-nghia",
+        "name_with_type": "Thị xã Gia Nghĩa",
+        "path": "Gia Nghĩa, Đắk Nông",
+        "path_with_type": "Thị xã Gia Nghĩa, Tỉnh Đắk Nông",
+        "code": "660",
+        "parent_code": "67"
+    },
+    "661": {
+        "name": "Đăk Glong",
+        "type": "huyen",
+        "slug": "dak-glong",
+        "name_with_type": "Huyện Đăk Glong",
+        "path": "Đăk Glong, Đắk Nông",
+        "path_with_type": "Huyện Đăk Glong, Tỉnh Đắk Nông",
+        "code": "661",
+        "parent_code": "67"
+    },
+    "662": {
+        "name": "Cư Jút",
+        "type": "huyen",
+        "slug": "cu-jut",
+        "name_with_type": "Huyện Cư Jút",
+        "path": "Cư Jút, Đắk Nông",
+        "path_with_type": "Huyện Cư Jút, Tỉnh Đắk Nông",
+        "code": "662",
+        "parent_code": "67"
+    },
+    "663": {
+        "name": "Đắk Mil",
+        "type": "huyen",
+        "slug": "dak-mil",
+        "name_with_type": "Huyện Đắk Mil",
+        "path": "Đắk Mil, Đắk Nông",
+        "path_with_type": "Huyện Đắk Mil, Tỉnh Đắk Nông",
+        "code": "663",
+        "parent_code": "67"
+    },
+    "664": {
+        "name": "Krông Nô",
+        "type": "huyen",
+        "slug": "krong-no",
+        "name_with_type": "Huyện Krông Nô",
+        "path": "Krông Nô, Đắk Nông",
+        "path_with_type": "Huyện Krông Nô, Tỉnh Đắk Nông",
+        "code": "664",
+        "parent_code": "67"
+    },
+    "665": {
+        "name": "Đắk Song",
+        "type": "huyen",
+        "slug": "dak-song",
+        "name_with_type": "Huyện Đắk Song",
+        "path": "Đắk Song, Đắk Nông",
+        "path_with_type": "Huyện Đắk Song, Tỉnh Đắk Nông",
+        "code": "665",
+        "parent_code": "67"
+    },
+    "666": {
+        "name": "Đắk R'Lấp",
+        "type": "huyen",
+        "slug": "dak-r-lap",
+        "name_with_type": "Huyện Đắk R'Lấp",
+        "path": "Đắk R'Lấp, Đắk Nông",
+        "path_with_type": "Huyện Đắk R'Lấp, Tỉnh Đắk Nông",
+        "code": "666",
+        "parent_code": "67"
+    },
+    "667": {
+        "name": "Tuy Đức",
+        "type": "huyen",
+        "slug": "tuy-duc",
+        "name_with_type": "Huyện Tuy Đức",
+        "path": "Tuy Đức, Đắk Nông",
+        "path_with_type": "Huyện Tuy Đức, Tỉnh Đắk Nông",
+        "code": "667",
+        "parent_code": "67"
+    }
+}

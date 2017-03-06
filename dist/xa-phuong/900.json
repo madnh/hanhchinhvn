@@ -1,0 +1,72 @@
+{
+    "30766": {
+        "name": "Tô Châu",
+        "type": "phuong",
+        "slug": "to-chau",
+        "name_with_type": "Phường Tô Châu",
+        "path": "Tô Châu, Hà Tiên, Kiên Giang",
+        "path_with_type": "Phường Tô Châu, Thị xã Hà Tiên, Tỉnh Kiên Giang",
+        "code": "30766",
+        "parent_code": "900"
+    },
+    "30769": {
+        "name": "Đông Hồ",
+        "type": "phuong",
+        "slug": "dong-ho",
+        "name_with_type": "Phường Đông Hồ",
+        "path": "Đông Hồ, Hà Tiên, Kiên Giang",
+        "path_with_type": "Phường Đông Hồ, Thị xã Hà Tiên, Tỉnh Kiên Giang",
+        "code": "30769",
+        "parent_code": "900"
+    },
+    "30772": {
+        "name": "Bình San",
+        "type": "phuong",
+        "slug": "binh-san",
+        "name_with_type": "Phường Bình San",
+        "path": "Bình San, Hà Tiên, Kiên Giang",
+        "path_with_type": "Phường Bình San, Thị xã Hà Tiên, Tỉnh Kiên Giang",
+        "code": "30772",
+        "parent_code": "900"
+    },
+    "30775": {
+        "name": "Pháo Đài",
+        "type": "phuong",
+        "slug": "phao-dai",
+        "name_with_type": "Phường Pháo Đài",
+        "path": "Pháo Đài, Hà Tiên, Kiên Giang",
+        "path_with_type": "Phường Pháo Đài, Thị xã Hà Tiên, Tỉnh Kiên Giang",
+        "code": "30775",
+        "parent_code": "900"
+    },
+    "30778": {
+        "name": "Mỹ Đức",
+        "type": "xa",
+        "slug": "my-duc",
+        "name_with_type": "Xã Mỹ Đức",
+        "path": "Mỹ Đức, Hà Tiên, Kiên Giang",
+        "path_with_type": "Xã Mỹ Đức, Thị xã Hà Tiên, Tỉnh Kiên Giang",
+        "code": "30778",
+        "parent_code": "900"
+    },
+    "30781": {
+        "name": "Tiên Hải",
+        "type": "xa",
+        "slug": "tien-hai",
+        "name_with_type": "Xã Tiên Hải",
+        "path": "Tiên Hải, Hà Tiên, Kiên Giang",
+        "path_with_type": "Xã Tiên Hải, Thị xã Hà Tiên, Tỉnh Kiên Giang",
+        "code": "30781",
+        "parent_code": "900"
+    },
+    "30784": {
+        "name": "Thuận Yên",
+        "type": "xa",
+        "slug": "thuan-yen",
+        "name_with_type": "Xã Thuận Yên",
+        "path": "Thuận Yên, Hà Tiên, Kiên Giang",
+        "path_with_type": "Xã Thuận Yên, Thị xã Hà Tiên, Tỉnh Kiên Giang",
+        "code": "30784",
+        "parent_code": "900"
+    }
+}

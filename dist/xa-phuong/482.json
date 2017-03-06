@@ -1,0 +1,182 @@
+{
+    "20107": {
+        "name": "Phú Lộc",
+        "type": "thi-tran",
+        "slug": "phu-loc",
+        "name_with_type": "Thị trấn Phú Lộc",
+        "path": "Phú Lộc, Phú Lộc, Thừa Thiên Huế",
+        "path_with_type": "Thị trấn Phú Lộc, Huyện Phú Lộc, Tỉnh Thừa Thiên Huế",
+        "code": "20107",
+        "parent_code": "482"
+    },
+    "20110": {
+        "name": "Lăng Cô",
+        "type": "thi-tran",
+        "slug": "lang-co",
+        "name_with_type": "Thị trấn Lăng Cô",
+        "path": "Lăng Cô, Phú Lộc, Thừa Thiên Huế",
+        "path_with_type": "Thị trấn Lăng Cô, Huyện Phú Lộc, Tỉnh Thừa Thiên Huế",
+        "code": "20110",
+        "parent_code": "482"
+    },
+    "20113": {
+        "name": "Vinh Mỹ",
+        "type": "xa",
+        "slug": "vinh-my",
+        "name_with_type": "Xã Vinh Mỹ",
+        "path": "Vinh Mỹ, Phú Lộc, Thừa Thiên Huế",
+        "path_with_type": "Xã Vinh Mỹ, Huyện Phú Lộc, Tỉnh Thừa Thiên Huế",
+        "code": "20113",
+        "parent_code": "482"
+    },
+    "20116": {
+        "name": "Vinh Hưng",
+        "type": "xa",
+        "slug": "vinh-hung",
+        "name_with_type": "Xã Vinh Hưng",
+        "path": "Vinh Hưng, Phú Lộc, Thừa Thiên Huế",
+        "path_with_type": "Xã Vinh Hưng, Huyện Phú Lộc, Tỉnh Thừa Thiên Huế",
+        "code": "20116",
+        "parent_code": "482"
+    },
+    "20119": {
+        "name": "Vinh Hải",
+        "type": "xa",
+        "slug": "vinh-hai",
+        "name_with_type": "Xã Vinh Hải",
+        "path": "Vinh Hải, Phú Lộc, Thừa Thiên Huế",
+        "path_with_type": "Xã Vinh Hải, Huyện Phú Lộc, Tỉnh Thừa Thiên Huế",
+        "code": "20119",
+        "parent_code": "482"
+    },
+    "20122": {
+        "name": "Vinh Giang",
+        "type": "xa",
+        "slug": "vinh-giang",
+        "name_with_type": "Xã Vinh Giang",
+        "path": "Vinh Giang, Phú Lộc, Thừa Thiên Huế",
+        "path_with_type": "Xã Vinh Giang, Huyện Phú Lộc, Tỉnh Thừa Thiên Huế",
+        "code": "20122",
+        "parent_code": "482"
+    },
+    "20125": {
+        "name": "Vinh Hiền",
+        "type": "xa",
+        "slug": "vinh-hien",
+        "name_with_type": "Xã Vinh Hiền",
+        "path": "Vinh Hiền, Phú Lộc, Thừa Thiên Huế",
+        "path_with_type": "Xã Vinh Hiền, Huyện Phú Lộc, Tỉnh Thừa Thiên Huế",
+        "code": "20125",
+        "parent_code": "482"
+    },
+    "20128": {
+        "name": "Lộc Bổn",
+        "type": "xa",
+        "slug": "loc-bon",
+        "name_with_type": "Xã Lộc Bổn",
+        "path": "Lộc Bổn, Phú Lộc, Thừa Thiên Huế",
+        "path_with_type": "Xã Lộc Bổn, Huyện Phú Lộc, Tỉnh Thừa Thiên Huế",
+        "code": "20128",
+        "parent_code": "482"
+    },
+    "20131": {
+        "name": "Lộc Sơn",
+        "type": "xa",
+        "slug": "loc-son",
+        "name_with_type": "Xã Lộc Sơn",
+        "path": "Lộc Sơn, Phú Lộc, Thừa Thiên Huế",
+        "path_with_type": "Xã Lộc Sơn, Huyện Phú Lộc, Tỉnh Thừa Thiên Huế",
+        "code": "20131",
+        "parent_code": "482"
+    },
+    "20134": {
+        "name": "Lộc Bình",
+        "type": "xa",
+        "slug": "loc-binh",
+        "name_with_type": "Xã Lộc Bình",
+        "path": "Lộc Bình, Phú Lộc, Thừa Thiên Huế",
+        "path_with_type": "Xã Lộc Bình, Huyện Phú Lộc, Tỉnh Thừa Thiên Huế",
+        "code": "20134",
+        "parent_code": "482"
+    },
+    "20137": {
+        "name": "Lộc Vĩnh",
+        "type": "xa",
+        "slug": "loc-vinh",
+        "name_with_type": "Xã Lộc Vĩnh",
+        "path": "Lộc Vĩnh, Phú Lộc, Thừa Thiên Huế",
+        "path_with_type": "Xã Lộc Vĩnh, Huyện Phú Lộc, Tỉnh Thừa Thiên Huế",
+        "code": "20137",
+        "parent_code": "482"
+    },
+    "20140": {
+        "name": "Lộc An",
+        "type": "xa",
+        "slug": "loc-an",
+        "name_with_type": "Xã Lộc An",
+        "path": "Lộc An, Phú Lộc, Thừa Thiên Huế",
+        "path_with_type": "Xã Lộc An, Huyện Phú Lộc, Tỉnh Thừa Thiên Huế",
+        "code": "20140",
+        "parent_code": "482"
+    },
+    "20143": {
+        "name": "Lộc Điền",
+        "type": "xa",
+        "slug": "loc-dien",
+        "name_with_type": "Xã Lộc Điền",
+        "path": "Lộc Điền, Phú Lộc, Thừa Thiên Huế",
+        "path_with_type": "Xã Lộc Điền, Huyện Phú Lộc, Tỉnh Thừa Thiên Huế",
+        "code": "20143",
+        "parent_code": "482"
+    },
+    "20146": {
+        "name": "Lộc Thủy",
+        "type": "xa",
+        "slug": "loc-thuy",
+        "name_with_type": "Xã Lộc Thủy",
+        "path": "Lộc Thủy, Phú Lộc, Thừa Thiên Huế",
+        "path_with_type": "Xã Lộc Thủy, Huyện Phú Lộc, Tỉnh Thừa Thiên Huế",
+        "code": "20146",
+        "parent_code": "482"
+    },
+    "20149": {
+        "name": "Lộc Trì",
+        "type": "xa",
+        "slug": "loc-tri",
+        "name_with_type": "Xã Lộc Trì",
+        "path": "Lộc Trì, Phú Lộc, Thừa Thiên Huế",
+        "path_with_type": "Xã Lộc Trì, Huyện Phú Lộc, Tỉnh Thừa Thiên Huế",
+        "code": "20149",
+        "parent_code": "482"
+    },
+    "20152": {
+        "name": "Lộc Tiến",
+        "type": "xa",
+        "slug": "loc-tien",
+        "name_with_type": "Xã Lộc Tiến",
+        "path": "Lộc Tiến, Phú Lộc, Thừa Thiên Huế",
+        "path_with_type": "Xã Lộc Tiến, Huyện Phú Lộc, Tỉnh Thừa Thiên Huế",
+        "code": "20152",
+        "parent_code": "482"
+    },
+    "20155": {
+        "name": "Lộc Hòa",
+        "type": "xa",
+        "slug": "loc-hoa",
+        "name_with_type": "Xã Lộc Hòa",
+        "path": "Lộc Hòa, Phú Lộc, Thừa Thiên Huế",
+        "path_with_type": "Xã Lộc Hòa, Huyện Phú Lộc, Tỉnh Thừa Thiên Huế",
+        "code": "20155",
+        "parent_code": "482"
+    },
+    "20158": {
+        "name": "Xuân Lộc",
+        "type": "xa",
+        "slug": "xuan-loc",
+        "name_with_type": "Xã Xuân Lộc",
+        "path": "Xuân Lộc, Phú Lộc, Thừa Thiên Huế",
+        "path_with_type": "Xã Xuân Lộc, Huyện Phú Lộc, Tỉnh Thừa Thiên Huế",
+        "code": "20158",
+        "parent_code": "482"
+    }
+}

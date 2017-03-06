@@ -1,0 +1,72 @@
+{
+    "29512": {
+        "name": "1",
+        "type": "phuong",
+        "slug": "1",
+        "name_with_type": "Phường 1",
+        "path": "1, Duyên Hải, Trà Vinh",
+        "path_with_type": "Phường 1, Thị xã Duyên Hải, Tỉnh Trà Vinh",
+        "code": "29512",
+        "parent_code": "851"
+    },
+    "29515": {
+        "name": "Long Toàn",
+        "type": "xa",
+        "slug": "long-toan",
+        "name_with_type": "Xã Long Toàn",
+        "path": "Long Toàn, Duyên Hải, Trà Vinh",
+        "path_with_type": "Xã Long Toàn, Thị xã Duyên Hải, Tỉnh Trà Vinh",
+        "code": "29515",
+        "parent_code": "851"
+    },
+    "29516": {
+        "name": "2",
+        "type": "phuong",
+        "slug": "2",
+        "name_with_type": "Phường 2",
+        "path": "2, Duyên Hải, Trà Vinh",
+        "path_with_type": "Phường 2, Thị xã Duyên Hải, Tỉnh Trà Vinh",
+        "code": "29516",
+        "parent_code": "851"
+    },
+    "29518": {
+        "name": "Long Hữu",
+        "type": "xa",
+        "slug": "long-huu",
+        "name_with_type": "Xã Long Hữu",
+        "path": "Long Hữu, Duyên Hải, Trà Vinh",
+        "path_with_type": "Xã Long Hữu, Thị xã Duyên Hải, Tỉnh Trà Vinh",
+        "code": "29518",
+        "parent_code": "851"
+    },
+    "29524": {
+        "name": "Dân Thành",
+        "type": "xa",
+        "slug": "dan-thanh",
+        "name_with_type": "Xã Dân Thành",
+        "path": "Dân Thành, Duyên Hải, Trà Vinh",
+        "path_with_type": "Xã Dân Thành, Thị xã Duyên Hải, Tỉnh Trà Vinh",
+        "code": "29524",
+        "parent_code": "851"
+    },
+    "29527": {
+        "name": "Trường Long Hòa",
+        "type": "xa",
+        "slug": "truong-long-hoa",
+        "name_with_type": "Xã Trường Long Hòa",
+        "path": "Trường Long Hòa, Duyên Hải, Trà Vinh",
+        "path_with_type": "Xã Trường Long Hòa, Thị xã Duyên Hải, Tỉnh Trà Vinh",
+        "code": "29527",
+        "parent_code": "851"
+    },
+    "29539": {
+        "name": "Hiệp Thạnh",
+        "type": "xa",
+        "slug": "hiep-thanh",
+        "name_with_type": "Xã Hiệp Thạnh",
+        "path": "Hiệp Thạnh, Duyên Hải, Trà Vinh",
+        "path_with_type": "Xã Hiệp Thạnh, Thị xã Duyên Hải, Tỉnh Trà Vinh",
+        "code": "29539",
+        "parent_code": "851"
+    }
+}

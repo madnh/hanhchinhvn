@@ -1,0 +1,142 @@
+{
+    "22165": {
+        "name": "Củng Sơn",
+        "type": "thi-tran",
+        "slug": "cung-son",
+        "name_with_type": "Thị trấn Củng Sơn",
+        "path": "Củng Sơn, Sơn Hòa, Phú Yên",
+        "path_with_type": "Thị trấn Củng Sơn, Huyện Sơn Hòa, Tỉnh Phú Yên",
+        "code": "22165",
+        "parent_code": "560"
+    },
+    "22168": {
+        "name": "Phước Tân",
+        "type": "xa",
+        "slug": "phuoc-tan",
+        "name_with_type": "Xã Phước Tân",
+        "path": "Phước Tân, Sơn Hòa, Phú Yên",
+        "path_with_type": "Xã Phước Tân, Huyện Sơn Hòa, Tỉnh Phú Yên",
+        "code": "22168",
+        "parent_code": "560"
+    },
+    "22171": {
+        "name": "Sơn Hội",
+        "type": "xa",
+        "slug": "son-hoi",
+        "name_with_type": "Xã Sơn Hội",
+        "path": "Sơn Hội, Sơn Hòa, Phú Yên",
+        "path_with_type": "Xã Sơn Hội, Huyện Sơn Hòa, Tỉnh Phú Yên",
+        "code": "22171",
+        "parent_code": "560"
+    },
+    "22174": {
+        "name": "Sơn Định",
+        "type": "xa",
+        "slug": "son-dinh",
+        "name_with_type": "Xã Sơn Định",
+        "path": "Sơn Định, Sơn Hòa, Phú Yên",
+        "path_with_type": "Xã Sơn Định, Huyện Sơn Hòa, Tỉnh Phú Yên",
+        "code": "22174",
+        "parent_code": "560"
+    },
+    "22177": {
+        "name": "Sơn Long",
+        "type": "xa",
+        "slug": "son-long",
+        "name_with_type": "Xã Sơn Long",
+        "path": "Sơn Long, Sơn Hòa, Phú Yên",
+        "path_with_type": "Xã Sơn Long, Huyện Sơn Hòa, Tỉnh Phú Yên",
+        "code": "22177",
+        "parent_code": "560"
+    },
+    "22180": {
+        "name": "Cà Lúi",
+        "type": "xa",
+        "slug": "ca-lui",
+        "name_with_type": "Xã Cà Lúi",
+        "path": "Cà Lúi, Sơn Hòa, Phú Yên",
+        "path_with_type": "Xã Cà Lúi, Huyện Sơn Hòa, Tỉnh Phú Yên",
+        "code": "22180",
+        "parent_code": "560"
+    },
+    "22183": {
+        "name": "Sơn Phước",
+        "type": "xa",
+        "slug": "son-phuoc",
+        "name_with_type": "Xã Sơn Phước",
+        "path": "Sơn Phước, Sơn Hòa, Phú Yên",
+        "path_with_type": "Xã Sơn Phước, Huyện Sơn Hòa, Tỉnh Phú Yên",
+        "code": "22183",
+        "parent_code": "560"
+    },
+    "22186": {
+        "name": "Sơn Xuân",
+        "type": "xa",
+        "slug": "son-xuan",
+        "name_with_type": "Xã Sơn Xuân",
+        "path": "Sơn Xuân, Sơn Hòa, Phú Yên",
+        "path_with_type": "Xã Sơn Xuân, Huyện Sơn Hòa, Tỉnh Phú Yên",
+        "code": "22186",
+        "parent_code": "560"
+    },
+    "22189": {
+        "name": "Sơn Nguyên",
+        "type": "xa",
+        "slug": "son-nguyen",
+        "name_with_type": "Xã Sơn Nguyên",
+        "path": "Sơn Nguyên, Sơn Hòa, Phú Yên",
+        "path_with_type": "Xã Sơn Nguyên, Huyện Sơn Hòa, Tỉnh Phú Yên",
+        "code": "22189",
+        "parent_code": "560"
+    },
+    "22192": {
+        "name": "Eachà Rang",
+        "type": "xa",
+        "slug": "eacha-rang",
+        "name_with_type": "Xã Eachà Rang",
+        "path": "Eachà Rang, Sơn Hòa, Phú Yên",
+        "path_with_type": "Xã Eachà Rang, Huyện Sơn Hòa, Tỉnh Phú Yên",
+        "code": "22192",
+        "parent_code": "560"
+    },
+    "22195": {
+        "name": "Krông Pa",
+        "type": "xa",
+        "slug": "krong-pa",
+        "name_with_type": "Xã Krông Pa",
+        "path": "Krông Pa, Sơn Hòa, Phú Yên",
+        "path_with_type": "Xã Krông Pa, Huyện Sơn Hòa, Tỉnh Phú Yên",
+        "code": "22195",
+        "parent_code": "560"
+    },
+    "22198": {
+        "name": "Suối Bạc",
+        "type": "xa",
+        "slug": "suoi-bac",
+        "name_with_type": "Xã Suối Bạc",
+        "path": "Suối Bạc, Sơn Hòa, Phú Yên",
+        "path_with_type": "Xã Suối Bạc, Huyện Sơn Hòa, Tỉnh Phú Yên",
+        "code": "22198",
+        "parent_code": "560"
+    },
+    "22201": {
+        "name": "Sơn Hà",
+        "type": "xa",
+        "slug": "son-ha",
+        "name_with_type": "Xã Sơn Hà",
+        "path": "Sơn Hà, Sơn Hòa, Phú Yên",
+        "path_with_type": "Xã Sơn Hà, Huyện Sơn Hòa, Tỉnh Phú Yên",
+        "code": "22201",
+        "parent_code": "560"
+    },
+    "22204": {
+        "name": "Suối Trai",
+        "type": "xa",
+        "slug": "suoi-trai",
+        "name_with_type": "Xã Suối Trai",
+        "path": "Suối Trai, Sơn Hòa, Phú Yên",
+        "path_with_type": "Xã Suối Trai, Huyện Sơn Hòa, Tỉnh Phú Yên",
+        "code": "22204",
+        "parent_code": "560"
+    }
+}

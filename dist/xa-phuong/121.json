@@ -1,0 +1,162 @@
+{
+    "03856": {
+        "name": "Bắc Yên",
+        "type": "thi-tran",
+        "slug": "bac-yen",
+        "name_with_type": "Thị trấn Bắc Yên",
+        "path": "Bắc Yên, Bắc Yên, Sơn La",
+        "path_with_type": "Thị trấn Bắc Yên, Huyện Bắc Yên, Tỉnh Sơn La",
+        "code": "03856",
+        "parent_code": "121"
+    },
+    "03859": {
+        "name": "Phiêng Ban",
+        "type": "xa",
+        "slug": "phieng-ban",
+        "name_with_type": "Xã Phiêng Ban",
+        "path": "Phiêng Ban, Bắc Yên, Sơn La",
+        "path_with_type": "Xã Phiêng Ban, Huyện Bắc Yên, Tỉnh Sơn La",
+        "code": "03859",
+        "parent_code": "121"
+    },
+    "03862": {
+        "name": "Hang Chú",
+        "type": "xa",
+        "slug": "hang-chu",
+        "name_with_type": "Xã Hang Chú",
+        "path": "Hang Chú, Bắc Yên, Sơn La",
+        "path_with_type": "Xã Hang Chú, Huyện Bắc Yên, Tỉnh Sơn La",
+        "code": "03862",
+        "parent_code": "121"
+    },
+    "03865": {
+        "name": "Xín Vàng",
+        "type": "xa",
+        "slug": "xin-vang",
+        "name_with_type": "Xã Xín Vàng",
+        "path": "Xín Vàng, Bắc Yên, Sơn La",
+        "path_with_type": "Xã Xín Vàng, Huyện Bắc Yên, Tỉnh Sơn La",
+        "code": "03865",
+        "parent_code": "121"
+    },
+    "03868": {
+        "name": "Tà Xùa",
+        "type": "xa",
+        "slug": "ta-xua",
+        "name_with_type": "Xã Tà Xùa",
+        "path": "Tà Xùa, Bắc Yên, Sơn La",
+        "path_with_type": "Xã Tà Xùa, Huyện Bắc Yên, Tỉnh Sơn La",
+        "code": "03868",
+        "parent_code": "121"
+    },
+    "03869": {
+        "name": "Háng Đồng",
+        "type": "xa",
+        "slug": "hang-dong",
+        "name_with_type": "Xã Háng Đồng",
+        "path": "Háng Đồng, Bắc Yên, Sơn La",
+        "path_with_type": "Xã Háng Đồng, Huyện Bắc Yên, Tỉnh Sơn La",
+        "code": "03869",
+        "parent_code": "121"
+    },
+    "03871": {
+        "name": "Bắc Ngà",
+        "type": "xa",
+        "slug": "bac-nga",
+        "name_with_type": "Xã Bắc Ngà",
+        "path": "Bắc Ngà, Bắc Yên, Sơn La",
+        "path_with_type": "Xã Bắc Ngà, Huyện Bắc Yên, Tỉnh Sơn La",
+        "code": "03871",
+        "parent_code": "121"
+    },
+    "03874": {
+        "name": "Làng Chếu",
+        "type": "xa",
+        "slug": "lang-cheu",
+        "name_with_type": "Xã Làng Chếu",
+        "path": "Làng Chếu, Bắc Yên, Sơn La",
+        "path_with_type": "Xã Làng Chếu, Huyện Bắc Yên, Tỉnh Sơn La",
+        "code": "03874",
+        "parent_code": "121"
+    },
+    "03877": {
+        "name": "Chim Vàn",
+        "type": "xa",
+        "slug": "chim-van",
+        "name_with_type": "Xã Chim Vàn",
+        "path": "Chim Vàn, Bắc Yên, Sơn La",
+        "path_with_type": "Xã Chim Vàn, Huyện Bắc Yên, Tỉnh Sơn La",
+        "code": "03877",
+        "parent_code": "121"
+    },
+    "03880": {
+        "name": "Mường Khoa",
+        "type": "xa",
+        "slug": "muong-khoa",
+        "name_with_type": "Xã Mường Khoa",
+        "path": "Mường Khoa, Bắc Yên, Sơn La",
+        "path_with_type": "Xã Mường Khoa, Huyện Bắc Yên, Tỉnh Sơn La",
+        "code": "03880",
+        "parent_code": "121"
+    },
+    "03883": {
+        "name": "Song Pe",
+        "type": "xa",
+        "slug": "song-pe",
+        "name_with_type": "Xã Song Pe",
+        "path": "Song Pe, Bắc Yên, Sơn La",
+        "path_with_type": "Xã Song Pe, Huyện Bắc Yên, Tỉnh Sơn La",
+        "code": "03883",
+        "parent_code": "121"
+    },
+    "03886": {
+        "name": "Hồng Ngài",
+        "type": "xa",
+        "slug": "hong-ngai",
+        "name_with_type": "Xã Hồng Ngài",
+        "path": "Hồng Ngài, Bắc Yên, Sơn La",
+        "path_with_type": "Xã Hồng Ngài, Huyện Bắc Yên, Tỉnh Sơn La",
+        "code": "03886",
+        "parent_code": "121"
+    },
+    "03889": {
+        "name": "Tạ Khoa",
+        "type": "xa",
+        "slug": "ta-khoa",
+        "name_with_type": "Xã Tạ Khoa",
+        "path": "Tạ Khoa, Bắc Yên, Sơn La",
+        "path_with_type": "Xã Tạ Khoa, Huyện Bắc Yên, Tỉnh Sơn La",
+        "code": "03889",
+        "parent_code": "121"
+    },
+    "03890": {
+        "name": "Hua Nhàn",
+        "type": "xa",
+        "slug": "hua-nhan",
+        "name_with_type": "Xã Hua Nhàn",
+        "path": "Hua Nhàn, Bắc Yên, Sơn La",
+        "path_with_type": "Xã Hua Nhàn, Huyện Bắc Yên, Tỉnh Sơn La",
+        "code": "03890",
+        "parent_code": "121"
+    },
+    "03892": {
+        "name": "Phiêng Kôn",
+        "type": "xa",
+        "slug": "phieng-kon",
+        "name_with_type": "Xã Phiêng Kôn",
+        "path": "Phiêng Kôn, Bắc Yên, Sơn La",
+        "path_with_type": "Xã Phiêng Kôn, Huyện Bắc Yên, Tỉnh Sơn La",
+        "code": "03892",
+        "parent_code": "121"
+    },
+    "03895": {
+        "name": "Chiềng Sại",
+        "type": "xa",
+        "slug": "chieng-sai",
+        "name_with_type": "Xã Chiềng Sại",
+        "path": "Chiềng Sại, Bắc Yên, Sơn La",
+        "path_with_type": "Xã Chiềng Sại, Huyện Bắc Yên, Tỉnh Sơn La",
+        "code": "03895",
+        "parent_code": "121"
+    }
+}

@@ -1,0 +1,192 @@
+{
+    "13501": {
+        "name": "Bình Mỹ",
+        "type": "thi-tran",
+        "slug": "binh-my",
+        "name_with_type": "Thị trấn Bình Mỹ",
+        "path": "Bình Mỹ, Bình Lục, Hà Nam",
+        "path_with_type": "Thị trấn Bình Mỹ, Huyện Bình Lục, Tỉnh Hà Nam",
+        "code": "13501",
+        "parent_code": "352"
+    },
+    "13504": {
+        "name": "Bình Nghĩa",
+        "type": "xa",
+        "slug": "binh-nghia",
+        "name_with_type": "Xã Bình Nghĩa",
+        "path": "Bình Nghĩa, Bình Lục, Hà Nam",
+        "path_with_type": "Xã Bình Nghĩa, Huyện Bình Lục, Tỉnh Hà Nam",
+        "code": "13504",
+        "parent_code": "352"
+    },
+    "13510": {
+        "name": "Tràng An",
+        "type": "xa",
+        "slug": "trang-an",
+        "name_with_type": "Xã Tràng An",
+        "path": "Tràng An, Bình Lục, Hà Nam",
+        "path_with_type": "Xã Tràng An, Huyện Bình Lục, Tỉnh Hà Nam",
+        "code": "13510",
+        "parent_code": "352"
+    },
+    "13516": {
+        "name": "Đồng Du",
+        "type": "xa",
+        "slug": "dong-du",
+        "name_with_type": "Xã Đồng Du",
+        "path": "Đồng Du, Bình Lục, Hà Nam",
+        "path_with_type": "Xã Đồng Du, Huyện Bình Lục, Tỉnh Hà Nam",
+        "code": "13516",
+        "parent_code": "352"
+    },
+    "13519": {
+        "name": "Ngọc Lũ",
+        "type": "xa",
+        "slug": "ngoc-lu",
+        "name_with_type": "Xã Ngọc Lũ",
+        "path": "Ngọc Lũ, Bình Lục, Hà Nam",
+        "path_with_type": "Xã Ngọc Lũ, Huyện Bình Lục, Tỉnh Hà Nam",
+        "code": "13519",
+        "parent_code": "352"
+    },
+    "13522": {
+        "name": "Hưng Công",
+        "type": "xa",
+        "slug": "hung-cong",
+        "name_with_type": "Xã Hưng Công",
+        "path": "Hưng Công, Bình Lục, Hà Nam",
+        "path_with_type": "Xã Hưng Công, Huyện Bình Lục, Tỉnh Hà Nam",
+        "code": "13522",
+        "parent_code": "352"
+    },
+    "13525": {
+        "name": "Đồn Xá",
+        "type": "xa",
+        "slug": "don-xa",
+        "name_with_type": "Xã Đồn Xá",
+        "path": "Đồn Xá, Bình Lục, Hà Nam",
+        "path_with_type": "Xã Đồn Xá, Huyện Bình Lục, Tỉnh Hà Nam",
+        "code": "13525",
+        "parent_code": "352"
+    },
+    "13528": {
+        "name": "An Ninh",
+        "type": "xa",
+        "slug": "an-ninh",
+        "name_with_type": "Xã An Ninh",
+        "path": "An Ninh, Bình Lục, Hà Nam",
+        "path_with_type": "Xã An Ninh, Huyện Bình Lục, Tỉnh Hà Nam",
+        "code": "13528",
+        "parent_code": "352"
+    },
+    "13531": {
+        "name": "Bồ Đề",
+        "type": "xa",
+        "slug": "bo-de",
+        "name_with_type": "Xã Bồ Đề",
+        "path": "Bồ Đề, Bình Lục, Hà Nam",
+        "path_with_type": "Xã Bồ Đề, Huyện Bình Lục, Tỉnh Hà Nam",
+        "code": "13531",
+        "parent_code": "352"
+    },
+    "13534": {
+        "name": "Bối Cầu",
+        "type": "xa",
+        "slug": "boi-cau",
+        "name_with_type": "Xã Bối Cầu",
+        "path": "Bối Cầu, Bình Lục, Hà Nam",
+        "path_with_type": "Xã Bối Cầu, Huyện Bình Lục, Tỉnh Hà Nam",
+        "code": "13534",
+        "parent_code": "352"
+    },
+    "13537": {
+        "name": "An Mỹ",
+        "type": "xa",
+        "slug": "an-my",
+        "name_with_type": "Xã An Mỹ",
+        "path": "An Mỹ, Bình Lục, Hà Nam",
+        "path_with_type": "Xã An Mỹ, Huyện Bình Lục, Tỉnh Hà Nam",
+        "code": "13537",
+        "parent_code": "352"
+    },
+    "13540": {
+        "name": "An Nội",
+        "type": "xa",
+        "slug": "an-noi",
+        "name_with_type": "Xã An Nội",
+        "path": "An Nội, Bình Lục, Hà Nam",
+        "path_with_type": "Xã An Nội, Huyện Bình Lục, Tỉnh Hà Nam",
+        "code": "13540",
+        "parent_code": "352"
+    },
+    "13543": {
+        "name": "Vũ Bản",
+        "type": "xa",
+        "slug": "vu-ban",
+        "name_with_type": "Xã Vũ Bản",
+        "path": "Vũ Bản, Bình Lục, Hà Nam",
+        "path_with_type": "Xã Vũ Bản, Huyện Bình Lục, Tỉnh Hà Nam",
+        "code": "13543",
+        "parent_code": "352"
+    },
+    "13546": {
+        "name": "Trung Lương",
+        "type": "xa",
+        "slug": "trung-luong",
+        "name_with_type": "Xã Trung Lương",
+        "path": "Trung Lương, Bình Lục, Hà Nam",
+        "path_with_type": "Xã Trung Lương, Huyện Bình Lục, Tỉnh Hà Nam",
+        "code": "13546",
+        "parent_code": "352"
+    },
+    "13549": {
+        "name": "Mỹ Thọ",
+        "type": "xa",
+        "slug": "my-tho",
+        "name_with_type": "Xã Mỹ Thọ",
+        "path": "Mỹ Thọ, Bình Lục, Hà Nam",
+        "path_with_type": "Xã Mỹ Thọ, Huyện Bình Lục, Tỉnh Hà Nam",
+        "code": "13549",
+        "parent_code": "352"
+    },
+    "13552": {
+        "name": "An Đổ",
+        "type": "xa",
+        "slug": "an-do",
+        "name_with_type": "Xã An Đổ",
+        "path": "An Đổ, Bình Lục, Hà Nam",
+        "path_with_type": "Xã An Đổ, Huyện Bình Lục, Tỉnh Hà Nam",
+        "code": "13552",
+        "parent_code": "352"
+    },
+    "13555": {
+        "name": "La Sơn",
+        "type": "xa",
+        "slug": "la-son",
+        "name_with_type": "Xã La Sơn",
+        "path": "La Sơn, Bình Lục, Hà Nam",
+        "path_with_type": "Xã La Sơn, Huyện Bình Lục, Tỉnh Hà Nam",
+        "code": "13555",
+        "parent_code": "352"
+    },
+    "13558": {
+        "name": "Tiêu Động",
+        "type": "xa",
+        "slug": "tieu-dong",
+        "name_with_type": "Xã Tiêu Động",
+        "path": "Tiêu Động, Bình Lục, Hà Nam",
+        "path_with_type": "Xã Tiêu Động, Huyện Bình Lục, Tỉnh Hà Nam",
+        "code": "13558",
+        "parent_code": "352"
+    },
+    "13561": {
+        "name": "An Lão",
+        "type": "xa",
+        "slug": "an-lao",
+        "name_with_type": "Xã An Lão",
+        "path": "An Lão, Bình Lục, Hà Nam",
+        "path_with_type": "Xã An Lão, Huyện Bình Lục, Tỉnh Hà Nam",
+        "code": "13561",
+        "parent_code": "352"
+    }
+}

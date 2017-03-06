@@ -1,0 +1,112 @@
+{
+    "29773": {
+        "name": "Tân Hưng",
+        "type": "xa",
+        "slug": "tan-hung",
+        "name_with_type": "Xã Tân Hưng",
+        "path": "Tân Hưng, Bình Tân, Vĩnh Long",
+        "path_with_type": "Xã Tân Hưng, Huyện Bình Tân, Tỉnh Vĩnh Long",
+        "code": "29773",
+        "parent_code": "863"
+    },
+    "29776": {
+        "name": "Tân Thành",
+        "type": "xa",
+        "slug": "tan-thanh",
+        "name_with_type": "Xã Tân Thành",
+        "path": "Tân Thành, Bình Tân, Vĩnh Long",
+        "path_with_type": "Xã Tân Thành, Huyện Bình Tân, Tỉnh Vĩnh Long",
+        "code": "29776",
+        "parent_code": "863"
+    },
+    "29779": {
+        "name": "Thành Trung",
+        "type": "xa",
+        "slug": "thanh-trung",
+        "name_with_type": "Xã Thành Trung",
+        "path": "Thành Trung, Bình Tân, Vĩnh Long",
+        "path_with_type": "Xã Thành Trung, Huyện Bình Tân, Tỉnh Vĩnh Long",
+        "code": "29779",
+        "parent_code": "863"
+    },
+    "29782": {
+        "name": "Tân An Thạnh",
+        "type": "xa",
+        "slug": "tan-an-thanh",
+        "name_with_type": "Xã Tân An Thạnh",
+        "path": "Tân An Thạnh, Bình Tân, Vĩnh Long",
+        "path_with_type": "Xã Tân An Thạnh, Huyện Bình Tân, Tỉnh Vĩnh Long",
+        "code": "29782",
+        "parent_code": "863"
+    },
+    "29785": {
+        "name": "Tân Lược",
+        "type": "xa",
+        "slug": "tan-luoc",
+        "name_with_type": "Xã Tân Lược",
+        "path": "Tân Lược, Bình Tân, Vĩnh Long",
+        "path_with_type": "Xã Tân Lược, Huyện Bình Tân, Tỉnh Vĩnh Long",
+        "code": "29785",
+        "parent_code": "863"
+    },
+    "29788": {
+        "name": "Nguyễn Văn Thảnh",
+        "type": "xa",
+        "slug": "nguyen-van-thanh",
+        "name_with_type": "Xã Nguyễn Văn Thảnh",
+        "path": "Nguyễn Văn Thảnh, Bình Tân, Vĩnh Long",
+        "path_with_type": "Xã Nguyễn Văn Thảnh, Huyện Bình Tân, Tỉnh Vĩnh Long",
+        "code": "29788",
+        "parent_code": "863"
+    },
+    "29791": {
+        "name": "Thành Đông",
+        "type": "xa",
+        "slug": "thanh-dong",
+        "name_with_type": "Xã Thành Đông",
+        "path": "Thành Đông, Bình Tân, Vĩnh Long",
+        "path_with_type": "Xã Thành Đông, Huyện Bình Tân, Tỉnh Vĩnh Long",
+        "code": "29791",
+        "parent_code": "863"
+    },
+    "29794": {
+        "name": "Mỹ Thuận",
+        "type": "xa",
+        "slug": "my-thuan",
+        "name_with_type": "Xã Mỹ Thuận",
+        "path": "Mỹ Thuận, Bình Tân, Vĩnh Long",
+        "path_with_type": "Xã Mỹ Thuận, Huyện Bình Tân, Tỉnh Vĩnh Long",
+        "code": "29794",
+        "parent_code": "863"
+    },
+    "29797": {
+        "name": "Tân Bình",
+        "type": "xa",
+        "slug": "tan-binh",
+        "name_with_type": "Xã Tân Bình",
+        "path": "Tân Bình, Bình Tân, Vĩnh Long",
+        "path_with_type": "Xã Tân Bình, Huyện Bình Tân, Tỉnh Vĩnh Long",
+        "code": "29797",
+        "parent_code": "863"
+    },
+    "29800": {
+        "name": "Thành Lợi",
+        "type": "xa",
+        "slug": "thanh-loi",
+        "name_with_type": "Xã Thành Lợi",
+        "path": "Thành Lợi, Bình Tân, Vĩnh Long",
+        "path_with_type": "Xã Thành Lợi, Huyện Bình Tân, Tỉnh Vĩnh Long",
+        "code": "29800",
+        "parent_code": "863"
+    },
+    "29803": {
+        "name": "Tân Quới",
+        "type": "xa",
+        "slug": "tan-quoi",
+        "name_with_type": "Xã Tân Quới",
+        "path": "Tân Quới, Bình Tân, Vĩnh Long",
+        "path_with_type": "Xã Tân Quới, Huyện Bình Tân, Tỉnh Vĩnh Long",
+        "code": "29803",
+        "parent_code": "863"
+    }
+}

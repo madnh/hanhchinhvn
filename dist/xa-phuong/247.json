@@ -1,0 +1,132 @@
+{
+    "08869": {
+        "name": "Hợp Hòa",
+        "type": "thi-tran",
+        "slug": "hop-hoa",
+        "name_with_type": "Thị trấn Hợp Hòa",
+        "path": "Hợp Hòa, Tam Dương, Vĩnh Phúc",
+        "path_with_type": "Thị trấn Hợp Hòa, Huyện Tam Dương, Tỉnh Vĩnh Phúc",
+        "code": "08869",
+        "parent_code": "247"
+    },
+    "08872": {
+        "name": "Hoàng Hoa",
+        "type": "xa",
+        "slug": "hoang-hoa",
+        "name_with_type": "Xã Hoàng Hoa",
+        "path": "Hoàng Hoa, Tam Dương, Vĩnh Phúc",
+        "path_with_type": "Xã Hoàng Hoa, Huyện Tam Dương, Tỉnh Vĩnh Phúc",
+        "code": "08872",
+        "parent_code": "247"
+    },
+    "08875": {
+        "name": "Đồng Tĩnh",
+        "type": "xa",
+        "slug": "dong-tinh",
+        "name_with_type": "Xã Đồng Tĩnh",
+        "path": "Đồng Tĩnh, Tam Dương, Vĩnh Phúc",
+        "path_with_type": "Xã Đồng Tĩnh, Huyện Tam Dương, Tỉnh Vĩnh Phúc",
+        "code": "08875",
+        "parent_code": "247"
+    },
+    "08878": {
+        "name": "Kim Long",
+        "type": "xa",
+        "slug": "kim-long",
+        "name_with_type": "Xã Kim Long",
+        "path": "Kim Long, Tam Dương, Vĩnh Phúc",
+        "path_with_type": "Xã Kim Long, Huyện Tam Dương, Tỉnh Vĩnh Phúc",
+        "code": "08878",
+        "parent_code": "247"
+    },
+    "08881": {
+        "name": "Hướng Đạo",
+        "type": "xa",
+        "slug": "huong-dao",
+        "name_with_type": "Xã Hướng Đạo",
+        "path": "Hướng Đạo, Tam Dương, Vĩnh Phúc",
+        "path_with_type": "Xã Hướng Đạo, Huyện Tam Dương, Tỉnh Vĩnh Phúc",
+        "code": "08881",
+        "parent_code": "247"
+    },
+    "08884": {
+        "name": "Đạo Tú",
+        "type": "xa",
+        "slug": "dao-tu",
+        "name_with_type": "Xã Đạo Tú",
+        "path": "Đạo Tú, Tam Dương, Vĩnh Phúc",
+        "path_with_type": "Xã Đạo Tú, Huyện Tam Dương, Tỉnh Vĩnh Phúc",
+        "code": "08884",
+        "parent_code": "247"
+    },
+    "08887": {
+        "name": "An Hòa",
+        "type": "xa",
+        "slug": "an-hoa",
+        "name_with_type": "Xã An Hòa",
+        "path": "An Hòa, Tam Dương, Vĩnh Phúc",
+        "path_with_type": "Xã An Hòa, Huyện Tam Dương, Tỉnh Vĩnh Phúc",
+        "code": "08887",
+        "parent_code": "247"
+    },
+    "08890": {
+        "name": "Thanh Vân",
+        "type": "xa",
+        "slug": "thanh-van",
+        "name_with_type": "Xã Thanh Vân",
+        "path": "Thanh Vân, Tam Dương, Vĩnh Phúc",
+        "path_with_type": "Xã Thanh Vân, Huyện Tam Dương, Tỉnh Vĩnh Phúc",
+        "code": "08890",
+        "parent_code": "247"
+    },
+    "08893": {
+        "name": "Duy Phiên",
+        "type": "xa",
+        "slug": "duy-phien",
+        "name_with_type": "Xã Duy Phiên",
+        "path": "Duy Phiên, Tam Dương, Vĩnh Phúc",
+        "path_with_type": "Xã Duy Phiên, Huyện Tam Dương, Tỉnh Vĩnh Phúc",
+        "code": "08893",
+        "parent_code": "247"
+    },
+    "08896": {
+        "name": "Hoàng Đan",
+        "type": "xa",
+        "slug": "hoang-dan",
+        "name_with_type": "Xã Hoàng Đan",
+        "path": "Hoàng Đan, Tam Dương, Vĩnh Phúc",
+        "path_with_type": "Xã Hoàng Đan, Huyện Tam Dương, Tỉnh Vĩnh Phúc",
+        "code": "08896",
+        "parent_code": "247"
+    },
+    "08899": {
+        "name": "Hoàng Lâu",
+        "type": "xa",
+        "slug": "hoang-lau",
+        "name_with_type": "Xã Hoàng Lâu",
+        "path": "Hoàng Lâu, Tam Dương, Vĩnh Phúc",
+        "path_with_type": "Xã Hoàng Lâu, Huyện Tam Dương, Tỉnh Vĩnh Phúc",
+        "code": "08899",
+        "parent_code": "247"
+    },
+    "08902": {
+        "name": "Vân Hội",
+        "type": "xa",
+        "slug": "van-hoi",
+        "name_with_type": "Xã Vân Hội",
+        "path": "Vân Hội, Tam Dương, Vĩnh Phúc",
+        "path_with_type": "Xã Vân Hội, Huyện Tam Dương, Tỉnh Vĩnh Phúc",
+        "code": "08902",
+        "parent_code": "247"
+    },
+    "08905": {
+        "name": "Hợp Thịnh",
+        "type": "xa",
+        "slug": "hop-thinh",
+        "name_with_type": "Xã Hợp Thịnh",
+        "path": "Hợp Thịnh, Tam Dương, Vĩnh Phúc",
+        "path_with_type": "Xã Hợp Thịnh, Huyện Tam Dương, Tỉnh Vĩnh Phúc",
+        "code": "08905",
+        "parent_code": "247"
+    }
+}

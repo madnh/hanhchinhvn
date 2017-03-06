@@ -1,0 +1,142 @@
+{
+    "04456": {
+        "name": "Mù Căng Chải",
+        "type": "thi-tran",
+        "slug": "mu-cang-chai",
+        "name_with_type": "Thị trấn Mù Căng Chải",
+        "path": "Mù Căng Chải, Mù Căng Chải, Yên Bái",
+        "path_with_type": "Thị trấn Mù Căng Chải, Huyện Mù Căng Chải, Tỉnh Yên Bái",
+        "code": "04456",
+        "parent_code": "137"
+    },
+    "04459": {
+        "name": "Hồ Bốn",
+        "type": "xa",
+        "slug": "ho-bon",
+        "name_with_type": "Xã Hồ Bốn",
+        "path": "Hồ Bốn, Mù Căng Chải, Yên Bái",
+        "path_with_type": "Xã Hồ Bốn, Huyện Mù Căng Chải, Tỉnh Yên Bái",
+        "code": "04459",
+        "parent_code": "137"
+    },
+    "04462": {
+        "name": "Nậm Có",
+        "type": "xa",
+        "slug": "nam-co",
+        "name_with_type": "Xã Nậm Có",
+        "path": "Nậm Có, Mù Căng Chải, Yên Bái",
+        "path_with_type": "Xã Nậm Có, Huyện Mù Căng Chải, Tỉnh Yên Bái",
+        "code": "04462",
+        "parent_code": "137"
+    },
+    "04465": {
+        "name": "Khao Mang",
+        "type": "xa",
+        "slug": "khao-mang",
+        "name_with_type": "Xã Khao Mang",
+        "path": "Khao Mang, Mù Căng Chải, Yên Bái",
+        "path_with_type": "Xã Khao Mang, Huyện Mù Căng Chải, Tỉnh Yên Bái",
+        "code": "04465",
+        "parent_code": "137"
+    },
+    "04468": {
+        "name": "Mồ Dề",
+        "type": "xa",
+        "slug": "mo-de",
+        "name_with_type": "Xã Mồ Dề",
+        "path": "Mồ Dề, Mù Căng Chải, Yên Bái",
+        "path_with_type": "Xã Mồ Dề, Huyện Mù Căng Chải, Tỉnh Yên Bái",
+        "code": "04468",
+        "parent_code": "137"
+    },
+    "04471": {
+        "name": "Chế Cu Nha",
+        "type": "xa",
+        "slug": "che-cu-nha",
+        "name_with_type": "Xã Chế Cu Nha",
+        "path": "Chế Cu Nha, Mù Căng Chải, Yên Bái",
+        "path_with_type": "Xã Chế Cu Nha, Huyện Mù Căng Chải, Tỉnh Yên Bái",
+        "code": "04471",
+        "parent_code": "137"
+    },
+    "04474": {
+        "name": "Lao Chải",
+        "type": "xa",
+        "slug": "lao-chai",
+        "name_with_type": "Xã Lao Chải",
+        "path": "Lao Chải, Mù Căng Chải, Yên Bái",
+        "path_with_type": "Xã Lao Chải, Huyện Mù Căng Chải, Tỉnh Yên Bái",
+        "code": "04474",
+        "parent_code": "137"
+    },
+    "04477": {
+        "name": "Kim Nọi",
+        "type": "xa",
+        "slug": "kim-noi",
+        "name_with_type": "Xã Kim Nọi",
+        "path": "Kim Nọi, Mù Căng Chải, Yên Bái",
+        "path_with_type": "Xã Kim Nọi, Huyện Mù Căng Chải, Tỉnh Yên Bái",
+        "code": "04477",
+        "parent_code": "137"
+    },
+    "04480": {
+        "name": "Cao Phạ",
+        "type": "xa",
+        "slug": "cao-pha",
+        "name_with_type": "Xã Cao Phạ",
+        "path": "Cao Phạ, Mù Căng Chải, Yên Bái",
+        "path_with_type": "Xã Cao Phạ, Huyện Mù Căng Chải, Tỉnh Yên Bái",
+        "code": "04480",
+        "parent_code": "137"
+    },
+    "04483": {
+        "name": "La Pán Tẩn",
+        "type": "xa",
+        "slug": "la-pan-tan",
+        "name_with_type": "Xã La Pán Tẩn",
+        "path": "La Pán Tẩn, Mù Căng Chải, Yên Bái",
+        "path_with_type": "Xã La Pán Tẩn, Huyện Mù Căng Chải, Tỉnh Yên Bái",
+        "code": "04483",
+        "parent_code": "137"
+    },
+    "04486": {
+        "name": "Dế Su Phình",
+        "type": "xa",
+        "slug": "de-su-phinh",
+        "name_with_type": "Xã Dế Su Phình",
+        "path": "Dế Su Phình, Mù Căng Chải, Yên Bái",
+        "path_with_type": "Xã Dế Su Phình, Huyện Mù Căng Chải, Tỉnh Yên Bái",
+        "code": "04486",
+        "parent_code": "137"
+    },
+    "04489": {
+        "name": "Chế Tạo",
+        "type": "xa",
+        "slug": "che-tao",
+        "name_with_type": "Xã Chế Tạo",
+        "path": "Chế Tạo, Mù Căng Chải, Yên Bái",
+        "path_with_type": "Xã Chế Tạo, Huyện Mù Căng Chải, Tỉnh Yên Bái",
+        "code": "04489",
+        "parent_code": "137"
+    },
+    "04492": {
+        "name": "Púng Luông",
+        "type": "xa",
+        "slug": "pung-luong",
+        "name_with_type": "Xã Púng Luông",
+        "path": "Púng Luông, Mù Căng Chải, Yên Bái",
+        "path_with_type": "Xã Púng Luông, Huyện Mù Căng Chải, Tỉnh Yên Bái",
+        "code": "04492",
+        "parent_code": "137"
+    },
+    "04495": {
+        "name": "Nậm Khắt",
+        "type": "xa",
+        "slug": "nam-khat",
+        "name_with_type": "Xã Nậm Khắt",
+        "path": "Nậm Khắt, Mù Căng Chải, Yên Bái",
+        "path_with_type": "Xã Nậm Khắt, Huyện Mù Căng Chải, Tỉnh Yên Bái",
+        "code": "04495",
+        "parent_code": "137"
+    }
+}

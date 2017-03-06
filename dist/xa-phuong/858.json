@@ -1,0 +1,132 @@
+{
+    "29620": {
+        "name": "Cái Nhum",
+        "type": "thi-tran",
+        "slug": "cai-nhum",
+        "name_with_type": "Thị trấn Cái Nhum",
+        "path": "Cái Nhum, Mang Thít, Vĩnh Long",
+        "path_with_type": "Thị trấn Cái Nhum, Huyện Mang Thít, Tỉnh Vĩnh Long",
+        "code": "29620",
+        "parent_code": "858"
+    },
+    "29623": {
+        "name": "Mỹ An",
+        "type": "xa",
+        "slug": "my-an",
+        "name_with_type": "Xã Mỹ An",
+        "path": "Mỹ An, Mang Thít, Vĩnh Long",
+        "path_with_type": "Xã Mỹ An, Huyện Mang Thít, Tỉnh Vĩnh Long",
+        "code": "29623",
+        "parent_code": "858"
+    },
+    "29626": {
+        "name": "Mỹ Phước",
+        "type": "xa",
+        "slug": "my-phuoc",
+        "name_with_type": "Xã Mỹ Phước",
+        "path": "Mỹ Phước, Mang Thít, Vĩnh Long",
+        "path_with_type": "Xã Mỹ Phước, Huyện Mang Thít, Tỉnh Vĩnh Long",
+        "code": "29626",
+        "parent_code": "858"
+    },
+    "29629": {
+        "name": "An Phước",
+        "type": "xa",
+        "slug": "an-phuoc",
+        "name_with_type": "Xã An Phước",
+        "path": "An Phước, Mang Thít, Vĩnh Long",
+        "path_with_type": "Xã An Phước, Huyện Mang Thít, Tỉnh Vĩnh Long",
+        "code": "29629",
+        "parent_code": "858"
+    },
+    "29632": {
+        "name": "Nhơn Phú",
+        "type": "xa",
+        "slug": "nhon-phu",
+        "name_with_type": "Xã Nhơn Phú",
+        "path": "Nhơn Phú, Mang Thít, Vĩnh Long",
+        "path_with_type": "Xã Nhơn Phú, Huyện Mang Thít, Tỉnh Vĩnh Long",
+        "code": "29632",
+        "parent_code": "858"
+    },
+    "29635": {
+        "name": "Long Mỹ",
+        "type": "xa",
+        "slug": "long-my",
+        "name_with_type": "Xã Long Mỹ",
+        "path": "Long Mỹ, Mang Thít, Vĩnh Long",
+        "path_with_type": "Xã Long Mỹ, Huyện Mang Thít, Tỉnh Vĩnh Long",
+        "code": "29635",
+        "parent_code": "858"
+    },
+    "29638": {
+        "name": "Hòa Tịnh",
+        "type": "xa",
+        "slug": "hoa-tinh",
+        "name_with_type": "Xã Hòa Tịnh",
+        "path": "Hòa Tịnh, Mang Thít, Vĩnh Long",
+        "path_with_type": "Xã Hòa Tịnh, Huyện Mang Thít, Tỉnh Vĩnh Long",
+        "code": "29638",
+        "parent_code": "858"
+    },
+    "29641": {
+        "name": "Chánh Hội",
+        "type": "xa",
+        "slug": "chanh-hoi",
+        "name_with_type": "Xã Chánh Hội",
+        "path": "Chánh Hội, Mang Thít, Vĩnh Long",
+        "path_with_type": "Xã Chánh Hội, Huyện Mang Thít, Tỉnh Vĩnh Long",
+        "code": "29641",
+        "parent_code": "858"
+    },
+    "29644": {
+        "name": "Bình Phước",
+        "type": "xa",
+        "slug": "binh-phuoc",
+        "name_with_type": "Xã Bình Phước",
+        "path": "Bình Phước, Mang Thít, Vĩnh Long",
+        "path_with_type": "Xã Bình Phước, Huyện Mang Thít, Tỉnh Vĩnh Long",
+        "code": "29644",
+        "parent_code": "858"
+    },
+    "29647": {
+        "name": "Chánh An",
+        "type": "xa",
+        "slug": "chanh-an",
+        "name_with_type": "Xã Chánh An",
+        "path": "Chánh An, Mang Thít, Vĩnh Long",
+        "path_with_type": "Xã Chánh An, Huyện Mang Thít, Tỉnh Vĩnh Long",
+        "code": "29647",
+        "parent_code": "858"
+    },
+    "29650": {
+        "name": "Tân An Hội",
+        "type": "xa",
+        "slug": "tan-an-hoi",
+        "name_with_type": "Xã Tân An Hội",
+        "path": "Tân An Hội, Mang Thít, Vĩnh Long",
+        "path_with_type": "Xã Tân An Hội, Huyện Mang Thít, Tỉnh Vĩnh Long",
+        "code": "29650",
+        "parent_code": "858"
+    },
+    "29653": {
+        "name": "Tân Long",
+        "type": "xa",
+        "slug": "tan-long",
+        "name_with_type": "Xã Tân Long",
+        "path": "Tân Long, Mang Thít, Vĩnh Long",
+        "path_with_type": "Xã Tân Long, Huyện Mang Thít, Tỉnh Vĩnh Long",
+        "code": "29653",
+        "parent_code": "858"
+    },
+    "29656": {
+        "name": "Tân Long Hội",
+        "type": "xa",
+        "slug": "tan-long-hoi",
+        "name_with_type": "Xã Tân Long Hội",
+        "path": "Tân Long Hội, Mang Thít, Vĩnh Long",
+        "path_with_type": "Xã Tân Long Hội, Huyện Mang Thít, Tỉnh Vĩnh Long",
+        "code": "29656",
+        "parent_code": "858"
+    }
+}

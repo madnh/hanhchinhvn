@@ -1,0 +1,182 @@
+{
+    "30076": {
+        "name": "Mỹ Thọ",
+        "type": "thi-tran",
+        "slug": "my-tho",
+        "name_with_type": "Thị trấn Mỹ Thọ",
+        "path": "Mỹ Thọ, Cao Lãnh, Đồng Tháp",
+        "path_with_type": "Thị trấn Mỹ Thọ, Huyện Cao Lãnh, Tỉnh Đồng Tháp",
+        "code": "30076",
+        "parent_code": "873"
+    },
+    "30079": {
+        "name": "Gáo Giồng",
+        "type": "xa",
+        "slug": "gao-giong",
+        "name_with_type": "Xã Gáo Giồng",
+        "path": "Gáo Giồng, Cao Lãnh, Đồng Tháp",
+        "path_with_type": "Xã Gáo Giồng, Huyện Cao Lãnh, Tỉnh Đồng Tháp",
+        "code": "30079",
+        "parent_code": "873"
+    },
+    "30082": {
+        "name": "Phương Thịnh",
+        "type": "xa",
+        "slug": "phuong-thinh",
+        "name_with_type": "Xã Phương Thịnh",
+        "path": "Phương Thịnh, Cao Lãnh, Đồng Tháp",
+        "path_with_type": "Xã Phương Thịnh, Huyện Cao Lãnh, Tỉnh Đồng Tháp",
+        "code": "30082",
+        "parent_code": "873"
+    },
+    "30085": {
+        "name": "Ba Sao",
+        "type": "xa",
+        "slug": "ba-sao",
+        "name_with_type": "Xã Ba Sao",
+        "path": "Ba Sao, Cao Lãnh, Đồng Tháp",
+        "path_with_type": "Xã Ba Sao, Huyện Cao Lãnh, Tỉnh Đồng Tháp",
+        "code": "30085",
+        "parent_code": "873"
+    },
+    "30088": {
+        "name": "Phong Mỹ",
+        "type": "xa",
+        "slug": "phong-my",
+        "name_with_type": "Xã Phong Mỹ",
+        "path": "Phong Mỹ, Cao Lãnh, Đồng Tháp",
+        "path_with_type": "Xã Phong Mỹ, Huyện Cao Lãnh, Tỉnh Đồng Tháp",
+        "code": "30088",
+        "parent_code": "873"
+    },
+    "30091": {
+        "name": "Tân Nghĩa",
+        "type": "xa",
+        "slug": "tan-nghia",
+        "name_with_type": "Xã Tân Nghĩa",
+        "path": "Tân Nghĩa, Cao Lãnh, Đồng Tháp",
+        "path_with_type": "Xã Tân Nghĩa, Huyện Cao Lãnh, Tỉnh Đồng Tháp",
+        "code": "30091",
+        "parent_code": "873"
+    },
+    "30094": {
+        "name": "Phương Trà",
+        "type": "xa",
+        "slug": "phuong-tra",
+        "name_with_type": "Xã Phương Trà",
+        "path": "Phương Trà, Cao Lãnh, Đồng Tháp",
+        "path_with_type": "Xã Phương Trà, Huyện Cao Lãnh, Tỉnh Đồng Tháp",
+        "code": "30094",
+        "parent_code": "873"
+    },
+    "30097": {
+        "name": "Nhị Mỹ",
+        "type": "xa",
+        "slug": "nhi-my",
+        "name_with_type": "Xã Nhị Mỹ",
+        "path": "Nhị Mỹ, Cao Lãnh, Đồng Tháp",
+        "path_with_type": "Xã Nhị Mỹ, Huyện Cao Lãnh, Tỉnh Đồng Tháp",
+        "code": "30097",
+        "parent_code": "873"
+    },
+    "30100": {
+        "name": "Mỹ Thọ",
+        "type": "xa",
+        "slug": "my-tho",
+        "name_with_type": "Xã Mỹ Thọ",
+        "path": "Mỹ Thọ, Cao Lãnh, Đồng Tháp",
+        "path_with_type": "Xã Mỹ Thọ, Huyện Cao Lãnh, Tỉnh Đồng Tháp",
+        "code": "30100",
+        "parent_code": "873"
+    },
+    "30103": {
+        "name": "Tân Hội Trung",
+        "type": "xa",
+        "slug": "tan-hoi-trung",
+        "name_with_type": "Xã Tân Hội Trung",
+        "path": "Tân Hội Trung, Cao Lãnh, Đồng Tháp",
+        "path_with_type": "Xã Tân Hội Trung, Huyện Cao Lãnh, Tỉnh Đồng Tháp",
+        "code": "30103",
+        "parent_code": "873"
+    },
+    "30106": {
+        "name": "An Bình",
+        "type": "xa",
+        "slug": "an-binh",
+        "name_with_type": "Xã An Bình",
+        "path": "An Bình, Cao Lãnh, Đồng Tháp",
+        "path_with_type": "Xã An Bình, Huyện Cao Lãnh, Tỉnh Đồng Tháp",
+        "code": "30106",
+        "parent_code": "873"
+    },
+    "30109": {
+        "name": "Mỹ Hội",
+        "type": "xa",
+        "slug": "my-hoi",
+        "name_with_type": "Xã Mỹ Hội",
+        "path": "Mỹ Hội, Cao Lãnh, Đồng Tháp",
+        "path_with_type": "Xã Mỹ Hội, Huyện Cao Lãnh, Tỉnh Đồng Tháp",
+        "code": "30109",
+        "parent_code": "873"
+    },
+    "30112": {
+        "name": "Mỹ Hiệp",
+        "type": "xa",
+        "slug": "my-hiep",
+        "name_with_type": "Xã Mỹ Hiệp",
+        "path": "Mỹ Hiệp, Cao Lãnh, Đồng Tháp",
+        "path_with_type": "Xã Mỹ Hiệp, Huyện Cao Lãnh, Tỉnh Đồng Tháp",
+        "code": "30112",
+        "parent_code": "873"
+    },
+    "30115": {
+        "name": "Mỹ Long",
+        "type": "xa",
+        "slug": "my-long",
+        "name_with_type": "Xã Mỹ Long",
+        "path": "Mỹ Long, Cao Lãnh, Đồng Tháp",
+        "path_with_type": "Xã Mỹ Long, Huyện Cao Lãnh, Tỉnh Đồng Tháp",
+        "code": "30115",
+        "parent_code": "873"
+    },
+    "30118": {
+        "name": "Bình Hàng Trung",
+        "type": "xa",
+        "slug": "binh-hang-trung",
+        "name_with_type": "Xã Bình Hàng Trung",
+        "path": "Bình Hàng Trung, Cao Lãnh, Đồng Tháp",
+        "path_with_type": "Xã Bình Hàng Trung, Huyện Cao Lãnh, Tỉnh Đồng Tháp",
+        "code": "30118",
+        "parent_code": "873"
+    },
+    "30121": {
+        "name": "Mỹ Xương",
+        "type": "xa",
+        "slug": "my-xuong",
+        "name_with_type": "Xã Mỹ Xương",
+        "path": "Mỹ Xương, Cao Lãnh, Đồng Tháp",
+        "path_with_type": "Xã Mỹ Xương, Huyện Cao Lãnh, Tỉnh Đồng Tháp",
+        "code": "30121",
+        "parent_code": "873"
+    },
+    "30124": {
+        "name": "Bình Hàng Tây",
+        "type": "xa",
+        "slug": "binh-hang-tay",
+        "name_with_type": "Xã Bình Hàng Tây",
+        "path": "Bình Hàng Tây, Cao Lãnh, Đồng Tháp",
+        "path_with_type": "Xã Bình Hàng Tây, Huyện Cao Lãnh, Tỉnh Đồng Tháp",
+        "code": "30124",
+        "parent_code": "873"
+    },
+    "30127": {
+        "name": "Bình Thạnh",
+        "type": "xa",
+        "slug": "binh-thanh",
+        "name_with_type": "Xã Bình Thạnh",
+        "path": "Bình Thạnh, Cao Lãnh, Đồng Tháp",
+        "path_with_type": "Xã Bình Thạnh, Huyện Cao Lãnh, Tỉnh Đồng Tháp",
+        "code": "30127",
+        "parent_code": "873"
+    }
+}

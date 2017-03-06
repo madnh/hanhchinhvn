@@ -1,0 +1,82 @@
+{
+    "25630": {
+        "name": "Hòa Thành",
+        "type": "thi-tran",
+        "slug": "hoa-thanh",
+        "name_with_type": "Thị trấn Hòa Thành",
+        "path": "Hòa Thành, Hòa Thành, Tây Ninh",
+        "path_with_type": "Thị trấn Hòa Thành, Huyện Hòa Thành, Tỉnh Tây Ninh",
+        "code": "25630",
+        "parent_code": "709"
+    },
+    "25633": {
+        "name": "Hiệp Tân",
+        "type": "xa",
+        "slug": "hiep-tan",
+        "name_with_type": "Xã Hiệp Tân",
+        "path": "Hiệp Tân, Hòa Thành, Tây Ninh",
+        "path_with_type": "Xã Hiệp Tân, Huyện Hòa Thành, Tỉnh Tây Ninh",
+        "code": "25633",
+        "parent_code": "709"
+    },
+    "25636": {
+        "name": "Long Thành Bắc",
+        "type": "xa",
+        "slug": "long-thanh-bac",
+        "name_with_type": "Xã Long Thành Bắc",
+        "path": "Long Thành Bắc, Hòa Thành, Tây Ninh",
+        "path_with_type": "Xã Long Thành Bắc, Huyện Hòa Thành, Tỉnh Tây Ninh",
+        "code": "25636",
+        "parent_code": "709"
+    },
+    "25639": {
+        "name": "Trường Hòa",
+        "type": "xa",
+        "slug": "truong-hoa",
+        "name_with_type": "Xã Trường Hòa",
+        "path": "Trường Hòa, Hòa Thành, Tây Ninh",
+        "path_with_type": "Xã Trường Hòa, Huyện Hòa Thành, Tỉnh Tây Ninh",
+        "code": "25639",
+        "parent_code": "709"
+    },
+    "25642": {
+        "name": "Trường Đông",
+        "type": "xa",
+        "slug": "truong-dong",
+        "name_with_type": "Xã Trường Đông",
+        "path": "Trường Đông, Hòa Thành, Tây Ninh",
+        "path_with_type": "Xã Trường Đông, Huyện Hòa Thành, Tỉnh Tây Ninh",
+        "code": "25642",
+        "parent_code": "709"
+    },
+    "25645": {
+        "name": "Long Thành Trung",
+        "type": "xa",
+        "slug": "long-thanh-trung",
+        "name_with_type": "Xã Long Thành Trung",
+        "path": "Long Thành Trung, Hòa Thành, Tây Ninh",
+        "path_with_type": "Xã Long Thành Trung, Huyện Hòa Thành, Tỉnh Tây Ninh",
+        "code": "25645",
+        "parent_code": "709"
+    },
+    "25648": {
+        "name": "Trường Tây",
+        "type": "xa",
+        "slug": "truong-tay",
+        "name_with_type": "Xã Trường Tây",
+        "path": "Trường Tây, Hòa Thành, Tây Ninh",
+        "path_with_type": "Xã Trường Tây, Huyện Hòa Thành, Tỉnh Tây Ninh",
+        "code": "25648",
+        "parent_code": "709"
+    },
+    "25651": {
+        "name": "Long Thành Nam",
+        "type": "xa",
+        "slug": "long-thanh-nam",
+        "name_with_type": "Xã Long Thành Nam",
+        "path": "Long Thành Nam, Hòa Thành, Tây Ninh",
+        "path_with_type": "Xã Long Thành Nam, Huyện Hòa Thành, Tỉnh Tây Ninh",
+        "code": "25651",
+        "parent_code": "709"
+    }
+}

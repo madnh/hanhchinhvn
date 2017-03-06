@@ -1,0 +1,82 @@
+{
+    "25222": {
+        "name": "Bù Gia Mập",
+        "type": "xa",
+        "slug": "bu-gia-map",
+        "name_with_type": "Xã Bù Gia Mập",
+        "path": "Bù Gia Mập, Bù Gia Mập, Bình Phước",
+        "path_with_type": "Xã Bù Gia Mập, Huyện Bù Gia Mập, Tỉnh Bình Phước",
+        "code": "25222",
+        "parent_code": "691"
+    },
+    "25225": {
+        "name": "Đak Ơ",
+        "type": "xa",
+        "slug": "dak-o",
+        "name_with_type": "Xã Đak Ơ",
+        "path": "Đak Ơ, Bù Gia Mập, Bình Phước",
+        "path_with_type": "Xã Đak Ơ, Huyện Bù Gia Mập, Tỉnh Bình Phước",
+        "code": "25225",
+        "parent_code": "691"
+    },
+    "25228": {
+        "name": "Đức Hạnh",
+        "type": "xa",
+        "slug": "duc-hanh",
+        "name_with_type": "Xã Đức Hạnh",
+        "path": "Đức Hạnh, Bù Gia Mập, Bình Phước",
+        "path_with_type": "Xã Đức Hạnh, Huyện Bù Gia Mập, Tỉnh Bình Phước",
+        "code": "25228",
+        "parent_code": "691"
+    },
+    "25229": {
+        "name": "Phú Văn",
+        "type": "xa",
+        "slug": "phu-van",
+        "name_with_type": "Xã Phú Văn",
+        "path": "Phú Văn, Bù Gia Mập, Bình Phước",
+        "path_with_type": "Xã Phú Văn, Huyện Bù Gia Mập, Tỉnh Bình Phước",
+        "code": "25229",
+        "parent_code": "691"
+    },
+    "25231": {
+        "name": "Đa Kia",
+        "type": "xa",
+        "slug": "da-kia",
+        "name_with_type": "Xã Đa Kia",
+        "path": "Đa Kia, Bù Gia Mập, Bình Phước",
+        "path_with_type": "Xã Đa Kia, Huyện Bù Gia Mập, Tỉnh Bình Phước",
+        "code": "25231",
+        "parent_code": "691"
+    },
+    "25232": {
+        "name": "Phước Minh",
+        "type": "xa",
+        "slug": "phuoc-minh",
+        "name_with_type": "Xã Phước Minh",
+        "path": "Phước Minh, Bù Gia Mập, Bình Phước",
+        "path_with_type": "Xã Phước Minh, Huyện Bù Gia Mập, Tỉnh Bình Phước",
+        "code": "25232",
+        "parent_code": "691"
+    },
+    "25234": {
+        "name": "Bình Thắng",
+        "type": "xa",
+        "slug": "binh-thang",
+        "name_with_type": "Xã Bình Thắng",
+        "path": "Bình Thắng, Bù Gia Mập, Bình Phước",
+        "path_with_type": "Xã Bình Thắng, Huyện Bù Gia Mập, Tỉnh Bình Phước",
+        "code": "25234",
+        "parent_code": "691"
+    },
+    "25267": {
+        "name": "Phú Nghĩa",
+        "type": "xa",
+        "slug": "phu-nghia",
+        "name_with_type": "Xã Phú Nghĩa",
+        "path": "Phú Nghĩa, Bù Gia Mập, Bình Phước",
+        "path_with_type": "Xã Phú Nghĩa, Huyện Bù Gia Mập, Tỉnh Bình Phước",
+        "code": "25267",
+        "parent_code": "691"
+    }
+}

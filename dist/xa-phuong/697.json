@@ -1,0 +1,92 @@
+{
+    "25432": {
+        "name": "Chơn Thành",
+        "type": "thi-tran",
+        "slug": "chon-thanh",
+        "name_with_type": "Thị trấn Chơn Thành",
+        "path": "Chơn Thành, Chơn Thành, Bình Phước",
+        "path_with_type": "Thị trấn Chơn Thành, Huyện Chơn Thành, Tỉnh Bình Phước",
+        "code": "25432",
+        "parent_code": "697"
+    },
+    "25433": {
+        "name": "Thành Tâm",
+        "type": "xa",
+        "slug": "thanh-tam",
+        "name_with_type": "Xã Thành Tâm",
+        "path": "Thành Tâm, Chơn Thành, Bình Phước",
+        "path_with_type": "Xã Thành Tâm, Huyện Chơn Thành, Tỉnh Bình Phước",
+        "code": "25433",
+        "parent_code": "697"
+    },
+    "25435": {
+        "name": "Minh Lập",
+        "type": "xa",
+        "slug": "minh-lap",
+        "name_with_type": "Xã Minh Lập",
+        "path": "Minh Lập, Chơn Thành, Bình Phước",
+        "path_with_type": "Xã Minh Lập, Huyện Chơn Thành, Tỉnh Bình Phước",
+        "code": "25435",
+        "parent_code": "697"
+    },
+    "25439": {
+        "name": "Quang Minh",
+        "type": "xa",
+        "slug": "quang-minh",
+        "name_with_type": "Xã Quang Minh",
+        "path": "Quang Minh, Chơn Thành, Bình Phước",
+        "path_with_type": "Xã Quang Minh, Huyện Chơn Thành, Tỉnh Bình Phước",
+        "code": "25439",
+        "parent_code": "697"
+    },
+    "25441": {
+        "name": "Minh Hưng",
+        "type": "xa",
+        "slug": "minh-hung",
+        "name_with_type": "Xã Minh Hưng",
+        "path": "Minh Hưng, Chơn Thành, Bình Phước",
+        "path_with_type": "Xã Minh Hưng, Huyện Chơn Thành, Tỉnh Bình Phước",
+        "code": "25441",
+        "parent_code": "697"
+    },
+    "25444": {
+        "name": "Minh Long",
+        "type": "xa",
+        "slug": "minh-long",
+        "name_with_type": "Xã Minh Long",
+        "path": "Minh Long, Chơn Thành, Bình Phước",
+        "path_with_type": "Xã Minh Long, Huyện Chơn Thành, Tỉnh Bình Phước",
+        "code": "25444",
+        "parent_code": "697"
+    },
+    "25447": {
+        "name": "Minh Thành",
+        "type": "xa",
+        "slug": "minh-thanh",
+        "name_with_type": "Xã Minh Thành",
+        "path": "Minh Thành, Chơn Thành, Bình Phước",
+        "path_with_type": "Xã Minh Thành, Huyện Chơn Thành, Tỉnh Bình Phước",
+        "code": "25447",
+        "parent_code": "697"
+    },
+    "25450": {
+        "name": "Nha Bích",
+        "type": "xa",
+        "slug": "nha-bich",
+        "name_with_type": "Xã Nha Bích",
+        "path": "Nha Bích, Chơn Thành, Bình Phước",
+        "path_with_type": "Xã Nha Bích, Huyện Chơn Thành, Tỉnh Bình Phước",
+        "code": "25450",
+        "parent_code": "697"
+    },
+    "25453": {
+        "name": "Minh Thắng",
+        "type": "xa",
+        "slug": "minh-thang",
+        "name_with_type": "Xã Minh Thắng",
+        "path": "Minh Thắng, Chơn Thành, Bình Phước",
+        "path_with_type": "Xã Minh Thắng, Huyện Chơn Thành, Tỉnh Bình Phước",
+        "code": "25453",
+        "parent_code": "697"
+    }
+}

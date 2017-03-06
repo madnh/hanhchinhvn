@@ -1,0 +1,92 @@
+{
+    "132": {
+        "name": "Yên Bái",
+        "type": "thanh-pho",
+        "slug": "yen-bai",
+        "name_with_type": "Thành phố Yên Bái",
+        "path": "Yên Bái, Yên Bái",
+        "path_with_type": "Thành phố Yên Bái, Tỉnh Yên Bái",
+        "code": "132",
+        "parent_code": "15"
+    },
+    "133": {
+        "name": "Nghĩa Lộ",
+        "type": "thi-xa",
+        "slug": "nghia-lo",
+        "name_with_type": "Thị xã Nghĩa Lộ",
+        "path": "Nghĩa Lộ, Yên Bái",
+        "path_with_type": "Thị xã Nghĩa Lộ, Tỉnh Yên Bái",
+        "code": "133",
+        "parent_code": "15"
+    },
+    "135": {
+        "name": "Lục Yên",
+        "type": "huyen",
+        "slug": "luc-yen",
+        "name_with_type": "Huyện Lục Yên",
+        "path": "Lục Yên, Yên Bái",
+        "path_with_type": "Huyện Lục Yên, Tỉnh Yên Bái",
+        "code": "135",
+        "parent_code": "15"
+    },
+    "136": {
+        "name": "Văn Yên",
+        "type": "huyen",
+        "slug": "van-yen",
+        "name_with_type": "Huyện Văn Yên",
+        "path": "Văn Yên, Yên Bái",
+        "path_with_type": "Huyện Văn Yên, Tỉnh Yên Bái",
+        "code": "136",
+        "parent_code": "15"
+    },
+    "137": {
+        "name": "Mù Căng Chải",
+        "type": "huyen",
+        "slug": "mu-cang-chai",
+        "name_with_type": "Huyện Mù Căng Chải",
+        "path": "Mù Căng Chải, Yên Bái",
+        "path_with_type": "Huyện Mù Căng Chải, Tỉnh Yên Bái",
+        "code": "137",
+        "parent_code": "15"
+    },
+    "138": {
+        "name": "Trấn Yên",
+        "type": "huyen",
+        "slug": "tran-yen",
+        "name_with_type": "Huyện Trấn Yên",
+        "path": "Trấn Yên, Yên Bái",
+        "path_with_type": "Huyện Trấn Yên, Tỉnh Yên Bái",
+        "code": "138",
+        "parent_code": "15"
+    },
+    "139": {
+        "name": "Trạm Tấu",
+        "type": "huyen",
+        "slug": "tram-tau",
+        "name_with_type": "Huyện Trạm Tấu",
+        "path": "Trạm Tấu, Yên Bái",
+        "path_with_type": "Huyện Trạm Tấu, Tỉnh Yên Bái",
+        "code": "139",
+        "parent_code": "15"
+    },
+    "140": {
+        "name": "Văn Chấn",
+        "type": "huyen",
+        "slug": "van-chan",
+        "name_with_type": "Huyện Văn Chấn",
+        "path": "Văn Chấn, Yên Bái",
+        "path_with_type": "Huyện Văn Chấn, Tỉnh Yên Bái",
+        "code": "140",
+        "parent_code": "15"
+    },
+    "141": {
+        "name": "Yên Bình",
+        "type": "huyen",
+        "slug": "yen-binh",
+        "name_with_type": "Huyện Yên Bình",
+        "path": "Yên Bình, Yên Bái",
+        "path_with_type": "Huyện Yên Bình, Tỉnh Yên Bái",
+        "code": "141",
+        "parent_code": "15"
+    }
+}

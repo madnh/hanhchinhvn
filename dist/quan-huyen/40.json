@@ -1,0 +1,212 @@
+{
+    "412": {
+        "name": "Vinh",
+        "type": "thanh-pho",
+        "slug": "vinh",
+        "name_with_type": "Thành phố Vinh",
+        "path": "Vinh, Nghệ An",
+        "path_with_type": "Thành phố Vinh, Tỉnh Nghệ An",
+        "code": "412",
+        "parent_code": "40"
+    },
+    "413": {
+        "name": "Cửa Lò",
+        "type": "thi-xa",
+        "slug": "cua-lo",
+        "name_with_type": "Thị xã Cửa Lò",
+        "path": "Cửa Lò, Nghệ An",
+        "path_with_type": "Thị xã Cửa Lò, Tỉnh Nghệ An",
+        "code": "413",
+        "parent_code": "40"
+    },
+    "414": {
+        "name": "Thái Hoà",
+        "type": "thi-xa",
+        "slug": "thai-hoa",
+        "name_with_type": "Thị xã Thái Hoà",
+        "path": "Thái Hoà, Nghệ An",
+        "path_with_type": "Thị xã Thái Hoà, Tỉnh Nghệ An",
+        "code": "414",
+        "parent_code": "40"
+    },
+    "415": {
+        "name": "Quế Phong",
+        "type": "huyen",
+        "slug": "que-phong",
+        "name_with_type": "Huyện Quế Phong",
+        "path": "Quế Phong, Nghệ An",
+        "path_with_type": "Huyện Quế Phong, Tỉnh Nghệ An",
+        "code": "415",
+        "parent_code": "40"
+    },
+    "416": {
+        "name": "Quỳ Châu",
+        "type": "huyen",
+        "slug": "quy-chau",
+        "name_with_type": "Huyện Quỳ Châu",
+        "path": "Quỳ Châu, Nghệ An",
+        "path_with_type": "Huyện Quỳ Châu, Tỉnh Nghệ An",
+        "code": "416",
+        "parent_code": "40"
+    },
+    "417": {
+        "name": "Kỳ Sơn",
+        "type": "huyen",
+        "slug": "ky-son",
+        "name_with_type": "Huyện Kỳ Sơn",
+        "path": "Kỳ Sơn, Nghệ An",
+        "path_with_type": "Huyện Kỳ Sơn, Tỉnh Nghệ An",
+        "code": "417",
+        "parent_code": "40"
+    },
+    "418": {
+        "name": "Tương Dương",
+        "type": "huyen",
+        "slug": "tuong-duong",
+        "name_with_type": "Huyện Tương Dương",
+        "path": "Tương Dương, Nghệ An",
+        "path_with_type": "Huyện Tương Dương, Tỉnh Nghệ An",
+        "code": "418",
+        "parent_code": "40"
+    },
+    "419": {
+        "name": "Nghĩa Đàn",
+        "type": "huyen",
+        "slug": "nghia-dan",
+        "name_with_type": "Huyện Nghĩa Đàn",
+        "path": "Nghĩa Đàn, Nghệ An",
+        "path_with_type": "Huyện Nghĩa Đàn, Tỉnh Nghệ An",
+        "code": "419",
+        "parent_code": "40"
+    },
+    "420": {
+        "name": "Quỳ Hợp",
+        "type": "huyen",
+        "slug": "quy-hop",
+        "name_with_type": "Huyện Quỳ Hợp",
+        "path": "Quỳ Hợp, Nghệ An",
+        "path_with_type": "Huyện Quỳ Hợp, Tỉnh Nghệ An",
+        "code": "420",
+        "parent_code": "40"
+    },
+    "421": {
+        "name": "Quỳnh Lưu",
+        "type": "huyen",
+        "slug": "quynh-luu",
+        "name_with_type": "Huyện Quỳnh Lưu",
+        "path": "Quỳnh Lưu, Nghệ An",
+        "path_with_type": "Huyện Quỳnh Lưu, Tỉnh Nghệ An",
+        "code": "421",
+        "parent_code": "40"
+    },
+    "422": {
+        "name": "Con Cuông",
+        "type": "huyen",
+        "slug": "con-cuong",
+        "name_with_type": "Huyện Con Cuông",
+        "path": "Con Cuông, Nghệ An",
+        "path_with_type": "Huyện Con Cuông, Tỉnh Nghệ An",
+        "code": "422",
+        "parent_code": "40"
+    },
+    "423": {
+        "name": "Tân Kỳ",
+        "type": "huyen",
+        "slug": "tan-ky",
+        "name_with_type": "Huyện Tân Kỳ",
+        "path": "Tân Kỳ, Nghệ An",
+        "path_with_type": "Huyện Tân Kỳ, Tỉnh Nghệ An",
+        "code": "423",
+        "parent_code": "40"
+    },
+    "424": {
+        "name": "Anh Sơn",
+        "type": "huyen",
+        "slug": "anh-son",
+        "name_with_type": "Huyện Anh Sơn",
+        "path": "Anh Sơn, Nghệ An",
+        "path_with_type": "Huyện Anh Sơn, Tỉnh Nghệ An",
+        "code": "424",
+        "parent_code": "40"
+    },
+    "425": {
+        "name": "Diễn Châu",
+        "type": "huyen",
+        "slug": "dien-chau",
+        "name_with_type": "Huyện Diễn Châu",
+        "path": "Diễn Châu, Nghệ An",
+        "path_with_type": "Huyện Diễn Châu, Tỉnh Nghệ An",
+        "code": "425",
+        "parent_code": "40"
+    },
+    "426": {
+        "name": "Yên Thành",
+        "type": "huyen",
+        "slug": "yen-thanh",
+        "name_with_type": "Huyện Yên Thành",
+        "path": "Yên Thành, Nghệ An",
+        "path_with_type": "Huyện Yên Thành, Tỉnh Nghệ An",
+        "code": "426",
+        "parent_code": "40"
+    },
+    "427": {
+        "name": "Đô Lương",
+        "type": "huyen",
+        "slug": "do-luong",
+        "name_with_type": "Huyện Đô Lương",
+        "path": "Đô Lương, Nghệ An",
+        "path_with_type": "Huyện Đô Lương, Tỉnh Nghệ An",
+        "code": "427",
+        "parent_code": "40"
+    },
+    "428": {
+        "name": "Thanh Chương",
+        "type": "huyen",
+        "slug": "thanh-chuong",
+        "name_with_type": "Huyện Thanh Chương",
+        "path": "Thanh Chương, Nghệ An",
+        "path_with_type": "Huyện Thanh Chương, Tỉnh Nghệ An",
+        "code": "428",
+        "parent_code": "40"
+    },
+    "429": {
+        "name": "Nghi Lộc",
+        "type": "huyen",
+        "slug": "nghi-loc",
+        "name_with_type": "Huyện Nghi Lộc",
+        "path": "Nghi Lộc, Nghệ An",
+        "path_with_type": "Huyện Nghi Lộc, Tỉnh Nghệ An",
+        "code": "429",
+        "parent_code": "40"
+    },
+    "430": {
+        "name": "Nam Đàn",
+        "type": "huyen",
+        "slug": "nam-dan",
+        "name_with_type": "Huyện Nam Đàn",
+        "path": "Nam Đàn, Nghệ An",
+        "path_with_type": "Huyện Nam Đàn, Tỉnh Nghệ An",
+        "code": "430",
+        "parent_code": "40"
+    },
+    "431": {
+        "name": "Hưng Nguyên",
+        "type": "huyen",
+        "slug": "hung-nguyen",
+        "name_with_type": "Huyện Hưng Nguyên",
+        "path": "Hưng Nguyên, Nghệ An",
+        "path_with_type": "Huyện Hưng Nguyên, Tỉnh Nghệ An",
+        "code": "431",
+        "parent_code": "40"
+    },
+    "432": {
+        "name": "Hoàng Mai",
+        "type": "thi-xa",
+        "slug": "hoang-mai",
+        "name_with_type": "Thị xã Hoàng Mai",
+        "path": "Hoàng Mai, Nghệ An",
+        "path_with_type": "Thị xã Hoàng Mai, Tỉnh Nghệ An",
+        "code": "432",
+        "parent_code": "40"
+    }
+}

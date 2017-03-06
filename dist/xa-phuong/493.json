@@ -1,0 +1,72 @@
+{
+    "20263": {
+        "name": "Thọ Quang",
+        "type": "phuong",
+        "slug": "tho-quang",
+        "name_with_type": "Phường Thọ Quang",
+        "path": "Thọ Quang, Sơn Trà, Đà Nẵng",
+        "path_with_type": "Phường Thọ Quang, Quận Sơn Trà, Thành phố Đà Nẵng",
+        "code": "20263",
+        "parent_code": "493"
+    },
+    "20266": {
+        "name": "Nại Hiên Đông",
+        "type": "phuong",
+        "slug": "nai-hien-dong",
+        "name_with_type": "Phường Nại Hiên Đông",
+        "path": "Nại Hiên Đông, Sơn Trà, Đà Nẵng",
+        "path_with_type": "Phường Nại Hiên Đông, Quận Sơn Trà, Thành phố Đà Nẵng",
+        "code": "20266",
+        "parent_code": "493"
+    },
+    "20269": {
+        "name": "Mân Thái",
+        "type": "phuong",
+        "slug": "man-thai",
+        "name_with_type": "Phường Mân Thái",
+        "path": "Mân Thái, Sơn Trà, Đà Nẵng",
+        "path_with_type": "Phường Mân Thái, Quận Sơn Trà, Thành phố Đà Nẵng",
+        "code": "20269",
+        "parent_code": "493"
+    },
+    "20272": {
+        "name": "An Hải Bắc",
+        "type": "phuong",
+        "slug": "an-hai-bac",
+        "name_with_type": "Phường An Hải Bắc",
+        "path": "An Hải Bắc, Sơn Trà, Đà Nẵng",
+        "path_with_type": "Phường An Hải Bắc, Quận Sơn Trà, Thành phố Đà Nẵng",
+        "code": "20272",
+        "parent_code": "493"
+    },
+    "20275": {
+        "name": "Phước Mỹ",
+        "type": "phuong",
+        "slug": "phuoc-my",
+        "name_with_type": "Phường Phước Mỹ",
+        "path": "Phước Mỹ, Sơn Trà, Đà Nẵng",
+        "path_with_type": "Phường Phước Mỹ, Quận Sơn Trà, Thành phố Đà Nẵng",
+        "code": "20275",
+        "parent_code": "493"
+    },
+    "20278": {
+        "name": "An Hải Tây",
+        "type": "phuong",
+        "slug": "an-hai-tay",
+        "name_with_type": "Phường An Hải Tây",
+        "path": "An Hải Tây, Sơn Trà, Đà Nẵng",
+        "path_with_type": "Phường An Hải Tây, Quận Sơn Trà, Thành phố Đà Nẵng",
+        "code": "20278",
+        "parent_code": "493"
+    },
+    "20281": {
+        "name": "An Hải Đông",
+        "type": "phuong",
+        "slug": "an-hai-dong",
+        "name_with_type": "Phường An Hải Đông",
+        "path": "An Hải Đông, Sơn Trà, Đà Nẵng",
+        "path_with_type": "Phường An Hải Đông, Quận Sơn Trà, Thành phố Đà Nẵng",
+        "code": "20281",
+        "parent_code": "493"
+    }
+}

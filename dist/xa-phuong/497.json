@@ -1,0 +1,112 @@
+{
+    "20293": {
+        "name": "Hòa Bắc",
+        "type": "xa",
+        "slug": "hoa-bac",
+        "name_with_type": "Xã Hòa Bắc",
+        "path": "Hòa Bắc, Hòa Vang, Đà Nẵng",
+        "path_with_type": "Xã Hòa Bắc, Huyện Hòa Vang, Thành phố Đà Nẵng",
+        "code": "20293",
+        "parent_code": "497"
+    },
+    "20296": {
+        "name": "Hòa Liên",
+        "type": "xa",
+        "slug": "hoa-lien",
+        "name_with_type": "Xã Hòa Liên",
+        "path": "Hòa Liên, Hòa Vang, Đà Nẵng",
+        "path_with_type": "Xã Hòa Liên, Huyện Hòa Vang, Thành phố Đà Nẵng",
+        "code": "20296",
+        "parent_code": "497"
+    },
+    "20299": {
+        "name": "Hòa Ninh",
+        "type": "xa",
+        "slug": "hoa-ninh",
+        "name_with_type": "Xã Hòa Ninh",
+        "path": "Hòa Ninh, Hòa Vang, Đà Nẵng",
+        "path_with_type": "Xã Hòa Ninh, Huyện Hòa Vang, Thành phố Đà Nẵng",
+        "code": "20299",
+        "parent_code": "497"
+    },
+    "20302": {
+        "name": "Hòa Sơn",
+        "type": "xa",
+        "slug": "hoa-son",
+        "name_with_type": "Xã Hòa Sơn",
+        "path": "Hòa Sơn, Hòa Vang, Đà Nẵng",
+        "path_with_type": "Xã Hòa Sơn, Huyện Hòa Vang, Thành phố Đà Nẵng",
+        "code": "20302",
+        "parent_code": "497"
+    },
+    "20308": {
+        "name": "Hòa Nhơn",
+        "type": "xa",
+        "slug": "hoa-nhon",
+        "name_with_type": "Xã Hòa Nhơn",
+        "path": "Hòa Nhơn, Hòa Vang, Đà Nẵng",
+        "path_with_type": "Xã Hòa Nhơn, Huyện Hòa Vang, Thành phố Đà Nẵng",
+        "code": "20308",
+        "parent_code": "497"
+    },
+    "20317": {
+        "name": "Hòa Phú",
+        "type": "xa",
+        "slug": "hoa-phu",
+        "name_with_type": "Xã Hòa Phú",
+        "path": "Hòa Phú, Hòa Vang, Đà Nẵng",
+        "path_with_type": "Xã Hòa Phú, Huyện Hòa Vang, Thành phố Đà Nẵng",
+        "code": "20317",
+        "parent_code": "497"
+    },
+    "20320": {
+        "name": "Hòa Phong",
+        "type": "xa",
+        "slug": "hoa-phong",
+        "name_with_type": "Xã Hòa Phong",
+        "path": "Hòa Phong, Hòa Vang, Đà Nẵng",
+        "path_with_type": "Xã Hòa Phong, Huyện Hòa Vang, Thành phố Đà Nẵng",
+        "code": "20320",
+        "parent_code": "497"
+    },
+    "20323": {
+        "name": "Hòa Châu",
+        "type": "xa",
+        "slug": "hoa-chau",
+        "name_with_type": "Xã Hòa Châu",
+        "path": "Hòa Châu, Hòa Vang, Đà Nẵng",
+        "path_with_type": "Xã Hòa Châu, Huyện Hòa Vang, Thành phố Đà Nẵng",
+        "code": "20323",
+        "parent_code": "497"
+    },
+    "20326": {
+        "name": "Hòa Tiến",
+        "type": "xa",
+        "slug": "hoa-tien",
+        "name_with_type": "Xã Hòa Tiến",
+        "path": "Hòa Tiến, Hòa Vang, Đà Nẵng",
+        "path_with_type": "Xã Hòa Tiến, Huyện Hòa Vang, Thành phố Đà Nẵng",
+        "code": "20326",
+        "parent_code": "497"
+    },
+    "20329": {
+        "name": "Hòa Phước",
+        "type": "xa",
+        "slug": "hoa-phuoc",
+        "name_with_type": "Xã Hòa Phước",
+        "path": "Hòa Phước, Hòa Vang, Đà Nẵng",
+        "path_with_type": "Xã Hòa Phước, Huyện Hòa Vang, Thành phố Đà Nẵng",
+        "code": "20329",
+        "parent_code": "497"
+    },
+    "20332": {
+        "name": "Hòa Khương",
+        "type": "xa",
+        "slug": "hoa-khuong",
+        "name_with_type": "Xã Hòa Khương",
+        "path": "Hòa Khương, Hòa Vang, Đà Nẵng",
+        "path_with_type": "Xã Hòa Khương, Huyện Hòa Vang, Thành phố Đà Nẵng",
+        "code": "20332",
+        "parent_code": "497"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "32212": {
+        "name": "Cái Đôi Vàm",
+        "type": "thi-tran",
+        "slug": "cai-doi-vam",
+        "name_with_type": "Thị trấn Cái Đôi Vàm",
+        "path": "Cái Đôi Vàm, Phú Tân, Cà Mau",
+        "path_with_type": "Thị trấn Cái Đôi Vàm, Huyện Phú Tân, Tỉnh Cà Mau",
+        "code": "32212",
+        "parent_code": "972"
+    },
+    "32214": {
+        "name": "Phú Thuận",
+        "type": "xa",
+        "slug": "phu-thuan",
+        "name_with_type": "Xã Phú Thuận",
+        "path": "Phú Thuận, Phú Tân, Cà Mau",
+        "path_with_type": "Xã Phú Thuận, Huyện Phú Tân, Tỉnh Cà Mau",
+        "code": "32214",
+        "parent_code": "972"
+    },
+    "32215": {
+        "name": "Phú Mỹ",
+        "type": "xa",
+        "slug": "phu-my",
+        "name_with_type": "Xã Phú Mỹ",
+        "path": "Phú Mỹ, Phú Tân, Cà Mau",
+        "path_with_type": "Xã Phú Mỹ, Huyện Phú Tân, Tỉnh Cà Mau",
+        "code": "32215",
+        "parent_code": "972"
+    },
+    "32218": {
+        "name": "Phú Tân",
+        "type": "xa",
+        "slug": "phu-tan",
+        "name_with_type": "Xã Phú Tân",
+        "path": "Phú Tân, Phú Tân, Cà Mau",
+        "path_with_type": "Xã Phú Tân, Huyện Phú Tân, Tỉnh Cà Mau",
+        "code": "32218",
+        "parent_code": "972"
+    },
+    "32221": {
+        "name": "Tân Hải",
+        "type": "xa",
+        "slug": "tan-hai",
+        "name_with_type": "Xã Tân Hải",
+        "path": "Tân Hải, Phú Tân, Cà Mau",
+        "path_with_type": "Xã Tân Hải, Huyện Phú Tân, Tỉnh Cà Mau",
+        "code": "32221",
+        "parent_code": "972"
+    },
+    "32224": {
+        "name": "Việt Thắng",
+        "type": "xa",
+        "slug": "viet-thang",
+        "name_with_type": "Xã Việt Thắng",
+        "path": "Việt Thắng, Phú Tân, Cà Mau",
+        "path_with_type": "Xã Việt Thắng, Huyện Phú Tân, Tỉnh Cà Mau",
+        "code": "32224",
+        "parent_code": "972"
+    },
+    "32227": {
+        "name": "Tân Hưng Tây",
+        "type": "xa",
+        "slug": "tan-hung-tay",
+        "name_with_type": "Xã Tân Hưng Tây",
+        "path": "Tân Hưng Tây, Phú Tân, Cà Mau",
+        "path_with_type": "Xã Tân Hưng Tây, Huyện Phú Tân, Tỉnh Cà Mau",
+        "code": "32227",
+        "parent_code": "972"
+    },
+    "32228": {
+        "name": "Rạch Chèo",
+        "type": "xa",
+        "slug": "rach-cheo",
+        "name_with_type": "Xã Rạch Chèo",
+        "path": "Rạch Chèo, Phú Tân, Cà Mau",
+        "path_with_type": "Xã Rạch Chèo, Huyện Phú Tân, Tỉnh Cà Mau",
+        "code": "32228",
+        "parent_code": "972"
+    },
+    "32230": {
+        "name": "Việt Khái",
+        "type": "xa",
+        "slug": "viet-khai",
+        "name_with_type": "Xã Việt Khái",
+        "path": "Việt Khái, Phú Tân, Cà Mau",
+        "path_with_type": "Xã Việt Khái, Huyện Phú Tân, Tỉnh Cà Mau",
+        "code": "32230",
+        "parent_code": "972"
+    }
+}

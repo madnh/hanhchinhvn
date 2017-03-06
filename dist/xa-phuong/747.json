@@ -1,0 +1,172 @@
+{
+    "26506": {
+        "name": "1",
+        "type": "phuong",
+        "slug": "1",
+        "name_with_type": "Phường 1",
+        "path": "1, Vũng Tàu, Bà Rịa - Vũng Tàu",
+        "path_with_type": "Phường 1, Thành phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu",
+        "code": "26506",
+        "parent_code": "747"
+    },
+    "26508": {
+        "name": "Thắng Tam",
+        "type": "phuong",
+        "slug": "thang-tam",
+        "name_with_type": "Phường Thắng Tam",
+        "path": "Thắng Tam, Vũng Tàu, Bà Rịa - Vũng Tàu",
+        "path_with_type": "Phường Thắng Tam, Thành phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu",
+        "code": "26508",
+        "parent_code": "747"
+    },
+    "26509": {
+        "name": "2",
+        "type": "phuong",
+        "slug": "2",
+        "name_with_type": "Phường 2",
+        "path": "2, Vũng Tàu, Bà Rịa - Vũng Tàu",
+        "path_with_type": "Phường 2, Thành phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu",
+        "code": "26509",
+        "parent_code": "747"
+    },
+    "26512": {
+        "name": "3",
+        "type": "phuong",
+        "slug": "3",
+        "name_with_type": "Phường 3",
+        "path": "3, Vũng Tàu, Bà Rịa - Vũng Tàu",
+        "path_with_type": "Phường 3, Thành phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu",
+        "code": "26512",
+        "parent_code": "747"
+    },
+    "26515": {
+        "name": "4",
+        "type": "phuong",
+        "slug": "4",
+        "name_with_type": "Phường 4",
+        "path": "4, Vũng Tàu, Bà Rịa - Vũng Tàu",
+        "path_with_type": "Phường 4, Thành phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu",
+        "code": "26515",
+        "parent_code": "747"
+    },
+    "26518": {
+        "name": "5",
+        "type": "phuong",
+        "slug": "5",
+        "name_with_type": "Phường 5",
+        "path": "5, Vũng Tàu, Bà Rịa - Vũng Tàu",
+        "path_with_type": "Phường 5, Thành phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu",
+        "code": "26518",
+        "parent_code": "747"
+    },
+    "26521": {
+        "name": "Thắng Nhì",
+        "type": "phuong",
+        "slug": "thang-nhi",
+        "name_with_type": "Phường Thắng Nhì",
+        "path": "Thắng Nhì, Vũng Tàu, Bà Rịa - Vũng Tàu",
+        "path_with_type": "Phường Thắng Nhì, Thành phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu",
+        "code": "26521",
+        "parent_code": "747"
+    },
+    "26524": {
+        "name": "7",
+        "type": "phuong",
+        "slug": "7",
+        "name_with_type": "Phường 7",
+        "path": "7, Vũng Tàu, Bà Rịa - Vũng Tàu",
+        "path_with_type": "Phường 7, Thành phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu",
+        "code": "26524",
+        "parent_code": "747"
+    },
+    "26526": {
+        "name": "Nguyễn An Ninh",
+        "type": "phuong",
+        "slug": "nguyen-an-ninh",
+        "name_with_type": "Phường Nguyễn An Ninh",
+        "path": "Nguyễn An Ninh, Vũng Tàu, Bà Rịa - Vũng Tàu",
+        "path_with_type": "Phường Nguyễn An Ninh, Thành phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu",
+        "code": "26526",
+        "parent_code": "747"
+    },
+    "26527": {
+        "name": "8",
+        "type": "phuong",
+        "slug": "8",
+        "name_with_type": "Phường 8",
+        "path": "8, Vũng Tàu, Bà Rịa - Vũng Tàu",
+        "path_with_type": "Phường 8, Thành phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu",
+        "code": "26527",
+        "parent_code": "747"
+    },
+    "26530": {
+        "name": "9",
+        "type": "phuong",
+        "slug": "9",
+        "name_with_type": "Phường 9",
+        "path": "9, Vũng Tàu, Bà Rịa - Vũng Tàu",
+        "path_with_type": "Phường 9, Thành phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu",
+        "code": "26530",
+        "parent_code": "747"
+    },
+    "26533": {
+        "name": "Thắng Nhất",
+        "type": "phuong",
+        "slug": "thang-nhat",
+        "name_with_type": "Phường Thắng Nhất",
+        "path": "Thắng Nhất, Vũng Tàu, Bà Rịa - Vũng Tàu",
+        "path_with_type": "Phường Thắng Nhất, Thành phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu",
+        "code": "26533",
+        "parent_code": "747"
+    },
+    "26535": {
+        "name": "Rạch Dừa",
+        "type": "phuong",
+        "slug": "rach-dua",
+        "name_with_type": "Phường Rạch Dừa",
+        "path": "Rạch Dừa, Vũng Tàu, Bà Rịa - Vũng Tàu",
+        "path_with_type": "Phường Rạch Dừa, Thành phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu",
+        "code": "26535",
+        "parent_code": "747"
+    },
+    "26536": {
+        "name": "10",
+        "type": "phuong",
+        "slug": "10",
+        "name_with_type": "Phường 10",
+        "path": "10, Vũng Tàu, Bà Rịa - Vũng Tàu",
+        "path_with_type": "Phường 10, Thành phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu",
+        "code": "26536",
+        "parent_code": "747"
+    },
+    "26539": {
+        "name": "11",
+        "type": "phuong",
+        "slug": "11",
+        "name_with_type": "Phường 11",
+        "path": "11, Vũng Tàu, Bà Rịa - Vũng Tàu",
+        "path_with_type": "Phường 11, Thành phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu",
+        "code": "26539",
+        "parent_code": "747"
+    },
+    "26542": {
+        "name": "12",
+        "type": "phuong",
+        "slug": "12",
+        "name_with_type": "Phường 12",
+        "path": "12, Vũng Tàu, Bà Rịa - Vũng Tàu",
+        "path_with_type": "Phường 12, Thành phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu",
+        "code": "26542",
+        "parent_code": "747"
+    },
+    "26545": {
+        "name": "Long Sơn",
+        "type": "xa",
+        "slug": "long-son",
+        "name_with_type": "Xã Long Sơn",
+        "path": "Long Sơn, Vũng Tàu, Bà Rịa - Vũng Tàu",
+        "path_with_type": "Xã Long Sơn, Thành phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu",
+        "code": "26545",
+        "parent_code": "747"
+    }
+}

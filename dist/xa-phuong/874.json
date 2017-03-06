@@ -1,0 +1,132 @@
+{
+    "30130": {
+        "name": "Thanh Bình",
+        "type": "thi-tran",
+        "slug": "thanh-binh",
+        "name_with_type": "Thị trấn Thanh Bình",
+        "path": "Thanh Bình, Thanh Bình, Đồng Tháp",
+        "path_with_type": "Thị trấn Thanh Bình, Huyện Thanh Bình, Tỉnh Đồng Tháp",
+        "code": "30130",
+        "parent_code": "874"
+    },
+    "30133": {
+        "name": "Tân Quới",
+        "type": "xa",
+        "slug": "tan-quoi",
+        "name_with_type": "Xã Tân Quới",
+        "path": "Tân Quới, Thanh Bình, Đồng Tháp",
+        "path_with_type": "Xã Tân Quới, Huyện Thanh Bình, Tỉnh Đồng Tháp",
+        "code": "30133",
+        "parent_code": "874"
+    },
+    "30136": {
+        "name": "Tân Hòa",
+        "type": "xa",
+        "slug": "tan-hoa",
+        "name_with_type": "Xã Tân Hòa",
+        "path": "Tân Hòa, Thanh Bình, Đồng Tháp",
+        "path_with_type": "Xã Tân Hòa, Huyện Thanh Bình, Tỉnh Đồng Tháp",
+        "code": "30136",
+        "parent_code": "874"
+    },
+    "30139": {
+        "name": "An Phong",
+        "type": "xa",
+        "slug": "an-phong",
+        "name_with_type": "Xã An Phong",
+        "path": "An Phong, Thanh Bình, Đồng Tháp",
+        "path_with_type": "Xã An Phong, Huyện Thanh Bình, Tỉnh Đồng Tháp",
+        "code": "30139",
+        "parent_code": "874"
+    },
+    "30142": {
+        "name": "Phú Lợi",
+        "type": "xa",
+        "slug": "phu-loi",
+        "name_with_type": "Xã Phú Lợi",
+        "path": "Phú Lợi, Thanh Bình, Đồng Tháp",
+        "path_with_type": "Xã Phú Lợi, Huyện Thanh Bình, Tỉnh Đồng Tháp",
+        "code": "30142",
+        "parent_code": "874"
+    },
+    "30145": {
+        "name": "Tân Mỹ",
+        "type": "xa",
+        "slug": "tan-my",
+        "name_with_type": "Xã Tân Mỹ",
+        "path": "Tân Mỹ, Thanh Bình, Đồng Tháp",
+        "path_with_type": "Xã Tân Mỹ, Huyện Thanh Bình, Tỉnh Đồng Tháp",
+        "code": "30145",
+        "parent_code": "874"
+    },
+    "30148": {
+        "name": "Bình Tấn",
+        "type": "xa",
+        "slug": "binh-tan",
+        "name_with_type": "Xã Bình Tấn",
+        "path": "Bình Tấn, Thanh Bình, Đồng Tháp",
+        "path_with_type": "Xã Bình Tấn, Huyện Thanh Bình, Tỉnh Đồng Tháp",
+        "code": "30148",
+        "parent_code": "874"
+    },
+    "30151": {
+        "name": "Tân Huề",
+        "type": "xa",
+        "slug": "tan-hue",
+        "name_with_type": "Xã Tân Huề",
+        "path": "Tân Huề, Thanh Bình, Đồng Tháp",
+        "path_with_type": "Xã Tân Huề, Huyện Thanh Bình, Tỉnh Đồng Tháp",
+        "code": "30151",
+        "parent_code": "874"
+    },
+    "30154": {
+        "name": "Tân Bình",
+        "type": "xa",
+        "slug": "tan-binh",
+        "name_with_type": "Xã Tân Bình",
+        "path": "Tân Bình, Thanh Bình, Đồng Tháp",
+        "path_with_type": "Xã Tân Bình, Huyện Thanh Bình, Tỉnh Đồng Tháp",
+        "code": "30154",
+        "parent_code": "874"
+    },
+    "30157": {
+        "name": "Tân Thạnh",
+        "type": "xa",
+        "slug": "tan-thanh",
+        "name_with_type": "Xã Tân Thạnh",
+        "path": "Tân Thạnh, Thanh Bình, Đồng Tháp",
+        "path_with_type": "Xã Tân Thạnh, Huyện Thanh Bình, Tỉnh Đồng Tháp",
+        "code": "30157",
+        "parent_code": "874"
+    },
+    "30160": {
+        "name": "Tân Phú",
+        "type": "xa",
+        "slug": "tan-phu",
+        "name_with_type": "Xã Tân Phú",
+        "path": "Tân Phú, Thanh Bình, Đồng Tháp",
+        "path_with_type": "Xã Tân Phú, Huyện Thanh Bình, Tỉnh Đồng Tháp",
+        "code": "30160",
+        "parent_code": "874"
+    },
+    "30163": {
+        "name": "Bình Thành",
+        "type": "xa",
+        "slug": "binh-thanh",
+        "name_with_type": "Xã Bình Thành",
+        "path": "Bình Thành, Thanh Bình, Đồng Tháp",
+        "path_with_type": "Xã Bình Thành, Huyện Thanh Bình, Tỉnh Đồng Tháp",
+        "code": "30163",
+        "parent_code": "874"
+    },
+    "30166": {
+        "name": "Tân Long",
+        "type": "xa",
+        "slug": "tan-long",
+        "name_with_type": "Xã Tân Long",
+        "path": "Tân Long, Thanh Bình, Đồng Tháp",
+        "path_with_type": "Xã Tân Long, Huyện Thanh Bình, Tỉnh Đồng Tháp",
+        "code": "30166",
+        "parent_code": "874"
+    }
+}

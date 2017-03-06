@@ -1,0 +1,272 @@
+{
+    "14620": {
+        "name": "Phát Diệm",
+        "type": "thi-tran",
+        "slug": "phat-diem",
+        "name_with_type": "Thị trấn Phát Diệm",
+        "path": "Phát Diệm, Kim Sơn, Ninh Bình",
+        "path_with_type": "Thị trấn Phát Diệm, Huyện Kim Sơn, Tỉnh Ninh Bình",
+        "code": "14620",
+        "parent_code": "376"
+    },
+    "14623": {
+        "name": "Bình Minh",
+        "type": "thi-tran",
+        "slug": "binh-minh",
+        "name_with_type": "Thị trấn Bình Minh",
+        "path": "Bình Minh, Kim Sơn, Ninh Bình",
+        "path_with_type": "Thị trấn Bình Minh, Huyện Kim Sơn, Tỉnh Ninh Bình",
+        "code": "14623",
+        "parent_code": "376"
+    },
+    "14626": {
+        "name": "Xuân Thiện",
+        "type": "xa",
+        "slug": "xuan-thien",
+        "name_with_type": "Xã Xuân Thiện",
+        "path": "Xuân Thiện, Kim Sơn, Ninh Bình",
+        "path_with_type": "Xã Xuân Thiện, Huyện Kim Sơn, Tỉnh Ninh Bình",
+        "code": "14626",
+        "parent_code": "376"
+    },
+    "14629": {
+        "name": "Hồi Ninh",
+        "type": "xa",
+        "slug": "hoi-ninh",
+        "name_with_type": "Xã Hồi Ninh",
+        "path": "Hồi Ninh, Kim Sơn, Ninh Bình",
+        "path_with_type": "Xã Hồi Ninh, Huyện Kim Sơn, Tỉnh Ninh Bình",
+        "code": "14629",
+        "parent_code": "376"
+    },
+    "14632": {
+        "name": "Chính Tâm",
+        "type": "xa",
+        "slug": "chinh-tam",
+        "name_with_type": "Xã Chính Tâm",
+        "path": "Chính Tâm, Kim Sơn, Ninh Bình",
+        "path_with_type": "Xã Chính Tâm, Huyện Kim Sơn, Tỉnh Ninh Bình",
+        "code": "14632",
+        "parent_code": "376"
+    },
+    "14635": {
+        "name": "Kim Định",
+        "type": "xa",
+        "slug": "kim-dinh",
+        "name_with_type": "Xã Kim Định",
+        "path": "Kim Định, Kim Sơn, Ninh Bình",
+        "path_with_type": "Xã Kim Định, Huyện Kim Sơn, Tỉnh Ninh Bình",
+        "code": "14635",
+        "parent_code": "376"
+    },
+    "14638": {
+        "name": "Ân Hòa",
+        "type": "xa",
+        "slug": "an-hoa",
+        "name_with_type": "Xã Ân Hòa",
+        "path": "Ân Hòa, Kim Sơn, Ninh Bình",
+        "path_with_type": "Xã Ân Hòa, Huyện Kim Sơn, Tỉnh Ninh Bình",
+        "code": "14638",
+        "parent_code": "376"
+    },
+    "14641": {
+        "name": "Hùng Tiến",
+        "type": "xa",
+        "slug": "hung-tien",
+        "name_with_type": "Xã Hùng Tiến",
+        "path": "Hùng Tiến, Kim Sơn, Ninh Bình",
+        "path_with_type": "Xã Hùng Tiến, Huyện Kim Sơn, Tỉnh Ninh Bình",
+        "code": "14641",
+        "parent_code": "376"
+    },
+    "14644": {
+        "name": "Yên Mật",
+        "type": "xa",
+        "slug": "yen-mat",
+        "name_with_type": "Xã Yên Mật",
+        "path": "Yên Mật, Kim Sơn, Ninh Bình",
+        "path_with_type": "Xã Yên Mật, Huyện Kim Sơn, Tỉnh Ninh Bình",
+        "code": "14644",
+        "parent_code": "376"
+    },
+    "14647": {
+        "name": "Quang Thiện",
+        "type": "xa",
+        "slug": "quang-thien",
+        "name_with_type": "Xã Quang Thiện",
+        "path": "Quang Thiện, Kim Sơn, Ninh Bình",
+        "path_with_type": "Xã Quang Thiện, Huyện Kim Sơn, Tỉnh Ninh Bình",
+        "code": "14647",
+        "parent_code": "376"
+    },
+    "14650": {
+        "name": "Như Hòa",
+        "type": "xa",
+        "slug": "nhu-hoa",
+        "name_with_type": "Xã Như Hòa",
+        "path": "Như Hòa, Kim Sơn, Ninh Bình",
+        "path_with_type": "Xã Như Hòa, Huyện Kim Sơn, Tỉnh Ninh Bình",
+        "code": "14650",
+        "parent_code": "376"
+    },
+    "14653": {
+        "name": "Chất Bình",
+        "type": "xa",
+        "slug": "chat-binh",
+        "name_with_type": "Xã Chất Bình",
+        "path": "Chất Bình, Kim Sơn, Ninh Bình",
+        "path_with_type": "Xã Chất Bình, Huyện Kim Sơn, Tỉnh Ninh Bình",
+        "code": "14653",
+        "parent_code": "376"
+    },
+    "14656": {
+        "name": "Đồng Hướng",
+        "type": "xa",
+        "slug": "dong-huong",
+        "name_with_type": "Xã Đồng Hướng",
+        "path": "Đồng Hướng, Kim Sơn, Ninh Bình",
+        "path_with_type": "Xã Đồng Hướng, Huyện Kim Sơn, Tỉnh Ninh Bình",
+        "code": "14656",
+        "parent_code": "376"
+    },
+    "14659": {
+        "name": "Kim Chính",
+        "type": "xa",
+        "slug": "kim-chinh",
+        "name_with_type": "Xã Kim Chính",
+        "path": "Kim Chính, Kim Sơn, Ninh Bình",
+        "path_with_type": "Xã Kim Chính, Huyện Kim Sơn, Tỉnh Ninh Bình",
+        "code": "14659",
+        "parent_code": "376"
+    },
+    "14662": {
+        "name": "Thượng Kiệm",
+        "type": "xa",
+        "slug": "thuong-kiem",
+        "name_with_type": "Xã Thượng Kiệm",
+        "path": "Thượng Kiệm, Kim Sơn, Ninh Bình",
+        "path_with_type": "Xã Thượng Kiệm, Huyện Kim Sơn, Tỉnh Ninh Bình",
+        "code": "14662",
+        "parent_code": "376"
+    },
+    "14665": {
+        "name": "Lưu Phương",
+        "type": "xa",
+        "slug": "luu-phuong",
+        "name_with_type": "Xã Lưu Phương",
+        "path": "Lưu Phương, Kim Sơn, Ninh Bình",
+        "path_with_type": "Xã Lưu Phương, Huyện Kim Sơn, Tỉnh Ninh Bình",
+        "code": "14665",
+        "parent_code": "376"
+    },
+    "14668": {
+        "name": "Tân Thành",
+        "type": "xa",
+        "slug": "tan-thanh",
+        "name_with_type": "Xã Tân Thành",
+        "path": "Tân Thành, Kim Sơn, Ninh Bình",
+        "path_with_type": "Xã Tân Thành, Huyện Kim Sơn, Tỉnh Ninh Bình",
+        "code": "14668",
+        "parent_code": "376"
+    },
+    "14671": {
+        "name": "Yên Lộc",
+        "type": "xa",
+        "slug": "yen-loc",
+        "name_with_type": "Xã Yên Lộc",
+        "path": "Yên Lộc, Kim Sơn, Ninh Bình",
+        "path_with_type": "Xã Yên Lộc, Huyện Kim Sơn, Tỉnh Ninh Bình",
+        "code": "14671",
+        "parent_code": "376"
+    },
+    "14674": {
+        "name": "Lai Thành",
+        "type": "xa",
+        "slug": "lai-thanh",
+        "name_with_type": "Xã Lai Thành",
+        "path": "Lai Thành, Kim Sơn, Ninh Bình",
+        "path_with_type": "Xã Lai Thành, Huyện Kim Sơn, Tỉnh Ninh Bình",
+        "code": "14674",
+        "parent_code": "376"
+    },
+    "14677": {
+        "name": "Định Hóa",
+        "type": "xa",
+        "slug": "dinh-hoa",
+        "name_with_type": "Xã Định Hóa",
+        "path": "Định Hóa, Kim Sơn, Ninh Bình",
+        "path_with_type": "Xã Định Hóa, Huyện Kim Sơn, Tỉnh Ninh Bình",
+        "code": "14677",
+        "parent_code": "376"
+    },
+    "14680": {
+        "name": "Văn Hải",
+        "type": "xa",
+        "slug": "van-hai",
+        "name_with_type": "Xã Văn Hải",
+        "path": "Văn Hải, Kim Sơn, Ninh Bình",
+        "path_with_type": "Xã Văn Hải, Huyện Kim Sơn, Tỉnh Ninh Bình",
+        "code": "14680",
+        "parent_code": "376"
+    },
+    "14683": {
+        "name": "Kim Tân",
+        "type": "xa",
+        "slug": "kim-tan",
+        "name_with_type": "Xã Kim Tân",
+        "path": "Kim Tân, Kim Sơn, Ninh Bình",
+        "path_with_type": "Xã Kim Tân, Huyện Kim Sơn, Tỉnh Ninh Bình",
+        "code": "14683",
+        "parent_code": "376"
+    },
+    "14686": {
+        "name": "Kim Mỹ",
+        "type": "xa",
+        "slug": "kim-my",
+        "name_with_type": "Xã Kim Mỹ",
+        "path": "Kim Mỹ, Kim Sơn, Ninh Bình",
+        "path_with_type": "Xã Kim Mỹ, Huyện Kim Sơn, Tỉnh Ninh Bình",
+        "code": "14686",
+        "parent_code": "376"
+    },
+    "14689": {
+        "name": "Cồn Thoi",
+        "type": "xa",
+        "slug": "con-thoi",
+        "name_with_type": "Xã Cồn Thoi",
+        "path": "Cồn Thoi, Kim Sơn, Ninh Bình",
+        "path_with_type": "Xã Cồn Thoi, Huyện Kim Sơn, Tỉnh Ninh Bình",
+        "code": "14689",
+        "parent_code": "376"
+    },
+    "14692": {
+        "name": "Kim Hải",
+        "type": "xa",
+        "slug": "kim-hai",
+        "name_with_type": "Xã Kim Hải",
+        "path": "Kim Hải, Kim Sơn, Ninh Bình",
+        "path_with_type": "Xã Kim Hải, Huyện Kim Sơn, Tỉnh Ninh Bình",
+        "code": "14692",
+        "parent_code": "376"
+    },
+    "14695": {
+        "name": "Kim Trung",
+        "type": "xa",
+        "slug": "kim-trung",
+        "name_with_type": "Xã Kim Trung",
+        "path": "Kim Trung, Kim Sơn, Ninh Bình",
+        "path_with_type": "Xã Kim Trung, Huyện Kim Sơn, Tỉnh Ninh Bình",
+        "code": "14695",
+        "parent_code": "376"
+    },
+    "14698": {
+        "name": "Kim Đông",
+        "type": "xa",
+        "slug": "kim-dong",
+        "name_with_type": "Xã Kim Đông",
+        "path": "Kim Đông, Kim Sơn, Ninh Bình",
+        "path_with_type": "Xã Kim Đông, Huyện Kim Sơn, Tỉnh Ninh Bình",
+        "code": "14698",
+        "parent_code": "376"
+    }
+}

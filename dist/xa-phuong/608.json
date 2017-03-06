@@ -1,0 +1,212 @@
+{
+    "23281": {
+        "name": "Quang Trung",
+        "type": "phuong",
+        "slug": "quang-trung",
+        "name_with_type": "Phường Quang Trung",
+        "path": "Quang Trung, Kon Tum, Kon Tum",
+        "path_with_type": "Phường Quang Trung, Thành phố Kon Tum, Tỉnh Kon Tum",
+        "code": "23281",
+        "parent_code": "608"
+    },
+    "23284": {
+        "name": "Duy Tân",
+        "type": "phuong",
+        "slug": "duy-tan",
+        "name_with_type": "Phường Duy Tân",
+        "path": "Duy Tân, Kon Tum, Kon Tum",
+        "path_with_type": "Phường Duy Tân, Thành phố Kon Tum, Tỉnh Kon Tum",
+        "code": "23284",
+        "parent_code": "608"
+    },
+    "23287": {
+        "name": "Quyết Thắng",
+        "type": "phuong",
+        "slug": "quyet-thang",
+        "name_with_type": "Phường Quyết Thắng",
+        "path": "Quyết Thắng, Kon Tum, Kon Tum",
+        "path_with_type": "Phường Quyết Thắng, Thành phố Kon Tum, Tỉnh Kon Tum",
+        "code": "23287",
+        "parent_code": "608"
+    },
+    "23290": {
+        "name": "Trường Chinh",
+        "type": "phuong",
+        "slug": "truong-chinh",
+        "name_with_type": "Phường Trường Chinh",
+        "path": "Trường Chinh, Kon Tum, Kon Tum",
+        "path_with_type": "Phường Trường Chinh, Thành phố Kon Tum, Tỉnh Kon Tum",
+        "code": "23290",
+        "parent_code": "608"
+    },
+    "23293": {
+        "name": "Thắng Lợi",
+        "type": "phuong",
+        "slug": "thang-loi",
+        "name_with_type": "Phường Thắng Lợi",
+        "path": "Thắng Lợi, Kon Tum, Kon Tum",
+        "path_with_type": "Phường Thắng Lợi, Thành phố Kon Tum, Tỉnh Kon Tum",
+        "code": "23293",
+        "parent_code": "608"
+    },
+    "23296": {
+        "name": "Ngô Mây",
+        "type": "phuong",
+        "slug": "ngo-may",
+        "name_with_type": "Phường Ngô Mây",
+        "path": "Ngô Mây, Kon Tum, Kon Tum",
+        "path_with_type": "Phường Ngô Mây, Thành phố Kon Tum, Tỉnh Kon Tum",
+        "code": "23296",
+        "parent_code": "608"
+    },
+    "23299": {
+        "name": "Thống Nhất",
+        "type": "phuong",
+        "slug": "thong-nhat",
+        "name_with_type": "Phường Thống Nhất",
+        "path": "Thống Nhất, Kon Tum, Kon Tum",
+        "path_with_type": "Phường Thống Nhất, Thành phố Kon Tum, Tỉnh Kon Tum",
+        "code": "23299",
+        "parent_code": "608"
+    },
+    "23302": {
+        "name": "Lê Lợi",
+        "type": "phuong",
+        "slug": "le-loi",
+        "name_with_type": "Phường Lê Lợi",
+        "path": "Lê Lợi, Kon Tum, Kon Tum",
+        "path_with_type": "Phường Lê Lợi, Thành phố Kon Tum, Tỉnh Kon Tum",
+        "code": "23302",
+        "parent_code": "608"
+    },
+    "23305": {
+        "name": "Nguyễn Trãi",
+        "type": "phuong",
+        "slug": "nguyen-trai",
+        "name_with_type": "Phường Nguyễn Trãi",
+        "path": "Nguyễn Trãi, Kon Tum, Kon Tum",
+        "path_with_type": "Phường Nguyễn Trãi, Thành phố Kon Tum, Tỉnh Kon Tum",
+        "code": "23305",
+        "parent_code": "608"
+    },
+    "23308": {
+        "name": "Trần Hưng Đạo",
+        "type": "phuong",
+        "slug": "tran-hung-dao",
+        "name_with_type": "Phường Trần Hưng Đạo",
+        "path": "Trần Hưng Đạo, Kon Tum, Kon Tum",
+        "path_with_type": "Phường Trần Hưng Đạo, Thành phố Kon Tum, Tỉnh Kon Tum",
+        "code": "23308",
+        "parent_code": "608"
+    },
+    "23311": {
+        "name": "Đắk Cấm",
+        "type": "xa",
+        "slug": "dak-cam",
+        "name_with_type": "Xã Đắk Cấm",
+        "path": "Đắk Cấm, Kon Tum, Kon Tum",
+        "path_with_type": "Xã Đắk Cấm, Thành phố Kon Tum, Tỉnh Kon Tum",
+        "code": "23311",
+        "parent_code": "608"
+    },
+    "23314": {
+        "name": "Kroong",
+        "type": "xa",
+        "slug": "kroong",
+        "name_with_type": "Xã Kroong",
+        "path": "Kroong, Kon Tum, Kon Tum",
+        "path_with_type": "Xã Kroong, Thành phố Kon Tum, Tỉnh Kon Tum",
+        "code": "23314",
+        "parent_code": "608"
+    },
+    "23317": {
+        "name": "Ngọk Bay",
+        "type": "xa",
+        "slug": "ngok-bay",
+        "name_with_type": "Xã Ngọk Bay",
+        "path": "Ngọk Bay, Kon Tum, Kon Tum",
+        "path_with_type": "Xã Ngọk Bay, Thành phố Kon Tum, Tỉnh Kon Tum",
+        "code": "23317",
+        "parent_code": "608"
+    },
+    "23320": {
+        "name": "Vinh Quang",
+        "type": "xa",
+        "slug": "vinh-quang",
+        "name_with_type": "Xã Vinh Quang",
+        "path": "Vinh Quang, Kon Tum, Kon Tum",
+        "path_with_type": "Xã Vinh Quang, Thành phố Kon Tum, Tỉnh Kon Tum",
+        "code": "23320",
+        "parent_code": "608"
+    },
+    "23323": {
+        "name": "Đắk Blà",
+        "type": "xa",
+        "slug": "dak-bla",
+        "name_with_type": "Xã Đắk Blà",
+        "path": "Đắk Blà, Kon Tum, Kon Tum",
+        "path_with_type": "Xã Đắk Blà, Thành phố Kon Tum, Tỉnh Kon Tum",
+        "code": "23323",
+        "parent_code": "608"
+    },
+    "23326": {
+        "name": "Ia Chim",
+        "type": "xa",
+        "slug": "ia-chim",
+        "name_with_type": "Xã Ia Chim",
+        "path": "Ia Chim, Kon Tum, Kon Tum",
+        "path_with_type": "Xã Ia Chim, Thành phố Kon Tum, Tỉnh Kon Tum",
+        "code": "23326",
+        "parent_code": "608"
+    },
+    "23327": {
+        "name": "Đăk Năng",
+        "type": "xa",
+        "slug": "dak-nang",
+        "name_with_type": "Xã Đăk Năng",
+        "path": "Đăk Năng, Kon Tum, Kon Tum",
+        "path_with_type": "Xã Đăk Năng, Thành phố Kon Tum, Tỉnh Kon Tum",
+        "code": "23327",
+        "parent_code": "608"
+    },
+    "23329": {
+        "name": "Đoàn Kết",
+        "type": "xa",
+        "slug": "doan-ket",
+        "name_with_type": "Xã Đoàn Kết",
+        "path": "Đoàn Kết, Kon Tum, Kon Tum",
+        "path_with_type": "Xã Đoàn Kết, Thành phố Kon Tum, Tỉnh Kon Tum",
+        "code": "23329",
+        "parent_code": "608"
+    },
+    "23332": {
+        "name": "Chư Hreng",
+        "type": "xa",
+        "slug": "chu-hreng",
+        "name_with_type": "Xã Chư Hreng",
+        "path": "Chư Hreng, Kon Tum, Kon Tum",
+        "path_with_type": "Xã Chư Hreng, Thành phố Kon Tum, Tỉnh Kon Tum",
+        "code": "23332",
+        "parent_code": "608"
+    },
+    "23335": {
+        "name": "Đắk Rơ Wa",
+        "type": "xa",
+        "slug": "dak-ro-wa",
+        "name_with_type": "Xã Đắk Rơ Wa",
+        "path": "Đắk Rơ Wa, Kon Tum, Kon Tum",
+        "path_with_type": "Xã Đắk Rơ Wa, Thành phố Kon Tum, Tỉnh Kon Tum",
+        "code": "23335",
+        "parent_code": "608"
+    },
+    "23338": {
+        "name": "Hòa Bình",
+        "type": "xa",
+        "slug": "hoa-binh",
+        "name_with_type": "Xã Hòa Bình",
+        "path": "Hòa Bình, Kon Tum, Kon Tum",
+        "path_with_type": "Xã Hòa Bình, Thành phố Kon Tum, Tỉnh Kon Tum",
+        "code": "23338",
+        "parent_code": "608"
+    }
+}

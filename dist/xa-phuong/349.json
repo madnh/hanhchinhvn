@@ -1,0 +1,182 @@
+{
+    "13321": {
+        "name": "Đồng Văn",
+        "type": "thi-tran",
+        "slug": "dong-van",
+        "name_with_type": "Thị trấn Đồng Văn",
+        "path": "Đồng Văn, Duy Tiên, Hà Nam",
+        "path_with_type": "Thị trấn Đồng Văn, Huyện Duy Tiên, Tỉnh Hà Nam",
+        "code": "13321",
+        "parent_code": "349"
+    },
+    "13324": {
+        "name": "Hòa Mạc",
+        "type": "thi-tran",
+        "slug": "hoa-mac",
+        "name_with_type": "Thị trấn Hòa Mạc",
+        "path": "Hòa Mạc, Duy Tiên, Hà Nam",
+        "path_with_type": "Thị trấn Hòa Mạc, Huyện Duy Tiên, Tỉnh Hà Nam",
+        "code": "13324",
+        "parent_code": "349"
+    },
+    "13327": {
+        "name": "Mộc Bắc",
+        "type": "xa",
+        "slug": "moc-bac",
+        "name_with_type": "Xã Mộc Bắc",
+        "path": "Mộc Bắc, Duy Tiên, Hà Nam",
+        "path_with_type": "Xã Mộc Bắc, Huyện Duy Tiên, Tỉnh Hà Nam",
+        "code": "13327",
+        "parent_code": "349"
+    },
+    "13330": {
+        "name": "Châu Giang",
+        "type": "xa",
+        "slug": "chau-giang",
+        "name_with_type": "Xã Châu Giang",
+        "path": "Châu Giang, Duy Tiên, Hà Nam",
+        "path_with_type": "Xã Châu Giang, Huyện Duy Tiên, Tỉnh Hà Nam",
+        "code": "13330",
+        "parent_code": "349"
+    },
+    "13333": {
+        "name": "Bạch Thượng",
+        "type": "xa",
+        "slug": "bach-thuong",
+        "name_with_type": "Xã Bạch Thượng",
+        "path": "Bạch Thượng, Duy Tiên, Hà Nam",
+        "path_with_type": "Xã Bạch Thượng, Huyện Duy Tiên, Tỉnh Hà Nam",
+        "code": "13333",
+        "parent_code": "349"
+    },
+    "13336": {
+        "name": "Duy Minh",
+        "type": "xa",
+        "slug": "duy-minh",
+        "name_with_type": "Xã Duy Minh",
+        "path": "Duy Minh, Duy Tiên, Hà Nam",
+        "path_with_type": "Xã Duy Minh, Huyện Duy Tiên, Tỉnh Hà Nam",
+        "code": "13336",
+        "parent_code": "349"
+    },
+    "13339": {
+        "name": "Mộc Nam",
+        "type": "xa",
+        "slug": "moc-nam",
+        "name_with_type": "Xã Mộc Nam",
+        "path": "Mộc Nam, Duy Tiên, Hà Nam",
+        "path_with_type": "Xã Mộc Nam, Huyện Duy Tiên, Tỉnh Hà Nam",
+        "code": "13339",
+        "parent_code": "349"
+    },
+    "13342": {
+        "name": "Duy Hải",
+        "type": "xa",
+        "slug": "duy-hai",
+        "name_with_type": "Xã Duy Hải",
+        "path": "Duy Hải, Duy Tiên, Hà Nam",
+        "path_with_type": "Xã Duy Hải, Huyện Duy Tiên, Tỉnh Hà Nam",
+        "code": "13342",
+        "parent_code": "349"
+    },
+    "13345": {
+        "name": "Chuyên Ngoại",
+        "type": "xa",
+        "slug": "chuyen-ngoai",
+        "name_with_type": "Xã Chuyên Ngoại",
+        "path": "Chuyên Ngoại, Duy Tiên, Hà Nam",
+        "path_with_type": "Xã Chuyên Ngoại, Huyện Duy Tiên, Tỉnh Hà Nam",
+        "code": "13345",
+        "parent_code": "349"
+    },
+    "13348": {
+        "name": "Yên Bắc",
+        "type": "xa",
+        "slug": "yen-bac",
+        "name_with_type": "Xã Yên Bắc",
+        "path": "Yên Bắc, Duy Tiên, Hà Nam",
+        "path_with_type": "Xã Yên Bắc, Huyện Duy Tiên, Tỉnh Hà Nam",
+        "code": "13348",
+        "parent_code": "349"
+    },
+    "13351": {
+        "name": "Trác Văn",
+        "type": "xa",
+        "slug": "trac-van",
+        "name_with_type": "Xã Trác Văn",
+        "path": "Trác Văn, Duy Tiên, Hà Nam",
+        "path_with_type": "Xã Trác Văn, Huyện Duy Tiên, Tỉnh Hà Nam",
+        "code": "13351",
+        "parent_code": "349"
+    },
+    "13354": {
+        "name": "Tiên Nội",
+        "type": "xa",
+        "slug": "tien-noi",
+        "name_with_type": "Xã Tiên Nội",
+        "path": "Tiên Nội, Duy Tiên, Hà Nam",
+        "path_with_type": "Xã Tiên Nội, Huyện Duy Tiên, Tỉnh Hà Nam",
+        "code": "13354",
+        "parent_code": "349"
+    },
+    "13357": {
+        "name": "Hoàng Đông",
+        "type": "xa",
+        "slug": "hoang-dong",
+        "name_with_type": "Xã Hoàng Đông",
+        "path": "Hoàng Đông, Duy Tiên, Hà Nam",
+        "path_with_type": "Xã Hoàng Đông, Huyện Duy Tiên, Tỉnh Hà Nam",
+        "code": "13357",
+        "parent_code": "349"
+    },
+    "13360": {
+        "name": "Yên Nam",
+        "type": "xa",
+        "slug": "yen-nam",
+        "name_with_type": "Xã Yên Nam",
+        "path": "Yên Nam, Duy Tiên, Hà Nam",
+        "path_with_type": "Xã Yên Nam, Huyện Duy Tiên, Tỉnh Hà Nam",
+        "code": "13360",
+        "parent_code": "349"
+    },
+    "13363": {
+        "name": "Tiên Ngoại",
+        "type": "xa",
+        "slug": "tien-ngoai",
+        "name_with_type": "Xã Tiên Ngoại",
+        "path": "Tiên Ngoại, Duy Tiên, Hà Nam",
+        "path_with_type": "Xã Tiên Ngoại, Huyện Duy Tiên, Tỉnh Hà Nam",
+        "code": "13363",
+        "parent_code": "349"
+    },
+    "13369": {
+        "name": "Đọi Sơn",
+        "type": "xa",
+        "slug": "doi-son",
+        "name_with_type": "Xã Đọi Sơn",
+        "path": "Đọi Sơn, Duy Tiên, Hà Nam",
+        "path_with_type": "Xã Đọi Sơn, Huyện Duy Tiên, Tỉnh Hà Nam",
+        "code": "13369",
+        "parent_code": "349"
+    },
+    "13375": {
+        "name": "Châu Sơn",
+        "type": "xa",
+        "slug": "chau-son",
+        "name_with_type": "Xã Châu Sơn",
+        "path": "Châu Sơn, Duy Tiên, Hà Nam",
+        "path_with_type": "Xã Châu Sơn, Huyện Duy Tiên, Tỉnh Hà Nam",
+        "code": "13375",
+        "parent_code": "349"
+    },
+    "13378": {
+        "name": "Tiền Phong",
+        "type": "xa",
+        "slug": "tien-phong",
+        "name_with_type": "Xã Tiền Phong",
+        "path": "Tiền Phong, Duy Tiên, Hà Nam",
+        "path_with_type": "Xã Tiền Phong, Huyện Duy Tiên, Tỉnh Hà Nam",
+        "code": "13378",
+        "parent_code": "349"
+    }
+}

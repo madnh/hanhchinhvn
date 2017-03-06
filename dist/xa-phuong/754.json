@@ -1,0 +1,102 @@
+{
+    "26704": {
+        "name": "Phú Mỹ",
+        "type": "thi-tran",
+        "slug": "phu-my",
+        "name_with_type": "Thị trấn Phú Mỹ",
+        "path": "Phú Mỹ, Tân Thành, Bà Rịa - Vũng Tàu",
+        "path_with_type": "Thị trấn Phú Mỹ, Huyện Tân Thành, Tỉnh Bà Rịa - Vũng Tàu",
+        "code": "26704",
+        "parent_code": "754"
+    },
+    "26707": {
+        "name": "Tân Hoà",
+        "type": "xa",
+        "slug": "tan-hoa",
+        "name_with_type": "Xã Tân Hoà",
+        "path": "Tân Hoà, Tân Thành, Bà Rịa - Vũng Tàu",
+        "path_with_type": "Xã Tân Hoà, Huyện Tân Thành, Tỉnh Bà Rịa - Vũng Tàu",
+        "code": "26707",
+        "parent_code": "754"
+    },
+    "26710": {
+        "name": "Tân Hải",
+        "type": "xa",
+        "slug": "tan-hai",
+        "name_with_type": "Xã Tân Hải",
+        "path": "Tân Hải, Tân Thành, Bà Rịa - Vũng Tàu",
+        "path_with_type": "Xã Tân Hải, Huyện Tân Thành, Tỉnh Bà Rịa - Vũng Tàu",
+        "code": "26710",
+        "parent_code": "754"
+    },
+    "26713": {
+        "name": "Phước Hoà",
+        "type": "xa",
+        "slug": "phuoc-hoa",
+        "name_with_type": "Xã Phước Hoà",
+        "path": "Phước Hoà, Tân Thành, Bà Rịa - Vũng Tàu",
+        "path_with_type": "Xã Phước Hoà, Huyện Tân Thành, Tỉnh Bà Rịa - Vũng Tàu",
+        "code": "26713",
+        "parent_code": "754"
+    },
+    "26716": {
+        "name": "Tân Phước",
+        "type": "xa",
+        "slug": "tan-phuoc",
+        "name_with_type": "Xã Tân Phước",
+        "path": "Tân Phước, Tân Thành, Bà Rịa - Vũng Tàu",
+        "path_with_type": "Xã Tân Phước, Huyện Tân Thành, Tỉnh Bà Rịa - Vũng Tàu",
+        "code": "26716",
+        "parent_code": "754"
+    },
+    "26719": {
+        "name": "Mỹ Xuân",
+        "type": "xa",
+        "slug": "my-xuan",
+        "name_with_type": "Xã Mỹ Xuân",
+        "path": "Mỹ Xuân, Tân Thành, Bà Rịa - Vũng Tàu",
+        "path_with_type": "Xã Mỹ Xuân, Huyện Tân Thành, Tỉnh Bà Rịa - Vũng Tàu",
+        "code": "26719",
+        "parent_code": "754"
+    },
+    "26722": {
+        "name": "Sông Xoài",
+        "type": "xa",
+        "slug": "song-xoai",
+        "name_with_type": "Xã Sông Xoài",
+        "path": "Sông Xoài, Tân Thành, Bà Rịa - Vũng Tàu",
+        "path_with_type": "Xã Sông Xoài, Huyện Tân Thành, Tỉnh Bà Rịa - Vũng Tàu",
+        "code": "26722",
+        "parent_code": "754"
+    },
+    "26725": {
+        "name": "Hắc Dịch",
+        "type": "xa",
+        "slug": "hac-dich",
+        "name_with_type": "Xã Hắc Dịch",
+        "path": "Hắc Dịch, Tân Thành, Bà Rịa - Vũng Tàu",
+        "path_with_type": "Xã Hắc Dịch, Huyện Tân Thành, Tỉnh Bà Rịa - Vũng Tàu",
+        "code": "26725",
+        "parent_code": "754"
+    },
+    "26728": {
+        "name": "Châu Pha",
+        "type": "xa",
+        "slug": "chau-pha",
+        "name_with_type": "Xã Châu Pha",
+        "path": "Châu Pha, Tân Thành, Bà Rịa - Vũng Tàu",
+        "path_with_type": "Xã Châu Pha, Huyện Tân Thành, Tỉnh Bà Rịa - Vũng Tàu",
+        "code": "26728",
+        "parent_code": "754"
+    },
+    "26731": {
+        "name": "Tóc Tiên",
+        "type": "xa",
+        "slug": "toc-tien",
+        "name_with_type": "Xã Tóc Tiên",
+        "path": "Tóc Tiên, Tân Thành, Bà Rịa - Vũng Tàu",
+        "path_with_type": "Xã Tóc Tiên, Huyện Tân Thành, Tỉnh Bà Rịa - Vũng Tàu",
+        "code": "26731",
+        "parent_code": "754"
+    }
+}

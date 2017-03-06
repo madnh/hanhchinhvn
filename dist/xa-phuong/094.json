@@ -1,0 +1,92 @@
+{
+    "03124": {
+        "name": "Noong Bua",
+        "type": "phuong",
+        "slug": "noong-bua",
+        "name_with_type": "Phường Noong Bua",
+        "path": "Noong Bua, Điện Biên Phủ, Điện Biên",
+        "path_with_type": "Phường Noong Bua, Thành phố Điện Biên Phủ, Tỉnh Điện Biên",
+        "code": "03124",
+        "parent_code": "094"
+    },
+    "03127": {
+        "name": "Him Lam",
+        "type": "phuong",
+        "slug": "him-lam",
+        "name_with_type": "Phường Him Lam",
+        "path": "Him Lam, Điện Biên Phủ, Điện Biên",
+        "path_with_type": "Phường Him Lam, Thành phố Điện Biên Phủ, Tỉnh Điện Biên",
+        "code": "03127",
+        "parent_code": "094"
+    },
+    "03130": {
+        "name": "Thanh Bình",
+        "type": "phuong",
+        "slug": "thanh-binh",
+        "name_with_type": "Phường Thanh Bình",
+        "path": "Thanh Bình, Điện Biên Phủ, Điện Biên",
+        "path_with_type": "Phường Thanh Bình, Thành phố Điện Biên Phủ, Tỉnh Điện Biên",
+        "code": "03130",
+        "parent_code": "094"
+    },
+    "03133": {
+        "name": "Tân Thanh",
+        "type": "phuong",
+        "slug": "tan-thanh",
+        "name_with_type": "Phường Tân Thanh",
+        "path": "Tân Thanh, Điện Biên Phủ, Điện Biên",
+        "path_with_type": "Phường Tân Thanh, Thành phố Điện Biên Phủ, Tỉnh Điện Biên",
+        "code": "03133",
+        "parent_code": "094"
+    },
+    "03136": {
+        "name": "Mường Thanh",
+        "type": "phuong",
+        "slug": "muong-thanh",
+        "name_with_type": "Phường Mường Thanh",
+        "path": "Mường Thanh, Điện Biên Phủ, Điện Biên",
+        "path_with_type": "Phường Mường Thanh, Thành phố Điện Biên Phủ, Tỉnh Điện Biên",
+        "code": "03136",
+        "parent_code": "094"
+    },
+    "03139": {
+        "name": "Nam Thanh",
+        "type": "phuong",
+        "slug": "nam-thanh",
+        "name_with_type": "Phường Nam Thanh",
+        "path": "Nam Thanh, Điện Biên Phủ, Điện Biên",
+        "path_with_type": "Phường Nam Thanh, Thành phố Điện Biên Phủ, Tỉnh Điện Biên",
+        "code": "03139",
+        "parent_code": "094"
+    },
+    "03142": {
+        "name": "Thanh Trường",
+        "type": "phuong",
+        "slug": "thanh-truong",
+        "name_with_type": "Phường Thanh Trường",
+        "path": "Thanh Trường, Điện Biên Phủ, Điện Biên",
+        "path_with_type": "Phường Thanh Trường, Thành phố Điện Biên Phủ, Tỉnh Điện Biên",
+        "code": "03142",
+        "parent_code": "094"
+    },
+    "03144": {
+        "name": "Tà Lèng",
+        "type": "xa",
+        "slug": "ta-leng",
+        "name_with_type": "Xã Tà Lèng",
+        "path": "Tà Lèng, Điện Biên Phủ, Điện Biên",
+        "path_with_type": "Xã Tà Lèng, Thành phố Điện Biên Phủ, Tỉnh Điện Biên",
+        "code": "03144",
+        "parent_code": "094"
+    },
+    "03145": {
+        "name": "Thanh Minh",
+        "type": "xa",
+        "slug": "thanh-minh",
+        "name_with_type": "Xã Thanh Minh",
+        "path": "Thanh Minh, Điện Biên Phủ, Điện Biên",
+        "path_with_type": "Xã Thanh Minh, Thành phố Điện Biên Phủ, Tỉnh Điện Biên",
+        "code": "03145",
+        "parent_code": "094"
+    }
+}

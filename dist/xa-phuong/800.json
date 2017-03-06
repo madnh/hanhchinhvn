@@ -1,0 +1,112 @@
+{
+    "27865": {
+        "name": "Thạnh Hóa",
+        "type": "thi-tran",
+        "slug": "thanh-hoa",
+        "name_with_type": "Thị trấn Thạnh Hóa",
+        "path": "Thạnh Hóa, Thạnh Hóa, Long An",
+        "path_with_type": "Thị trấn Thạnh Hóa, Huyện Thạnh Hóa, Tỉnh Long An",
+        "code": "27865",
+        "parent_code": "800"
+    },
+    "27868": {
+        "name": "Tân Hiệp",
+        "type": "xa",
+        "slug": "tan-hiep",
+        "name_with_type": "Xã Tân Hiệp",
+        "path": "Tân Hiệp, Thạnh Hóa, Long An",
+        "path_with_type": "Xã Tân Hiệp, Huyện Thạnh Hóa, Tỉnh Long An",
+        "code": "27868",
+        "parent_code": "800"
+    },
+    "27871": {
+        "name": "Thuận Bình",
+        "type": "xa",
+        "slug": "thuan-binh",
+        "name_with_type": "Xã Thuận Bình",
+        "path": "Thuận Bình, Thạnh Hóa, Long An",
+        "path_with_type": "Xã Thuận Bình, Huyện Thạnh Hóa, Tỉnh Long An",
+        "code": "27871",
+        "parent_code": "800"
+    },
+    "27874": {
+        "name": "Thạnh Phước",
+        "type": "xa",
+        "slug": "thanh-phuoc",
+        "name_with_type": "Xã Thạnh Phước",
+        "path": "Thạnh Phước, Thạnh Hóa, Long An",
+        "path_with_type": "Xã Thạnh Phước, Huyện Thạnh Hóa, Tỉnh Long An",
+        "code": "27874",
+        "parent_code": "800"
+    },
+    "27877": {
+        "name": "Thạnh Phú",
+        "type": "xa",
+        "slug": "thanh-phu",
+        "name_with_type": "Xã Thạnh Phú",
+        "path": "Thạnh Phú, Thạnh Hóa, Long An",
+        "path_with_type": "Xã Thạnh Phú, Huyện Thạnh Hóa, Tỉnh Long An",
+        "code": "27877",
+        "parent_code": "800"
+    },
+    "27880": {
+        "name": "Thuận Nghĩa Hòa",
+        "type": "xa",
+        "slug": "thuan-nghia-hoa",
+        "name_with_type": "Xã Thuận Nghĩa Hòa",
+        "path": "Thuận Nghĩa Hòa, Thạnh Hóa, Long An",
+        "path_with_type": "Xã Thuận Nghĩa Hòa, Huyện Thạnh Hóa, Tỉnh Long An",
+        "code": "27880",
+        "parent_code": "800"
+    },
+    "27883": {
+        "name": "Thủy Đông",
+        "type": "xa",
+        "slug": "thuy-dong",
+        "name_with_type": "Xã Thủy Đông",
+        "path": "Thủy Đông, Thạnh Hóa, Long An",
+        "path_with_type": "Xã Thủy Đông, Huyện Thạnh Hóa, Tỉnh Long An",
+        "code": "27883",
+        "parent_code": "800"
+    },
+    "27886": {
+        "name": "Thủy Tây",
+        "type": "xa",
+        "slug": "thuy-tay",
+        "name_with_type": "Xã Thủy Tây",
+        "path": "Thủy Tây, Thạnh Hóa, Long An",
+        "path_with_type": "Xã Thủy Tây, Huyện Thạnh Hóa, Tỉnh Long An",
+        "code": "27886",
+        "parent_code": "800"
+    },
+    "27889": {
+        "name": "Tân Tây",
+        "type": "xa",
+        "slug": "tan-tay",
+        "name_with_type": "Xã Tân Tây",
+        "path": "Tân Tây, Thạnh Hóa, Long An",
+        "path_with_type": "Xã Tân Tây, Huyện Thạnh Hóa, Tỉnh Long An",
+        "code": "27889",
+        "parent_code": "800"
+    },
+    "27892": {
+        "name": "Tân Đông",
+        "type": "xa",
+        "slug": "tan-dong",
+        "name_with_type": "Xã Tân Đông",
+        "path": "Tân Đông, Thạnh Hóa, Long An",
+        "path_with_type": "Xã Tân Đông, Huyện Thạnh Hóa, Tỉnh Long An",
+        "code": "27892",
+        "parent_code": "800"
+    },
+    "27895": {
+        "name": "Thạnh An",
+        "type": "xa",
+        "slug": "thanh-an",
+        "name_with_type": "Xã Thạnh An",
+        "path": "Thạnh An, Thạnh Hóa, Long An",
+        "path_with_type": "Xã Thạnh An, Huyện Thạnh Hóa, Tỉnh Long An",
+        "code": "27895",
+        "parent_code": "800"
+    }
+}

@@ -1,0 +1,162 @@
+{
+    "09784": {
+        "name": "Phùng",
+        "type": "thi-tran",
+        "slug": "phung",
+        "name_with_type": "Thị trấn Phùng",
+        "path": "Phùng, Đan Phượng, Hà Nội",
+        "path_with_type": "Thị trấn Phùng, Huyện Đan Phượng, Thành phố Hà Nội",
+        "code": "09784",
+        "parent_code": "273"
+    },
+    "09787": {
+        "name": "Trung Châu",
+        "type": "xa",
+        "slug": "trung-chau",
+        "name_with_type": "Xã Trung Châu",
+        "path": "Trung Châu, Đan Phượng, Hà Nội",
+        "path_with_type": "Xã Trung Châu, Huyện Đan Phượng, Thành phố Hà Nội",
+        "code": "09787",
+        "parent_code": "273"
+    },
+    "09790": {
+        "name": "Thọ An",
+        "type": "xa",
+        "slug": "tho-an",
+        "name_with_type": "Xã Thọ An",
+        "path": "Thọ An, Đan Phượng, Hà Nội",
+        "path_with_type": "Xã Thọ An, Huyện Đan Phượng, Thành phố Hà Nội",
+        "code": "09790",
+        "parent_code": "273"
+    },
+    "09793": {
+        "name": "Thọ Xuân",
+        "type": "xa",
+        "slug": "tho-xuan",
+        "name_with_type": "Xã Thọ Xuân",
+        "path": "Thọ Xuân, Đan Phượng, Hà Nội",
+        "path_with_type": "Xã Thọ Xuân, Huyện Đan Phượng, Thành phố Hà Nội",
+        "code": "09793",
+        "parent_code": "273"
+    },
+    "09796": {
+        "name": "Hồng Hà",
+        "type": "xa",
+        "slug": "hong-ha",
+        "name_with_type": "Xã Hồng Hà",
+        "path": "Hồng Hà, Đan Phượng, Hà Nội",
+        "path_with_type": "Xã Hồng Hà, Huyện Đan Phượng, Thành phố Hà Nội",
+        "code": "09796",
+        "parent_code": "273"
+    },
+    "09799": {
+        "name": "Liên Hồng",
+        "type": "xa",
+        "slug": "lien-hong",
+        "name_with_type": "Xã Liên Hồng",
+        "path": "Liên Hồng, Đan Phượng, Hà Nội",
+        "path_with_type": "Xã Liên Hồng, Huyện Đan Phượng, Thành phố Hà Nội",
+        "code": "09799",
+        "parent_code": "273"
+    },
+    "09802": {
+        "name": "Liên Hà",
+        "type": "xa",
+        "slug": "lien-ha",
+        "name_with_type": "Xã Liên Hà",
+        "path": "Liên Hà, Đan Phượng, Hà Nội",
+        "path_with_type": "Xã Liên Hà, Huyện Đan Phượng, Thành phố Hà Nội",
+        "code": "09802",
+        "parent_code": "273"
+    },
+    "09805": {
+        "name": "Hạ Mỗ",
+        "type": "xa",
+        "slug": "ha-mo",
+        "name_with_type": "Xã Hạ Mỗ",
+        "path": "Hạ Mỗ, Đan Phượng, Hà Nội",
+        "path_with_type": "Xã Hạ Mỗ, Huyện Đan Phượng, Thành phố Hà Nội",
+        "code": "09805",
+        "parent_code": "273"
+    },
+    "09808": {
+        "name": "Liên Trung",
+        "type": "xa",
+        "slug": "lien-trung",
+        "name_with_type": "Xã Liên Trung",
+        "path": "Liên Trung, Đan Phượng, Hà Nội",
+        "path_with_type": "Xã Liên Trung, Huyện Đan Phượng, Thành phố Hà Nội",
+        "code": "09808",
+        "parent_code": "273"
+    },
+    "09811": {
+        "name": "Phương Đình",
+        "type": "xa",
+        "slug": "phuong-dinh",
+        "name_with_type": "Xã Phương Đình",
+        "path": "Phương Đình, Đan Phượng, Hà Nội",
+        "path_with_type": "Xã Phương Đình, Huyện Đan Phượng, Thành phố Hà Nội",
+        "code": "09811",
+        "parent_code": "273"
+    },
+    "09814": {
+        "name": "Thượng Mỗ",
+        "type": "xa",
+        "slug": "thuong-mo",
+        "name_with_type": "Xã Thượng Mỗ",
+        "path": "Thượng Mỗ, Đan Phượng, Hà Nội",
+        "path_with_type": "Xã Thượng Mỗ, Huyện Đan Phượng, Thành phố Hà Nội",
+        "code": "09814",
+        "parent_code": "273"
+    },
+    "09817": {
+        "name": "Tân Hội",
+        "type": "xa",
+        "slug": "tan-hoi",
+        "name_with_type": "Xã Tân Hội",
+        "path": "Tân Hội, Đan Phượng, Hà Nội",
+        "path_with_type": "Xã Tân Hội, Huyện Đan Phượng, Thành phố Hà Nội",
+        "code": "09817",
+        "parent_code": "273"
+    },
+    "09820": {
+        "name": "Tân Lập",
+        "type": "xa",
+        "slug": "tan-lap",
+        "name_with_type": "Xã Tân Lập",
+        "path": "Tân Lập, Đan Phượng, Hà Nội",
+        "path_with_type": "Xã Tân Lập, Huyện Đan Phượng, Thành phố Hà Nội",
+        "code": "09820",
+        "parent_code": "273"
+    },
+    "09823": {
+        "name": "Đan Phượng",
+        "type": "xa",
+        "slug": "dan-phuong",
+        "name_with_type": "Xã Đan Phượng",
+        "path": "Đan Phượng, Đan Phượng, Hà Nội",
+        "path_with_type": "Xã Đan Phượng, Huyện Đan Phượng, Thành phố Hà Nội",
+        "code": "09823",
+        "parent_code": "273"
+    },
+    "09826": {
+        "name": "Đồng Tháp",
+        "type": "xa",
+        "slug": "dong-thap",
+        "name_with_type": "Xã Đồng Tháp",
+        "path": "Đồng Tháp, Đan Phượng, Hà Nội",
+        "path_with_type": "Xã Đồng Tháp, Huyện Đan Phượng, Thành phố Hà Nội",
+        "code": "09826",
+        "parent_code": "273"
+    },
+    "09829": {
+        "name": "Song Phượng",
+        "type": "xa",
+        "slug": "song-phuong",
+        "name_with_type": "Xã Song Phượng",
+        "path": "Song Phượng, Đan Phượng, Hà Nội",
+        "path_with_type": "Xã Song Phượng, Huyện Đan Phượng, Thành phố Hà Nội",
+        "code": "09829",
+        "parent_code": "273"
+    }
+}

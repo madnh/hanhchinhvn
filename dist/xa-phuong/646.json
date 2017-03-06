@@ -1,0 +1,102 @@
+{
+    "24211": {
+        "name": "Ea Súp",
+        "type": "thi-tran",
+        "slug": "ea-sup",
+        "name_with_type": "Thị trấn Ea Súp",
+        "path": "Ea Súp, Ea Súp, Đắk Lắk",
+        "path_with_type": "Thị trấn Ea Súp, Huyện Ea Súp, Tỉnh Đắk Lắk",
+        "code": "24211",
+        "parent_code": "646"
+    },
+    "24214": {
+        "name": "Ia Lốp",
+        "type": "xa",
+        "slug": "ia-lop",
+        "name_with_type": "Xã Ia Lốp",
+        "path": "Ia Lốp, Ea Súp, Đắk Lắk",
+        "path_with_type": "Xã Ia Lốp, Huyện Ea Súp, Tỉnh Đắk Lắk",
+        "code": "24214",
+        "parent_code": "646"
+    },
+    "24215": {
+        "name": "Ia JLơi",
+        "type": "xa",
+        "slug": "ia-jloi",
+        "name_with_type": "Xã Ia JLơi",
+        "path": "Ia JLơi, Ea Súp, Đắk Lắk",
+        "path_with_type": "Xã Ia JLơi, Huyện Ea Súp, Tỉnh Đắk Lắk",
+        "code": "24215",
+        "parent_code": "646"
+    },
+    "24217": {
+        "name": "Ea Rốk",
+        "type": "xa",
+        "slug": "ea-rok",
+        "name_with_type": "Xã Ea Rốk",
+        "path": "Ea Rốk, Ea Súp, Đắk Lắk",
+        "path_with_type": "Xã Ea Rốk, Huyện Ea Súp, Tỉnh Đắk Lắk",
+        "code": "24217",
+        "parent_code": "646"
+    },
+    "24220": {
+        "name": "Ya Tờ Mốt",
+        "type": "xa",
+        "slug": "ya-to-mot",
+        "name_with_type": "Xã Ya Tờ Mốt",
+        "path": "Ya Tờ Mốt, Ea Súp, Đắk Lắk",
+        "path_with_type": "Xã Ya Tờ Mốt, Huyện Ea Súp, Tỉnh Đắk Lắk",
+        "code": "24220",
+        "parent_code": "646"
+    },
+    "24221": {
+        "name": "Ia RVê",
+        "type": "xa",
+        "slug": "ia-rve",
+        "name_with_type": "Xã Ia RVê",
+        "path": "Ia RVê, Ea Súp, Đắk Lắk",
+        "path_with_type": "Xã Ia RVê, Huyện Ea Súp, Tỉnh Đắk Lắk",
+        "code": "24221",
+        "parent_code": "646"
+    },
+    "24223": {
+        "name": "Ea Lê",
+        "type": "xa",
+        "slug": "ea-le",
+        "name_with_type": "Xã Ea Lê",
+        "path": "Ea Lê, Ea Súp, Đắk Lắk",
+        "path_with_type": "Xã Ea Lê, Huyện Ea Súp, Tỉnh Đắk Lắk",
+        "code": "24223",
+        "parent_code": "646"
+    },
+    "24226": {
+        "name": "Cư KBang",
+        "type": "xa",
+        "slug": "cu-kbang",
+        "name_with_type": "Xã Cư KBang",
+        "path": "Cư KBang, Ea Súp, Đắk Lắk",
+        "path_with_type": "Xã Cư KBang, Huyện Ea Súp, Tỉnh Đắk Lắk",
+        "code": "24226",
+        "parent_code": "646"
+    },
+    "24229": {
+        "name": "Ea Bung",
+        "type": "xa",
+        "slug": "ea-bung",
+        "name_with_type": "Xã Ea Bung",
+        "path": "Ea Bung, Ea Súp, Đắk Lắk",
+        "path_with_type": "Xã Ea Bung, Huyện Ea Súp, Tỉnh Đắk Lắk",
+        "code": "24229",
+        "parent_code": "646"
+    },
+    "24232": {
+        "name": "Cư M'Lan",
+        "type": "xa",
+        "slug": "cu-m-lan",
+        "name_with_type": "Xã Cư M'Lan",
+        "path": "Cư M'Lan, Ea Súp, Đắk Lắk",
+        "path_with_type": "Xã Cư M'Lan, Huyện Ea Súp, Tỉnh Đắk Lắk",
+        "code": "24232",
+        "parent_code": "646"
+    }
+}

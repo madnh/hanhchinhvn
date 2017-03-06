@@ -1,0 +1,142 @@
+{
+    "08494": {
+        "name": "Lâm Thao",
+        "type": "thi-tran",
+        "slug": "lam-thao",
+        "name_with_type": "Thị trấn Lâm Thao",
+        "path": "Lâm Thao, Lâm Thao, Phú Thọ",
+        "path_with_type": "Thị trấn Lâm Thao, Huyện Lâm Thao, Tỉnh Phú Thọ",
+        "code": "08494",
+        "parent_code": "237"
+    },
+    "08497": {
+        "name": "Tiên Kiên",
+        "type": "xa",
+        "slug": "tien-kien",
+        "name_with_type": "Xã Tiên Kiên",
+        "path": "Tiên Kiên, Lâm Thao, Phú Thọ",
+        "path_with_type": "Xã Tiên Kiên, Huyện Lâm Thao, Tỉnh Phú Thọ",
+        "code": "08497",
+        "parent_code": "237"
+    },
+    "08498": {
+        "name": "Hùng Sơn",
+        "type": "thi-tran",
+        "slug": "hung-son",
+        "name_with_type": "Thị trấn Hùng Sơn",
+        "path": "Hùng Sơn, Lâm Thao, Phú Thọ",
+        "path_with_type": "Thị trấn Hùng Sơn, Huyện Lâm Thao, Tỉnh Phú Thọ",
+        "code": "08498",
+        "parent_code": "237"
+    },
+    "08500": {
+        "name": "Xuân Lũng",
+        "type": "xa",
+        "slug": "xuan-lung",
+        "name_with_type": "Xã Xuân Lũng",
+        "path": "Xuân Lũng, Lâm Thao, Phú Thọ",
+        "path_with_type": "Xã Xuân Lũng, Huyện Lâm Thao, Tỉnh Phú Thọ",
+        "code": "08500",
+        "parent_code": "237"
+    },
+    "08509": {
+        "name": "Xuân Huy",
+        "type": "xa",
+        "slug": "xuan-huy",
+        "name_with_type": "Xã Xuân Huy",
+        "path": "Xuân Huy, Lâm Thao, Phú Thọ",
+        "path_with_type": "Xã Xuân Huy, Huyện Lâm Thao, Tỉnh Phú Thọ",
+        "code": "08509",
+        "parent_code": "237"
+    },
+    "08512": {
+        "name": "Thạch Sơn",
+        "type": "xa",
+        "slug": "thach-son",
+        "name_with_type": "Xã Thạch Sơn",
+        "path": "Thạch Sơn, Lâm Thao, Phú Thọ",
+        "path_with_type": "Xã Thạch Sơn, Huyện Lâm Thao, Tỉnh Phú Thọ",
+        "code": "08512",
+        "parent_code": "237"
+    },
+    "08518": {
+        "name": "Sơn Vi",
+        "type": "xa",
+        "slug": "son-vi",
+        "name_with_type": "Xã Sơn Vi",
+        "path": "Sơn Vi, Lâm Thao, Phú Thọ",
+        "path_with_type": "Xã Sơn Vi, Huyện Lâm Thao, Tỉnh Phú Thọ",
+        "code": "08518",
+        "parent_code": "237"
+    },
+    "08521": {
+        "name": "Hợp Hải",
+        "type": "xa",
+        "slug": "hop-hai",
+        "name_with_type": "Xã Hợp Hải",
+        "path": "Hợp Hải, Lâm Thao, Phú Thọ",
+        "path_with_type": "Xã Hợp Hải, Huyện Lâm Thao, Tỉnh Phú Thọ",
+        "code": "08521",
+        "parent_code": "237"
+    },
+    "08524": {
+        "name": "Sơn Dương",
+        "type": "xa",
+        "slug": "son-duong",
+        "name_with_type": "Xã Sơn Dương",
+        "path": "Sơn Dương, Lâm Thao, Phú Thọ",
+        "path_with_type": "Xã Sơn Dương, Huyện Lâm Thao, Tỉnh Phú Thọ",
+        "code": "08524",
+        "parent_code": "237"
+    },
+    "08527": {
+        "name": "Cao Xá",
+        "type": "xa",
+        "slug": "cao-xa",
+        "name_with_type": "Xã Cao Xá",
+        "path": "Cao Xá, Lâm Thao, Phú Thọ",
+        "path_with_type": "Xã Cao Xá, Huyện Lâm Thao, Tỉnh Phú Thọ",
+        "code": "08527",
+        "parent_code": "237"
+    },
+    "08530": {
+        "name": "Kinh Kệ",
+        "type": "xa",
+        "slug": "kinh-ke",
+        "name_with_type": "Xã Kinh Kệ",
+        "path": "Kinh Kệ, Lâm Thao, Phú Thọ",
+        "path_with_type": "Xã Kinh Kệ, Huyện Lâm Thao, Tỉnh Phú Thọ",
+        "code": "08530",
+        "parent_code": "237"
+    },
+    "08533": {
+        "name": "Vĩnh Lại",
+        "type": "xa",
+        "slug": "vinh-lai",
+        "name_with_type": "Xã Vĩnh Lại",
+        "path": "Vĩnh Lại, Lâm Thao, Phú Thọ",
+        "path_with_type": "Xã Vĩnh Lại, Huyện Lâm Thao, Tỉnh Phú Thọ",
+        "code": "08533",
+        "parent_code": "237"
+    },
+    "08536": {
+        "name": "Tứ Xã",
+        "type": "xa",
+        "slug": "tu-xa",
+        "name_with_type": "Xã Tứ Xã",
+        "path": "Tứ Xã, Lâm Thao, Phú Thọ",
+        "path_with_type": "Xã Tứ Xã, Huyện Lâm Thao, Tỉnh Phú Thọ",
+        "code": "08536",
+        "parent_code": "237"
+    },
+    "08539": {
+        "name": "Bản Nguyên",
+        "type": "xa",
+        "slug": "ban-nguyen",
+        "name_with_type": "Xã Bản Nguyên",
+        "path": "Bản Nguyên, Lâm Thao, Phú Thọ",
+        "path_with_type": "Xã Bản Nguyên, Huyện Lâm Thao, Tỉnh Phú Thọ",
+        "code": "08539",
+        "parent_code": "237"
+    }
+}

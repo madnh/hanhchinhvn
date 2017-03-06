@@ -1,0 +1,222 @@
+{
+    "02020": {
+        "name": "Bằng Lũng",
+        "type": "thi-tran",
+        "slug": "bang-lung",
+        "name_with_type": "Thị trấn Bằng Lũng",
+        "path": "Bằng Lũng, Chợ Đồn, Bắc Kạn",
+        "path_with_type": "Thị trấn Bằng Lũng, Huyện Chợ Đồn, Tỉnh Bắc Kạn",
+        "code": "02020",
+        "parent_code": "064"
+    },
+    "02023": {
+        "name": "Xuân Lạc",
+        "type": "xa",
+        "slug": "xuan-lac",
+        "name_with_type": "Xã Xuân Lạc",
+        "path": "Xuân Lạc, Chợ Đồn, Bắc Kạn",
+        "path_with_type": "Xã Xuân Lạc, Huyện Chợ Đồn, Tỉnh Bắc Kạn",
+        "code": "02023",
+        "parent_code": "064"
+    },
+    "02026": {
+        "name": "Nam Cường",
+        "type": "xa",
+        "slug": "nam-cuong",
+        "name_with_type": "Xã Nam Cường",
+        "path": "Nam Cường, Chợ Đồn, Bắc Kạn",
+        "path_with_type": "Xã Nam Cường, Huyện Chợ Đồn, Tỉnh Bắc Kạn",
+        "code": "02026",
+        "parent_code": "064"
+    },
+    "02029": {
+        "name": "Đồng Lạc",
+        "type": "xa",
+        "slug": "dong-lac",
+        "name_with_type": "Xã Đồng Lạc",
+        "path": "Đồng Lạc, Chợ Đồn, Bắc Kạn",
+        "path_with_type": "Xã Đồng Lạc, Huyện Chợ Đồn, Tỉnh Bắc Kạn",
+        "code": "02029",
+        "parent_code": "064"
+    },
+    "02032": {
+        "name": "Tân Lập",
+        "type": "xa",
+        "slug": "tan-lap",
+        "name_with_type": "Xã Tân Lập",
+        "path": "Tân Lập, Chợ Đồn, Bắc Kạn",
+        "path_with_type": "Xã Tân Lập, Huyện Chợ Đồn, Tỉnh Bắc Kạn",
+        "code": "02032",
+        "parent_code": "064"
+    },
+    "02035": {
+        "name": "Bản Thi",
+        "type": "xa",
+        "slug": "ban-thi",
+        "name_with_type": "Xã Bản Thi",
+        "path": "Bản Thi, Chợ Đồn, Bắc Kạn",
+        "path_with_type": "Xã Bản Thi, Huyện Chợ Đồn, Tỉnh Bắc Kạn",
+        "code": "02035",
+        "parent_code": "064"
+    },
+    "02038": {
+        "name": "Quảng Bạch",
+        "type": "xa",
+        "slug": "quang-bach",
+        "name_with_type": "Xã Quảng Bạch",
+        "path": "Quảng Bạch, Chợ Đồn, Bắc Kạn",
+        "path_with_type": "Xã Quảng Bạch, Huyện Chợ Đồn, Tỉnh Bắc Kạn",
+        "code": "02038",
+        "parent_code": "064"
+    },
+    "02041": {
+        "name": "Bằng Phúc",
+        "type": "xa",
+        "slug": "bang-phuc",
+        "name_with_type": "Xã Bằng Phúc",
+        "path": "Bằng Phúc, Chợ Đồn, Bắc Kạn",
+        "path_with_type": "Xã Bằng Phúc, Huyện Chợ Đồn, Tỉnh Bắc Kạn",
+        "code": "02041",
+        "parent_code": "064"
+    },
+    "02044": {
+        "name": "Yên Thịnh",
+        "type": "xa",
+        "slug": "yen-thinh",
+        "name_with_type": "Xã Yên Thịnh",
+        "path": "Yên Thịnh, Chợ Đồn, Bắc Kạn",
+        "path_with_type": "Xã Yên Thịnh, Huyện Chợ Đồn, Tỉnh Bắc Kạn",
+        "code": "02044",
+        "parent_code": "064"
+    },
+    "02047": {
+        "name": "Yên Thượng",
+        "type": "xa",
+        "slug": "yen-thuong",
+        "name_with_type": "Xã Yên Thượng",
+        "path": "Yên Thượng, Chợ Đồn, Bắc Kạn",
+        "path_with_type": "Xã Yên Thượng, Huyện Chợ Đồn, Tỉnh Bắc Kạn",
+        "code": "02047",
+        "parent_code": "064"
+    },
+    "02050": {
+        "name": "Phương Viên",
+        "type": "xa",
+        "slug": "phuong-vien",
+        "name_with_type": "Xã Phương Viên",
+        "path": "Phương Viên, Chợ Đồn, Bắc Kạn",
+        "path_with_type": "Xã Phương Viên, Huyện Chợ Đồn, Tỉnh Bắc Kạn",
+        "code": "02050",
+        "parent_code": "064"
+    },
+    "02053": {
+        "name": "Ngọc Phái",
+        "type": "xa",
+        "slug": "ngoc-phai",
+        "name_with_type": "Xã Ngọc Phái",
+        "path": "Ngọc Phái, Chợ Đồn, Bắc Kạn",
+        "path_with_type": "Xã Ngọc Phái, Huyện Chợ Đồn, Tỉnh Bắc Kạn",
+        "code": "02053",
+        "parent_code": "064"
+    },
+    "02056": {
+        "name": "Rã Bản",
+        "type": "xa",
+        "slug": "ra-ban",
+        "name_with_type": "Xã Rã Bản",
+        "path": "Rã Bản, Chợ Đồn, Bắc Kạn",
+        "path_with_type": "Xã Rã Bản, Huyện Chợ Đồn, Tỉnh Bắc Kạn",
+        "code": "02056",
+        "parent_code": "064"
+    },
+    "02059": {
+        "name": "Đông Viên",
+        "type": "xa",
+        "slug": "dong-vien",
+        "name_with_type": "Xã Đông Viên",
+        "path": "Đông Viên, Chợ Đồn, Bắc Kạn",
+        "path_with_type": "Xã Đông Viên, Huyện Chợ Đồn, Tỉnh Bắc Kạn",
+        "code": "02059",
+        "parent_code": "064"
+    },
+    "02062": {
+        "name": "Lương Bằng",
+        "type": "xa",
+        "slug": "luong-bang",
+        "name_with_type": "Xã Lương Bằng",
+        "path": "Lương Bằng, Chợ Đồn, Bắc Kạn",
+        "path_with_type": "Xã Lương Bằng, Huyện Chợ Đồn, Tỉnh Bắc Kạn",
+        "code": "02062",
+        "parent_code": "064"
+    },
+    "02065": {
+        "name": "Bằng Lãng",
+        "type": "xa",
+        "slug": "bang-lang",
+        "name_with_type": "Xã Bằng Lãng",
+        "path": "Bằng Lãng, Chợ Đồn, Bắc Kạn",
+        "path_with_type": "Xã Bằng Lãng, Huyện Chợ Đồn, Tỉnh Bắc Kạn",
+        "code": "02065",
+        "parent_code": "064"
+    },
+    "02068": {
+        "name": "Đại Sảo",
+        "type": "xa",
+        "slug": "dai-sao",
+        "name_with_type": "Xã Đại Sảo",
+        "path": "Đại Sảo, Chợ Đồn, Bắc Kạn",
+        "path_with_type": "Xã Đại Sảo, Huyện Chợ Đồn, Tỉnh Bắc Kạn",
+        "code": "02068",
+        "parent_code": "064"
+    },
+    "02071": {
+        "name": "Nghĩa Tá",
+        "type": "xa",
+        "slug": "nghia-ta",
+        "name_with_type": "Xã Nghĩa Tá",
+        "path": "Nghĩa Tá, Chợ Đồn, Bắc Kạn",
+        "path_with_type": "Xã Nghĩa Tá, Huyện Chợ Đồn, Tỉnh Bắc Kạn",
+        "code": "02071",
+        "parent_code": "064"
+    },
+    "02074": {
+        "name": "Phong Huân",
+        "type": "xa",
+        "slug": "phong-huan",
+        "name_with_type": "Xã Phong Huân",
+        "path": "Phong Huân, Chợ Đồn, Bắc Kạn",
+        "path_with_type": "Xã Phong Huân, Huyện Chợ Đồn, Tỉnh Bắc Kạn",
+        "code": "02074",
+        "parent_code": "064"
+    },
+    "02077": {
+        "name": "Yên Mỹ",
+        "type": "xa",
+        "slug": "yen-my",
+        "name_with_type": "Xã Yên Mỹ",
+        "path": "Yên Mỹ, Chợ Đồn, Bắc Kạn",
+        "path_with_type": "Xã Yên Mỹ, Huyện Chợ Đồn, Tỉnh Bắc Kạn",
+        "code": "02077",
+        "parent_code": "064"
+    },
+    "02080": {
+        "name": "Bình Trung",
+        "type": "xa",
+        "slug": "binh-trung",
+        "name_with_type": "Xã Bình Trung",
+        "path": "Bình Trung, Chợ Đồn, Bắc Kạn",
+        "path_with_type": "Xã Bình Trung, Huyện Chợ Đồn, Tỉnh Bắc Kạn",
+        "code": "02080",
+        "parent_code": "064"
+    },
+    "02083": {
+        "name": "Yên Nhuận",
+        "type": "xa",
+        "slug": "yen-nhuan",
+        "name_with_type": "Xã Yên Nhuận",
+        "path": "Yên Nhuận, Chợ Đồn, Bắc Kạn",
+        "path_with_type": "Xã Yên Nhuận, Huyện Chợ Đồn, Tỉnh Bắc Kạn",
+        "code": "02083",
+        "parent_code": "064"
+    }
+}

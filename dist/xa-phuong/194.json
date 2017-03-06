@@ -1,0 +1,172 @@
+{
+    "06709": {
+        "name": "Ka Long",
+        "type": "phuong",
+        "slug": "ka-long",
+        "name_with_type": "Phường Ka Long",
+        "path": "Ka Long, Móng Cái, Quảng Ninh",
+        "path_with_type": "Phường Ka Long, Thành phố Móng Cái, Tỉnh Quảng Ninh",
+        "code": "06709",
+        "parent_code": "194"
+    },
+    "06712": {
+        "name": "Trần Phú",
+        "type": "phuong",
+        "slug": "tran-phu",
+        "name_with_type": "Phường Trần Phú",
+        "path": "Trần Phú, Móng Cái, Quảng Ninh",
+        "path_with_type": "Phường Trần Phú, Thành phố Móng Cái, Tỉnh Quảng Ninh",
+        "code": "06712",
+        "parent_code": "194"
+    },
+    "06715": {
+        "name": "Ninh Dương",
+        "type": "phuong",
+        "slug": "ninh-duong",
+        "name_with_type": "Phường Ninh Dương",
+        "path": "Ninh Dương, Móng Cái, Quảng Ninh",
+        "path_with_type": "Phường Ninh Dương, Thành phố Móng Cái, Tỉnh Quảng Ninh",
+        "code": "06715",
+        "parent_code": "194"
+    },
+    "06718": {
+        "name": "Hoà Lạc",
+        "type": "phuong",
+        "slug": "hoa-lac",
+        "name_with_type": "Phường Hoà Lạc",
+        "path": "Hoà Lạc, Móng Cái, Quảng Ninh",
+        "path_with_type": "Phường Hoà Lạc, Thành phố Móng Cái, Tỉnh Quảng Ninh",
+        "code": "06718",
+        "parent_code": "194"
+    },
+    "06721": {
+        "name": "Trà Cổ",
+        "type": "phuong",
+        "slug": "tra-co",
+        "name_with_type": "Phường Trà Cổ",
+        "path": "Trà Cổ, Móng Cái, Quảng Ninh",
+        "path_with_type": "Phường Trà Cổ, Thành phố Móng Cái, Tỉnh Quảng Ninh",
+        "code": "06721",
+        "parent_code": "194"
+    },
+    "06724": {
+        "name": "Hải Sơn",
+        "type": "xa",
+        "slug": "hai-son",
+        "name_with_type": "Xã Hải Sơn",
+        "path": "Hải Sơn, Móng Cái, Quảng Ninh",
+        "path_with_type": "Xã Hải Sơn, Thành phố Móng Cái, Tỉnh Quảng Ninh",
+        "code": "06724",
+        "parent_code": "194"
+    },
+    "06727": {
+        "name": "Bắc Sơn",
+        "type": "xa",
+        "slug": "bac-son",
+        "name_with_type": "Xã Bắc Sơn",
+        "path": "Bắc Sơn, Móng Cái, Quảng Ninh",
+        "path_with_type": "Xã Bắc Sơn, Thành phố Móng Cái, Tỉnh Quảng Ninh",
+        "code": "06727",
+        "parent_code": "194"
+    },
+    "06730": {
+        "name": "Hải Đông",
+        "type": "xa",
+        "slug": "hai-dong",
+        "name_with_type": "Xã Hải Đông",
+        "path": "Hải Đông, Móng Cái, Quảng Ninh",
+        "path_with_type": "Xã Hải Đông, Thành phố Móng Cái, Tỉnh Quảng Ninh",
+        "code": "06730",
+        "parent_code": "194"
+    },
+    "06733": {
+        "name": "Hải Tiến",
+        "type": "xa",
+        "slug": "hai-tien",
+        "name_with_type": "Xã Hải Tiến",
+        "path": "Hải Tiến, Móng Cái, Quảng Ninh",
+        "path_with_type": "Xã Hải Tiến, Thành phố Móng Cái, Tỉnh Quảng Ninh",
+        "code": "06733",
+        "parent_code": "194"
+    },
+    "06736": {
+        "name": "Hải Yên",
+        "type": "phuong",
+        "slug": "hai-yen",
+        "name_with_type": "Phường Hải Yên",
+        "path": "Hải Yên, Móng Cái, Quảng Ninh",
+        "path_with_type": "Phường Hải Yên, Thành phố Móng Cái, Tỉnh Quảng Ninh",
+        "code": "06736",
+        "parent_code": "194"
+    },
+    "06739": {
+        "name": "Quảng Nghĩa",
+        "type": "xa",
+        "slug": "quang-nghia",
+        "name_with_type": "Xã Quảng Nghĩa",
+        "path": "Quảng Nghĩa, Móng Cái, Quảng Ninh",
+        "path_with_type": "Xã Quảng Nghĩa, Thành phố Móng Cái, Tỉnh Quảng Ninh",
+        "code": "06739",
+        "parent_code": "194"
+    },
+    "06742": {
+        "name": "Hải Hoà",
+        "type": "phuong",
+        "slug": "hai-hoa",
+        "name_with_type": "Phường Hải Hoà",
+        "path": "Hải Hoà, Móng Cái, Quảng Ninh",
+        "path_with_type": "Phường Hải Hoà, Thành phố Móng Cái, Tỉnh Quảng Ninh",
+        "code": "06742",
+        "parent_code": "194"
+    },
+    "06745": {
+        "name": "Hải Xuân",
+        "type": "xa",
+        "slug": "hai-xuan",
+        "name_with_type": "Xã Hải Xuân",
+        "path": "Hải Xuân, Móng Cái, Quảng Ninh",
+        "path_with_type": "Xã Hải Xuân, Thành phố Móng Cái, Tỉnh Quảng Ninh",
+        "code": "06745",
+        "parent_code": "194"
+    },
+    "06748": {
+        "name": "Vạn Ninh",
+        "type": "xa",
+        "slug": "van-ninh",
+        "name_with_type": "Xã Vạn Ninh",
+        "path": "Vạn Ninh, Móng Cái, Quảng Ninh",
+        "path_with_type": "Xã Vạn Ninh, Thành phố Móng Cái, Tỉnh Quảng Ninh",
+        "code": "06748",
+        "parent_code": "194"
+    },
+    "06751": {
+        "name": "Bình Ngọc",
+        "type": "phuong",
+        "slug": "binh-ngoc",
+        "name_with_type": "Phường Bình Ngọc",
+        "path": "Bình Ngọc, Móng Cái, Quảng Ninh",
+        "path_with_type": "Phường Bình Ngọc, Thành phố Móng Cái, Tỉnh Quảng Ninh",
+        "code": "06751",
+        "parent_code": "194"
+    },
+    "06754": {
+        "name": "Vĩnh Trung",
+        "type": "xa",
+        "slug": "vinh-trung",
+        "name_with_type": "Xã Vĩnh Trung",
+        "path": "Vĩnh Trung, Móng Cái, Quảng Ninh",
+        "path_with_type": "Xã Vĩnh Trung, Thành phố Móng Cái, Tỉnh Quảng Ninh",
+        "code": "06754",
+        "parent_code": "194"
+    },
+    "06757": {
+        "name": "Vĩnh Thực",
+        "type": "xa",
+        "slug": "vinh-thuc",
+        "name_with_type": "Xã Vĩnh Thực",
+        "path": "Vĩnh Thực, Móng Cái, Quảng Ninh",
+        "path_with_type": "Xã Vĩnh Thực, Thành phố Móng Cái, Tỉnh Quảng Ninh",
+        "code": "06757",
+        "parent_code": "194"
+    }
+}

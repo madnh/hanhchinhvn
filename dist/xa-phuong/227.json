@@ -1,0 +1,232 @@
+{
+    "07888": {
+        "name": "Dữu Lâu",
+        "type": "phuong",
+        "slug": "duu-lau",
+        "name_with_type": "Phường Dữu Lâu",
+        "path": "Dữu Lâu, Việt Trì, Phú Thọ",
+        "path_with_type": "Phường Dữu Lâu, Thành phố Việt Trì, Tỉnh Phú Thọ",
+        "code": "07888",
+        "parent_code": "227"
+    },
+    "07891": {
+        "name": "Vân Cơ",
+        "type": "phuong",
+        "slug": "van-co",
+        "name_with_type": "Phường Vân Cơ",
+        "path": "Vân Cơ, Việt Trì, Phú Thọ",
+        "path_with_type": "Phường Vân Cơ, Thành phố Việt Trì, Tỉnh Phú Thọ",
+        "code": "07891",
+        "parent_code": "227"
+    },
+    "07894": {
+        "name": "Nông Trang",
+        "type": "phuong",
+        "slug": "nong-trang",
+        "name_with_type": "Phường Nông Trang",
+        "path": "Nông Trang, Việt Trì, Phú Thọ",
+        "path_with_type": "Phường Nông Trang, Thành phố Việt Trì, Tỉnh Phú Thọ",
+        "code": "07894",
+        "parent_code": "227"
+    },
+    "07897": {
+        "name": "Tân Dân",
+        "type": "phuong",
+        "slug": "tan-dan",
+        "name_with_type": "Phường Tân Dân",
+        "path": "Tân Dân, Việt Trì, Phú Thọ",
+        "path_with_type": "Phường Tân Dân, Thành phố Việt Trì, Tỉnh Phú Thọ",
+        "code": "07897",
+        "parent_code": "227"
+    },
+    "07900": {
+        "name": "Gia Cẩm",
+        "type": "phuong",
+        "slug": "gia-cam",
+        "name_with_type": "Phường Gia Cẩm",
+        "path": "Gia Cẩm, Việt Trì, Phú Thọ",
+        "path_with_type": "Phường Gia Cẩm, Thành phố Việt Trì, Tỉnh Phú Thọ",
+        "code": "07900",
+        "parent_code": "227"
+    },
+    "07903": {
+        "name": "Tiên Cát",
+        "type": "phuong",
+        "slug": "tien-cat",
+        "name_with_type": "Phường Tiên Cát",
+        "path": "Tiên Cát, Việt Trì, Phú Thọ",
+        "path_with_type": "Phường Tiên Cát, Thành phố Việt Trì, Tỉnh Phú Thọ",
+        "code": "07903",
+        "parent_code": "227"
+    },
+    "07906": {
+        "name": "Thọ Sơn",
+        "type": "phuong",
+        "slug": "tho-son",
+        "name_with_type": "Phường Thọ Sơn",
+        "path": "Thọ Sơn, Việt Trì, Phú Thọ",
+        "path_with_type": "Phường Thọ Sơn, Thành phố Việt Trì, Tỉnh Phú Thọ",
+        "code": "07906",
+        "parent_code": "227"
+    },
+    "07909": {
+        "name": "Thanh Miếu",
+        "type": "phuong",
+        "slug": "thanh-mieu",
+        "name_with_type": "Phường Thanh Miếu",
+        "path": "Thanh Miếu, Việt Trì, Phú Thọ",
+        "path_with_type": "Phường Thanh Miếu, Thành phố Việt Trì, Tỉnh Phú Thọ",
+        "code": "07909",
+        "parent_code": "227"
+    },
+    "07912": {
+        "name": "Bạch Hạc",
+        "type": "phuong",
+        "slug": "bach-hac",
+        "name_with_type": "Phường Bạch Hạc",
+        "path": "Bạch Hạc, Việt Trì, Phú Thọ",
+        "path_with_type": "Phường Bạch Hạc, Thành phố Việt Trì, Tỉnh Phú Thọ",
+        "code": "07912",
+        "parent_code": "227"
+    },
+    "07915": {
+        "name": "Bến Gót",
+        "type": "phuong",
+        "slug": "ben-got",
+        "name_with_type": "Phường Bến Gót",
+        "path": "Bến Gót, Việt Trì, Phú Thọ",
+        "path_with_type": "Phường Bến Gót, Thành phố Việt Trì, Tỉnh Phú Thọ",
+        "code": "07915",
+        "parent_code": "227"
+    },
+    "07918": {
+        "name": "Vân Phú",
+        "type": "phuong",
+        "slug": "van-phu",
+        "name_with_type": "Phường Vân Phú",
+        "path": "Vân Phú, Việt Trì, Phú Thọ",
+        "path_with_type": "Phường Vân Phú, Thành phố Việt Trì, Tỉnh Phú Thọ",
+        "code": "07918",
+        "parent_code": "227"
+    },
+    "07921": {
+        "name": "Phượng Lâu",
+        "type": "xa",
+        "slug": "phuong-lau",
+        "name_with_type": "Xã Phượng Lâu",
+        "path": "Phượng Lâu, Việt Trì, Phú Thọ",
+        "path_with_type": "Xã Phượng Lâu, Thành phố Việt Trì, Tỉnh Phú Thọ",
+        "code": "07921",
+        "parent_code": "227"
+    },
+    "07924": {
+        "name": "Thụy Vân",
+        "type": "xa",
+        "slug": "thuy-van",
+        "name_with_type": "Xã Thụy Vân",
+        "path": "Thụy Vân, Việt Trì, Phú Thọ",
+        "path_with_type": "Xã Thụy Vân, Thành phố Việt Trì, Tỉnh Phú Thọ",
+        "code": "07924",
+        "parent_code": "227"
+    },
+    "07927": {
+        "name": "Minh Phương",
+        "type": "phuong",
+        "slug": "minh-phuong",
+        "name_with_type": "Phường Minh Phương",
+        "path": "Minh Phương, Việt Trì, Phú Thọ",
+        "path_with_type": "Phường Minh Phương, Thành phố Việt Trì, Tỉnh Phú Thọ",
+        "code": "07927",
+        "parent_code": "227"
+    },
+    "07930": {
+        "name": "Trưng Vương",
+        "type": "xa",
+        "slug": "trung-vuong",
+        "name_with_type": "Xã Trưng Vương",
+        "path": "Trưng Vương, Việt Trì, Phú Thọ",
+        "path_with_type": "Xã Trưng Vương, Thành phố Việt Trì, Tỉnh Phú Thọ",
+        "code": "07930",
+        "parent_code": "227"
+    },
+    "07933": {
+        "name": "Minh Nông",
+        "type": "phuong",
+        "slug": "minh-nong",
+        "name_with_type": "Phường Minh Nông",
+        "path": "Minh Nông, Việt Trì, Phú Thọ",
+        "path_with_type": "Phường Minh Nông, Thành phố Việt Trì, Tỉnh Phú Thọ",
+        "code": "07933",
+        "parent_code": "227"
+    },
+    "07936": {
+        "name": "Sông Lô",
+        "type": "xa",
+        "slug": "song-lo",
+        "name_with_type": "Xã Sông Lô",
+        "path": "Sông Lô, Việt Trì, Phú Thọ",
+        "path_with_type": "Xã Sông Lô, Thành phố Việt Trì, Tỉnh Phú Thọ",
+        "code": "07936",
+        "parent_code": "227"
+    },
+    "08281": {
+        "name": "Kim Đức",
+        "type": "xa",
+        "slug": "kim-duc",
+        "name_with_type": "Xã Kim Đức",
+        "path": "Kim Đức, Việt Trì, Phú Thọ",
+        "path_with_type": "Xã Kim Đức, Thành phố Việt Trì, Tỉnh Phú Thọ",
+        "code": "08281",
+        "parent_code": "227"
+    },
+    "08287": {
+        "name": "Hùng Lô",
+        "type": "xa",
+        "slug": "hung-lo",
+        "name_with_type": "Xã Hùng Lô",
+        "path": "Hùng Lô, Việt Trì, Phú Thọ",
+        "path_with_type": "Xã Hùng Lô, Thành phố Việt Trì, Tỉnh Phú Thọ",
+        "code": "08287",
+        "parent_code": "227"
+    },
+    "08503": {
+        "name": "Hy Cương",
+        "type": "xa",
+        "slug": "hy-cuong",
+        "name_with_type": "Xã Hy Cương",
+        "path": "Hy Cương, Việt Trì, Phú Thọ",
+        "path_with_type": "Xã Hy Cương, Thành phố Việt Trì, Tỉnh Phú Thọ",
+        "code": "08503",
+        "parent_code": "227"
+    },
+    "08506": {
+        "name": "Chu Hóa",
+        "type": "xa",
+        "slug": "chu-hoa",
+        "name_with_type": "Xã Chu Hóa",
+        "path": "Chu Hóa, Việt Trì, Phú Thọ",
+        "path_with_type": "Xã Chu Hóa, Thành phố Việt Trì, Tỉnh Phú Thọ",
+        "code": "08506",
+        "parent_code": "227"
+    },
+    "08515": {
+        "name": "Thanh Đình",
+        "type": "xa",
+        "slug": "thanh-dinh",
+        "name_with_type": "Xã Thanh Đình",
+        "path": "Thanh Đình, Việt Trì, Phú Thọ",
+        "path_with_type": "Xã Thanh Đình, Thành phố Việt Trì, Tỉnh Phú Thọ",
+        "code": "08515",
+        "parent_code": "227"
+    },
+    "09622": {
+        "name": "Tân Đức",
+        "type": "xa",
+        "slug": "tan-duc",
+        "name_with_type": "Xã Tân Đức",
+        "path": "Tân Đức, Việt Trì, Phú Thọ",
+        "path_with_type": "Xã Tân Đức, Thành phố Việt Trì, Tỉnh Phú Thọ",
+        "code": "09622",
+        "parent_code": "227"
+    }
+}

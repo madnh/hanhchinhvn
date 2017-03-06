@@ -1,0 +1,222 @@
+{
+    "19429": {
+        "name": "Khe Sanh",
+        "type": "thi-tran",
+        "slug": "khe-sanh",
+        "name_with_type": "Thị trấn Khe Sanh",
+        "path": "Khe Sanh, Hướng Hóa, Quảng Trị",
+        "path_with_type": "Thị trấn Khe Sanh, Huyện Hướng Hóa, Tỉnh Quảng Trị",
+        "code": "19429",
+        "parent_code": "465"
+    },
+    "19432": {
+        "name": "Lao Bảo",
+        "type": "thi-tran",
+        "slug": "lao-bao",
+        "name_with_type": "Thị trấn Lao Bảo",
+        "path": "Lao Bảo, Hướng Hóa, Quảng Trị",
+        "path_with_type": "Thị trấn Lao Bảo, Huyện Hướng Hóa, Tỉnh Quảng Trị",
+        "code": "19432",
+        "parent_code": "465"
+    },
+    "19435": {
+        "name": "Hướng Lập",
+        "type": "xa",
+        "slug": "huong-lap",
+        "name_with_type": "Xã Hướng Lập",
+        "path": "Hướng Lập, Hướng Hóa, Quảng Trị",
+        "path_with_type": "Xã Hướng Lập, Huyện Hướng Hóa, Tỉnh Quảng Trị",
+        "code": "19435",
+        "parent_code": "465"
+    },
+    "19438": {
+        "name": "Hướng Việt",
+        "type": "xa",
+        "slug": "huong-viet",
+        "name_with_type": "Xã Hướng Việt",
+        "path": "Hướng Việt, Hướng Hóa, Quảng Trị",
+        "path_with_type": "Xã Hướng Việt, Huyện Hướng Hóa, Tỉnh Quảng Trị",
+        "code": "19438",
+        "parent_code": "465"
+    },
+    "19441": {
+        "name": "Hướng Phùng",
+        "type": "xa",
+        "slug": "huong-phung",
+        "name_with_type": "Xã Hướng Phùng",
+        "path": "Hướng Phùng, Hướng Hóa, Quảng Trị",
+        "path_with_type": "Xã Hướng Phùng, Huyện Hướng Hóa, Tỉnh Quảng Trị",
+        "code": "19441",
+        "parent_code": "465"
+    },
+    "19444": {
+        "name": "Hướng Sơn",
+        "type": "xa",
+        "slug": "huong-son",
+        "name_with_type": "Xã Hướng Sơn",
+        "path": "Hướng Sơn, Hướng Hóa, Quảng Trị",
+        "path_with_type": "Xã Hướng Sơn, Huyện Hướng Hóa, Tỉnh Quảng Trị",
+        "code": "19444",
+        "parent_code": "465"
+    },
+    "19447": {
+        "name": "Hướng Linh",
+        "type": "xa",
+        "slug": "huong-linh",
+        "name_with_type": "Xã Hướng Linh",
+        "path": "Hướng Linh, Hướng Hóa, Quảng Trị",
+        "path_with_type": "Xã Hướng Linh, Huyện Hướng Hóa, Tỉnh Quảng Trị",
+        "code": "19447",
+        "parent_code": "465"
+    },
+    "19450": {
+        "name": "Tân Hợp",
+        "type": "xa",
+        "slug": "tan-hop",
+        "name_with_type": "Xã Tân Hợp",
+        "path": "Tân Hợp, Hướng Hóa, Quảng Trị",
+        "path_with_type": "Xã Tân Hợp, Huyện Hướng Hóa, Tỉnh Quảng Trị",
+        "code": "19450",
+        "parent_code": "465"
+    },
+    "19453": {
+        "name": "Hướng Tân",
+        "type": "xa",
+        "slug": "huong-tan",
+        "name_with_type": "Xã Hướng Tân",
+        "path": "Hướng Tân, Hướng Hóa, Quảng Trị",
+        "path_with_type": "Xã Hướng Tân, Huyện Hướng Hóa, Tỉnh Quảng Trị",
+        "code": "19453",
+        "parent_code": "465"
+    },
+    "19456": {
+        "name": "Tân Thành",
+        "type": "xa",
+        "slug": "tan-thanh",
+        "name_with_type": "Xã Tân Thành",
+        "path": "Tân Thành, Hướng Hóa, Quảng Trị",
+        "path_with_type": "Xã Tân Thành, Huyện Hướng Hóa, Tỉnh Quảng Trị",
+        "code": "19456",
+        "parent_code": "465"
+    },
+    "19459": {
+        "name": "Tân Long",
+        "type": "xa",
+        "slug": "tan-long",
+        "name_with_type": "Xã Tân Long",
+        "path": "Tân Long, Hướng Hóa, Quảng Trị",
+        "path_with_type": "Xã Tân Long, Huyện Hướng Hóa, Tỉnh Quảng Trị",
+        "code": "19459",
+        "parent_code": "465"
+    },
+    "19462": {
+        "name": "Tân Lập",
+        "type": "xa",
+        "slug": "tan-lap",
+        "name_with_type": "Xã Tân Lập",
+        "path": "Tân Lập, Hướng Hóa, Quảng Trị",
+        "path_with_type": "Xã Tân Lập, Huyện Hướng Hóa, Tỉnh Quảng Trị",
+        "code": "19462",
+        "parent_code": "465"
+    },
+    "19465": {
+        "name": "Tân Liên",
+        "type": "xa",
+        "slug": "tan-lien",
+        "name_with_type": "Xã Tân Liên",
+        "path": "Tân Liên, Hướng Hóa, Quảng Trị",
+        "path_with_type": "Xã Tân Liên, Huyện Hướng Hóa, Tỉnh Quảng Trị",
+        "code": "19465",
+        "parent_code": "465"
+    },
+    "19468": {
+        "name": "Húc",
+        "type": "xa",
+        "slug": "huc",
+        "name_with_type": "Xã Húc",
+        "path": "Húc, Hướng Hóa, Quảng Trị",
+        "path_with_type": "Xã Húc, Huyện Hướng Hóa, Tỉnh Quảng Trị",
+        "code": "19468",
+        "parent_code": "465"
+    },
+    "19471": {
+        "name": "Thuận",
+        "type": "xa",
+        "slug": "thuan",
+        "name_with_type": "Xã Thuận",
+        "path": "Thuận, Hướng Hóa, Quảng Trị",
+        "path_with_type": "Xã Thuận, Huyện Hướng Hóa, Tỉnh Quảng Trị",
+        "code": "19471",
+        "parent_code": "465"
+    },
+    "19474": {
+        "name": "Hướng Lộc",
+        "type": "xa",
+        "slug": "huong-loc",
+        "name_with_type": "Xã Hướng Lộc",
+        "path": "Hướng Lộc, Hướng Hóa, Quảng Trị",
+        "path_with_type": "Xã Hướng Lộc, Huyện Hướng Hóa, Tỉnh Quảng Trị",
+        "code": "19474",
+        "parent_code": "465"
+    },
+    "19477": {
+        "name": "Ba Tầng",
+        "type": "xa",
+        "slug": "ba-tang",
+        "name_with_type": "Xã Ba Tầng",
+        "path": "Ba Tầng, Hướng Hóa, Quảng Trị",
+        "path_with_type": "Xã Ba Tầng, Huyện Hướng Hóa, Tỉnh Quảng Trị",
+        "code": "19477",
+        "parent_code": "465"
+    },
+    "19480": {
+        "name": "Thanh",
+        "type": "xa",
+        "slug": "thanh",
+        "name_with_type": "Xã Thanh",
+        "path": "Thanh, Hướng Hóa, Quảng Trị",
+        "path_with_type": "Xã Thanh, Huyện Hướng Hóa, Tỉnh Quảng Trị",
+        "code": "19480",
+        "parent_code": "465"
+    },
+    "19483": {
+        "name": "A Dơi",
+        "type": "xa",
+        "slug": "a-doi",
+        "name_with_type": "Xã  A Dơi",
+        "path": "A Dơi, Hướng Hóa, Quảng Trị",
+        "path_with_type": "Xã  A Dơi, Huyện Hướng Hóa, Tỉnh Quảng Trị",
+        "code": "19483",
+        "parent_code": "465"
+    },
+    "19486": {
+        "name": "A Xing",
+        "type": "xa",
+        "slug": "a-xing",
+        "name_with_type": "Xã A Xing",
+        "path": "A Xing, Hướng Hóa, Quảng Trị",
+        "path_with_type": "Xã A Xing, Huyện Hướng Hóa, Tỉnh Quảng Trị",
+        "code": "19486",
+        "parent_code": "465"
+    },
+    "19489": {
+        "name": "A Túc",
+        "type": "xa",
+        "slug": "a-tuc",
+        "name_with_type": "Xã A Túc",
+        "path": "A Túc, Hướng Hóa, Quảng Trị",
+        "path_with_type": "Xã A Túc, Huyện Hướng Hóa, Tỉnh Quảng Trị",
+        "code": "19489",
+        "parent_code": "465"
+    },
+    "19492": {
+        "name": "Xy",
+        "type": "xa",
+        "slug": "xy",
+        "name_with_type": "Xã Xy",
+        "path": "Xy, Hướng Hóa, Quảng Trị",
+        "path_with_type": "Xã Xy, Huyện Hướng Hóa, Tỉnh Quảng Trị",
+        "code": "19492",
+        "parent_code": "465"
+    }
+}

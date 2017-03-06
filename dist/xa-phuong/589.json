@@ -1,0 +1,82 @@
+{
+    "22885": {
+        "name": "Phước Hà",
+        "type": "xa",
+        "slug": "phuoc-ha",
+        "name_with_type": "Xã Phước Hà",
+        "path": "Phước Hà, Thuận Nam, Ninh Thuận",
+        "path_with_type": "Xã Phước Hà, Huyện Thuận Nam, Tỉnh Ninh Thuận",
+        "code": "22885",
+        "parent_code": "589"
+    },
+    "22897": {
+        "name": "Phước Nam",
+        "type": "xa",
+        "slug": "phuoc-nam",
+        "name_with_type": "Xã Phước Nam",
+        "path": "Phước Nam, Thuận Nam, Ninh Thuận",
+        "path_with_type": "Xã Phước Nam, Huyện Thuận Nam, Tỉnh Ninh Thuận",
+        "code": "22897",
+        "parent_code": "589"
+    },
+    "22898": {
+        "name": "Phước Ninh",
+        "type": "xa",
+        "slug": "phuoc-ninh",
+        "name_with_type": "Xã Phước Ninh",
+        "path": "Phước Ninh, Thuận Nam, Ninh Thuận",
+        "path_with_type": "Xã Phước Ninh, Huyện Thuận Nam, Tỉnh Ninh Thuận",
+        "code": "22898",
+        "parent_code": "589"
+    },
+    "22900": {
+        "name": "Nhị Hà",
+        "type": "xa",
+        "slug": "nhi-ha",
+        "name_with_type": "Xã Nhị Hà",
+        "path": "Nhị Hà, Thuận Nam, Ninh Thuận",
+        "path_with_type": "Xã Nhị Hà, Huyện Thuận Nam, Tỉnh Ninh Thuận",
+        "code": "22900",
+        "parent_code": "589"
+    },
+    "22903": {
+        "name": "Phước Dinh",
+        "type": "xa",
+        "slug": "phuoc-dinh",
+        "name_with_type": "Xã Phước Dinh",
+        "path": "Phước Dinh, Thuận Nam, Ninh Thuận",
+        "path_with_type": "Xã Phước Dinh, Huyện Thuận Nam, Tỉnh Ninh Thuận",
+        "code": "22903",
+        "parent_code": "589"
+    },
+    "22906": {
+        "name": "Phước Minh",
+        "type": "xa",
+        "slug": "phuoc-minh",
+        "name_with_type": "Xã Phước Minh",
+        "path": "Phước Minh, Thuận Nam, Ninh Thuận",
+        "path_with_type": "Xã Phước Minh, Huyện Thuận Nam, Tỉnh Ninh Thuận",
+        "code": "22906",
+        "parent_code": "589"
+    },
+    "22909": {
+        "name": "Phước Diêm",
+        "type": "xa",
+        "slug": "phuoc-diem",
+        "name_with_type": "Xã Phước Diêm",
+        "path": "Phước Diêm, Thuận Nam, Ninh Thuận",
+        "path_with_type": "Xã Phước Diêm, Huyện Thuận Nam, Tỉnh Ninh Thuận",
+        "code": "22909",
+        "parent_code": "589"
+    },
+    "22910": {
+        "name": "Cà Ná",
+        "type": "xa",
+        "slug": "ca-na",
+        "name_with_type": "Xã Cà Ná",
+        "path": "Cà Ná, Thuận Nam, Ninh Thuận",
+        "path_with_type": "Xã Cà Ná, Huyện Thuận Nam, Tỉnh Ninh Thuận",
+        "code": "22910",
+        "parent_code": "589"
+    }
+}

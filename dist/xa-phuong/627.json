@@ -1,0 +1,152 @@
+{
+    "23722": {
+        "name": "Phú Hòa",
+        "type": "thi-tran",
+        "slug": "phu-hoa",
+        "name_with_type": "Thị trấn Phú Hòa",
+        "path": "Phú Hòa, Chư Păh, Gia Lai",
+        "path_with_type": "Thị trấn Phú Hòa, Huyện Chư Păh, Tỉnh Gia Lai",
+        "code": "23722",
+        "parent_code": "627"
+    },
+    "23725": {
+        "name": "Hà Tây",
+        "type": "xa",
+        "slug": "ha-tay",
+        "name_with_type": "Xã Hà Tây",
+        "path": "Hà Tây, Chư Păh, Gia Lai",
+        "path_with_type": "Xã Hà Tây, Huyện Chư Păh, Tỉnh Gia Lai",
+        "code": "23725",
+        "parent_code": "627"
+    },
+    "23728": {
+        "name": "Ia Khươl",
+        "type": "xa",
+        "slug": "ia-khuol",
+        "name_with_type": "Xã Ia Khươl",
+        "path": "Ia Khươl, Chư Păh, Gia Lai",
+        "path_with_type": "Xã Ia Khươl, Huyện Chư Păh, Tỉnh Gia Lai",
+        "code": "23728",
+        "parent_code": "627"
+    },
+    "23731": {
+        "name": "Ia Phí",
+        "type": "xa",
+        "slug": "ia-phi",
+        "name_with_type": "Xã Ia Phí",
+        "path": "Ia Phí, Chư Păh, Gia Lai",
+        "path_with_type": "Xã Ia Phí, Huyện Chư Păh, Tỉnh Gia Lai",
+        "code": "23731",
+        "parent_code": "627"
+    },
+    "23734": {
+        "name": "Ia Ly",
+        "type": "thi-tran",
+        "slug": "ia-ly",
+        "name_with_type": "Thị trấn Ia Ly",
+        "path": "Ia Ly, Chư Păh, Gia Lai",
+        "path_with_type": "Thị trấn Ia Ly, Huyện Chư Păh, Tỉnh Gia Lai",
+        "code": "23734",
+        "parent_code": "627"
+    },
+    "23737": {
+        "name": "Ia Mơ Nông",
+        "type": "xa",
+        "slug": "ia-mo-nong",
+        "name_with_type": "Xã Ia Mơ Nông",
+        "path": "Ia Mơ Nông, Chư Păh, Gia Lai",
+        "path_with_type": "Xã Ia Mơ Nông, Huyện Chư Păh, Tỉnh Gia Lai",
+        "code": "23737",
+        "parent_code": "627"
+    },
+    "23738": {
+        "name": "Ia Kreng",
+        "type": "xa",
+        "slug": "ia-kreng",
+        "name_with_type": "Xã Ia Kreng",
+        "path": "Ia Kreng, Chư Păh, Gia Lai",
+        "path_with_type": "Xã Ia Kreng, Huyện Chư Păh, Tỉnh Gia Lai",
+        "code": "23738",
+        "parent_code": "627"
+    },
+    "23740": {
+        "name": "Đăk Tơ Ver",
+        "type": "xa",
+        "slug": "dak-to-ver",
+        "name_with_type": "Xã Đăk Tơ Ver",
+        "path": "Đăk Tơ Ver, Chư Păh, Gia Lai",
+        "path_with_type": "Xã Đăk Tơ Ver, Huyện Chư Păh, Tỉnh Gia Lai",
+        "code": "23740",
+        "parent_code": "627"
+    },
+    "23743": {
+        "name": "Hòa Phú",
+        "type": "xa",
+        "slug": "hoa-phu",
+        "name_with_type": "Xã Hòa Phú",
+        "path": "Hòa Phú, Chư Păh, Gia Lai",
+        "path_with_type": "Xã Hòa Phú, Huyện Chư Păh, Tỉnh Gia Lai",
+        "code": "23743",
+        "parent_code": "627"
+    },
+    "23746": {
+        "name": "Chư Đăng Ya",
+        "type": "xa",
+        "slug": "chu-dang-ya",
+        "name_with_type": "Xã Chư Đăng Ya",
+        "path": "Chư Đăng Ya, Chư Păh, Gia Lai",
+        "path_with_type": "Xã Chư Đăng Ya, Huyện Chư Păh, Tỉnh Gia Lai",
+        "code": "23746",
+        "parent_code": "627"
+    },
+    "23749": {
+        "name": "Ia Ka",
+        "type": "xa",
+        "slug": "ia-ka",
+        "name_with_type": "Xã Ia Ka",
+        "path": "Ia Ka, Chư Păh, Gia Lai",
+        "path_with_type": "Xã Ia Ka, Huyện Chư Păh, Tỉnh Gia Lai",
+        "code": "23749",
+        "parent_code": "627"
+    },
+    "23752": {
+        "name": "Ia Nhin",
+        "type": "xa",
+        "slug": "ia-nhin",
+        "name_with_type": "Xã Ia Nhin",
+        "path": "Ia Nhin, Chư Păh, Gia Lai",
+        "path_with_type": "Xã Ia Nhin, Huyện Chư Păh, Tỉnh Gia Lai",
+        "code": "23752",
+        "parent_code": "627"
+    },
+    "23755": {
+        "name": "Nghĩa Hòa",
+        "type": "xa",
+        "slug": "nghia-hoa",
+        "name_with_type": "Xã Nghĩa Hòa",
+        "path": "Nghĩa Hòa, Chư Păh, Gia Lai",
+        "path_with_type": "Xã Nghĩa Hòa, Huyện Chư Păh, Tỉnh Gia Lai",
+        "code": "23755",
+        "parent_code": "627"
+    },
+    "23758": {
+        "name": "Chư Jôr",
+        "type": "xa",
+        "slug": "chu-jor",
+        "name_with_type": "Xã Chư Jôr",
+        "path": "Chư Jôr, Chư Păh, Gia Lai",
+        "path_with_type": "Xã Chư Jôr, Huyện Chư Păh, Tỉnh Gia Lai",
+        "code": "23758",
+        "parent_code": "627"
+    },
+    "23761": {
+        "name": "Nghĩa Hưng",
+        "type": "xa",
+        "slug": "nghia-hung",
+        "name_with_type": "Xã Nghĩa Hưng",
+        "path": "Nghĩa Hưng, Chư Păh, Gia Lai",
+        "path_with_type": "Xã Nghĩa Hưng, Huyện Chư Păh, Tỉnh Gia Lai",
+        "code": "23761",
+        "parent_code": "627"
+    }
+}

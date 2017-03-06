@@ -1,0 +1,172 @@
+{
+    "15604": {
+        "name": "Thường Xuân",
+        "type": "thi-tran",
+        "slug": "thuong-xuan",
+        "name_with_type": "Thị trấn Thường Xuân",
+        "path": "Thường Xuân, Thường Xuân, Thanh Hóa",
+        "path_with_type": "Thị trấn Thường Xuân, Huyện Thường Xuân, Tỉnh Thanh Hóa",
+        "code": "15604",
+        "parent_code": "396"
+    },
+    "15607": {
+        "name": "Bát Mọt",
+        "type": "xa",
+        "slug": "bat-mot",
+        "name_with_type": "Xã Bát Mọt",
+        "path": "Bát Mọt, Thường Xuân, Thanh Hóa",
+        "path_with_type": "Xã Bát Mọt, Huyện Thường Xuân, Tỉnh Thanh Hóa",
+        "code": "15607",
+        "parent_code": "396"
+    },
+    "15610": {
+        "name": "Yên Nhân",
+        "type": "xa",
+        "slug": "yen-nhan",
+        "name_with_type": "Xã Yên Nhân",
+        "path": "Yên Nhân, Thường Xuân, Thanh Hóa",
+        "path_with_type": "Xã Yên Nhân, Huyện Thường Xuân, Tỉnh Thanh Hóa",
+        "code": "15610",
+        "parent_code": "396"
+    },
+    "15619": {
+        "name": "Xuân Lẹ",
+        "type": "xa",
+        "slug": "xuan-le",
+        "name_with_type": "Xã Xuân Lẹ",
+        "path": "Xuân Lẹ, Thường Xuân, Thanh Hóa",
+        "path_with_type": "Xã Xuân Lẹ, Huyện Thường Xuân, Tỉnh Thanh Hóa",
+        "code": "15619",
+        "parent_code": "396"
+    },
+    "15622": {
+        "name": "Vạn Xuân",
+        "type": "xa",
+        "slug": "van-xuan",
+        "name_with_type": "Xã Vạn Xuân",
+        "path": "Vạn Xuân, Thường Xuân, Thanh Hóa",
+        "path_with_type": "Xã Vạn Xuân, Huyện Thường Xuân, Tỉnh Thanh Hóa",
+        "code": "15622",
+        "parent_code": "396"
+    },
+    "15628": {
+        "name": "Lương Sơn",
+        "type": "xa",
+        "slug": "luong-son",
+        "name_with_type": "Xã Lương Sơn",
+        "path": "Lương Sơn, Thường Xuân, Thanh Hóa",
+        "path_with_type": "Xã Lương Sơn, Huyện Thường Xuân, Tỉnh Thanh Hóa",
+        "code": "15628",
+        "parent_code": "396"
+    },
+    "15631": {
+        "name": "Xuân Cao",
+        "type": "xa",
+        "slug": "xuan-cao",
+        "name_with_type": "Xã Xuân Cao",
+        "path": "Xuân Cao, Thường Xuân, Thanh Hóa",
+        "path_with_type": "Xã Xuân Cao, Huyện Thường Xuân, Tỉnh Thanh Hóa",
+        "code": "15631",
+        "parent_code": "396"
+    },
+    "15634": {
+        "name": "Luận Thành",
+        "type": "xa",
+        "slug": "luan-thanh",
+        "name_with_type": "Xã Luận Thành",
+        "path": "Luận Thành, Thường Xuân, Thanh Hóa",
+        "path_with_type": "Xã Luận Thành, Huyện Thường Xuân, Tỉnh Thanh Hóa",
+        "code": "15634",
+        "parent_code": "396"
+    },
+    "15637": {
+        "name": "Luận Khê",
+        "type": "xa",
+        "slug": "luan-khe",
+        "name_with_type": "Xã Luận Khê",
+        "path": "Luận Khê, Thường Xuân, Thanh Hóa",
+        "path_with_type": "Xã Luận Khê, Huyện Thường Xuân, Tỉnh Thanh Hóa",
+        "code": "15637",
+        "parent_code": "396"
+    },
+    "15640": {
+        "name": "Xuân Thắng",
+        "type": "xa",
+        "slug": "xuan-thang",
+        "name_with_type": "Xã Xuân Thắng",
+        "path": "Xuân Thắng, Thường Xuân, Thanh Hóa",
+        "path_with_type": "Xã Xuân Thắng, Huyện Thường Xuân, Tỉnh Thanh Hóa",
+        "code": "15640",
+        "parent_code": "396"
+    },
+    "15643": {
+        "name": "Xuân Lộc",
+        "type": "xa",
+        "slug": "xuan-loc",
+        "name_with_type": "Xã Xuân Lộc",
+        "path": "Xuân Lộc, Thường Xuân, Thanh Hóa",
+        "path_with_type": "Xã Xuân Lộc, Huyện Thường Xuân, Tỉnh Thanh Hóa",
+        "code": "15643",
+        "parent_code": "396"
+    },
+    "15646": {
+        "name": "Xuân Cẩm",
+        "type": "xa",
+        "slug": "xuan-cam",
+        "name_with_type": "Xã Xuân Cẩm",
+        "path": "Xuân Cẩm, Thường Xuân, Thanh Hóa",
+        "path_with_type": "Xã Xuân Cẩm, Huyện Thường Xuân, Tỉnh Thanh Hóa",
+        "code": "15646",
+        "parent_code": "396"
+    },
+    "15649": {
+        "name": "Xuân Dương",
+        "type": "xa",
+        "slug": "xuan-duong",
+        "name_with_type": "Xã Xuân Dương",
+        "path": "Xuân Dương, Thường Xuân, Thanh Hóa",
+        "path_with_type": "Xã Xuân Dương, Huyện Thường Xuân, Tỉnh Thanh Hóa",
+        "code": "15649",
+        "parent_code": "396"
+    },
+    "15652": {
+        "name": "Thọ Thanh",
+        "type": "xa",
+        "slug": "tho-thanh",
+        "name_with_type": "Xã Thọ Thanh",
+        "path": "Thọ Thanh, Thường Xuân, Thanh Hóa",
+        "path_with_type": "Xã Thọ Thanh, Huyện Thường Xuân, Tỉnh Thanh Hóa",
+        "code": "15652",
+        "parent_code": "396"
+    },
+    "15655": {
+        "name": "Ngọc Phụng",
+        "type": "xa",
+        "slug": "ngoc-phung",
+        "name_with_type": "Xã Ngọc Phụng",
+        "path": "Ngọc Phụng, Thường Xuân, Thanh Hóa",
+        "path_with_type": "Xã Ngọc Phụng, Huyện Thường Xuân, Tỉnh Thanh Hóa",
+        "code": "15655",
+        "parent_code": "396"
+    },
+    "15658": {
+        "name": "Xuân Chinh",
+        "type": "xa",
+        "slug": "xuan-chinh",
+        "name_with_type": "Xã Xuân Chinh",
+        "path": "Xuân Chinh, Thường Xuân, Thanh Hóa",
+        "path_with_type": "Xã Xuân Chinh, Huyện Thường Xuân, Tỉnh Thanh Hóa",
+        "code": "15658",
+        "parent_code": "396"
+    },
+    "15661": {
+        "name": "Tân Thành",
+        "type": "xa",
+        "slug": "tan-thanh",
+        "name_with_type": "Xã Tân Thành",
+        "path": "Tân Thành, Thường Xuân, Thanh Hóa",
+        "path_with_type": "Xã Tân Thành, Huyện Thường Xuân, Tỉnh Thanh Hóa",
+        "code": "15661",
+        "parent_code": "396"
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "00592": {
+        "name": "Cầu Diễn",
+        "type": "phuong",
+        "slug": "cau-dien",
+        "name_with_type": "Phường Cầu Diễn",
+        "path": "Cầu Diễn, Nam Từ Liêm, Hà Nội",
+        "path_with_type": "Phường Cầu Diễn, Quận Nam Từ Liêm, Thành phố Hà Nội",
+        "code": "00592",
+        "parent_code": "019"
+    },
+    "00622": {
+        "name": "Xuân Phương",
+        "type": "phuong",
+        "slug": "xuan-phuong",
+        "name_with_type": "Phường Xuân Phương",
+        "path": "Xuân Phương, Nam Từ Liêm, Hà Nội",
+        "path_with_type": "Phường Xuân Phương, Quận Nam Từ Liêm, Thành phố Hà Nội",
+        "code": "00622",
+        "parent_code": "019"
+    },
+    "00623": {
+        "name": "Phương Canh",
+        "type": "phuong",
+        "slug": "phuong-canh",
+        "name_with_type": "Phường Phương Canh",
+        "path": "Phương Canh, Nam Từ Liêm, Hà Nội",
+        "path_with_type": "Phường Phương Canh, Quận Nam Từ Liêm, Thành phố Hà Nội",
+        "code": "00623",
+        "parent_code": "019"
+    },
+    "00625": {
+        "name": "Mỹ Đình 1",
+        "type": "phuong",
+        "slug": "my-dinh-1",
+        "name_with_type": "Phường Mỹ Đình 1",
+        "path": "Mỹ Đình 1, Nam Từ Liêm, Hà Nội",
+        "path_with_type": "Phường Mỹ Đình 1, Quận Nam Từ Liêm, Thành phố Hà Nội",
+        "code": "00625",
+        "parent_code": "019"
+    },
+    "00626": {
+        "name": "Mỹ Đình 2",
+        "type": "phuong",
+        "slug": "my-dinh-2",
+        "name_with_type": "Phường Mỹ Đình 2",
+        "path": "Mỹ Đình 2, Nam Từ Liêm, Hà Nội",
+        "path_with_type": "Phường Mỹ Đình 2, Quận Nam Từ Liêm, Thành phố Hà Nội",
+        "code": "00626",
+        "parent_code": "019"
+    },
+    "00628": {
+        "name": "Tây Mỗ",
+        "type": "phuong",
+        "slug": "tay-mo",
+        "name_with_type": "Phường Tây Mỗ",
+        "path": "Tây Mỗ, Nam Từ Liêm, Hà Nội",
+        "path_with_type": "Phường Tây Mỗ, Quận Nam Từ Liêm, Thành phố Hà Nội",
+        "code": "00628",
+        "parent_code": "019"
+    },
+    "00631": {
+        "name": "Mễ Trì",
+        "type": "phuong",
+        "slug": "me-tri",
+        "name_with_type": "Phường Mễ Trì",
+        "path": "Mễ Trì, Nam Từ Liêm, Hà Nội",
+        "path_with_type": "Phường Mễ Trì, Quận Nam Từ Liêm, Thành phố Hà Nội",
+        "code": "00631",
+        "parent_code": "019"
+    },
+    "00632": {
+        "name": "Phú Đô",
+        "type": "phuong",
+        "slug": "phu-do",
+        "name_with_type": "Phường Phú Đô",
+        "path": "Phú Đô, Nam Từ Liêm, Hà Nội",
+        "path_with_type": "Phường Phú Đô, Quận Nam Từ Liêm, Thành phố Hà Nội",
+        "code": "00632",
+        "parent_code": "019"
+    },
+    "00634": {
+        "name": "Đại Mỗ",
+        "type": "phuong",
+        "slug": "dai-mo",
+        "name_with_type": "Phường Đại Mỗ",
+        "path": "Đại Mỗ, Nam Từ Liêm, Hà Nội",
+        "path_with_type": "Phường Đại Mỗ, Quận Nam Từ Liêm, Thành phố Hà Nội",
+        "code": "00634",
+        "parent_code": "019"
+    },
+    "00637": {
+        "name": "Trung Văn",
+        "type": "phuong",
+        "slug": "trung-van",
+        "name_with_type": "Phường Trung Văn",
+        "path": "Trung Văn, Nam Từ Liêm, Hà Nội",
+        "path_with_type": "Phường Trung Văn, Quận Nam Từ Liêm, Thành phố Hà Nội",
+        "code": "00637",
+        "parent_code": "019"
+    }
+}

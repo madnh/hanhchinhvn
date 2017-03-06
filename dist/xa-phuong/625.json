@@ -1,0 +1,142 @@
+{
+    "23638": {
+        "name": "KBang",
+        "type": "thi-tran",
+        "slug": "kbang",
+        "name_with_type": "Thị trấn KBang",
+        "path": "KBang, KBang, Gia Lai",
+        "path_with_type": "Thị trấn KBang, Huyện KBang, Tỉnh Gia Lai",
+        "code": "23638",
+        "parent_code": "625"
+    },
+    "23641": {
+        "name": "Kon Pne",
+        "type": "xa",
+        "slug": "kon-pne",
+        "name_with_type": "Xã Kon Pne",
+        "path": "Kon Pne, KBang, Gia Lai",
+        "path_with_type": "Xã Kon Pne, Huyện KBang, Tỉnh Gia Lai",
+        "code": "23641",
+        "parent_code": "625"
+    },
+    "23644": {
+        "name": "Đăk Roong",
+        "type": "xa",
+        "slug": "dak-roong",
+        "name_with_type": "Xã Đăk Roong",
+        "path": "Đăk Roong, KBang, Gia Lai",
+        "path_with_type": "Xã Đăk Roong, Huyện KBang, Tỉnh Gia Lai",
+        "code": "23644",
+        "parent_code": "625"
+    },
+    "23647": {
+        "name": "Sơn Lang",
+        "type": "xa",
+        "slug": "son-lang",
+        "name_with_type": "Xã Sơn Lang",
+        "path": "Sơn Lang, KBang, Gia Lai",
+        "path_with_type": "Xã Sơn Lang, Huyện KBang, Tỉnh Gia Lai",
+        "code": "23647",
+        "parent_code": "625"
+    },
+    "23650": {
+        "name": "KRong",
+        "type": "xa",
+        "slug": "krong",
+        "name_with_type": "Xã KRong",
+        "path": "KRong, KBang, Gia Lai",
+        "path_with_type": "Xã KRong, Huyện KBang, Tỉnh Gia Lai",
+        "code": "23650",
+        "parent_code": "625"
+    },
+    "23653": {
+        "name": "Sơ Pai",
+        "type": "xa",
+        "slug": "so-pai",
+        "name_with_type": "Xã Sơ Pai",
+        "path": "Sơ Pai, KBang, Gia Lai",
+        "path_with_type": "Xã Sơ Pai, Huyện KBang, Tỉnh Gia Lai",
+        "code": "23653",
+        "parent_code": "625"
+    },
+    "23656": {
+        "name": "Lơ Ku",
+        "type": "xa",
+        "slug": "lo-ku",
+        "name_with_type": "Xã Lơ Ku",
+        "path": "Lơ Ku, KBang, Gia Lai",
+        "path_with_type": "Xã Lơ Ku, Huyện KBang, Tỉnh Gia Lai",
+        "code": "23656",
+        "parent_code": "625"
+    },
+    "23659": {
+        "name": "Đông",
+        "type": "xa",
+        "slug": "dong",
+        "name_with_type": "Xã Đông",
+        "path": "Đông, KBang, Gia Lai",
+        "path_with_type": "Xã Đông, Huyện KBang, Tỉnh Gia Lai",
+        "code": "23659",
+        "parent_code": "625"
+    },
+    "23660": {
+        "name": "Đak SMar",
+        "type": "xa",
+        "slug": "dak-smar",
+        "name_with_type": "Xã Đak SMar",
+        "path": "Đak SMar, KBang, Gia Lai",
+        "path_with_type": "Xã Đak SMar, Huyện KBang, Tỉnh Gia Lai",
+        "code": "23660",
+        "parent_code": "625"
+    },
+    "23662": {
+        "name": "Nghĩa An",
+        "type": "xa",
+        "slug": "nghia-an",
+        "name_with_type": "Xã Nghĩa An",
+        "path": "Nghĩa An, KBang, Gia Lai",
+        "path_with_type": "Xã Nghĩa An, Huyện KBang, Tỉnh Gia Lai",
+        "code": "23662",
+        "parent_code": "625"
+    },
+    "23665": {
+        "name": "Tơ Tung",
+        "type": "xa",
+        "slug": "to-tung",
+        "name_with_type": "Xã Tơ Tung",
+        "path": "Tơ Tung, KBang, Gia Lai",
+        "path_with_type": "Xã Tơ Tung, Huyện KBang, Tỉnh Gia Lai",
+        "code": "23665",
+        "parent_code": "625"
+    },
+    "23668": {
+        "name": "Kông Lơng Khơng",
+        "type": "xa",
+        "slug": "kong-long-khong",
+        "name_with_type": "Xã Kông Lơng Khơng",
+        "path": "Kông Lơng Khơng, KBang, Gia Lai",
+        "path_with_type": "Xã Kông Lơng Khơng, Huyện KBang, Tỉnh Gia Lai",
+        "code": "23668",
+        "parent_code": "625"
+    },
+    "23671": {
+        "name": "Kông Pla",
+        "type": "xa",
+        "slug": "kong-pla",
+        "name_with_type": "Xã Kông Pla",
+        "path": "Kông Pla, KBang, Gia Lai",
+        "path_with_type": "Xã Kông Pla, Huyện KBang, Tỉnh Gia Lai",
+        "code": "23671",
+        "parent_code": "625"
+    },
+    "23674": {
+        "name": "Đăk HLơ",
+        "type": "xa",
+        "slug": "dak-hlo",
+        "name_with_type": "Xã Đăk HLơ",
+        "path": "Đăk HLơ, KBang, Gia Lai",
+        "path_with_type": "Xã Đăk HLơ, Huyện KBang, Tỉnh Gia Lai",
+        "code": "23674",
+        "parent_code": "625"
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "23527": {
+        "name": "Sa Thầy",
+        "type": "thi-tran",
+        "slug": "sa-thay",
+        "name_with_type": "Thị trấn Sa Thầy",
+        "path": "Sa Thầy, Sa Thầy, Kon Tum",
+        "path_with_type": "Thị trấn Sa Thầy, Huyện Sa Thầy, Tỉnh Kon Tum",
+        "code": "23527",
+        "parent_code": "616"
+    },
+    "23530": {
+        "name": "Rơ Kơi",
+        "type": "xa",
+        "slug": "ro-koi",
+        "name_with_type": "Xã Rơ Kơi",
+        "path": "Rơ Kơi, Sa Thầy, Kon Tum",
+        "path_with_type": "Xã Rơ Kơi, Huyện Sa Thầy, Tỉnh Kon Tum",
+        "code": "23530",
+        "parent_code": "616"
+    },
+    "23533": {
+        "name": "Sa Nhơn",
+        "type": "xa",
+        "slug": "sa-nhon",
+        "name_with_type": "Xã Sa Nhơn",
+        "path": "Sa Nhơn, Sa Thầy, Kon Tum",
+        "path_with_type": "Xã Sa Nhơn, Huyện Sa Thầy, Tỉnh Kon Tum",
+        "code": "23533",
+        "parent_code": "616"
+    },
+    "23534": {
+        "name": "Hơ Moong",
+        "type": "xa",
+        "slug": "ho-moong",
+        "name_with_type": "Xã Hơ Moong",
+        "path": "Hơ Moong, Sa Thầy, Kon Tum",
+        "path_with_type": "Xã Hơ Moong, Huyện Sa Thầy, Tỉnh Kon Tum",
+        "code": "23534",
+        "parent_code": "616"
+    },
+    "23536": {
+        "name": "Mô Rai",
+        "type": "xa",
+        "slug": "mo-rai",
+        "name_with_type": "Xã Mô Rai",
+        "path": "Mô Rai, Sa Thầy, Kon Tum",
+        "path_with_type": "Xã Mô Rai, Huyện Sa Thầy, Tỉnh Kon Tum",
+        "code": "23536",
+        "parent_code": "616"
+    },
+    "23539": {
+        "name": "Sa Sơn",
+        "type": "xa",
+        "slug": "sa-son",
+        "name_with_type": "Xã Sa Sơn",
+        "path": "Sa Sơn, Sa Thầy, Kon Tum",
+        "path_with_type": "Xã Sa Sơn, Huyện Sa Thầy, Tỉnh Kon Tum",
+        "code": "23539",
+        "parent_code": "616"
+    },
+    "23542": {
+        "name": "Sa Nghĩa",
+        "type": "xa",
+        "slug": "sa-nghia",
+        "name_with_type": "Xã Sa Nghĩa",
+        "path": "Sa Nghĩa, Sa Thầy, Kon Tum",
+        "path_with_type": "Xã Sa Nghĩa, Huyện Sa Thầy, Tỉnh Kon Tum",
+        "code": "23542",
+        "parent_code": "616"
+    },
+    "23545": {
+        "name": "Sa Bình",
+        "type": "xa",
+        "slug": "sa-binh",
+        "name_with_type": "Xã Sa Bình",
+        "path": "Sa Bình, Sa Thầy, Kon Tum",
+        "path_with_type": "Xã Sa Bình, Huyện Sa Thầy, Tỉnh Kon Tum",
+        "code": "23545",
+        "parent_code": "616"
+    },
+    "23548": {
+        "name": "Ya Xiêr",
+        "type": "xa",
+        "slug": "ya-xier",
+        "name_with_type": "Xã Ya Xiêr",
+        "path": "Ya Xiêr, Sa Thầy, Kon Tum",
+        "path_with_type": "Xã Ya Xiêr, Huyện Sa Thầy, Tỉnh Kon Tum",
+        "code": "23548",
+        "parent_code": "616"
+    },
+    "23551": {
+        "name": "Ya Tăng",
+        "type": "xa",
+        "slug": "ya-tang",
+        "name_with_type": "Xã Ya Tăng",
+        "path": "Ya Tăng, Sa Thầy, Kon Tum",
+        "path_with_type": "Xã Ya Tăng, Huyện Sa Thầy, Tỉnh Kon Tum",
+        "code": "23551",
+        "parent_code": "616"
+    },
+    "23554": {
+        "name": "Ya ly",
+        "type": "xa",
+        "slug": "ya-ly",
+        "name_with_type": "Xã Ya ly",
+        "path": "Ya ly, Sa Thầy, Kon Tum",
+        "path_with_type": "Xã Ya ly, Huyện Sa Thầy, Tỉnh Kon Tum",
+        "code": "23554",
+        "parent_code": "616"
+    }
+}

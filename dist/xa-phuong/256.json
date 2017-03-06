@@ -1,0 +1,192 @@
+{
+    "09163": {
+        "name": "Vũ Ninh",
+        "type": "phuong",
+        "slug": "vu-ninh",
+        "name_with_type": "Phường Vũ Ninh",
+        "path": "Vũ Ninh, Bắc Ninh, Bắc Ninh",
+        "path_with_type": "Phường Vũ Ninh, Thành phố Bắc Ninh, Tỉnh Bắc Ninh",
+        "code": "09163",
+        "parent_code": "256"
+    },
+    "09166": {
+        "name": "Đáp Cầu",
+        "type": "phuong",
+        "slug": "dap-cau",
+        "name_with_type": "Phường Đáp Cầu",
+        "path": "Đáp Cầu, Bắc Ninh, Bắc Ninh",
+        "path_with_type": "Phường Đáp Cầu, Thành phố Bắc Ninh, Tỉnh Bắc Ninh",
+        "code": "09166",
+        "parent_code": "256"
+    },
+    "09169": {
+        "name": "Thị Cầu",
+        "type": "phuong",
+        "slug": "thi-cau",
+        "name_with_type": "Phường Thị Cầu",
+        "path": "Thị Cầu, Bắc Ninh, Bắc Ninh",
+        "path_with_type": "Phường Thị Cầu, Thành phố Bắc Ninh, Tỉnh Bắc Ninh",
+        "code": "09169",
+        "parent_code": "256"
+    },
+    "09172": {
+        "name": "Kinh Bắc",
+        "type": "phuong",
+        "slug": "kinh-bac",
+        "name_with_type": "Phường Kinh Bắc",
+        "path": "Kinh Bắc, Bắc Ninh, Bắc Ninh",
+        "path_with_type": "Phường Kinh Bắc, Thành phố Bắc Ninh, Tỉnh Bắc Ninh",
+        "code": "09172",
+        "parent_code": "256"
+    },
+    "09175": {
+        "name": "Vệ An",
+        "type": "phuong",
+        "slug": "ve-an",
+        "name_with_type": "Phường Vệ An",
+        "path": "Vệ An, Bắc Ninh, Bắc Ninh",
+        "path_with_type": "Phường Vệ An, Thành phố Bắc Ninh, Tỉnh Bắc Ninh",
+        "code": "09175",
+        "parent_code": "256"
+    },
+    "09178": {
+        "name": "Tiền An",
+        "type": "phuong",
+        "slug": "tien-an",
+        "name_with_type": "Phường Tiền An",
+        "path": "Tiền An, Bắc Ninh, Bắc Ninh",
+        "path_with_type": "Phường Tiền An, Thành phố Bắc Ninh, Tỉnh Bắc Ninh",
+        "code": "09178",
+        "parent_code": "256"
+    },
+    "09181": {
+        "name": "Đại Phúc",
+        "type": "phuong",
+        "slug": "dai-phuc",
+        "name_with_type": "Phường Đại Phúc",
+        "path": "Đại Phúc, Bắc Ninh, Bắc Ninh",
+        "path_with_type": "Phường Đại Phúc, Thành phố Bắc Ninh, Tỉnh Bắc Ninh",
+        "code": "09181",
+        "parent_code": "256"
+    },
+    "09184": {
+        "name": "Ninh Xá",
+        "type": "phuong",
+        "slug": "ninh-xa",
+        "name_with_type": "Phường Ninh Xá",
+        "path": "Ninh Xá, Bắc Ninh, Bắc Ninh",
+        "path_with_type": "Phường Ninh Xá, Thành phố Bắc Ninh, Tỉnh Bắc Ninh",
+        "code": "09184",
+        "parent_code": "256"
+    },
+    "09187": {
+        "name": "Suối Hoa",
+        "type": "phuong",
+        "slug": "suoi-hoa",
+        "name_with_type": "Phường Suối Hoa",
+        "path": "Suối Hoa, Bắc Ninh, Bắc Ninh",
+        "path_with_type": "Phường Suối Hoa, Thành phố Bắc Ninh, Tỉnh Bắc Ninh",
+        "code": "09187",
+        "parent_code": "256"
+    },
+    "09190": {
+        "name": "Võ Cường",
+        "type": "phuong",
+        "slug": "vo-cuong",
+        "name_with_type": "Phường Võ Cường",
+        "path": "Võ Cường, Bắc Ninh, Bắc Ninh",
+        "path_with_type": "Phường Võ Cường, Thành phố Bắc Ninh, Tỉnh Bắc Ninh",
+        "code": "09190",
+        "parent_code": "256"
+    },
+    "09214": {
+        "name": "Hòa Long",
+        "type": "xa",
+        "slug": "hoa-long",
+        "name_with_type": "Xã Hòa Long",
+        "path": "Hòa Long, Bắc Ninh, Bắc Ninh",
+        "path_with_type": "Xã Hòa Long, Thành phố Bắc Ninh, Tỉnh Bắc Ninh",
+        "code": "09214",
+        "parent_code": "256"
+    },
+    "09226": {
+        "name": "Vạn An",
+        "type": "phuong",
+        "slug": "van-an",
+        "name_with_type": "Phường Vạn An",
+        "path": "Vạn An, Bắc Ninh, Bắc Ninh",
+        "path_with_type": "Phường Vạn An, Thành phố Bắc Ninh, Tỉnh Bắc Ninh",
+        "code": "09226",
+        "parent_code": "256"
+    },
+    "09235": {
+        "name": "Khúc Xuyên",
+        "type": "phuong",
+        "slug": "khuc-xuyen",
+        "name_with_type": "Phường Khúc Xuyên",
+        "path": "Khúc Xuyên, Bắc Ninh, Bắc Ninh",
+        "path_with_type": "Phường Khúc Xuyên, Thành phố Bắc Ninh, Tỉnh Bắc Ninh",
+        "code": "09235",
+        "parent_code": "256"
+    },
+    "09244": {
+        "name": "Phong Khê",
+        "type": "phuong",
+        "slug": "phong-khe",
+        "name_with_type": "Phường Phong Khê",
+        "path": "Phong Khê, Bắc Ninh, Bắc Ninh",
+        "path_with_type": "Phường Phong Khê, Thành phố Bắc Ninh, Tỉnh Bắc Ninh",
+        "code": "09244",
+        "parent_code": "256"
+    },
+    "09256": {
+        "name": "Kim Chân",
+        "type": "xa",
+        "slug": "kim-chan",
+        "name_with_type": "Xã Kim Chân",
+        "path": "Kim Chân, Bắc Ninh, Bắc Ninh",
+        "path_with_type": "Xã Kim Chân, Thành phố Bắc Ninh, Tỉnh Bắc Ninh",
+        "code": "09256",
+        "parent_code": "256"
+    },
+    "09271": {
+        "name": "Vân Dương",
+        "type": "phuong",
+        "slug": "van-duong",
+        "name_with_type": "Phường Vân Dương",
+        "path": "Vân Dương, Bắc Ninh, Bắc Ninh",
+        "path_with_type": "Phường Vân Dương, Thành phố Bắc Ninh, Tỉnh Bắc Ninh",
+        "code": "09271",
+        "parent_code": "256"
+    },
+    "09286": {
+        "name": "Nam Sơn",
+        "type": "xa",
+        "slug": "nam-son",
+        "name_with_type": "Xã Nam Sơn",
+        "path": "Nam Sơn, Bắc Ninh, Bắc Ninh",
+        "path_with_type": "Xã Nam Sơn, Thành phố Bắc Ninh, Tỉnh Bắc Ninh",
+        "code": "09286",
+        "parent_code": "256"
+    },
+    "09325": {
+        "name": "Khắc Niệm",
+        "type": "phuong",
+        "slug": "khac-niem",
+        "name_with_type": "Phường Khắc Niệm",
+        "path": "Khắc Niệm, Bắc Ninh, Bắc Ninh",
+        "path_with_type": "Phường Khắc Niệm, Thành phố Bắc Ninh, Tỉnh Bắc Ninh",
+        "code": "09325",
+        "parent_code": "256"
+    },
+    "09331": {
+        "name": "Hạp Lĩnh",
+        "type": "phuong",
+        "slug": "hap-linh",
+        "name_with_type": "Phường Hạp Lĩnh",
+        "path": "Hạp Lĩnh, Bắc Ninh, Bắc Ninh",
+        "path_with_type": "Phường Hạp Lĩnh, Thành phố Bắc Ninh, Tỉnh Bắc Ninh",
+        "code": "09331",
+        "parent_code": "256"
+    }
+}

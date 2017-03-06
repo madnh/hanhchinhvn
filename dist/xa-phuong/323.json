@@ -1,0 +1,172 @@
+{
+    "11950": {
+        "name": "Lam Sơn",
+        "type": "phuong",
+        "slug": "lam-son",
+        "name_with_type": "Phường Lam Sơn",
+        "path": "Lam Sơn, Hưng Yên, Hưng Yên",
+        "path_with_type": "Phường Lam Sơn, Thành phố Hưng Yên, Tỉnh Hưng Yên",
+        "code": "11950",
+        "parent_code": "323"
+    },
+    "11953": {
+        "name": "Hiến Nam",
+        "type": "phuong",
+        "slug": "hien-nam",
+        "name_with_type": "Phường Hiến Nam",
+        "path": "Hiến Nam, Hưng Yên, Hưng Yên",
+        "path_with_type": "Phường Hiến Nam, Thành phố Hưng Yên, Tỉnh Hưng Yên",
+        "code": "11953",
+        "parent_code": "323"
+    },
+    "11956": {
+        "name": "An Tảo",
+        "type": "phuong",
+        "slug": "an-tao",
+        "name_with_type": "Phường An Tảo",
+        "path": "An Tảo, Hưng Yên, Hưng Yên",
+        "path_with_type": "Phường An Tảo, Thành phố Hưng Yên, Tỉnh Hưng Yên",
+        "code": "11956",
+        "parent_code": "323"
+    },
+    "11959": {
+        "name": "Lê Lợi",
+        "type": "phuong",
+        "slug": "le-loi",
+        "name_with_type": "Phường Lê Lợi",
+        "path": "Lê Lợi, Hưng Yên, Hưng Yên",
+        "path_with_type": "Phường Lê Lợi, Thành phố Hưng Yên, Tỉnh Hưng Yên",
+        "code": "11959",
+        "parent_code": "323"
+    },
+    "11962": {
+        "name": "Minh Khai",
+        "type": "phuong",
+        "slug": "minh-khai",
+        "name_with_type": "Phường Minh Khai",
+        "path": "Minh Khai, Hưng Yên, Hưng Yên",
+        "path_with_type": "Phường Minh Khai, Thành phố Hưng Yên, Tỉnh Hưng Yên",
+        "code": "11962",
+        "parent_code": "323"
+    },
+    "11965": {
+        "name": "Quang Trung",
+        "type": "phuong",
+        "slug": "quang-trung",
+        "name_with_type": "Phường Quang Trung",
+        "path": "Quang Trung, Hưng Yên, Hưng Yên",
+        "path_with_type": "Phường Quang Trung, Thành phố Hưng Yên, Tỉnh Hưng Yên",
+        "code": "11965",
+        "parent_code": "323"
+    },
+    "11968": {
+        "name": "Hồng Châu",
+        "type": "phuong",
+        "slug": "hong-chau",
+        "name_with_type": "Phường Hồng Châu",
+        "path": "Hồng Châu, Hưng Yên, Hưng Yên",
+        "path_with_type": "Phường Hồng Châu, Thành phố Hưng Yên, Tỉnh Hưng Yên",
+        "code": "11968",
+        "parent_code": "323"
+    },
+    "11971": {
+        "name": "Trung Nghĩa",
+        "type": "xa",
+        "slug": "trung-nghia",
+        "name_with_type": "Xã Trung Nghĩa",
+        "path": "Trung Nghĩa, Hưng Yên, Hưng Yên",
+        "path_with_type": "Xã Trung Nghĩa, Thành phố Hưng Yên, Tỉnh Hưng Yên",
+        "code": "11971",
+        "parent_code": "323"
+    },
+    "11974": {
+        "name": "Liên Phương",
+        "type": "xa",
+        "slug": "lien-phuong",
+        "name_with_type": "Xã Liên Phương",
+        "path": "Liên Phương, Hưng Yên, Hưng Yên",
+        "path_with_type": "Xã Liên Phương, Thành phố Hưng Yên, Tỉnh Hưng Yên",
+        "code": "11974",
+        "parent_code": "323"
+    },
+    "11977": {
+        "name": "Hồng Nam",
+        "type": "xa",
+        "slug": "hong-nam",
+        "name_with_type": "Xã Hồng Nam",
+        "path": "Hồng Nam, Hưng Yên, Hưng Yên",
+        "path_with_type": "Xã Hồng Nam, Thành phố Hưng Yên, Tỉnh Hưng Yên",
+        "code": "11977",
+        "parent_code": "323"
+    },
+    "11980": {
+        "name": "Quảng Châu",
+        "type": "xa",
+        "slug": "quang-chau",
+        "name_with_type": "Xã Quảng Châu",
+        "path": "Quảng Châu, Hưng Yên, Hưng Yên",
+        "path_with_type": "Xã Quảng Châu, Thành phố Hưng Yên, Tỉnh Hưng Yên",
+        "code": "11980",
+        "parent_code": "323"
+    },
+    "11983": {
+        "name": "Bảo Khê",
+        "type": "xa",
+        "slug": "bao-khe",
+        "name_with_type": "Xã Bảo Khê",
+        "path": "Bảo Khê, Hưng Yên, Hưng Yên",
+        "path_with_type": "Xã Bảo Khê, Thành phố Hưng Yên, Tỉnh Hưng Yên",
+        "code": "11983",
+        "parent_code": "323"
+    },
+    "12331": {
+        "name": "Phú Cường",
+        "type": "xa",
+        "slug": "phu-cuong",
+        "name_with_type": "Xã Phú Cường",
+        "path": "Phú Cường, Hưng Yên, Hưng Yên",
+        "path_with_type": "Xã Phú Cường, Thành phố Hưng Yên, Tỉnh Hưng Yên",
+        "code": "12331",
+        "parent_code": "323"
+    },
+    "12334": {
+        "name": "Hùng Cường",
+        "type": "xa",
+        "slug": "hung-cuong",
+        "name_with_type": "Xã Hùng Cường",
+        "path": "Hùng Cường, Hưng Yên, Hưng Yên",
+        "path_with_type": "Xã Hùng Cường, Thành phố Hưng Yên, Tỉnh Hưng Yên",
+        "code": "12334",
+        "parent_code": "323"
+    },
+    "12382": {
+        "name": "Phương Chiểu",
+        "type": "xa",
+        "slug": "phuong-chieu",
+        "name_with_type": "Xã Phương Chiểu",
+        "path": "Phương Chiểu, Hưng Yên, Hưng Yên",
+        "path_with_type": "Xã Phương Chiểu, Thành phố Hưng Yên, Tỉnh Hưng Yên",
+        "code": "12382",
+        "parent_code": "323"
+    },
+    "12385": {
+        "name": "Tân Hưng",
+        "type": "xa",
+        "slug": "tan-hung",
+        "name_with_type": "Xã Tân Hưng",
+        "path": "Tân Hưng, Hưng Yên, Hưng Yên",
+        "path_with_type": "Xã Tân Hưng, Thành phố Hưng Yên, Tỉnh Hưng Yên",
+        "code": "12385",
+        "parent_code": "323"
+    },
+    "12388": {
+        "name": "Hoàng Hanh",
+        "type": "xa",
+        "slug": "hoang-hanh",
+        "name_with_type": "Xã Hoàng Hanh",
+        "path": "Hoàng Hanh, Hưng Yên, Hưng Yên",
+        "path_with_type": "Xã Hoàng Hanh, Thành phố Hưng Yên, Tỉnh Hưng Yên",
+        "code": "12388",
+        "parent_code": "323"
+    }
+}

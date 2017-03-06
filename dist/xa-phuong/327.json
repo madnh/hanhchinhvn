@@ -1,0 +1,172 @@
+{
+    "12052": {
+        "name": "Yên Mỹ",
+        "type": "thi-tran",
+        "slug": "yen-my",
+        "name_with_type": "Thị trấn Yên Mỹ",
+        "path": "Yên Mỹ, Yên Mỹ, Hưng Yên",
+        "path_with_type": "Thị trấn Yên Mỹ, Huyện Yên Mỹ, Tỉnh Hưng Yên",
+        "code": "12052",
+        "parent_code": "327"
+    },
+    "12055": {
+        "name": "Giai Phạm",
+        "type": "xa",
+        "slug": "giai-pham",
+        "name_with_type": "Xã Giai Phạm",
+        "path": "Giai Phạm, Yên Mỹ, Hưng Yên",
+        "path_with_type": "Xã Giai Phạm, Huyện Yên Mỹ, Tỉnh Hưng Yên",
+        "code": "12055",
+        "parent_code": "327"
+    },
+    "12058": {
+        "name": "Nghĩa Hiệp",
+        "type": "xa",
+        "slug": "nghia-hiep",
+        "name_with_type": "Xã Nghĩa Hiệp",
+        "path": "Nghĩa Hiệp, Yên Mỹ, Hưng Yên",
+        "path_with_type": "Xã Nghĩa Hiệp, Huyện Yên Mỹ, Tỉnh Hưng Yên",
+        "code": "12058",
+        "parent_code": "327"
+    },
+    "12061": {
+        "name": "Đồng Than",
+        "type": "xa",
+        "slug": "dong-than",
+        "name_with_type": "Xã Đồng Than",
+        "path": "Đồng Than, Yên Mỹ, Hưng Yên",
+        "path_with_type": "Xã Đồng Than, Huyện Yên Mỹ, Tỉnh Hưng Yên",
+        "code": "12061",
+        "parent_code": "327"
+    },
+    "12064": {
+        "name": "Ngọc Long",
+        "type": "xa",
+        "slug": "ngoc-long",
+        "name_with_type": "Xã Ngọc Long",
+        "path": "Ngọc Long, Yên Mỹ, Hưng Yên",
+        "path_with_type": "Xã Ngọc Long, Huyện Yên Mỹ, Tỉnh Hưng Yên",
+        "code": "12064",
+        "parent_code": "327"
+    },
+    "12067": {
+        "name": "Liêu Xá",
+        "type": "xa",
+        "slug": "lieu-xa",
+        "name_with_type": "Xã Liêu Xá",
+        "path": "Liêu Xá, Yên Mỹ, Hưng Yên",
+        "path_with_type": "Xã Liêu Xá, Huyện Yên Mỹ, Tỉnh Hưng Yên",
+        "code": "12067",
+        "parent_code": "327"
+    },
+    "12070": {
+        "name": "Hoàn Long",
+        "type": "xa",
+        "slug": "hoan-long",
+        "name_with_type": "Xã Hoàn Long",
+        "path": "Hoàn Long, Yên Mỹ, Hưng Yên",
+        "path_with_type": "Xã Hoàn Long, Huyện Yên Mỹ, Tỉnh Hưng Yên",
+        "code": "12070",
+        "parent_code": "327"
+    },
+    "12073": {
+        "name": "Tân Lập",
+        "type": "xa",
+        "slug": "tan-lap",
+        "name_with_type": "Xã Tân Lập",
+        "path": "Tân Lập, Yên Mỹ, Hưng Yên",
+        "path_with_type": "Xã Tân Lập, Huyện Yên Mỹ, Tỉnh Hưng Yên",
+        "code": "12073",
+        "parent_code": "327"
+    },
+    "12076": {
+        "name": "Thanh Long",
+        "type": "xa",
+        "slug": "thanh-long",
+        "name_with_type": "Xã Thanh Long",
+        "path": "Thanh Long, Yên Mỹ, Hưng Yên",
+        "path_with_type": "Xã Thanh Long, Huyện Yên Mỹ, Tỉnh Hưng Yên",
+        "code": "12076",
+        "parent_code": "327"
+    },
+    "12079": {
+        "name": "Yên Phú",
+        "type": "xa",
+        "slug": "yen-phu",
+        "name_with_type": "Xã Yên Phú",
+        "path": "Yên Phú, Yên Mỹ, Hưng Yên",
+        "path_with_type": "Xã Yên Phú, Huyện Yên Mỹ, Tỉnh Hưng Yên",
+        "code": "12079",
+        "parent_code": "327"
+    },
+    "12082": {
+        "name": "Việt Cường",
+        "type": "xa",
+        "slug": "viet-cuong",
+        "name_with_type": "Xã Việt Cường",
+        "path": "Việt Cường, Yên Mỹ, Hưng Yên",
+        "path_with_type": "Xã Việt Cường, Huyện Yên Mỹ, Tỉnh Hưng Yên",
+        "code": "12082",
+        "parent_code": "327"
+    },
+    "12085": {
+        "name": "Trung Hòa",
+        "type": "xa",
+        "slug": "trung-hoa",
+        "name_with_type": "Xã Trung Hòa",
+        "path": "Trung Hòa, Yên Mỹ, Hưng Yên",
+        "path_with_type": "Xã Trung Hòa, Huyện Yên Mỹ, Tỉnh Hưng Yên",
+        "code": "12085",
+        "parent_code": "327"
+    },
+    "12088": {
+        "name": "Yên Hòa",
+        "type": "xa",
+        "slug": "yen-hoa",
+        "name_with_type": "Xã Yên Hòa",
+        "path": "Yên Hòa, Yên Mỹ, Hưng Yên",
+        "path_with_type": "Xã Yên Hòa, Huyện Yên Mỹ, Tỉnh Hưng Yên",
+        "code": "12088",
+        "parent_code": "327"
+    },
+    "12091": {
+        "name": "Minh Châu",
+        "type": "xa",
+        "slug": "minh-chau",
+        "name_with_type": "Xã Minh Châu",
+        "path": "Minh Châu, Yên Mỹ, Hưng Yên",
+        "path_with_type": "Xã Minh Châu, Huyện Yên Mỹ, Tỉnh Hưng Yên",
+        "code": "12091",
+        "parent_code": "327"
+    },
+    "12094": {
+        "name": "Trung Hưng",
+        "type": "xa",
+        "slug": "trung-hung",
+        "name_with_type": "Xã Trung Hưng",
+        "path": "Trung Hưng, Yên Mỹ, Hưng Yên",
+        "path_with_type": "Xã Trung Hưng, Huyện Yên Mỹ, Tỉnh Hưng Yên",
+        "code": "12094",
+        "parent_code": "327"
+    },
+    "12097": {
+        "name": "Lý Thường Kiệt",
+        "type": "xa",
+        "slug": "ly-thuong-kiet",
+        "name_with_type": "Xã Lý Thường Kiệt",
+        "path": "Lý Thường Kiệt, Yên Mỹ, Hưng Yên",
+        "path_with_type": "Xã Lý Thường Kiệt, Huyện Yên Mỹ, Tỉnh Hưng Yên",
+        "code": "12097",
+        "parent_code": "327"
+    },
+    "12100": {
+        "name": "Tân Việt",
+        "type": "xa",
+        "slug": "tan-viet",
+        "name_with_type": "Xã Tân Việt",
+        "path": "Tân Việt, Yên Mỹ, Hưng Yên",
+        "path_with_type": "Xã Tân Việt, Huyện Yên Mỹ, Tỉnh Hưng Yên",
+        "code": "12100",
+        "parent_code": "327"
+    }
+}

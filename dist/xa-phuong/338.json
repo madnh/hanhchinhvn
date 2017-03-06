@@ -1,0 +1,382 @@
+{
+    "12472": {
+        "name": "Quỳnh Côi",
+        "type": "thi-tran",
+        "slug": "quynh-coi",
+        "name_with_type": "Thị trấn Quỳnh Côi",
+        "path": "Quỳnh Côi, Quỳnh Phụ, Thái Bình",
+        "path_with_type": "Thị trấn Quỳnh Côi, Huyện Quỳnh Phụ, Tỉnh Thái Bình",
+        "code": "12472",
+        "parent_code": "338"
+    },
+    "12475": {
+        "name": "An Khê",
+        "type": "xa",
+        "slug": "an-khe",
+        "name_with_type": "Xã An Khê",
+        "path": "An Khê, Quỳnh Phụ, Thái Bình",
+        "path_with_type": "Xã An Khê, Huyện Quỳnh Phụ, Tỉnh Thái Bình",
+        "code": "12475",
+        "parent_code": "338"
+    },
+    "12478": {
+        "name": "An Đồng",
+        "type": "xa",
+        "slug": "an-dong",
+        "name_with_type": "Xã An Đồng",
+        "path": "An Đồng, Quỳnh Phụ, Thái Bình",
+        "path_with_type": "Xã An Đồng, Huyện Quỳnh Phụ, Tỉnh Thái Bình",
+        "code": "12478",
+        "parent_code": "338"
+    },
+    "12481": {
+        "name": "Quỳnh Hoa",
+        "type": "xa",
+        "slug": "quynh-hoa",
+        "name_with_type": "Xã Quỳnh Hoa",
+        "path": "Quỳnh Hoa, Quỳnh Phụ, Thái Bình",
+        "path_with_type": "Xã Quỳnh Hoa, Huyện Quỳnh Phụ, Tỉnh Thái Bình",
+        "code": "12481",
+        "parent_code": "338"
+    },
+    "12484": {
+        "name": "Quỳnh Lâm",
+        "type": "xa",
+        "slug": "quynh-lam",
+        "name_with_type": "Xã Quỳnh Lâm",
+        "path": "Quỳnh Lâm, Quỳnh Phụ, Thái Bình",
+        "path_with_type": "Xã Quỳnh Lâm, Huyện Quỳnh Phụ, Tỉnh Thái Bình",
+        "code": "12484",
+        "parent_code": "338"
+    },
+    "12487": {
+        "name": "Quỳnh Thọ",
+        "type": "xa",
+        "slug": "quynh-tho",
+        "name_with_type": "Xã Quỳnh Thọ",
+        "path": "Quỳnh Thọ, Quỳnh Phụ, Thái Bình",
+        "path_with_type": "Xã Quỳnh Thọ, Huyện Quỳnh Phụ, Tỉnh Thái Bình",
+        "code": "12487",
+        "parent_code": "338"
+    },
+    "12490": {
+        "name": "An Hiệp",
+        "type": "xa",
+        "slug": "an-hiep",
+        "name_with_type": "Xã An Hiệp",
+        "path": "An Hiệp, Quỳnh Phụ, Thái Bình",
+        "path_with_type": "Xã An Hiệp, Huyện Quỳnh Phụ, Tỉnh Thái Bình",
+        "code": "12490",
+        "parent_code": "338"
+    },
+    "12493": {
+        "name": "Quỳnh Hoàng",
+        "type": "xa",
+        "slug": "quynh-hoang",
+        "name_with_type": "Xã Quỳnh Hoàng",
+        "path": "Quỳnh Hoàng, Quỳnh Phụ, Thái Bình",
+        "path_with_type": "Xã Quỳnh Hoàng, Huyện Quỳnh Phụ, Tỉnh Thái Bình",
+        "code": "12493",
+        "parent_code": "338"
+    },
+    "12496": {
+        "name": "Quỳnh Giao",
+        "type": "xa",
+        "slug": "quynh-giao",
+        "name_with_type": "Xã Quỳnh Giao",
+        "path": "Quỳnh Giao, Quỳnh Phụ, Thái Bình",
+        "path_with_type": "Xã Quỳnh Giao, Huyện Quỳnh Phụ, Tỉnh Thái Bình",
+        "code": "12496",
+        "parent_code": "338"
+    },
+    "12499": {
+        "name": "An Thái",
+        "type": "xa",
+        "slug": "an-thai",
+        "name_with_type": "Xã An Thái",
+        "path": "An Thái, Quỳnh Phụ, Thái Bình",
+        "path_with_type": "Xã An Thái, Huyện Quỳnh Phụ, Tỉnh Thái Bình",
+        "code": "12499",
+        "parent_code": "338"
+    },
+    "12502": {
+        "name": "An Cầu",
+        "type": "xa",
+        "slug": "an-cau",
+        "name_with_type": "Xã An Cầu",
+        "path": "An Cầu, Quỳnh Phụ, Thái Bình",
+        "path_with_type": "Xã An Cầu, Huyện Quỳnh Phụ, Tỉnh Thái Bình",
+        "code": "12502",
+        "parent_code": "338"
+    },
+    "12505": {
+        "name": "Quỳnh Hồng",
+        "type": "xa",
+        "slug": "quynh-hong",
+        "name_with_type": "Xã Quỳnh Hồng",
+        "path": "Quỳnh Hồng, Quỳnh Phụ, Thái Bình",
+        "path_with_type": "Xã Quỳnh Hồng, Huyện Quỳnh Phụ, Tỉnh Thái Bình",
+        "code": "12505",
+        "parent_code": "338"
+    },
+    "12508": {
+        "name": "Quỳnh Khê",
+        "type": "xa",
+        "slug": "quynh-khe",
+        "name_with_type": "Xã Quỳnh Khê",
+        "path": "Quỳnh Khê, Quỳnh Phụ, Thái Bình",
+        "path_with_type": "Xã Quỳnh Khê, Huyện Quỳnh Phụ, Tỉnh Thái Bình",
+        "code": "12508",
+        "parent_code": "338"
+    },
+    "12511": {
+        "name": "Quỳnh Minh",
+        "type": "xa",
+        "slug": "quynh-minh",
+        "name_with_type": "Xã Quỳnh Minh",
+        "path": "Quỳnh Minh, Quỳnh Phụ, Thái Bình",
+        "path_with_type": "Xã Quỳnh Minh, Huyện Quỳnh Phụ, Tỉnh Thái Bình",
+        "code": "12511",
+        "parent_code": "338"
+    },
+    "12514": {
+        "name": "An Ninh",
+        "type": "xa",
+        "slug": "an-ninh",
+        "name_with_type": "Xã An Ninh",
+        "path": "An Ninh, Quỳnh Phụ, Thái Bình",
+        "path_with_type": "Xã An Ninh, Huyện Quỳnh Phụ, Tỉnh Thái Bình",
+        "code": "12514",
+        "parent_code": "338"
+    },
+    "12517": {
+        "name": "Quỳnh Ngọc",
+        "type": "xa",
+        "slug": "quynh-ngoc",
+        "name_with_type": "Xã Quỳnh Ngọc",
+        "path": "Quỳnh Ngọc, Quỳnh Phụ, Thái Bình",
+        "path_with_type": "Xã Quỳnh Ngọc, Huyện Quỳnh Phụ, Tỉnh Thái Bình",
+        "code": "12517",
+        "parent_code": "338"
+    },
+    "12520": {
+        "name": "Quỳnh Hải",
+        "type": "xa",
+        "slug": "quynh-hai",
+        "name_with_type": "Xã Quỳnh Hải",
+        "path": "Quỳnh Hải, Quỳnh Phụ, Thái Bình",
+        "path_with_type": "Xã Quỳnh Hải, Huyện Quỳnh Phụ, Tỉnh Thái Bình",
+        "code": "12520",
+        "parent_code": "338"
+    },
+    "12523": {
+        "name": "An Bài",
+        "type": "thi-tran",
+        "slug": "an-bai",
+        "name_with_type": "Thị trấn An Bài",
+        "path": "An Bài, Quỳnh Phụ, Thái Bình",
+        "path_with_type": "Thị trấn An Bài, Huyện Quỳnh Phụ, Tỉnh Thái Bình",
+        "code": "12523",
+        "parent_code": "338"
+    },
+    "12526": {
+        "name": "An Ấp",
+        "type": "xa",
+        "slug": "an-ap",
+        "name_with_type": "Xã An Ấp",
+        "path": "An Ấp, Quỳnh Phụ, Thái Bình",
+        "path_with_type": "Xã An Ấp, Huyện Quỳnh Phụ, Tỉnh Thái Bình",
+        "code": "12526",
+        "parent_code": "338"
+    },
+    "12529": {
+        "name": "Quỳnh Hội",
+        "type": "xa",
+        "slug": "quynh-hoi",
+        "name_with_type": "Xã Quỳnh Hội",
+        "path": "Quỳnh Hội, Quỳnh Phụ, Thái Bình",
+        "path_with_type": "Xã Quỳnh Hội, Huyện Quỳnh Phụ, Tỉnh Thái Bình",
+        "code": "12529",
+        "parent_code": "338"
+    },
+    "12532": {
+        "name": "Quỳnh Sơn",
+        "type": "xa",
+        "slug": "quynh-son",
+        "name_with_type": "Xã Quỳnh Sơn",
+        "path": "Quỳnh Sơn, Quỳnh Phụ, Thái Bình",
+        "path_with_type": "Xã Quỳnh Sơn, Huyện Quỳnh Phụ, Tỉnh Thái Bình",
+        "code": "12532",
+        "parent_code": "338"
+    },
+    "12535": {
+        "name": "Quỳnh Mỹ",
+        "type": "xa",
+        "slug": "quynh-my",
+        "name_with_type": "Xã Quỳnh Mỹ",
+        "path": "Quỳnh Mỹ, Quỳnh Phụ, Thái Bình",
+        "path_with_type": "Xã Quỳnh Mỹ, Huyện Quỳnh Phụ, Tỉnh Thái Bình",
+        "code": "12535",
+        "parent_code": "338"
+    },
+    "12538": {
+        "name": "An Quí",
+        "type": "xa",
+        "slug": "an-qui",
+        "name_with_type": "Xã An Quí",
+        "path": "An Quí, Quỳnh Phụ, Thái Bình",
+        "path_with_type": "Xã An Quí, Huyện Quỳnh Phụ, Tỉnh Thái Bình",
+        "code": "12538",
+        "parent_code": "338"
+    },
+    "12541": {
+        "name": "An Thanh",
+        "type": "xa",
+        "slug": "an-thanh",
+        "name_with_type": "Xã An Thanh",
+        "path": "An Thanh, Quỳnh Phụ, Thái Bình",
+        "path_with_type": "Xã An Thanh, Huyện Quỳnh Phụ, Tỉnh Thái Bình",
+        "code": "12541",
+        "parent_code": "338"
+    },
+    "12544": {
+        "name": "Quỳnh Châu",
+        "type": "xa",
+        "slug": "quynh-chau",
+        "name_with_type": "Xã Quỳnh Châu",
+        "path": "Quỳnh Châu, Quỳnh Phụ, Thái Bình",
+        "path_with_type": "Xã Quỳnh Châu, Huyện Quỳnh Phụ, Tỉnh Thái Bình",
+        "code": "12544",
+        "parent_code": "338"
+    },
+    "12547": {
+        "name": "An Vũ",
+        "type": "xa",
+        "slug": "an-vu",
+        "name_with_type": "Xã An Vũ",
+        "path": "An Vũ, Quỳnh Phụ, Thái Bình",
+        "path_with_type": "Xã An Vũ, Huyện Quỳnh Phụ, Tỉnh Thái Bình",
+        "code": "12547",
+        "parent_code": "338"
+    },
+    "12550": {
+        "name": "An Lễ",
+        "type": "xa",
+        "slug": "an-le",
+        "name_with_type": "Xã An Lễ",
+        "path": "An Lễ, Quỳnh Phụ, Thái Bình",
+        "path_with_type": "Xã An Lễ, Huyện Quỳnh Phụ, Tỉnh Thái Bình",
+        "code": "12550",
+        "parent_code": "338"
+    },
+    "12553": {
+        "name": "Quỳnh Hưng",
+        "type": "xa",
+        "slug": "quynh-hung",
+        "name_with_type": "Xã Quỳnh Hưng",
+        "path": "Quỳnh Hưng, Quỳnh Phụ, Thái Bình",
+        "path_with_type": "Xã Quỳnh Hưng, Huyện Quỳnh Phụ, Tỉnh Thái Bình",
+        "code": "12553",
+        "parent_code": "338"
+    },
+    "12556": {
+        "name": "Quỳnh Bảo",
+        "type": "xa",
+        "slug": "quynh-bao",
+        "name_with_type": "Xã Quỳnh Bảo",
+        "path": "Quỳnh Bảo, Quỳnh Phụ, Thái Bình",
+        "path_with_type": "Xã Quỳnh Bảo, Huyện Quỳnh Phụ, Tỉnh Thái Bình",
+        "code": "12556",
+        "parent_code": "338"
+    },
+    "12559": {
+        "name": "An Mỹ",
+        "type": "xa",
+        "slug": "an-my",
+        "name_with_type": "Xã An Mỹ",
+        "path": "An Mỹ, Quỳnh Phụ, Thái Bình",
+        "path_with_type": "Xã An Mỹ, Huyện Quỳnh Phụ, Tỉnh Thái Bình",
+        "code": "12559",
+        "parent_code": "338"
+    },
+    "12562": {
+        "name": "Quỳnh Nguyên",
+        "type": "xa",
+        "slug": "quynh-nguyen",
+        "name_with_type": "Xã Quỳnh Nguyên",
+        "path": "Quỳnh Nguyên, Quỳnh Phụ, Thái Bình",
+        "path_with_type": "Xã Quỳnh Nguyên, Huyện Quỳnh Phụ, Tỉnh Thái Bình",
+        "code": "12562",
+        "parent_code": "338"
+    },
+    "12565": {
+        "name": "An Vinh",
+        "type": "xa",
+        "slug": "an-vinh",
+        "name_with_type": "Xã An Vinh",
+        "path": "An Vinh, Quỳnh Phụ, Thái Bình",
+        "path_with_type": "Xã An Vinh, Huyện Quỳnh Phụ, Tỉnh Thái Bình",
+        "code": "12565",
+        "parent_code": "338"
+    },
+    "12568": {
+        "name": "Quỳnh Xá",
+        "type": "xa",
+        "slug": "quynh-xa",
+        "name_with_type": "Xã Quỳnh Xá",
+        "path": "Quỳnh Xá, Quỳnh Phụ, Thái Bình",
+        "path_with_type": "Xã Quỳnh Xá, Huyện Quỳnh Phụ, Tỉnh Thái Bình",
+        "code": "12568",
+        "parent_code": "338"
+    },
+    "12571": {
+        "name": "An Dục",
+        "type": "xa",
+        "slug": "an-duc",
+        "name_with_type": "Xã An Dục",
+        "path": "An Dục, Quỳnh Phụ, Thái Bình",
+        "path_with_type": "Xã An Dục, Huyện Quỳnh Phụ, Tỉnh Thái Bình",
+        "code": "12571",
+        "parent_code": "338"
+    },
+    "12574": {
+        "name": "Đông Hải",
+        "type": "xa",
+        "slug": "dong-hai",
+        "name_with_type": "Xã Đông Hải",
+        "path": "Đông Hải, Quỳnh Phụ, Thái Bình",
+        "path_with_type": "Xã Đông Hải, Huyện Quỳnh Phụ, Tỉnh Thái Bình",
+        "code": "12574",
+        "parent_code": "338"
+    },
+    "12577": {
+        "name": "Quỳnh Trang",
+        "type": "xa",
+        "slug": "quynh-trang",
+        "name_with_type": "Xã Quỳnh Trang",
+        "path": "Quỳnh Trang, Quỳnh Phụ, Thái Bình",
+        "path_with_type": "Xã Quỳnh Trang, Huyện Quỳnh Phụ, Tỉnh Thái Bình",
+        "code": "12577",
+        "parent_code": "338"
+    },
+    "12580": {
+        "name": "An Tràng",
+        "type": "xa",
+        "slug": "an-trang",
+        "name_with_type": "Xã An Tràng",
+        "path": "An Tràng, Quỳnh Phụ, Thái Bình",
+        "path_with_type": "Xã An Tràng, Huyện Quỳnh Phụ, Tỉnh Thái Bình",
+        "code": "12580",
+        "parent_code": "338"
+    },
+    "12583": {
+        "name": "Đồng Tiến",
+        "type": "xa",
+        "slug": "dong-tien",
+        "name_with_type": "Xã Đồng Tiến",
+        "path": "Đồng Tiến, Quỳnh Phụ, Thái Bình",
+        "path_with_type": "Xã Đồng Tiến, Huyện Quỳnh Phụ, Tỉnh Thái Bình",
+        "code": "12583",
+        "parent_code": "338"
+    }
+}

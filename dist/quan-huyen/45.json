@@ -1,0 +1,92 @@
+{
+    "461": {
+        "name": "Đông Hà",
+        "type": "thanh-pho",
+        "slug": "dong-ha",
+        "name_with_type": "Thành phố Đông Hà",
+        "path": "Đông Hà, Quảng Trị",
+        "path_with_type": "Thành phố Đông Hà, Tỉnh Quảng Trị",
+        "code": "461",
+        "parent_code": "45"
+    },
+    "462": {
+        "name": "Quảng Trị",
+        "type": "thi-xa",
+        "slug": "quang-tri",
+        "name_with_type": "Thị xã Quảng Trị",
+        "path": "Quảng Trị, Quảng Trị",
+        "path_with_type": "Thị xã Quảng Trị, Tỉnh Quảng Trị",
+        "code": "462",
+        "parent_code": "45"
+    },
+    "464": {
+        "name": "Vĩnh Linh",
+        "type": "huyen",
+        "slug": "vinh-linh",
+        "name_with_type": "Huyện Vĩnh Linh",
+        "path": "Vĩnh Linh, Quảng Trị",
+        "path_with_type": "Huyện Vĩnh Linh, Tỉnh Quảng Trị",
+        "code": "464",
+        "parent_code": "45"
+    },
+    "465": {
+        "name": "Hướng Hóa",
+        "type": "huyen",
+        "slug": "huong-hoa",
+        "name_with_type": "Huyện Hướng Hóa",
+        "path": "Hướng Hóa, Quảng Trị",
+        "path_with_type": "Huyện Hướng Hóa, Tỉnh Quảng Trị",
+        "code": "465",
+        "parent_code": "45"
+    },
+    "466": {
+        "name": "Gio Linh",
+        "type": "huyen",
+        "slug": "gio-linh",
+        "name_with_type": "Huyện Gio Linh",
+        "path": "Gio Linh, Quảng Trị",
+        "path_with_type": "Huyện Gio Linh, Tỉnh Quảng Trị",
+        "code": "466",
+        "parent_code": "45"
+    },
+    "467": {
+        "name": "Đa Krông",
+        "type": "huyen",
+        "slug": "da-krong",
+        "name_with_type": "Huyện Đa Krông",
+        "path": "Đa Krông, Quảng Trị",
+        "path_with_type": "Huyện Đa Krông, Tỉnh Quảng Trị",
+        "code": "467",
+        "parent_code": "45"
+    },
+    "468": {
+        "name": "Cam Lộ",
+        "type": "huyen",
+        "slug": "cam-lo",
+        "name_with_type": "Huyện Cam Lộ",
+        "path": "Cam Lộ, Quảng Trị",
+        "path_with_type": "Huyện Cam Lộ, Tỉnh Quảng Trị",
+        "code": "468",
+        "parent_code": "45"
+    },
+    "469": {
+        "name": "Triệu Phong",
+        "type": "huyen",
+        "slug": "trieu-phong",
+        "name_with_type": "Huyện Triệu Phong",
+        "path": "Triệu Phong, Quảng Trị",
+        "path_with_type": "Huyện Triệu Phong, Tỉnh Quảng Trị",
+        "code": "469",
+        "parent_code": "45"
+    },
+    "470": {
+        "name": "Hải Lăng",
+        "type": "huyen",
+        "slug": "hai-lang",
+        "name_with_type": "Huyện Hải Lăng",
+        "path": "Hải Lăng, Quảng Trị",
+        "path_with_type": "Huyện Hải Lăng, Tỉnh Quảng Trị",
+        "code": "470",
+        "parent_code": "45"
+    }
+}

@@ -1,0 +1,192 @@
+{
+    "04168": {
+        "name": "Sông Mã",
+        "type": "thi-tran",
+        "slug": "song-ma",
+        "name_with_type": "Thị trấn Sông Mã",
+        "path": "Sông Mã, Sông Mã, Sơn La",
+        "path_with_type": "Thị trấn Sông Mã, Huyện Sông Mã, Tỉnh Sơn La",
+        "code": "04168",
+        "parent_code": "126"
+    },
+    "04171": {
+        "name": "Bó Sinh",
+        "type": "xa",
+        "slug": "bo-sinh",
+        "name_with_type": "Xã Bó Sinh",
+        "path": "Bó Sinh, Sông Mã, Sơn La",
+        "path_with_type": "Xã Bó Sinh, Huyện Sông Mã, Tỉnh Sơn La",
+        "code": "04171",
+        "parent_code": "126"
+    },
+    "04174": {
+        "name": "Pú Pẩu",
+        "type": "xa",
+        "slug": "pu-pau",
+        "name_with_type": "Xã Pú Pẩu",
+        "path": "Pú Pẩu, Sông Mã, Sơn La",
+        "path_with_type": "Xã Pú Pẩu, Huyện Sông Mã, Tỉnh Sơn La",
+        "code": "04174",
+        "parent_code": "126"
+    },
+    "04177": {
+        "name": "Chiềng Phung",
+        "type": "xa",
+        "slug": "chieng-phung",
+        "name_with_type": "Xã Chiềng Phung",
+        "path": "Chiềng Phung, Sông Mã, Sơn La",
+        "path_with_type": "Xã Chiềng Phung, Huyện Sông Mã, Tỉnh Sơn La",
+        "code": "04177",
+        "parent_code": "126"
+    },
+    "04180": {
+        "name": "Chiềng En",
+        "type": "xa",
+        "slug": "chieng-en",
+        "name_with_type": "Xã Chiềng En",
+        "path": "Chiềng En, Sông Mã, Sơn La",
+        "path_with_type": "Xã Chiềng En, Huyện Sông Mã, Tỉnh Sơn La",
+        "code": "04180",
+        "parent_code": "126"
+    },
+    "04183": {
+        "name": "Mường Lầm",
+        "type": "xa",
+        "slug": "muong-lam",
+        "name_with_type": "Xã Mường Lầm",
+        "path": "Mường Lầm, Sông Mã, Sơn La",
+        "path_with_type": "Xã Mường Lầm, Huyện Sông Mã, Tỉnh Sơn La",
+        "code": "04183",
+        "parent_code": "126"
+    },
+    "04186": {
+        "name": "Nậm Ty",
+        "type": "xa",
+        "slug": "nam-ty",
+        "name_with_type": "Xã Nậm Ty",
+        "path": "Nậm Ty, Sông Mã, Sơn La",
+        "path_with_type": "Xã Nậm Ty, Huyện Sông Mã, Tỉnh Sơn La",
+        "code": "04186",
+        "parent_code": "126"
+    },
+    "04189": {
+        "name": "Đứa Mòn",
+        "type": "xa",
+        "slug": "dua-mon",
+        "name_with_type": "Xã Đứa Mòn",
+        "path": "Đứa Mòn, Sông Mã, Sơn La",
+        "path_with_type": "Xã Đứa Mòn, Huyện Sông Mã, Tỉnh Sơn La",
+        "code": "04189",
+        "parent_code": "126"
+    },
+    "04192": {
+        "name": "Yên Hưng",
+        "type": "xa",
+        "slug": "yen-hung",
+        "name_with_type": "Xã Yên Hưng",
+        "path": "Yên Hưng, Sông Mã, Sơn La",
+        "path_with_type": "Xã Yên Hưng, Huyện Sông Mã, Tỉnh Sơn La",
+        "code": "04192",
+        "parent_code": "126"
+    },
+    "04195": {
+        "name": "Chiềng Sơ",
+        "type": "xa",
+        "slug": "chieng-so",
+        "name_with_type": "Xã Chiềng Sơ",
+        "path": "Chiềng Sơ, Sông Mã, Sơn La",
+        "path_with_type": "Xã Chiềng Sơ, Huyện Sông Mã, Tỉnh Sơn La",
+        "code": "04195",
+        "parent_code": "126"
+    },
+    "04198": {
+        "name": "Nà Ngựu",
+        "type": "xa",
+        "slug": "na-nguu",
+        "name_with_type": "Xã Nà Ngựu",
+        "path": "Nà Ngựu, Sông Mã, Sơn La",
+        "path_with_type": "Xã Nà Ngựu, Huyện Sông Mã, Tỉnh Sơn La",
+        "code": "04198",
+        "parent_code": "126"
+    },
+    "04201": {
+        "name": "Nậm Mằn",
+        "type": "xa",
+        "slug": "nam-man",
+        "name_with_type": "Xã Nậm Mằn",
+        "path": "Nậm Mằn, Sông Mã, Sơn La",
+        "path_with_type": "Xã Nậm Mằn, Huyện Sông Mã, Tỉnh Sơn La",
+        "code": "04201",
+        "parent_code": "126"
+    },
+    "04204": {
+        "name": "Chiềng Khoong",
+        "type": "xa",
+        "slug": "chieng-khoong",
+        "name_with_type": "Xã Chiềng Khoong",
+        "path": "Chiềng Khoong, Sông Mã, Sơn La",
+        "path_with_type": "Xã Chiềng Khoong, Huyện Sông Mã, Tỉnh Sơn La",
+        "code": "04204",
+        "parent_code": "126"
+    },
+    "04207": {
+        "name": "Chiềng Cang",
+        "type": "xa",
+        "slug": "chieng-cang",
+        "name_with_type": "Xã Chiềng Cang",
+        "path": "Chiềng Cang, Sông Mã, Sơn La",
+        "path_with_type": "Xã Chiềng Cang, Huyện Sông Mã, Tỉnh Sơn La",
+        "code": "04207",
+        "parent_code": "126"
+    },
+    "04210": {
+        "name": "Huổi Một",
+        "type": "xa",
+        "slug": "huoi-mot",
+        "name_with_type": "Xã Huổi Một",
+        "path": "Huổi Một, Sông Mã, Sơn La",
+        "path_with_type": "Xã Huổi Một, Huyện Sông Mã, Tỉnh Sơn La",
+        "code": "04210",
+        "parent_code": "126"
+    },
+    "04213": {
+        "name": "Mường Sai",
+        "type": "xa",
+        "slug": "muong-sai",
+        "name_with_type": "Xã Mường Sai",
+        "path": "Mường Sai, Sông Mã, Sơn La",
+        "path_with_type": "Xã Mường Sai, Huyện Sông Mã, Tỉnh Sơn La",
+        "code": "04213",
+        "parent_code": "126"
+    },
+    "04216": {
+        "name": "Mường Cai",
+        "type": "xa",
+        "slug": "muong-cai",
+        "name_with_type": "Xã Mường Cai",
+        "path": "Mường Cai, Sông Mã, Sơn La",
+        "path_with_type": "Xã Mường Cai, Huyện Sông Mã, Tỉnh Sơn La",
+        "code": "04216",
+        "parent_code": "126"
+    },
+    "04219": {
+        "name": "Mường Hung",
+        "type": "xa",
+        "slug": "muong-hung",
+        "name_with_type": "Xã Mường Hung",
+        "path": "Mường Hung, Sông Mã, Sơn La",
+        "path_with_type": "Xã Mường Hung, Huyện Sông Mã, Tỉnh Sơn La",
+        "code": "04219",
+        "parent_code": "126"
+    },
+    "04222": {
+        "name": "Chiềng Khương",
+        "type": "xa",
+        "slug": "chieng-khuong",
+        "name_with_type": "Xã Chiềng Khương",
+        "path": "Chiềng Khương, Sông Mã, Sơn La",
+        "path_with_type": "Xã Chiềng Khương, Huyện Sông Mã, Tỉnh Sơn La",
+        "code": "04222",
+        "parent_code": "126"
+    }
+}

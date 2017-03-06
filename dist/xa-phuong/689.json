@@ -1,0 +1,82 @@
+{
+    "25195": {
+        "name": "Tân Phú",
+        "type": "phuong",
+        "slug": "tan-phu",
+        "name_with_type": "Phường Tân Phú",
+        "path": "Tân Phú, Đồng Xoài, Bình Phước",
+        "path_with_type": "Phường Tân Phú, Thị xã Đồng Xoài, Tỉnh Bình Phước",
+        "code": "25195",
+        "parent_code": "689"
+    },
+    "25198": {
+        "name": "Tân Đồng",
+        "type": "phuong",
+        "slug": "tan-dong",
+        "name_with_type": "Phường Tân Đồng",
+        "path": "Tân Đồng, Đồng Xoài, Bình Phước",
+        "path_with_type": "Phường Tân Đồng, Thị xã Đồng Xoài, Tỉnh Bình Phước",
+        "code": "25198",
+        "parent_code": "689"
+    },
+    "25201": {
+        "name": "Tân Bình",
+        "type": "phuong",
+        "slug": "tan-binh",
+        "name_with_type": "Phường Tân Bình",
+        "path": "Tân Bình, Đồng Xoài, Bình Phước",
+        "path_with_type": "Phường Tân Bình, Thị xã Đồng Xoài, Tỉnh Bình Phước",
+        "code": "25201",
+        "parent_code": "689"
+    },
+    "25204": {
+        "name": "Tân Xuân",
+        "type": "phuong",
+        "slug": "tan-xuan",
+        "name_with_type": "Phường Tân Xuân",
+        "path": "Tân Xuân, Đồng Xoài, Bình Phước",
+        "path_with_type": "Phường Tân Xuân, Thị xã Đồng Xoài, Tỉnh Bình Phước",
+        "code": "25204",
+        "parent_code": "689"
+    },
+    "25205": {
+        "name": "Tân Thiện",
+        "type": "phuong",
+        "slug": "tan-thien",
+        "name_with_type": "Phường Tân Thiện",
+        "path": "Tân Thiện, Đồng Xoài, Bình Phước",
+        "path_with_type": "Phường Tân Thiện, Thị xã Đồng Xoài, Tỉnh Bình Phước",
+        "code": "25205",
+        "parent_code": "689"
+    },
+    "25207": {
+        "name": "Tân Thành",
+        "type": "xa",
+        "slug": "tan-thanh",
+        "name_with_type": "Xã Tân Thành",
+        "path": "Tân Thành, Đồng Xoài, Bình Phước",
+        "path_with_type": "Xã Tân Thành, Thị xã Đồng Xoài, Tỉnh Bình Phước",
+        "code": "25207",
+        "parent_code": "689"
+    },
+    "25210": {
+        "name": "Tiến Thành",
+        "type": "xa",
+        "slug": "tien-thanh",
+        "name_with_type": "Xã Tiến Thành",
+        "path": "Tiến Thành, Đồng Xoài, Bình Phước",
+        "path_with_type": "Xã Tiến Thành, Thị xã Đồng Xoài, Tỉnh Bình Phước",
+        "code": "25210",
+        "parent_code": "689"
+    },
+    "25213": {
+        "name": "Tiến Hưng",
+        "type": "xa",
+        "slug": "tien-hung",
+        "name_with_type": "Xã Tiến Hưng",
+        "path": "Tiến Hưng, Đồng Xoài, Bình Phước",
+        "path_with_type": "Xã Tiến Hưng, Thị xã Đồng Xoài, Tỉnh Bình Phước",
+        "code": "25213",
+        "parent_code": "689"
+    }
+}

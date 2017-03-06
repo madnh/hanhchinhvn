@@ -1,0 +1,142 @@
+{
+    "22435": {
+        "name": "Cam Tân",
+        "type": "xa",
+        "slug": "cam-tan",
+        "name_with_type": "Xã Cam Tân",
+        "path": "Cam Tân, Cam Lâm, Khánh Hòa",
+        "path_with_type": "Xã Cam Tân, Huyện Cam Lâm, Tỉnh Khánh Hòa",
+        "code": "22435",
+        "parent_code": "570"
+    },
+    "22438": {
+        "name": "Cam Hòa",
+        "type": "xa",
+        "slug": "cam-hoa",
+        "name_with_type": "Xã Cam Hòa",
+        "path": "Cam Hòa, Cam Lâm, Khánh Hòa",
+        "path_with_type": "Xã Cam Hòa, Huyện Cam Lâm, Tỉnh Khánh Hòa",
+        "code": "22438",
+        "parent_code": "570"
+    },
+    "22441": {
+        "name": "Cam Hải Đông",
+        "type": "xa",
+        "slug": "cam-hai-dong",
+        "name_with_type": "Xã Cam Hải Đông",
+        "path": "Cam Hải Đông, Cam Lâm, Khánh Hòa",
+        "path_with_type": "Xã Cam Hải Đông, Huyện Cam Lâm, Tỉnh Khánh Hòa",
+        "code": "22441",
+        "parent_code": "570"
+    },
+    "22444": {
+        "name": "Cam Hải Tây",
+        "type": "xa",
+        "slug": "cam-hai-tay",
+        "name_with_type": "Xã Cam Hải Tây",
+        "path": "Cam Hải Tây, Cam Lâm, Khánh Hòa",
+        "path_with_type": "Xã Cam Hải Tây, Huyện Cam Lâm, Tỉnh Khánh Hòa",
+        "code": "22444",
+        "parent_code": "570"
+    },
+    "22447": {
+        "name": "Sơn Tân",
+        "type": "xa",
+        "slug": "son-tan",
+        "name_with_type": "Xã Sơn Tân",
+        "path": "Sơn Tân, Cam Lâm, Khánh Hòa",
+        "path_with_type": "Xã Sơn Tân, Huyện Cam Lâm, Tỉnh Khánh Hòa",
+        "code": "22447",
+        "parent_code": "570"
+    },
+    "22450": {
+        "name": "Cam Hiệp Bắc",
+        "type": "xa",
+        "slug": "cam-hiep-bac",
+        "name_with_type": "Xã Cam Hiệp Bắc",
+        "path": "Cam Hiệp Bắc, Cam Lâm, Khánh Hòa",
+        "path_with_type": "Xã Cam Hiệp Bắc, Huyện Cam Lâm, Tỉnh Khánh Hòa",
+        "code": "22450",
+        "parent_code": "570"
+    },
+    "22453": {
+        "name": "Cam Đức",
+        "type": "thi-tran",
+        "slug": "cam-duc",
+        "name_with_type": "Thị trấn Cam Đức",
+        "path": "Cam Đức, Cam Lâm, Khánh Hòa",
+        "path_with_type": "Thị trấn Cam Đức, Huyện Cam Lâm, Tỉnh Khánh Hòa",
+        "code": "22453",
+        "parent_code": "570"
+    },
+    "22456": {
+        "name": "Cam Hiệp Nam",
+        "type": "xa",
+        "slug": "cam-hiep-nam",
+        "name_with_type": "Xã Cam Hiệp Nam",
+        "path": "Cam Hiệp Nam, Cam Lâm, Khánh Hòa",
+        "path_with_type": "Xã Cam Hiệp Nam, Huyện Cam Lâm, Tỉnh Khánh Hòa",
+        "code": "22456",
+        "parent_code": "570"
+    },
+    "22459": {
+        "name": "Cam Phước Tây",
+        "type": "xa",
+        "slug": "cam-phuoc-tay",
+        "name_with_type": "Xã Cam Phước Tây",
+        "path": "Cam Phước Tây, Cam Lâm, Khánh Hòa",
+        "path_with_type": "Xã Cam Phước Tây, Huyện Cam Lâm, Tỉnh Khánh Hòa",
+        "code": "22459",
+        "parent_code": "570"
+    },
+    "22462": {
+        "name": "Cam Thành Bắc",
+        "type": "xa",
+        "slug": "cam-thanh-bac",
+        "name_with_type": "Xã Cam Thành Bắc",
+        "path": "Cam Thành Bắc, Cam Lâm, Khánh Hòa",
+        "path_with_type": "Xã Cam Thành Bắc, Huyện Cam Lâm, Tỉnh Khánh Hòa",
+        "code": "22462",
+        "parent_code": "570"
+    },
+    "22465": {
+        "name": "Cam An Bắc",
+        "type": "xa",
+        "slug": "cam-an-bac",
+        "name_with_type": "Xã Cam An Bắc",
+        "path": "Cam An Bắc, Cam Lâm, Khánh Hòa",
+        "path_with_type": "Xã Cam An Bắc, Huyện Cam Lâm, Tỉnh Khánh Hòa",
+        "code": "22465",
+        "parent_code": "570"
+    },
+    "22471": {
+        "name": "Cam An Nam",
+        "type": "xa",
+        "slug": "cam-an-nam",
+        "name_with_type": "Xã Cam An Nam",
+        "path": "Cam An Nam, Cam Lâm, Khánh Hòa",
+        "path_with_type": "Xã Cam An Nam, Huyện Cam Lâm, Tỉnh Khánh Hòa",
+        "code": "22471",
+        "parent_code": "570"
+    },
+    "22708": {
+        "name": "Suối Cát",
+        "type": "xa",
+        "slug": "suoi-cat",
+        "name_with_type": "Xã Suối Cát",
+        "path": "Suối Cát, Cam Lâm, Khánh Hòa",
+        "path_with_type": "Xã Suối Cát, Huyện Cam Lâm, Tỉnh Khánh Hòa",
+        "code": "22708",
+        "parent_code": "570"
+    },
+    "22711": {
+        "name": "Suối Tân",
+        "type": "xa",
+        "slug": "suoi-tan",
+        "name_with_type": "Xã Suối Tân",
+        "path": "Suối Tân, Cam Lâm, Khánh Hòa",
+        "path_with_type": "Xã Suối Tân, Huyện Cam Lâm, Tỉnh Khánh Hòa",
+        "code": "22711",
+        "parent_code": "570"
+    }
+}

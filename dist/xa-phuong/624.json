@@ -1,0 +1,82 @@
+{
+    "24041": {
+        "name": "Cheo Reo",
+        "type": "phuong",
+        "slug": "cheo-reo",
+        "name_with_type": "Phường Cheo Reo",
+        "path": "Cheo Reo, Ayun Pa, Gia Lai",
+        "path_with_type": "Phường Cheo Reo, Thị xã Ayun Pa, Tỉnh Gia Lai",
+        "code": "24041",
+        "parent_code": "624"
+    },
+    "24042": {
+        "name": "Hòa Bình",
+        "type": "phuong",
+        "slug": "hoa-binh",
+        "name_with_type": "Phường Hòa Bình",
+        "path": "Hòa Bình, Ayun Pa, Gia Lai",
+        "path_with_type": "Phường Hòa Bình, Thị xã Ayun Pa, Tỉnh Gia Lai",
+        "code": "24042",
+        "parent_code": "624"
+    },
+    "24044": {
+        "name": "Đoàn Kết",
+        "type": "phuong",
+        "slug": "doan-ket",
+        "name_with_type": "Phường Đoàn Kết",
+        "path": "Đoàn Kết, Ayun Pa, Gia Lai",
+        "path_with_type": "Phường Đoàn Kết, Thị xã Ayun Pa, Tỉnh Gia Lai",
+        "code": "24044",
+        "parent_code": "624"
+    },
+    "24045": {
+        "name": "Sông Bờ",
+        "type": "phuong",
+        "slug": "song-bo",
+        "name_with_type": "Phường Sông Bờ",
+        "path": "Sông Bờ, Ayun Pa, Gia Lai",
+        "path_with_type": "Phường Sông Bờ, Thị xã Ayun Pa, Tỉnh Gia Lai",
+        "code": "24045",
+        "parent_code": "624"
+    },
+    "24064": {
+        "name": "Ia RBol",
+        "type": "xa",
+        "slug": "ia-rbol",
+        "name_with_type": "Xã Ia RBol",
+        "path": "Ia RBol, Ayun Pa, Gia Lai",
+        "path_with_type": "Xã Ia RBol, Thị xã Ayun Pa, Tỉnh Gia Lai",
+        "code": "24064",
+        "parent_code": "624"
+    },
+    "24065": {
+        "name": "Chư Băh",
+        "type": "xa",
+        "slug": "chu-bah",
+        "name_with_type": "Xã Chư Băh",
+        "path": "Chư Băh, Ayun Pa, Gia Lai",
+        "path_with_type": "Xã Chư Băh, Thị xã Ayun Pa, Tỉnh Gia Lai",
+        "code": "24065",
+        "parent_code": "624"
+    },
+    "24070": {
+        "name": "Ia RTô",
+        "type": "xa",
+        "slug": "ia-rto",
+        "name_with_type": "Xã Ia RTô",
+        "path": "Ia RTô, Ayun Pa, Gia Lai",
+        "path_with_type": "Xã Ia RTô, Thị xã Ayun Pa, Tỉnh Gia Lai",
+        "code": "24070",
+        "parent_code": "624"
+    },
+    "24073": {
+        "name": "Ia Sao",
+        "type": "xa",
+        "slug": "ia-sao",
+        "name_with_type": "Xã Ia Sao",
+        "path": "Ia Sao, Ayun Pa, Gia Lai",
+        "path_with_type": "Xã Ia Sao, Thị xã Ayun Pa, Tỉnh Gia Lai",
+        "code": "24073",
+        "parent_code": "624"
+    }
+}

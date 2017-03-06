@@ -1,0 +1,372 @@
+{
+    "14755": {
+        "name": "Hàm Rồng",
+        "type": "phuong",
+        "slug": "ham-rong",
+        "name_with_type": "Phường Hàm Rồng",
+        "path": "Hàm Rồng, Thanh Hóa, Thanh Hóa",
+        "path_with_type": "Phường Hàm Rồng, Thành phố Thanh Hóa, Tỉnh Thanh Hóa",
+        "code": "14755",
+        "parent_code": "380"
+    },
+    "14758": {
+        "name": "Đông Thọ",
+        "type": "phuong",
+        "slug": "dong-tho",
+        "name_with_type": "Phường Đông Thọ",
+        "path": "Đông Thọ, Thanh Hóa, Thanh Hóa",
+        "path_with_type": "Phường Đông Thọ, Thành phố Thanh Hóa, Tỉnh Thanh Hóa",
+        "code": "14758",
+        "parent_code": "380"
+    },
+    "14761": {
+        "name": "Nam Ngạn",
+        "type": "phuong",
+        "slug": "nam-ngan",
+        "name_with_type": "Phường Nam Ngạn",
+        "path": "Nam Ngạn, Thanh Hóa, Thanh Hóa",
+        "path_with_type": "Phường Nam Ngạn, Thành phố Thanh Hóa, Tỉnh Thanh Hóa",
+        "code": "14761",
+        "parent_code": "380"
+    },
+    "14764": {
+        "name": "Trường Thi",
+        "type": "phuong",
+        "slug": "truong-thi",
+        "name_with_type": "Phường Trường Thi",
+        "path": "Trường Thi, Thanh Hóa, Thanh Hóa",
+        "path_with_type": "Phường Trường Thi, Thành phố Thanh Hóa, Tỉnh Thanh Hóa",
+        "code": "14764",
+        "parent_code": "380"
+    },
+    "14767": {
+        "name": "Điện Biên",
+        "type": "phuong",
+        "slug": "dien-bien",
+        "name_with_type": "Phường Điện Biên",
+        "path": "Điện Biên, Thanh Hóa, Thanh Hóa",
+        "path_with_type": "Phường Điện Biên, Thành phố Thanh Hóa, Tỉnh Thanh Hóa",
+        "code": "14767",
+        "parent_code": "380"
+    },
+    "14770": {
+        "name": "Phú Sơn",
+        "type": "phuong",
+        "slug": "phu-son",
+        "name_with_type": "Phường Phú Sơn",
+        "path": "Phú Sơn, Thanh Hóa, Thanh Hóa",
+        "path_with_type": "Phường Phú Sơn, Thành phố Thanh Hóa, Tỉnh Thanh Hóa",
+        "code": "14770",
+        "parent_code": "380"
+    },
+    "14773": {
+        "name": "Lam Sơn",
+        "type": "phuong",
+        "slug": "lam-son",
+        "name_with_type": "Phường Lam Sơn",
+        "path": "Lam Sơn, Thanh Hóa, Thanh Hóa",
+        "path_with_type": "Phường Lam Sơn, Thành phố Thanh Hóa, Tỉnh Thanh Hóa",
+        "code": "14773",
+        "parent_code": "380"
+    },
+    "14776": {
+        "name": "Ba Đình",
+        "type": "phuong",
+        "slug": "ba-dinh",
+        "name_with_type": "Phường Ba Đình",
+        "path": "Ba Đình, Thanh Hóa, Thanh Hóa",
+        "path_with_type": "Phường Ba Đình, Thành phố Thanh Hóa, Tỉnh Thanh Hóa",
+        "code": "14776",
+        "parent_code": "380"
+    },
+    "14779": {
+        "name": "Ngọc Trạo",
+        "type": "phuong",
+        "slug": "ngoc-trao",
+        "name_with_type": "Phường Ngọc Trạo",
+        "path": "Ngọc Trạo, Thanh Hóa, Thanh Hóa",
+        "path_with_type": "Phường Ngọc Trạo, Thành phố Thanh Hóa, Tỉnh Thanh Hóa",
+        "code": "14779",
+        "parent_code": "380"
+    },
+    "14782": {
+        "name": "Đông Vệ",
+        "type": "phuong",
+        "slug": "dong-ve",
+        "name_with_type": "Phường Đông Vệ",
+        "path": "Đông Vệ, Thanh Hóa, Thanh Hóa",
+        "path_with_type": "Phường Đông Vệ, Thành phố Thanh Hóa, Tỉnh Thanh Hóa",
+        "code": "14782",
+        "parent_code": "380"
+    },
+    "14785": {
+        "name": "Đông Sơn",
+        "type": "phuong",
+        "slug": "dong-son",
+        "name_with_type": "Phường Đông Sơn",
+        "path": "Đông Sơn, Thanh Hóa, Thanh Hóa",
+        "path_with_type": "Phường Đông Sơn, Thành phố Thanh Hóa, Tỉnh Thanh Hóa",
+        "code": "14785",
+        "parent_code": "380"
+    },
+    "14788": {
+        "name": "Tân Sơn",
+        "type": "phuong",
+        "slug": "tan-son",
+        "name_with_type": "Phường Tân Sơn",
+        "path": "Tân Sơn, Thanh Hóa, Thanh Hóa",
+        "path_with_type": "Phường Tân Sơn, Thành phố Thanh Hóa, Tỉnh Thanh Hóa",
+        "code": "14788",
+        "parent_code": "380"
+    },
+    "14791": {
+        "name": "Đông Cương",
+        "type": "phuong",
+        "slug": "dong-cuong",
+        "name_with_type": "Phường Đông Cương",
+        "path": "Đông Cương, Thanh Hóa, Thanh Hóa",
+        "path_with_type": "Phường Đông Cương, Thành phố Thanh Hóa, Tỉnh Thanh Hóa",
+        "code": "14791",
+        "parent_code": "380"
+    },
+    "14794": {
+        "name": "Đông Hương",
+        "type": "phuong",
+        "slug": "dong-huong",
+        "name_with_type": "Phường Đông Hương",
+        "path": "Đông Hương, Thanh Hóa, Thanh Hóa",
+        "path_with_type": "Phường Đông Hương, Thành phố Thanh Hóa, Tỉnh Thanh Hóa",
+        "code": "14794",
+        "parent_code": "380"
+    },
+    "14797": {
+        "name": "Đông Hải",
+        "type": "phuong",
+        "slug": "dong-hai",
+        "name_with_type": "Phường Đông Hải",
+        "path": "Đông Hải, Thanh Hóa, Thanh Hóa",
+        "path_with_type": "Phường Đông Hải, Thành phố Thanh Hóa, Tỉnh Thanh Hóa",
+        "code": "14797",
+        "parent_code": "380"
+    },
+    "14800": {
+        "name": "Quảng Hưng",
+        "type": "phuong",
+        "slug": "quang-hung",
+        "name_with_type": "Phường Quảng Hưng",
+        "path": "Quảng Hưng, Thanh Hóa, Thanh Hóa",
+        "path_with_type": "Phường Quảng Hưng, Thành phố Thanh Hóa, Tỉnh Thanh Hóa",
+        "code": "14800",
+        "parent_code": "380"
+    },
+    "14803": {
+        "name": "Quảng Thắng",
+        "type": "phuong",
+        "slug": "quang-thang",
+        "name_with_type": "Phường Quảng Thắng",
+        "path": "Quảng Thắng, Thanh Hóa, Thanh Hóa",
+        "path_with_type": "Phường Quảng Thắng, Thành phố Thanh Hóa, Tỉnh Thanh Hóa",
+        "code": "14803",
+        "parent_code": "380"
+    },
+    "14806": {
+        "name": "Quảng Thành",
+        "type": "phuong",
+        "slug": "quang-thanh",
+        "name_with_type": "Phường Quảng Thành",
+        "path": "Quảng Thành, Thanh Hóa, Thanh Hóa",
+        "path_with_type": "Phường Quảng Thành, Thành phố Thanh Hóa, Tỉnh Thanh Hóa",
+        "code": "14806",
+        "parent_code": "380"
+    },
+    "15850": {
+        "name": "Thiệu Vân",
+        "type": "xa",
+        "slug": "thieu-van",
+        "name_with_type": "Xã Thiệu Vân",
+        "path": "Thiệu Vân, Thanh Hóa, Thanh Hóa",
+        "path_with_type": "Xã Thiệu Vân, Thành phố Thanh Hóa, Tỉnh Thanh Hóa",
+        "code": "15850",
+        "parent_code": "380"
+    },
+    "15856": {
+        "name": "Thiệu Khánh",
+        "type": "xa",
+        "slug": "thieu-khanh",
+        "name_with_type": "Xã Thiệu Khánh",
+        "path": "Thiệu Khánh, Thanh Hóa, Thanh Hóa",
+        "path_with_type": "Xã Thiệu Khánh, Thành phố Thanh Hóa, Tỉnh Thanh Hóa",
+        "code": "15856",
+        "parent_code": "380"
+    },
+    "15859": {
+        "name": "Thiệu Dương",
+        "type": "xa",
+        "slug": "thieu-duong",
+        "name_with_type": "Xã Thiệu Dương",
+        "path": "Thiệu Dương, Thanh Hóa, Thanh Hóa",
+        "path_with_type": "Xã Thiệu Dương, Thành phố Thanh Hóa, Tỉnh Thanh Hóa",
+        "code": "15859",
+        "parent_code": "380"
+    },
+    "15868": {
+        "name": "Tào Xuyên",
+        "type": "phuong",
+        "slug": "tao-xuyen",
+        "name_with_type": "Phường Tào Xuyên",
+        "path": "Tào Xuyên, Thanh Hóa, Thanh Hóa",
+        "path_with_type": "Phường Tào Xuyên, Thành phố Thanh Hóa, Tỉnh Thanh Hóa",
+        "code": "15868",
+        "parent_code": "380"
+    },
+    "15913": {
+        "name": "Hoằng Lý",
+        "type": "xa",
+        "slug": "hoang-ly",
+        "name_with_type": "Xã Hoằng Lý",
+        "path": "Hoằng Lý, Thanh Hóa, Thanh Hóa",
+        "path_with_type": "Xã Hoằng Lý, Thành phố Thanh Hóa, Tỉnh Thanh Hóa",
+        "code": "15913",
+        "parent_code": "380"
+    },
+    "15922": {
+        "name": "Hoằng Long",
+        "type": "xa",
+        "slug": "hoang-long",
+        "name_with_type": "Xã Hoằng Long",
+        "path": "Hoằng Long, Thanh Hóa, Thanh Hóa",
+        "path_with_type": "Xã Hoằng Long, Thành phố Thanh Hóa, Tỉnh Thanh Hóa",
+        "code": "15922",
+        "parent_code": "380"
+    },
+    "15925": {
+        "name": "Hoằng Quang",
+        "type": "xa",
+        "slug": "hoang-quang",
+        "name_with_type": "Xã Hoằng Quang",
+        "path": "Hoằng Quang, Thanh Hóa, Thanh Hóa",
+        "path_with_type": "Xã Hoằng Quang, Thành phố Thanh Hóa, Tỉnh Thanh Hóa",
+        "code": "15925",
+        "parent_code": "380"
+    },
+    "15970": {
+        "name": "Hoằng Đại",
+        "type": "xa",
+        "slug": "hoang-dai",
+        "name_with_type": "Xã Hoằng Đại",
+        "path": "Hoằng Đại, Thanh Hóa, Thanh Hóa",
+        "path_with_type": "Xã Hoằng Đại, Thành phố Thanh Hóa, Tỉnh Thanh Hóa",
+        "code": "15970",
+        "parent_code": "380"
+    },
+    "16009": {
+        "name": "Hoằng Anh",
+        "type": "xa",
+        "slug": "hoang-anh",
+        "name_with_type": "Xã Hoằng Anh",
+        "path": "Hoằng Anh, Thanh Hóa, Thanh Hóa",
+        "path_with_type": "Xã Hoằng Anh, Thành phố Thanh Hóa, Tỉnh Thanh Hóa",
+        "code": "16009",
+        "parent_code": "380"
+    },
+    "16379": {
+        "name": "An Hoạch",
+        "type": "phuong",
+        "slug": "an-hoach",
+        "name_with_type": "Phường An Hoạch",
+        "path": "An Hoạch, Thanh Hóa, Thanh Hóa",
+        "path_with_type": "Phường An Hoạch, Thành phố Thanh Hóa, Tỉnh Thanh Hóa",
+        "code": "16379",
+        "parent_code": "380"
+    },
+    "16396": {
+        "name": "Đông Lĩnh",
+        "type": "xa",
+        "slug": "dong-linh",
+        "name_with_type": "Xã Đông Lĩnh",
+        "path": "Đông Lĩnh, Thanh Hóa, Thanh Hóa",
+        "path_with_type": "Xã Đông Lĩnh, Thành phố Thanh Hóa, Tỉnh Thanh Hóa",
+        "code": "16396",
+        "parent_code": "380"
+    },
+    "16429": {
+        "name": "Đông Vinh",
+        "type": "xa",
+        "slug": "dong-vinh",
+        "name_with_type": "Xã Đông Vinh",
+        "path": "Đông Vinh, Thanh Hóa, Thanh Hóa",
+        "path_with_type": "Xã Đông Vinh, Thành phố Thanh Hóa, Tỉnh Thanh Hóa",
+        "code": "16429",
+        "parent_code": "380"
+    },
+    "16432": {
+        "name": "Đông Tân",
+        "type": "xa",
+        "slug": "dong-tan",
+        "name_with_type": "Xã Đông Tân",
+        "path": "Đông Tân, Thanh Hóa, Thanh Hóa",
+        "path_with_type": "Xã Đông Tân, Thành phố Thanh Hóa, Tỉnh Thanh Hóa",
+        "code": "16432",
+        "parent_code": "380"
+    },
+    "16435": {
+        "name": "Đông Hưng",
+        "type": "xa",
+        "slug": "dong-hung",
+        "name_with_type": "Xã Đông Hưng",
+        "path": "Đông Hưng, Thanh Hóa, Thanh Hóa",
+        "path_with_type": "Xã Đông Hưng, Thành phố Thanh Hóa, Tỉnh Thanh Hóa",
+        "code": "16435",
+        "parent_code": "380"
+    },
+    "16441": {
+        "name": "Quảng Thịnh",
+        "type": "xa",
+        "slug": "quang-thinh",
+        "name_with_type": "Xã Quảng Thịnh",
+        "path": "Quảng Thịnh, Thanh Hóa, Thanh Hóa",
+        "path_with_type": "Xã Quảng Thịnh, Thành phố Thanh Hóa, Tỉnh Thanh Hóa",
+        "code": "16441",
+        "parent_code": "380"
+    },
+    "16459": {
+        "name": "Quảng Đông",
+        "type": "xa",
+        "slug": "quang-dong",
+        "name_with_type": "Xã Quảng Đông",
+        "path": "Quảng Đông, Thanh Hóa, Thanh Hóa",
+        "path_with_type": "Xã Quảng Đông, Thành phố Thanh Hóa, Tỉnh Thanh Hóa",
+        "code": "16459",
+        "parent_code": "380"
+    },
+    "16507": {
+        "name": "Quảng Cát",
+        "type": "xa",
+        "slug": "quang-cat",
+        "name_with_type": "Xã Quảng Cát",
+        "path": "Quảng Cát, Thanh Hóa, Thanh Hóa",
+        "path_with_type": "Xã Quảng Cát, Thành phố Thanh Hóa, Tỉnh Thanh Hóa",
+        "code": "16507",
+        "parent_code": "380"
+    },
+    "16522": {
+        "name": "Quảng Phú",
+        "type": "xa",
+        "slug": "quang-phu",
+        "name_with_type": "Xã Quảng Phú",
+        "path": "Quảng Phú, Thanh Hóa, Thanh Hóa",
+        "path_with_type": "Xã Quảng Phú, Thành phố Thanh Hóa, Tỉnh Thanh Hóa",
+        "code": "16522",
+        "parent_code": "380"
+    },
+    "16525": {
+        "name": "Quảng Tâm",
+        "type": "xa",
+        "slug": "quang-tam",
+        "name_with_type": "Xã Quảng Tâm",
+        "path": "Quảng Tâm, Thanh Hóa, Thanh Hóa",
+        "path_with_type": "Xã Quảng Tâm, Thành phố Thanh Hóa, Tỉnh Thanh Hóa",
+        "code": "16525",
+        "parent_code": "380"
+    }
+}

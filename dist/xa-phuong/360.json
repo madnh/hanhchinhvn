@@ -1,0 +1,322 @@
+{
+    "13795": {
+        "name": "Lâm",
+        "type": "thi-tran",
+        "slug": "lam",
+        "name_with_type": "Thị trấn Lâm",
+        "path": "Lâm, Ý Yên, Nam Định",
+        "path_with_type": "Thị trấn Lâm, Huyện Ý Yên, Tỉnh Nam Định",
+        "code": "13795",
+        "parent_code": "360"
+    },
+    "13798": {
+        "name": "Yên Trung",
+        "type": "xa",
+        "slug": "yen-trung",
+        "name_with_type": "Xã Yên Trung",
+        "path": "Yên Trung, Ý Yên, Nam Định",
+        "path_with_type": "Xã Yên Trung, Huyện Ý Yên, Tỉnh Nam Định",
+        "code": "13798",
+        "parent_code": "360"
+    },
+    "13801": {
+        "name": "Yên Thành",
+        "type": "xa",
+        "slug": "yen-thanh",
+        "name_with_type": "Xã Yên Thành",
+        "path": "Yên Thành, Ý Yên, Nam Định",
+        "path_with_type": "Xã Yên Thành, Huyện Ý Yên, Tỉnh Nam Định",
+        "code": "13801",
+        "parent_code": "360"
+    },
+    "13804": {
+        "name": "Yên Tân",
+        "type": "xa",
+        "slug": "yen-tan",
+        "name_with_type": "Xã Yên Tân",
+        "path": "Yên Tân, Ý Yên, Nam Định",
+        "path_with_type": "Xã Yên Tân, Huyện Ý Yên, Tỉnh Nam Định",
+        "code": "13804",
+        "parent_code": "360"
+    },
+    "13807": {
+        "name": "Yên Lợi",
+        "type": "xa",
+        "slug": "yen-loi",
+        "name_with_type": "Xã Yên Lợi",
+        "path": "Yên Lợi, Ý Yên, Nam Định",
+        "path_with_type": "Xã Yên Lợi, Huyện Ý Yên, Tỉnh Nam Định",
+        "code": "13807",
+        "parent_code": "360"
+    },
+    "13810": {
+        "name": "Yên Thọ",
+        "type": "xa",
+        "slug": "yen-tho",
+        "name_with_type": "Xã Yên Thọ",
+        "path": "Yên Thọ, Ý Yên, Nam Định",
+        "path_with_type": "Xã Yên Thọ, Huyện Ý Yên, Tỉnh Nam Định",
+        "code": "13810",
+        "parent_code": "360"
+    },
+    "13813": {
+        "name": "Yên Nghĩa",
+        "type": "xa",
+        "slug": "yen-nghia",
+        "name_with_type": "Xã Yên Nghĩa",
+        "path": "Yên Nghĩa, Ý Yên, Nam Định",
+        "path_with_type": "Xã Yên Nghĩa, Huyện Ý Yên, Tỉnh Nam Định",
+        "code": "13813",
+        "parent_code": "360"
+    },
+    "13816": {
+        "name": "Yên Minh",
+        "type": "xa",
+        "slug": "yen-minh",
+        "name_with_type": "Xã Yên Minh",
+        "path": "Yên Minh, Ý Yên, Nam Định",
+        "path_with_type": "Xã Yên Minh, Huyện Ý Yên, Tỉnh Nam Định",
+        "code": "13816",
+        "parent_code": "360"
+    },
+    "13819": {
+        "name": "Yên Phương",
+        "type": "xa",
+        "slug": "yen-phuong",
+        "name_with_type": "Xã Yên Phương",
+        "path": "Yên Phương, Ý Yên, Nam Định",
+        "path_with_type": "Xã Yên Phương, Huyện Ý Yên, Tỉnh Nam Định",
+        "code": "13819",
+        "parent_code": "360"
+    },
+    "13822": {
+        "name": "Yên Chính",
+        "type": "xa",
+        "slug": "yen-chinh",
+        "name_with_type": "Xã Yên Chính",
+        "path": "Yên Chính, Ý Yên, Nam Định",
+        "path_with_type": "Xã Yên Chính, Huyện Ý Yên, Tỉnh Nam Định",
+        "code": "13822",
+        "parent_code": "360"
+    },
+    "13825": {
+        "name": "Yên Bình",
+        "type": "xa",
+        "slug": "yen-binh",
+        "name_with_type": "Xã Yên Bình",
+        "path": "Yên Bình, Ý Yên, Nam Định",
+        "path_with_type": "Xã Yên Bình, Huyện Ý Yên, Tỉnh Nam Định",
+        "code": "13825",
+        "parent_code": "360"
+    },
+    "13828": {
+        "name": "Yên Phú",
+        "type": "xa",
+        "slug": "yen-phu",
+        "name_with_type": "Xã Yên Phú",
+        "path": "Yên Phú, Ý Yên, Nam Định",
+        "path_with_type": "Xã Yên Phú, Huyện Ý Yên, Tỉnh Nam Định",
+        "code": "13828",
+        "parent_code": "360"
+    },
+    "13831": {
+        "name": "Yên Mỹ",
+        "type": "xa",
+        "slug": "yen-my",
+        "name_with_type": "Xã Yên Mỹ",
+        "path": "Yên Mỹ, Ý Yên, Nam Định",
+        "path_with_type": "Xã Yên Mỹ, Huyện Ý Yên, Tỉnh Nam Định",
+        "code": "13831",
+        "parent_code": "360"
+    },
+    "13834": {
+        "name": "Yên Dương",
+        "type": "xa",
+        "slug": "yen-duong",
+        "name_with_type": "Xã Yên Dương",
+        "path": "Yên Dương, Ý Yên, Nam Định",
+        "path_with_type": "Xã Yên Dương, Huyện Ý Yên, Tỉnh Nam Định",
+        "code": "13834",
+        "parent_code": "360"
+    },
+    "13837": {
+        "name": "Yên Xá",
+        "type": "xa",
+        "slug": "yen-xa",
+        "name_with_type": "Xã Yên Xá",
+        "path": "Yên Xá, Ý Yên, Nam Định",
+        "path_with_type": "Xã Yên Xá, Huyện Ý Yên, Tỉnh Nam Định",
+        "code": "13837",
+        "parent_code": "360"
+    },
+    "13840": {
+        "name": "Yên Hưng",
+        "type": "xa",
+        "slug": "yen-hung",
+        "name_with_type": "Xã Yên Hưng",
+        "path": "Yên Hưng, Ý Yên, Nam Định",
+        "path_with_type": "Xã Yên Hưng, Huyện Ý Yên, Tỉnh Nam Định",
+        "code": "13840",
+        "parent_code": "360"
+    },
+    "13843": {
+        "name": "Yên Khánh",
+        "type": "xa",
+        "slug": "yen-khanh",
+        "name_with_type": "Xã Yên Khánh",
+        "path": "Yên Khánh, Ý Yên, Nam Định",
+        "path_with_type": "Xã Yên Khánh, Huyện Ý Yên, Tỉnh Nam Định",
+        "code": "13843",
+        "parent_code": "360"
+    },
+    "13846": {
+        "name": "Yên Phong",
+        "type": "xa",
+        "slug": "yen-phong",
+        "name_with_type": "Xã Yên Phong",
+        "path": "Yên Phong, Ý Yên, Nam Định",
+        "path_with_type": "Xã Yên Phong, Huyện Ý Yên, Tỉnh Nam Định",
+        "code": "13846",
+        "parent_code": "360"
+    },
+    "13849": {
+        "name": "Yên Ninh",
+        "type": "xa",
+        "slug": "yen-ninh",
+        "name_with_type": "Xã Yên Ninh",
+        "path": "Yên Ninh, Ý Yên, Nam Định",
+        "path_with_type": "Xã Yên Ninh, Huyện Ý Yên, Tỉnh Nam Định",
+        "code": "13849",
+        "parent_code": "360"
+    },
+    "13852": {
+        "name": "Yên Lương",
+        "type": "xa",
+        "slug": "yen-luong",
+        "name_with_type": "Xã Yên Lương",
+        "path": "Yên Lương, Ý Yên, Nam Định",
+        "path_with_type": "Xã Yên Lương, Huyện Ý Yên, Tỉnh Nam Định",
+        "code": "13852",
+        "parent_code": "360"
+    },
+    "13855": {
+        "name": "Yên Hồng",
+        "type": "xa",
+        "slug": "yen-hong",
+        "name_with_type": "Xã Yên Hồng",
+        "path": "Yên Hồng, Ý Yên, Nam Định",
+        "path_with_type": "Xã Yên Hồng, Huyện Ý Yên, Tỉnh Nam Định",
+        "code": "13855",
+        "parent_code": "360"
+    },
+    "13858": {
+        "name": "Yên Quang",
+        "type": "xa",
+        "slug": "yen-quang",
+        "name_with_type": "Xã Yên Quang",
+        "path": "Yên Quang, Ý Yên, Nam Định",
+        "path_with_type": "Xã Yên Quang, Huyện Ý Yên, Tỉnh Nam Định",
+        "code": "13858",
+        "parent_code": "360"
+    },
+    "13861": {
+        "name": "Yên Tiến",
+        "type": "xa",
+        "slug": "yen-tien",
+        "name_with_type": "Xã Yên Tiến",
+        "path": "Yên Tiến, Ý Yên, Nam Định",
+        "path_with_type": "Xã Yên Tiến, Huyện Ý Yên, Tỉnh Nam Định",
+        "code": "13861",
+        "parent_code": "360"
+    },
+    "13864": {
+        "name": "Yên Thắng",
+        "type": "xa",
+        "slug": "yen-thang",
+        "name_with_type": "Xã Yên Thắng",
+        "path": "Yên Thắng, Ý Yên, Nam Định",
+        "path_with_type": "Xã Yên Thắng, Huyện Ý Yên, Tỉnh Nam Định",
+        "code": "13864",
+        "parent_code": "360"
+    },
+    "13867": {
+        "name": "Yên Phúc",
+        "type": "xa",
+        "slug": "yen-phuc",
+        "name_with_type": "Xã Yên Phúc",
+        "path": "Yên Phúc, Ý Yên, Nam Định",
+        "path_with_type": "Xã Yên Phúc, Huyện Ý Yên, Tỉnh Nam Định",
+        "code": "13867",
+        "parent_code": "360"
+    },
+    "13870": {
+        "name": "Yên Cường",
+        "type": "xa",
+        "slug": "yen-cuong",
+        "name_with_type": "Xã Yên Cường",
+        "path": "Yên Cường, Ý Yên, Nam Định",
+        "path_with_type": "Xã Yên Cường, Huyện Ý Yên, Tỉnh Nam Định",
+        "code": "13870",
+        "parent_code": "360"
+    },
+    "13873": {
+        "name": "Yên Lộc",
+        "type": "xa",
+        "slug": "yen-loc",
+        "name_with_type": "Xã Yên Lộc",
+        "path": "Yên Lộc, Ý Yên, Nam Định",
+        "path_with_type": "Xã Yên Lộc, Huyện Ý Yên, Tỉnh Nam Định",
+        "code": "13873",
+        "parent_code": "360"
+    },
+    "13876": {
+        "name": "Yên Bằng",
+        "type": "xa",
+        "slug": "yen-bang",
+        "name_with_type": "Xã Yên Bằng",
+        "path": "Yên Bằng, Ý Yên, Nam Định",
+        "path_with_type": "Xã Yên Bằng, Huyện Ý Yên, Tỉnh Nam Định",
+        "code": "13876",
+        "parent_code": "360"
+    },
+    "13879": {
+        "name": "Yên Đồng",
+        "type": "xa",
+        "slug": "yen-dong",
+        "name_with_type": "Xã Yên Đồng",
+        "path": "Yên Đồng, Ý Yên, Nam Định",
+        "path_with_type": "Xã Yên Đồng, Huyện Ý Yên, Tỉnh Nam Định",
+        "code": "13879",
+        "parent_code": "360"
+    },
+    "13882": {
+        "name": "Yên Khang",
+        "type": "xa",
+        "slug": "yen-khang",
+        "name_with_type": "Xã Yên Khang",
+        "path": "Yên Khang, Ý Yên, Nam Định",
+        "path_with_type": "Xã Yên Khang, Huyện Ý Yên, Tỉnh Nam Định",
+        "code": "13882",
+        "parent_code": "360"
+    },
+    "13885": {
+        "name": "Yên Nhân",
+        "type": "xa",
+        "slug": "yen-nhan",
+        "name_with_type": "Xã Yên Nhân",
+        "path": "Yên Nhân, Ý Yên, Nam Định",
+        "path_with_type": "Xã Yên Nhân, Huyện Ý Yên, Tỉnh Nam Định",
+        "code": "13885",
+        "parent_code": "360"
+    },
+    "13888": {
+        "name": "Yên Trị",
+        "type": "xa",
+        "slug": "yen-tri",
+        "name_with_type": "Xã Yên Trị",
+        "path": "Yên Trị, Ý Yên, Nam Định",
+        "path_with_type": "Xã Yên Trị, Huyện Ý Yên, Tỉnh Nam Định",
+        "code": "13888",
+        "parent_code": "360"
+    }
+}

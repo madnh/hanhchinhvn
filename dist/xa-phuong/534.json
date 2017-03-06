@@ -1,0 +1,152 @@
+{
+    "21439": {
+        "name": "Đức Phổ",
+        "type": "thi-tran",
+        "slug": "duc-pho",
+        "name_with_type": "Thị trấn Đức Phổ",
+        "path": "Đức Phổ, Đức Phổ, Quảng Ngãi",
+        "path_with_type": "Thị trấn Đức Phổ, Huyện Đức Phổ, Tỉnh Quảng Ngãi",
+        "code": "21439",
+        "parent_code": "534"
+    },
+    "21442": {
+        "name": "Phổ An",
+        "type": "xa",
+        "slug": "pho-an",
+        "name_with_type": "Xã Phổ An",
+        "path": "Phổ An, Đức Phổ, Quảng Ngãi",
+        "path_with_type": "Xã Phổ An, Huyện Đức Phổ, Tỉnh Quảng Ngãi",
+        "code": "21442",
+        "parent_code": "534"
+    },
+    "21445": {
+        "name": "Phổ Phong",
+        "type": "xa",
+        "slug": "pho-phong",
+        "name_with_type": "Xã Phổ Phong",
+        "path": "Phổ Phong, Đức Phổ, Quảng Ngãi",
+        "path_with_type": "Xã Phổ Phong, Huyện Đức Phổ, Tỉnh Quảng Ngãi",
+        "code": "21445",
+        "parent_code": "534"
+    },
+    "21448": {
+        "name": "Phổ Thuận",
+        "type": "xa",
+        "slug": "pho-thuan",
+        "name_with_type": "Xã Phổ Thuận",
+        "path": "Phổ Thuận, Đức Phổ, Quảng Ngãi",
+        "path_with_type": "Xã Phổ Thuận, Huyện Đức Phổ, Tỉnh Quảng Ngãi",
+        "code": "21448",
+        "parent_code": "534"
+    },
+    "21451": {
+        "name": "Phổ Văn",
+        "type": "xa",
+        "slug": "pho-van",
+        "name_with_type": "Xã Phổ Văn",
+        "path": "Phổ Văn, Đức Phổ, Quảng Ngãi",
+        "path_with_type": "Xã Phổ Văn, Huyện Đức Phổ, Tỉnh Quảng Ngãi",
+        "code": "21451",
+        "parent_code": "534"
+    },
+    "21454": {
+        "name": "Phổ Quang",
+        "type": "xa",
+        "slug": "pho-quang",
+        "name_with_type": "Xã Phổ Quang",
+        "path": "Phổ Quang, Đức Phổ, Quảng Ngãi",
+        "path_with_type": "Xã Phổ Quang, Huyện Đức Phổ, Tỉnh Quảng Ngãi",
+        "code": "21454",
+        "parent_code": "534"
+    },
+    "21457": {
+        "name": "Phổ Nhơn",
+        "type": "xa",
+        "slug": "pho-nhon",
+        "name_with_type": "Xã Phổ Nhơn",
+        "path": "Phổ Nhơn, Đức Phổ, Quảng Ngãi",
+        "path_with_type": "Xã Phổ Nhơn, Huyện Đức Phổ, Tỉnh Quảng Ngãi",
+        "code": "21457",
+        "parent_code": "534"
+    },
+    "21460": {
+        "name": "Phổ Ninh",
+        "type": "xa",
+        "slug": "pho-ninh",
+        "name_with_type": "Xã Phổ Ninh",
+        "path": "Phổ Ninh, Đức Phổ, Quảng Ngãi",
+        "path_with_type": "Xã Phổ Ninh, Huyện Đức Phổ, Tỉnh Quảng Ngãi",
+        "code": "21460",
+        "parent_code": "534"
+    },
+    "21463": {
+        "name": "Phổ Minh",
+        "type": "xa",
+        "slug": "pho-minh",
+        "name_with_type": "Xã Phổ Minh",
+        "path": "Phổ Minh, Đức Phổ, Quảng Ngãi",
+        "path_with_type": "Xã Phổ Minh, Huyện Đức Phổ, Tỉnh Quảng Ngãi",
+        "code": "21463",
+        "parent_code": "534"
+    },
+    "21466": {
+        "name": "Phổ Vinh",
+        "type": "xa",
+        "slug": "pho-vinh",
+        "name_with_type": "Xã Phổ Vinh",
+        "path": "Phổ Vinh, Đức Phổ, Quảng Ngãi",
+        "path_with_type": "Xã Phổ Vinh, Huyện Đức Phổ, Tỉnh Quảng Ngãi",
+        "code": "21466",
+        "parent_code": "534"
+    },
+    "21469": {
+        "name": "Phổ Hòa",
+        "type": "xa",
+        "slug": "pho-hoa",
+        "name_with_type": "Xã Phổ Hòa",
+        "path": "Phổ Hòa, Đức Phổ, Quảng Ngãi",
+        "path_with_type": "Xã Phổ Hòa, Huyện Đức Phổ, Tỉnh Quảng Ngãi",
+        "code": "21469",
+        "parent_code": "534"
+    },
+    "21472": {
+        "name": "Phổ Cường",
+        "type": "xa",
+        "slug": "pho-cuong",
+        "name_with_type": "Xã Phổ Cường",
+        "path": "Phổ Cường, Đức Phổ, Quảng Ngãi",
+        "path_with_type": "Xã Phổ Cường, Huyện Đức Phổ, Tỉnh Quảng Ngãi",
+        "code": "21472",
+        "parent_code": "534"
+    },
+    "21475": {
+        "name": "Phổ Khánh",
+        "type": "xa",
+        "slug": "pho-khanh",
+        "name_with_type": "Xã Phổ Khánh",
+        "path": "Phổ Khánh, Đức Phổ, Quảng Ngãi",
+        "path_with_type": "Xã Phổ Khánh, Huyện Đức Phổ, Tỉnh Quảng Ngãi",
+        "code": "21475",
+        "parent_code": "534"
+    },
+    "21478": {
+        "name": "Phổ Thạnh",
+        "type": "xa",
+        "slug": "pho-thanh",
+        "name_with_type": "Xã Phổ Thạnh",
+        "path": "Phổ Thạnh, Đức Phổ, Quảng Ngãi",
+        "path_with_type": "Xã Phổ Thạnh, Huyện Đức Phổ, Tỉnh Quảng Ngãi",
+        "code": "21478",
+        "parent_code": "534"
+    },
+    "21481": {
+        "name": "Phổ Châu",
+        "type": "xa",
+        "slug": "pho-chau",
+        "name_with_type": "Xã Phổ Châu",
+        "path": "Phổ Châu, Đức Phổ, Quảng Ngãi",
+        "path_with_type": "Xã Phổ Châu, Huyện Đức Phổ, Tỉnh Quảng Ngãi",
+        "code": "21481",
+        "parent_code": "534"
+    }
+}

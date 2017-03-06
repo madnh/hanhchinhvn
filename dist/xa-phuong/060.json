@@ -1,0 +1,102 @@
+{
+    "01858": {
+        "name": "Bằng Thành",
+        "type": "xa",
+        "slug": "bang-thanh",
+        "name_with_type": "Xã Bằng Thành",
+        "path": "Bằng Thành, Pác Nặm, Bắc Kạn",
+        "path_with_type": "Xã Bằng Thành, Huyện Pác Nặm, Tỉnh Bắc Kạn",
+        "code": "01858",
+        "parent_code": "060"
+    },
+    "01861": {
+        "name": "Nhạn Môn",
+        "type": "xa",
+        "slug": "nhan-mon",
+        "name_with_type": "Xã Nhạn Môn",
+        "path": "Nhạn Môn, Pác Nặm, Bắc Kạn",
+        "path_with_type": "Xã Nhạn Môn, Huyện Pác Nặm, Tỉnh Bắc Kạn",
+        "code": "01861",
+        "parent_code": "060"
+    },
+    "01864": {
+        "name": "Bộc Bố",
+        "type": "xa",
+        "slug": "boc-bo",
+        "name_with_type": "Xã Bộc Bố",
+        "path": "Bộc Bố, Pác Nặm, Bắc Kạn",
+        "path_with_type": "Xã Bộc Bố, Huyện Pác Nặm, Tỉnh Bắc Kạn",
+        "code": "01864",
+        "parent_code": "060"
+    },
+    "01867": {
+        "name": "Công Bằng",
+        "type": "xa",
+        "slug": "cong-bang",
+        "name_with_type": "Xã Công Bằng",
+        "path": "Công Bằng, Pác Nặm, Bắc Kạn",
+        "path_with_type": "Xã Công Bằng, Huyện Pác Nặm, Tỉnh Bắc Kạn",
+        "code": "01867",
+        "parent_code": "060"
+    },
+    "01870": {
+        "name": "Giáo Hiệu",
+        "type": "xa",
+        "slug": "giao-hieu",
+        "name_with_type": "Xã Giáo Hiệu",
+        "path": "Giáo Hiệu, Pác Nặm, Bắc Kạn",
+        "path_with_type": "Xã Giáo Hiệu, Huyện Pác Nặm, Tỉnh Bắc Kạn",
+        "code": "01870",
+        "parent_code": "060"
+    },
+    "01873": {
+        "name": "Xuân La",
+        "type": "xa",
+        "slug": "xuan-la",
+        "name_with_type": "Xã Xuân La",
+        "path": "Xuân La, Pác Nặm, Bắc Kạn",
+        "path_with_type": "Xã Xuân La, Huyện Pác Nặm, Tỉnh Bắc Kạn",
+        "code": "01873",
+        "parent_code": "060"
+    },
+    "01876": {
+        "name": "An Thắng",
+        "type": "xa",
+        "slug": "an-thang",
+        "name_with_type": "Xã An Thắng",
+        "path": "An Thắng, Pác Nặm, Bắc Kạn",
+        "path_with_type": "Xã An Thắng, Huyện Pác Nặm, Tỉnh Bắc Kạn",
+        "code": "01876",
+        "parent_code": "060"
+    },
+    "01879": {
+        "name": "Cổ Linh",
+        "type": "xa",
+        "slug": "co-linh",
+        "name_with_type": "Xã Cổ Linh",
+        "path": "Cổ Linh, Pác Nặm, Bắc Kạn",
+        "path_with_type": "Xã Cổ Linh, Huyện Pác Nặm, Tỉnh Bắc Kạn",
+        "code": "01879",
+        "parent_code": "060"
+    },
+    "01882": {
+        "name": "Nghiên Loan",
+        "type": "xa",
+        "slug": "nghien-loan",
+        "name_with_type": "Xã Nghiên Loan",
+        "path": "Nghiên Loan, Pác Nặm, Bắc Kạn",
+        "path_with_type": "Xã Nghiên Loan, Huyện Pác Nặm, Tỉnh Bắc Kạn",
+        "code": "01882",
+        "parent_code": "060"
+    },
+    "01885": {
+        "name": "Cao Tân",
+        "type": "xa",
+        "slug": "cao-tan",
+        "name_with_type": "Xã Cao Tân",
+        "path": "Cao Tân, Pác Nặm, Bắc Kạn",
+        "path_with_type": "Xã Cao Tân, Huyện Pác Nặm, Tỉnh Bắc Kạn",
+        "code": "01885",
+        "parent_code": "060"
+    }
+}

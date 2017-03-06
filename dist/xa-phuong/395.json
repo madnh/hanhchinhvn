@@ -1,0 +1,412 @@
+{
+    "15481": {
+        "name": "Thọ Xuân",
+        "type": "thi-tran",
+        "slug": "tho-xuan",
+        "name_with_type": "Thị trấn Thọ Xuân",
+        "path": "Thọ Xuân, Thọ Xuân, Thanh Hóa",
+        "path_with_type": "Thị trấn Thọ Xuân, Huyện Thọ Xuân, Tỉnh Thanh Hóa",
+        "code": "15481",
+        "parent_code": "395"
+    },
+    "15484": {
+        "name": "Lam Sơn",
+        "type": "thi-tran",
+        "slug": "lam-son",
+        "name_with_type": "Thị trấn Lam Sơn",
+        "path": "Lam Sơn, Thọ Xuân, Thanh Hóa",
+        "path_with_type": "Thị trấn Lam Sơn, Huyện Thọ Xuân, Tỉnh Thanh Hóa",
+        "code": "15484",
+        "parent_code": "395"
+    },
+    "15487": {
+        "name": "Sao Vàng",
+        "type": "thi-tran",
+        "slug": "sao-vang",
+        "name_with_type": "Thị trấn Sao Vàng",
+        "path": "Sao Vàng, Thọ Xuân, Thanh Hóa",
+        "path_with_type": "Thị trấn Sao Vàng, Huyện Thọ Xuân, Tỉnh Thanh Hóa",
+        "code": "15487",
+        "parent_code": "395"
+    },
+    "15490": {
+        "name": "Xuân Khánh",
+        "type": "xa",
+        "slug": "xuan-khanh",
+        "name_with_type": "Xã Xuân Khánh",
+        "path": "Xuân Khánh, Thọ Xuân, Thanh Hóa",
+        "path_with_type": "Xã Xuân Khánh, Huyện Thọ Xuân, Tỉnh Thanh Hóa",
+        "code": "15490",
+        "parent_code": "395"
+    },
+    "15493": {
+        "name": "Thọ Nguyên",
+        "type": "xa",
+        "slug": "tho-nguyen",
+        "name_with_type": "Xã Thọ Nguyên",
+        "path": "Thọ Nguyên, Thọ Xuân, Thanh Hóa",
+        "path_with_type": "Xã Thọ Nguyên, Huyện Thọ Xuân, Tỉnh Thanh Hóa",
+        "code": "15493",
+        "parent_code": "395"
+    },
+    "15496": {
+        "name": "Xuân Thành",
+        "type": "xa",
+        "slug": "xuan-thanh",
+        "name_with_type": "Xã Xuân Thành",
+        "path": "Xuân Thành, Thọ Xuân, Thanh Hóa",
+        "path_with_type": "Xã Xuân Thành, Huyện Thọ Xuân, Tỉnh Thanh Hóa",
+        "code": "15496",
+        "parent_code": "395"
+    },
+    "15499": {
+        "name": "Hạnh Phúc",
+        "type": "xa",
+        "slug": "hanh-phuc",
+        "name_with_type": "Xã Hạnh Phúc",
+        "path": "Hạnh Phúc, Thọ Xuân, Thanh Hóa",
+        "path_with_type": "Xã Hạnh Phúc, Huyện Thọ Xuân, Tỉnh Thanh Hóa",
+        "code": "15499",
+        "parent_code": "395"
+    },
+    "15502": {
+        "name": "Bắc Lương",
+        "type": "xa",
+        "slug": "bac-luong",
+        "name_with_type": "Xã Bắc Lương",
+        "path": "Bắc Lương, Thọ Xuân, Thanh Hóa",
+        "path_with_type": "Xã Bắc Lương, Huyện Thọ Xuân, Tỉnh Thanh Hóa",
+        "code": "15502",
+        "parent_code": "395"
+    },
+    "15505": {
+        "name": "Nam Giang",
+        "type": "xa",
+        "slug": "nam-giang",
+        "name_with_type": "Xã Nam Giang",
+        "path": "Nam Giang, Thọ Xuân, Thanh Hóa",
+        "path_with_type": "Xã Nam Giang, Huyện Thọ Xuân, Tỉnh Thanh Hóa",
+        "code": "15505",
+        "parent_code": "395"
+    },
+    "15508": {
+        "name": "Xuân Phong",
+        "type": "xa",
+        "slug": "xuan-phong",
+        "name_with_type": "Xã Xuân Phong",
+        "path": "Xuân Phong, Thọ Xuân, Thanh Hóa",
+        "path_with_type": "Xã Xuân Phong, Huyện Thọ Xuân, Tỉnh Thanh Hóa",
+        "code": "15508",
+        "parent_code": "395"
+    },
+    "15511": {
+        "name": "Thọ Lộc",
+        "type": "xa",
+        "slug": "tho-loc",
+        "name_with_type": "Xã Thọ Lộc",
+        "path": "Thọ Lộc, Thọ Xuân, Thanh Hóa",
+        "path_with_type": "Xã Thọ Lộc, Huyện Thọ Xuân, Tỉnh Thanh Hóa",
+        "code": "15511",
+        "parent_code": "395"
+    },
+    "15514": {
+        "name": "Xuân Trường",
+        "type": "xa",
+        "slug": "xuan-truong",
+        "name_with_type": "Xã Xuân Trường",
+        "path": "Xuân Trường, Thọ Xuân, Thanh Hóa",
+        "path_with_type": "Xã Xuân Trường, Huyện Thọ Xuân, Tỉnh Thanh Hóa",
+        "code": "15514",
+        "parent_code": "395"
+    },
+    "15517": {
+        "name": "Xuân Hòa",
+        "type": "xa",
+        "slug": "xuan-hoa",
+        "name_with_type": "Xã Xuân Hòa",
+        "path": "Xuân Hòa, Thọ Xuân, Thanh Hóa",
+        "path_with_type": "Xã Xuân Hòa, Huyện Thọ Xuân, Tỉnh Thanh Hóa",
+        "code": "15517",
+        "parent_code": "395"
+    },
+    "15520": {
+        "name": "Thọ Hải",
+        "type": "xa",
+        "slug": "tho-hai",
+        "name_with_type": "Xã Thọ Hải",
+        "path": "Thọ Hải, Thọ Xuân, Thanh Hóa",
+        "path_with_type": "Xã Thọ Hải, Huyện Thọ Xuân, Tỉnh Thanh Hóa",
+        "code": "15520",
+        "parent_code": "395"
+    },
+    "15523": {
+        "name": "Tây Hồ",
+        "type": "xa",
+        "slug": "tay-ho",
+        "name_with_type": "Xã Tây Hồ",
+        "path": "Tây Hồ, Thọ Xuân, Thanh Hóa",
+        "path_with_type": "Xã Tây Hồ, Huyện Thọ Xuân, Tỉnh Thanh Hóa",
+        "code": "15523",
+        "parent_code": "395"
+    },
+    "15526": {
+        "name": "Xuân Giang",
+        "type": "xa",
+        "slug": "xuan-giang",
+        "name_with_type": "Xã Xuân Giang",
+        "path": "Xuân Giang, Thọ Xuân, Thanh Hóa",
+        "path_with_type": "Xã Xuân Giang, Huyện Thọ Xuân, Tỉnh Thanh Hóa",
+        "code": "15526",
+        "parent_code": "395"
+    },
+    "15529": {
+        "name": "Xuân Quang",
+        "type": "xa",
+        "slug": "xuan-quang",
+        "name_with_type": "Xã Xuân Quang",
+        "path": "Xuân Quang, Thọ Xuân, Thanh Hóa",
+        "path_with_type": "Xã Xuân Quang, Huyện Thọ Xuân, Tỉnh Thanh Hóa",
+        "code": "15529",
+        "parent_code": "395"
+    },
+    "15532": {
+        "name": "Xuân Sơn",
+        "type": "xa",
+        "slug": "xuan-son",
+        "name_with_type": "Xã Xuân Sơn",
+        "path": "Xuân Sơn, Thọ Xuân, Thanh Hóa",
+        "path_with_type": "Xã Xuân Sơn, Huyện Thọ Xuân, Tỉnh Thanh Hóa",
+        "code": "15532",
+        "parent_code": "395"
+    },
+    "15535": {
+        "name": "Xuân Hưng",
+        "type": "xa",
+        "slug": "xuan-hung",
+        "name_with_type": "Xã Xuân Hưng",
+        "path": "Xuân Hưng, Thọ Xuân, Thanh Hóa",
+        "path_with_type": "Xã Xuân Hưng, Huyện Thọ Xuân, Tỉnh Thanh Hóa",
+        "code": "15535",
+        "parent_code": "395"
+    },
+    "15538": {
+        "name": "Thọ Diên",
+        "type": "xa",
+        "slug": "tho-dien",
+        "name_with_type": "Xã Thọ Diên",
+        "path": "Thọ Diên, Thọ Xuân, Thanh Hóa",
+        "path_with_type": "Xã Thọ Diên, Huyện Thọ Xuân, Tỉnh Thanh Hóa",
+        "code": "15538",
+        "parent_code": "395"
+    },
+    "15541": {
+        "name": "Thọ Lâm",
+        "type": "xa",
+        "slug": "tho-lam",
+        "name_with_type": "Xã Thọ Lâm",
+        "path": "Thọ Lâm, Thọ Xuân, Thanh Hóa",
+        "path_with_type": "Xã Thọ Lâm, Huyện Thọ Xuân, Tỉnh Thanh Hóa",
+        "code": "15541",
+        "parent_code": "395"
+    },
+    "15544": {
+        "name": "Thọ Xương",
+        "type": "xa",
+        "slug": "tho-xuong",
+        "name_with_type": "Xã Thọ Xương",
+        "path": "Thọ Xương, Thọ Xuân, Thanh Hóa",
+        "path_with_type": "Xã Thọ Xương, Huyện Thọ Xuân, Tỉnh Thanh Hóa",
+        "code": "15544",
+        "parent_code": "395"
+    },
+    "15547": {
+        "name": "Xuân Bái",
+        "type": "xa",
+        "slug": "xuan-bai",
+        "name_with_type": "Xã Xuân Bái",
+        "path": "Xuân Bái, Thọ Xuân, Thanh Hóa",
+        "path_with_type": "Xã Xuân Bái, Huyện Thọ Xuân, Tỉnh Thanh Hóa",
+        "code": "15547",
+        "parent_code": "395"
+    },
+    "15550": {
+        "name": "Xuân Phú",
+        "type": "xa",
+        "slug": "xuan-phu",
+        "name_with_type": "Xã Xuân Phú",
+        "path": "Xuân Phú, Thọ Xuân, Thanh Hóa",
+        "path_with_type": "Xã Xuân Phú, Huyện Thọ Xuân, Tỉnh Thanh Hóa",
+        "code": "15550",
+        "parent_code": "395"
+    },
+    "15553": {
+        "name": "Xuân Thắng",
+        "type": "xa",
+        "slug": "xuan-thang",
+        "name_with_type": "Xã Xuân Thắng",
+        "path": "Xuân Thắng, Thọ Xuân, Thanh Hóa",
+        "path_with_type": "Xã Xuân Thắng, Huyện Thọ Xuân, Tỉnh Thanh Hóa",
+        "code": "15553",
+        "parent_code": "395"
+    },
+    "15556": {
+        "name": "Xuân Lam",
+        "type": "xa",
+        "slug": "xuan-lam",
+        "name_with_type": "Xã Xuân Lam",
+        "path": "Xuân Lam, Thọ Xuân, Thanh Hóa",
+        "path_with_type": "Xã Xuân Lam, Huyện Thọ Xuân, Tỉnh Thanh Hóa",
+        "code": "15556",
+        "parent_code": "395"
+    },
+    "15559": {
+        "name": "Xuân Thiên",
+        "type": "xa",
+        "slug": "xuan-thien",
+        "name_with_type": "Xã Xuân Thiên",
+        "path": "Xuân Thiên, Thọ Xuân, Thanh Hóa",
+        "path_with_type": "Xã Xuân Thiên, Huyện Thọ Xuân, Tỉnh Thanh Hóa",
+        "code": "15559",
+        "parent_code": "395"
+    },
+    "15562": {
+        "name": "Thọ Minh",
+        "type": "xa",
+        "slug": "tho-minh",
+        "name_with_type": "Xã Thọ Minh",
+        "path": "Thọ Minh, Thọ Xuân, Thanh Hóa",
+        "path_with_type": "Xã Thọ Minh, Huyện Thọ Xuân, Tỉnh Thanh Hóa",
+        "code": "15562",
+        "parent_code": "395"
+    },
+    "15565": {
+        "name": "Xuân Châu",
+        "type": "xa",
+        "slug": "xuan-chau",
+        "name_with_type": "Xã Xuân Châu",
+        "path": "Xuân Châu, Thọ Xuân, Thanh Hóa",
+        "path_with_type": "Xã Xuân Châu, Huyện Thọ Xuân, Tỉnh Thanh Hóa",
+        "code": "15565",
+        "parent_code": "395"
+    },
+    "15568": {
+        "name": "Thọ Lập",
+        "type": "xa",
+        "slug": "tho-lap",
+        "name_with_type": "Xã Thọ Lập",
+        "path": "Thọ Lập, Thọ Xuân, Thanh Hóa",
+        "path_with_type": "Xã Thọ Lập, Huyện Thọ Xuân, Tỉnh Thanh Hóa",
+        "code": "15568",
+        "parent_code": "395"
+    },
+    "15571": {
+        "name": "Quảng Phú",
+        "type": "xa",
+        "slug": "quang-phu",
+        "name_with_type": "Xã Quảng Phú",
+        "path": "Quảng Phú, Thọ Xuân, Thanh Hóa",
+        "path_with_type": "Xã Quảng Phú, Huyện Thọ Xuân, Tỉnh Thanh Hóa",
+        "code": "15571",
+        "parent_code": "395"
+    },
+    "15574": {
+        "name": "Xuân Tín",
+        "type": "xa",
+        "slug": "xuan-tin",
+        "name_with_type": "Xã Xuân Tín",
+        "path": "Xuân Tín, Thọ Xuân, Thanh Hóa",
+        "path_with_type": "Xã Xuân Tín, Huyện Thọ Xuân, Tỉnh Thanh Hóa",
+        "code": "15574",
+        "parent_code": "395"
+    },
+    "15577": {
+        "name": "Phú Yên",
+        "type": "xa",
+        "slug": "phu-yen",
+        "name_with_type": "Xã Phú Yên",
+        "path": "Phú Yên, Thọ Xuân, Thanh Hóa",
+        "path_with_type": "Xã Phú Yên, Huyện Thọ Xuân, Tỉnh Thanh Hóa",
+        "code": "15577",
+        "parent_code": "395"
+    },
+    "15580": {
+        "name": "Xuân Yên",
+        "type": "xa",
+        "slug": "xuan-yen",
+        "name_with_type": "Xã Xuân Yên",
+        "path": "Xuân Yên, Thọ Xuân, Thanh Hóa",
+        "path_with_type": "Xã Xuân Yên, Huyện Thọ Xuân, Tỉnh Thanh Hóa",
+        "code": "15580",
+        "parent_code": "395"
+    },
+    "15583": {
+        "name": "Xuân Lai",
+        "type": "xa",
+        "slug": "xuan-lai",
+        "name_with_type": "Xã Xuân Lai",
+        "path": "Xuân Lai, Thọ Xuân, Thanh Hóa",
+        "path_with_type": "Xã Xuân Lai, Huyện Thọ Xuân, Tỉnh Thanh Hóa",
+        "code": "15583",
+        "parent_code": "395"
+    },
+    "15586": {
+        "name": "Xuân Lập",
+        "type": "xa",
+        "slug": "xuan-lap",
+        "name_with_type": "Xã Xuân Lập",
+        "path": "Xuân Lập, Thọ Xuân, Thanh Hóa",
+        "path_with_type": "Xã Xuân Lập, Huyện Thọ Xuân, Tỉnh Thanh Hóa",
+        "code": "15586",
+        "parent_code": "395"
+    },
+    "15589": {
+        "name": "Thọ Thắng",
+        "type": "xa",
+        "slug": "tho-thang",
+        "name_with_type": "Xã Thọ Thắng",
+        "path": "Thọ Thắng, Thọ Xuân, Thanh Hóa",
+        "path_with_type": "Xã Thọ Thắng, Huyện Thọ Xuân, Tỉnh Thanh Hóa",
+        "code": "15589",
+        "parent_code": "395"
+    },
+    "15592": {
+        "name": "Xuân Minh",
+        "type": "xa",
+        "slug": "xuan-minh",
+        "name_with_type": "Xã Xuân Minh",
+        "path": "Xuân Minh, Thọ Xuân, Thanh Hóa",
+        "path_with_type": "Xã Xuân Minh, Huyện Thọ Xuân, Tỉnh Thanh Hóa",
+        "code": "15592",
+        "parent_code": "395"
+    },
+    "15595": {
+        "name": "Xuân Tân",
+        "type": "xa",
+        "slug": "xuan-tan",
+        "name_with_type": "Xã Xuân Tân",
+        "path": "Xuân Tân, Thọ Xuân, Thanh Hóa",
+        "path_with_type": "Xã Xuân Tân, Huyện Thọ Xuân, Tỉnh Thanh Hóa",
+        "code": "15595",
+        "parent_code": "395"
+    },
+    "15598": {
+        "name": "Xuân Vinh",
+        "type": "xa",
+        "slug": "xuan-vinh",
+        "name_with_type": "Xã Xuân Vinh",
+        "path": "Xuân Vinh, Thọ Xuân, Thanh Hóa",
+        "path_with_type": "Xã Xuân Vinh, Huyện Thọ Xuân, Tỉnh Thanh Hóa",
+        "code": "15598",
+        "parent_code": "395"
+    },
+    "15601": {
+        "name": "Thọ Trường",
+        "type": "xa",
+        "slug": "tho-truong",
+        "name_with_type": "Xã Thọ Trường",
+        "path": "Thọ Trường, Thọ Xuân, Thanh Hóa",
+        "path_with_type": "Xã Thọ Trường, Huyện Thọ Xuân, Tỉnh Thanh Hóa",
+        "code": "15601",
+        "parent_code": "395"
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "02902": {
+        "name": "N.T Phong Hải",
+        "type": "thi-tran",
+        "slug": "n-t-phong-hai",
+        "name_with_type": "Thị trấn N.T Phong Hải",
+        "path": "N.T Phong Hải, Bảo Thắng, Lào Cai",
+        "path_with_type": "Thị trấn N.T Phong Hải, Huyện Bảo Thắng, Tỉnh Lào Cai",
+        "code": "02902",
+        "parent_code": "086"
+    },
+    "02905": {
+        "name": "Phố Lu",
+        "type": "thi-tran",
+        "slug": "pho-lu",
+        "name_with_type": "Thị trấn Phố Lu",
+        "path": "Phố Lu, Bảo Thắng, Lào Cai",
+        "path_with_type": "Thị trấn Phố Lu, Huyện Bảo Thắng, Tỉnh Lào Cai",
+        "code": "02905",
+        "parent_code": "086"
+    },
+    "02908": {
+        "name": "Tằng Loỏng",
+        "type": "thi-tran",
+        "slug": "tang-loong",
+        "name_with_type": "Thị trấn Tằng Loỏng",
+        "path": "Tằng Loỏng, Bảo Thắng, Lào Cai",
+        "path_with_type": "Thị trấn Tằng Loỏng, Huyện Bảo Thắng, Tỉnh Lào Cai",
+        "code": "02908",
+        "parent_code": "086"
+    },
+    "02911": {
+        "name": "Bản Phiệt",
+        "type": "xa",
+        "slug": "ban-phiet",
+        "name_with_type": "Xã Bản Phiệt",
+        "path": "Bản Phiệt, Bảo Thắng, Lào Cai",
+        "path_with_type": "Xã Bản Phiệt, Huyện Bảo Thắng, Tỉnh Lào Cai",
+        "code": "02911",
+        "parent_code": "086"
+    },
+    "02914": {
+        "name": "Bản Cầm",
+        "type": "xa",
+        "slug": "ban-cam",
+        "name_with_type": "Xã Bản Cầm",
+        "path": "Bản Cầm, Bảo Thắng, Lào Cai",
+        "path_with_type": "Xã Bản Cầm, Huyện Bảo Thắng, Tỉnh Lào Cai",
+        "code": "02914",
+        "parent_code": "086"
+    },
+    "02917": {
+        "name": "Thái Niên",
+        "type": "xa",
+        "slug": "thai-nien",
+        "name_with_type": "Xã Thái Niên",
+        "path": "Thái Niên, Bảo Thắng, Lào Cai",
+        "path_with_type": "Xã Thái Niên, Huyện Bảo Thắng, Tỉnh Lào Cai",
+        "code": "02917",
+        "parent_code": "086"
+    },
+    "02920": {
+        "name": "Phong Niên",
+        "type": "xa",
+        "slug": "phong-nien",
+        "name_with_type": "Xã Phong Niên",
+        "path": "Phong Niên, Bảo Thắng, Lào Cai",
+        "path_with_type": "Xã Phong Niên, Huyện Bảo Thắng, Tỉnh Lào Cai",
+        "code": "02920",
+        "parent_code": "086"
+    },
+    "02923": {
+        "name": "Gia Phú",
+        "type": "xa",
+        "slug": "gia-phu",
+        "name_with_type": "Xã Gia Phú",
+        "path": "Gia Phú, Bảo Thắng, Lào Cai",
+        "path_with_type": "Xã Gia Phú, Huyện Bảo Thắng, Tỉnh Lào Cai",
+        "code": "02923",
+        "parent_code": "086"
+    },
+    "02926": {
+        "name": "Xuân Quang",
+        "type": "xa",
+        "slug": "xuan-quang",
+        "name_with_type": "Xã Xuân Quang",
+        "path": "Xuân Quang, Bảo Thắng, Lào Cai",
+        "path_with_type": "Xã Xuân Quang, Huyện Bảo Thắng, Tỉnh Lào Cai",
+        "code": "02926",
+        "parent_code": "086"
+    },
+    "02929": {
+        "name": "Sơn Hải",
+        "type": "xa",
+        "slug": "son-hai",
+        "name_with_type": "Xã Sơn Hải",
+        "path": "Sơn Hải, Bảo Thắng, Lào Cai",
+        "path_with_type": "Xã Sơn Hải, Huyện Bảo Thắng, Tỉnh Lào Cai",
+        "code": "02929",
+        "parent_code": "086"
+    },
+    "02932": {
+        "name": "Xuân Giao",
+        "type": "xa",
+        "slug": "xuan-giao",
+        "name_with_type": "Xã Xuân Giao",
+        "path": "Xuân Giao, Bảo Thắng, Lào Cai",
+        "path_with_type": "Xã Xuân Giao, Huyện Bảo Thắng, Tỉnh Lào Cai",
+        "code": "02932",
+        "parent_code": "086"
+    },
+    "02935": {
+        "name": "Trì Quang",
+        "type": "xa",
+        "slug": "tri-quang",
+        "name_with_type": "Xã Trì Quang",
+        "path": "Trì Quang, Bảo Thắng, Lào Cai",
+        "path_with_type": "Xã Trì Quang, Huyện Bảo Thắng, Tỉnh Lào Cai",
+        "code": "02935",
+        "parent_code": "086"
+    },
+    "02938": {
+        "name": "Sơn Hà",
+        "type": "xa",
+        "slug": "son-ha",
+        "name_with_type": "Xã Sơn Hà",
+        "path": "Sơn Hà, Bảo Thắng, Lào Cai",
+        "path_with_type": "Xã Sơn Hà, Huyện Bảo Thắng, Tỉnh Lào Cai",
+        "code": "02938",
+        "parent_code": "086"
+    },
+    "02941": {
+        "name": "Phố Lu",
+        "type": "xa",
+        "slug": "pho-lu",
+        "name_with_type": "Xã Phố Lu",
+        "path": "Phố Lu, Bảo Thắng, Lào Cai",
+        "path_with_type": "Xã Phố Lu, Huyện Bảo Thắng, Tỉnh Lào Cai",
+        "code": "02941",
+        "parent_code": "086"
+    },
+    "02944": {
+        "name": "Phú Nhuận",
+        "type": "xa",
+        "slug": "phu-nhuan",
+        "name_with_type": "Xã Phú Nhuận",
+        "path": "Phú Nhuận, Bảo Thắng, Lào Cai",
+        "path_with_type": "Xã Phú Nhuận, Huyện Bảo Thắng, Tỉnh Lào Cai",
+        "code": "02944",
+        "parent_code": "086"
+    }
+}

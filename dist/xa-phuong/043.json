@@ -1,0 +1,172 @@
+{
+    "01321": {
+        "name": "Bảo Lạc",
+        "type": "thi-tran",
+        "slug": "bao-lac",
+        "name_with_type": "Thị trấn Bảo Lạc",
+        "path": "Bảo Lạc, Bảo Lạc, Cao Bằng",
+        "path_with_type": "Thị trấn Bảo Lạc, Huyện Bảo Lạc, Tỉnh Cao Bằng",
+        "code": "01321",
+        "parent_code": "043"
+    },
+    "01324": {
+        "name": "Cốc Pàng",
+        "type": "xa",
+        "slug": "coc-pang",
+        "name_with_type": "Xã Cốc Pàng",
+        "path": "Cốc Pàng, Bảo Lạc, Cao Bằng",
+        "path_with_type": "Xã Cốc Pàng, Huyện Bảo Lạc, Tỉnh Cao Bằng",
+        "code": "01324",
+        "parent_code": "043"
+    },
+    "01327": {
+        "name": "Thượng Hà",
+        "type": "xa",
+        "slug": "thuong-ha",
+        "name_with_type": "Xã Thượng Hà",
+        "path": "Thượng Hà, Bảo Lạc, Cao Bằng",
+        "path_with_type": "Xã Thượng Hà, Huyện Bảo Lạc, Tỉnh Cao Bằng",
+        "code": "01327",
+        "parent_code": "043"
+    },
+    "01330": {
+        "name": "Cô Ba",
+        "type": "xa",
+        "slug": "co-ba",
+        "name_with_type": "Xã Cô Ba",
+        "path": "Cô Ba, Bảo Lạc, Cao Bằng",
+        "path_with_type": "Xã Cô Ba, Huyện Bảo Lạc, Tỉnh Cao Bằng",
+        "code": "01330",
+        "parent_code": "043"
+    },
+    "01333": {
+        "name": "Bảo Toàn",
+        "type": "xa",
+        "slug": "bao-toan",
+        "name_with_type": "Xã Bảo Toàn",
+        "path": "Bảo Toàn, Bảo Lạc, Cao Bằng",
+        "path_with_type": "Xã Bảo Toàn, Huyện Bảo Lạc, Tỉnh Cao Bằng",
+        "code": "01333",
+        "parent_code": "043"
+    },
+    "01336": {
+        "name": "Khánh Xuân",
+        "type": "xa",
+        "slug": "khanh-xuan",
+        "name_with_type": "Xã Khánh Xuân",
+        "path": "Khánh Xuân, Bảo Lạc, Cao Bằng",
+        "path_with_type": "Xã Khánh Xuân, Huyện Bảo Lạc, Tỉnh Cao Bằng",
+        "code": "01336",
+        "parent_code": "043"
+    },
+    "01339": {
+        "name": "Xuân Trường",
+        "type": "xa",
+        "slug": "xuan-truong",
+        "name_with_type": "Xã Xuân Trường",
+        "path": "Xuân Trường, Bảo Lạc, Cao Bằng",
+        "path_with_type": "Xã Xuân Trường, Huyện Bảo Lạc, Tỉnh Cao Bằng",
+        "code": "01339",
+        "parent_code": "043"
+    },
+    "01342": {
+        "name": "Hồng Trị",
+        "type": "xa",
+        "slug": "hong-tri",
+        "name_with_type": "Xã Hồng Trị",
+        "path": "Hồng Trị, Bảo Lạc, Cao Bằng",
+        "path_with_type": "Xã Hồng Trị, Huyện Bảo Lạc, Tỉnh Cao Bằng",
+        "code": "01342",
+        "parent_code": "043"
+    },
+    "01343": {
+        "name": "Kim Cúc",
+        "type": "xa",
+        "slug": "kim-cuc",
+        "name_with_type": "Xã Kim Cúc",
+        "path": "Kim Cúc, Bảo Lạc, Cao Bằng",
+        "path_with_type": "Xã Kim Cúc, Huyện Bảo Lạc, Tỉnh Cao Bằng",
+        "code": "01343",
+        "parent_code": "043"
+    },
+    "01345": {
+        "name": "Phan Thanh",
+        "type": "xa",
+        "slug": "phan-thanh",
+        "name_with_type": "Xã Phan Thanh",
+        "path": "Phan Thanh, Bảo Lạc, Cao Bằng",
+        "path_with_type": "Xã Phan Thanh, Huyện Bảo Lạc, Tỉnh Cao Bằng",
+        "code": "01345",
+        "parent_code": "043"
+    },
+    "01348": {
+        "name": "Hồng An",
+        "type": "xa",
+        "slug": "hong-an",
+        "name_with_type": "Xã Hồng An",
+        "path": "Hồng An, Bảo Lạc, Cao Bằng",
+        "path_with_type": "Xã Hồng An, Huyện Bảo Lạc, Tỉnh Cao Bằng",
+        "code": "01348",
+        "parent_code": "043"
+    },
+    "01351": {
+        "name": "Hưng Đạo",
+        "type": "xa",
+        "slug": "hung-dao",
+        "name_with_type": "Xã Hưng Đạo",
+        "path": "Hưng Đạo, Bảo Lạc, Cao Bằng",
+        "path_with_type": "Xã Hưng Đạo, Huyện Bảo Lạc, Tỉnh Cao Bằng",
+        "code": "01351",
+        "parent_code": "043"
+    },
+    "01352": {
+        "name": "Hưng Thịnh",
+        "type": "xa",
+        "slug": "hung-thinh",
+        "name_with_type": "Xã Hưng Thịnh",
+        "path": "Hưng Thịnh, Bảo Lạc, Cao Bằng",
+        "path_with_type": "Xã Hưng Thịnh, Huyện Bảo Lạc, Tỉnh Cao Bằng",
+        "code": "01352",
+        "parent_code": "043"
+    },
+    "01354": {
+        "name": "Huy Giáp",
+        "type": "xa",
+        "slug": "huy-giap",
+        "name_with_type": "Xã Huy Giáp",
+        "path": "Huy Giáp, Bảo Lạc, Cao Bằng",
+        "path_with_type": "Xã Huy Giáp, Huyện Bảo Lạc, Tỉnh Cao Bằng",
+        "code": "01354",
+        "parent_code": "043"
+    },
+    "01357": {
+        "name": "Đình Phùng",
+        "type": "xa",
+        "slug": "dinh-phung",
+        "name_with_type": "Xã Đình Phùng",
+        "path": "Đình Phùng, Bảo Lạc, Cao Bằng",
+        "path_with_type": "Xã Đình Phùng, Huyện Bảo Lạc, Tỉnh Cao Bằng",
+        "code": "01357",
+        "parent_code": "043"
+    },
+    "01359": {
+        "name": "Sơn Lập",
+        "type": "xa",
+        "slug": "son-lap",
+        "name_with_type": "Xã Sơn Lập",
+        "path": "Sơn Lập, Bảo Lạc, Cao Bằng",
+        "path_with_type": "Xã Sơn Lập, Huyện Bảo Lạc, Tỉnh Cao Bằng",
+        "code": "01359",
+        "parent_code": "043"
+    },
+    "01360": {
+        "name": "Sơn Lộ",
+        "type": "xa",
+        "slug": "son-lo",
+        "name_with_type": "Xã Sơn Lộ",
+        "path": "Sơn Lộ, Bảo Lạc, Cao Bằng",
+        "path_with_type": "Xã Sơn Lộ, Huyện Bảo Lạc, Tỉnh Cao Bằng",
+        "code": "01360",
+        "parent_code": "043"
+    }
+}

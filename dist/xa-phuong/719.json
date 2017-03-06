@@ -1,0 +1,72 @@
+{
+    "25816": {
+        "name": "Trừ Văn Thố",
+        "type": "xa",
+        "slug": "tru-van-tho",
+        "name_with_type": "Xã Trừ Văn Thố",
+        "path": "Trừ Văn Thố, Bàu Bàng, Bình Dương",
+        "path_with_type": "Xã Trừ Văn Thố, Huyện Bàu Bàng, Tỉnh Bình Dương",
+        "code": "25816",
+        "parent_code": "719"
+    },
+    "25819": {
+        "name": "Cây Trường II",
+        "type": "xa",
+        "slug": "cay-truong-ii",
+        "name_with_type": "Xã Cây Trường II",
+        "path": "Cây Trường II, Bàu Bàng, Bình Dương",
+        "path_with_type": "Xã Cây Trường II, Huyện Bàu Bàng, Tỉnh Bình Dương",
+        "code": "25819",
+        "parent_code": "719"
+    },
+    "25822": {
+        "name": "Lai Uyên",
+        "type": "xa",
+        "slug": "lai-uyen",
+        "name_with_type": "Xã Lai Uyên",
+        "path": "Lai Uyên, Bàu Bàng, Bình Dương",
+        "path_with_type": "Xã Lai Uyên, Huyện Bàu Bàng, Tỉnh Bình Dương",
+        "code": "25822",
+        "parent_code": "719"
+    },
+    "25825": {
+        "name": "Tân Hưng",
+        "type": "xa",
+        "slug": "tan-hung",
+        "name_with_type": "Xã Tân Hưng",
+        "path": "Tân Hưng, Bàu Bàng, Bình Dương",
+        "path_with_type": "Xã Tân Hưng, Huyện Bàu Bàng, Tỉnh Bình Dương",
+        "code": "25825",
+        "parent_code": "719"
+    },
+    "25828": {
+        "name": "Long Nguyên",
+        "type": "xa",
+        "slug": "long-nguyen",
+        "name_with_type": "Xã Long Nguyên",
+        "path": "Long Nguyên, Bàu Bàng, Bình Dương",
+        "path_with_type": "Xã Long Nguyên, Huyện Bàu Bàng, Tỉnh Bình Dương",
+        "code": "25828",
+        "parent_code": "719"
+    },
+    "25831": {
+        "name": "Hưng Hòa",
+        "type": "xa",
+        "slug": "hung-hoa",
+        "name_with_type": "Xã Hưng Hòa",
+        "path": "Hưng Hòa, Bàu Bàng, Bình Dương",
+        "path_with_type": "Xã Hưng Hòa, Huyện Bàu Bàng, Tỉnh Bình Dương",
+        "code": "25831",
+        "parent_code": "719"
+    },
+    "25834": {
+        "name": "Lai Hưng",
+        "type": "xa",
+        "slug": "lai-hung",
+        "name_with_type": "Xã Lai Hưng",
+        "path": "Lai Hưng, Bàu Bàng, Bình Dương",
+        "path_with_type": "Xã Lai Hưng, Huyện Bàu Bàng, Tỉnh Bình Dương",
+        "code": "25834",
+        "parent_code": "719"
+    }
+}

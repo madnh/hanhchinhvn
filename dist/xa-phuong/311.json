@@ -1,0 +1,372 @@
+{
+    "11470": {
+        "name": "Núi Đèo",
+        "type": "thi-tran",
+        "slug": "nui-deo",
+        "name_with_type": "Thị trấn Núi Đèo",
+        "path": "Núi Đèo, Thuỷ Nguyên, Hải Phòng",
+        "path_with_type": "Thị trấn Núi Đèo, Huyện Thuỷ Nguyên, Thành phố Hải Phòng",
+        "code": "11470",
+        "parent_code": "311"
+    },
+    "11473": {
+        "name": "Minh Đức",
+        "type": "thi-tran",
+        "slug": "minh-duc",
+        "name_with_type": "Thị trấn Minh Đức",
+        "path": "Minh Đức, Thuỷ Nguyên, Hải Phòng",
+        "path_with_type": "Thị trấn Minh Đức, Huyện Thuỷ Nguyên, Thành phố Hải Phòng",
+        "code": "11473",
+        "parent_code": "311"
+    },
+    "11476": {
+        "name": "Lại Xuân",
+        "type": "xa",
+        "slug": "lai-xuan",
+        "name_with_type": "Xã Lại Xuân",
+        "path": "Lại Xuân, Thuỷ Nguyên, Hải Phòng",
+        "path_with_type": "Xã Lại Xuân, Huyện Thuỷ Nguyên, Thành phố Hải Phòng",
+        "code": "11476",
+        "parent_code": "311"
+    },
+    "11479": {
+        "name": "An Sơn",
+        "type": "xa",
+        "slug": "an-son",
+        "name_with_type": "Xã An Sơn",
+        "path": "An Sơn, Thuỷ Nguyên, Hải Phòng",
+        "path_with_type": "Xã An Sơn, Huyện Thuỷ Nguyên, Thành phố Hải Phòng",
+        "code": "11479",
+        "parent_code": "311"
+    },
+    "11482": {
+        "name": "Kỳ Sơn",
+        "type": "xa",
+        "slug": "ky-son",
+        "name_with_type": "Xã Kỳ Sơn",
+        "path": "Kỳ Sơn, Thuỷ Nguyên, Hải Phòng",
+        "path_with_type": "Xã Kỳ Sơn, Huyện Thuỷ Nguyên, Thành phố Hải Phòng",
+        "code": "11482",
+        "parent_code": "311"
+    },
+    "11485": {
+        "name": "Liên Khê",
+        "type": "xa",
+        "slug": "lien-khe",
+        "name_with_type": "Xã Liên Khê",
+        "path": "Liên Khê, Thuỷ Nguyên, Hải Phòng",
+        "path_with_type": "Xã Liên Khê, Huyện Thuỷ Nguyên, Thành phố Hải Phòng",
+        "code": "11485",
+        "parent_code": "311"
+    },
+    "11488": {
+        "name": "Lưu Kiếm",
+        "type": "xa",
+        "slug": "luu-kiem",
+        "name_with_type": "Xã Lưu Kiếm",
+        "path": "Lưu Kiếm, Thuỷ Nguyên, Hải Phòng",
+        "path_with_type": "Xã Lưu Kiếm, Huyện Thuỷ Nguyên, Thành phố Hải Phòng",
+        "code": "11488",
+        "parent_code": "311"
+    },
+    "11491": {
+        "name": "Lưu Kỳ",
+        "type": "xa",
+        "slug": "luu-ky",
+        "name_with_type": "Xã Lưu Kỳ",
+        "path": "Lưu Kỳ, Thuỷ Nguyên, Hải Phòng",
+        "path_with_type": "Xã Lưu Kỳ, Huyện Thuỷ Nguyên, Thành phố Hải Phòng",
+        "code": "11491",
+        "parent_code": "311"
+    },
+    "11494": {
+        "name": "Gia Minh",
+        "type": "xa",
+        "slug": "gia-minh",
+        "name_with_type": "Xã Gia Minh",
+        "path": "Gia Minh, Thuỷ Nguyên, Hải Phòng",
+        "path_with_type": "Xã Gia Minh, Huyện Thuỷ Nguyên, Thành phố Hải Phòng",
+        "code": "11494",
+        "parent_code": "311"
+    },
+    "11497": {
+        "name": "Gia Đức",
+        "type": "xa",
+        "slug": "gia-duc",
+        "name_with_type": "Xã Gia Đức",
+        "path": "Gia Đức, Thuỷ Nguyên, Hải Phòng",
+        "path_with_type": "Xã Gia Đức, Huyện Thuỷ Nguyên, Thành phố Hải Phòng",
+        "code": "11497",
+        "parent_code": "311"
+    },
+    "11500": {
+        "name": "Minh Tân",
+        "type": "xa",
+        "slug": "minh-tan",
+        "name_with_type": "Xã Minh Tân",
+        "path": "Minh Tân, Thuỷ Nguyên, Hải Phòng",
+        "path_with_type": "Xã Minh Tân, Huyện Thuỷ Nguyên, Thành phố Hải Phòng",
+        "code": "11500",
+        "parent_code": "311"
+    },
+    "11503": {
+        "name": "Phù Ninh",
+        "type": "xa",
+        "slug": "phu-ninh",
+        "name_with_type": "Xã Phù Ninh",
+        "path": "Phù Ninh, Thuỷ Nguyên, Hải Phòng",
+        "path_with_type": "Xã Phù Ninh, Huyện Thuỷ Nguyên, Thành phố Hải Phòng",
+        "code": "11503",
+        "parent_code": "311"
+    },
+    "11506": {
+        "name": "Quảng Thanh",
+        "type": "xa",
+        "slug": "quang-thanh",
+        "name_with_type": "Xã Quảng Thanh",
+        "path": "Quảng Thanh, Thuỷ Nguyên, Hải Phòng",
+        "path_with_type": "Xã Quảng Thanh, Huyện Thuỷ Nguyên, Thành phố Hải Phòng",
+        "code": "11506",
+        "parent_code": "311"
+    },
+    "11509": {
+        "name": "Chính Mỹ",
+        "type": "xa",
+        "slug": "chinh-my",
+        "name_with_type": "Xã Chính Mỹ",
+        "path": "Chính Mỹ, Thuỷ Nguyên, Hải Phòng",
+        "path_with_type": "Xã Chính Mỹ, Huyện Thuỷ Nguyên, Thành phố Hải Phòng",
+        "code": "11509",
+        "parent_code": "311"
+    },
+    "11512": {
+        "name": "Kênh Giang",
+        "type": "xa",
+        "slug": "kenh-giang",
+        "name_with_type": "Xã Kênh Giang",
+        "path": "Kênh Giang, Thuỷ Nguyên, Hải Phòng",
+        "path_with_type": "Xã Kênh Giang, Huyện Thuỷ Nguyên, Thành phố Hải Phòng",
+        "code": "11512",
+        "parent_code": "311"
+    },
+    "11515": {
+        "name": "Hợp Thành",
+        "type": "xa",
+        "slug": "hop-thanh",
+        "name_with_type": "Xã Hợp Thành",
+        "path": "Hợp Thành, Thuỷ Nguyên, Hải Phòng",
+        "path_with_type": "Xã Hợp Thành, Huyện Thuỷ Nguyên, Thành phố Hải Phòng",
+        "code": "11515",
+        "parent_code": "311"
+    },
+    "11518": {
+        "name": "Cao Nhân",
+        "type": "xa",
+        "slug": "cao-nhan",
+        "name_with_type": "Xã Cao Nhân",
+        "path": "Cao Nhân, Thuỷ Nguyên, Hải Phòng",
+        "path_with_type": "Xã Cao Nhân, Huyện Thuỷ Nguyên, Thành phố Hải Phòng",
+        "code": "11518",
+        "parent_code": "311"
+    },
+    "11521": {
+        "name": "Mỹ Đồng",
+        "type": "xa",
+        "slug": "my-dong",
+        "name_with_type": "Xã Mỹ Đồng",
+        "path": "Mỹ Đồng, Thuỷ Nguyên, Hải Phòng",
+        "path_with_type": "Xã Mỹ Đồng, Huyện Thuỷ Nguyên, Thành phố Hải Phòng",
+        "code": "11521",
+        "parent_code": "311"
+    },
+    "11524": {
+        "name": "Đông Sơn",
+        "type": "xa",
+        "slug": "dong-son",
+        "name_with_type": "Xã Đông Sơn",
+        "path": "Đông Sơn, Thuỷ Nguyên, Hải Phòng",
+        "path_with_type": "Xã Đông Sơn, Huyện Thuỷ Nguyên, Thành phố Hải Phòng",
+        "code": "11524",
+        "parent_code": "311"
+    },
+    "11527": {
+        "name": "Hoà Bình",
+        "type": "xa",
+        "slug": "hoa-binh",
+        "name_with_type": "Xã Hoà Bình",
+        "path": "Hoà Bình, Thuỷ Nguyên, Hải Phòng",
+        "path_with_type": "Xã Hoà Bình, Huyện Thuỷ Nguyên, Thành phố Hải Phòng",
+        "code": "11527",
+        "parent_code": "311"
+    },
+    "11530": {
+        "name": "Trung Hà",
+        "type": "xa",
+        "slug": "trung-ha",
+        "name_with_type": "Xã Trung Hà",
+        "path": "Trung Hà, Thuỷ Nguyên, Hải Phòng",
+        "path_with_type": "Xã Trung Hà, Huyện Thuỷ Nguyên, Thành phố Hải Phòng",
+        "code": "11530",
+        "parent_code": "311"
+    },
+    "11533": {
+        "name": "An Lư",
+        "type": "xa",
+        "slug": "an-lu",
+        "name_with_type": "Xã An Lư",
+        "path": "An Lư, Thuỷ Nguyên, Hải Phòng",
+        "path_with_type": "Xã An Lư, Huyện Thuỷ Nguyên, Thành phố Hải Phòng",
+        "code": "11533",
+        "parent_code": "311"
+    },
+    "11536": {
+        "name": "Thuỷ Triều",
+        "type": "xa",
+        "slug": "thuy-trieu",
+        "name_with_type": "Xã Thuỷ Triều",
+        "path": "Thuỷ Triều, Thuỷ Nguyên, Hải Phòng",
+        "path_with_type": "Xã Thuỷ Triều, Huyện Thuỷ Nguyên, Thành phố Hải Phòng",
+        "code": "11536",
+        "parent_code": "311"
+    },
+    "11539": {
+        "name": "Ngũ Lão",
+        "type": "xa",
+        "slug": "ngu-lao",
+        "name_with_type": "Xã Ngũ Lão",
+        "path": "Ngũ Lão, Thuỷ Nguyên, Hải Phòng",
+        "path_with_type": "Xã Ngũ Lão, Huyện Thuỷ Nguyên, Thành phố Hải Phòng",
+        "code": "11539",
+        "parent_code": "311"
+    },
+    "11542": {
+        "name": "Phục Lễ",
+        "type": "xa",
+        "slug": "phuc-le",
+        "name_with_type": "Xã Phục Lễ",
+        "path": "Phục Lễ, Thuỷ Nguyên, Hải Phòng",
+        "path_with_type": "Xã Phục Lễ, Huyện Thuỷ Nguyên, Thành phố Hải Phòng",
+        "code": "11542",
+        "parent_code": "311"
+    },
+    "11545": {
+        "name": "Tam Hưng",
+        "type": "xa",
+        "slug": "tam-hung",
+        "name_with_type": "Xã Tam Hưng",
+        "path": "Tam Hưng, Thuỷ Nguyên, Hải Phòng",
+        "path_with_type": "Xã Tam Hưng, Huyện Thuỷ Nguyên, Thành phố Hải Phòng",
+        "code": "11545",
+        "parent_code": "311"
+    },
+    "11548": {
+        "name": "Phả Lễ",
+        "type": "xa",
+        "slug": "pha-le",
+        "name_with_type": "Xã Phả Lễ",
+        "path": "Phả Lễ, Thuỷ Nguyên, Hải Phòng",
+        "path_with_type": "Xã Phả Lễ, Huyện Thuỷ Nguyên, Thành phố Hải Phòng",
+        "code": "11548",
+        "parent_code": "311"
+    },
+    "11551": {
+        "name": "Lập Lễ",
+        "type": "xa",
+        "slug": "lap-le",
+        "name_with_type": "Xã Lập Lễ",
+        "path": "Lập Lễ, Thuỷ Nguyên, Hải Phòng",
+        "path_with_type": "Xã Lập Lễ, Huyện Thuỷ Nguyên, Thành phố Hải Phòng",
+        "code": "11551",
+        "parent_code": "311"
+    },
+    "11554": {
+        "name": "Kiền Bái",
+        "type": "xa",
+        "slug": "kien-bai",
+        "name_with_type": "Xã Kiền Bái",
+        "path": "Kiền Bái, Thuỷ Nguyên, Hải Phòng",
+        "path_with_type": "Xã Kiền Bái, Huyện Thuỷ Nguyên, Thành phố Hải Phòng",
+        "code": "11554",
+        "parent_code": "311"
+    },
+    "11557": {
+        "name": "Thiên Hương",
+        "type": "xa",
+        "slug": "thien-huong",
+        "name_with_type": "Xã Thiên Hương",
+        "path": "Thiên Hương, Thuỷ Nguyên, Hải Phòng",
+        "path_with_type": "Xã Thiên Hương, Huyện Thuỷ Nguyên, Thành phố Hải Phòng",
+        "code": "11557",
+        "parent_code": "311"
+    },
+    "11560": {
+        "name": "Thuỷ Sơn",
+        "type": "xa",
+        "slug": "thuy-son",
+        "name_with_type": "Xã Thuỷ Sơn",
+        "path": "Thuỷ Sơn, Thuỷ Nguyên, Hải Phòng",
+        "path_with_type": "Xã Thuỷ Sơn, Huyện Thuỷ Nguyên, Thành phố Hải Phòng",
+        "code": "11560",
+        "parent_code": "311"
+    },
+    "11563": {
+        "name": "Thuỷ Đường",
+        "type": "xa",
+        "slug": "thuy-duong",
+        "name_with_type": "Xã Thuỷ Đường",
+        "path": "Thuỷ Đường, Thuỷ Nguyên, Hải Phòng",
+        "path_with_type": "Xã Thuỷ Đường, Huyện Thuỷ Nguyên, Thành phố Hải Phòng",
+        "code": "11563",
+        "parent_code": "311"
+    },
+    "11566": {
+        "name": "Hoàng Động",
+        "type": "xa",
+        "slug": "hoang-dong",
+        "name_with_type": "Xã Hoàng Động",
+        "path": "Hoàng Động, Thuỷ Nguyên, Hải Phòng",
+        "path_with_type": "Xã Hoàng Động, Huyện Thuỷ Nguyên, Thành phố Hải Phòng",
+        "code": "11566",
+        "parent_code": "311"
+    },
+    "11569": {
+        "name": "Lâm Động",
+        "type": "xa",
+        "slug": "lam-dong",
+        "name_with_type": "Xã Lâm Động",
+        "path": "Lâm Động, Thuỷ Nguyên, Hải Phòng",
+        "path_with_type": "Xã Lâm Động, Huyện Thuỷ Nguyên, Thành phố Hải Phòng",
+        "code": "11569",
+        "parent_code": "311"
+    },
+    "11572": {
+        "name": "Hoa Động",
+        "type": "xa",
+        "slug": "hoa-dong",
+        "name_with_type": "Xã Hoa Động",
+        "path": "Hoa Động, Thuỷ Nguyên, Hải Phòng",
+        "path_with_type": "Xã Hoa Động, Huyện Thuỷ Nguyên, Thành phố Hải Phòng",
+        "code": "11572",
+        "parent_code": "311"
+    },
+    "11575": {
+        "name": "Tân Dương",
+        "type": "xa",
+        "slug": "tan-duong",
+        "name_with_type": "Xã Tân Dương",
+        "path": "Tân Dương, Thuỷ Nguyên, Hải Phòng",
+        "path_with_type": "Xã Tân Dương, Huyện Thuỷ Nguyên, Thành phố Hải Phòng",
+        "code": "11575",
+        "parent_code": "311"
+    },
+    "11578": {
+        "name": "Dương Quan",
+        "type": "xa",
+        "slug": "duong-quan",
+        "name_with_type": "Xã Dương Quan",
+        "path": "Dương Quan, Thuỷ Nguyên, Hải Phòng",
+        "path_with_type": "Xã Dương Quan, Huyện Thuỷ Nguyên, Thành phố Hải Phòng",
+        "code": "11578",
+        "parent_code": "311"
+    }
+}

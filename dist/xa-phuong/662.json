@@ -1,0 +1,82 @@
+{
+    "24640": {
+        "name": "Ea T'Ling",
+        "type": "thi-tran",
+        "slug": "ea-t-ling",
+        "name_with_type": "Thị trấn Ea T'Ling",
+        "path": "Ea T'Ling, Cư Jút, Đắk Nông",
+        "path_with_type": "Thị trấn Ea T'Ling, Huyện Cư Jút, Tỉnh Đắk Nông",
+        "code": "24640",
+        "parent_code": "662"
+    },
+    "24643": {
+        "name": "Đắk Wil",
+        "type": "xa",
+        "slug": "dak-wil",
+        "name_with_type": "Xã Đắk Wil",
+        "path": "Đắk Wil, Cư Jút, Đắk Nông",
+        "path_with_type": "Xã Đắk Wil, Huyện Cư Jút, Tỉnh Đắk Nông",
+        "code": "24643",
+        "parent_code": "662"
+    },
+    "24646": {
+        "name": "Ea Pô",
+        "type": "xa",
+        "slug": "ea-po",
+        "name_with_type": "Xã Ea Pô",
+        "path": "Ea Pô, Cư Jút, Đắk Nông",
+        "path_with_type": "Xã Ea Pô, Huyện Cư Jút, Tỉnh Đắk Nông",
+        "code": "24646",
+        "parent_code": "662"
+    },
+    "24649": {
+        "name": "Nam Dong",
+        "type": "xa",
+        "slug": "nam-dong",
+        "name_with_type": "Xã Nam Dong",
+        "path": "Nam Dong, Cư Jút, Đắk Nông",
+        "path_with_type": "Xã Nam Dong, Huyện Cư Jút, Tỉnh Đắk Nông",
+        "code": "24649",
+        "parent_code": "662"
+    },
+    "24652": {
+        "name": "Đắk DRông",
+        "type": "xa",
+        "slug": "dak-drong",
+        "name_with_type": "Xã Đắk DRông",
+        "path": "Đắk DRông, Cư Jút, Đắk Nông",
+        "path_with_type": "Xã Đắk DRông, Huyện Cư Jút, Tỉnh Đắk Nông",
+        "code": "24652",
+        "parent_code": "662"
+    },
+    "24655": {
+        "name": "Tâm Thắng",
+        "type": "xa",
+        "slug": "tam-thang",
+        "name_with_type": "Xã Tâm Thắng",
+        "path": "Tâm Thắng, Cư Jút, Đắk Nông",
+        "path_with_type": "Xã Tâm Thắng, Huyện Cư Jút, Tỉnh Đắk Nông",
+        "code": "24655",
+        "parent_code": "662"
+    },
+    "24658": {
+        "name": "Cư Knia",
+        "type": "xa",
+        "slug": "cu-knia",
+        "name_with_type": "Xã Cư Knia",
+        "path": "Cư Knia, Cư Jút, Đắk Nông",
+        "path_with_type": "Xã Cư Knia, Huyện Cư Jút, Tỉnh Đắk Nông",
+        "code": "24658",
+        "parent_code": "662"
+    },
+    "24661": {
+        "name": "Trúc Sơn",
+        "type": "xa",
+        "slug": "truc-son",
+        "name_with_type": "Xã Trúc Sơn",
+        "path": "Trúc Sơn, Cư Jút, Đắk Nông",
+        "path_with_type": "Xã Trúc Sơn, Huyện Cư Jút, Tỉnh Đắk Nông",
+        "code": "24661",
+        "parent_code": "662"
+    }
+}

@@ -1,0 +1,142 @@
+{
+    "22609": {
+        "name": "Khánh Vĩnh",
+        "type": "thi-tran",
+        "slug": "khanh-vinh",
+        "name_with_type": "Thị trấn Khánh Vĩnh",
+        "path": "Khánh Vĩnh, Khánh Vĩnh, Khánh Hòa",
+        "path_with_type": "Thị trấn Khánh Vĩnh, Huyện Khánh Vĩnh, Tỉnh Khánh Hòa",
+        "code": "22609",
+        "parent_code": "573"
+    },
+    "22612": {
+        "name": "Khánh Hiệp",
+        "type": "xa",
+        "slug": "khanh-hiep",
+        "name_with_type": "Xã Khánh Hiệp",
+        "path": "Khánh Hiệp, Khánh Vĩnh, Khánh Hòa",
+        "path_with_type": "Xã Khánh Hiệp, Huyện Khánh Vĩnh, Tỉnh Khánh Hòa",
+        "code": "22612",
+        "parent_code": "573"
+    },
+    "22615": {
+        "name": "Khánh Bình",
+        "type": "xa",
+        "slug": "khanh-binh",
+        "name_with_type": "Xã Khánh Bình",
+        "path": "Khánh Bình, Khánh Vĩnh, Khánh Hòa",
+        "path_with_type": "Xã Khánh Bình, Huyện Khánh Vĩnh, Tỉnh Khánh Hòa",
+        "code": "22615",
+        "parent_code": "573"
+    },
+    "22618": {
+        "name": "Khánh Trung",
+        "type": "xa",
+        "slug": "khanh-trung",
+        "name_with_type": "Xã Khánh Trung",
+        "path": "Khánh Trung, Khánh Vĩnh, Khánh Hòa",
+        "path_with_type": "Xã Khánh Trung, Huyện Khánh Vĩnh, Tỉnh Khánh Hòa",
+        "code": "22618",
+        "parent_code": "573"
+    },
+    "22621": {
+        "name": "Khánh Đông",
+        "type": "xa",
+        "slug": "khanh-dong",
+        "name_with_type": "Xã Khánh Đông",
+        "path": "Khánh Đông, Khánh Vĩnh, Khánh Hòa",
+        "path_with_type": "Xã Khánh Đông, Huyện Khánh Vĩnh, Tỉnh Khánh Hòa",
+        "code": "22621",
+        "parent_code": "573"
+    },
+    "22624": {
+        "name": "Khánh Thượng",
+        "type": "xa",
+        "slug": "khanh-thuong",
+        "name_with_type": "Xã Khánh Thượng",
+        "path": "Khánh Thượng, Khánh Vĩnh, Khánh Hòa",
+        "path_with_type": "Xã Khánh Thượng, Huyện Khánh Vĩnh, Tỉnh Khánh Hòa",
+        "code": "22624",
+        "parent_code": "573"
+    },
+    "22627": {
+        "name": "Khánh Nam",
+        "type": "xa",
+        "slug": "khanh-nam",
+        "name_with_type": "Xã Khánh Nam",
+        "path": "Khánh Nam, Khánh Vĩnh, Khánh Hòa",
+        "path_with_type": "Xã Khánh Nam, Huyện Khánh Vĩnh, Tỉnh Khánh Hòa",
+        "code": "22627",
+        "parent_code": "573"
+    },
+    "22630": {
+        "name": "Sông Cầu",
+        "type": "xa",
+        "slug": "song-cau",
+        "name_with_type": "Xã Sông Cầu",
+        "path": "Sông Cầu, Khánh Vĩnh, Khánh Hòa",
+        "path_with_type": "Xã Sông Cầu, Huyện Khánh Vĩnh, Tỉnh Khánh Hòa",
+        "code": "22630",
+        "parent_code": "573"
+    },
+    "22633": {
+        "name": "Giang Ly",
+        "type": "xa",
+        "slug": "giang-ly",
+        "name_with_type": "Xã Giang Ly",
+        "path": "Giang Ly, Khánh Vĩnh, Khánh Hòa",
+        "path_with_type": "Xã Giang Ly, Huyện Khánh Vĩnh, Tỉnh Khánh Hòa",
+        "code": "22633",
+        "parent_code": "573"
+    },
+    "22636": {
+        "name": "Cầu Bà",
+        "type": "xa",
+        "slug": "cau-ba",
+        "name_with_type": "Xã Cầu Bà",
+        "path": "Cầu Bà, Khánh Vĩnh, Khánh Hòa",
+        "path_with_type": "Xã Cầu Bà, Huyện Khánh Vĩnh, Tỉnh Khánh Hòa",
+        "code": "22636",
+        "parent_code": "573"
+    },
+    "22639": {
+        "name": "Liên Sang",
+        "type": "xa",
+        "slug": "lien-sang",
+        "name_with_type": "Xã Liên Sang",
+        "path": "Liên Sang, Khánh Vĩnh, Khánh Hòa",
+        "path_with_type": "Xã Liên Sang, Huyện Khánh Vĩnh, Tỉnh Khánh Hòa",
+        "code": "22639",
+        "parent_code": "573"
+    },
+    "22642": {
+        "name": "Khánh Thành",
+        "type": "xa",
+        "slug": "khanh-thanh",
+        "name_with_type": "Xã Khánh Thành",
+        "path": "Khánh Thành, Khánh Vĩnh, Khánh Hòa",
+        "path_with_type": "Xã Khánh Thành, Huyện Khánh Vĩnh, Tỉnh Khánh Hòa",
+        "code": "22642",
+        "parent_code": "573"
+    },
+    "22645": {
+        "name": "Khánh Phú",
+        "type": "xa",
+        "slug": "khanh-phu",
+        "name_with_type": "Xã Khánh Phú",
+        "path": "Khánh Phú, Khánh Vĩnh, Khánh Hòa",
+        "path_with_type": "Xã Khánh Phú, Huyện Khánh Vĩnh, Tỉnh Khánh Hòa",
+        "code": "22645",
+        "parent_code": "573"
+    },
+    "22648": {
+        "name": "Sơn Thái",
+        "type": "xa",
+        "slug": "son-thai",
+        "name_with_type": "Xã Sơn Thái",
+        "path": "Sơn Thái, Khánh Vĩnh, Khánh Hòa",
+        "path_with_type": "Xã Sơn Thái, Huyện Khánh Vĩnh, Tỉnh Khánh Hòa",
+        "code": "22648",
+        "parent_code": "573"
+    }
+}

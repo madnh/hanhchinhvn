@@ -1,0 +1,132 @@
+{
+    "05353": {
+        "name": "Hàng Trạm",
+        "type": "thi-tran",
+        "slug": "hang-tram",
+        "name_with_type": "Thị trấn Hàng Trạm",
+        "path": "Hàng Trạm, Yên Thủy, Hoà Bình",
+        "path_with_type": "Thị trấn Hàng Trạm, Huyện Yên Thủy, Tỉnh Hoà Bình",
+        "code": "05353",
+        "parent_code": "158"
+    },
+    "05356": {
+        "name": "Lạc Sỹ",
+        "type": "xa",
+        "slug": "lac-sy",
+        "name_with_type": "Xã Lạc Sỹ",
+        "path": "Lạc Sỹ, Yên Thủy, Hoà Bình",
+        "path_with_type": "Xã Lạc Sỹ, Huyện Yên Thủy, Tỉnh Hoà Bình",
+        "code": "05356",
+        "parent_code": "158"
+    },
+    "05359": {
+        "name": "Lạc Hưng",
+        "type": "xa",
+        "slug": "lac-hung",
+        "name_with_type": "Xã Lạc Hưng",
+        "path": "Lạc Hưng, Yên Thủy, Hoà Bình",
+        "path_with_type": "Xã Lạc Hưng, Huyện Yên Thủy, Tỉnh Hoà Bình",
+        "code": "05359",
+        "parent_code": "158"
+    },
+    "05362": {
+        "name": "Lạc Lương",
+        "type": "xa",
+        "slug": "lac-luong",
+        "name_with_type": "Xã Lạc Lương",
+        "path": "Lạc Lương, Yên Thủy, Hoà Bình",
+        "path_with_type": "Xã Lạc Lương, Huyện Yên Thủy, Tỉnh Hoà Bình",
+        "code": "05362",
+        "parent_code": "158"
+    },
+    "05365": {
+        "name": "Bảo Hiệu",
+        "type": "xa",
+        "slug": "bao-hieu",
+        "name_with_type": "Xã Bảo Hiệu",
+        "path": "Bảo Hiệu, Yên Thủy, Hoà Bình",
+        "path_with_type": "Xã Bảo Hiệu, Huyện Yên Thủy, Tỉnh Hoà Bình",
+        "code": "05365",
+        "parent_code": "158"
+    },
+    "05368": {
+        "name": "Đa Phúc",
+        "type": "xa",
+        "slug": "da-phuc",
+        "name_with_type": "Xã Đa Phúc",
+        "path": "Đa Phúc, Yên Thủy, Hoà Bình",
+        "path_with_type": "Xã Đa Phúc, Huyện Yên Thủy, Tỉnh Hoà Bình",
+        "code": "05368",
+        "parent_code": "158"
+    },
+    "05371": {
+        "name": "Hữu Lợi",
+        "type": "xa",
+        "slug": "huu-loi",
+        "name_with_type": "Xã Hữu Lợi",
+        "path": "Hữu Lợi, Yên Thủy, Hoà Bình",
+        "path_with_type": "Xã Hữu Lợi, Huyện Yên Thủy, Tỉnh Hoà Bình",
+        "code": "05371",
+        "parent_code": "158"
+    },
+    "05374": {
+        "name": "Lạc Thịnh",
+        "type": "xa",
+        "slug": "lac-thinh",
+        "name_with_type": "Xã Lạc Thịnh",
+        "path": "Lạc Thịnh, Yên Thủy, Hoà Bình",
+        "path_with_type": "Xã Lạc Thịnh, Huyện Yên Thủy, Tỉnh Hoà Bình",
+        "code": "05374",
+        "parent_code": "158"
+    },
+    "05377": {
+        "name": "Yên Lạc",
+        "type": "xa",
+        "slug": "yen-lac",
+        "name_with_type": "Xã Yên Lạc",
+        "path": "Yên Lạc, Yên Thủy, Hoà Bình",
+        "path_with_type": "Xã Yên Lạc, Huyện Yên Thủy, Tỉnh Hoà Bình",
+        "code": "05377",
+        "parent_code": "158"
+    },
+    "05380": {
+        "name": "Đoàn Kết",
+        "type": "xa",
+        "slug": "doan-ket",
+        "name_with_type": "Xã Đoàn Kết",
+        "path": "Đoàn Kết, Yên Thủy, Hoà Bình",
+        "path_with_type": "Xã Đoàn Kết, Huyện Yên Thủy, Tỉnh Hoà Bình",
+        "code": "05380",
+        "parent_code": "158"
+    },
+    "05383": {
+        "name": "Phú Lai",
+        "type": "xa",
+        "slug": "phu-lai",
+        "name_with_type": "Xã Phú Lai",
+        "path": "Phú Lai, Yên Thủy, Hoà Bình",
+        "path_with_type": "Xã Phú Lai, Huyện Yên Thủy, Tỉnh Hoà Bình",
+        "code": "05383",
+        "parent_code": "158"
+    },
+    "05386": {
+        "name": "Yên Trị",
+        "type": "xa",
+        "slug": "yen-tri",
+        "name_with_type": "Xã Yên Trị",
+        "path": "Yên Trị, Yên Thủy, Hoà Bình",
+        "path_with_type": "Xã Yên Trị, Huyện Yên Thủy, Tỉnh Hoà Bình",
+        "code": "05386",
+        "parent_code": "158"
+    },
+    "05389": {
+        "name": "Ngọc Lương",
+        "type": "xa",
+        "slug": "ngoc-luong",
+        "name_with_type": "Xã Ngọc Lương",
+        "path": "Ngọc Lương, Yên Thủy, Hoà Bình",
+        "path_with_type": "Xã Ngọc Lương, Huyện Yên Thủy, Tỉnh Hoà Bình",
+        "code": "05389",
+        "parent_code": "158"
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "31756": {
+        "name": "Phú Lộc",
+        "type": "thi-tran",
+        "slug": "phu-loc",
+        "name_with_type": "Thị trấn Phú Lộc",
+        "path": "Phú Lộc, Thạnh Trị, Sóc Trăng",
+        "path_with_type": "Thị trấn Phú Lộc, Huyện Thạnh Trị, Tỉnh Sóc Trăng",
+        "code": "31756",
+        "parent_code": "949"
+    },
+    "31757": {
+        "name": "Hưng Lợi",
+        "type": "thi-tran",
+        "slug": "hung-loi",
+        "name_with_type": "Thị trấn Hưng Lợi",
+        "path": "Hưng Lợi, Thạnh Trị, Sóc Trăng",
+        "path_with_type": "Thị trấn Hưng Lợi, Huyện Thạnh Trị, Tỉnh Sóc Trăng",
+        "code": "31757",
+        "parent_code": "949"
+    },
+    "31759": {
+        "name": "Lâm Tân",
+        "type": "xa",
+        "slug": "lam-tan",
+        "name_with_type": "Xã Lâm Tân",
+        "path": "Lâm Tân, Thạnh Trị, Sóc Trăng",
+        "path_with_type": "Xã Lâm Tân, Huyện Thạnh Trị, Tỉnh Sóc Trăng",
+        "code": "31759",
+        "parent_code": "949"
+    },
+    "31762": {
+        "name": "Thạnh Tân",
+        "type": "xa",
+        "slug": "thanh-tan",
+        "name_with_type": "Xã Thạnh Tân",
+        "path": "Thạnh Tân, Thạnh Trị, Sóc Trăng",
+        "path_with_type": "Xã Thạnh Tân, Huyện Thạnh Trị, Tỉnh Sóc Trăng",
+        "code": "31762",
+        "parent_code": "949"
+    },
+    "31765": {
+        "name": "Lâm Kiết",
+        "type": "xa",
+        "slug": "lam-kiet",
+        "name_with_type": "Xã Lâm Kiết",
+        "path": "Lâm Kiết, Thạnh Trị, Sóc Trăng",
+        "path_with_type": "Xã Lâm Kiết, Huyện Thạnh Trị, Tỉnh Sóc Trăng",
+        "code": "31765",
+        "parent_code": "949"
+    },
+    "31768": {
+        "name": "Tuân Tức",
+        "type": "xa",
+        "slug": "tuan-tuc",
+        "name_with_type": "Xã Tuân Tức",
+        "path": "Tuân Tức, Thạnh Trị, Sóc Trăng",
+        "path_with_type": "Xã Tuân Tức, Huyện Thạnh Trị, Tỉnh Sóc Trăng",
+        "code": "31768",
+        "parent_code": "949"
+    },
+    "31771": {
+        "name": "Vĩnh Thành",
+        "type": "xa",
+        "slug": "vinh-thanh",
+        "name_with_type": "Xã Vĩnh Thành",
+        "path": "Vĩnh Thành, Thạnh Trị, Sóc Trăng",
+        "path_with_type": "Xã Vĩnh Thành, Huyện Thạnh Trị, Tỉnh Sóc Trăng",
+        "code": "31771",
+        "parent_code": "949"
+    },
+    "31774": {
+        "name": "Thạnh Trị",
+        "type": "xa",
+        "slug": "thanh-tri",
+        "name_with_type": "Xã Thạnh Trị",
+        "path": "Thạnh Trị, Thạnh Trị, Sóc Trăng",
+        "path_with_type": "Xã Thạnh Trị, Huyện Thạnh Trị, Tỉnh Sóc Trăng",
+        "code": "31774",
+        "parent_code": "949"
+    },
+    "31777": {
+        "name": "Vĩnh Lợi",
+        "type": "xa",
+        "slug": "vinh-loi",
+        "name_with_type": "Xã Vĩnh Lợi",
+        "path": "Vĩnh Lợi, Thạnh Trị, Sóc Trăng",
+        "path_with_type": "Xã Vĩnh Lợi, Huyện Thạnh Trị, Tỉnh Sóc Trăng",
+        "code": "31777",
+        "parent_code": "949"
+    },
+    "31780": {
+        "name": "Châu Hưng",
+        "type": "xa",
+        "slug": "chau-hung",
+        "name_with_type": "Xã Châu Hưng",
+        "path": "Châu Hưng, Thạnh Trị, Sóc Trăng",
+        "path_with_type": "Xã Châu Hưng, Huyện Thạnh Trị, Tỉnh Sóc Trăng",
+        "code": "31780",
+        "parent_code": "949"
+    }
+}

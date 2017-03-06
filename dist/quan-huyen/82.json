@@ -1,0 +1,112 @@
+{
+    "815": {
+        "name": "Mỹ Tho",
+        "type": "thanh-pho",
+        "slug": "my-tho",
+        "name_with_type": "Thành phố Mỹ Tho",
+        "path": "Mỹ Tho, Tiền Giang",
+        "path_with_type": "Thành phố Mỹ Tho, Tỉnh Tiền Giang",
+        "code": "815",
+        "parent_code": "82"
+    },
+    "816": {
+        "name": "Gò Công",
+        "type": "thi-xa",
+        "slug": "go-cong",
+        "name_with_type": "Thị xã Gò Công",
+        "path": "Gò Công, Tiền Giang",
+        "path_with_type": "Thị xã Gò Công, Tỉnh Tiền Giang",
+        "code": "816",
+        "parent_code": "82"
+    },
+    "817": {
+        "name": "Cai Lậy",
+        "type": "thi-xa",
+        "slug": "cai-lay",
+        "name_with_type": "Thị xã Cai Lậy",
+        "path": "Cai Lậy, Tiền Giang",
+        "path_with_type": "Thị xã Cai Lậy, Tỉnh Tiền Giang",
+        "code": "817",
+        "parent_code": "82"
+    },
+    "818": {
+        "name": "Tân Phước",
+        "type": "huyen",
+        "slug": "tan-phuoc",
+        "name_with_type": "Huyện Tân Phước",
+        "path": "Tân Phước, Tiền Giang",
+        "path_with_type": "Huyện Tân Phước, Tỉnh Tiền Giang",
+        "code": "818",
+        "parent_code": "82"
+    },
+    "819": {
+        "name": "Cái Bè",
+        "type": "huyen",
+        "slug": "cai-be",
+        "name_with_type": "Huyện Cái Bè",
+        "path": "Cái Bè, Tiền Giang",
+        "path_with_type": "Huyện Cái Bè, Tỉnh Tiền Giang",
+        "code": "819",
+        "parent_code": "82"
+    },
+    "820": {
+        "name": "Cai Lậy",
+        "type": "huyen",
+        "slug": "cai-lay",
+        "name_with_type": "Huyện Cai Lậy",
+        "path": "Cai Lậy, Tiền Giang",
+        "path_with_type": "Huyện Cai Lậy, Tỉnh Tiền Giang",
+        "code": "820",
+        "parent_code": "82"
+    },
+    "821": {
+        "name": "Châu Thành",
+        "type": "huyen",
+        "slug": "chau-thanh",
+        "name_with_type": "Huyện Châu Thành",
+        "path": "Châu Thành, Tiền Giang",
+        "path_with_type": "Huyện Châu Thành, Tỉnh Tiền Giang",
+        "code": "821",
+        "parent_code": "82"
+    },
+    "822": {
+        "name": "Chợ Gạo",
+        "type": "huyen",
+        "slug": "cho-gao",
+        "name_with_type": "Huyện Chợ Gạo",
+        "path": "Chợ Gạo, Tiền Giang",
+        "path_with_type": "Huyện Chợ Gạo, Tỉnh Tiền Giang",
+        "code": "822",
+        "parent_code": "82"
+    },
+    "823": {
+        "name": "Gò Công Tây",
+        "type": "huyen",
+        "slug": "go-cong-tay",
+        "name_with_type": "Huyện Gò Công Tây",
+        "path": "Gò Công Tây, Tiền Giang",
+        "path_with_type": "Huyện Gò Công Tây, Tỉnh Tiền Giang",
+        "code": "823",
+        "parent_code": "82"
+    },
+    "824": {
+        "name": "Gò Công Đông",
+        "type": "huyen",
+        "slug": "go-cong-dong",
+        "name_with_type": "Huyện Gò Công Đông",
+        "path": "Gò Công Đông, Tiền Giang",
+        "path_with_type": "Huyện Gò Công Đông, Tỉnh Tiền Giang",
+        "code": "824",
+        "parent_code": "82"
+    },
+    "825": {
+        "name": "Tân Phú Đông",
+        "type": "huyen",
+        "slug": "tan-phu-dong",
+        "name_with_type": "Huyện Tân Phú Đông",
+        "path": "Tân Phú Đông, Tiền Giang",
+        "path_with_type": "Huyện Tân Phú Đông, Tỉnh Tiền Giang",
+        "code": "825",
+        "parent_code": "82"
+    }
+}

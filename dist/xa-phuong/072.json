@@ -1,0 +1,122 @@
+{
+    "02221": {
+        "name": "Nà Hang",
+        "type": "thi-tran",
+        "slug": "na-hang",
+        "name_with_type": "Thị trấn Nà Hang",
+        "path": "Nà Hang, Nà Hang, Tuyên Quang",
+        "path_with_type": "Thị trấn Nà Hang, Huyện Nà Hang, Tỉnh Tuyên Quang",
+        "code": "02221",
+        "parent_code": "072"
+    },
+    "02227": {
+        "name": "Sinh Long",
+        "type": "xa",
+        "slug": "sinh-long",
+        "name_with_type": "Xã Sinh Long",
+        "path": "Sinh Long, Nà Hang, Tuyên Quang",
+        "path_with_type": "Xã Sinh Long, Huyện Nà Hang, Tỉnh Tuyên Quang",
+        "code": "02227",
+        "parent_code": "072"
+    },
+    "02230": {
+        "name": "Thượng Giáp",
+        "type": "xa",
+        "slug": "thuong-giap",
+        "name_with_type": "Xã Thượng Giáp",
+        "path": "Thượng Giáp, Nà Hang, Tuyên Quang",
+        "path_with_type": "Xã Thượng Giáp, Huyện Nà Hang, Tỉnh Tuyên Quang",
+        "code": "02230",
+        "parent_code": "072"
+    },
+    "02239": {
+        "name": "Thượng Nông",
+        "type": "xa",
+        "slug": "thuong-nong",
+        "name_with_type": "Xã Thượng Nông",
+        "path": "Thượng Nông, Nà Hang, Tuyên Quang",
+        "path_with_type": "Xã Thượng Nông, Huyện Nà Hang, Tỉnh Tuyên Quang",
+        "code": "02239",
+        "parent_code": "072"
+    },
+    "02245": {
+        "name": "Côn Lôn",
+        "type": "xa",
+        "slug": "con-lon",
+        "name_with_type": "Xã Côn Lôn",
+        "path": "Côn Lôn, Nà Hang, Tuyên Quang",
+        "path_with_type": "Xã Côn Lôn, Huyện Nà Hang, Tỉnh Tuyên Quang",
+        "code": "02245",
+        "parent_code": "072"
+    },
+    "02248": {
+        "name": "Yên Hoa",
+        "type": "xa",
+        "slug": "yen-hoa",
+        "name_with_type": "Xã Yên Hoa",
+        "path": "Yên Hoa, Nà Hang, Tuyên Quang",
+        "path_with_type": "Xã Yên Hoa, Huyện Nà Hang, Tỉnh Tuyên Quang",
+        "code": "02248",
+        "parent_code": "072"
+    },
+    "02254": {
+        "name": "Hồng Thái",
+        "type": "xa",
+        "slug": "hong-thai",
+        "name_with_type": "Xã Hồng Thái",
+        "path": "Hồng Thái, Nà Hang, Tuyên Quang",
+        "path_with_type": "Xã Hồng Thái, Huyện Nà Hang, Tỉnh Tuyên Quang",
+        "code": "02254",
+        "parent_code": "072"
+    },
+    "02260": {
+        "name": "Đà Vị",
+        "type": "xa",
+        "slug": "da-vi",
+        "name_with_type": "Xã Đà Vị",
+        "path": "Đà Vị, Nà Hang, Tuyên Quang",
+        "path_with_type": "Xã Đà Vị, Huyện Nà Hang, Tỉnh Tuyên Quang",
+        "code": "02260",
+        "parent_code": "072"
+    },
+    "02263": {
+        "name": "Khau Tinh",
+        "type": "xa",
+        "slug": "khau-tinh",
+        "name_with_type": "Xã Khau Tinh",
+        "path": "Khau Tinh, Nà Hang, Tuyên Quang",
+        "path_with_type": "Xã Khau Tinh, Huyện Nà Hang, Tỉnh Tuyên Quang",
+        "code": "02263",
+        "parent_code": "072"
+    },
+    "02275": {
+        "name": "Sơn Phú",
+        "type": "xa",
+        "slug": "son-phu",
+        "name_with_type": "Xã Sơn Phú",
+        "path": "Sơn Phú, Nà Hang, Tuyên Quang",
+        "path_with_type": "Xã Sơn Phú, Huyện Nà Hang, Tỉnh Tuyên Quang",
+        "code": "02275",
+        "parent_code": "072"
+    },
+    "02281": {
+        "name": "Năng Khả",
+        "type": "xa",
+        "slug": "nang-kha",
+        "name_with_type": "Xã Năng Khả",
+        "path": "Năng Khả, Nà Hang, Tuyên Quang",
+        "path_with_type": "Xã Năng Khả, Huyện Nà Hang, Tỉnh Tuyên Quang",
+        "code": "02281",
+        "parent_code": "072"
+    },
+    "02284": {
+        "name": "Thanh Tương",
+        "type": "xa",
+        "slug": "thanh-tuong",
+        "name_with_type": "Xã Thanh Tương",
+        "path": "Thanh Tương, Nà Hang, Tuyên Quang",
+        "path_with_type": "Xã Thanh Tương, Huyện Nà Hang, Tỉnh Tuyên Quang",
+        "code": "02284",
+        "parent_code": "072"
+    }
+}

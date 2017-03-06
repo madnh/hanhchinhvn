@@ -1,0 +1,272 @@
+{
+    "05431": {
+        "name": "Quán Triều",
+        "type": "phuong",
+        "slug": "quan-trieu",
+        "name_with_type": "Phường Quán Triều",
+        "path": "Quán Triều, Thái Nguyên, Thái Nguyên",
+        "path_with_type": "Phường Quán Triều, Thành phố Thái Nguyên, Tỉnh Thái Nguyên",
+        "code": "05431",
+        "parent_code": "164"
+    },
+    "05434": {
+        "name": "Quang Vinh",
+        "type": "phuong",
+        "slug": "quang-vinh",
+        "name_with_type": "Phường Quang Vinh",
+        "path": "Quang Vinh, Thái Nguyên, Thái Nguyên",
+        "path_with_type": "Phường Quang Vinh, Thành phố Thái Nguyên, Tỉnh Thái Nguyên",
+        "code": "05434",
+        "parent_code": "164"
+    },
+    "05437": {
+        "name": "Túc Duyên",
+        "type": "phuong",
+        "slug": "tuc-duyen",
+        "name_with_type": "Phường Túc Duyên",
+        "path": "Túc Duyên, Thái Nguyên, Thái Nguyên",
+        "path_with_type": "Phường Túc Duyên, Thành phố Thái Nguyên, Tỉnh Thái Nguyên",
+        "code": "05437",
+        "parent_code": "164"
+    },
+    "05440": {
+        "name": "Hoàng Văn Thụ",
+        "type": "phuong",
+        "slug": "hoang-van-thu",
+        "name_with_type": "Phường Hoàng Văn Thụ",
+        "path": "Hoàng Văn Thụ, Thái Nguyên, Thái Nguyên",
+        "path_with_type": "Phường Hoàng Văn Thụ, Thành phố Thái Nguyên, Tỉnh Thái Nguyên",
+        "code": "05440",
+        "parent_code": "164"
+    },
+    "05443": {
+        "name": "Trưng Vương",
+        "type": "phuong",
+        "slug": "trung-vuong",
+        "name_with_type": "Phường Trưng Vương",
+        "path": "Trưng Vương, Thái Nguyên, Thái Nguyên",
+        "path_with_type": "Phường Trưng Vương, Thành phố Thái Nguyên, Tỉnh Thái Nguyên",
+        "code": "05443",
+        "parent_code": "164"
+    },
+    "05446": {
+        "name": "Quang Trung",
+        "type": "phuong",
+        "slug": "quang-trung",
+        "name_with_type": "Phường Quang Trung",
+        "path": "Quang Trung, Thái Nguyên, Thái Nguyên",
+        "path_with_type": "Phường Quang Trung, Thành phố Thái Nguyên, Tỉnh Thái Nguyên",
+        "code": "05446",
+        "parent_code": "164"
+    },
+    "05449": {
+        "name": "Phan Đình Phùng",
+        "type": "phuong",
+        "slug": "phan-dinh-phung",
+        "name_with_type": "Phường Phan Đình Phùng",
+        "path": "Phan Đình Phùng, Thái Nguyên, Thái Nguyên",
+        "path_with_type": "Phường Phan Đình Phùng, Thành phố Thái Nguyên, Tỉnh Thái Nguyên",
+        "code": "05449",
+        "parent_code": "164"
+    },
+    "05452": {
+        "name": "Tân Thịnh",
+        "type": "phuong",
+        "slug": "tan-thinh",
+        "name_with_type": "Phường Tân Thịnh",
+        "path": "Tân Thịnh, Thái Nguyên, Thái Nguyên",
+        "path_with_type": "Phường Tân Thịnh, Thành phố Thái Nguyên, Tỉnh Thái Nguyên",
+        "code": "05452",
+        "parent_code": "164"
+    },
+    "05455": {
+        "name": "Thịnh Đán",
+        "type": "phuong",
+        "slug": "thinh-dan",
+        "name_with_type": "Phường Thịnh Đán",
+        "path": "Thịnh Đán, Thái Nguyên, Thái Nguyên",
+        "path_with_type": "Phường Thịnh Đán, Thành phố Thái Nguyên, Tỉnh Thái Nguyên",
+        "code": "05455",
+        "parent_code": "164"
+    },
+    "05458": {
+        "name": "Đồng Quang",
+        "type": "phuong",
+        "slug": "dong-quang",
+        "name_with_type": "Phường Đồng Quang",
+        "path": "Đồng Quang, Thái Nguyên, Thái Nguyên",
+        "path_with_type": "Phường Đồng Quang, Thành phố Thái Nguyên, Tỉnh Thái Nguyên",
+        "code": "05458",
+        "parent_code": "164"
+    },
+    "05461": {
+        "name": "Gia Sàng",
+        "type": "phuong",
+        "slug": "gia-sang",
+        "name_with_type": "Phường Gia Sàng",
+        "path": "Gia Sàng, Thái Nguyên, Thái Nguyên",
+        "path_with_type": "Phường Gia Sàng, Thành phố Thái Nguyên, Tỉnh Thái Nguyên",
+        "code": "05461",
+        "parent_code": "164"
+    },
+    "05464": {
+        "name": "Tân Lập",
+        "type": "phuong",
+        "slug": "tan-lap",
+        "name_with_type": "Phường Tân Lập",
+        "path": "Tân Lập, Thái Nguyên, Thái Nguyên",
+        "path_with_type": "Phường Tân Lập, Thành phố Thái Nguyên, Tỉnh Thái Nguyên",
+        "code": "05464",
+        "parent_code": "164"
+    },
+    "05467": {
+        "name": "Cam Giá",
+        "type": "phuong",
+        "slug": "cam-gia",
+        "name_with_type": "Phường Cam Giá",
+        "path": "Cam Giá, Thái Nguyên, Thái Nguyên",
+        "path_with_type": "Phường Cam Giá, Thành phố Thái Nguyên, Tỉnh Thái Nguyên",
+        "code": "05467",
+        "parent_code": "164"
+    },
+    "05470": {
+        "name": "Phú Xá",
+        "type": "phuong",
+        "slug": "phu-xa",
+        "name_with_type": "Phường Phú Xá",
+        "path": "Phú Xá, Thái Nguyên, Thái Nguyên",
+        "path_with_type": "Phường Phú Xá, Thành phố Thái Nguyên, Tỉnh Thái Nguyên",
+        "code": "05470",
+        "parent_code": "164"
+    },
+    "05473": {
+        "name": "Hương Sơn",
+        "type": "phuong",
+        "slug": "huong-son",
+        "name_with_type": "Phường Hương Sơn",
+        "path": "Hương Sơn, Thái Nguyên, Thái Nguyên",
+        "path_with_type": "Phường Hương Sơn, Thành phố Thái Nguyên, Tỉnh Thái Nguyên",
+        "code": "05473",
+        "parent_code": "164"
+    },
+    "05476": {
+        "name": "Trung Thành",
+        "type": "phuong",
+        "slug": "trung-thanh",
+        "name_with_type": "Phường Trung Thành",
+        "path": "Trung Thành, Thái Nguyên, Thái Nguyên",
+        "path_with_type": "Phường Trung Thành, Thành phố Thái Nguyên, Tỉnh Thái Nguyên",
+        "code": "05476",
+        "parent_code": "164"
+    },
+    "05479": {
+        "name": "Tân Thành",
+        "type": "phuong",
+        "slug": "tan-thanh",
+        "name_with_type": "Phường Tân Thành",
+        "path": "Tân Thành, Thái Nguyên, Thái Nguyên",
+        "path_with_type": "Phường Tân Thành, Thành phố Thái Nguyên, Tỉnh Thái Nguyên",
+        "code": "05479",
+        "parent_code": "164"
+    },
+    "05482": {
+        "name": "Tân Long",
+        "type": "phuong",
+        "slug": "tan-long",
+        "name_with_type": "Phường Tân Long",
+        "path": "Tân Long, Thái Nguyên, Thái Nguyên",
+        "path_with_type": "Phường Tân Long, Thành phố Thái Nguyên, Tỉnh Thái Nguyên",
+        "code": "05482",
+        "parent_code": "164"
+    },
+    "05485": {
+        "name": "Phúc Hà",
+        "type": "xa",
+        "slug": "phuc-ha",
+        "name_with_type": "Xã Phúc Hà",
+        "path": "Phúc Hà, Thái Nguyên, Thái Nguyên",
+        "path_with_type": "Xã Phúc Hà, Thành phố Thái Nguyên, Tỉnh Thái Nguyên",
+        "code": "05485",
+        "parent_code": "164"
+    },
+    "05488": {
+        "name": "Phúc Xuân",
+        "type": "xa",
+        "slug": "phuc-xuan",
+        "name_with_type": "Xã Phúc Xuân",
+        "path": "Phúc Xuân, Thái Nguyên, Thái Nguyên",
+        "path_with_type": "Xã Phúc Xuân, Thành phố Thái Nguyên, Tỉnh Thái Nguyên",
+        "code": "05488",
+        "parent_code": "164"
+    },
+    "05491": {
+        "name": "Quyết Thắng",
+        "type": "xa",
+        "slug": "quyet-thang",
+        "name_with_type": "Xã Quyết Thắng",
+        "path": "Quyết Thắng, Thái Nguyên, Thái Nguyên",
+        "path_with_type": "Xã Quyết Thắng, Thành phố Thái Nguyên, Tỉnh Thái Nguyên",
+        "code": "05491",
+        "parent_code": "164"
+    },
+    "05494": {
+        "name": "Phúc Trìu",
+        "type": "xa",
+        "slug": "phuc-triu",
+        "name_with_type": "Xã Phúc Trìu",
+        "path": "Phúc Trìu, Thái Nguyên, Thái Nguyên",
+        "path_with_type": "Xã Phúc Trìu, Thành phố Thái Nguyên, Tỉnh Thái Nguyên",
+        "code": "05494",
+        "parent_code": "164"
+    },
+    "05497": {
+        "name": "Thịnh Đức",
+        "type": "xa",
+        "slug": "thinh-duc",
+        "name_with_type": "Xã Thịnh Đức",
+        "path": "Thịnh Đức, Thái Nguyên, Thái Nguyên",
+        "path_with_type": "Xã Thịnh Đức, Thành phố Thái Nguyên, Tỉnh Thái Nguyên",
+        "code": "05497",
+        "parent_code": "164"
+    },
+    "05500": {
+        "name": "Tích Lương",
+        "type": "phuong",
+        "slug": "tich-luong",
+        "name_with_type": "Phường Tích Lương",
+        "path": "Tích Lương, Thái Nguyên, Thái Nguyên",
+        "path_with_type": "Phường Tích Lương, Thành phố Thái Nguyên, Tỉnh Thái Nguyên",
+        "code": "05500",
+        "parent_code": "164"
+    },
+    "05503": {
+        "name": "Tân Cương",
+        "type": "xa",
+        "slug": "tan-cuong",
+        "name_with_type": "Xã Tân Cương",
+        "path": "Tân Cương, Thái Nguyên, Thái Nguyên",
+        "path_with_type": "Xã Tân Cương, Thành phố Thái Nguyên, Tỉnh Thái Nguyên",
+        "code": "05503",
+        "parent_code": "164"
+    },
+    "05695": {
+        "name": "Cao Ngạn",
+        "type": "xa",
+        "slug": "cao-ngan",
+        "name_with_type": "Xã Cao Ngạn",
+        "path": "Cao Ngạn, Thái Nguyên, Thái Nguyên",
+        "path_with_type": "Xã Cao Ngạn, Thành phố Thái Nguyên, Tỉnh Thái Nguyên",
+        "code": "05695",
+        "parent_code": "164"
+    },
+    "05710": {
+        "name": "Đồng Bẩm",
+        "type": "xa",
+        "slug": "dong-bam",
+        "name_with_type": "Xã Đồng Bẩm",
+        "path": "Đồng Bẩm, Thái Nguyên, Thái Nguyên",
+        "path_with_type": "Xã Đồng Bẩm, Thành phố Thái Nguyên, Tỉnh Thái Nguyên",
+        "code": "05710",
+        "parent_code": "164"
+    }
+}

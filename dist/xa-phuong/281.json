@@ -1,0 +1,292 @@
+{
+    "10354": {
+        "name": "Vân Đình",
+        "type": "thi-tran",
+        "slug": "van-dinh",
+        "name_with_type": "Thị trấn Vân Đình",
+        "path": "Vân Đình, Ứng Hòa, Hà Nội",
+        "path_with_type": "Thị trấn Vân Đình, Huyện Ứng Hòa, Thành phố Hà Nội",
+        "code": "10354",
+        "parent_code": "281"
+    },
+    "10357": {
+        "name": "Viên An",
+        "type": "xa",
+        "slug": "vien-an",
+        "name_with_type": "Xã Viên An",
+        "path": "Viên An, Ứng Hòa, Hà Nội",
+        "path_with_type": "Xã Viên An, Huyện Ứng Hòa, Thành phố Hà Nội",
+        "code": "10357",
+        "parent_code": "281"
+    },
+    "10360": {
+        "name": "Viên Nội",
+        "type": "xa",
+        "slug": "vien-noi",
+        "name_with_type": "Xã Viên Nội",
+        "path": "Viên Nội, Ứng Hòa, Hà Nội",
+        "path_with_type": "Xã Viên Nội, Huyện Ứng Hòa, Thành phố Hà Nội",
+        "code": "10360",
+        "parent_code": "281"
+    },
+    "10363": {
+        "name": "Hoa Sơn",
+        "type": "xa",
+        "slug": "hoa-son",
+        "name_with_type": "Xã Hoa Sơn",
+        "path": "Hoa Sơn, Ứng Hòa, Hà Nội",
+        "path_with_type": "Xã Hoa Sơn, Huyện Ứng Hòa, Thành phố Hà Nội",
+        "code": "10363",
+        "parent_code": "281"
+    },
+    "10366": {
+        "name": "Quảng Phú Cầu",
+        "type": "xa",
+        "slug": "quang-phu-cau",
+        "name_with_type": "Xã Quảng Phú Cầu",
+        "path": "Quảng Phú Cầu, Ứng Hòa, Hà Nội",
+        "path_with_type": "Xã Quảng Phú Cầu, Huyện Ứng Hòa, Thành phố Hà Nội",
+        "code": "10366",
+        "parent_code": "281"
+    },
+    "10369": {
+        "name": "Trường Thịnh",
+        "type": "xa",
+        "slug": "truong-thinh",
+        "name_with_type": "Xã Trường Thịnh",
+        "path": "Trường Thịnh, Ứng Hòa, Hà Nội",
+        "path_with_type": "Xã Trường Thịnh, Huyện Ứng Hòa, Thành phố Hà Nội",
+        "code": "10369",
+        "parent_code": "281"
+    },
+    "10372": {
+        "name": "Cao Thành",
+        "type": "xa",
+        "slug": "cao-thanh",
+        "name_with_type": "Xã Cao Thành",
+        "path": "Cao Thành, Ứng Hòa, Hà Nội",
+        "path_with_type": "Xã Cao Thành, Huyện Ứng Hòa, Thành phố Hà Nội",
+        "code": "10372",
+        "parent_code": "281"
+    },
+    "10375": {
+        "name": "Liên Bạt",
+        "type": "xa",
+        "slug": "lien-bat",
+        "name_with_type": "Xã Liên Bạt",
+        "path": "Liên Bạt, Ứng Hòa, Hà Nội",
+        "path_with_type": "Xã Liên Bạt, Huyện Ứng Hòa, Thành phố Hà Nội",
+        "code": "10375",
+        "parent_code": "281"
+    },
+    "10378": {
+        "name": "Sơn Công",
+        "type": "xa",
+        "slug": "son-cong",
+        "name_with_type": "Xã Sơn Công",
+        "path": "Sơn Công, Ứng Hòa, Hà Nội",
+        "path_with_type": "Xã Sơn Công, Huyện Ứng Hòa, Thành phố Hà Nội",
+        "code": "10378",
+        "parent_code": "281"
+    },
+    "10381": {
+        "name": "Đồng Tiến",
+        "type": "xa",
+        "slug": "dong-tien",
+        "name_with_type": "Xã Đồng Tiến",
+        "path": "Đồng Tiến, Ứng Hòa, Hà Nội",
+        "path_with_type": "Xã Đồng Tiến, Huyện Ứng Hòa, Thành phố Hà Nội",
+        "code": "10381",
+        "parent_code": "281"
+    },
+    "10384": {
+        "name": "Phương Tú",
+        "type": "xa",
+        "slug": "phuong-tu",
+        "name_with_type": "Xã Phương Tú",
+        "path": "Phương Tú, Ứng Hòa, Hà Nội",
+        "path_with_type": "Xã Phương Tú, Huyện Ứng Hòa, Thành phố Hà Nội",
+        "code": "10384",
+        "parent_code": "281"
+    },
+    "10387": {
+        "name": "Trung Tú",
+        "type": "xa",
+        "slug": "trung-tu",
+        "name_with_type": "Xã Trung Tú",
+        "path": "Trung Tú, Ứng Hòa, Hà Nội",
+        "path_with_type": "Xã Trung Tú, Huyện Ứng Hòa, Thành phố Hà Nội",
+        "code": "10387",
+        "parent_code": "281"
+    },
+    "10390": {
+        "name": "Đồng Tân",
+        "type": "xa",
+        "slug": "dong-tan",
+        "name_with_type": "Xã Đồng Tân",
+        "path": "Đồng Tân, Ứng Hòa, Hà Nội",
+        "path_with_type": "Xã Đồng Tân, Huyện Ứng Hòa, Thành phố Hà Nội",
+        "code": "10390",
+        "parent_code": "281"
+    },
+    "10393": {
+        "name": "Tảo Dương Văn",
+        "type": "xa",
+        "slug": "tao-duong-van",
+        "name_with_type": "Xã Tảo Dương Văn",
+        "path": "Tảo Dương Văn, Ứng Hòa, Hà Nội",
+        "path_with_type": "Xã Tảo Dương Văn, Huyện Ứng Hòa, Thành phố Hà Nội",
+        "code": "10393",
+        "parent_code": "281"
+    },
+    "10396": {
+        "name": "Vạn Thái",
+        "type": "xa",
+        "slug": "van-thai",
+        "name_with_type": "Xã Vạn Thái",
+        "path": "Vạn Thái, Ứng Hòa, Hà Nội",
+        "path_with_type": "Xã Vạn Thái, Huyện Ứng Hòa, Thành phố Hà Nội",
+        "code": "10396",
+        "parent_code": "281"
+    },
+    "10399": {
+        "name": "Minh Đức",
+        "type": "xa",
+        "slug": "minh-duc",
+        "name_with_type": "Xã Minh Đức",
+        "path": "Minh Đức, Ứng Hòa, Hà Nội",
+        "path_with_type": "Xã Minh Đức, Huyện Ứng Hòa, Thành phố Hà Nội",
+        "code": "10399",
+        "parent_code": "281"
+    },
+    "10402": {
+        "name": "Hòa Lâm",
+        "type": "xa",
+        "slug": "hoa-lam",
+        "name_with_type": "Xã Hòa Lâm",
+        "path": "Hòa Lâm, Ứng Hòa, Hà Nội",
+        "path_with_type": "Xã Hòa Lâm, Huyện Ứng Hòa, Thành phố Hà Nội",
+        "code": "10402",
+        "parent_code": "281"
+    },
+    "10405": {
+        "name": "Hòa Xá",
+        "type": "xa",
+        "slug": "hoa-xa",
+        "name_with_type": "Xã Hòa Xá",
+        "path": "Hòa Xá, Ứng Hòa, Hà Nội",
+        "path_with_type": "Xã Hòa Xá, Huyện Ứng Hòa, Thành phố Hà Nội",
+        "code": "10405",
+        "parent_code": "281"
+    },
+    "10408": {
+        "name": "Trầm Lộng",
+        "type": "xa",
+        "slug": "tram-long",
+        "name_with_type": "Xã Trầm Lộng",
+        "path": "Trầm Lộng, Ứng Hòa, Hà Nội",
+        "path_with_type": "Xã Trầm Lộng, Huyện Ứng Hòa, Thành phố Hà Nội",
+        "code": "10408",
+        "parent_code": "281"
+    },
+    "10411": {
+        "name": "Kim Đường",
+        "type": "xa",
+        "slug": "kim-duong",
+        "name_with_type": "Xã Kim Đường",
+        "path": "Kim Đường, Ứng Hòa, Hà Nội",
+        "path_with_type": "Xã Kim Đường, Huyện Ứng Hòa, Thành phố Hà Nội",
+        "code": "10411",
+        "parent_code": "281"
+    },
+    "10414": {
+        "name": "Hòa Nam",
+        "type": "xa",
+        "slug": "hoa-nam",
+        "name_with_type": "Xã Hòa Nam",
+        "path": "Hòa Nam, Ứng Hòa, Hà Nội",
+        "path_with_type": "Xã Hòa Nam, Huyện Ứng Hòa, Thành phố Hà Nội",
+        "code": "10414",
+        "parent_code": "281"
+    },
+    "10417": {
+        "name": "Hòa Phú",
+        "type": "xa",
+        "slug": "hoa-phu",
+        "name_with_type": "Xã Hòa Phú",
+        "path": "Hòa Phú, Ứng Hòa, Hà Nội",
+        "path_with_type": "Xã Hòa Phú, Huyện Ứng Hòa, Thành phố Hà Nội",
+        "code": "10417",
+        "parent_code": "281"
+    },
+    "10420": {
+        "name": "Đội Bình",
+        "type": "xa",
+        "slug": "doi-binh",
+        "name_with_type": "Xã Đội Bình",
+        "path": "Đội Bình, Ứng Hòa, Hà Nội",
+        "path_with_type": "Xã Đội Bình, Huyện Ứng Hòa, Thành phố Hà Nội",
+        "code": "10420",
+        "parent_code": "281"
+    },
+    "10423": {
+        "name": "Đại Hùng",
+        "type": "xa",
+        "slug": "dai-hung",
+        "name_with_type": "Xã Đại Hùng",
+        "path": "Đại Hùng, Ứng Hòa, Hà Nội",
+        "path_with_type": "Xã Đại Hùng, Huyện Ứng Hòa, Thành phố Hà Nội",
+        "code": "10423",
+        "parent_code": "281"
+    },
+    "10426": {
+        "name": "Đông Lỗ",
+        "type": "xa",
+        "slug": "dong-lo",
+        "name_with_type": "Xã Đông Lỗ",
+        "path": "Đông Lỗ, Ứng Hòa, Hà Nội",
+        "path_with_type": "Xã Đông Lỗ, Huyện Ứng Hòa, Thành phố Hà Nội",
+        "code": "10426",
+        "parent_code": "281"
+    },
+    "10429": {
+        "name": "Phù Lưu",
+        "type": "xa",
+        "slug": "phu-luu",
+        "name_with_type": "Xã Phù Lưu",
+        "path": "Phù Lưu, Ứng Hòa, Hà Nội",
+        "path_with_type": "Xã Phù Lưu, Huyện Ứng Hòa, Thành phố Hà Nội",
+        "code": "10429",
+        "parent_code": "281"
+    },
+    "10432": {
+        "name": "Đại Cường",
+        "type": "xa",
+        "slug": "dai-cuong",
+        "name_with_type": "Xã Đại Cường",
+        "path": "Đại Cường, Ứng Hòa, Hà Nội",
+        "path_with_type": "Xã Đại Cường, Huyện Ứng Hòa, Thành phố Hà Nội",
+        "code": "10432",
+        "parent_code": "281"
+    },
+    "10435": {
+        "name": "Lưu Hoàng",
+        "type": "xa",
+        "slug": "luu-hoang",
+        "name_with_type": "Xã Lưu Hoàng",
+        "path": "Lưu Hoàng, Ứng Hòa, Hà Nội",
+        "path_with_type": "Xã Lưu Hoàng, Huyện Ứng Hòa, Thành phố Hà Nội",
+        "code": "10435",
+        "parent_code": "281"
+    },
+    "10438": {
+        "name": "Hồng Quang",
+        "type": "xa",
+        "slug": "hong-quang",
+        "name_with_type": "Xã Hồng Quang",
+        "path": "Hồng Quang, Ứng Hòa, Hà Nội",
+        "path_with_type": "Xã Hồng Quang, Huyện Ứng Hòa, Thành phố Hà Nội",
+        "code": "10438",
+        "parent_code": "281"
+    }
+}

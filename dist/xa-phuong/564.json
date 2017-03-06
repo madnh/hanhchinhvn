@@ -1,0 +1,102 @@
+{
+    "22243": {
+        "name": "Hòa Thành",
+        "type": "xa",
+        "slug": "hoa-thanh",
+        "name_with_type": "Xã Hòa Thành",
+        "path": "Hòa Thành, Đông Hòa, Phú Yên",
+        "path_with_type": "Xã Hòa Thành, Huyện Đông Hòa, Tỉnh Phú Yên",
+        "code": "22243",
+        "parent_code": "564"
+    },
+    "22246": {
+        "name": "Hòa Hiệp Bắc",
+        "type": "xa",
+        "slug": "hoa-hiep-bac",
+        "name_with_type": "Xã Hòa Hiệp Bắc",
+        "path": "Hòa Hiệp Bắc, Đông Hòa, Phú Yên",
+        "path_with_type": "Xã Hòa Hiệp Bắc, Huyện Đông Hòa, Tỉnh Phú Yên",
+        "code": "22246",
+        "parent_code": "564"
+    },
+    "22258": {
+        "name": "Hoà Vinh",
+        "type": "thi-tran",
+        "slug": "hoa-vinh",
+        "name_with_type": "Thị trấn Hoà Vinh",
+        "path": "Hoà Vinh, Đông Hòa, Phú Yên",
+        "path_with_type": "Thị trấn Hoà Vinh, Huyện Đông Hòa, Tỉnh Phú Yên",
+        "code": "22258",
+        "parent_code": "564"
+    },
+    "22261": {
+        "name": "Hoà Hiệp Trung",
+        "type": "thi-tran",
+        "slug": "hoa-hiep-trung",
+        "name_with_type": "Thị trấn Hoà Hiệp Trung",
+        "path": "Hoà Hiệp Trung, Đông Hòa, Phú Yên",
+        "path_with_type": "Thị trấn Hoà Hiệp Trung, Huyện Đông Hòa, Tỉnh Phú Yên",
+        "code": "22261",
+        "parent_code": "564"
+    },
+    "22267": {
+        "name": "Hòa Tân Đông",
+        "type": "xa",
+        "slug": "hoa-tan-dong",
+        "name_with_type": "Xã Hòa Tân Đông",
+        "path": "Hòa Tân Đông, Đông Hòa, Phú Yên",
+        "path_with_type": "Xã Hòa Tân Đông, Huyện Đông Hòa, Tỉnh Phú Yên",
+        "code": "22267",
+        "parent_code": "564"
+    },
+    "22279": {
+        "name": "Hòa Xuân Tây",
+        "type": "xa",
+        "slug": "hoa-xuan-tay",
+        "name_with_type": "Xã Hòa Xuân Tây",
+        "path": "Hòa Xuân Tây, Đông Hòa, Phú Yên",
+        "path_with_type": "Xã Hòa Xuân Tây, Huyện Đông Hòa, Tỉnh Phú Yên",
+        "code": "22279",
+        "parent_code": "564"
+    },
+    "22282": {
+        "name": "Hòa Hiệp Nam",
+        "type": "xa",
+        "slug": "hoa-hiep-nam",
+        "name_with_type": "Xã Hòa Hiệp Nam",
+        "path": "Hòa Hiệp Nam, Đông Hòa, Phú Yên",
+        "path_with_type": "Xã Hòa Hiệp Nam, Huyện Đông Hòa, Tỉnh Phú Yên",
+        "code": "22282",
+        "parent_code": "564"
+    },
+    "22291": {
+        "name": "Hòa Xuân Đông",
+        "type": "xa",
+        "slug": "hoa-xuan-dong",
+        "name_with_type": "Xã Hòa Xuân Đông",
+        "path": "Hòa Xuân Đông, Đông Hòa, Phú Yên",
+        "path_with_type": "Xã Hòa Xuân Đông, Huyện Đông Hòa, Tỉnh Phú Yên",
+        "code": "22291",
+        "parent_code": "564"
+    },
+    "22297": {
+        "name": "Hòa Tâm",
+        "type": "xa",
+        "slug": "hoa-tam",
+        "name_with_type": "Xã Hòa Tâm",
+        "path": "Hòa Tâm, Đông Hòa, Phú Yên",
+        "path_with_type": "Xã Hòa Tâm, Huyện Đông Hòa, Tỉnh Phú Yên",
+        "code": "22297",
+        "parent_code": "564"
+    },
+    "22300": {
+        "name": "Hòa Xuân Nam",
+        "type": "xa",
+        "slug": "hoa-xuan-nam",
+        "name_with_type": "Xã Hòa Xuân Nam",
+        "path": "Hòa Xuân Nam, Đông Hòa, Phú Yên",
+        "path_with_type": "Xã Hòa Xuân Nam, Huyện Đông Hòa, Tỉnh Phú Yên",
+        "code": "22300",
+        "parent_code": "564"
+    }
+}

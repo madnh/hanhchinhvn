@@ -1,0 +1,282 @@
+{
+    "11155": {
+        "name": "Ninh Giang",
+        "type": "thi-tran",
+        "slug": "ninh-giang",
+        "name_with_type": "Thị trấn Ninh Giang",
+        "path": "Ninh Giang, Ninh Giang, Hải Dương",
+        "path_with_type": "Thị trấn Ninh Giang, Huyện Ninh Giang, Tỉnh Hải Dương",
+        "code": "11155",
+        "parent_code": "299"
+    },
+    "11158": {
+        "name": "Quyết Thắng",
+        "type": "xa",
+        "slug": "quyet-thang",
+        "name_with_type": "Xã Quyết Thắng",
+        "path": "Quyết Thắng, Ninh Giang, Hải Dương",
+        "path_with_type": "Xã Quyết Thắng, Huyện Ninh Giang, Tỉnh Hải Dương",
+        "code": "11158",
+        "parent_code": "299"
+    },
+    "11161": {
+        "name": "Ứng Hoè",
+        "type": "xa",
+        "slug": "ung-hoe",
+        "name_with_type": "Xã Ứng Hoè",
+        "path": "Ứng Hoè, Ninh Giang, Hải Dương",
+        "path_with_type": "Xã Ứng Hoè, Huyện Ninh Giang, Tỉnh Hải Dương",
+        "code": "11161",
+        "parent_code": "299"
+    },
+    "11164": {
+        "name": "Nghĩa An",
+        "type": "xa",
+        "slug": "nghia-an",
+        "name_with_type": "Xã Nghĩa An",
+        "path": "Nghĩa An, Ninh Giang, Hải Dương",
+        "path_with_type": "Xã Nghĩa An, Huyện Ninh Giang, Tỉnh Hải Dương",
+        "code": "11164",
+        "parent_code": "299"
+    },
+    "11167": {
+        "name": "Hồng Đức",
+        "type": "xa",
+        "slug": "hong-duc",
+        "name_with_type": "Xã Hồng Đức",
+        "path": "Hồng Đức, Ninh Giang, Hải Dương",
+        "path_with_type": "Xã Hồng Đức, Huyện Ninh Giang, Tỉnh Hải Dương",
+        "code": "11167",
+        "parent_code": "299"
+    },
+    "11170": {
+        "name": "Ninh Hòa",
+        "type": "xa",
+        "slug": "ninh-hoa",
+        "name_with_type": "Xã Ninh Hòa",
+        "path": "Ninh Hòa, Ninh Giang, Hải Dương",
+        "path_with_type": "Xã Ninh Hòa, Huyện Ninh Giang, Tỉnh Hải Dương",
+        "code": "11170",
+        "parent_code": "299"
+    },
+    "11173": {
+        "name": "An Đức",
+        "type": "xa",
+        "slug": "an-duc",
+        "name_with_type": "Xã An Đức",
+        "path": "An Đức, Ninh Giang, Hải Dương",
+        "path_with_type": "Xã An Đức, Huyện Ninh Giang, Tỉnh Hải Dương",
+        "code": "11173",
+        "parent_code": "299"
+    },
+    "11176": {
+        "name": "Vạn Phúc",
+        "type": "xa",
+        "slug": "van-phuc",
+        "name_with_type": "Xã Vạn Phúc",
+        "path": "Vạn Phúc, Ninh Giang, Hải Dương",
+        "path_with_type": "Xã Vạn Phúc, Huyện Ninh Giang, Tỉnh Hải Dương",
+        "code": "11176",
+        "parent_code": "299"
+    },
+    "11179": {
+        "name": "Tân Hương",
+        "type": "xa",
+        "slug": "tan-huong",
+        "name_with_type": "Xã Tân Hương",
+        "path": "Tân Hương, Ninh Giang, Hải Dương",
+        "path_with_type": "Xã Tân Hương, Huyện Ninh Giang, Tỉnh Hải Dương",
+        "code": "11179",
+        "parent_code": "299"
+    },
+    "11182": {
+        "name": "Ninh Thành",
+        "type": "xa",
+        "slug": "ninh-thanh",
+        "name_with_type": "Xã Ninh Thành",
+        "path": "Ninh Thành, Ninh Giang, Hải Dương",
+        "path_with_type": "Xã Ninh Thành, Huyện Ninh Giang, Tỉnh Hải Dương",
+        "code": "11182",
+        "parent_code": "299"
+    },
+    "11185": {
+        "name": "Vĩnh Hòa",
+        "type": "xa",
+        "slug": "vinh-hoa",
+        "name_with_type": "Xã Vĩnh Hòa",
+        "path": "Vĩnh Hòa, Ninh Giang, Hải Dương",
+        "path_with_type": "Xã Vĩnh Hòa, Huyện Ninh Giang, Tỉnh Hải Dương",
+        "code": "11185",
+        "parent_code": "299"
+    },
+    "11188": {
+        "name": "Đông Xuyên",
+        "type": "xa",
+        "slug": "dong-xuyen",
+        "name_with_type": "Xã Đông Xuyên",
+        "path": "Đông Xuyên, Ninh Giang, Hải Dương",
+        "path_with_type": "Xã Đông Xuyên, Huyện Ninh Giang, Tỉnh Hải Dương",
+        "code": "11188",
+        "parent_code": "299"
+    },
+    "11191": {
+        "name": "Hoàng Hanh",
+        "type": "xa",
+        "slug": "hoang-hanh",
+        "name_with_type": "Xã Hoàng Hanh",
+        "path": "Hoàng Hanh, Ninh Giang, Hải Dương",
+        "path_with_type": "Xã Hoàng Hanh, Huyện Ninh Giang, Tỉnh Hải Dương",
+        "code": "11191",
+        "parent_code": "299"
+    },
+    "11194": {
+        "name": "Quang Hưng",
+        "type": "xa",
+        "slug": "quang-hung",
+        "name_with_type": "Xã Quang Hưng",
+        "path": "Quang Hưng, Ninh Giang, Hải Dương",
+        "path_with_type": "Xã Quang Hưng, Huyện Ninh Giang, Tỉnh Hải Dương",
+        "code": "11194",
+        "parent_code": "299"
+    },
+    "11197": {
+        "name": "Tân Phong",
+        "type": "xa",
+        "slug": "tan-phong",
+        "name_with_type": "Xã Tân Phong",
+        "path": "Tân Phong, Ninh Giang, Hải Dương",
+        "path_with_type": "Xã Tân Phong, Huyện Ninh Giang, Tỉnh Hải Dương",
+        "code": "11197",
+        "parent_code": "299"
+    },
+    "11200": {
+        "name": "Ninh Hải",
+        "type": "xa",
+        "slug": "ninh-hai",
+        "name_with_type": "Xã Ninh Hải",
+        "path": "Ninh Hải, Ninh Giang, Hải Dương",
+        "path_with_type": "Xã Ninh Hải, Huyện Ninh Giang, Tỉnh Hải Dương",
+        "code": "11200",
+        "parent_code": "299"
+    },
+    "11203": {
+        "name": "Đồng Tâm",
+        "type": "xa",
+        "slug": "dong-tam",
+        "name_with_type": "Xã Đồng Tâm",
+        "path": "Đồng Tâm, Ninh Giang, Hải Dương",
+        "path_with_type": "Xã Đồng Tâm, Huyện Ninh Giang, Tỉnh Hải Dương",
+        "code": "11203",
+        "parent_code": "299"
+    },
+    "11206": {
+        "name": "Tân Quang",
+        "type": "xa",
+        "slug": "tan-quang",
+        "name_with_type": "Xã Tân Quang",
+        "path": "Tân Quang, Ninh Giang, Hải Dương",
+        "path_with_type": "Xã Tân Quang, Huyện Ninh Giang, Tỉnh Hải Dương",
+        "code": "11206",
+        "parent_code": "299"
+    },
+    "11209": {
+        "name": "Kiến Quốc",
+        "type": "xa",
+        "slug": "kien-quoc",
+        "name_with_type": "Xã Kiến Quốc",
+        "path": "Kiến Quốc, Ninh Giang, Hải Dương",
+        "path_with_type": "Xã Kiến Quốc, Huyện Ninh Giang, Tỉnh Hải Dương",
+        "code": "11209",
+        "parent_code": "299"
+    },
+    "11212": {
+        "name": "Hồng Thái",
+        "type": "xa",
+        "slug": "hong-thai",
+        "name_with_type": "Xã Hồng Thái",
+        "path": "Hồng Thái, Ninh Giang, Hải Dương",
+        "path_with_type": "Xã Hồng Thái, Huyện Ninh Giang, Tỉnh Hải Dương",
+        "code": "11212",
+        "parent_code": "299"
+    },
+    "11215": {
+        "name": "Hồng Dụ",
+        "type": "xa",
+        "slug": "hong-du",
+        "name_with_type": "Xã Hồng Dụ",
+        "path": "Hồng Dụ, Ninh Giang, Hải Dương",
+        "path_with_type": "Xã Hồng Dụ, Huyện Ninh Giang, Tỉnh Hải Dương",
+        "code": "11215",
+        "parent_code": "299"
+    },
+    "11218": {
+        "name": "Văn Hội",
+        "type": "xa",
+        "slug": "van-hoi",
+        "name_with_type": "Xã Văn Hội",
+        "path": "Văn Hội, Ninh Giang, Hải Dương",
+        "path_with_type": "Xã Văn Hội, Huyện Ninh Giang, Tỉnh Hải Dương",
+        "code": "11218",
+        "parent_code": "299"
+    },
+    "11221": {
+        "name": "Hưng Thái",
+        "type": "xa",
+        "slug": "hung-thai",
+        "name_with_type": "Xã Hưng Thái",
+        "path": "Hưng Thái, Ninh Giang, Hải Dương",
+        "path_with_type": "Xã Hưng Thái, Huyện Ninh Giang, Tỉnh Hải Dương",
+        "code": "11221",
+        "parent_code": "299"
+    },
+    "11224": {
+        "name": "Hồng Phong",
+        "type": "xa",
+        "slug": "hong-phong",
+        "name_with_type": "Xã Hồng Phong",
+        "path": "Hồng Phong, Ninh Giang, Hải Dương",
+        "path_with_type": "Xã Hồng Phong, Huyện Ninh Giang, Tỉnh Hải Dương",
+        "code": "11224",
+        "parent_code": "299"
+    },
+    "11227": {
+        "name": "Hiệp Lực",
+        "type": "xa",
+        "slug": "hiep-luc",
+        "name_with_type": "Xã Hiệp Lực",
+        "path": "Hiệp Lực, Ninh Giang, Hải Dương",
+        "path_with_type": "Xã Hiệp Lực, Huyện Ninh Giang, Tỉnh Hải Dương",
+        "code": "11227",
+        "parent_code": "299"
+    },
+    "11230": {
+        "name": "Hồng Phúc",
+        "type": "xa",
+        "slug": "hong-phuc",
+        "name_with_type": "Xã Hồng Phúc",
+        "path": "Hồng Phúc, Ninh Giang, Hải Dương",
+        "path_with_type": "Xã Hồng Phúc, Huyện Ninh Giang, Tỉnh Hải Dương",
+        "code": "11230",
+        "parent_code": "299"
+    },
+    "11233": {
+        "name": "Hưng Long",
+        "type": "xa",
+        "slug": "hung-long",
+        "name_with_type": "Xã Hưng Long",
+        "path": "Hưng Long, Ninh Giang, Hải Dương",
+        "path_with_type": "Xã Hưng Long, Huyện Ninh Giang, Tỉnh Hải Dương",
+        "code": "11233",
+        "parent_code": "299"
+    },
+    "11236": {
+        "name": "Văn Giang",
+        "type": "xa",
+        "slug": "van-giang",
+        "name_with_type": "Xã Văn Giang",
+        "path": "Văn Giang, Ninh Giang, Hải Dương",
+        "path_with_type": "Xã Văn Giang, Huyện Ninh Giang, Tỉnh Hải Dương",
+        "code": "11236",
+        "parent_code": "299"
+    }
+}

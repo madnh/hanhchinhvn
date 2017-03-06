@@ -1,0 +1,192 @@
+{
+    "21730": {
+        "name": "Phù Mỹ",
+        "type": "thi-tran",
+        "slug": "phu-my",
+        "name_with_type": "Thị trấn Phù Mỹ",
+        "path": "Phù Mỹ, Phù Mỹ, Bình Định",
+        "path_with_type": "Thị trấn Phù Mỹ, Huyện Phù Mỹ, Tỉnh Bình Định",
+        "code": "21730",
+        "parent_code": "545"
+    },
+    "21733": {
+        "name": "Bình Dương",
+        "type": "thi-tran",
+        "slug": "binh-duong",
+        "name_with_type": "Thị trấn Bình Dương",
+        "path": "Bình Dương, Phù Mỹ, Bình Định",
+        "path_with_type": "Thị trấn Bình Dương, Huyện Phù Mỹ, Tỉnh Bình Định",
+        "code": "21733",
+        "parent_code": "545"
+    },
+    "21736": {
+        "name": "Mỹ Đức",
+        "type": "xa",
+        "slug": "my-duc",
+        "name_with_type": "Xã Mỹ Đức",
+        "path": "Mỹ Đức, Phù Mỹ, Bình Định",
+        "path_with_type": "Xã Mỹ Đức, Huyện Phù Mỹ, Tỉnh Bình Định",
+        "code": "21736",
+        "parent_code": "545"
+    },
+    "21739": {
+        "name": "Mỹ Châu",
+        "type": "xa",
+        "slug": "my-chau",
+        "name_with_type": "Xã Mỹ Châu",
+        "path": "Mỹ Châu, Phù Mỹ, Bình Định",
+        "path_with_type": "Xã Mỹ Châu, Huyện Phù Mỹ, Tỉnh Bình Định",
+        "code": "21739",
+        "parent_code": "545"
+    },
+    "21742": {
+        "name": "Mỹ Thắng",
+        "type": "xa",
+        "slug": "my-thang",
+        "name_with_type": "Xã Mỹ Thắng",
+        "path": "Mỹ Thắng, Phù Mỹ, Bình Định",
+        "path_with_type": "Xã Mỹ Thắng, Huyện Phù Mỹ, Tỉnh Bình Định",
+        "code": "21742",
+        "parent_code": "545"
+    },
+    "21745": {
+        "name": "Mỹ Lộc",
+        "type": "xa",
+        "slug": "my-loc",
+        "name_with_type": "Xã Mỹ Lộc",
+        "path": "Mỹ Lộc, Phù Mỹ, Bình Định",
+        "path_with_type": "Xã Mỹ Lộc, Huyện Phù Mỹ, Tỉnh Bình Định",
+        "code": "21745",
+        "parent_code": "545"
+    },
+    "21748": {
+        "name": "Mỹ Lợi",
+        "type": "xa",
+        "slug": "my-loi",
+        "name_with_type": "Xã Mỹ Lợi",
+        "path": "Mỹ Lợi, Phù Mỹ, Bình Định",
+        "path_with_type": "Xã Mỹ Lợi, Huyện Phù Mỹ, Tỉnh Bình Định",
+        "code": "21748",
+        "parent_code": "545"
+    },
+    "21751": {
+        "name": "Mỹ An",
+        "type": "xa",
+        "slug": "my-an",
+        "name_with_type": "Xã Mỹ An",
+        "path": "Mỹ An, Phù Mỹ, Bình Định",
+        "path_with_type": "Xã Mỹ An, Huyện Phù Mỹ, Tỉnh Bình Định",
+        "code": "21751",
+        "parent_code": "545"
+    },
+    "21754": {
+        "name": "Mỹ Phong",
+        "type": "xa",
+        "slug": "my-phong",
+        "name_with_type": "Xã Mỹ Phong",
+        "path": "Mỹ Phong, Phù Mỹ, Bình Định",
+        "path_with_type": "Xã Mỹ Phong, Huyện Phù Mỹ, Tỉnh Bình Định",
+        "code": "21754",
+        "parent_code": "545"
+    },
+    "21757": {
+        "name": "Mỹ Trinh",
+        "type": "xa",
+        "slug": "my-trinh",
+        "name_with_type": "Xã Mỹ Trinh",
+        "path": "Mỹ Trinh, Phù Mỹ, Bình Định",
+        "path_with_type": "Xã Mỹ Trinh, Huyện Phù Mỹ, Tỉnh Bình Định",
+        "code": "21757",
+        "parent_code": "545"
+    },
+    "21760": {
+        "name": "Mỹ Thọ",
+        "type": "xa",
+        "slug": "my-tho",
+        "name_with_type": "Xã Mỹ Thọ",
+        "path": "Mỹ Thọ, Phù Mỹ, Bình Định",
+        "path_with_type": "Xã Mỹ Thọ, Huyện Phù Mỹ, Tỉnh Bình Định",
+        "code": "21760",
+        "parent_code": "545"
+    },
+    "21763": {
+        "name": "Mỹ Hòa",
+        "type": "xa",
+        "slug": "my-hoa",
+        "name_with_type": "Xã Mỹ Hòa",
+        "path": "Mỹ Hòa, Phù Mỹ, Bình Định",
+        "path_with_type": "Xã Mỹ Hòa, Huyện Phù Mỹ, Tỉnh Bình Định",
+        "code": "21763",
+        "parent_code": "545"
+    },
+    "21766": {
+        "name": "Mỹ Thành",
+        "type": "xa",
+        "slug": "my-thanh",
+        "name_with_type": "Xã Mỹ Thành",
+        "path": "Mỹ Thành, Phù Mỹ, Bình Định",
+        "path_with_type": "Xã Mỹ Thành, Huyện Phù Mỹ, Tỉnh Bình Định",
+        "code": "21766",
+        "parent_code": "545"
+    },
+    "21769": {
+        "name": "Mỹ Chánh",
+        "type": "xa",
+        "slug": "my-chanh",
+        "name_with_type": "Xã Mỹ Chánh",
+        "path": "Mỹ Chánh, Phù Mỹ, Bình Định",
+        "path_with_type": "Xã Mỹ Chánh, Huyện Phù Mỹ, Tỉnh Bình Định",
+        "code": "21769",
+        "parent_code": "545"
+    },
+    "21772": {
+        "name": "Mỹ Quang",
+        "type": "xa",
+        "slug": "my-quang",
+        "name_with_type": "Xã Mỹ Quang",
+        "path": "Mỹ Quang, Phù Mỹ, Bình Định",
+        "path_with_type": "Xã Mỹ Quang, Huyện Phù Mỹ, Tỉnh Bình Định",
+        "code": "21772",
+        "parent_code": "545"
+    },
+    "21775": {
+        "name": "Mỹ Hiệp",
+        "type": "xa",
+        "slug": "my-hiep",
+        "name_with_type": "Xã Mỹ Hiệp",
+        "path": "Mỹ Hiệp, Phù Mỹ, Bình Định",
+        "path_with_type": "Xã Mỹ Hiệp, Huyện Phù Mỹ, Tỉnh Bình Định",
+        "code": "21775",
+        "parent_code": "545"
+    },
+    "21778": {
+        "name": "Mỹ Tài",
+        "type": "xa",
+        "slug": "my-tai",
+        "name_with_type": "Xã Mỹ Tài",
+        "path": "Mỹ Tài, Phù Mỹ, Bình Định",
+        "path_with_type": "Xã Mỹ Tài, Huyện Phù Mỹ, Tỉnh Bình Định",
+        "code": "21778",
+        "parent_code": "545"
+    },
+    "21781": {
+        "name": "Mỹ Cát",
+        "type": "xa",
+        "slug": "my-cat",
+        "name_with_type": "Xã Mỹ Cát",
+        "path": "Mỹ Cát, Phù Mỹ, Bình Định",
+        "path_with_type": "Xã Mỹ Cát, Huyện Phù Mỹ, Tỉnh Bình Định",
+        "code": "21781",
+        "parent_code": "545"
+    },
+    "21784": {
+        "name": "Mỹ Chánh Tây",
+        "type": "xa",
+        "slug": "my-chanh-tay",
+        "name_with_type": "Xã Mỹ Chánh Tây",
+        "path": "Mỹ Chánh Tây, Phù Mỹ, Bình Định",
+        "path_with_type": "Xã Mỹ Chánh Tây, Huyện Phù Mỹ, Tỉnh Bình Định",
+        "code": "21784",
+        "parent_code": "545"
+    }
+}

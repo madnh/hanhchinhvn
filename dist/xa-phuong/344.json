@@ -1,0 +1,302 @@
+{
+    "13192": {
+        "name": "Vũ Thư",
+        "type": "thi-tran",
+        "slug": "vu-thu",
+        "name_with_type": "Thị trấn Vũ Thư",
+        "path": "Vũ Thư, Vũ Thư, Thái Bình",
+        "path_with_type": "Thị trấn Vũ Thư, Huyện Vũ Thư, Tỉnh Thái Bình",
+        "code": "13192",
+        "parent_code": "344"
+    },
+    "13195": {
+        "name": "Hồng Lý",
+        "type": "xa",
+        "slug": "hong-ly",
+        "name_with_type": "Xã Hồng Lý",
+        "path": "Hồng Lý, Vũ Thư, Thái Bình",
+        "path_with_type": "Xã Hồng Lý, Huyện Vũ Thư, Tỉnh Thái Bình",
+        "code": "13195",
+        "parent_code": "344"
+    },
+    "13198": {
+        "name": "Đồng Thanh",
+        "type": "xa",
+        "slug": "dong-thanh",
+        "name_with_type": "Xã Đồng Thanh",
+        "path": "Đồng Thanh, Vũ Thư, Thái Bình",
+        "path_with_type": "Xã Đồng Thanh, Huyện Vũ Thư, Tỉnh Thái Bình",
+        "code": "13198",
+        "parent_code": "344"
+    },
+    "13201": {
+        "name": "Xuân Hòa",
+        "type": "xa",
+        "slug": "xuan-hoa",
+        "name_with_type": "Xã Xuân Hòa",
+        "path": "Xuân Hòa, Vũ Thư, Thái Bình",
+        "path_with_type": "Xã Xuân Hòa, Huyện Vũ Thư, Tỉnh Thái Bình",
+        "code": "13201",
+        "parent_code": "344"
+    },
+    "13204": {
+        "name": "Hiệp Hòa",
+        "type": "xa",
+        "slug": "hiep-hoa",
+        "name_with_type": "Xã Hiệp Hòa",
+        "path": "Hiệp Hòa, Vũ Thư, Thái Bình",
+        "path_with_type": "Xã Hiệp Hòa, Huyện Vũ Thư, Tỉnh Thái Bình",
+        "code": "13204",
+        "parent_code": "344"
+    },
+    "13207": {
+        "name": "Phúc Thành",
+        "type": "xa",
+        "slug": "phuc-thanh",
+        "name_with_type": "Xã Phúc Thành",
+        "path": "Phúc Thành, Vũ Thư, Thái Bình",
+        "path_with_type": "Xã Phúc Thành, Huyện Vũ Thư, Tỉnh Thái Bình",
+        "code": "13207",
+        "parent_code": "344"
+    },
+    "13210": {
+        "name": "Tân Phong",
+        "type": "xa",
+        "slug": "tan-phong",
+        "name_with_type": "Xã Tân Phong",
+        "path": "Tân Phong, Vũ Thư, Thái Bình",
+        "path_with_type": "Xã Tân Phong, Huyện Vũ Thư, Tỉnh Thái Bình",
+        "code": "13210",
+        "parent_code": "344"
+    },
+    "13213": {
+        "name": "Song Lãng",
+        "type": "xa",
+        "slug": "song-lang",
+        "name_with_type": "Xã Song Lãng",
+        "path": "Song Lãng, Vũ Thư, Thái Bình",
+        "path_with_type": "Xã Song Lãng, Huyện Vũ Thư, Tỉnh Thái Bình",
+        "code": "13213",
+        "parent_code": "344"
+    },
+    "13216": {
+        "name": "Tân Hòa",
+        "type": "xa",
+        "slug": "tan-hoa",
+        "name_with_type": "Xã Tân Hòa",
+        "path": "Tân Hòa, Vũ Thư, Thái Bình",
+        "path_with_type": "Xã Tân Hòa, Huyện Vũ Thư, Tỉnh Thái Bình",
+        "code": "13216",
+        "parent_code": "344"
+    },
+    "13219": {
+        "name": "Việt Hùng",
+        "type": "xa",
+        "slug": "viet-hung",
+        "name_with_type": "Xã Việt Hùng",
+        "path": "Việt Hùng, Vũ Thư, Thái Bình",
+        "path_with_type": "Xã Việt Hùng, Huyện Vũ Thư, Tỉnh Thái Bình",
+        "code": "13219",
+        "parent_code": "344"
+    },
+    "13222": {
+        "name": "Minh Lãng",
+        "type": "xa",
+        "slug": "minh-lang",
+        "name_with_type": "Xã Minh Lãng",
+        "path": "Minh Lãng, Vũ Thư, Thái Bình",
+        "path_with_type": "Xã Minh Lãng, Huyện Vũ Thư, Tỉnh Thái Bình",
+        "code": "13222",
+        "parent_code": "344"
+    },
+    "13228": {
+        "name": "Minh Khai",
+        "type": "xa",
+        "slug": "minh-khai",
+        "name_with_type": "Xã Minh Khai",
+        "path": "Minh Khai, Vũ Thư, Thái Bình",
+        "path_with_type": "Xã Minh Khai, Huyện Vũ Thư, Tỉnh Thái Bình",
+        "code": "13228",
+        "parent_code": "344"
+    },
+    "13231": {
+        "name": "Dũng Nghĩa",
+        "type": "xa",
+        "slug": "dung-nghia",
+        "name_with_type": "Xã Dũng Nghĩa",
+        "path": "Dũng Nghĩa, Vũ Thư, Thái Bình",
+        "path_with_type": "Xã Dũng Nghĩa, Huyện Vũ Thư, Tỉnh Thái Bình",
+        "code": "13231",
+        "parent_code": "344"
+    },
+    "13234": {
+        "name": "Minh Quang",
+        "type": "xa",
+        "slug": "minh-quang",
+        "name_with_type": "Xã Minh Quang",
+        "path": "Minh Quang, Vũ Thư, Thái Bình",
+        "path_with_type": "Xã Minh Quang, Huyện Vũ Thư, Tỉnh Thái Bình",
+        "code": "13234",
+        "parent_code": "344"
+    },
+    "13237": {
+        "name": "Tam Quang",
+        "type": "xa",
+        "slug": "tam-quang",
+        "name_with_type": "Xã Tam Quang",
+        "path": "Tam Quang, Vũ Thư, Thái Bình",
+        "path_with_type": "Xã Tam Quang, Huyện Vũ Thư, Tỉnh Thái Bình",
+        "code": "13237",
+        "parent_code": "344"
+    },
+    "13240": {
+        "name": "Tân Lập",
+        "type": "xa",
+        "slug": "tan-lap",
+        "name_with_type": "Xã Tân Lập",
+        "path": "Tân Lập, Vũ Thư, Thái Bình",
+        "path_with_type": "Xã Tân Lập, Huyện Vũ Thư, Tỉnh Thái Bình",
+        "code": "13240",
+        "parent_code": "344"
+    },
+    "13243": {
+        "name": "Bách Thuận",
+        "type": "xa",
+        "slug": "bach-thuan",
+        "name_with_type": "Xã Bách Thuận",
+        "path": "Bách Thuận, Vũ Thư, Thái Bình",
+        "path_with_type": "Xã Bách Thuận, Huyện Vũ Thư, Tỉnh Thái Bình",
+        "code": "13243",
+        "parent_code": "344"
+    },
+    "13246": {
+        "name": "Tự Tân",
+        "type": "xa",
+        "slug": "tu-tan",
+        "name_with_type": "Xã Tự Tân",
+        "path": "Tự Tân, Vũ Thư, Thái Bình",
+        "path_with_type": "Xã Tự Tân, Huyện Vũ Thư, Tỉnh Thái Bình",
+        "code": "13246",
+        "parent_code": "344"
+    },
+    "13249": {
+        "name": "Song An",
+        "type": "xa",
+        "slug": "song-an",
+        "name_with_type": "Xã Song An",
+        "path": "Song An, Vũ Thư, Thái Bình",
+        "path_with_type": "Xã Song An, Huyện Vũ Thư, Tỉnh Thái Bình",
+        "code": "13249",
+        "parent_code": "344"
+    },
+    "13252": {
+        "name": "Trung An",
+        "type": "xa",
+        "slug": "trung-an",
+        "name_with_type": "Xã Trung An",
+        "path": "Trung An, Vũ Thư, Thái Bình",
+        "path_with_type": "Xã Trung An, Huyện Vũ Thư, Tỉnh Thái Bình",
+        "code": "13252",
+        "parent_code": "344"
+    },
+    "13255": {
+        "name": "Vũ Hội",
+        "type": "xa",
+        "slug": "vu-hoi",
+        "name_with_type": "Xã Vũ Hội",
+        "path": "Vũ Hội, Vũ Thư, Thái Bình",
+        "path_with_type": "Xã Vũ Hội, Huyện Vũ Thư, Tỉnh Thái Bình",
+        "code": "13255",
+        "parent_code": "344"
+    },
+    "13258": {
+        "name": "Hòa Bình",
+        "type": "xa",
+        "slug": "hoa-binh",
+        "name_with_type": "Xã Hòa Bình",
+        "path": "Hòa Bình, Vũ Thư, Thái Bình",
+        "path_with_type": "Xã Hòa Bình, Huyện Vũ Thư, Tỉnh Thái Bình",
+        "code": "13258",
+        "parent_code": "344"
+    },
+    "13261": {
+        "name": "Nguyên Xá",
+        "type": "xa",
+        "slug": "nguyen-xa",
+        "name_with_type": "Xã Nguyên Xá",
+        "path": "Nguyên Xá, Vũ Thư, Thái Bình",
+        "path_with_type": "Xã Nguyên Xá, Huyện Vũ Thư, Tỉnh Thái Bình",
+        "code": "13261",
+        "parent_code": "344"
+    },
+    "13264": {
+        "name": "Việt Thuận",
+        "type": "xa",
+        "slug": "viet-thuan",
+        "name_with_type": "Xã Việt Thuận",
+        "path": "Việt Thuận, Vũ Thư, Thái Bình",
+        "path_with_type": "Xã Việt Thuận, Huyện Vũ Thư, Tỉnh Thái Bình",
+        "code": "13264",
+        "parent_code": "344"
+    },
+    "13267": {
+        "name": "Vũ Vinh",
+        "type": "xa",
+        "slug": "vu-vinh",
+        "name_with_type": "Xã Vũ Vinh",
+        "path": "Vũ Vinh, Vũ Thư, Thái Bình",
+        "path_with_type": "Xã Vũ Vinh, Huyện Vũ Thư, Tỉnh Thái Bình",
+        "code": "13267",
+        "parent_code": "344"
+    },
+    "13270": {
+        "name": "Vũ Đoài",
+        "type": "xa",
+        "slug": "vu-doai",
+        "name_with_type": "Xã Vũ Đoài",
+        "path": "Vũ Đoài, Vũ Thư, Thái Bình",
+        "path_with_type": "Xã Vũ Đoài, Huyện Vũ Thư, Tỉnh Thái Bình",
+        "code": "13270",
+        "parent_code": "344"
+    },
+    "13273": {
+        "name": "Vũ Tiến",
+        "type": "xa",
+        "slug": "vu-tien",
+        "name_with_type": "Xã Vũ Tiến",
+        "path": "Vũ Tiến, Vũ Thư, Thái Bình",
+        "path_with_type": "Xã Vũ Tiến, Huyện Vũ Thư, Tỉnh Thái Bình",
+        "code": "13273",
+        "parent_code": "344"
+    },
+    "13276": {
+        "name": "Vũ Vân",
+        "type": "xa",
+        "slug": "vu-van",
+        "name_with_type": "Xã Vũ Vân",
+        "path": "Vũ Vân, Vũ Thư, Thái Bình",
+        "path_with_type": "Xã Vũ Vân, Huyện Vũ Thư, Tỉnh Thái Bình",
+        "code": "13276",
+        "parent_code": "344"
+    },
+    "13279": {
+        "name": "Duy Nhất",
+        "type": "xa",
+        "slug": "duy-nhat",
+        "name_with_type": "Xã Duy Nhất",
+        "path": "Duy Nhất, Vũ Thư, Thái Bình",
+        "path_with_type": "Xã Duy Nhất, Huyện Vũ Thư, Tỉnh Thái Bình",
+        "code": "13279",
+        "parent_code": "344"
+    },
+    "13282": {
+        "name": "Hồng Phong",
+        "type": "xa",
+        "slug": "hong-phong",
+        "name_with_type": "Xã Hồng Phong",
+        "path": "Hồng Phong, Vũ Thư, Thái Bình",
+        "path_with_type": "Xã Hồng Phong, Huyện Vũ Thư, Tỉnh Thái Bình",
+        "code": "13282",
+        "parent_code": "344"
+    }
+}

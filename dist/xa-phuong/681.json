@@ -1,0 +1,102 @@
+{
+    "25096": {
+        "name": "Đạ M'ri",
+        "type": "thi-tran",
+        "slug": "da-m-ri",
+        "name_with_type": "Thị trấn Đạ M'ri",
+        "path": "Đạ M'ri, Đạ Huoai, Lâm Đồng",
+        "path_with_type": "Thị trấn Đạ M'ri, Huyện Đạ Huoai, Tỉnh Lâm Đồng",
+        "code": "25096",
+        "parent_code": "681"
+    },
+    "25099": {
+        "name": "Ma Đa Guôi",
+        "type": "thi-tran",
+        "slug": "ma-da-guoi",
+        "name_with_type": "Thị trấn Ma Đa Guôi",
+        "path": "Ma Đa Guôi, Đạ Huoai, Lâm Đồng",
+        "path_with_type": "Thị trấn Ma Đa Guôi, Huyện Đạ Huoai, Tỉnh Lâm Đồng",
+        "code": "25099",
+        "parent_code": "681"
+    },
+    "25102": {
+        "name": "Đạ M'ri",
+        "type": "xa",
+        "slug": "da-m-ri",
+        "name_with_type": "Xã Đạ M'ri",
+        "path": "Đạ M'ri, Đạ Huoai, Lâm Đồng",
+        "path_with_type": "Xã Đạ M'ri, Huyện Đạ Huoai, Tỉnh Lâm Đồng",
+        "code": "25102",
+        "parent_code": "681"
+    },
+    "25105": {
+        "name": "Hà Lâm",
+        "type": "xa",
+        "slug": "ha-lam",
+        "name_with_type": "Xã Hà Lâm",
+        "path": "Hà Lâm, Đạ Huoai, Lâm Đồng",
+        "path_with_type": "Xã Hà Lâm, Huyện Đạ Huoai, Tỉnh Lâm Đồng",
+        "code": "25105",
+        "parent_code": "681"
+    },
+    "25108": {
+        "name": "Đạ Tồn",
+        "type": "xa",
+        "slug": "da-ton",
+        "name_with_type": "Xã Đạ Tồn",
+        "path": "Đạ Tồn, Đạ Huoai, Lâm Đồng",
+        "path_with_type": "Xã Đạ Tồn, Huyện Đạ Huoai, Tỉnh Lâm Đồng",
+        "code": "25108",
+        "parent_code": "681"
+    },
+    "25111": {
+        "name": "Đạ Oai",
+        "type": "xa",
+        "slug": "da-oai",
+        "name_with_type": "Xã Đạ Oai",
+        "path": "Đạ Oai, Đạ Huoai, Lâm Đồng",
+        "path_with_type": "Xã Đạ Oai, Huyện Đạ Huoai, Tỉnh Lâm Đồng",
+        "code": "25111",
+        "parent_code": "681"
+    },
+    "25114": {
+        "name": "Đạ Ploa",
+        "type": "xa",
+        "slug": "da-ploa",
+        "name_with_type": "Xã Đạ Ploa",
+        "path": "Đạ Ploa, Đạ Huoai, Lâm Đồng",
+        "path_with_type": "Xã Đạ Ploa, Huyện Đạ Huoai, Tỉnh Lâm Đồng",
+        "code": "25114",
+        "parent_code": "681"
+    },
+    "25117": {
+        "name": "Ma Đa Guôi",
+        "type": "xa",
+        "slug": "ma-da-guoi",
+        "name_with_type": "Xã Ma Đa Guôi",
+        "path": "Ma Đa Guôi, Đạ Huoai, Lâm Đồng",
+        "path_with_type": "Xã Ma Đa Guôi, Huyện Đạ Huoai, Tỉnh Lâm Đồng",
+        "code": "25117",
+        "parent_code": "681"
+    },
+    "25120": {
+        "name": "Đoàn Kết",
+        "type": "xa",
+        "slug": "doan-ket",
+        "name_with_type": "Xã Đoàn Kết",
+        "path": "Đoàn Kết, Đạ Huoai, Lâm Đồng",
+        "path_with_type": "Xã Đoàn Kết, Huyện Đạ Huoai, Tỉnh Lâm Đồng",
+        "code": "25120",
+        "parent_code": "681"
+    },
+    "25123": {
+        "name": "Phước Lộc",
+        "type": "xa",
+        "slug": "phuoc-loc",
+        "name_with_type": "Xã Phước Lộc",
+        "path": "Phước Lộc, Đạ Huoai, Lâm Đồng",
+        "path_with_type": "Xã Phước Lộc, Huyện Đạ Huoai, Tỉnh Lâm Đồng",
+        "code": "25123",
+        "parent_code": "681"
+    }
+}

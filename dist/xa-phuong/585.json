@@ -1,0 +1,82 @@
+{
+    "22810": {
+        "name": "Tân Sơn",
+        "type": "thi-tran",
+        "slug": "tan-son",
+        "name_with_type": "Thị trấn Tân Sơn",
+        "path": "Tân Sơn, Ninh Sơn, Ninh Thuận",
+        "path_with_type": "Thị trấn Tân Sơn, Huyện Ninh Sơn, Tỉnh Ninh Thuận",
+        "code": "22810",
+        "parent_code": "585"
+    },
+    "22813": {
+        "name": "Lâm Sơn",
+        "type": "xa",
+        "slug": "lam-son",
+        "name_with_type": "Xã Lâm Sơn",
+        "path": "Lâm Sơn, Ninh Sơn, Ninh Thuận",
+        "path_with_type": "Xã Lâm Sơn, Huyện Ninh Sơn, Tỉnh Ninh Thuận",
+        "code": "22813",
+        "parent_code": "585"
+    },
+    "22816": {
+        "name": "Lương Sơn",
+        "type": "xa",
+        "slug": "luong-son",
+        "name_with_type": "Xã Lương Sơn",
+        "path": "Lương Sơn, Ninh Sơn, Ninh Thuận",
+        "path_with_type": "Xã Lương Sơn, Huyện Ninh Sơn, Tỉnh Ninh Thuận",
+        "code": "22816",
+        "parent_code": "585"
+    },
+    "22819": {
+        "name": "Quảng Sơn",
+        "type": "xa",
+        "slug": "quang-son",
+        "name_with_type": "Xã Quảng Sơn",
+        "path": "Quảng Sơn, Ninh Sơn, Ninh Thuận",
+        "path_with_type": "Xã Quảng Sơn, Huyện Ninh Sơn, Tỉnh Ninh Thuận",
+        "code": "22819",
+        "parent_code": "585"
+    },
+    "22822": {
+        "name": "Mỹ Sơn",
+        "type": "xa",
+        "slug": "my-son",
+        "name_with_type": "Xã Mỹ Sơn",
+        "path": "Mỹ Sơn, Ninh Sơn, Ninh Thuận",
+        "path_with_type": "Xã Mỹ Sơn, Huyện Ninh Sơn, Tỉnh Ninh Thuận",
+        "code": "22822",
+        "parent_code": "585"
+    },
+    "22825": {
+        "name": "Hòa Sơn",
+        "type": "xa",
+        "slug": "hoa-son",
+        "name_with_type": "Xã Hòa Sơn",
+        "path": "Hòa Sơn, Ninh Sơn, Ninh Thuận",
+        "path_with_type": "Xã Hòa Sơn, Huyện Ninh Sơn, Tỉnh Ninh Thuận",
+        "code": "22825",
+        "parent_code": "585"
+    },
+    "22828": {
+        "name": "Ma Nới",
+        "type": "xa",
+        "slug": "ma-noi",
+        "name_with_type": "Xã Ma Nới",
+        "path": "Ma Nới, Ninh Sơn, Ninh Thuận",
+        "path_with_type": "Xã Ma Nới, Huyện Ninh Sơn, Tỉnh Ninh Thuận",
+        "code": "22828",
+        "parent_code": "585"
+    },
+    "22831": {
+        "name": "Nhơn Sơn",
+        "type": "xa",
+        "slug": "nhon-son",
+        "name_with_type": "Xã Nhơn Sơn",
+        "path": "Nhơn Sơn, Ninh Sơn, Ninh Thuận",
+        "path_with_type": "Xã Nhơn Sơn, Huyện Ninh Sơn, Tỉnh Ninh Thuận",
+        "code": "22831",
+        "parent_code": "585"
+    }
+}

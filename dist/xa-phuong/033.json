@@ -1,0 +1,192 @@
+{
+    "01096": {
+        "name": "Cốc Pài",
+        "type": "thi-tran",
+        "slug": "coc-pai",
+        "name_with_type": "Thị trấn Cốc Pài",
+        "path": "Cốc Pài, Xín Mần, Hà Giang",
+        "path_with_type": "Thị trấn Cốc Pài, Huyện Xín Mần, Tỉnh Hà Giang",
+        "code": "01096",
+        "parent_code": "033"
+    },
+    "01099": {
+        "name": "Nàn Xỉn",
+        "type": "xa",
+        "slug": "nan-xin",
+        "name_with_type": "Xã Nàn Xỉn",
+        "path": "Nàn Xỉn, Xín Mần, Hà Giang",
+        "path_with_type": "Xã Nàn Xỉn, Huyện Xín Mần, Tỉnh Hà Giang",
+        "code": "01099",
+        "parent_code": "033"
+    },
+    "01102": {
+        "name": "Bản Díu",
+        "type": "xa",
+        "slug": "ban-diu",
+        "name_with_type": "Xã Bản Díu",
+        "path": "Bản Díu, Xín Mần, Hà Giang",
+        "path_with_type": "Xã Bản Díu, Huyện Xín Mần, Tỉnh Hà Giang",
+        "code": "01102",
+        "parent_code": "033"
+    },
+    "01105": {
+        "name": "Chí Cà",
+        "type": "xa",
+        "slug": "chi-ca",
+        "name_with_type": "Xã Chí Cà",
+        "path": "Chí Cà, Xín Mần, Hà Giang",
+        "path_with_type": "Xã Chí Cà, Huyện Xín Mần, Tỉnh Hà Giang",
+        "code": "01105",
+        "parent_code": "033"
+    },
+    "01108": {
+        "name": "Xín Mần",
+        "type": "xa",
+        "slug": "xin-man",
+        "name_with_type": "Xã Xín Mần",
+        "path": "Xín Mần, Xín Mần, Hà Giang",
+        "path_with_type": "Xã Xín Mần, Huyện Xín Mần, Tỉnh Hà Giang",
+        "code": "01108",
+        "parent_code": "033"
+    },
+    "01111": {
+        "name": "Trung Thịnh",
+        "type": "xa",
+        "slug": "trung-thinh",
+        "name_with_type": "Xã Trung Thịnh",
+        "path": "Trung Thịnh, Xín Mần, Hà Giang",
+        "path_with_type": "Xã Trung Thịnh, Huyện Xín Mần, Tỉnh Hà Giang",
+        "code": "01111",
+        "parent_code": "033"
+    },
+    "01114": {
+        "name": "Thèn Phàng",
+        "type": "xa",
+        "slug": "then-phang",
+        "name_with_type": "Xã Thèn Phàng",
+        "path": "Thèn Phàng, Xín Mần, Hà Giang",
+        "path_with_type": "Xã Thèn Phàng, Huyện Xín Mần, Tỉnh Hà Giang",
+        "code": "01114",
+        "parent_code": "033"
+    },
+    "01117": {
+        "name": "Ngán Chiên",
+        "type": "xa",
+        "slug": "ngan-chien",
+        "name_with_type": "Xã Ngán Chiên",
+        "path": "Ngán Chiên, Xín Mần, Hà Giang",
+        "path_with_type": "Xã Ngán Chiên, Huyện Xín Mần, Tỉnh Hà Giang",
+        "code": "01117",
+        "parent_code": "033"
+    },
+    "01120": {
+        "name": "Pà Vầy Sủ",
+        "type": "xa",
+        "slug": "pa-vay-su",
+        "name_with_type": "Xã Pà Vầy Sủ",
+        "path": "Pà Vầy Sủ, Xín Mần, Hà Giang",
+        "path_with_type": "Xã Pà Vầy Sủ, Huyện Xín Mần, Tỉnh Hà Giang",
+        "code": "01120",
+        "parent_code": "033"
+    },
+    "01123": {
+        "name": "Cốc Rế",
+        "type": "xa",
+        "slug": "coc-re",
+        "name_with_type": "Xã Cốc Rế",
+        "path": "Cốc Rế, Xín Mần, Hà Giang",
+        "path_with_type": "Xã Cốc Rế, Huyện Xín Mần, Tỉnh Hà Giang",
+        "code": "01123",
+        "parent_code": "033"
+    },
+    "01126": {
+        "name": "Thu Tà",
+        "type": "xa",
+        "slug": "thu-ta",
+        "name_with_type": "Xã Thu Tà",
+        "path": "Thu Tà, Xín Mần, Hà Giang",
+        "path_with_type": "Xã Thu Tà, Huyện Xín Mần, Tỉnh Hà Giang",
+        "code": "01126",
+        "parent_code": "033"
+    },
+    "01129": {
+        "name": "Nàn Ma",
+        "type": "xa",
+        "slug": "nan-ma",
+        "name_with_type": "Xã Nàn Ma",
+        "path": "Nàn Ma, Xín Mần, Hà Giang",
+        "path_with_type": "Xã Nàn Ma, Huyện Xín Mần, Tỉnh Hà Giang",
+        "code": "01129",
+        "parent_code": "033"
+    },
+    "01132": {
+        "name": "Tả Nhìu",
+        "type": "xa",
+        "slug": "ta-nhiu",
+        "name_with_type": "Xã Tả Nhìu",
+        "path": "Tả Nhìu, Xín Mần, Hà Giang",
+        "path_with_type": "Xã Tả Nhìu, Huyện Xín Mần, Tỉnh Hà Giang",
+        "code": "01132",
+        "parent_code": "033"
+    },
+    "01135": {
+        "name": "Bản Ngò",
+        "type": "xa",
+        "slug": "ban-ngo",
+        "name_with_type": "Xã Bản Ngò",
+        "path": "Bản Ngò, Xín Mần, Hà Giang",
+        "path_with_type": "Xã Bản Ngò, Huyện Xín Mần, Tỉnh Hà Giang",
+        "code": "01135",
+        "parent_code": "033"
+    },
+    "01138": {
+        "name": "Chế Là",
+        "type": "xa",
+        "slug": "che-la",
+        "name_with_type": "Xã Chế Là",
+        "path": "Chế Là, Xín Mần, Hà Giang",
+        "path_with_type": "Xã Chế Là, Huyện Xín Mần, Tỉnh Hà Giang",
+        "code": "01138",
+        "parent_code": "033"
+    },
+    "01141": {
+        "name": "Nấm Dẩn",
+        "type": "xa",
+        "slug": "nam-dan",
+        "name_with_type": "Xã Nấm Dẩn",
+        "path": "Nấm Dẩn, Xín Mần, Hà Giang",
+        "path_with_type": "Xã Nấm Dẩn, Huyện Xín Mần, Tỉnh Hà Giang",
+        "code": "01141",
+        "parent_code": "033"
+    },
+    "01144": {
+        "name": "Quảng Nguyên",
+        "type": "xa",
+        "slug": "quang-nguyen",
+        "name_with_type": "Xã Quảng Nguyên",
+        "path": "Quảng Nguyên, Xín Mần, Hà Giang",
+        "path_with_type": "Xã Quảng Nguyên, Huyện Xín Mần, Tỉnh Hà Giang",
+        "code": "01144",
+        "parent_code": "033"
+    },
+    "01147": {
+        "name": "Nà Chì",
+        "type": "xa",
+        "slug": "na-chi",
+        "name_with_type": "Xã Nà Chì",
+        "path": "Nà Chì, Xín Mần, Hà Giang",
+        "path_with_type": "Xã Nà Chì, Huyện Xín Mần, Tỉnh Hà Giang",
+        "code": "01147",
+        "parent_code": "033"
+    },
+    "01150": {
+        "name": "Khuôn Lùng",
+        "type": "xa",
+        "slug": "khuon-lung",
+        "name_with_type": "Xã Khuôn Lùng",
+        "path": "Khuôn Lùng, Xín Mần, Hà Giang",
+        "path_with_type": "Xã Khuôn Lùng, Huyện Xín Mần, Tỉnh Hà Giang",
+        "code": "01150",
+        "parent_code": "033"
+    }
+}

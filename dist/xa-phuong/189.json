@@ -1,0 +1,122 @@
+{
+    "06613": {
+        "name": "Đình Lập",
+        "type": "thi-tran",
+        "slug": "dinh-lap",
+        "name_with_type": "Thị trấn Đình Lập",
+        "path": "Đình Lập, Đình Lập, Lạng Sơn",
+        "path_with_type": "Thị trấn Đình Lập, Huyện Đình Lập, Tỉnh Lạng Sơn",
+        "code": "06613",
+        "parent_code": "189"
+    },
+    "06616": {
+        "name": "NT Thái Bình",
+        "type": "thi-tran",
+        "slug": "nt-thai-binh",
+        "name_with_type": "Thị trấn NT Thái Bình",
+        "path": "NT Thái Bình, Đình Lập, Lạng Sơn",
+        "path_with_type": "Thị trấn NT Thái Bình, Huyện Đình Lập, Tỉnh Lạng Sơn",
+        "code": "06616",
+        "parent_code": "189"
+    },
+    "06619": {
+        "name": "Bắc Xa",
+        "type": "xa",
+        "slug": "bac-xa",
+        "name_with_type": "Xã Bắc Xa",
+        "path": "Bắc Xa, Đình Lập, Lạng Sơn",
+        "path_with_type": "Xã Bắc Xa, Huyện Đình Lập, Tỉnh Lạng Sơn",
+        "code": "06619",
+        "parent_code": "189"
+    },
+    "06622": {
+        "name": "Bính Xá",
+        "type": "xa",
+        "slug": "binh-xa",
+        "name_with_type": "Xã Bính Xá",
+        "path": "Bính Xá, Đình Lập, Lạng Sơn",
+        "path_with_type": "Xã Bính Xá, Huyện Đình Lập, Tỉnh Lạng Sơn",
+        "code": "06622",
+        "parent_code": "189"
+    },
+    "06625": {
+        "name": "Kiên Mộc",
+        "type": "xa",
+        "slug": "kien-moc",
+        "name_with_type": "Xã Kiên Mộc",
+        "path": "Kiên Mộc, Đình Lập, Lạng Sơn",
+        "path_with_type": "Xã Kiên Mộc, Huyện Đình Lập, Tỉnh Lạng Sơn",
+        "code": "06625",
+        "parent_code": "189"
+    },
+    "06628": {
+        "name": "Đình Lập",
+        "type": "xa",
+        "slug": "dinh-lap",
+        "name_with_type": "Xã Đình Lập",
+        "path": "Đình Lập, Đình Lập, Lạng Sơn",
+        "path_with_type": "Xã Đình Lập, Huyện Đình Lập, Tỉnh Lạng Sơn",
+        "code": "06628",
+        "parent_code": "189"
+    },
+    "06631": {
+        "name": "Thái Bình",
+        "type": "xa",
+        "slug": "thai-binh",
+        "name_with_type": "Xã Thái Bình",
+        "path": "Thái Bình, Đình Lập, Lạng Sơn",
+        "path_with_type": "Xã Thái Bình, Huyện Đình Lập, Tỉnh Lạng Sơn",
+        "code": "06631",
+        "parent_code": "189"
+    },
+    "06634": {
+        "name": "Cường Lợi",
+        "type": "xa",
+        "slug": "cuong-loi",
+        "name_with_type": "Xã Cường Lợi",
+        "path": "Cường Lợi, Đình Lập, Lạng Sơn",
+        "path_with_type": "Xã Cường Lợi, Huyện Đình Lập, Tỉnh Lạng Sơn",
+        "code": "06634",
+        "parent_code": "189"
+    },
+    "06637": {
+        "name": "Châu Sơn",
+        "type": "xa",
+        "slug": "chau-son",
+        "name_with_type": "Xã Châu Sơn",
+        "path": "Châu Sơn, Đình Lập, Lạng Sơn",
+        "path_with_type": "Xã Châu Sơn, Huyện Đình Lập, Tỉnh Lạng Sơn",
+        "code": "06637",
+        "parent_code": "189"
+    },
+    "06640": {
+        "name": "Lâm Ca",
+        "type": "xa",
+        "slug": "lam-ca",
+        "name_with_type": "Xã Lâm Ca",
+        "path": "Lâm Ca, Đình Lập, Lạng Sơn",
+        "path_with_type": "Xã Lâm Ca, Huyện Đình Lập, Tỉnh Lạng Sơn",
+        "code": "06640",
+        "parent_code": "189"
+    },
+    "06643": {
+        "name": "Đồng Thắng",
+        "type": "xa",
+        "slug": "dong-thang",
+        "name_with_type": "Xã Đồng Thắng",
+        "path": "Đồng Thắng, Đình Lập, Lạng Sơn",
+        "path_with_type": "Xã Đồng Thắng, Huyện Đình Lập, Tỉnh Lạng Sơn",
+        "code": "06643",
+        "parent_code": "189"
+    },
+    "06646": {
+        "name": "Bắc Lãng",
+        "type": "xa",
+        "slug": "bac-lang",
+        "name_with_type": "Xã Bắc Lãng",
+        "path": "Bắc Lãng, Đình Lập, Lạng Sơn",
+        "path_with_type": "Xã Bắc Lãng, Huyện Đình Lập, Tỉnh Lạng Sơn",
+        "code": "06646",
+        "parent_code": "189"
+    }
+}

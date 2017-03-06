@@ -1,0 +1,202 @@
+{
+    "01726": {
+        "name": "Nguyên Bình",
+        "type": "thi-tran",
+        "slug": "nguyen-binh",
+        "name_with_type": "Thị trấn Nguyên Bình",
+        "path": "Nguyên Bình, Nguyên Bình, Cao Bằng",
+        "path_with_type": "Thị trấn Nguyên Bình, Huyện Nguyên Bình, Tỉnh Cao Bằng",
+        "code": "01726",
+        "parent_code": "052"
+    },
+    "01729": {
+        "name": "Tĩnh Túc",
+        "type": "thi-tran",
+        "slug": "tinh-tuc",
+        "name_with_type": "Thị trấn Tĩnh Túc",
+        "path": "Tĩnh Túc, Nguyên Bình, Cao Bằng",
+        "path_with_type": "Thị trấn Tĩnh Túc, Huyện Nguyên Bình, Tỉnh Cao Bằng",
+        "code": "01729",
+        "parent_code": "052"
+    },
+    "01732": {
+        "name": "Yên Lạc",
+        "type": "xa",
+        "slug": "yen-lac",
+        "name_with_type": "Xã Yên Lạc",
+        "path": "Yên Lạc, Nguyên Bình, Cao Bằng",
+        "path_with_type": "Xã Yên Lạc, Huyện Nguyên Bình, Tỉnh Cao Bằng",
+        "code": "01732",
+        "parent_code": "052"
+    },
+    "01735": {
+        "name": "Triệu Nguyên",
+        "type": "xa",
+        "slug": "trieu-nguyen",
+        "name_with_type": "Xã Triệu Nguyên",
+        "path": "Triệu Nguyên, Nguyên Bình, Cao Bằng",
+        "path_with_type": "Xã Triệu Nguyên, Huyện Nguyên Bình, Tỉnh Cao Bằng",
+        "code": "01735",
+        "parent_code": "052"
+    },
+    "01738": {
+        "name": "Ca Thành",
+        "type": "xa",
+        "slug": "ca-thanh",
+        "name_with_type": "Xã Ca Thành",
+        "path": "Ca Thành, Nguyên Bình, Cao Bằng",
+        "path_with_type": "Xã Ca Thành, Huyện Nguyên Bình, Tỉnh Cao Bằng",
+        "code": "01738",
+        "parent_code": "052"
+    },
+    "01741": {
+        "name": "Thái Học",
+        "type": "xa",
+        "slug": "thai-hoc",
+        "name_with_type": "Xã Thái Học",
+        "path": "Thái Học, Nguyên Bình, Cao Bằng",
+        "path_with_type": "Xã Thái Học, Huyện Nguyên Bình, Tỉnh Cao Bằng",
+        "code": "01741",
+        "parent_code": "052"
+    },
+    "01744": {
+        "name": "Vũ Nông",
+        "type": "xa",
+        "slug": "vu-nong",
+        "name_with_type": "Xã Vũ Nông",
+        "path": "Vũ Nông, Nguyên Bình, Cao Bằng",
+        "path_with_type": "Xã Vũ Nông, Huyện Nguyên Bình, Tỉnh Cao Bằng",
+        "code": "01744",
+        "parent_code": "052"
+    },
+    "01747": {
+        "name": "Minh Tâm",
+        "type": "xa",
+        "slug": "minh-tam",
+        "name_with_type": "Xã Minh Tâm",
+        "path": "Minh Tâm, Nguyên Bình, Cao Bằng",
+        "path_with_type": "Xã Minh Tâm, Huyện Nguyên Bình, Tỉnh Cao Bằng",
+        "code": "01747",
+        "parent_code": "052"
+    },
+    "01750": {
+        "name": "Thể Dục",
+        "type": "xa",
+        "slug": "the-duc",
+        "name_with_type": "Xã Thể Dục",
+        "path": "Thể Dục, Nguyên Bình, Cao Bằng",
+        "path_with_type": "Xã Thể Dục, Huyện Nguyên Bình, Tỉnh Cao Bằng",
+        "code": "01750",
+        "parent_code": "052"
+    },
+    "01753": {
+        "name": "Bắc Hợp",
+        "type": "xa",
+        "slug": "bac-hop",
+        "name_with_type": "Xã Bắc Hợp",
+        "path": "Bắc Hợp, Nguyên Bình, Cao Bằng",
+        "path_with_type": "Xã Bắc Hợp, Huyện Nguyên Bình, Tỉnh Cao Bằng",
+        "code": "01753",
+        "parent_code": "052"
+    },
+    "01756": {
+        "name": "Mai Long",
+        "type": "xa",
+        "slug": "mai-long",
+        "name_with_type": "Xã Mai Long",
+        "path": "Mai Long, Nguyên Bình, Cao Bằng",
+        "path_with_type": "Xã Mai Long, Huyện Nguyên Bình, Tỉnh Cao Bằng",
+        "code": "01756",
+        "parent_code": "052"
+    },
+    "01759": {
+        "name": "Lang Môn",
+        "type": "xa",
+        "slug": "lang-mon",
+        "name_with_type": "Xã Lang Môn",
+        "path": "Lang Môn, Nguyên Bình, Cao Bằng",
+        "path_with_type": "Xã Lang Môn, Huyện Nguyên Bình, Tỉnh Cao Bằng",
+        "code": "01759",
+        "parent_code": "052"
+    },
+    "01762": {
+        "name": "Minh Thanh",
+        "type": "xa",
+        "slug": "minh-thanh",
+        "name_with_type": "Xã Minh Thanh",
+        "path": "Minh Thanh, Nguyên Bình, Cao Bằng",
+        "path_with_type": "Xã Minh Thanh, Huyện Nguyên Bình, Tỉnh Cao Bằng",
+        "code": "01762",
+        "parent_code": "052"
+    },
+    "01765": {
+        "name": "Hoa Thám",
+        "type": "xa",
+        "slug": "hoa-tham",
+        "name_with_type": "Xã Hoa Thám",
+        "path": "Hoa Thám, Nguyên Bình, Cao Bằng",
+        "path_with_type": "Xã Hoa Thám, Huyện Nguyên Bình, Tỉnh Cao Bằng",
+        "code": "01765",
+        "parent_code": "052"
+    },
+    "01768": {
+        "name": "Phan Thanh",
+        "type": "xa",
+        "slug": "phan-thanh",
+        "name_with_type": "Xã Phan Thanh",
+        "path": "Phan Thanh, Nguyên Bình, Cao Bằng",
+        "path_with_type": "Xã Phan Thanh, Huyện Nguyên Bình, Tỉnh Cao Bằng",
+        "code": "01768",
+        "parent_code": "052"
+    },
+    "01771": {
+        "name": "Quang Thành",
+        "type": "xa",
+        "slug": "quang-thanh",
+        "name_with_type": "Xã Quang Thành",
+        "path": "Quang Thành, Nguyên Bình, Cao Bằng",
+        "path_with_type": "Xã Quang Thành, Huyện Nguyên Bình, Tỉnh Cao Bằng",
+        "code": "01771",
+        "parent_code": "052"
+    },
+    "01774": {
+        "name": "Tam Kim",
+        "type": "xa",
+        "slug": "tam-kim",
+        "name_with_type": "Xã Tam Kim",
+        "path": "Tam Kim, Nguyên Bình, Cao Bằng",
+        "path_with_type": "Xã Tam Kim, Huyện Nguyên Bình, Tỉnh Cao Bằng",
+        "code": "01774",
+        "parent_code": "052"
+    },
+    "01777": {
+        "name": "Thành Công",
+        "type": "xa",
+        "slug": "thanh-cong",
+        "name_with_type": "Xã Thành Công",
+        "path": "Thành Công, Nguyên Bình, Cao Bằng",
+        "path_with_type": "Xã Thành Công, Huyện Nguyên Bình, Tỉnh Cao Bằng",
+        "code": "01777",
+        "parent_code": "052"
+    },
+    "01780": {
+        "name": "Thịnh Vượng",
+        "type": "xa",
+        "slug": "thinh-vuong",
+        "name_with_type": "Xã Thịnh Vượng",
+        "path": "Thịnh Vượng, Nguyên Bình, Cao Bằng",
+        "path_with_type": "Xã Thịnh Vượng, Huyện Nguyên Bình, Tỉnh Cao Bằng",
+        "code": "01780",
+        "parent_code": "052"
+    },
+    "01783": {
+        "name": "Hưng Đạo",
+        "type": "xa",
+        "slug": "hung-dao",
+        "name_with_type": "Xã Hưng Đạo",
+        "path": "Hưng Đạo, Nguyên Bình, Cao Bằng",
+        "path_with_type": "Xã Hưng Đạo, Huyện Nguyên Bình, Tỉnh Cao Bằng",
+        "code": "01783",
+        "parent_code": "052"
+    }
+}

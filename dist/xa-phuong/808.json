@@ -1,0 +1,132 @@
+{
+    "28210": {
+        "name": "Tầm Vu",
+        "type": "thi-tran",
+        "slug": "tam-vu",
+        "name_with_type": "Thị trấn Tầm Vu",
+        "path": "Tầm Vu, Châu Thành, Long An",
+        "path_with_type": "Thị trấn Tầm Vu, Huyện Châu Thành, Tỉnh Long An",
+        "code": "28210",
+        "parent_code": "808"
+    },
+    "28213": {
+        "name": "Bình Quới",
+        "type": "xa",
+        "slug": "binh-quoi",
+        "name_with_type": "Xã Bình Quới",
+        "path": "Bình Quới, Châu Thành, Long An",
+        "path_with_type": "Xã Bình Quới, Huyện Châu Thành, Tỉnh Long An",
+        "code": "28213",
+        "parent_code": "808"
+    },
+    "28216": {
+        "name": "Hòa Phú",
+        "type": "xa",
+        "slug": "hoa-phu",
+        "name_with_type": "Xã Hòa Phú",
+        "path": "Hòa Phú, Châu Thành, Long An",
+        "path_with_type": "Xã Hòa Phú, Huyện Châu Thành, Tỉnh Long An",
+        "code": "28216",
+        "parent_code": "808"
+    },
+    "28219": {
+        "name": "Phú Ngãi Trị",
+        "type": "xa",
+        "slug": "phu-ngai-tri",
+        "name_with_type": "Xã Phú Ngãi Trị",
+        "path": "Phú Ngãi Trị, Châu Thành, Long An",
+        "path_with_type": "Xã Phú Ngãi Trị, Huyện Châu Thành, Tỉnh Long An",
+        "code": "28219",
+        "parent_code": "808"
+    },
+    "28222": {
+        "name": "Vĩnh Công",
+        "type": "xa",
+        "slug": "vinh-cong",
+        "name_with_type": "Xã Vĩnh Công",
+        "path": "Vĩnh Công, Châu Thành, Long An",
+        "path_with_type": "Xã Vĩnh Công, Huyện Châu Thành, Tỉnh Long An",
+        "code": "28222",
+        "parent_code": "808"
+    },
+    "28225": {
+        "name": "Thuận Mỹ",
+        "type": "xa",
+        "slug": "thuan-my",
+        "name_with_type": "Xã Thuận Mỹ",
+        "path": "Thuận Mỹ, Châu Thành, Long An",
+        "path_with_type": "Xã Thuận Mỹ, Huyện Châu Thành, Tỉnh Long An",
+        "code": "28225",
+        "parent_code": "808"
+    },
+    "28228": {
+        "name": "Hiệp Thạnh",
+        "type": "xa",
+        "slug": "hiep-thanh",
+        "name_with_type": "Xã Hiệp Thạnh",
+        "path": "Hiệp Thạnh, Châu Thành, Long An",
+        "path_with_type": "Xã Hiệp Thạnh, Huyện Châu Thành, Tỉnh Long An",
+        "code": "28228",
+        "parent_code": "808"
+    },
+    "28231": {
+        "name": "Phước Tân Hưng",
+        "type": "xa",
+        "slug": "phuoc-tan-hung",
+        "name_with_type": "Xã Phước Tân Hưng",
+        "path": "Phước Tân Hưng, Châu Thành, Long An",
+        "path_with_type": "Xã Phước Tân Hưng, Huyện Châu Thành, Tỉnh Long An",
+        "code": "28231",
+        "parent_code": "808"
+    },
+    "28234": {
+        "name": "Thanh Phú Long",
+        "type": "xa",
+        "slug": "thanh-phu-long",
+        "name_with_type": "Xã Thanh Phú Long",
+        "path": "Thanh Phú Long, Châu Thành, Long An",
+        "path_with_type": "Xã Thanh Phú Long, Huyện Châu Thành, Tỉnh Long An",
+        "code": "28234",
+        "parent_code": "808"
+    },
+    "28237": {
+        "name": "Dương Xuân Hội",
+        "type": "xa",
+        "slug": "duong-xuan-hoi",
+        "name_with_type": "Xã Dương Xuân Hội",
+        "path": "Dương Xuân Hội, Châu Thành, Long An",
+        "path_with_type": "Xã Dương Xuân Hội, Huyện Châu Thành, Tỉnh Long An",
+        "code": "28237",
+        "parent_code": "808"
+    },
+    "28240": {
+        "name": "An Lục Long",
+        "type": "xa",
+        "slug": "an-luc-long",
+        "name_with_type": "Xã An Lục Long",
+        "path": "An Lục Long, Châu Thành, Long An",
+        "path_with_type": "Xã An Lục Long, Huyện Châu Thành, Tỉnh Long An",
+        "code": "28240",
+        "parent_code": "808"
+    },
+    "28243": {
+        "name": "Long Trì",
+        "type": "xa",
+        "slug": "long-tri",
+        "name_with_type": "Xã Long Trì",
+        "path": "Long Trì, Châu Thành, Long An",
+        "path_with_type": "Xã Long Trì, Huyện Châu Thành, Tỉnh Long An",
+        "code": "28243",
+        "parent_code": "808"
+    },
+    "28246": {
+        "name": "Thanh Vĩnh Đông",
+        "type": "xa",
+        "slug": "thanh-vinh-dong",
+        "name_with_type": "Xã Thanh Vĩnh Đông",
+        "path": "Thanh Vĩnh Đông, Châu Thành, Long An",
+        "path_with_type": "Xã Thanh Vĩnh Đông, Huyện Châu Thành, Tỉnh Long An",
+        "code": "28246",
+        "parent_code": "808"
+    }
+}

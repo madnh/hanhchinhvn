@@ -1,0 +1,142 @@
+{
+    "25741": {
+        "name": "Hiệp Thành",
+        "type": "phuong",
+        "slug": "hiep-thanh",
+        "name_with_type": "Phường Hiệp Thành",
+        "path": "Hiệp Thành, Thủ Dầu Một, Bình Dương",
+        "path_with_type": "Phường Hiệp Thành, Thành phố Thủ Dầu Một, Tỉnh Bình Dương",
+        "code": "25741",
+        "parent_code": "718"
+    },
+    "25744": {
+        "name": "Phú Lợi",
+        "type": "phuong",
+        "slug": "phu-loi",
+        "name_with_type": "Phường Phú Lợi",
+        "path": "Phú Lợi, Thủ Dầu Một, Bình Dương",
+        "path_with_type": "Phường Phú Lợi, Thành phố Thủ Dầu Một, Tỉnh Bình Dương",
+        "code": "25744",
+        "parent_code": "718"
+    },
+    "25747": {
+        "name": "Phú Cường",
+        "type": "phuong",
+        "slug": "phu-cuong",
+        "name_with_type": "Phường Phú Cường",
+        "path": "Phú Cường, Thủ Dầu Một, Bình Dương",
+        "path_with_type": "Phường Phú Cường, Thành phố Thủ Dầu Một, Tỉnh Bình Dương",
+        "code": "25747",
+        "parent_code": "718"
+    },
+    "25750": {
+        "name": "Phú Hòa",
+        "type": "phuong",
+        "slug": "phu-hoa",
+        "name_with_type": "Phường Phú Hòa",
+        "path": "Phú Hòa, Thủ Dầu Một, Bình Dương",
+        "path_with_type": "Phường Phú Hòa, Thành phố Thủ Dầu Một, Tỉnh Bình Dương",
+        "code": "25750",
+        "parent_code": "718"
+    },
+    "25753": {
+        "name": "Phú Thọ",
+        "type": "phuong",
+        "slug": "phu-tho",
+        "name_with_type": "Phường Phú Thọ",
+        "path": "Phú Thọ, Thủ Dầu Một, Bình Dương",
+        "path_with_type": "Phường Phú Thọ, Thành phố Thủ Dầu Một, Tỉnh Bình Dương",
+        "code": "25753",
+        "parent_code": "718"
+    },
+    "25756": {
+        "name": "Chánh Nghĩa",
+        "type": "phuong",
+        "slug": "chanh-nghia",
+        "name_with_type": "Phường Chánh Nghĩa",
+        "path": "Chánh Nghĩa, Thủ Dầu Một, Bình Dương",
+        "path_with_type": "Phường Chánh Nghĩa, Thành phố Thủ Dầu Một, Tỉnh Bình Dương",
+        "code": "25756",
+        "parent_code": "718"
+    },
+    "25759": {
+        "name": "Định Hoà",
+        "type": "phuong",
+        "slug": "dinh-hoa",
+        "name_with_type": "Phường Định Hoà",
+        "path": "Định Hoà, Thủ Dầu Một, Bình Dương",
+        "path_with_type": "Phường Định Hoà, Thành phố Thủ Dầu Một, Tỉnh Bình Dương",
+        "code": "25759",
+        "parent_code": "718"
+    },
+    "25760": {
+        "name": "Hoà Phú",
+        "type": "phuong",
+        "slug": "hoa-phu",
+        "name_with_type": "Phường Hoà Phú",
+        "path": "Hoà Phú, Thủ Dầu Một, Bình Dương",
+        "path_with_type": "Phường Hoà Phú, Thành phố Thủ Dầu Một, Tỉnh Bình Dương",
+        "code": "25760",
+        "parent_code": "718"
+    },
+    "25762": {
+        "name": "Phú Mỹ",
+        "type": "phuong",
+        "slug": "phu-my",
+        "name_with_type": "Phường Phú Mỹ",
+        "path": "Phú Mỹ, Thủ Dầu Một, Bình Dương",
+        "path_with_type": "Phường Phú Mỹ, Thành phố Thủ Dầu Một, Tỉnh Bình Dương",
+        "code": "25762",
+        "parent_code": "718"
+    },
+    "25763": {
+        "name": "Phú Tân",
+        "type": "phuong",
+        "slug": "phu-tan",
+        "name_with_type": "Phường Phú Tân",
+        "path": "Phú Tân, Thủ Dầu Một, Bình Dương",
+        "path_with_type": "Phường Phú Tân, Thành phố Thủ Dầu Một, Tỉnh Bình Dương",
+        "code": "25763",
+        "parent_code": "718"
+    },
+    "25765": {
+        "name": "Tân An",
+        "type": "phuong",
+        "slug": "tan-an",
+        "name_with_type": "Phường Tân An",
+        "path": "Tân An, Thủ Dầu Một, Bình Dương",
+        "path_with_type": "Phường Tân An, Thành phố Thủ Dầu Một, Tỉnh Bình Dương",
+        "code": "25765",
+        "parent_code": "718"
+    },
+    "25768": {
+        "name": "Hiệp An",
+        "type": "phuong",
+        "slug": "hiep-an",
+        "name_with_type": "Phường Hiệp An",
+        "path": "Hiệp An, Thủ Dầu Một, Bình Dương",
+        "path_with_type": "Phường Hiệp An, Thành phố Thủ Dầu Một, Tỉnh Bình Dương",
+        "code": "25768",
+        "parent_code": "718"
+    },
+    "25771": {
+        "name": "Tương Bình Hiệp",
+        "type": "phuong",
+        "slug": "tuong-binh-hiep",
+        "name_with_type": "Phường Tương Bình Hiệp",
+        "path": "Tương Bình Hiệp, Thủ Dầu Một, Bình Dương",
+        "path_with_type": "Phường Tương Bình Hiệp, Thành phố Thủ Dầu Một, Tỉnh Bình Dương",
+        "code": "25771",
+        "parent_code": "718"
+    },
+    "25774": {
+        "name": "Chánh Mỹ",
+        "type": "phuong",
+        "slug": "chanh-my",
+        "name_with_type": "Phường Chánh Mỹ",
+        "path": "Chánh Mỹ, Thủ Dầu Một, Bình Dương",
+        "path_with_type": "Phường Chánh Mỹ, Thành phố Thủ Dầu Một, Tỉnh Bình Dương",
+        "code": "25774",
+        "parent_code": "718"
+    }
+}

@@ -1,0 +1,212 @@
+{
+    "17035": {
+        "name": "Quỳ Hợp",
+        "type": "thi-tran",
+        "slug": "quy-hop",
+        "name_with_type": "Thị trấn Quỳ Hợp",
+        "path": "Quỳ Hợp, Quỳ Hợp, Nghệ An",
+        "path_with_type": "Thị trấn Quỳ Hợp, Huyện Quỳ Hợp, Tỉnh Nghệ An",
+        "code": "17035",
+        "parent_code": "420"
+    },
+    "17038": {
+        "name": "Yên Hợp",
+        "type": "xa",
+        "slug": "yen-hop",
+        "name_with_type": "Xã Yên Hợp",
+        "path": "Yên Hợp, Quỳ Hợp, Nghệ An",
+        "path_with_type": "Xã Yên Hợp, Huyện Quỳ Hợp, Tỉnh Nghệ An",
+        "code": "17038",
+        "parent_code": "420"
+    },
+    "17041": {
+        "name": "Châu Tiến",
+        "type": "xa",
+        "slug": "chau-tien",
+        "name_with_type": "Xã Châu Tiến",
+        "path": "Châu Tiến, Quỳ Hợp, Nghệ An",
+        "path_with_type": "Xã Châu Tiến, Huyện Quỳ Hợp, Tỉnh Nghệ An",
+        "code": "17041",
+        "parent_code": "420"
+    },
+    "17044": {
+        "name": "Châu Hồng",
+        "type": "xa",
+        "slug": "chau-hong",
+        "name_with_type": "Xã Châu Hồng",
+        "path": "Châu Hồng, Quỳ Hợp, Nghệ An",
+        "path_with_type": "Xã Châu Hồng, Huyện Quỳ Hợp, Tỉnh Nghệ An",
+        "code": "17044",
+        "parent_code": "420"
+    },
+    "17047": {
+        "name": "Đồng Hợp",
+        "type": "xa",
+        "slug": "dong-hop",
+        "name_with_type": "Xã Đồng Hợp",
+        "path": "Đồng Hợp, Quỳ Hợp, Nghệ An",
+        "path_with_type": "Xã Đồng Hợp, Huyện Quỳ Hợp, Tỉnh Nghệ An",
+        "code": "17047",
+        "parent_code": "420"
+    },
+    "17050": {
+        "name": "Châu Thành",
+        "type": "xa",
+        "slug": "chau-thanh",
+        "name_with_type": "Xã Châu Thành",
+        "path": "Châu Thành, Quỳ Hợp, Nghệ An",
+        "path_with_type": "Xã Châu Thành, Huyện Quỳ Hợp, Tỉnh Nghệ An",
+        "code": "17050",
+        "parent_code": "420"
+    },
+    "17053": {
+        "name": "Liên Hợp",
+        "type": "xa",
+        "slug": "lien-hop",
+        "name_with_type": "Xã Liên Hợp",
+        "path": "Liên Hợp, Quỳ Hợp, Nghệ An",
+        "path_with_type": "Xã Liên Hợp, Huyện Quỳ Hợp, Tỉnh Nghệ An",
+        "code": "17053",
+        "parent_code": "420"
+    },
+    "17056": {
+        "name": "Châu Lộc",
+        "type": "xa",
+        "slug": "chau-loc",
+        "name_with_type": "Xã Châu Lộc",
+        "path": "Châu Lộc, Quỳ Hợp, Nghệ An",
+        "path_with_type": "Xã Châu Lộc, Huyện Quỳ Hợp, Tỉnh Nghệ An",
+        "code": "17056",
+        "parent_code": "420"
+    },
+    "17059": {
+        "name": "Tam Hợp",
+        "type": "xa",
+        "slug": "tam-hop",
+        "name_with_type": "Xã Tam Hợp",
+        "path": "Tam Hợp, Quỳ Hợp, Nghệ An",
+        "path_with_type": "Xã Tam Hợp, Huyện Quỳ Hợp, Tỉnh Nghệ An",
+        "code": "17059",
+        "parent_code": "420"
+    },
+    "17062": {
+        "name": "Châu Cường",
+        "type": "xa",
+        "slug": "chau-cuong",
+        "name_with_type": "Xã Châu Cường",
+        "path": "Châu Cường, Quỳ Hợp, Nghệ An",
+        "path_with_type": "Xã Châu Cường, Huyện Quỳ Hợp, Tỉnh Nghệ An",
+        "code": "17062",
+        "parent_code": "420"
+    },
+    "17065": {
+        "name": "Châu Quang",
+        "type": "xa",
+        "slug": "chau-quang",
+        "name_with_type": "Xã Châu Quang",
+        "path": "Châu Quang, Quỳ Hợp, Nghệ An",
+        "path_with_type": "Xã Châu Quang, Huyện Quỳ Hợp, Tỉnh Nghệ An",
+        "code": "17065",
+        "parent_code": "420"
+    },
+    "17068": {
+        "name": "Thọ Hợp",
+        "type": "xa",
+        "slug": "tho-hop",
+        "name_with_type": "Xã Thọ Hợp",
+        "path": "Thọ Hợp, Quỳ Hợp, Nghệ An",
+        "path_with_type": "Xã Thọ Hợp, Huyện Quỳ Hợp, Tỉnh Nghệ An",
+        "code": "17068",
+        "parent_code": "420"
+    },
+    "17071": {
+        "name": "Minh Hợp",
+        "type": "xa",
+        "slug": "minh-hop",
+        "name_with_type": "Xã Minh Hợp",
+        "path": "Minh Hợp, Quỳ Hợp, Nghệ An",
+        "path_with_type": "Xã Minh Hợp, Huyện Quỳ Hợp, Tỉnh Nghệ An",
+        "code": "17071",
+        "parent_code": "420"
+    },
+    "17074": {
+        "name": "Nghĩa Xuân",
+        "type": "xa",
+        "slug": "nghia-xuan",
+        "name_with_type": "Xã Nghĩa Xuân",
+        "path": "Nghĩa Xuân, Quỳ Hợp, Nghệ An",
+        "path_with_type": "Xã Nghĩa Xuân, Huyện Quỳ Hợp, Tỉnh Nghệ An",
+        "code": "17074",
+        "parent_code": "420"
+    },
+    "17077": {
+        "name": "Châu Thái",
+        "type": "xa",
+        "slug": "chau-thai",
+        "name_with_type": "Xã Châu Thái",
+        "path": "Châu Thái, Quỳ Hợp, Nghệ An",
+        "path_with_type": "Xã Châu Thái, Huyện Quỳ Hợp, Tỉnh Nghệ An",
+        "code": "17077",
+        "parent_code": "420"
+    },
+    "17080": {
+        "name": "Châu Đình",
+        "type": "xa",
+        "slug": "chau-dinh",
+        "name_with_type": "Xã Châu Đình",
+        "path": "Châu Đình, Quỳ Hợp, Nghệ An",
+        "path_with_type": "Xã Châu Đình, Huyện Quỳ Hợp, Tỉnh Nghệ An",
+        "code": "17080",
+        "parent_code": "420"
+    },
+    "17083": {
+        "name": "Văn Lợi",
+        "type": "xa",
+        "slug": "van-loi",
+        "name_with_type": "Xã Văn Lợi",
+        "path": "Văn Lợi, Quỳ Hợp, Nghệ An",
+        "path_with_type": "Xã Văn Lợi, Huyện Quỳ Hợp, Tỉnh Nghệ An",
+        "code": "17083",
+        "parent_code": "420"
+    },
+    "17086": {
+        "name": "Nam Sơn",
+        "type": "xa",
+        "slug": "nam-son",
+        "name_with_type": "Xã Nam Sơn",
+        "path": "Nam Sơn, Quỳ Hợp, Nghệ An",
+        "path_with_type": "Xã Nam Sơn, Huyện Quỳ Hợp, Tỉnh Nghệ An",
+        "code": "17086",
+        "parent_code": "420"
+    },
+    "17089": {
+        "name": "Châu Lý",
+        "type": "xa",
+        "slug": "chau-ly",
+        "name_with_type": "Xã Châu Lý",
+        "path": "Châu Lý, Quỳ Hợp, Nghệ An",
+        "path_with_type": "Xã Châu Lý, Huyện Quỳ Hợp, Tỉnh Nghệ An",
+        "code": "17089",
+        "parent_code": "420"
+    },
+    "17092": {
+        "name": "Hạ Sơn",
+        "type": "xa",
+        "slug": "ha-son",
+        "name_with_type": "Xã Hạ Sơn",
+        "path": "Hạ Sơn, Quỳ Hợp, Nghệ An",
+        "path_with_type": "Xã Hạ Sơn, Huyện Quỳ Hợp, Tỉnh Nghệ An",
+        "code": "17092",
+        "parent_code": "420"
+    },
+    "17095": {
+        "name": "Bắc Sơn",
+        "type": "xa",
+        "slug": "bac-son",
+        "name_with_type": "Xã Bắc Sơn",
+        "path": "Bắc Sơn, Quỳ Hợp, Nghệ An",
+        "path_with_type": "Xã Bắc Sơn, Huyện Quỳ Hợp, Tỉnh Nghệ An",
+        "code": "17095",
+        "parent_code": "420"
+    }
+}

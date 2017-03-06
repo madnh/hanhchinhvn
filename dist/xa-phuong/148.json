@@ -1,0 +1,152 @@
+{
+    "04789": {
+        "name": "Thái Bình",
+        "type": "phuong",
+        "slug": "thai-binh",
+        "name_with_type": "Phường Thái Bình",
+        "path": "Thái Bình, Hòa Bình, Hoà Bình",
+        "path_with_type": "Phường Thái Bình, Thành phố Hòa Bình, Tỉnh Hoà Bình",
+        "code": "04789",
+        "parent_code": "148"
+    },
+    "04792": {
+        "name": "Tân Hòa",
+        "type": "phuong",
+        "slug": "tan-hoa",
+        "name_with_type": "Phường Tân Hòa",
+        "path": "Tân Hòa, Hòa Bình, Hoà Bình",
+        "path_with_type": "Phường Tân Hòa, Thành phố Hòa Bình, Tỉnh Hoà Bình",
+        "code": "04792",
+        "parent_code": "148"
+    },
+    "04795": {
+        "name": "Thịnh Lang",
+        "type": "phuong",
+        "slug": "thinh-lang",
+        "name_with_type": "Phường Thịnh Lang",
+        "path": "Thịnh Lang, Hòa Bình, Hoà Bình",
+        "path_with_type": "Phường Thịnh Lang, Thành phố Hòa Bình, Tỉnh Hoà Bình",
+        "code": "04795",
+        "parent_code": "148"
+    },
+    "04798": {
+        "name": "Hữu Nghị",
+        "type": "phuong",
+        "slug": "huu-nghi",
+        "name_with_type": "Phường Hữu Nghị",
+        "path": "Hữu Nghị, Hòa Bình, Hoà Bình",
+        "path_with_type": "Phường Hữu Nghị, Thành phố Hòa Bình, Tỉnh Hoà Bình",
+        "code": "04798",
+        "parent_code": "148"
+    },
+    "04801": {
+        "name": "Tân Thịnh",
+        "type": "phuong",
+        "slug": "tan-thinh",
+        "name_with_type": "Phường Tân Thịnh",
+        "path": "Tân Thịnh, Hòa Bình, Hoà Bình",
+        "path_with_type": "Phường Tân Thịnh, Thành phố Hòa Bình, Tỉnh Hoà Bình",
+        "code": "04801",
+        "parent_code": "148"
+    },
+    "04804": {
+        "name": "Đồng Tiến",
+        "type": "phuong",
+        "slug": "dong-tien",
+        "name_with_type": "Phường Đồng Tiến",
+        "path": "Đồng Tiến, Hòa Bình, Hoà Bình",
+        "path_with_type": "Phường Đồng Tiến, Thành phố Hòa Bình, Tỉnh Hoà Bình",
+        "code": "04804",
+        "parent_code": "148"
+    },
+    "04807": {
+        "name": "Phương Lâm",
+        "type": "phuong",
+        "slug": "phuong-lam",
+        "name_with_type": "Phường Phương Lâm",
+        "path": "Phương Lâm, Hòa Bình, Hoà Bình",
+        "path_with_type": "Phường Phương Lâm, Thành phố Hòa Bình, Tỉnh Hoà Bình",
+        "code": "04807",
+        "parent_code": "148"
+    },
+    "04810": {
+        "name": "Chăm Mát",
+        "type": "phuong",
+        "slug": "cham-mat",
+        "name_with_type": "Phường Chăm Mát",
+        "path": "Chăm Mát, Hòa Bình, Hoà Bình",
+        "path_with_type": "Phường Chăm Mát, Thành phố Hòa Bình, Tỉnh Hoà Bình",
+        "code": "04810",
+        "parent_code": "148"
+    },
+    "04813": {
+        "name": "Yên Mông",
+        "type": "xa",
+        "slug": "yen-mong",
+        "name_with_type": "Xã Yên Mông",
+        "path": "Yên Mông, Hòa Bình, Hoà Bình",
+        "path_with_type": "Xã Yên Mông, Thành phố Hòa Bình, Tỉnh Hoà Bình",
+        "code": "04813",
+        "parent_code": "148"
+    },
+    "04816": {
+        "name": "Sủ Ngòi",
+        "type": "xa",
+        "slug": "su-ngoi",
+        "name_with_type": "Xã Sủ Ngòi",
+        "path": "Sủ Ngòi, Hòa Bình, Hoà Bình",
+        "path_with_type": "Xã Sủ Ngòi, Thành phố Hòa Bình, Tỉnh Hoà Bình",
+        "code": "04816",
+        "parent_code": "148"
+    },
+    "04819": {
+        "name": "Dân Chủ",
+        "type": "xa",
+        "slug": "dan-chu",
+        "name_with_type": "Xã Dân Chủ",
+        "path": "Dân Chủ, Hòa Bình, Hoà Bình",
+        "path_with_type": "Xã Dân Chủ, Thành phố Hòa Bình, Tỉnh Hoà Bình",
+        "code": "04819",
+        "parent_code": "148"
+    },
+    "04822": {
+        "name": "Thái Thịnh",
+        "type": "xa",
+        "slug": "thai-thinh",
+        "name_with_type": "Xã Thái Thịnh",
+        "path": "Thái Thịnh, Hòa Bình, Hoà Bình",
+        "path_with_type": "Xã Thái Thịnh, Thành phố Hòa Bình, Tỉnh Hoà Bình",
+        "code": "04822",
+        "parent_code": "148"
+    },
+    "04825": {
+        "name": "Hòa Bình",
+        "type": "xa",
+        "slug": "hoa-binh",
+        "name_with_type": "Xã Hòa Bình",
+        "path": "Hòa Bình, Hòa Bình, Hoà Bình",
+        "path_with_type": "Xã Hòa Bình, Thành phố Hòa Bình, Tỉnh Hoà Bình",
+        "code": "04825",
+        "parent_code": "148"
+    },
+    "04828": {
+        "name": "Thống Nhất",
+        "type": "xa",
+        "slug": "thong-nhat",
+        "name_with_type": "Xã Thống Nhất",
+        "path": "Thống Nhất, Hòa Bình, Hoà Bình",
+        "path_with_type": "Xã Thống Nhất, Thành phố Hòa Bình, Tỉnh Hoà Bình",
+        "code": "04828",
+        "parent_code": "148"
+    },
+    "04918": {
+        "name": "Trung Minh",
+        "type": "xa",
+        "slug": "trung-minh",
+        "name_with_type": "Xã Trung Minh",
+        "path": "Trung Minh, Hòa Bình, Hoà Bình",
+        "path_with_type": "Xã Trung Minh, Thành phố Hòa Bình, Tỉnh Hoà Bình",
+        "code": "04918",
+        "parent_code": "148"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "22834": {
+        "name": "Khánh Hải",
+        "type": "thi-tran",
+        "slug": "khanh-hai",
+        "name_with_type": "Thị trấn Khánh Hải",
+        "path": "Khánh Hải, Ninh Hải, Ninh Thuận",
+        "path_with_type": "Thị trấn Khánh Hải, Huyện Ninh Hải, Tỉnh Ninh Thuận",
+        "code": "22834",
+        "parent_code": "586"
+    },
+    "22846": {
+        "name": "Vĩnh Hải",
+        "type": "xa",
+        "slug": "vinh-hai",
+        "name_with_type": "Xã Vĩnh Hải",
+        "path": "Vĩnh Hải, Ninh Hải, Ninh Thuận",
+        "path_with_type": "Xã Vĩnh Hải, Huyện Ninh Hải, Tỉnh Ninh Thuận",
+        "code": "22846",
+        "parent_code": "586"
+    },
+    "22852": {
+        "name": "Phương Hải",
+        "type": "xa",
+        "slug": "phuong-hai",
+        "name_with_type": "Xã Phương Hải",
+        "path": "Phương Hải, Ninh Hải, Ninh Thuận",
+        "path_with_type": "Xã Phương Hải, Huyện Ninh Hải, Tỉnh Ninh Thuận",
+        "code": "22852",
+        "parent_code": "586"
+    },
+    "22855": {
+        "name": "Tân Hải",
+        "type": "xa",
+        "slug": "tan-hai",
+        "name_with_type": "Xã Tân Hải",
+        "path": "Tân Hải, Ninh Hải, Ninh Thuận",
+        "path_with_type": "Xã Tân Hải, Huyện Ninh Hải, Tỉnh Ninh Thuận",
+        "code": "22855",
+        "parent_code": "586"
+    },
+    "22858": {
+        "name": "Xuân Hải",
+        "type": "xa",
+        "slug": "xuan-hai",
+        "name_with_type": "Xã Xuân Hải",
+        "path": "Xuân Hải, Ninh Hải, Ninh Thuận",
+        "path_with_type": "Xã Xuân Hải, Huyện Ninh Hải, Tỉnh Ninh Thuận",
+        "code": "22858",
+        "parent_code": "586"
+    },
+    "22861": {
+        "name": "Hộ Hải",
+        "type": "xa",
+        "slug": "ho-hai",
+        "name_with_type": "Xã Hộ Hải",
+        "path": "Hộ Hải, Ninh Hải, Ninh Thuận",
+        "path_with_type": "Xã Hộ Hải, Huyện Ninh Hải, Tỉnh Ninh Thuận",
+        "code": "22861",
+        "parent_code": "586"
+    },
+    "22864": {
+        "name": "Tri Hải",
+        "type": "xa",
+        "slug": "tri-hai",
+        "name_with_type": "Xã Tri Hải",
+        "path": "Tri Hải, Ninh Hải, Ninh Thuận",
+        "path_with_type": "Xã Tri Hải, Huyện Ninh Hải, Tỉnh Ninh Thuận",
+        "code": "22864",
+        "parent_code": "586"
+    },
+    "22867": {
+        "name": "Nhơn Hải",
+        "type": "xa",
+        "slug": "nhon-hai",
+        "name_with_type": "Xã Nhơn Hải",
+        "path": "Nhơn Hải, Ninh Hải, Ninh Thuận",
+        "path_with_type": "Xã Nhơn Hải, Huyện Ninh Hải, Tỉnh Ninh Thuận",
+        "code": "22867",
+        "parent_code": "586"
+    },
+    "22868": {
+        "name": "Thanh Hải",
+        "type": "xa",
+        "slug": "thanh-hai",
+        "name_with_type": "Xã Thanh Hải",
+        "path": "Thanh Hải, Ninh Hải, Ninh Thuận",
+        "path_with_type": "Xã Thanh Hải, Huyện Ninh Hải, Tỉnh Ninh Thuận",
+        "code": "22868",
+        "parent_code": "586"
+    }
+}

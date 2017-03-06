@@ -1,0 +1,142 @@
+{
+    "23149": {
+        "name": "Lạc Tánh",
+        "type": "thi-tran",
+        "slug": "lac-tanh",
+        "name_with_type": "Thị trấn Lạc Tánh",
+        "path": "Lạc Tánh, Tánh Linh, Bình Thuận",
+        "path_with_type": "Thị trấn Lạc Tánh, Huyện Tánh Linh, Tỉnh Bình Thuận",
+        "code": "23149",
+        "parent_code": "599"
+    },
+    "23152": {
+        "name": "Bắc Ruộng",
+        "type": "xa",
+        "slug": "bac-ruong",
+        "name_with_type": "Xã Bắc Ruộng",
+        "path": "Bắc Ruộng, Tánh Linh, Bình Thuận",
+        "path_with_type": "Xã Bắc Ruộng, Huyện Tánh Linh, Tỉnh Bình Thuận",
+        "code": "23152",
+        "parent_code": "599"
+    },
+    "23155": {
+        "name": "Măng Tố",
+        "type": "xa",
+        "slug": "mang-to",
+        "name_with_type": "Xã Măng Tố",
+        "path": "Măng Tố, Tánh Linh, Bình Thuận",
+        "path_with_type": "Xã Măng Tố, Huyện Tánh Linh, Tỉnh Bình Thuận",
+        "code": "23155",
+        "parent_code": "599"
+    },
+    "23158": {
+        "name": "Nghị Đức",
+        "type": "xa",
+        "slug": "nghi-duc",
+        "name_with_type": "Xã Nghị Đức",
+        "path": "Nghị Đức, Tánh Linh, Bình Thuận",
+        "path_with_type": "Xã Nghị Đức, Huyện Tánh Linh, Tỉnh Bình Thuận",
+        "code": "23158",
+        "parent_code": "599"
+    },
+    "23161": {
+        "name": "La Ngâu",
+        "type": "xa",
+        "slug": "la-ngau",
+        "name_with_type": "Xã La Ngâu",
+        "path": "La Ngâu, Tánh Linh, Bình Thuận",
+        "path_with_type": "Xã La Ngâu, Huyện Tánh Linh, Tỉnh Bình Thuận",
+        "code": "23161",
+        "parent_code": "599"
+    },
+    "23164": {
+        "name": "Huy Khiêm",
+        "type": "xa",
+        "slug": "huy-khiem",
+        "name_with_type": "Xã Huy Khiêm",
+        "path": "Huy Khiêm, Tánh Linh, Bình Thuận",
+        "path_with_type": "Xã Huy Khiêm, Huyện Tánh Linh, Tỉnh Bình Thuận",
+        "code": "23164",
+        "parent_code": "599"
+    },
+    "23167": {
+        "name": "Đức Tân",
+        "type": "xa",
+        "slug": "duc-tan",
+        "name_with_type": "Xã Đức Tân",
+        "path": "Đức Tân, Tánh Linh, Bình Thuận",
+        "path_with_type": "Xã Đức Tân, Huyện Tánh Linh, Tỉnh Bình Thuận",
+        "code": "23167",
+        "parent_code": "599"
+    },
+    "23170": {
+        "name": "Đức Phú",
+        "type": "xa",
+        "slug": "duc-phu",
+        "name_with_type": "Xã Đức Phú",
+        "path": "Đức Phú, Tánh Linh, Bình Thuận",
+        "path_with_type": "Xã Đức Phú, Huyện Tánh Linh, Tỉnh Bình Thuận",
+        "code": "23170",
+        "parent_code": "599"
+    },
+    "23173": {
+        "name": "Đồng Kho",
+        "type": "xa",
+        "slug": "dong-kho",
+        "name_with_type": "Xã Đồng Kho",
+        "path": "Đồng Kho, Tánh Linh, Bình Thuận",
+        "path_with_type": "Xã Đồng Kho, Huyện Tánh Linh, Tỉnh Bình Thuận",
+        "code": "23173",
+        "parent_code": "599"
+    },
+    "23176": {
+        "name": "Gia An",
+        "type": "xa",
+        "slug": "gia-an",
+        "name_with_type": "Xã Gia An",
+        "path": "Gia An, Tánh Linh, Bình Thuận",
+        "path_with_type": "Xã Gia An, Huyện Tánh Linh, Tỉnh Bình Thuận",
+        "code": "23176",
+        "parent_code": "599"
+    },
+    "23179": {
+        "name": "Đức Bình",
+        "type": "xa",
+        "slug": "duc-binh",
+        "name_with_type": "Xã Đức Bình",
+        "path": "Đức Bình, Tánh Linh, Bình Thuận",
+        "path_with_type": "Xã Đức Bình, Huyện Tánh Linh, Tỉnh Bình Thuận",
+        "code": "23179",
+        "parent_code": "599"
+    },
+    "23182": {
+        "name": "Gia Huynh",
+        "type": "xa",
+        "slug": "gia-huynh",
+        "name_with_type": "Xã Gia Huynh",
+        "path": "Gia Huynh, Tánh Linh, Bình Thuận",
+        "path_with_type": "Xã Gia Huynh, Huyện Tánh Linh, Tỉnh Bình Thuận",
+        "code": "23182",
+        "parent_code": "599"
+    },
+    "23185": {
+        "name": "Đức Thuận",
+        "type": "xa",
+        "slug": "duc-thuan",
+        "name_with_type": "Xã Đức Thuận",
+        "path": "Đức Thuận, Tánh Linh, Bình Thuận",
+        "path_with_type": "Xã Đức Thuận, Huyện Tánh Linh, Tỉnh Bình Thuận",
+        "code": "23185",
+        "parent_code": "599"
+    },
+    "23188": {
+        "name": "Suối Kiết",
+        "type": "xa",
+        "slug": "suoi-kiet",
+        "name_with_type": "Xã Suối Kiết",
+        "path": "Suối Kiết, Tánh Linh, Bình Thuận",
+        "path_with_type": "Xã Suối Kiết, Huyện Tánh Linh, Tỉnh Bình Thuận",
+        "code": "23188",
+        "parent_code": "599"
+    }
+}

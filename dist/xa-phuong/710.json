@@ -1,0 +1,92 @@
+{
+    "25654": {
+        "name": "Gò Dầu",
+        "type": "thi-tran",
+        "slug": "go-dau",
+        "name_with_type": "Thị trấn Gò Dầu",
+        "path": "Gò Dầu, Gò Dầu, Tây Ninh",
+        "path_with_type": "Thị trấn Gò Dầu, Huyện Gò Dầu, Tỉnh Tây Ninh",
+        "code": "25654",
+        "parent_code": "710"
+    },
+    "25657": {
+        "name": "Thạnh Đức",
+        "type": "xa",
+        "slug": "thanh-duc",
+        "name_with_type": "Xã Thạnh Đức",
+        "path": "Thạnh Đức, Gò Dầu, Tây Ninh",
+        "path_with_type": "Xã Thạnh Đức, Huyện Gò Dầu, Tỉnh Tây Ninh",
+        "code": "25657",
+        "parent_code": "710"
+    },
+    "25660": {
+        "name": "Cẩm Giang",
+        "type": "xa",
+        "slug": "cam-giang",
+        "name_with_type": "Xã Cẩm Giang",
+        "path": "Cẩm Giang, Gò Dầu, Tây Ninh",
+        "path_with_type": "Xã Cẩm Giang, Huyện Gò Dầu, Tỉnh Tây Ninh",
+        "code": "25660",
+        "parent_code": "710"
+    },
+    "25663": {
+        "name": "Hiệp Thạnh",
+        "type": "xa",
+        "slug": "hiep-thanh",
+        "name_with_type": "Xã Hiệp Thạnh",
+        "path": "Hiệp Thạnh, Gò Dầu, Tây Ninh",
+        "path_with_type": "Xã Hiệp Thạnh, Huyện Gò Dầu, Tỉnh Tây Ninh",
+        "code": "25663",
+        "parent_code": "710"
+    },
+    "25666": {
+        "name": "Bàu Đồn",
+        "type": "xa",
+        "slug": "bau-don",
+        "name_with_type": "Xã Bàu Đồn",
+        "path": "Bàu Đồn, Gò Dầu, Tây Ninh",
+        "path_with_type": "Xã Bàu Đồn, Huyện Gò Dầu, Tỉnh Tây Ninh",
+        "code": "25666",
+        "parent_code": "710"
+    },
+    "25669": {
+        "name": "Phước Thạnh",
+        "type": "xa",
+        "slug": "phuoc-thanh",
+        "name_with_type": "Xã Phước Thạnh",
+        "path": "Phước Thạnh, Gò Dầu, Tây Ninh",
+        "path_with_type": "Xã Phước Thạnh, Huyện Gò Dầu, Tỉnh Tây Ninh",
+        "code": "25669",
+        "parent_code": "710"
+    },
+    "25672": {
+        "name": "Phước Đông",
+        "type": "xa",
+        "slug": "phuoc-dong",
+        "name_with_type": "Xã Phước Đông",
+        "path": "Phước Đông, Gò Dầu, Tây Ninh",
+        "path_with_type": "Xã Phước Đông, Huyện Gò Dầu, Tỉnh Tây Ninh",
+        "code": "25672",
+        "parent_code": "710"
+    },
+    "25675": {
+        "name": "Phước Trạch",
+        "type": "xa",
+        "slug": "phuoc-trach",
+        "name_with_type": "Xã Phước Trạch",
+        "path": "Phước Trạch, Gò Dầu, Tây Ninh",
+        "path_with_type": "Xã Phước Trạch, Huyện Gò Dầu, Tỉnh Tây Ninh",
+        "code": "25675",
+        "parent_code": "710"
+    },
+    "25678": {
+        "name": "Thanh Phước",
+        "type": "xa",
+        "slug": "thanh-phuoc",
+        "name_with_type": "Xã Thanh Phước",
+        "path": "Thanh Phước, Gò Dầu, Tây Ninh",
+        "path_with_type": "Xã Thanh Phước, Huyện Gò Dầu, Tỉnh Tây Ninh",
+        "code": "25678",
+        "parent_code": "710"
+    }
+}

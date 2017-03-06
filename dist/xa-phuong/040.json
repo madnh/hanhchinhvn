@@ -1,0 +1,112 @@
+{
+    "01267": {
+        "name": "Sông Hiến",
+        "type": "phuong",
+        "slug": "song-hien",
+        "name_with_type": "Phường Sông Hiến",
+        "path": "Sông Hiến, Cao Bằng, Cao Bằng",
+        "path_with_type": "Phường Sông Hiến, Thành phố Cao Bằng, Tỉnh Cao Bằng",
+        "code": "01267",
+        "parent_code": "040"
+    },
+    "01270": {
+        "name": "Sông Bằng",
+        "type": "phuong",
+        "slug": "song-bang",
+        "name_with_type": "Phường Sông Bằng",
+        "path": "Sông Bằng, Cao Bằng, Cao Bằng",
+        "path_with_type": "Phường Sông Bằng, Thành phố Cao Bằng, Tỉnh Cao Bằng",
+        "code": "01270",
+        "parent_code": "040"
+    },
+    "01273": {
+        "name": "Hợp Giang",
+        "type": "phuong",
+        "slug": "hop-giang",
+        "name_with_type": "Phường Hợp Giang",
+        "path": "Hợp Giang, Cao Bằng, Cao Bằng",
+        "path_with_type": "Phường Hợp Giang, Thành phố Cao Bằng, Tỉnh Cao Bằng",
+        "code": "01273",
+        "parent_code": "040"
+    },
+    "01276": {
+        "name": "Tân Giang",
+        "type": "phuong",
+        "slug": "tan-giang",
+        "name_with_type": "Phường Tân Giang",
+        "path": "Tân Giang, Cao Bằng, Cao Bằng",
+        "path_with_type": "Phường Tân Giang, Thành phố Cao Bằng, Tỉnh Cao Bằng",
+        "code": "01276",
+        "parent_code": "040"
+    },
+    "01279": {
+        "name": "Ngọc Xuân",
+        "type": "phuong",
+        "slug": "ngoc-xuan",
+        "name_with_type": "Phường Ngọc Xuân",
+        "path": "Ngọc Xuân, Cao Bằng, Cao Bằng",
+        "path_with_type": "Phường Ngọc Xuân, Thành phố Cao Bằng, Tỉnh Cao Bằng",
+        "code": "01279",
+        "parent_code": "040"
+    },
+    "01282": {
+        "name": "Đề Thám",
+        "type": "phuong",
+        "slug": "de-tham",
+        "name_with_type": "Phường Đề Thám",
+        "path": "Đề Thám, Cao Bằng, Cao Bằng",
+        "path_with_type": "Phường Đề Thám, Thành phố Cao Bằng, Tỉnh Cao Bằng",
+        "code": "01282",
+        "parent_code": "040"
+    },
+    "01285": {
+        "name": "Hoà Chung",
+        "type": "phuong",
+        "slug": "hoa-chung",
+        "name_with_type": "Phường Hoà Chung",
+        "path": "Hoà Chung, Cao Bằng, Cao Bằng",
+        "path_with_type": "Phường Hoà Chung, Thành phố Cao Bằng, Tỉnh Cao Bằng",
+        "code": "01285",
+        "parent_code": "040"
+    },
+    "01288": {
+        "name": "Duyệt Trung",
+        "type": "phuong",
+        "slug": "duyet-trung",
+        "name_with_type": "Phường Duyệt Trung",
+        "path": "Duyệt Trung, Cao Bằng, Cao Bằng",
+        "path_with_type": "Phường Duyệt Trung, Thành phố Cao Bằng, Tỉnh Cao Bằng",
+        "code": "01288",
+        "parent_code": "040"
+    },
+    "01693": {
+        "name": "Vĩnh Quang",
+        "type": "xa",
+        "slug": "vinh-quang",
+        "name_with_type": "Xã Vĩnh Quang",
+        "path": "Vĩnh Quang, Cao Bằng, Cao Bằng",
+        "path_with_type": "Xã Vĩnh Quang, Thành phố Cao Bằng, Tỉnh Cao Bằng",
+        "code": "01693",
+        "parent_code": "040"
+    },
+    "01705": {
+        "name": "Hưng Đạo",
+        "type": "xa",
+        "slug": "hung-dao",
+        "name_with_type": "Xã Hưng Đạo",
+        "path": "Hưng Đạo, Cao Bằng, Cao Bằng",
+        "path_with_type": "Xã Hưng Đạo, Thành phố Cao Bằng, Tỉnh Cao Bằng",
+        "code": "01705",
+        "parent_code": "040"
+    },
+    "01720": {
+        "name": "Chu Trinh",
+        "type": "xa",
+        "slug": "chu-trinh",
+        "name_with_type": "Xã Chu Trinh",
+        "path": "Chu Trinh, Cao Bằng, Cao Bằng",
+        "path_with_type": "Xã Chu Trinh, Thành phố Cao Bằng, Tỉnh Cao Bằng",
+        "code": "01720",
+        "parent_code": "040"
+    }
+}

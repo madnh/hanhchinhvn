@@ -1,0 +1,112 @@
+{
+    "25858": {
+        "name": "Phước Vĩnh",
+        "type": "thi-tran",
+        "slug": "phuoc-vinh",
+        "name_with_type": "Thị trấn Phước Vĩnh",
+        "path": "Phước Vĩnh, Phú Giáo, Bình Dương",
+        "path_with_type": "Thị trấn Phước Vĩnh, Huyện Phú Giáo, Tỉnh Bình Dương",
+        "code": "25858",
+        "parent_code": "722"
+    },
+    "25861": {
+        "name": "An Linh",
+        "type": "xa",
+        "slug": "an-linh",
+        "name_with_type": "Xã An Linh",
+        "path": "An Linh, Phú Giáo, Bình Dương",
+        "path_with_type": "Xã An Linh, Huyện Phú Giáo, Tỉnh Bình Dương",
+        "code": "25861",
+        "parent_code": "722"
+    },
+    "25864": {
+        "name": "Phước Sang",
+        "type": "xa",
+        "slug": "phuoc-sang",
+        "name_with_type": "Xã Phước Sang",
+        "path": "Phước Sang, Phú Giáo, Bình Dương",
+        "path_with_type": "Xã Phước Sang, Huyện Phú Giáo, Tỉnh Bình Dương",
+        "code": "25864",
+        "parent_code": "722"
+    },
+    "25865": {
+        "name": "An Thái",
+        "type": "xa",
+        "slug": "an-thai",
+        "name_with_type": "Xã An Thái",
+        "path": "An Thái, Phú Giáo, Bình Dương",
+        "path_with_type": "Xã An Thái, Huyện Phú Giáo, Tỉnh Bình Dương",
+        "code": "25865",
+        "parent_code": "722"
+    },
+    "25867": {
+        "name": "An Long",
+        "type": "xa",
+        "slug": "an-long",
+        "name_with_type": "Xã An Long",
+        "path": "An Long, Phú Giáo, Bình Dương",
+        "path_with_type": "Xã An Long, Huyện Phú Giáo, Tỉnh Bình Dương",
+        "code": "25867",
+        "parent_code": "722"
+    },
+    "25870": {
+        "name": "An Bình",
+        "type": "xa",
+        "slug": "an-binh",
+        "name_with_type": "Xã An Bình",
+        "path": "An Bình, Phú Giáo, Bình Dương",
+        "path_with_type": "Xã An Bình, Huyện Phú Giáo, Tỉnh Bình Dương",
+        "code": "25870",
+        "parent_code": "722"
+    },
+    "25873": {
+        "name": "Tân Hiệp",
+        "type": "xa",
+        "slug": "tan-hiep",
+        "name_with_type": "Xã Tân Hiệp",
+        "path": "Tân Hiệp, Phú Giáo, Bình Dương",
+        "path_with_type": "Xã Tân Hiệp, Huyện Phú Giáo, Tỉnh Bình Dương",
+        "code": "25873",
+        "parent_code": "722"
+    },
+    "25876": {
+        "name": "Tam Lập",
+        "type": "xa",
+        "slug": "tam-lap",
+        "name_with_type": "Xã Tam Lập",
+        "path": "Tam Lập, Phú Giáo, Bình Dương",
+        "path_with_type": "Xã Tam Lập, Huyện Phú Giáo, Tỉnh Bình Dương",
+        "code": "25876",
+        "parent_code": "722"
+    },
+    "25879": {
+        "name": "Tân Long",
+        "type": "xa",
+        "slug": "tan-long",
+        "name_with_type": "Xã Tân Long",
+        "path": "Tân Long, Phú Giáo, Bình Dương",
+        "path_with_type": "Xã Tân Long, Huyện Phú Giáo, Tỉnh Bình Dương",
+        "code": "25879",
+        "parent_code": "722"
+    },
+    "25882": {
+        "name": "Vĩnh Hoà",
+        "type": "xa",
+        "slug": "vinh-hoa",
+        "name_with_type": "Xã Vĩnh Hoà",
+        "path": "Vĩnh Hoà, Phú Giáo, Bình Dương",
+        "path_with_type": "Xã Vĩnh Hoà, Huyện Phú Giáo, Tỉnh Bình Dương",
+        "code": "25882",
+        "parent_code": "722"
+    },
+    "25885": {
+        "name": "Phước Hoà",
+        "type": "xa",
+        "slug": "phuoc-hoa",
+        "name_with_type": "Xã Phước Hoà",
+        "path": "Phước Hoà, Phú Giáo, Bình Dương",
+        "path_with_type": "Xã Phước Hoà, Huyện Phú Giáo, Tỉnh Bình Dương",
+        "code": "25885",
+        "parent_code": "722"
+    }
+}

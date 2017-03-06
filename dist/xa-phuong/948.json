@@ -1,0 +1,82 @@
+{
+    "31732": {
+        "name": "1",
+        "type": "phuong",
+        "slug": "1",
+        "name_with_type": "Phường 1",
+        "path": "1, Ngã Năm, Sóc Trăng",
+        "path_with_type": "Phường 1, Thị xã Ngã Năm, Tỉnh Sóc Trăng",
+        "code": "31732",
+        "parent_code": "948"
+    },
+    "31735": {
+        "name": "2",
+        "type": "phuong",
+        "slug": "2",
+        "name_with_type": "Phường 2",
+        "path": "2, Ngã Năm, Sóc Trăng",
+        "path_with_type": "Phường 2, Thị xã Ngã Năm, Tỉnh Sóc Trăng",
+        "code": "31735",
+        "parent_code": "948"
+    },
+    "31738": {
+        "name": "Vĩnh Quới",
+        "type": "xa",
+        "slug": "vinh-quoi",
+        "name_with_type": "Xã Vĩnh Quới",
+        "path": "Vĩnh Quới, Ngã Năm, Sóc Trăng",
+        "path_with_type": "Xã Vĩnh Quới, Thị xã Ngã Năm, Tỉnh Sóc Trăng",
+        "code": "31738",
+        "parent_code": "948"
+    },
+    "31741": {
+        "name": "Tân Long",
+        "type": "xa",
+        "slug": "tan-long",
+        "name_with_type": "Xã Tân Long",
+        "path": "Tân Long, Ngã Năm, Sóc Trăng",
+        "path_with_type": "Xã Tân Long, Thị xã Ngã Năm, Tỉnh Sóc Trăng",
+        "code": "31741",
+        "parent_code": "948"
+    },
+    "31744": {
+        "name": "Long Bình",
+        "type": "xa",
+        "slug": "long-binh",
+        "name_with_type": "Xã Long Bình",
+        "path": "Long Bình, Ngã Năm, Sóc Trăng",
+        "path_with_type": "Xã Long Bình, Thị xã Ngã Năm, Tỉnh Sóc Trăng",
+        "code": "31744",
+        "parent_code": "948"
+    },
+    "31747": {
+        "name": "3",
+        "type": "phuong",
+        "slug": "3",
+        "name_with_type": "Phường 3",
+        "path": "3, Ngã Năm, Sóc Trăng",
+        "path_with_type": "Phường 3, Thị xã Ngã Năm, Tỉnh Sóc Trăng",
+        "code": "31747",
+        "parent_code": "948"
+    },
+    "31750": {
+        "name": "Mỹ Bình",
+        "type": "xa",
+        "slug": "my-binh",
+        "name_with_type": "Xã Mỹ Bình",
+        "path": "Mỹ Bình, Ngã Năm, Sóc Trăng",
+        "path_with_type": "Xã Mỹ Bình, Thị xã Ngã Năm, Tỉnh Sóc Trăng",
+        "code": "31750",
+        "parent_code": "948"
+    },
+    "31753": {
+        "name": "Mỹ Quới",
+        "type": "xa",
+        "slug": "my-quoi",
+        "name_with_type": "Xã Mỹ Quới",
+        "path": "Mỹ Quới, Ngã Năm, Sóc Trăng",
+        "path_with_type": "Xã Mỹ Quới, Thị xã Ngã Năm, Tỉnh Sóc Trăng",
+        "code": "31753",
+        "parent_code": "948"
+    }
+}

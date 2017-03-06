@@ -1,0 +1,212 @@
+{
+    "10750": {
+        "name": "Phú Thái",
+        "type": "thi-tran",
+        "slug": "phu-thai",
+        "name_with_type": "Thị trấn Phú Thái",
+        "path": "Phú Thái, Kim Thành, Hải Dương",
+        "path_with_type": "Thị trấn Phú Thái, Huyện Kim Thành, Tỉnh Hải Dương",
+        "code": "10750",
+        "parent_code": "293"
+    },
+    "10753": {
+        "name": "Lai Vu",
+        "type": "xa",
+        "slug": "lai-vu",
+        "name_with_type": "Xã Lai Vu",
+        "path": "Lai Vu, Kim Thành, Hải Dương",
+        "path_with_type": "Xã Lai Vu, Huyện Kim Thành, Tỉnh Hải Dương",
+        "code": "10753",
+        "parent_code": "293"
+    },
+    "10756": {
+        "name": "Cộng Hòa",
+        "type": "xa",
+        "slug": "cong-hoa",
+        "name_with_type": "Xã Cộng Hòa",
+        "path": "Cộng Hòa, Kim Thành, Hải Dương",
+        "path_with_type": "Xã Cộng Hòa, Huyện Kim Thành, Tỉnh Hải Dương",
+        "code": "10756",
+        "parent_code": "293"
+    },
+    "10759": {
+        "name": "Thượng Vũ",
+        "type": "xa",
+        "slug": "thuong-vu",
+        "name_with_type": "Xã Thượng Vũ",
+        "path": "Thượng Vũ, Kim Thành, Hải Dương",
+        "path_with_type": "Xã Thượng Vũ, Huyện Kim Thành, Tỉnh Hải Dương",
+        "code": "10759",
+        "parent_code": "293"
+    },
+    "10762": {
+        "name": "Cổ Dũng",
+        "type": "xa",
+        "slug": "co-dung",
+        "name_with_type": "Xã Cổ Dũng",
+        "path": "Cổ Dũng, Kim Thành, Hải Dương",
+        "path_with_type": "Xã Cổ Dũng, Huyện Kim Thành, Tỉnh Hải Dương",
+        "code": "10762",
+        "parent_code": "293"
+    },
+    "10765": {
+        "name": "Việt Hưng",
+        "type": "xa",
+        "slug": "viet-hung",
+        "name_with_type": "Xã Việt Hưng",
+        "path": "Việt Hưng, Kim Thành, Hải Dương",
+        "path_with_type": "Xã Việt Hưng, Huyện Kim Thành, Tỉnh Hải Dương",
+        "code": "10765",
+        "parent_code": "293"
+    },
+    "10768": {
+        "name": "Tuấn Hưng",
+        "type": "xa",
+        "slug": "tuan-hung",
+        "name_with_type": "Xã Tuấn Hưng",
+        "path": "Tuấn Hưng, Kim Thành, Hải Dương",
+        "path_with_type": "Xã Tuấn Hưng, Huyện Kim Thành, Tỉnh Hải Dương",
+        "code": "10768",
+        "parent_code": "293"
+    },
+    "10771": {
+        "name": "Kim Xuyên",
+        "type": "xa",
+        "slug": "kim-xuyen",
+        "name_with_type": "Xã Kim Xuyên",
+        "path": "Kim Xuyên, Kim Thành, Hải Dương",
+        "path_with_type": "Xã Kim Xuyên, Huyện Kim Thành, Tỉnh Hải Dương",
+        "code": "10771",
+        "parent_code": "293"
+    },
+    "10774": {
+        "name": "Phúc Thành A",
+        "type": "xa",
+        "slug": "phuc-thanh-a",
+        "name_with_type": "Xã Phúc Thành A",
+        "path": "Phúc Thành A, Kim Thành, Hải Dương",
+        "path_with_type": "Xã Phúc Thành A, Huyện Kim Thành, Tỉnh Hải Dương",
+        "code": "10774",
+        "parent_code": "293"
+    },
+    "10777": {
+        "name": "Ngũ Phúc",
+        "type": "xa",
+        "slug": "ngu-phuc",
+        "name_with_type": "Xã Ngũ Phúc",
+        "path": "Ngũ Phúc, Kim Thành, Hải Dương",
+        "path_with_type": "Xã Ngũ Phúc, Huyện Kim Thành, Tỉnh Hải Dương",
+        "code": "10777",
+        "parent_code": "293"
+    },
+    "10780": {
+        "name": "Kim Anh",
+        "type": "xa",
+        "slug": "kim-anh",
+        "name_with_type": "Xã Kim Anh",
+        "path": "Kim Anh, Kim Thành, Hải Dương",
+        "path_with_type": "Xã Kim Anh, Huyện Kim Thành, Tỉnh Hải Dương",
+        "code": "10780",
+        "parent_code": "293"
+    },
+    "10783": {
+        "name": "Kim Lương",
+        "type": "xa",
+        "slug": "kim-luong",
+        "name_with_type": "Xã Kim Lương",
+        "path": "Kim Lương, Kim Thành, Hải Dương",
+        "path_with_type": "Xã Kim Lương, Huyện Kim Thành, Tỉnh Hải Dương",
+        "code": "10783",
+        "parent_code": "293"
+    },
+    "10786": {
+        "name": "Kim Tân",
+        "type": "xa",
+        "slug": "kim-tan",
+        "name_with_type": "Xã Kim Tân",
+        "path": "Kim Tân, Kim Thành, Hải Dương",
+        "path_with_type": "Xã Kim Tân, Huyện Kim Thành, Tỉnh Hải Dương",
+        "code": "10786",
+        "parent_code": "293"
+    },
+    "10789": {
+        "name": "Kim Khê",
+        "type": "xa",
+        "slug": "kim-khe",
+        "name_with_type": "Xã Kim Khê",
+        "path": "Kim Khê, Kim Thành, Hải Dương",
+        "path_with_type": "Xã Kim Khê, Huyện Kim Thành, Tỉnh Hải Dương",
+        "code": "10789",
+        "parent_code": "293"
+    },
+    "10792": {
+        "name": "Kim Đính",
+        "type": "xa",
+        "slug": "kim-dinh",
+        "name_with_type": "Xã Kim Đính",
+        "path": "Kim Đính, Kim Thành, Hải Dương",
+        "path_with_type": "Xã Kim Đính, Huyện Kim Thành, Tỉnh Hải Dương",
+        "code": "10792",
+        "parent_code": "293"
+    },
+    "10795": {
+        "name": "Cẩm La",
+        "type": "xa",
+        "slug": "cam-la",
+        "name_with_type": "Xã Cẩm La",
+        "path": "Cẩm La, Kim Thành, Hải Dương",
+        "path_with_type": "Xã Cẩm La, Huyện Kim Thành, Tỉnh Hải Dương",
+        "code": "10795",
+        "parent_code": "293"
+    },
+    "10798": {
+        "name": "Bình Dân",
+        "type": "xa",
+        "slug": "binh-dan",
+        "name_with_type": "Xã Bình Dân",
+        "path": "Bình Dân, Kim Thành, Hải Dương",
+        "path_with_type": "Xã Bình Dân, Huyện Kim Thành, Tỉnh Hải Dương",
+        "code": "10798",
+        "parent_code": "293"
+    },
+    "10801": {
+        "name": "Tam Kỳ",
+        "type": "xa",
+        "slug": "tam-ky",
+        "name_with_type": "Xã Tam Kỳ",
+        "path": "Tam Kỳ, Kim Thành, Hải Dương",
+        "path_with_type": "Xã Tam Kỳ, Huyện Kim Thành, Tỉnh Hải Dương",
+        "code": "10801",
+        "parent_code": "293"
+    },
+    "10804": {
+        "name": "Đồng Gia",
+        "type": "xa",
+        "slug": "dong-gia",
+        "name_with_type": "Xã Đồng Gia",
+        "path": "Đồng Gia, Kim Thành, Hải Dương",
+        "path_with_type": "Xã Đồng Gia, Huyện Kim Thành, Tỉnh Hải Dương",
+        "code": "10804",
+        "parent_code": "293"
+    },
+    "10807": {
+        "name": "Liên Hòa",
+        "type": "xa",
+        "slug": "lien-hoa",
+        "name_with_type": "Xã Liên Hòa",
+        "path": "Liên Hòa, Kim Thành, Hải Dương",
+        "path_with_type": "Xã Liên Hòa, Huyện Kim Thành, Tỉnh Hải Dương",
+        "code": "10807",
+        "parent_code": "293"
+    },
+    "10810": {
+        "name": "Đại Đức",
+        "type": "xa",
+        "slug": "dai-duc",
+        "name_with_type": "Xã Đại Đức",
+        "path": "Đại Đức, Kim Thành, Hải Dương",
+        "path_with_type": "Xã Đại Đức, Huyện Kim Thành, Tỉnh Hải Dương",
+        "code": "10810",
+        "parent_code": "293"
+    }
+}

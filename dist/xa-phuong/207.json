@@ -1,0 +1,32 @@
+{
+    "07192": {
+        "name": "Cô Tô",
+        "type": "thi-tran",
+        "slug": "co-to",
+        "name_with_type": "Thị trấn Cô Tô",
+        "path": "Cô Tô, Cô Tô, Quảng Ninh",
+        "path_with_type": "Thị trấn Cô Tô, Huyện Cô Tô, Tỉnh Quảng Ninh",
+        "code": "07192",
+        "parent_code": "207"
+    },
+    "07195": {
+        "name": "Đồng Tiến",
+        "type": "xa",
+        "slug": "dong-tien",
+        "name_with_type": "Xã Đồng Tiến",
+        "path": "Đồng Tiến, Cô Tô, Quảng Ninh",
+        "path_with_type": "Xã Đồng Tiến, Huyện Cô Tô, Tỉnh Quảng Ninh",
+        "code": "07195",
+        "parent_code": "207"
+    },
+    "07198": {
+        "name": "Thanh Lân",
+        "type": "xa",
+        "slug": "thanh-lan",
+        "name_with_type": "Xã Thanh Lân",
+        "path": "Thanh Lân, Cô Tô, Quảng Ninh",
+        "path_with_type": "Xã Thanh Lân, Huyện Cô Tô, Tỉnh Quảng Ninh",
+        "code": "07198",
+        "parent_code": "207"
+    }
+}

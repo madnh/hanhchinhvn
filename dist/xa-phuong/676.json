@@ -1,0 +1,162 @@
+{
+    "24868": {
+        "name": "Nam Ban",
+        "type": "thi-tran",
+        "slug": "nam-ban",
+        "name_with_type": "Thị trấn Nam Ban",
+        "path": "Nam Ban, Lâm Hà, Lâm Đồng",
+        "path_with_type": "Thị trấn Nam Ban, Huyện Lâm Hà, Tỉnh Lâm Đồng",
+        "code": "24868",
+        "parent_code": "676"
+    },
+    "24871": {
+        "name": "Đinh Văn",
+        "type": "thi-tran",
+        "slug": "dinh-van",
+        "name_with_type": "Thị trấn Đinh Văn",
+        "path": "Đinh Văn, Lâm Hà, Lâm Đồng",
+        "path_with_type": "Thị trấn Đinh Văn, Huyện Lâm Hà, Tỉnh Lâm Đồng",
+        "code": "24871",
+        "parent_code": "676"
+    },
+    "24880": {
+        "name": "Phú Sơn",
+        "type": "xa",
+        "slug": "phu-son",
+        "name_with_type": "Xã Phú Sơn",
+        "path": "Phú Sơn, Lâm Hà, Lâm Đồng",
+        "path_with_type": "Xã Phú Sơn, Huyện Lâm Hà, Tỉnh Lâm Đồng",
+        "code": "24880",
+        "parent_code": "676"
+    },
+    "24883": {
+        "name": "Phi Tô",
+        "type": "xa",
+        "slug": "phi-to",
+        "name_with_type": "Xã Phi Tô",
+        "path": "Phi Tô, Lâm Hà, Lâm Đồng",
+        "path_with_type": "Xã Phi Tô, Huyện Lâm Hà, Tỉnh Lâm Đồng",
+        "code": "24883",
+        "parent_code": "676"
+    },
+    "24892": {
+        "name": "Mê Linh",
+        "type": "xa",
+        "slug": "me-linh",
+        "name_with_type": "Xã Mê Linh",
+        "path": "Mê Linh, Lâm Hà, Lâm Đồng",
+        "path_with_type": "Xã Mê Linh, Huyện Lâm Hà, Tỉnh Lâm Đồng",
+        "code": "24892",
+        "parent_code": "676"
+    },
+    "24895": {
+        "name": "Đạ Đờn",
+        "type": "xa",
+        "slug": "da-don",
+        "name_with_type": "Xã Đạ Đờn",
+        "path": "Đạ Đờn, Lâm Hà, Lâm Đồng",
+        "path_with_type": "Xã Đạ Đờn, Huyện Lâm Hà, Tỉnh Lâm Đồng",
+        "code": "24895",
+        "parent_code": "676"
+    },
+    "24898": {
+        "name": "Phúc Thọ",
+        "type": "xa",
+        "slug": "phuc-tho",
+        "name_with_type": "Xã Phúc Thọ",
+        "path": "Phúc Thọ, Lâm Hà, Lâm Đồng",
+        "path_with_type": "Xã Phúc Thọ, Huyện Lâm Hà, Tỉnh Lâm Đồng",
+        "code": "24898",
+        "parent_code": "676"
+    },
+    "24901": {
+        "name": "Đông Thanh",
+        "type": "xa",
+        "slug": "dong-thanh",
+        "name_with_type": "Xã Đông Thanh",
+        "path": "Đông Thanh, Lâm Hà, Lâm Đồng",
+        "path_with_type": "Xã Đông Thanh, Huyện Lâm Hà, Tỉnh Lâm Đồng",
+        "code": "24901",
+        "parent_code": "676"
+    },
+    "24904": {
+        "name": "Gia Lâm",
+        "type": "xa",
+        "slug": "gia-lam",
+        "name_with_type": "Xã Gia Lâm",
+        "path": "Gia Lâm, Lâm Hà, Lâm Đồng",
+        "path_with_type": "Xã Gia Lâm, Huyện Lâm Hà, Tỉnh Lâm Đồng",
+        "code": "24904",
+        "parent_code": "676"
+    },
+    "24907": {
+        "name": "Tân Thanh",
+        "type": "xa",
+        "slug": "tan-thanh",
+        "name_with_type": "Xã Tân Thanh",
+        "path": "Tân Thanh, Lâm Hà, Lâm Đồng",
+        "path_with_type": "Xã Tân Thanh, Huyện Lâm Hà, Tỉnh Lâm Đồng",
+        "code": "24907",
+        "parent_code": "676"
+    },
+    "24910": {
+        "name": "Tân Văn",
+        "type": "xa",
+        "slug": "tan-van",
+        "name_with_type": "Xã Tân Văn",
+        "path": "Tân Văn, Lâm Hà, Lâm Đồng",
+        "path_with_type": "Xã Tân Văn, Huyện Lâm Hà, Tỉnh Lâm Đồng",
+        "code": "24910",
+        "parent_code": "676"
+    },
+    "24913": {
+        "name": "Hoài Đức",
+        "type": "xa",
+        "slug": "hoai-duc",
+        "name_with_type": "Xã Hoài Đức",
+        "path": "Hoài Đức, Lâm Hà, Lâm Đồng",
+        "path_with_type": "Xã Hoài Đức, Huyện Lâm Hà, Tỉnh Lâm Đồng",
+        "code": "24913",
+        "parent_code": "676"
+    },
+    "24916": {
+        "name": "Tân Hà",
+        "type": "xa",
+        "slug": "tan-ha",
+        "name_with_type": "Xã Tân Hà",
+        "path": "Tân Hà, Lâm Hà, Lâm Đồng",
+        "path_with_type": "Xã Tân Hà, Huyện Lâm Hà, Tỉnh Lâm Đồng",
+        "code": "24916",
+        "parent_code": "676"
+    },
+    "24919": {
+        "name": "Liên Hà",
+        "type": "xa",
+        "slug": "lien-ha",
+        "name_with_type": "Xã Liên Hà",
+        "path": "Liên Hà, Lâm Hà, Lâm Đồng",
+        "path_with_type": "Xã Liên Hà, Huyện Lâm Hà, Tỉnh Lâm Đồng",
+        "code": "24919",
+        "parent_code": "676"
+    },
+    "24922": {
+        "name": "Đan Phượng",
+        "type": "xa",
+        "slug": "dan-phuong",
+        "name_with_type": "Xã Đan Phượng",
+        "path": "Đan Phượng, Lâm Hà, Lâm Đồng",
+        "path_with_type": "Xã Đan Phượng, Huyện Lâm Hà, Tỉnh Lâm Đồng",
+        "code": "24922",
+        "parent_code": "676"
+    },
+    "24925": {
+        "name": "Nam Hà",
+        "type": "xa",
+        "slug": "nam-ha",
+        "name_with_type": "Xã Nam Hà",
+        "path": "Nam Hà, Lâm Hà, Lâm Đồng",
+        "path_with_type": "Xã Nam Hà, Huyện Lâm Hà, Tỉnh Lâm Đồng",
+        "code": "24925",
+        "parent_code": "676"
+    }
+}

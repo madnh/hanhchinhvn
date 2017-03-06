@@ -1,0 +1,132 @@
+{
+    "20899": {
+        "name": "Trà My",
+        "type": "thi-tran",
+        "slug": "tra-my",
+        "name_with_type": "Thị trấn Trà My",
+        "path": "Trà My, Bắc Trà My, Quảng Nam",
+        "path_with_type": "Thị trấn Trà My, Huyện Bắc Trà My, Tỉnh Quảng Nam",
+        "code": "20899",
+        "parent_code": "515"
+    },
+    "20900": {
+        "name": "Trà Sơn",
+        "type": "xa",
+        "slug": "tra-son",
+        "name_with_type": "Xã Trà Sơn",
+        "path": "Trà Sơn, Bắc Trà My, Quảng Nam",
+        "path_with_type": "Xã Trà Sơn, Huyện Bắc Trà My, Tỉnh Quảng Nam",
+        "code": "20900",
+        "parent_code": "515"
+    },
+    "20902": {
+        "name": "Trà Kót",
+        "type": "xa",
+        "slug": "tra-kot",
+        "name_with_type": "Xã Trà Kót",
+        "path": "Trà Kót, Bắc Trà My, Quảng Nam",
+        "path_with_type": "Xã Trà Kót, Huyện Bắc Trà My, Tỉnh Quảng Nam",
+        "code": "20902",
+        "parent_code": "515"
+    },
+    "20905": {
+        "name": "Trà Nú",
+        "type": "xa",
+        "slug": "tra-nu",
+        "name_with_type": "Xã Trà Nú",
+        "path": "Trà Nú, Bắc Trà My, Quảng Nam",
+        "path_with_type": "Xã Trà Nú, Huyện Bắc Trà My, Tỉnh Quảng Nam",
+        "code": "20905",
+        "parent_code": "515"
+    },
+    "20908": {
+        "name": "Trà Đông",
+        "type": "xa",
+        "slug": "tra-dong",
+        "name_with_type": "Xã Trà Đông",
+        "path": "Trà Đông, Bắc Trà My, Quảng Nam",
+        "path_with_type": "Xã Trà Đông, Huyện Bắc Trà My, Tỉnh Quảng Nam",
+        "code": "20908",
+        "parent_code": "515"
+    },
+    "20911": {
+        "name": "Trà Dương",
+        "type": "xa",
+        "slug": "tra-duong",
+        "name_with_type": "Xã Trà Dương",
+        "path": "Trà Dương, Bắc Trà My, Quảng Nam",
+        "path_with_type": "Xã Trà Dương, Huyện Bắc Trà My, Tỉnh Quảng Nam",
+        "code": "20911",
+        "parent_code": "515"
+    },
+    "20914": {
+        "name": "Trà Giang",
+        "type": "xa",
+        "slug": "tra-giang",
+        "name_with_type": "Xã Trà Giang",
+        "path": "Trà Giang, Bắc Trà My, Quảng Nam",
+        "path_with_type": "Xã Trà Giang, Huyện Bắc Trà My, Tỉnh Quảng Nam",
+        "code": "20914",
+        "parent_code": "515"
+    },
+    "20917": {
+        "name": "Trà Bui",
+        "type": "xa",
+        "slug": "tra-bui",
+        "name_with_type": "Xã Trà Bui",
+        "path": "Trà Bui, Bắc Trà My, Quảng Nam",
+        "path_with_type": "Xã Trà Bui, Huyện Bắc Trà My, Tỉnh Quảng Nam",
+        "code": "20917",
+        "parent_code": "515"
+    },
+    "20920": {
+        "name": "Trà Đốc",
+        "type": "xa",
+        "slug": "tra-doc",
+        "name_with_type": "Xã Trà Đốc",
+        "path": "Trà Đốc, Bắc Trà My, Quảng Nam",
+        "path_with_type": "Xã Trà Đốc, Huyện Bắc Trà My, Tỉnh Quảng Nam",
+        "code": "20920",
+        "parent_code": "515"
+    },
+    "20923": {
+        "name": "Trà Tân",
+        "type": "xa",
+        "slug": "tra-tan",
+        "name_with_type": "Xã Trà Tân",
+        "path": "Trà Tân, Bắc Trà My, Quảng Nam",
+        "path_with_type": "Xã Trà Tân, Huyện Bắc Trà My, Tỉnh Quảng Nam",
+        "code": "20923",
+        "parent_code": "515"
+    },
+    "20926": {
+        "name": "Trà Giác",
+        "type": "xa",
+        "slug": "tra-giac",
+        "name_with_type": "Xã Trà Giác",
+        "path": "Trà Giác, Bắc Trà My, Quảng Nam",
+        "path_with_type": "Xã Trà Giác, Huyện Bắc Trà My, Tỉnh Quảng Nam",
+        "code": "20926",
+        "parent_code": "515"
+    },
+    "20929": {
+        "name": "Trà Giáp",
+        "type": "xa",
+        "slug": "tra-giap",
+        "name_with_type": "Xã Trà Giáp",
+        "path": "Trà Giáp, Bắc Trà My, Quảng Nam",
+        "path_with_type": "Xã Trà Giáp, Huyện Bắc Trà My, Tỉnh Quảng Nam",
+        "code": "20929",
+        "parent_code": "515"
+    },
+    "20932": {
+        "name": "Trà Ka",
+        "type": "xa",
+        "slug": "tra-ka",
+        "name_with_type": "Xã Trà Ka",
+        "path": "Trà Ka, Bắc Trà My, Quảng Nam",
+        "path_with_type": "Xã Trà Ka, Huyện Bắc Trà My, Tỉnh Quảng Nam",
+        "code": "20932",
+        "parent_code": "515"
+    }
+}

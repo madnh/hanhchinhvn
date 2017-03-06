@@ -1,0 +1,102 @@
+{
+    "31783": {
+        "name": "1",
+        "type": "phuong",
+        "slug": "1",
+        "name_with_type": "Phường 1",
+        "path": "1, Vĩnh Châu, Sóc Trăng",
+        "path_with_type": "Phường 1, Thị xã Vĩnh Châu, Tỉnh Sóc Trăng",
+        "code": "31783",
+        "parent_code": "950"
+    },
+    "31786": {
+        "name": "Hòa Đông",
+        "type": "xa",
+        "slug": "hoa-dong",
+        "name_with_type": "Xã Hòa Đông",
+        "path": "Hòa Đông, Vĩnh Châu, Sóc Trăng",
+        "path_with_type": "Xã Hòa Đông, Thị xã Vĩnh Châu, Tỉnh Sóc Trăng",
+        "code": "31786",
+        "parent_code": "950"
+    },
+    "31789": {
+        "name": "Khánh Hòa",
+        "type": "phuong",
+        "slug": "khanh-hoa",
+        "name_with_type": "Phường Khánh Hòa",
+        "path": "Khánh Hòa, Vĩnh Châu, Sóc Trăng",
+        "path_with_type": "Phường Khánh Hòa, Thị xã Vĩnh Châu, Tỉnh Sóc Trăng",
+        "code": "31789",
+        "parent_code": "950"
+    },
+    "31792": {
+        "name": "Vĩnh Hiệp",
+        "type": "xa",
+        "slug": "vinh-hiep",
+        "name_with_type": "Xã Vĩnh Hiệp",
+        "path": "Vĩnh Hiệp, Vĩnh Châu, Sóc Trăng",
+        "path_with_type": "Xã Vĩnh Hiệp, Thị xã Vĩnh Châu, Tỉnh Sóc Trăng",
+        "code": "31792",
+        "parent_code": "950"
+    },
+    "31795": {
+        "name": "Vĩnh Hải",
+        "type": "xa",
+        "slug": "vinh-hai",
+        "name_with_type": "Xã Vĩnh Hải",
+        "path": "Vĩnh Hải, Vĩnh Châu, Sóc Trăng",
+        "path_with_type": "Xã Vĩnh Hải, Thị xã Vĩnh Châu, Tỉnh Sóc Trăng",
+        "code": "31795",
+        "parent_code": "950"
+    },
+    "31798": {
+        "name": "Lạc Hòa",
+        "type": "xa",
+        "slug": "lac-hoa",
+        "name_with_type": "Xã Lạc Hòa",
+        "path": "Lạc Hòa, Vĩnh Châu, Sóc Trăng",
+        "path_with_type": "Xã Lạc Hòa, Thị xã Vĩnh Châu, Tỉnh Sóc Trăng",
+        "code": "31798",
+        "parent_code": "950"
+    },
+    "31801": {
+        "name": "2",
+        "type": "phuong",
+        "slug": "2",
+        "name_with_type": "Phường 2",
+        "path": "2, Vĩnh Châu, Sóc Trăng",
+        "path_with_type": "Phường 2, Thị xã Vĩnh Châu, Tỉnh Sóc Trăng",
+        "code": "31801",
+        "parent_code": "950"
+    },
+    "31804": {
+        "name": "Vĩnh Phước",
+        "type": "phuong",
+        "slug": "vinh-phuoc",
+        "name_with_type": "Phường Vĩnh Phước",
+        "path": "Vĩnh Phước, Vĩnh Châu, Sóc Trăng",
+        "path_with_type": "Phường Vĩnh Phước, Thị xã Vĩnh Châu, Tỉnh Sóc Trăng",
+        "code": "31804",
+        "parent_code": "950"
+    },
+    "31807": {
+        "name": "Vĩnh Tân",
+        "type": "xa",
+        "slug": "vinh-tan",
+        "name_with_type": "Xã Vĩnh Tân",
+        "path": "Vĩnh Tân, Vĩnh Châu, Sóc Trăng",
+        "path_with_type": "Xã Vĩnh Tân, Thị xã Vĩnh Châu, Tỉnh Sóc Trăng",
+        "code": "31807",
+        "parent_code": "950"
+    },
+    "31810": {
+        "name": "Lai Hòa",
+        "type": "xa",
+        "slug": "lai-hoa",
+        "name_with_type": "Xã Lai Hòa",
+        "path": "Lai Hòa, Vĩnh Châu, Sóc Trăng",
+        "path_with_type": "Xã Lai Hòa, Thị xã Vĩnh Châu, Tỉnh Sóc Trăng",
+        "code": "31810",
+        "parent_code": "950"
+    }
+}

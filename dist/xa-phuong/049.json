@@ -1,0 +1,172 @@
+{
+    "01576": {
+        "name": "Quảng Uyên",
+        "type": "thi-tran",
+        "slug": "quang-uyen",
+        "name_with_type": "Thị trấn Quảng Uyên",
+        "path": "Quảng Uyên, Quảng Uyên, Cao Bằng",
+        "path_with_type": "Thị trấn Quảng Uyên, Huyện Quảng Uyên, Tỉnh Cao Bằng",
+        "code": "01576",
+        "parent_code": "049"
+    },
+    "01579": {
+        "name": "Phi Hải",
+        "type": "xa",
+        "slug": "phi-hai",
+        "name_with_type": "Xã Phi Hải",
+        "path": "Phi Hải, Quảng Uyên, Cao Bằng",
+        "path_with_type": "Xã Phi Hải, Huyện Quảng Uyên, Tỉnh Cao Bằng",
+        "code": "01579",
+        "parent_code": "049"
+    },
+    "01582": {
+        "name": "Quảng Hưng",
+        "type": "xa",
+        "slug": "quang-hung",
+        "name_with_type": "Xã Quảng Hưng",
+        "path": "Quảng Hưng, Quảng Uyên, Cao Bằng",
+        "path_with_type": "Xã Quảng Hưng, Huyện Quảng Uyên, Tỉnh Cao Bằng",
+        "code": "01582",
+        "parent_code": "049"
+    },
+    "01585": {
+        "name": "Bình Lăng",
+        "type": "xa",
+        "slug": "binh-lang",
+        "name_with_type": "Xã Bình Lăng",
+        "path": "Bình Lăng, Quảng Uyên, Cao Bằng",
+        "path_with_type": "Xã Bình Lăng, Huyện Quảng Uyên, Tỉnh Cao Bằng",
+        "code": "01585",
+        "parent_code": "049"
+    },
+    "01588": {
+        "name": "Quốc Dân",
+        "type": "xa",
+        "slug": "quoc-dan",
+        "name_with_type": "Xã Quốc Dân",
+        "path": "Quốc Dân, Quảng Uyên, Cao Bằng",
+        "path_with_type": "Xã Quốc Dân, Huyện Quảng Uyên, Tỉnh Cao Bằng",
+        "code": "01588",
+        "parent_code": "049"
+    },
+    "01591": {
+        "name": "Quốc Phong",
+        "type": "xa",
+        "slug": "quoc-phong",
+        "name_with_type": "Xã Quốc Phong",
+        "path": "Quốc Phong, Quảng Uyên, Cao Bằng",
+        "path_with_type": "Xã Quốc Phong, Huyện Quảng Uyên, Tỉnh Cao Bằng",
+        "code": "01591",
+        "parent_code": "049"
+    },
+    "01594": {
+        "name": "Độc Lập",
+        "type": "xa",
+        "slug": "doc-lap",
+        "name_with_type": "Xã Độc Lập",
+        "path": "Độc Lập, Quảng Uyên, Cao Bằng",
+        "path_with_type": "Xã Độc Lập, Huyện Quảng Uyên, Tỉnh Cao Bằng",
+        "code": "01594",
+        "parent_code": "049"
+    },
+    "01597": {
+        "name": "Cai Bộ",
+        "type": "xa",
+        "slug": "cai-bo",
+        "name_with_type": "Xã Cai Bộ",
+        "path": "Cai Bộ, Quảng Uyên, Cao Bằng",
+        "path_with_type": "Xã Cai Bộ, Huyện Quảng Uyên, Tỉnh Cao Bằng",
+        "code": "01597",
+        "parent_code": "049"
+    },
+    "01600": {
+        "name": "Đoài Khôn",
+        "type": "xa",
+        "slug": "doai-khon",
+        "name_with_type": "Xã Đoài Khôn",
+        "path": "Đoài Khôn, Quảng Uyên, Cao Bằng",
+        "path_with_type": "Xã Đoài Khôn, Huyện Quảng Uyên, Tỉnh Cao Bằng",
+        "code": "01600",
+        "parent_code": "049"
+    },
+    "01603": {
+        "name": "Phúc Sen",
+        "type": "xa",
+        "slug": "phuc-sen",
+        "name_with_type": "Xã Phúc Sen",
+        "path": "Phúc Sen, Quảng Uyên, Cao Bằng",
+        "path_with_type": "Xã Phúc Sen, Huyện Quảng Uyên, Tỉnh Cao Bằng",
+        "code": "01603",
+        "parent_code": "049"
+    },
+    "01606": {
+        "name": "Chí Thảo",
+        "type": "xa",
+        "slug": "chi-thao",
+        "name_with_type": "Xã Chí Thảo",
+        "path": "Chí Thảo, Quảng Uyên, Cao Bằng",
+        "path_with_type": "Xã Chí Thảo, Huyện Quảng Uyên, Tỉnh Cao Bằng",
+        "code": "01606",
+        "parent_code": "049"
+    },
+    "01609": {
+        "name": "Tự Do",
+        "type": "xa",
+        "slug": "tu-do",
+        "name_with_type": "Xã Tự Do",
+        "path": "Tự Do, Quảng Uyên, Cao Bằng",
+        "path_with_type": "Xã Tự Do, Huyện Quảng Uyên, Tỉnh Cao Bằng",
+        "code": "01609",
+        "parent_code": "049"
+    },
+    "01612": {
+        "name": "Hồng Định",
+        "type": "xa",
+        "slug": "hong-dinh",
+        "name_with_type": "Xã Hồng Định",
+        "path": "Hồng Định, Quảng Uyên, Cao Bằng",
+        "path_with_type": "Xã Hồng Định, Huyện Quảng Uyên, Tỉnh Cao Bằng",
+        "code": "01612",
+        "parent_code": "049"
+    },
+    "01615": {
+        "name": "Hồng Quang",
+        "type": "xa",
+        "slug": "hong-quang",
+        "name_with_type": "Xã Hồng Quang",
+        "path": "Hồng Quang, Quảng Uyên, Cao Bằng",
+        "path_with_type": "Xã Hồng Quang, Huyện Quảng Uyên, Tỉnh Cao Bằng",
+        "code": "01615",
+        "parent_code": "049"
+    },
+    "01618": {
+        "name": "Ngọc Động",
+        "type": "xa",
+        "slug": "ngoc-dong",
+        "name_with_type": "Xã Ngọc Động",
+        "path": "Ngọc Động, Quảng Uyên, Cao Bằng",
+        "path_with_type": "Xã Ngọc Động, Huyện Quảng Uyên, Tỉnh Cao Bằng",
+        "code": "01618",
+        "parent_code": "049"
+    },
+    "01621": {
+        "name": "Hoàng Hải",
+        "type": "xa",
+        "slug": "hoang-hai",
+        "name_with_type": "Xã Hoàng Hải",
+        "path": "Hoàng Hải, Quảng Uyên, Cao Bằng",
+        "path_with_type": "Xã Hoàng Hải, Huyện Quảng Uyên, Tỉnh Cao Bằng",
+        "code": "01621",
+        "parent_code": "049"
+    },
+    "01624": {
+        "name": "Hạnh Phúc",
+        "type": "xa",
+        "slug": "hanh-phuc",
+        "name_with_type": "Xã Hạnh Phúc",
+        "path": "Hạnh Phúc, Quảng Uyên, Cao Bằng",
+        "path_with_type": "Xã Hạnh Phúc, Huyện Quảng Uyên, Tỉnh Cao Bằng",
+        "code": "01624",
+        "parent_code": "049"
+    }
+}

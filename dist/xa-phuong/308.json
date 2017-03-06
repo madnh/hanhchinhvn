@@ -1,0 +1,72 @@
+{
+    "11455": {
+        "name": "Ngọc Xuyên",
+        "type": "phuong",
+        "slug": "ngoc-xuyen",
+        "name_with_type": "Phường Ngọc Xuyên",
+        "path": "Ngọc Xuyên, Đồ Sơn, Hải Phòng",
+        "path_with_type": "Phường Ngọc Xuyên, Quận Đồ Sơn, Thành phố Hải Phòng",
+        "code": "11455",
+        "parent_code": "308"
+    },
+    "11458": {
+        "name": "Ngọc Hải",
+        "type": "phuong",
+        "slug": "ngoc-hai",
+        "name_with_type": "Phường Ngọc Hải",
+        "path": "Ngọc Hải, Đồ Sơn, Hải Phòng",
+        "path_with_type": "Phường Ngọc Hải, Quận Đồ Sơn, Thành phố Hải Phòng",
+        "code": "11458",
+        "parent_code": "308"
+    },
+    "11461": {
+        "name": "Vạn Hương",
+        "type": "phuong",
+        "slug": "van-huong",
+        "name_with_type": "Phường Vạn Hương",
+        "path": "Vạn Hương, Đồ Sơn, Hải Phòng",
+        "path_with_type": "Phường Vạn Hương, Quận Đồ Sơn, Thành phố Hải Phòng",
+        "code": "11461",
+        "parent_code": "308"
+    },
+    "11464": {
+        "name": "Vạn Sơn",
+        "type": "phuong",
+        "slug": "van-son",
+        "name_with_type": "Phường Vạn Sơn",
+        "path": "Vạn Sơn, Đồ Sơn, Hải Phòng",
+        "path_with_type": "Phường Vạn Sơn, Quận Đồ Sơn, Thành phố Hải Phòng",
+        "code": "11464",
+        "parent_code": "308"
+    },
+    "11465": {
+        "name": "Minh Đức",
+        "type": "phuong",
+        "slug": "minh-duc",
+        "name_with_type": "Phường Minh Đức",
+        "path": "Minh Đức, Đồ Sơn, Hải Phòng",
+        "path_with_type": "Phường Minh Đức, Quận Đồ Sơn, Thành phố Hải Phòng",
+        "code": "11465",
+        "parent_code": "308"
+    },
+    "11467": {
+        "name": "Bàng La",
+        "type": "phuong",
+        "slug": "bang-la",
+        "name_with_type": "Phường Bàng La",
+        "path": "Bàng La, Đồ Sơn, Hải Phòng",
+        "path_with_type": "Phường Bàng La, Quận Đồ Sơn, Thành phố Hải Phòng",
+        "code": "11467",
+        "parent_code": "308"
+    },
+    "11737": {
+        "name": "Hợp Đức",
+        "type": "phuong",
+        "slug": "hop-duc",
+        "name_with_type": "Phường Hợp Đức",
+        "path": "Hợp Đức, Đồ Sơn, Hải Phòng",
+        "path_with_type": "Phường Hợp Đức, Quận Đồ Sơn, Thành phố Hải Phòng",
+        "code": "11737",
+        "parent_code": "308"
+    }
+}

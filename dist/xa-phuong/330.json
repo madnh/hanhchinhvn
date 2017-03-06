@@ -1,0 +1,252 @@
+{
+    "12205": {
+        "name": "Khoái Châu",
+        "type": "thi-tran",
+        "slug": "khoai-chau",
+        "name_with_type": "Thị trấn Khoái Châu",
+        "path": "Khoái Châu, Khoái Châu, Hưng Yên",
+        "path_with_type": "Thị trấn Khoái Châu, Huyện Khoái Châu, Tỉnh Hưng Yên",
+        "code": "12205",
+        "parent_code": "330"
+    },
+    "12208": {
+        "name": "Đông Tảo",
+        "type": "xa",
+        "slug": "dong-tao",
+        "name_with_type": "Xã Đông Tảo",
+        "path": "Đông Tảo, Khoái Châu, Hưng Yên",
+        "path_with_type": "Xã Đông Tảo, Huyện Khoái Châu, Tỉnh Hưng Yên",
+        "code": "12208",
+        "parent_code": "330"
+    },
+    "12211": {
+        "name": "Bình Minh",
+        "type": "xa",
+        "slug": "binh-minh",
+        "name_with_type": "Xã Bình Minh",
+        "path": "Bình Minh, Khoái Châu, Hưng Yên",
+        "path_with_type": "Xã Bình Minh, Huyện Khoái Châu, Tỉnh Hưng Yên",
+        "code": "12211",
+        "parent_code": "330"
+    },
+    "12214": {
+        "name": "Dạ Trạch",
+        "type": "xa",
+        "slug": "da-trach",
+        "name_with_type": "Xã Dạ Trạch",
+        "path": "Dạ Trạch, Khoái Châu, Hưng Yên",
+        "path_with_type": "Xã Dạ Trạch, Huyện Khoái Châu, Tỉnh Hưng Yên",
+        "code": "12214",
+        "parent_code": "330"
+    },
+    "12217": {
+        "name": "Hàm Tử",
+        "type": "xa",
+        "slug": "ham-tu",
+        "name_with_type": "Xã Hàm Tử",
+        "path": "Hàm Tử, Khoái Châu, Hưng Yên",
+        "path_with_type": "Xã Hàm Tử, Huyện Khoái Châu, Tỉnh Hưng Yên",
+        "code": "12217",
+        "parent_code": "330"
+    },
+    "12220": {
+        "name": "Ông Đình",
+        "type": "xa",
+        "slug": "ong-dinh",
+        "name_with_type": "Xã Ông Đình",
+        "path": "Ông Đình, Khoái Châu, Hưng Yên",
+        "path_with_type": "Xã Ông Đình, Huyện Khoái Châu, Tỉnh Hưng Yên",
+        "code": "12220",
+        "parent_code": "330"
+    },
+    "12223": {
+        "name": "Tân Dân",
+        "type": "xa",
+        "slug": "tan-dan",
+        "name_with_type": "Xã Tân Dân",
+        "path": "Tân Dân, Khoái Châu, Hưng Yên",
+        "path_with_type": "Xã Tân Dân, Huyện Khoái Châu, Tỉnh Hưng Yên",
+        "code": "12223",
+        "parent_code": "330"
+    },
+    "12226": {
+        "name": "Tứ Dân",
+        "type": "xa",
+        "slug": "tu-dan",
+        "name_with_type": "Xã Tứ Dân",
+        "path": "Tứ Dân, Khoái Châu, Hưng Yên",
+        "path_with_type": "Xã Tứ Dân, Huyện Khoái Châu, Tỉnh Hưng Yên",
+        "code": "12226",
+        "parent_code": "330"
+    },
+    "12229": {
+        "name": "An Vĩ",
+        "type": "xa",
+        "slug": "an-vi",
+        "name_with_type": "Xã An Vĩ",
+        "path": "An Vĩ, Khoái Châu, Hưng Yên",
+        "path_with_type": "Xã An Vĩ, Huyện Khoái Châu, Tỉnh Hưng Yên",
+        "code": "12229",
+        "parent_code": "330"
+    },
+    "12232": {
+        "name": "Đông Kết",
+        "type": "xa",
+        "slug": "dong-ket",
+        "name_with_type": "Xã Đông Kết",
+        "path": "Đông Kết, Khoái Châu, Hưng Yên",
+        "path_with_type": "Xã Đông Kết, Huyện Khoái Châu, Tỉnh Hưng Yên",
+        "code": "12232",
+        "parent_code": "330"
+    },
+    "12235": {
+        "name": "Bình Kiều",
+        "type": "xa",
+        "slug": "binh-kieu",
+        "name_with_type": "Xã Bình Kiều",
+        "path": "Bình Kiều, Khoái Châu, Hưng Yên",
+        "path_with_type": "Xã Bình Kiều, Huyện Khoái Châu, Tỉnh Hưng Yên",
+        "code": "12235",
+        "parent_code": "330"
+    },
+    "12238": {
+        "name": "Dân Tiến",
+        "type": "xa",
+        "slug": "dan-tien",
+        "name_with_type": "Xã Dân Tiến",
+        "path": "Dân Tiến, Khoái Châu, Hưng Yên",
+        "path_with_type": "Xã Dân Tiến, Huyện Khoái Châu, Tỉnh Hưng Yên",
+        "code": "12238",
+        "parent_code": "330"
+    },
+    "12241": {
+        "name": "Đồng Tiến",
+        "type": "xa",
+        "slug": "dong-tien",
+        "name_with_type": "Xã Đồng Tiến",
+        "path": "Đồng Tiến, Khoái Châu, Hưng Yên",
+        "path_with_type": "Xã Đồng Tiến, Huyện Khoái Châu, Tỉnh Hưng Yên",
+        "code": "12241",
+        "parent_code": "330"
+    },
+    "12244": {
+        "name": "Hồng Tiến",
+        "type": "xa",
+        "slug": "hong-tien",
+        "name_with_type": "Xã Hồng Tiến",
+        "path": "Hồng Tiến, Khoái Châu, Hưng Yên",
+        "path_with_type": "Xã Hồng Tiến, Huyện Khoái Châu, Tỉnh Hưng Yên",
+        "code": "12244",
+        "parent_code": "330"
+    },
+    "12247": {
+        "name": "Tân Châu",
+        "type": "xa",
+        "slug": "tan-chau",
+        "name_with_type": "Xã Tân Châu",
+        "path": "Tân Châu, Khoái Châu, Hưng Yên",
+        "path_with_type": "Xã Tân Châu, Huyện Khoái Châu, Tỉnh Hưng Yên",
+        "code": "12247",
+        "parent_code": "330"
+    },
+    "12250": {
+        "name": "Liên Khê",
+        "type": "xa",
+        "slug": "lien-khe",
+        "name_with_type": "Xã Liên Khê",
+        "path": "Liên Khê, Khoái Châu, Hưng Yên",
+        "path_with_type": "Xã Liên Khê, Huyện Khoái Châu, Tỉnh Hưng Yên",
+        "code": "12250",
+        "parent_code": "330"
+    },
+    "12253": {
+        "name": "Phùng Hưng",
+        "type": "xa",
+        "slug": "phung-hung",
+        "name_with_type": "Xã Phùng Hưng",
+        "path": "Phùng Hưng, Khoái Châu, Hưng Yên",
+        "path_with_type": "Xã Phùng Hưng, Huyện Khoái Châu, Tỉnh Hưng Yên",
+        "code": "12253",
+        "parent_code": "330"
+    },
+    "12256": {
+        "name": "Việt Hòa",
+        "type": "xa",
+        "slug": "viet-hoa",
+        "name_with_type": "Xã Việt Hòa",
+        "path": "Việt Hòa, Khoái Châu, Hưng Yên",
+        "path_with_type": "Xã Việt Hòa, Huyện Khoái Châu, Tỉnh Hưng Yên",
+        "code": "12256",
+        "parent_code": "330"
+    },
+    "12259": {
+        "name": "Đông Ninh",
+        "type": "xa",
+        "slug": "dong-ninh",
+        "name_with_type": "Xã Đông Ninh",
+        "path": "Đông Ninh, Khoái Châu, Hưng Yên",
+        "path_with_type": "Xã Đông Ninh, Huyện Khoái Châu, Tỉnh Hưng Yên",
+        "code": "12259",
+        "parent_code": "330"
+    },
+    "12262": {
+        "name": "Đại Tập",
+        "type": "xa",
+        "slug": "dai-tap",
+        "name_with_type": "Xã Đại Tập",
+        "path": "Đại Tập, Khoái Châu, Hưng Yên",
+        "path_with_type": "Xã Đại Tập, Huyện Khoái Châu, Tỉnh Hưng Yên",
+        "code": "12262",
+        "parent_code": "330"
+    },
+    "12265": {
+        "name": "Chí Tân",
+        "type": "xa",
+        "slug": "chi-tan",
+        "name_with_type": "Xã Chí Tân",
+        "path": "Chí Tân, Khoái Châu, Hưng Yên",
+        "path_with_type": "Xã Chí Tân, Huyện Khoái Châu, Tỉnh Hưng Yên",
+        "code": "12265",
+        "parent_code": "330"
+    },
+    "12268": {
+        "name": "Đại Hưng",
+        "type": "xa",
+        "slug": "dai-hung",
+        "name_with_type": "Xã Đại Hưng",
+        "path": "Đại Hưng, Khoái Châu, Hưng Yên",
+        "path_with_type": "Xã Đại Hưng, Huyện Khoái Châu, Tỉnh Hưng Yên",
+        "code": "12268",
+        "parent_code": "330"
+    },
+    "12271": {
+        "name": "Thuần Hưng",
+        "type": "xa",
+        "slug": "thuan-hung",
+        "name_with_type": "Xã Thuần Hưng",
+        "path": "Thuần Hưng, Khoái Châu, Hưng Yên",
+        "path_with_type": "Xã Thuần Hưng, Huyện Khoái Châu, Tỉnh Hưng Yên",
+        "code": "12271",
+        "parent_code": "330"
+    },
+    "12274": {
+        "name": "Thành Công",
+        "type": "xa",
+        "slug": "thanh-cong",
+        "name_with_type": "Xã Thành Công",
+        "path": "Thành Công, Khoái Châu, Hưng Yên",
+        "path_with_type": "Xã Thành Công, Huyện Khoái Châu, Tỉnh Hưng Yên",
+        "code": "12274",
+        "parent_code": "330"
+    },
+    "12277": {
+        "name": "Nhuế Dương",
+        "type": "xa",
+        "slug": "nhue-duong",
+        "name_with_type": "Xã Nhuế Dương",
+        "path": "Nhuế Dương, Khoái Châu, Hưng Yên",
+        "path_with_type": "Xã Nhuế Dương, Huyện Khoái Châu, Tỉnh Hưng Yên",
+        "code": "12277",
+        "parent_code": "330"
+    }
+}

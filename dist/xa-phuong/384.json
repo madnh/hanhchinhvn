@@ -1,0 +1,92 @@
+{
+    "14845": {
+        "name": "Mường Lát",
+        "type": "thi-tran",
+        "slug": "muong-lat",
+        "name_with_type": "Thị trấn Mường Lát",
+        "path": "Mường Lát, Mường Lát, Thanh Hóa",
+        "path_with_type": "Thị trấn Mường Lát, Huyện Mường Lát, Tỉnh Thanh Hóa",
+        "code": "14845",
+        "parent_code": "384"
+    },
+    "14848": {
+        "name": "Tam Chung",
+        "type": "xa",
+        "slug": "tam-chung",
+        "name_with_type": "Xã Tam Chung",
+        "path": "Tam Chung, Mường Lát, Thanh Hóa",
+        "path_with_type": "Xã Tam Chung, Huyện Mường Lát, Tỉnh Thanh Hóa",
+        "code": "14848",
+        "parent_code": "384"
+    },
+    "14851": {
+        "name": "Tén Tằn",
+        "type": "xa",
+        "slug": "ten-tan",
+        "name_with_type": "Xã Tén Tằn",
+        "path": "Tén Tằn, Mường Lát, Thanh Hóa",
+        "path_with_type": "Xã Tén Tằn, Huyện Mường Lát, Tỉnh Thanh Hóa",
+        "code": "14851",
+        "parent_code": "384"
+    },
+    "14854": {
+        "name": "Mường Lý",
+        "type": "xa",
+        "slug": "muong-ly",
+        "name_with_type": "Xã Mường Lý",
+        "path": "Mường Lý, Mường Lát, Thanh Hóa",
+        "path_with_type": "Xã Mường Lý, Huyện Mường Lát, Tỉnh Thanh Hóa",
+        "code": "14854",
+        "parent_code": "384"
+    },
+    "14857": {
+        "name": "Trung Lý",
+        "type": "xa",
+        "slug": "trung-ly",
+        "name_with_type": "Xã Trung Lý",
+        "path": "Trung Lý, Mường Lát, Thanh Hóa",
+        "path_with_type": "Xã Trung Lý, Huyện Mường Lát, Tỉnh Thanh Hóa",
+        "code": "14857",
+        "parent_code": "384"
+    },
+    "14860": {
+        "name": "Quang Chiểu",
+        "type": "xa",
+        "slug": "quang-chieu",
+        "name_with_type": "Xã Quang Chiểu",
+        "path": "Quang Chiểu, Mường Lát, Thanh Hóa",
+        "path_with_type": "Xã Quang Chiểu, Huyện Mường Lát, Tỉnh Thanh Hóa",
+        "code": "14860",
+        "parent_code": "384"
+    },
+    "14863": {
+        "name": "Pù Nhi",
+        "type": "xa",
+        "slug": "pu-nhi",
+        "name_with_type": "Xã Pù Nhi",
+        "path": "Pù Nhi, Mường Lát, Thanh Hóa",
+        "path_with_type": "Xã Pù Nhi, Huyện Mường Lát, Tỉnh Thanh Hóa",
+        "code": "14863",
+        "parent_code": "384"
+    },
+    "14864": {
+        "name": "Nhi Sơn",
+        "type": "xa",
+        "slug": "nhi-son",
+        "name_with_type": "Xã Nhi Sơn",
+        "path": "Nhi Sơn, Mường Lát, Thanh Hóa",
+        "path_with_type": "Xã Nhi Sơn, Huyện Mường Lát, Tỉnh Thanh Hóa",
+        "code": "14864",
+        "parent_code": "384"
+    },
+    "14866": {
+        "name": "Mường Chanh",
+        "type": "xa",
+        "slug": "muong-chanh",
+        "name_with_type": "Xã Mường Chanh",
+        "path": "Mường Chanh, Mường Lát, Thanh Hóa",
+        "path_with_type": "Xã Mường Chanh, Huyện Mường Lát, Tỉnh Thanh Hóa",
+        "code": "14866",
+        "parent_code": "384"
+    }
+}

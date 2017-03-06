@@ -1,0 +1,212 @@
+{
+    "13285": {
+        "name": "Quang Trung",
+        "type": "phuong",
+        "slug": "quang-trung",
+        "name_with_type": "Phường Quang Trung",
+        "path": "Quang Trung, Phủ Lý, Hà Nam",
+        "path_with_type": "Phường Quang Trung, Thành phố Phủ Lý, Tỉnh Hà Nam",
+        "code": "13285",
+        "parent_code": "347"
+    },
+    "13288": {
+        "name": "Lương Khánh Thiện",
+        "type": "phuong",
+        "slug": "luong-khanh-thien",
+        "name_with_type": "Phường Lương Khánh Thiện",
+        "path": "Lương Khánh Thiện, Phủ Lý, Hà Nam",
+        "path_with_type": "Phường Lương Khánh Thiện, Thành phố Phủ Lý, Tỉnh Hà Nam",
+        "code": "13288",
+        "parent_code": "347"
+    },
+    "13291": {
+        "name": "Lê Hồng Phong",
+        "type": "phuong",
+        "slug": "le-hong-phong",
+        "name_with_type": "Phường Lê Hồng Phong",
+        "path": "Lê Hồng Phong, Phủ Lý, Hà Nam",
+        "path_with_type": "Phường Lê Hồng Phong, Thành phố Phủ Lý, Tỉnh Hà Nam",
+        "code": "13291",
+        "parent_code": "347"
+    },
+    "13294": {
+        "name": "Minh Khai",
+        "type": "phuong",
+        "slug": "minh-khai",
+        "name_with_type": "Phường Minh Khai",
+        "path": "Minh Khai, Phủ Lý, Hà Nam",
+        "path_with_type": "Phường Minh Khai, Thành phố Phủ Lý, Tỉnh Hà Nam",
+        "code": "13294",
+        "parent_code": "347"
+    },
+    "13297": {
+        "name": "Hai Bà Trưng",
+        "type": "phuong",
+        "slug": "hai-ba-trung",
+        "name_with_type": "Phường Hai Bà Trưng",
+        "path": "Hai Bà Trưng, Phủ Lý, Hà Nam",
+        "path_with_type": "Phường Hai Bà Trưng, Thành phố Phủ Lý, Tỉnh Hà Nam",
+        "code": "13297",
+        "parent_code": "347"
+    },
+    "13300": {
+        "name": "Trần Hưng Đạo",
+        "type": "phuong",
+        "slug": "tran-hung-dao",
+        "name_with_type": "Phường Trần Hưng Đạo",
+        "path": "Trần Hưng Đạo, Phủ Lý, Hà Nam",
+        "path_with_type": "Phường Trần Hưng Đạo, Thành phố Phủ Lý, Tỉnh Hà Nam",
+        "code": "13300",
+        "parent_code": "347"
+    },
+    "13303": {
+        "name": "Lam Hà",
+        "type": "phuong",
+        "slug": "lam-ha",
+        "name_with_type": "Phường Lam Hà",
+        "path": "Lam Hà, Phủ Lý, Hà Nam",
+        "path_with_type": "Phường Lam Hà, Thành phố Phủ Lý, Tỉnh Hà Nam",
+        "code": "13303",
+        "parent_code": "347"
+    },
+    "13306": {
+        "name": "Phù Vân",
+        "type": "xa",
+        "slug": "phu-van",
+        "name_with_type": "Xã Phù Vân",
+        "path": "Phù Vân, Phủ Lý, Hà Nam",
+        "path_with_type": "Xã Phù Vân, Thành phố Phủ Lý, Tỉnh Hà Nam",
+        "code": "13306",
+        "parent_code": "347"
+    },
+    "13309": {
+        "name": "Liêm Chính",
+        "type": "phuong",
+        "slug": "liem-chinh",
+        "name_with_type": "Phường Liêm Chính",
+        "path": "Liêm Chính, Phủ Lý, Hà Nam",
+        "path_with_type": "Phường Liêm Chính, Thành phố Phủ Lý, Tỉnh Hà Nam",
+        "code": "13309",
+        "parent_code": "347"
+    },
+    "13312": {
+        "name": "Liêm Chung",
+        "type": "xa",
+        "slug": "liem-chung",
+        "name_with_type": "Xã Liêm Chung",
+        "path": "Liêm Chung, Phủ Lý, Hà Nam",
+        "path_with_type": "Xã Liêm Chung, Thành phố Phủ Lý, Tỉnh Hà Nam",
+        "code": "13312",
+        "parent_code": "347"
+    },
+    "13315": {
+        "name": "Thanh Châu",
+        "type": "phuong",
+        "slug": "thanh-chau",
+        "name_with_type": "Phường Thanh Châu",
+        "path": "Thanh Châu, Phủ Lý, Hà Nam",
+        "path_with_type": "Phường Thanh Châu, Thành phố Phủ Lý, Tỉnh Hà Nam",
+        "code": "13315",
+        "parent_code": "347"
+    },
+    "13318": {
+        "name": "Châu Sơn",
+        "type": "phuong",
+        "slug": "chau-son",
+        "name_with_type": "Phường Châu Sơn",
+        "path": "Châu Sơn, Phủ Lý, Hà Nam",
+        "path_with_type": "Phường Châu Sơn, Thành phố Phủ Lý, Tỉnh Hà Nam",
+        "code": "13318",
+        "parent_code": "347"
+    },
+    "13366": {
+        "name": "Tiên Tân",
+        "type": "xa",
+        "slug": "tien-tan",
+        "name_with_type": "Xã Tiên Tân",
+        "path": "Tiên Tân, Phủ Lý, Hà Nam",
+        "path_with_type": "Xã Tiên Tân, Thành phố Phủ Lý, Tỉnh Hà Nam",
+        "code": "13366",
+        "parent_code": "347"
+    },
+    "13372": {
+        "name": "Tiên Hiệp",
+        "type": "xa",
+        "slug": "tien-hiep",
+        "name_with_type": "Xã Tiên Hiệp",
+        "path": "Tiên Hiệp, Phủ Lý, Hà Nam",
+        "path_with_type": "Xã Tiên Hiệp, Thành phố Phủ Lý, Tỉnh Hà Nam",
+        "code": "13372",
+        "parent_code": "347"
+    },
+    "13381": {
+        "name": "Tiên Hải",
+        "type": "xa",
+        "slug": "tien-hai",
+        "name_with_type": "Xã Tiên Hải",
+        "path": "Tiên Hải, Phủ Lý, Hà Nam",
+        "path_with_type": "Xã Tiên Hải, Thành phố Phủ Lý, Tỉnh Hà Nam",
+        "code": "13381",
+        "parent_code": "347"
+    },
+    "13426": {
+        "name": "Kim Bình",
+        "type": "xa",
+        "slug": "kim-binh",
+        "name_with_type": "Xã Kim Bình",
+        "path": "Kim Bình, Phủ Lý, Hà Nam",
+        "path_with_type": "Xã Kim Bình, Thành phố Phủ Lý, Tỉnh Hà Nam",
+        "code": "13426",
+        "parent_code": "347"
+    },
+    "13444": {
+        "name": "Liêm Tuyền",
+        "type": "xa",
+        "slug": "liem-tuyen",
+        "name_with_type": "Xã Liêm Tuyền",
+        "path": "Liêm Tuyền, Phủ Lý, Hà Nam",
+        "path_with_type": "Xã Liêm Tuyền, Thành phố Phủ Lý, Tỉnh Hà Nam",
+        "code": "13444",
+        "parent_code": "347"
+    },
+    "13447": {
+        "name": "Liêm Tiết",
+        "type": "xa",
+        "slug": "liem-tiet",
+        "name_with_type": "Xã Liêm Tiết",
+        "path": "Liêm Tiết, Phủ Lý, Hà Nam",
+        "path_with_type": "Xã Liêm Tiết, Thành phố Phủ Lý, Tỉnh Hà Nam",
+        "code": "13447",
+        "parent_code": "347"
+    },
+    "13459": {
+        "name": "Thanh Tuyền",
+        "type": "phuong",
+        "slug": "thanh-tuyen",
+        "name_with_type": "Phường Thanh Tuyền",
+        "path": "Thanh Tuyền, Phủ Lý, Hà Nam",
+        "path_with_type": "Phường Thanh Tuyền, Thành phố Phủ Lý, Tỉnh Hà Nam",
+        "code": "13459",
+        "parent_code": "347"
+    },
+    "13507": {
+        "name": "Đinh Xá",
+        "type": "xa",
+        "slug": "dinh-xa",
+        "name_with_type": "Xã Đinh Xá",
+        "path": "Đinh Xá, Phủ Lý, Hà Nam",
+        "path_with_type": "Xã Đinh Xá, Thành phố Phủ Lý, Tỉnh Hà Nam",
+        "code": "13507",
+        "parent_code": "347"
+    },
+    "13513": {
+        "name": "Trịnh Xá",
+        "type": "xa",
+        "slug": "trinh-xa",
+        "name_with_type": "Xã Trịnh Xá",
+        "path": "Trịnh Xá, Phủ Lý, Hà Nam",
+        "path_with_type": "Xã Trịnh Xá, Thành phố Phủ Lý, Tỉnh Hà Nam",
+        "code": "13513",
+        "parent_code": "347"
+    }
+}

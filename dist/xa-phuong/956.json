@@ -1,0 +1,92 @@
+{
+    "31843": {
+        "name": "Ngan Dừa",
+        "type": "thi-tran",
+        "slug": "ngan-dua",
+        "name_with_type": "Thị trấn Ngan Dừa",
+        "path": "Ngan Dừa, Hồng Dân, Bạc Liêu",
+        "path_with_type": "Thị trấn Ngan Dừa, Huyện Hồng Dân, Tỉnh Bạc Liêu",
+        "code": "31843",
+        "parent_code": "956"
+    },
+    "31846": {
+        "name": "Ninh Quới",
+        "type": "xa",
+        "slug": "ninh-quoi",
+        "name_with_type": "Xã Ninh Quới",
+        "path": "Ninh Quới, Hồng Dân, Bạc Liêu",
+        "path_with_type": "Xã Ninh Quới, Huyện Hồng Dân, Tỉnh Bạc Liêu",
+        "code": "31846",
+        "parent_code": "956"
+    },
+    "31849": {
+        "name": "Ninh Quới A",
+        "type": "xa",
+        "slug": "ninh-quoi-a",
+        "name_with_type": "Xã Ninh Quới A",
+        "path": "Ninh Quới A, Hồng Dân, Bạc Liêu",
+        "path_with_type": "Xã Ninh Quới A, Huyện Hồng Dân, Tỉnh Bạc Liêu",
+        "code": "31849",
+        "parent_code": "956"
+    },
+    "31852": {
+        "name": "Ninh Hòa",
+        "type": "xa",
+        "slug": "ninh-hoa",
+        "name_with_type": "Xã Ninh Hòa",
+        "path": "Ninh Hòa, Hồng Dân, Bạc Liêu",
+        "path_with_type": "Xã Ninh Hòa, Huyện Hồng Dân, Tỉnh Bạc Liêu",
+        "code": "31852",
+        "parent_code": "956"
+    },
+    "31855": {
+        "name": "Lộc Ninh",
+        "type": "xa",
+        "slug": "loc-ninh",
+        "name_with_type": "Xã Lộc Ninh",
+        "path": "Lộc Ninh, Hồng Dân, Bạc Liêu",
+        "path_with_type": "Xã Lộc Ninh, Huyện Hồng Dân, Tỉnh Bạc Liêu",
+        "code": "31855",
+        "parent_code": "956"
+    },
+    "31858": {
+        "name": "Vĩnh Lộc",
+        "type": "xa",
+        "slug": "vinh-loc",
+        "name_with_type": "Xã Vĩnh Lộc",
+        "path": "Vĩnh Lộc, Hồng Dân, Bạc Liêu",
+        "path_with_type": "Xã Vĩnh Lộc, Huyện Hồng Dân, Tỉnh Bạc Liêu",
+        "code": "31858",
+        "parent_code": "956"
+    },
+    "31861": {
+        "name": "Vĩnh Lộc A",
+        "type": "xa",
+        "slug": "vinh-loc-a",
+        "name_with_type": "Xã Vĩnh Lộc A",
+        "path": "Vĩnh Lộc A, Hồng Dân, Bạc Liêu",
+        "path_with_type": "Xã Vĩnh Lộc A, Huyện Hồng Dân, Tỉnh Bạc Liêu",
+        "code": "31861",
+        "parent_code": "956"
+    },
+    "31863": {
+        "name": "Ninh Thạnh Lợi A",
+        "type": "xa",
+        "slug": "ninh-thanh-loi-a",
+        "name_with_type": "Xã Ninh Thạnh Lợi A",
+        "path": "Ninh Thạnh Lợi A, Hồng Dân, Bạc Liêu",
+        "path_with_type": "Xã Ninh Thạnh Lợi A, Huyện Hồng Dân, Tỉnh Bạc Liêu",
+        "code": "31863",
+        "parent_code": "956"
+    },
+    "31864": {
+        "name": "Ninh Thạnh Lợi",
+        "type": "xa",
+        "slug": "ninh-thanh-loi",
+        "name_with_type": "Xã Ninh Thạnh Lợi",
+        "path": "Ninh Thạnh Lợi, Hồng Dân, Bạc Liêu",
+        "path_with_type": "Xã Ninh Thạnh Lợi, Huyện Hồng Dân, Tỉnh Bạc Liêu",
+        "code": "31864",
+        "parent_code": "956"
+    }
+}

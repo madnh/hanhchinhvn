@@ -1,0 +1,152 @@
+{
+    "03156": {
+        "name": "Nậm Tin",
+        "type": "xa",
+        "slug": "nam-tin",
+        "name_with_type": "Xã Nậm Tin",
+        "path": "Nậm Tin, Nậm Pồ, Điện Biên",
+        "path_with_type": "Xã Nậm Tin, Huyện Nậm Pồ, Tỉnh Điện Biên",
+        "code": "03156",
+        "parent_code": "103"
+    },
+    "03165": {
+        "name": "Pa Tần",
+        "type": "xa",
+        "slug": "pa-tan",
+        "name_with_type": "Xã Pa Tần",
+        "path": "Pa Tần, Nậm Pồ, Điện Biên",
+        "path_with_type": "Xã Pa Tần, Huyện Nậm Pồ, Tỉnh Điện Biên",
+        "code": "03165",
+        "parent_code": "103"
+    },
+    "03166": {
+        "name": "Chà Cang",
+        "type": "xa",
+        "slug": "cha-cang",
+        "name_with_type": "Xã Chà Cang",
+        "path": "Chà Cang, Nậm Pồ, Điện Biên",
+        "path_with_type": "Xã Chà Cang, Huyện Nậm Pồ, Tỉnh Điện Biên",
+        "code": "03166",
+        "parent_code": "103"
+    },
+    "03167": {
+        "name": "Na Cô Sa",
+        "type": "xa",
+        "slug": "na-co-sa",
+        "name_with_type": "Xã Na Cô Sa",
+        "path": "Na Cô Sa, Nậm Pồ, Điện Biên",
+        "path_with_type": "Xã Na Cô Sa, Huyện Nậm Pồ, Tỉnh Điện Biên",
+        "code": "03167",
+        "parent_code": "103"
+    },
+    "03168": {
+        "name": "Nà Khoa",
+        "type": "xa",
+        "slug": "na-khoa",
+        "name_with_type": "Xã Nà Khoa",
+        "path": "Nà Khoa, Nậm Pồ, Điện Biên",
+        "path_with_type": "Xã Nà Khoa, Huyện Nậm Pồ, Tỉnh Điện Biên",
+        "code": "03168",
+        "parent_code": "103"
+    },
+    "03169": {
+        "name": "Nà Hỳ",
+        "type": "xa",
+        "slug": "na-hy",
+        "name_with_type": "Xã Nà Hỳ",
+        "path": "Nà Hỳ, Nậm Pồ, Điện Biên",
+        "path_with_type": "Xã Nà Hỳ, Huyện Nậm Pồ, Tỉnh Điện Biên",
+        "code": "03169",
+        "parent_code": "103"
+    },
+    "03170": {
+        "name": "Nà Bủng",
+        "type": "xa",
+        "slug": "na-bung",
+        "name_with_type": "Xã Nà Bủng",
+        "path": "Nà Bủng, Nậm Pồ, Điện Biên",
+        "path_with_type": "Xã Nà Bủng, Huyện Nậm Pồ, Tỉnh Điện Biên",
+        "code": "03170",
+        "parent_code": "103"
+    },
+    "03171": {
+        "name": "Nậm Nhừ",
+        "type": "xa",
+        "slug": "nam-nhu",
+        "name_with_type": "Xã Nậm Nhừ",
+        "path": "Nậm Nhừ, Nậm Pồ, Điện Biên",
+        "path_with_type": "Xã Nậm Nhừ, Huyện Nậm Pồ, Tỉnh Điện Biên",
+        "code": "03171",
+        "parent_code": "103"
+    },
+    "03173": {
+        "name": "Nậm Chua",
+        "type": "xa",
+        "slug": "nam-chua",
+        "name_with_type": "Xã Nậm Chua",
+        "path": "Nậm Chua, Nậm Pồ, Điện Biên",
+        "path_with_type": "Xã Nậm Chua, Huyện Nậm Pồ, Tỉnh Điện Biên",
+        "code": "03173",
+        "parent_code": "103"
+    },
+    "03174": {
+        "name": "Nậm Khăn",
+        "type": "xa",
+        "slug": "nam-khan",
+        "name_with_type": "Xã Nậm Khăn",
+        "path": "Nậm Khăn, Nậm Pồ, Điện Biên",
+        "path_with_type": "Xã Nậm Khăn, Huyện Nậm Pồ, Tỉnh Điện Biên",
+        "code": "03174",
+        "parent_code": "103"
+    },
+    "03175": {
+        "name": "Chà Tở",
+        "type": "xa",
+        "slug": "cha-to",
+        "name_with_type": "Xã Chà Tở",
+        "path": "Chà Tở, Nậm Pồ, Điện Biên",
+        "path_with_type": "Xã Chà Tở, Huyện Nậm Pồ, Tỉnh Điện Biên",
+        "code": "03175",
+        "parent_code": "103"
+    },
+    "03176": {
+        "name": "Vàng Đán",
+        "type": "xa",
+        "slug": "vang-dan",
+        "name_with_type": "Xã Vàng Đán",
+        "path": "Vàng Đán, Nậm Pồ, Điện Biên",
+        "path_with_type": "Xã Vàng Đán, Huyện Nậm Pồ, Tỉnh Điện Biên",
+        "code": "03176",
+        "parent_code": "103"
+    },
+    "03187": {
+        "name": "Chà Nưa",
+        "type": "xa",
+        "slug": "cha-nua",
+        "name_with_type": "Xã Chà Nưa",
+        "path": "Chà Nưa, Nậm Pồ, Điện Biên",
+        "path_with_type": "Xã Chà Nưa, Huyện Nậm Pồ, Tỉnh Điện Biên",
+        "code": "03187",
+        "parent_code": "103"
+    },
+    "03198": {
+        "name": "Phìn Hồ",
+        "type": "xa",
+        "slug": "phin-ho",
+        "name_with_type": "Xã Phìn Hồ",
+        "path": "Phìn Hồ, Nậm Pồ, Điện Biên",
+        "path_with_type": "Xã Phìn Hồ, Huyện Nậm Pồ, Tỉnh Điện Biên",
+        "code": "03198",
+        "parent_code": "103"
+    },
+    "03199": {
+        "name": "Si Pa Phìn",
+        "type": "xa",
+        "slug": "si-pa-phin",
+        "name_with_type": "Xã Si Pa Phìn",
+        "path": "Si Pa Phìn, Nậm Pồ, Điện Biên",
+        "path_with_type": "Xã Si Pa Phìn, Huyện Nậm Pồ, Tỉnh Điện Biên",
+        "code": "03199",
+        "parent_code": "103"
+    }
+}

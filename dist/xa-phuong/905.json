@@ -1,0 +1,102 @@
+{
+    "30880": {
+        "name": "Minh Lương",
+        "type": "thi-tran",
+        "slug": "minh-luong",
+        "name_with_type": "Thị trấn Minh Lương",
+        "path": "Minh Lương, Châu Thành, Kiên Giang",
+        "path_with_type": "Thị trấn Minh Lương, Huyện Châu Thành, Tỉnh Kiên Giang",
+        "code": "30880",
+        "parent_code": "905"
+    },
+    "30883": {
+        "name": "Mong Thọ A",
+        "type": "xa",
+        "slug": "mong-tho-a",
+        "name_with_type": "Xã Mong Thọ A",
+        "path": "Mong Thọ A, Châu Thành, Kiên Giang",
+        "path_with_type": "Xã Mong Thọ A, Huyện Châu Thành, Tỉnh Kiên Giang",
+        "code": "30883",
+        "parent_code": "905"
+    },
+    "30886": {
+        "name": "Mong Thọ B",
+        "type": "xa",
+        "slug": "mong-tho-b",
+        "name_with_type": "Xã Mong Thọ B",
+        "path": "Mong Thọ B, Châu Thành, Kiên Giang",
+        "path_with_type": "Xã Mong Thọ B, Huyện Châu Thành, Tỉnh Kiên Giang",
+        "code": "30886",
+        "parent_code": "905"
+    },
+    "30887": {
+        "name": "Mong Thọ",
+        "type": "xa",
+        "slug": "mong-tho",
+        "name_with_type": "Xã Mong Thọ",
+        "path": "Mong Thọ, Châu Thành, Kiên Giang",
+        "path_with_type": "Xã Mong Thọ, Huyện Châu Thành, Tỉnh Kiên Giang",
+        "code": "30887",
+        "parent_code": "905"
+    },
+    "30889": {
+        "name": "Giục Tượng",
+        "type": "xa",
+        "slug": "giuc-tuong",
+        "name_with_type": "Xã Giục Tượng",
+        "path": "Giục Tượng, Châu Thành, Kiên Giang",
+        "path_with_type": "Xã Giục Tượng, Huyện Châu Thành, Tỉnh Kiên Giang",
+        "code": "30889",
+        "parent_code": "905"
+    },
+    "30892": {
+        "name": "Vĩnh Hòa Hiệp",
+        "type": "xa",
+        "slug": "vinh-hoa-hiep",
+        "name_with_type": "Xã Vĩnh Hòa Hiệp",
+        "path": "Vĩnh Hòa Hiệp, Châu Thành, Kiên Giang",
+        "path_with_type": "Xã Vĩnh Hòa Hiệp, Huyện Châu Thành, Tỉnh Kiên Giang",
+        "code": "30892",
+        "parent_code": "905"
+    },
+    "30893": {
+        "name": "Vĩnh Hoà Phú",
+        "type": "xa",
+        "slug": "vinh-hoa-phu",
+        "name_with_type": "Xã Vĩnh Hoà Phú",
+        "path": "Vĩnh Hoà Phú, Châu Thành, Kiên Giang",
+        "path_with_type": "Xã Vĩnh Hoà Phú, Huyện Châu Thành, Tỉnh Kiên Giang",
+        "code": "30893",
+        "parent_code": "905"
+    },
+    "30895": {
+        "name": "Minh Hòa",
+        "type": "xa",
+        "slug": "minh-hoa",
+        "name_with_type": "Xã Minh Hòa",
+        "path": "Minh Hòa, Châu Thành, Kiên Giang",
+        "path_with_type": "Xã Minh Hòa, Huyện Châu Thành, Tỉnh Kiên Giang",
+        "code": "30895",
+        "parent_code": "905"
+    },
+    "30898": {
+        "name": "Bình An",
+        "type": "xa",
+        "slug": "binh-an",
+        "name_with_type": "Xã Bình An",
+        "path": "Bình An, Châu Thành, Kiên Giang",
+        "path_with_type": "Xã Bình An, Huyện Châu Thành, Tỉnh Kiên Giang",
+        "code": "30898",
+        "parent_code": "905"
+    },
+    "30901": {
+        "name": "Thạnh Lộc",
+        "type": "xa",
+        "slug": "thanh-loc",
+        "name_with_type": "Xã Thạnh Lộc",
+        "path": "Thạnh Lộc, Châu Thành, Kiên Giang",
+        "path_with_type": "Xã Thạnh Lộc, Huyện Châu Thành, Tỉnh Kiên Giang",
+        "code": "30901",
+        "parent_code": "905"
+    }
+}

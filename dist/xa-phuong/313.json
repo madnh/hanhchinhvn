@@ -1,0 +1,172 @@
+{
+    "11629": {
+        "name": "An Lão",
+        "type": "thi-tran",
+        "slug": "an-lao",
+        "name_with_type": "Thị trấn An Lão",
+        "path": "An Lão, An Lão, Hải Phòng",
+        "path_with_type": "Thị trấn An Lão, Huyện An Lão, Thành phố Hải Phòng",
+        "code": "11629",
+        "parent_code": "313"
+    },
+    "11632": {
+        "name": "Bát Trang",
+        "type": "xa",
+        "slug": "bat-trang",
+        "name_with_type": "Xã Bát Trang",
+        "path": "Bát Trang, An Lão, Hải Phòng",
+        "path_with_type": "Xã Bát Trang, Huyện An Lão, Thành phố Hải Phòng",
+        "code": "11632",
+        "parent_code": "313"
+    },
+    "11635": {
+        "name": "Trường Thọ",
+        "type": "xa",
+        "slug": "truong-tho",
+        "name_with_type": "Xã Trường Thọ",
+        "path": "Trường Thọ, An Lão, Hải Phòng",
+        "path_with_type": "Xã Trường Thọ, Huyện An Lão, Thành phố Hải Phòng",
+        "code": "11635",
+        "parent_code": "313"
+    },
+    "11638": {
+        "name": "Trường Thành",
+        "type": "xa",
+        "slug": "truong-thanh",
+        "name_with_type": "Xã Trường Thành",
+        "path": "Trường Thành, An Lão, Hải Phòng",
+        "path_with_type": "Xã Trường Thành, Huyện An Lão, Thành phố Hải Phòng",
+        "code": "11638",
+        "parent_code": "313"
+    },
+    "11641": {
+        "name": "An Tiến",
+        "type": "xa",
+        "slug": "an-tien",
+        "name_with_type": "Xã An Tiến",
+        "path": "An Tiến, An Lão, Hải Phòng",
+        "path_with_type": "Xã An Tiến, Huyện An Lão, Thành phố Hải Phòng",
+        "code": "11641",
+        "parent_code": "313"
+    },
+    "11644": {
+        "name": "Quang Hưng",
+        "type": "xa",
+        "slug": "quang-hung",
+        "name_with_type": "Xã Quang Hưng",
+        "path": "Quang Hưng, An Lão, Hải Phòng",
+        "path_with_type": "Xã Quang Hưng, Huyện An Lão, Thành phố Hải Phòng",
+        "code": "11644",
+        "parent_code": "313"
+    },
+    "11647": {
+        "name": "Quang Trung",
+        "type": "xa",
+        "slug": "quang-trung",
+        "name_with_type": "Xã Quang Trung",
+        "path": "Quang Trung, An Lão, Hải Phòng",
+        "path_with_type": "Xã Quang Trung, Huyện An Lão, Thành phố Hải Phòng",
+        "code": "11647",
+        "parent_code": "313"
+    },
+    "11650": {
+        "name": "Quốc Tuấn",
+        "type": "xa",
+        "slug": "quoc-tuan",
+        "name_with_type": "Xã Quốc Tuấn",
+        "path": "Quốc Tuấn, An Lão, Hải Phòng",
+        "path_with_type": "Xã Quốc Tuấn, Huyện An Lão, Thành phố Hải Phòng",
+        "code": "11650",
+        "parent_code": "313"
+    },
+    "11653": {
+        "name": "An Thắng",
+        "type": "xa",
+        "slug": "an-thang",
+        "name_with_type": "Xã An Thắng",
+        "path": "An Thắng, An Lão, Hải Phòng",
+        "path_with_type": "Xã An Thắng, Huyện An Lão, Thành phố Hải Phòng",
+        "code": "11653",
+        "parent_code": "313"
+    },
+    "11656": {
+        "name": "Trường Sơn",
+        "type": "thi-tran",
+        "slug": "truong-son",
+        "name_with_type": "Thị trấn Trường Sơn",
+        "path": "Trường Sơn, An Lão, Hải Phòng",
+        "path_with_type": "Thị trấn Trường Sơn, Huyện An Lão, Thành phố Hải Phòng",
+        "code": "11656",
+        "parent_code": "313"
+    },
+    "11659": {
+        "name": "Tân Dân",
+        "type": "xa",
+        "slug": "tan-dan",
+        "name_with_type": "Xã Tân Dân",
+        "path": "Tân Dân, An Lão, Hải Phòng",
+        "path_with_type": "Xã Tân Dân, Huyện An Lão, Thành phố Hải Phòng",
+        "code": "11659",
+        "parent_code": "313"
+    },
+    "11662": {
+        "name": "Thái Sơn",
+        "type": "xa",
+        "slug": "thai-son",
+        "name_with_type": "Xã Thái Sơn",
+        "path": "Thái Sơn, An Lão, Hải Phòng",
+        "path_with_type": "Xã Thái Sơn, Huyện An Lão, Thành phố Hải Phòng",
+        "code": "11662",
+        "parent_code": "313"
+    },
+    "11665": {
+        "name": "Tân Viên",
+        "type": "xa",
+        "slug": "tan-vien",
+        "name_with_type": "Xã Tân Viên",
+        "path": "Tân Viên, An Lão, Hải Phòng",
+        "path_with_type": "Xã Tân Viên, Huyện An Lão, Thành phố Hải Phòng",
+        "code": "11665",
+        "parent_code": "313"
+    },
+    "11668": {
+        "name": "Mỹ Đức",
+        "type": "xa",
+        "slug": "my-duc",
+        "name_with_type": "Xã Mỹ Đức",
+        "path": "Mỹ Đức, An Lão, Hải Phòng",
+        "path_with_type": "Xã Mỹ Đức, Huyện An Lão, Thành phố Hải Phòng",
+        "code": "11668",
+        "parent_code": "313"
+    },
+    "11671": {
+        "name": "Chiến Thắng",
+        "type": "xa",
+        "slug": "chien-thang",
+        "name_with_type": "Xã Chiến Thắng",
+        "path": "Chiến Thắng, An Lão, Hải Phòng",
+        "path_with_type": "Xã Chiến Thắng, Huyện An Lão, Thành phố Hải Phòng",
+        "code": "11671",
+        "parent_code": "313"
+    },
+    "11674": {
+        "name": "An Thọ",
+        "type": "xa",
+        "slug": "an-tho",
+        "name_with_type": "Xã An Thọ",
+        "path": "An Thọ, An Lão, Hải Phòng",
+        "path_with_type": "Xã An Thọ, Huyện An Lão, Thành phố Hải Phòng",
+        "code": "11674",
+        "parent_code": "313"
+    },
+    "11677": {
+        "name": "An Thái",
+        "type": "xa",
+        "slug": "an-thai",
+        "name_with_type": "Xã An Thái",
+        "path": "An Thái, An Lão, Hải Phòng",
+        "path_with_type": "Xã An Thái, Huyện An Lão, Thành phố Hải Phòng",
+        "code": "11677",
+        "parent_code": "313"
+    }
+}

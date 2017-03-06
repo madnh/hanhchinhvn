@@ -1,0 +1,152 @@
+{
+    "01222": {
+        "name": "Xuân Minh",
+        "type": "xa",
+        "slug": "xuan-minh",
+        "name_with_type": "Xã Xuân Minh",
+        "path": "Xuân Minh, Quang Bình, Hà Giang",
+        "path_with_type": "Xã Xuân Minh, Huyện Quang Bình, Tỉnh Hà Giang",
+        "code": "01222",
+        "parent_code": "035"
+    },
+    "01225": {
+        "name": "Tiên Nguyên",
+        "type": "xa",
+        "slug": "tien-nguyen",
+        "name_with_type": "Xã Tiên Nguyên",
+        "path": "Tiên Nguyên, Quang Bình, Hà Giang",
+        "path_with_type": "Xã Tiên Nguyên, Huyện Quang Bình, Tỉnh Hà Giang",
+        "code": "01225",
+        "parent_code": "035"
+    },
+    "01228": {
+        "name": "Tân Nam",
+        "type": "xa",
+        "slug": "tan-nam",
+        "name_with_type": "Xã Tân Nam",
+        "path": "Tân Nam, Quang Bình, Hà Giang",
+        "path_with_type": "Xã Tân Nam, Huyện Quang Bình, Tỉnh Hà Giang",
+        "code": "01228",
+        "parent_code": "035"
+    },
+    "01231": {
+        "name": "Bản Rịa",
+        "type": "xa",
+        "slug": "ban-ria",
+        "name_with_type": "Xã Bản Rịa",
+        "path": "Bản Rịa, Quang Bình, Hà Giang",
+        "path_with_type": "Xã Bản Rịa, Huyện Quang Bình, Tỉnh Hà Giang",
+        "code": "01231",
+        "parent_code": "035"
+    },
+    "01234": {
+        "name": "Yên Thành",
+        "type": "xa",
+        "slug": "yen-thanh",
+        "name_with_type": "Xã Yên Thành",
+        "path": "Yên Thành, Quang Bình, Hà Giang",
+        "path_with_type": "Xã Yên Thành, Huyện Quang Bình, Tỉnh Hà Giang",
+        "code": "01234",
+        "parent_code": "035"
+    },
+    "01237": {
+        "name": "Yên Bình",
+        "type": "thi-tran",
+        "slug": "yen-binh",
+        "name_with_type": "Thị trấn Yên Bình",
+        "path": "Yên Bình, Quang Bình, Hà Giang",
+        "path_with_type": "Thị trấn Yên Bình, Huyện Quang Bình, Tỉnh Hà Giang",
+        "code": "01237",
+        "parent_code": "035"
+    },
+    "01240": {
+        "name": "Tân Trịnh",
+        "type": "xa",
+        "slug": "tan-trinh",
+        "name_with_type": "Xã Tân Trịnh",
+        "path": "Tân Trịnh, Quang Bình, Hà Giang",
+        "path_with_type": "Xã Tân Trịnh, Huyện Quang Bình, Tỉnh Hà Giang",
+        "code": "01240",
+        "parent_code": "035"
+    },
+    "01243": {
+        "name": "Tân Bắc",
+        "type": "xa",
+        "slug": "tan-bac",
+        "name_with_type": "Xã Tân Bắc",
+        "path": "Tân Bắc, Quang Bình, Hà Giang",
+        "path_with_type": "Xã Tân Bắc, Huyện Quang Bình, Tỉnh Hà Giang",
+        "code": "01243",
+        "parent_code": "035"
+    },
+    "01246": {
+        "name": "Bằng Lang",
+        "type": "xa",
+        "slug": "bang-lang",
+        "name_with_type": "Xã Bằng Lang",
+        "path": "Bằng Lang, Quang Bình, Hà Giang",
+        "path_with_type": "Xã Bằng Lang, Huyện Quang Bình, Tỉnh Hà Giang",
+        "code": "01246",
+        "parent_code": "035"
+    },
+    "01249": {
+        "name": "Yên Hà",
+        "type": "xa",
+        "slug": "yen-ha",
+        "name_with_type": "Xã Yên Hà",
+        "path": "Yên Hà, Quang Bình, Hà Giang",
+        "path_with_type": "Xã Yên Hà, Huyện Quang Bình, Tỉnh Hà Giang",
+        "code": "01249",
+        "parent_code": "035"
+    },
+    "01252": {
+        "name": "Hương Sơn",
+        "type": "xa",
+        "slug": "huong-son",
+        "name_with_type": "Xã Hương Sơn",
+        "path": "Hương Sơn, Quang Bình, Hà Giang",
+        "path_with_type": "Xã Hương Sơn, Huyện Quang Bình, Tỉnh Hà Giang",
+        "code": "01252",
+        "parent_code": "035"
+    },
+    "01255": {
+        "name": "Xuân Giang",
+        "type": "xa",
+        "slug": "xuan-giang",
+        "name_with_type": "Xã Xuân Giang",
+        "path": "Xuân Giang, Quang Bình, Hà Giang",
+        "path_with_type": "Xã Xuân Giang, Huyện Quang Bình, Tỉnh Hà Giang",
+        "code": "01255",
+        "parent_code": "035"
+    },
+    "01258": {
+        "name": "Nà Khương",
+        "type": "xa",
+        "slug": "na-khuong",
+        "name_with_type": "Xã Nà Khương",
+        "path": "Nà Khương, Quang Bình, Hà Giang",
+        "path_with_type": "Xã Nà Khương, Huyện Quang Bình, Tỉnh Hà Giang",
+        "code": "01258",
+        "parent_code": "035"
+    },
+    "01261": {
+        "name": "Tiên Yên",
+        "type": "xa",
+        "slug": "tien-yen",
+        "name_with_type": "Xã Tiên Yên",
+        "path": "Tiên Yên, Quang Bình, Hà Giang",
+        "path_with_type": "Xã Tiên Yên, Huyện Quang Bình, Tỉnh Hà Giang",
+        "code": "01261",
+        "parent_code": "035"
+    },
+    "01264": {
+        "name": "Vĩ Thượng",
+        "type": "xa",
+        "slug": "vi-thuong",
+        "name_with_type": "Xã Vĩ Thượng",
+        "path": "Vĩ Thượng, Quang Bình, Hà Giang",
+        "path_with_type": "Xã Vĩ Thượng, Huyện Quang Bình, Tỉnh Hà Giang",
+        "code": "01264",
+        "parent_code": "035"
+    }
+}

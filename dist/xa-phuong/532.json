@@ -1,0 +1,122 @@
+{
+    "21364": {
+        "name": "Chợ Chùa",
+        "type": "thi-tran",
+        "slug": "cho-chua",
+        "name_with_type": "Thị trấn Chợ Chùa",
+        "path": "Chợ Chùa, Nghĩa Hành, Quảng Ngãi",
+        "path_with_type": "Thị trấn Chợ Chùa, Huyện Nghĩa Hành, Tỉnh Quảng Ngãi",
+        "code": "21364",
+        "parent_code": "532"
+    },
+    "21367": {
+        "name": "Hành Thuận",
+        "type": "xa",
+        "slug": "hanh-thuan",
+        "name_with_type": "Xã Hành Thuận",
+        "path": "Hành Thuận, Nghĩa Hành, Quảng Ngãi",
+        "path_with_type": "Xã Hành Thuận, Huyện Nghĩa Hành, Tỉnh Quảng Ngãi",
+        "code": "21367",
+        "parent_code": "532"
+    },
+    "21370": {
+        "name": "Hành Dũng",
+        "type": "xa",
+        "slug": "hanh-dung",
+        "name_with_type": "Xã Hành Dũng",
+        "path": "Hành Dũng, Nghĩa Hành, Quảng Ngãi",
+        "path_with_type": "Xã Hành Dũng, Huyện Nghĩa Hành, Tỉnh Quảng Ngãi",
+        "code": "21370",
+        "parent_code": "532"
+    },
+    "21373": {
+        "name": "Hành Trung",
+        "type": "xa",
+        "slug": "hanh-trung",
+        "name_with_type": "Xã Hành Trung",
+        "path": "Hành Trung, Nghĩa Hành, Quảng Ngãi",
+        "path_with_type": "Xã Hành Trung, Huyện Nghĩa Hành, Tỉnh Quảng Ngãi",
+        "code": "21373",
+        "parent_code": "532"
+    },
+    "21376": {
+        "name": "Hành Nhân",
+        "type": "xa",
+        "slug": "hanh-nhan",
+        "name_with_type": "Xã Hành Nhân",
+        "path": "Hành Nhân, Nghĩa Hành, Quảng Ngãi",
+        "path_with_type": "Xã Hành Nhân, Huyện Nghĩa Hành, Tỉnh Quảng Ngãi",
+        "code": "21376",
+        "parent_code": "532"
+    },
+    "21379": {
+        "name": "Hành Đức",
+        "type": "xa",
+        "slug": "hanh-duc",
+        "name_with_type": "Xã Hành Đức",
+        "path": "Hành Đức, Nghĩa Hành, Quảng Ngãi",
+        "path_with_type": "Xã Hành Đức, Huyện Nghĩa Hành, Tỉnh Quảng Ngãi",
+        "code": "21379",
+        "parent_code": "532"
+    },
+    "21382": {
+        "name": "Hành Minh",
+        "type": "xa",
+        "slug": "hanh-minh",
+        "name_with_type": "Xã Hành Minh",
+        "path": "Hành Minh, Nghĩa Hành, Quảng Ngãi",
+        "path_with_type": "Xã Hành Minh, Huyện Nghĩa Hành, Tỉnh Quảng Ngãi",
+        "code": "21382",
+        "parent_code": "532"
+    },
+    "21385": {
+        "name": "Hành Phước",
+        "type": "xa",
+        "slug": "hanh-phuoc",
+        "name_with_type": "Xã Hành Phước",
+        "path": "Hành Phước, Nghĩa Hành, Quảng Ngãi",
+        "path_with_type": "Xã Hành Phước, Huyện Nghĩa Hành, Tỉnh Quảng Ngãi",
+        "code": "21385",
+        "parent_code": "532"
+    },
+    "21388": {
+        "name": "Hành Thiện",
+        "type": "xa",
+        "slug": "hanh-thien",
+        "name_with_type": "Xã Hành Thiện",
+        "path": "Hành Thiện, Nghĩa Hành, Quảng Ngãi",
+        "path_with_type": "Xã Hành Thiện, Huyện Nghĩa Hành, Tỉnh Quảng Ngãi",
+        "code": "21388",
+        "parent_code": "532"
+    },
+    "21391": {
+        "name": "Hành Thịnh",
+        "type": "xa",
+        "slug": "hanh-thinh",
+        "name_with_type": "Xã Hành Thịnh",
+        "path": "Hành Thịnh, Nghĩa Hành, Quảng Ngãi",
+        "path_with_type": "Xã Hành Thịnh, Huyện Nghĩa Hành, Tỉnh Quảng Ngãi",
+        "code": "21391",
+        "parent_code": "532"
+    },
+    "21394": {
+        "name": "Hành Tín Tây",
+        "type": "xa",
+        "slug": "hanh-tin-tay",
+        "name_with_type": "Xã Hành Tín Tây",
+        "path": "Hành Tín Tây, Nghĩa Hành, Quảng Ngãi",
+        "path_with_type": "Xã Hành Tín Tây, Huyện Nghĩa Hành, Tỉnh Quảng Ngãi",
+        "code": "21394",
+        "parent_code": "532"
+    },
+    "21397": {
+        "name": "Hành Tín  Đông",
+        "type": "xa",
+        "slug": "hanh-tin-dong",
+        "name_with_type": "Xã Hành Tín  Đông",
+        "path": "Hành Tín  Đông, Nghĩa Hành, Quảng Ngãi",
+        "path_with_type": "Xã Hành Tín  Đông, Huyện Nghĩa Hành, Tỉnh Quảng Ngãi",
+        "code": "21397",
+        "parent_code": "532"
+    }
+}

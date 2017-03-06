@@ -1,0 +1,162 @@
+{
+    "24373": {
+        "name": "Ea Kar",
+        "type": "thi-tran",
+        "slug": "ea-kar",
+        "name_with_type": "Thị trấn Ea Kar",
+        "path": "Ea Kar, Ea Kar, Đắk Lắk",
+        "path_with_type": "Thị trấn Ea Kar, Huyện Ea Kar, Tỉnh Đắk Lắk",
+        "code": "24373",
+        "parent_code": "651"
+    },
+    "24376": {
+        "name": "Ea Knốp",
+        "type": "thi-tran",
+        "slug": "ea-knop",
+        "name_with_type": "Thị trấn Ea Knốp",
+        "path": "Ea Knốp, Ea Kar, Đắk Lắk",
+        "path_with_type": "Thị trấn Ea Knốp, Huyện Ea Kar, Tỉnh Đắk Lắk",
+        "code": "24376",
+        "parent_code": "651"
+    },
+    "24379": {
+        "name": "Ea Sô",
+        "type": "xa",
+        "slug": "ea-so",
+        "name_with_type": "Xã Ea Sô",
+        "path": "Ea Sô, Ea Kar, Đắk Lắk",
+        "path_with_type": "Xã Ea Sô, Huyện Ea Kar, Tỉnh Đắk Lắk",
+        "code": "24379",
+        "parent_code": "651"
+    },
+    "24380": {
+        "name": "Ea Sar",
+        "type": "xa",
+        "slug": "ea-sar",
+        "name_with_type": "Xã Ea Sar",
+        "path": "Ea Sar, Ea Kar, Đắk Lắk",
+        "path_with_type": "Xã Ea Sar, Huyện Ea Kar, Tỉnh Đắk Lắk",
+        "code": "24380",
+        "parent_code": "651"
+    },
+    "24382": {
+        "name": "Xuân Phú",
+        "type": "xa",
+        "slug": "xuan-phu",
+        "name_with_type": "Xã Xuân Phú",
+        "path": "Xuân Phú, Ea Kar, Đắk Lắk",
+        "path_with_type": "Xã Xuân Phú, Huyện Ea Kar, Tỉnh Đắk Lắk",
+        "code": "24382",
+        "parent_code": "651"
+    },
+    "24385": {
+        "name": "Cư Huê",
+        "type": "xa",
+        "slug": "cu-hue",
+        "name_with_type": "Xã Cư Huê",
+        "path": "Cư Huê, Ea Kar, Đắk Lắk",
+        "path_with_type": "Xã Cư Huê, Huyện Ea Kar, Tỉnh Đắk Lắk",
+        "code": "24385",
+        "parent_code": "651"
+    },
+    "24388": {
+        "name": "Ea Tih",
+        "type": "xa",
+        "slug": "ea-tih",
+        "name_with_type": "Xã Ea Tih",
+        "path": "Ea Tih, Ea Kar, Đắk Lắk",
+        "path_with_type": "Xã Ea Tih, Huyện Ea Kar, Tỉnh Đắk Lắk",
+        "code": "24388",
+        "parent_code": "651"
+    },
+    "24391": {
+        "name": "Ea Đar",
+        "type": "xa",
+        "slug": "ea-dar",
+        "name_with_type": "Xã Ea Đar",
+        "path": "Ea Đar, Ea Kar, Đắk Lắk",
+        "path_with_type": "Xã Ea Đar, Huyện Ea Kar, Tỉnh Đắk Lắk",
+        "code": "24391",
+        "parent_code": "651"
+    },
+    "24394": {
+        "name": "Ea Kmút",
+        "type": "xa",
+        "slug": "ea-kmut",
+        "name_with_type": "Xã Ea Kmút",
+        "path": "Ea Kmút, Ea Kar, Đắk Lắk",
+        "path_with_type": "Xã Ea Kmút, Huyện Ea Kar, Tỉnh Đắk Lắk",
+        "code": "24394",
+        "parent_code": "651"
+    },
+    "24397": {
+        "name": "Cư Ni",
+        "type": "xa",
+        "slug": "cu-ni",
+        "name_with_type": "Xã Cư Ni",
+        "path": "Cư Ni, Ea Kar, Đắk Lắk",
+        "path_with_type": "Xã Cư Ni, Huyện Ea Kar, Tỉnh Đắk Lắk",
+        "code": "24397",
+        "parent_code": "651"
+    },
+    "24400": {
+        "name": "Ea Păl",
+        "type": "xa",
+        "slug": "ea-pal",
+        "name_with_type": "Xã Ea Păl",
+        "path": "Ea Păl, Ea Kar, Đắk Lắk",
+        "path_with_type": "Xã Ea Păl, Huyện Ea Kar, Tỉnh Đắk Lắk",
+        "code": "24400",
+        "parent_code": "651"
+    },
+    "24401": {
+        "name": "Cư Prông",
+        "type": "xa",
+        "slug": "cu-prong",
+        "name_with_type": "Xã Cư Prông",
+        "path": "Cư Prông, Ea Kar, Đắk Lắk",
+        "path_with_type": "Xã Cư Prông, Huyện Ea Kar, Tỉnh Đắk Lắk",
+        "code": "24401",
+        "parent_code": "651"
+    },
+    "24403": {
+        "name": "Ea Ô",
+        "type": "xa",
+        "slug": "ea-o",
+        "name_with_type": "Xã Ea Ô",
+        "path": "Ea Ô, Ea Kar, Đắk Lắk",
+        "path_with_type": "Xã Ea Ô, Huyện Ea Kar, Tỉnh Đắk Lắk",
+        "code": "24403",
+        "parent_code": "651"
+    },
+    "24404": {
+        "name": "Cư ELang",
+        "type": "xa",
+        "slug": "cu-elang",
+        "name_with_type": "Xã Cư ELang",
+        "path": "Cư ELang, Ea Kar, Đắk Lắk",
+        "path_with_type": "Xã Cư ELang, Huyện Ea Kar, Tỉnh Đắk Lắk",
+        "code": "24404",
+        "parent_code": "651"
+    },
+    "24406": {
+        "name": "Cư Bông",
+        "type": "xa",
+        "slug": "cu-bong",
+        "name_with_type": "Xã Cư Bông",
+        "path": "Cư Bông, Ea Kar, Đắk Lắk",
+        "path_with_type": "Xã Cư Bông, Huyện Ea Kar, Tỉnh Đắk Lắk",
+        "code": "24406",
+        "parent_code": "651"
+    },
+    "24409": {
+        "name": "Cư Jang",
+        "type": "xa",
+        "slug": "cu-jang",
+        "name_with_type": "Xã Cư Jang",
+        "path": "Cư Jang, Ea Kar, Đắk Lắk",
+        "path_with_type": "Xã Cư Jang, Huyện Ea Kar, Tỉnh Đắk Lắk",
+        "code": "24409",
+        "parent_code": "651"
+    }
+}

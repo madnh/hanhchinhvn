@@ -1,0 +1,282 @@
+{
+    "15772": {
+        "name": "Vạn Hà",
+        "type": "thi-tran",
+        "slug": "van-ha",
+        "name_with_type": "Thị trấn Vạn Hà",
+        "path": "Vạn Hà, Thiệu Hóa, Thanh Hóa",
+        "path_with_type": "Thị trấn Vạn Hà, Huyện Thiệu Hóa, Tỉnh Thanh Hóa",
+        "code": "15772",
+        "parent_code": "398"
+    },
+    "15775": {
+        "name": "Thiệu Ngọc",
+        "type": "xa",
+        "slug": "thieu-ngoc",
+        "name_with_type": "Xã Thiệu Ngọc",
+        "path": "Thiệu Ngọc, Thiệu Hóa, Thanh Hóa",
+        "path_with_type": "Xã Thiệu Ngọc, Huyện Thiệu Hóa, Tỉnh Thanh Hóa",
+        "code": "15775",
+        "parent_code": "398"
+    },
+    "15778": {
+        "name": "Thiệu Vũ",
+        "type": "xa",
+        "slug": "thieu-vu",
+        "name_with_type": "Xã Thiệu Vũ",
+        "path": "Thiệu Vũ, Thiệu Hóa, Thanh Hóa",
+        "path_with_type": "Xã Thiệu Vũ, Huyện Thiệu Hóa, Tỉnh Thanh Hóa",
+        "code": "15778",
+        "parent_code": "398"
+    },
+    "15781": {
+        "name": "Thiệu Phúc",
+        "type": "xa",
+        "slug": "thieu-phuc",
+        "name_with_type": "Xã Thiệu Phúc",
+        "path": "Thiệu Phúc, Thiệu Hóa, Thanh Hóa",
+        "path_with_type": "Xã Thiệu Phúc, Huyện Thiệu Hóa, Tỉnh Thanh Hóa",
+        "code": "15781",
+        "parent_code": "398"
+    },
+    "15784": {
+        "name": "Thiệu Tiến",
+        "type": "xa",
+        "slug": "thieu-tien",
+        "name_with_type": "Xã Thiệu Tiến",
+        "path": "Thiệu Tiến, Thiệu Hóa, Thanh Hóa",
+        "path_with_type": "Xã Thiệu Tiến, Huyện Thiệu Hóa, Tỉnh Thanh Hóa",
+        "code": "15784",
+        "parent_code": "398"
+    },
+    "15787": {
+        "name": "Thiệu Công",
+        "type": "xa",
+        "slug": "thieu-cong",
+        "name_with_type": "Xã Thiệu Công",
+        "path": "Thiệu Công, Thiệu Hóa, Thanh Hóa",
+        "path_with_type": "Xã Thiệu Công, Huyện Thiệu Hóa, Tỉnh Thanh Hóa",
+        "code": "15787",
+        "parent_code": "398"
+    },
+    "15790": {
+        "name": "Thiệu Phú",
+        "type": "xa",
+        "slug": "thieu-phu",
+        "name_with_type": "Xã Thiệu Phú",
+        "path": "Thiệu Phú, Thiệu Hóa, Thanh Hóa",
+        "path_with_type": "Xã Thiệu Phú, Huyện Thiệu Hóa, Tỉnh Thanh Hóa",
+        "code": "15790",
+        "parent_code": "398"
+    },
+    "15793": {
+        "name": "Thiệu Long",
+        "type": "xa",
+        "slug": "thieu-long",
+        "name_with_type": "Xã Thiệu Long",
+        "path": "Thiệu Long, Thiệu Hóa, Thanh Hóa",
+        "path_with_type": "Xã Thiệu Long, Huyện Thiệu Hóa, Tỉnh Thanh Hóa",
+        "code": "15793",
+        "parent_code": "398"
+    },
+    "15796": {
+        "name": "Thiệu Giang",
+        "type": "xa",
+        "slug": "thieu-giang",
+        "name_with_type": "Xã Thiệu Giang",
+        "path": "Thiệu Giang, Thiệu Hóa, Thanh Hóa",
+        "path_with_type": "Xã Thiệu Giang, Huyện Thiệu Hóa, Tỉnh Thanh Hóa",
+        "code": "15796",
+        "parent_code": "398"
+    },
+    "15799": {
+        "name": "Thiệu Duy",
+        "type": "xa",
+        "slug": "thieu-duy",
+        "name_with_type": "Xã Thiệu Duy",
+        "path": "Thiệu Duy, Thiệu Hóa, Thanh Hóa",
+        "path_with_type": "Xã Thiệu Duy, Huyện Thiệu Hóa, Tỉnh Thanh Hóa",
+        "code": "15799",
+        "parent_code": "398"
+    },
+    "15802": {
+        "name": "Thiệu Nguyên",
+        "type": "xa",
+        "slug": "thieu-nguyen",
+        "name_with_type": "Xã Thiệu Nguyên",
+        "path": "Thiệu Nguyên, Thiệu Hóa, Thanh Hóa",
+        "path_with_type": "Xã Thiệu Nguyên, Huyện Thiệu Hóa, Tỉnh Thanh Hóa",
+        "code": "15802",
+        "parent_code": "398"
+    },
+    "15805": {
+        "name": "Thiệu Hợp",
+        "type": "xa",
+        "slug": "thieu-hop",
+        "name_with_type": "Xã Thiệu Hợp",
+        "path": "Thiệu Hợp, Thiệu Hóa, Thanh Hóa",
+        "path_with_type": "Xã Thiệu Hợp, Huyện Thiệu Hóa, Tỉnh Thanh Hóa",
+        "code": "15805",
+        "parent_code": "398"
+    },
+    "15808": {
+        "name": "Thiệu Thịnh",
+        "type": "xa",
+        "slug": "thieu-thinh",
+        "name_with_type": "Xã Thiệu Thịnh",
+        "path": "Thiệu Thịnh, Thiệu Hóa, Thanh Hóa",
+        "path_with_type": "Xã Thiệu Thịnh, Huyện Thiệu Hóa, Tỉnh Thanh Hóa",
+        "code": "15808",
+        "parent_code": "398"
+    },
+    "15811": {
+        "name": "Thiệu Quang",
+        "type": "xa",
+        "slug": "thieu-quang",
+        "name_with_type": "Xã Thiệu Quang",
+        "path": "Thiệu Quang, Thiệu Hóa, Thanh Hóa",
+        "path_with_type": "Xã Thiệu Quang, Huyện Thiệu Hóa, Tỉnh Thanh Hóa",
+        "code": "15811",
+        "parent_code": "398"
+    },
+    "15814": {
+        "name": "Thiệu Thành",
+        "type": "xa",
+        "slug": "thieu-thanh",
+        "name_with_type": "Xã Thiệu Thành",
+        "path": "Thiệu Thành, Thiệu Hóa, Thanh Hóa",
+        "path_with_type": "Xã Thiệu Thành, Huyện Thiệu Hóa, Tỉnh Thanh Hóa",
+        "code": "15814",
+        "parent_code": "398"
+    },
+    "15817": {
+        "name": "Thiệu Toán",
+        "type": "xa",
+        "slug": "thieu-toan",
+        "name_with_type": "Xã Thiệu Toán",
+        "path": "Thiệu Toán, Thiệu Hóa, Thanh Hóa",
+        "path_with_type": "Xã Thiệu Toán, Huyện Thiệu Hóa, Tỉnh Thanh Hóa",
+        "code": "15817",
+        "parent_code": "398"
+    },
+    "15820": {
+        "name": "Thiệu Chính",
+        "type": "xa",
+        "slug": "thieu-chinh",
+        "name_with_type": "Xã Thiệu Chính",
+        "path": "Thiệu Chính, Thiệu Hóa, Thanh Hóa",
+        "path_with_type": "Xã Thiệu Chính, Huyện Thiệu Hóa, Tỉnh Thanh Hóa",
+        "code": "15820",
+        "parent_code": "398"
+    },
+    "15823": {
+        "name": "Thiệu Hòa",
+        "type": "xa",
+        "slug": "thieu-hoa",
+        "name_with_type": "Xã Thiệu Hòa",
+        "path": "Thiệu Hòa, Thiệu Hóa, Thanh Hóa",
+        "path_with_type": "Xã Thiệu Hòa, Huyện Thiệu Hóa, Tỉnh Thanh Hóa",
+        "code": "15823",
+        "parent_code": "398"
+    },
+    "15826": {
+        "name": "Thiệu Minh",
+        "type": "xa",
+        "slug": "thieu-minh",
+        "name_with_type": "Xã Thiệu Minh",
+        "path": "Thiệu Minh, Thiệu Hóa, Thanh Hóa",
+        "path_with_type": "Xã Thiệu Minh, Huyện Thiệu Hóa, Tỉnh Thanh Hóa",
+        "code": "15826",
+        "parent_code": "398"
+    },
+    "15829": {
+        "name": "Thiệu Tâm",
+        "type": "xa",
+        "slug": "thieu-tam",
+        "name_with_type": "Xã Thiệu Tâm",
+        "path": "Thiệu Tâm, Thiệu Hóa, Thanh Hóa",
+        "path_with_type": "Xã Thiệu Tâm, Huyện Thiệu Hóa, Tỉnh Thanh Hóa",
+        "code": "15829",
+        "parent_code": "398"
+    },
+    "15832": {
+        "name": "Thiệu Viên",
+        "type": "xa",
+        "slug": "thieu-vien",
+        "name_with_type": "Xã Thiệu Viên",
+        "path": "Thiệu Viên, Thiệu Hóa, Thanh Hóa",
+        "path_with_type": "Xã Thiệu Viên, Huyện Thiệu Hóa, Tỉnh Thanh Hóa",
+        "code": "15832",
+        "parent_code": "398"
+    },
+    "15835": {
+        "name": "Thiệu Lý",
+        "type": "xa",
+        "slug": "thieu-ly",
+        "name_with_type": "Xã Thiệu Lý",
+        "path": "Thiệu Lý, Thiệu Hóa, Thanh Hóa",
+        "path_with_type": "Xã Thiệu Lý, Huyện Thiệu Hóa, Tỉnh Thanh Hóa",
+        "code": "15835",
+        "parent_code": "398"
+    },
+    "15838": {
+        "name": "Thiệu Vận",
+        "type": "xa",
+        "slug": "thieu-van",
+        "name_with_type": "Xã Thiệu Vận",
+        "path": "Thiệu Vận, Thiệu Hóa, Thanh Hóa",
+        "path_with_type": "Xã Thiệu Vận, Huyện Thiệu Hóa, Tỉnh Thanh Hóa",
+        "code": "15838",
+        "parent_code": "398"
+    },
+    "15841": {
+        "name": "Thiệu Trung",
+        "type": "xa",
+        "slug": "thieu-trung",
+        "name_with_type": "Xã Thiệu Trung",
+        "path": "Thiệu Trung, Thiệu Hóa, Thanh Hóa",
+        "path_with_type": "Xã Thiệu Trung, Huyện Thiệu Hóa, Tỉnh Thanh Hóa",
+        "code": "15841",
+        "parent_code": "398"
+    },
+    "15844": {
+        "name": "Thiệu Đô",
+        "type": "xa",
+        "slug": "thieu-do",
+        "name_with_type": "Xã Thiệu Đô",
+        "path": "Thiệu Đô, Thiệu Hóa, Thanh Hóa",
+        "path_with_type": "Xã Thiệu Đô, Huyện Thiệu Hóa, Tỉnh Thanh Hóa",
+        "code": "15844",
+        "parent_code": "398"
+    },
+    "15847": {
+        "name": "Thiệu Châu",
+        "type": "xa",
+        "slug": "thieu-chau",
+        "name_with_type": "Xã Thiệu Châu",
+        "path": "Thiệu Châu, Thiệu Hóa, Thanh Hóa",
+        "path_with_type": "Xã Thiệu Châu, Huyện Thiệu Hóa, Tỉnh Thanh Hóa",
+        "code": "15847",
+        "parent_code": "398"
+    },
+    "15853": {
+        "name": "Thiệu Giao",
+        "type": "xa",
+        "slug": "thieu-giao",
+        "name_with_type": "Xã Thiệu Giao",
+        "path": "Thiệu Giao, Thiệu Hóa, Thanh Hóa",
+        "path_with_type": "Xã Thiệu Giao, Huyện Thiệu Hóa, Tỉnh Thanh Hóa",
+        "code": "15853",
+        "parent_code": "398"
+    },
+    "15862": {
+        "name": "Thiệu Tân",
+        "type": "xa",
+        "slug": "thieu-tan",
+        "name_with_type": "Xã Thiệu Tân",
+        "path": "Thiệu Tân, Thiệu Hóa, Thanh Hóa",
+        "path_with_type": "Xã Thiệu Tân, Huyện Thiệu Hóa, Tỉnh Thanh Hóa",
+        "code": "15862",
+        "parent_code": "398"
+    }
+}

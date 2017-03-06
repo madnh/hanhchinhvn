@@ -1,0 +1,152 @@
+{
+    "29863": {
+        "name": "11",
+        "type": "phuong",
+        "slug": "11",
+        "name_with_type": "Phường 11",
+        "path": "11, Cao Lãnh, Đồng Tháp",
+        "path_with_type": "Phường 11, Thành phố Cao Lãnh, Tỉnh Đồng Tháp",
+        "code": "29863",
+        "parent_code": "866"
+    },
+    "29866": {
+        "name": "1",
+        "type": "phuong",
+        "slug": "1",
+        "name_with_type": "Phường 1",
+        "path": "1, Cao Lãnh, Đồng Tháp",
+        "path_with_type": "Phường 1, Thành phố Cao Lãnh, Tỉnh Đồng Tháp",
+        "code": "29866",
+        "parent_code": "866"
+    },
+    "29869": {
+        "name": "2",
+        "type": "phuong",
+        "slug": "2",
+        "name_with_type": "Phường 2",
+        "path": "2, Cao Lãnh, Đồng Tháp",
+        "path_with_type": "Phường 2, Thành phố Cao Lãnh, Tỉnh Đồng Tháp",
+        "code": "29869",
+        "parent_code": "866"
+    },
+    "29872": {
+        "name": "4",
+        "type": "phuong",
+        "slug": "4",
+        "name_with_type": "Phường 4",
+        "path": "4, Cao Lãnh, Đồng Tháp",
+        "path_with_type": "Phường 4, Thành phố Cao Lãnh, Tỉnh Đồng Tháp",
+        "code": "29872",
+        "parent_code": "866"
+    },
+    "29875": {
+        "name": "3",
+        "type": "phuong",
+        "slug": "3",
+        "name_with_type": "Phường 3",
+        "path": "3, Cao Lãnh, Đồng Tháp",
+        "path_with_type": "Phường 3, Thành phố Cao Lãnh, Tỉnh Đồng Tháp",
+        "code": "29875",
+        "parent_code": "866"
+    },
+    "29878": {
+        "name": "6",
+        "type": "phuong",
+        "slug": "6",
+        "name_with_type": "Phường 6",
+        "path": "6, Cao Lãnh, Đồng Tháp",
+        "path_with_type": "Phường 6, Thành phố Cao Lãnh, Tỉnh Đồng Tháp",
+        "code": "29878",
+        "parent_code": "866"
+    },
+    "29881": {
+        "name": "Mỹ Ngãi",
+        "type": "xa",
+        "slug": "my-ngai",
+        "name_with_type": "Xã Mỹ Ngãi",
+        "path": "Mỹ Ngãi, Cao Lãnh, Đồng Tháp",
+        "path_with_type": "Xã Mỹ Ngãi, Thành phố Cao Lãnh, Tỉnh Đồng Tháp",
+        "code": "29881",
+        "parent_code": "866"
+    },
+    "29884": {
+        "name": "Mỹ Tân",
+        "type": "xa",
+        "slug": "my-tan",
+        "name_with_type": "Xã Mỹ Tân",
+        "path": "Mỹ Tân, Cao Lãnh, Đồng Tháp",
+        "path_with_type": "Xã Mỹ Tân, Thành phố Cao Lãnh, Tỉnh Đồng Tháp",
+        "code": "29884",
+        "parent_code": "866"
+    },
+    "29887": {
+        "name": "Mỹ Trà",
+        "type": "xa",
+        "slug": "my-tra",
+        "name_with_type": "Xã Mỹ Trà",
+        "path": "Mỹ Trà, Cao Lãnh, Đồng Tháp",
+        "path_with_type": "Xã Mỹ Trà, Thành phố Cao Lãnh, Tỉnh Đồng Tháp",
+        "code": "29887",
+        "parent_code": "866"
+    },
+    "29888": {
+        "name": "Mỹ Phú",
+        "type": "phuong",
+        "slug": "my-phu",
+        "name_with_type": "Phường Mỹ Phú",
+        "path": "Mỹ Phú, Cao Lãnh, Đồng Tháp",
+        "path_with_type": "Phường Mỹ Phú, Thành phố Cao Lãnh, Tỉnh Đồng Tháp",
+        "code": "29888",
+        "parent_code": "866"
+    },
+    "29890": {
+        "name": "Tân Thuận Tây",
+        "type": "xa",
+        "slug": "tan-thuan-tay",
+        "name_with_type": "Xã Tân Thuận Tây",
+        "path": "Tân Thuận Tây, Cao Lãnh, Đồng Tháp",
+        "path_with_type": "Xã Tân Thuận Tây, Thành phố Cao Lãnh, Tỉnh Đồng Tháp",
+        "code": "29890",
+        "parent_code": "866"
+    },
+    "29892": {
+        "name": "Hoà Thuận",
+        "type": "phuong",
+        "slug": "hoa-thuan",
+        "name_with_type": "Phường Hoà Thuận",
+        "path": "Hoà Thuận, Cao Lãnh, Đồng Tháp",
+        "path_with_type": "Phường Hoà Thuận, Thành phố Cao Lãnh, Tỉnh Đồng Tháp",
+        "code": "29892",
+        "parent_code": "866"
+    },
+    "29893": {
+        "name": "Hòa An",
+        "type": "xa",
+        "slug": "hoa-an",
+        "name_with_type": "Xã Hòa An",
+        "path": "Hòa An, Cao Lãnh, Đồng Tháp",
+        "path_with_type": "Xã Hòa An, Thành phố Cao Lãnh, Tỉnh Đồng Tháp",
+        "code": "29893",
+        "parent_code": "866"
+    },
+    "29896": {
+        "name": "Tân Thuận Đông",
+        "type": "xa",
+        "slug": "tan-thuan-dong",
+        "name_with_type": "Xã Tân Thuận Đông",
+        "path": "Tân Thuận Đông, Cao Lãnh, Đồng Tháp",
+        "path_with_type": "Xã Tân Thuận Đông, Thành phố Cao Lãnh, Tỉnh Đồng Tháp",
+        "code": "29896",
+        "parent_code": "866"
+    },
+    "29899": {
+        "name": "Tịnh Thới",
+        "type": "xa",
+        "slug": "tinh-thoi",
+        "name_with_type": "Xã Tịnh Thới",
+        "path": "Tịnh Thới, Cao Lãnh, Đồng Tháp",
+        "path_with_type": "Xã Tịnh Thới, Thành phố Cao Lãnh, Tỉnh Đồng Tháp",
+        "code": "29899",
+        "parent_code": "866"
+    }
+}

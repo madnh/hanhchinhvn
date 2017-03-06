@@ -1,0 +1,162 @@
+{
+    "07201": {
+        "name": "Thọ Xương",
+        "type": "phuong",
+        "slug": "tho-xuong",
+        "name_with_type": "Phường Thọ Xương",
+        "path": "Thọ Xương, Bắc Giang, Bắc Giang",
+        "path_with_type": "Phường Thọ Xương, Thành phố Bắc Giang, Tỉnh Bắc Giang",
+        "code": "07201",
+        "parent_code": "213"
+    },
+    "07204": {
+        "name": "Trần Nguyên Hãn",
+        "type": "phuong",
+        "slug": "tran-nguyen-han",
+        "name_with_type": "Phường Trần Nguyên Hãn",
+        "path": "Trần Nguyên Hãn, Bắc Giang, Bắc Giang",
+        "path_with_type": "Phường Trần Nguyên Hãn, Thành phố Bắc Giang, Tỉnh Bắc Giang",
+        "code": "07204",
+        "parent_code": "213"
+    },
+    "07207": {
+        "name": "Ngô Quyền",
+        "type": "phuong",
+        "slug": "ngo-quyen",
+        "name_with_type": "Phường Ngô Quyền",
+        "path": "Ngô Quyền, Bắc Giang, Bắc Giang",
+        "path_with_type": "Phường Ngô Quyền, Thành phố Bắc Giang, Tỉnh Bắc Giang",
+        "code": "07207",
+        "parent_code": "213"
+    },
+    "07210": {
+        "name": "Hoàng Văn Thụ",
+        "type": "phuong",
+        "slug": "hoang-van-thu",
+        "name_with_type": "Phường Hoàng Văn Thụ",
+        "path": "Hoàng Văn Thụ, Bắc Giang, Bắc Giang",
+        "path_with_type": "Phường Hoàng Văn Thụ, Thành phố Bắc Giang, Tỉnh Bắc Giang",
+        "code": "07210",
+        "parent_code": "213"
+    },
+    "07213": {
+        "name": "Trần Phú",
+        "type": "phuong",
+        "slug": "tran-phu",
+        "name_with_type": "Phường Trần Phú",
+        "path": "Trần Phú, Bắc Giang, Bắc Giang",
+        "path_with_type": "Phường Trần Phú, Thành phố Bắc Giang, Tỉnh Bắc Giang",
+        "code": "07213",
+        "parent_code": "213"
+    },
+    "07216": {
+        "name": "Mỹ Độ",
+        "type": "phuong",
+        "slug": "my-do",
+        "name_with_type": "Phường Mỹ Độ",
+        "path": "Mỹ Độ, Bắc Giang, Bắc Giang",
+        "path_with_type": "Phường Mỹ Độ, Thành phố Bắc Giang, Tỉnh Bắc Giang",
+        "code": "07216",
+        "parent_code": "213"
+    },
+    "07219": {
+        "name": "Lê Lợi",
+        "type": "phuong",
+        "slug": "le-loi",
+        "name_with_type": "Phường Lê Lợi",
+        "path": "Lê Lợi, Bắc Giang, Bắc Giang",
+        "path_with_type": "Phường Lê Lợi, Thành phố Bắc Giang, Tỉnh Bắc Giang",
+        "code": "07219",
+        "parent_code": "213"
+    },
+    "07222": {
+        "name": "Song Mai",
+        "type": "xa",
+        "slug": "song-mai",
+        "name_with_type": "Xã Song Mai",
+        "path": "Song Mai, Bắc Giang, Bắc Giang",
+        "path_with_type": "Xã Song Mai, Thành phố Bắc Giang, Tỉnh Bắc Giang",
+        "code": "07222",
+        "parent_code": "213"
+    },
+    "07225": {
+        "name": "Xương Giang",
+        "type": "phuong",
+        "slug": "xuong-giang",
+        "name_with_type": "Phường Xương Giang",
+        "path": "Xương Giang, Bắc Giang, Bắc Giang",
+        "path_with_type": "Phường Xương Giang, Thành phố Bắc Giang, Tỉnh Bắc Giang",
+        "code": "07225",
+        "parent_code": "213"
+    },
+    "07228": {
+        "name": "Đa Mai",
+        "type": "phuong",
+        "slug": "da-mai",
+        "name_with_type": "Phường Đa Mai",
+        "path": "Đa Mai, Bắc Giang, Bắc Giang",
+        "path_with_type": "Phường Đa Mai, Thành phố Bắc Giang, Tỉnh Bắc Giang",
+        "code": "07228",
+        "parent_code": "213"
+    },
+    "07231": {
+        "name": "Dĩnh Kế",
+        "type": "phuong",
+        "slug": "dinh-ke",
+        "name_with_type": "Phường Dĩnh Kế",
+        "path": "Dĩnh Kế, Bắc Giang, Bắc Giang",
+        "path_with_type": "Phường Dĩnh Kế, Thành phố Bắc Giang, Tỉnh Bắc Giang",
+        "code": "07231",
+        "parent_code": "213"
+    },
+    "07441": {
+        "name": "Dĩnh Trì",
+        "type": "xa",
+        "slug": "dinh-tri",
+        "name_with_type": "Xã Dĩnh Trì",
+        "path": "Dĩnh Trì, Bắc Giang, Bắc Giang",
+        "path_with_type": "Xã Dĩnh Trì, Thành phố Bắc Giang, Tỉnh Bắc Giang",
+        "code": "07441",
+        "parent_code": "213"
+    },
+    "07687": {
+        "name": "Tân Mỹ",
+        "type": "xa",
+        "slug": "tan-my",
+        "name_with_type": "Xã Tân Mỹ",
+        "path": "Tân Mỹ, Bắc Giang, Bắc Giang",
+        "path_with_type": "Xã Tân Mỹ, Thành phố Bắc Giang, Tỉnh Bắc Giang",
+        "code": "07687",
+        "parent_code": "213"
+    },
+    "07696": {
+        "name": "Đồng Sơn",
+        "type": "xa",
+        "slug": "dong-son",
+        "name_with_type": "Xã Đồng Sơn",
+        "path": "Đồng Sơn, Bắc Giang, Bắc Giang",
+        "path_with_type": "Xã Đồng Sơn, Thành phố Bắc Giang, Tỉnh Bắc Giang",
+        "code": "07696",
+        "parent_code": "213"
+    },
+    "07699": {
+        "name": "Tân Tiến",
+        "type": "xa",
+        "slug": "tan-tien",
+        "name_with_type": "Xã Tân Tiến",
+        "path": "Tân Tiến, Bắc Giang, Bắc Giang",
+        "path_with_type": "Xã Tân Tiến, Thành phố Bắc Giang, Tỉnh Bắc Giang",
+        "code": "07699",
+        "parent_code": "213"
+    },
+    "07705": {
+        "name": "Song Khê",
+        "type": "xa",
+        "slug": "song-khe",
+        "name_with_type": "Xã Song Khê",
+        "path": "Song Khê, Bắc Giang, Bắc Giang",
+        "path_with_type": "Xã Song Khê, Thành phố Bắc Giang, Tỉnh Bắc Giang",
+        "code": "07705",
+        "parent_code": "213"
+    }
+}

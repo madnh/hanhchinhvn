@@ -1,0 +1,192 @@
+{
+    "01392": {
+        "name": "Xuân Hòa",
+        "type": "thi-tran",
+        "slug": "xuan-hoa",
+        "name_with_type": "Thị trấn Xuân Hòa",
+        "path": "Xuân Hòa, Hà Quảng, Cao Bằng",
+        "path_with_type": "Thị trấn Xuân Hòa, Huyện Hà Quảng, Tỉnh Cao Bằng",
+        "code": "01392",
+        "parent_code": "045"
+    },
+    "01393": {
+        "name": "Lũng Nặm",
+        "type": "xa",
+        "slug": "lung-nam",
+        "name_with_type": "Xã Lũng Nặm",
+        "path": "Lũng Nặm, Hà Quảng, Cao Bằng",
+        "path_with_type": "Xã Lũng Nặm, Huyện Hà Quảng, Tỉnh Cao Bằng",
+        "code": "01393",
+        "parent_code": "045"
+    },
+    "01396": {
+        "name": "Kéo Yên",
+        "type": "xa",
+        "slug": "keo-yen",
+        "name_with_type": "Xã Kéo Yên",
+        "path": "Kéo Yên, Hà Quảng, Cao Bằng",
+        "path_with_type": "Xã Kéo Yên, Huyện Hà Quảng, Tỉnh Cao Bằng",
+        "code": "01396",
+        "parent_code": "045"
+    },
+    "01399": {
+        "name": "Trường Hà",
+        "type": "xa",
+        "slug": "truong-ha",
+        "name_with_type": "Xã Trường Hà",
+        "path": "Trường Hà, Hà Quảng, Cao Bằng",
+        "path_with_type": "Xã Trường Hà, Huyện Hà Quảng, Tỉnh Cao Bằng",
+        "code": "01399",
+        "parent_code": "045"
+    },
+    "01402": {
+        "name": "Vân An",
+        "type": "xa",
+        "slug": "van-an",
+        "name_with_type": "Xã Vân An",
+        "path": "Vân An, Hà Quảng, Cao Bằng",
+        "path_with_type": "Xã Vân An, Huyện Hà Quảng, Tỉnh Cao Bằng",
+        "code": "01402",
+        "parent_code": "045"
+    },
+    "01405": {
+        "name": "Cải Viên",
+        "type": "xa",
+        "slug": "cai-vien",
+        "name_with_type": "Xã Cải Viên",
+        "path": "Cải Viên, Hà Quảng, Cao Bằng",
+        "path_with_type": "Xã Cải Viên, Huyện Hà Quảng, Tỉnh Cao Bằng",
+        "code": "01405",
+        "parent_code": "045"
+    },
+    "01408": {
+        "name": "Nà Sác",
+        "type": "xa",
+        "slug": "na-sac",
+        "name_with_type": "Xã Nà Sác",
+        "path": "Nà Sác, Hà Quảng, Cao Bằng",
+        "path_with_type": "Xã Nà Sác, Huyện Hà Quảng, Tỉnh Cao Bằng",
+        "code": "01408",
+        "parent_code": "045"
+    },
+    "01411": {
+        "name": "Nội Thôn",
+        "type": "xa",
+        "slug": "noi-thon",
+        "name_with_type": "Xã Nội Thôn",
+        "path": "Nội Thôn, Hà Quảng, Cao Bằng",
+        "path_with_type": "Xã Nội Thôn, Huyện Hà Quảng, Tỉnh Cao Bằng",
+        "code": "01411",
+        "parent_code": "045"
+    },
+    "01414": {
+        "name": "Tổng Cọt",
+        "type": "xa",
+        "slug": "tong-cot",
+        "name_with_type": "Xã Tổng Cọt",
+        "path": "Tổng Cọt, Hà Quảng, Cao Bằng",
+        "path_with_type": "Xã Tổng Cọt, Huyện Hà Quảng, Tỉnh Cao Bằng",
+        "code": "01414",
+        "parent_code": "045"
+    },
+    "01417": {
+        "name": "Sóc Hà",
+        "type": "xa",
+        "slug": "soc-ha",
+        "name_with_type": "Xã Sóc Hà",
+        "path": "Sóc Hà, Hà Quảng, Cao Bằng",
+        "path_with_type": "Xã Sóc Hà, Huyện Hà Quảng, Tỉnh Cao Bằng",
+        "code": "01417",
+        "parent_code": "045"
+    },
+    "01420": {
+        "name": "Thượng Thôn",
+        "type": "xa",
+        "slug": "thuong-thon",
+        "name_with_type": "Xã Thượng Thôn",
+        "path": "Thượng Thôn, Hà Quảng, Cao Bằng",
+        "path_with_type": "Xã Thượng Thôn, Huyện Hà Quảng, Tỉnh Cao Bằng",
+        "code": "01420",
+        "parent_code": "045"
+    },
+    "01423": {
+        "name": "Vần Dính",
+        "type": "xa",
+        "slug": "van-dinh",
+        "name_with_type": "Xã Vần Dính",
+        "path": "Vần Dính, Hà Quảng, Cao Bằng",
+        "path_with_type": "Xã Vần Dính, Huyện Hà Quảng, Tỉnh Cao Bằng",
+        "code": "01423",
+        "parent_code": "045"
+    },
+    "01426": {
+        "name": "Hồng Sĩ",
+        "type": "xa",
+        "slug": "hong-si",
+        "name_with_type": "Xã Hồng Sĩ",
+        "path": "Hồng Sĩ, Hà Quảng, Cao Bằng",
+        "path_with_type": "Xã Hồng Sĩ, Huyện Hà Quảng, Tỉnh Cao Bằng",
+        "code": "01426",
+        "parent_code": "045"
+    },
+    "01429": {
+        "name": "Sĩ Hai",
+        "type": "xa",
+        "slug": "si-hai",
+        "name_with_type": "Xã Sĩ Hai",
+        "path": "Sĩ Hai, Hà Quảng, Cao Bằng",
+        "path_with_type": "Xã Sĩ Hai, Huyện Hà Quảng, Tỉnh Cao Bằng",
+        "code": "01429",
+        "parent_code": "045"
+    },
+    "01432": {
+        "name": "Quý Quân",
+        "type": "xa",
+        "slug": "quy-quan",
+        "name_with_type": "Xã Quý Quân",
+        "path": "Quý Quân, Hà Quảng, Cao Bằng",
+        "path_with_type": "Xã Quý Quân, Huyện Hà Quảng, Tỉnh Cao Bằng",
+        "code": "01432",
+        "parent_code": "045"
+    },
+    "01435": {
+        "name": "Mã Ba",
+        "type": "xa",
+        "slug": "ma-ba",
+        "name_with_type": "Xã Mã Ba",
+        "path": "Mã Ba, Hà Quảng, Cao Bằng",
+        "path_with_type": "Xã Mã Ba, Huyện Hà Quảng, Tỉnh Cao Bằng",
+        "code": "01435",
+        "parent_code": "045"
+    },
+    "01438": {
+        "name": "Phù Ngọc",
+        "type": "xa",
+        "slug": "phu-ngoc",
+        "name_with_type": "Xã Phù Ngọc",
+        "path": "Phù Ngọc, Hà Quảng, Cao Bằng",
+        "path_with_type": "Xã Phù Ngọc, Huyện Hà Quảng, Tỉnh Cao Bằng",
+        "code": "01438",
+        "parent_code": "045"
+    },
+    "01441": {
+        "name": "Đào Ngạn",
+        "type": "xa",
+        "slug": "dao-ngan",
+        "name_with_type": "Xã Đào Ngạn",
+        "path": "Đào Ngạn, Hà Quảng, Cao Bằng",
+        "path_with_type": "Xã Đào Ngạn, Huyện Hà Quảng, Tỉnh Cao Bằng",
+        "code": "01441",
+        "parent_code": "045"
+    },
+    "01444": {
+        "name": "Hạ Thôn",
+        "type": "xa",
+        "slug": "ha-thon",
+        "name_with_type": "Xã Hạ Thôn",
+        "path": "Hạ Thôn, Hà Quảng, Cao Bằng",
+        "path_with_type": "Xã Hạ Thôn, Huyện Hà Quảng, Tỉnh Cao Bằng",
+        "code": "01444",
+        "parent_code": "045"
+    }
+}

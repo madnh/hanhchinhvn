@@ -1,0 +1,102 @@
+{
+    "03598": {
+        "name": "Tân Uyên",
+        "type": "thi-tran",
+        "slug": "tan-uyen",
+        "name_with_type": "Thị trấn Tân Uyên",
+        "path": "Tân Uyên, Tân Uyên, Lai Châu",
+        "path_with_type": "Thị trấn Tân Uyên, Huyện Tân Uyên, Tỉnh Lai Châu",
+        "code": "03598",
+        "parent_code": "111"
+    },
+    "03601": {
+        "name": "Mường Khoa",
+        "type": "xa",
+        "slug": "muong-khoa",
+        "name_with_type": "Xã Mường Khoa",
+        "path": "Mường Khoa, Tân Uyên, Lai Châu",
+        "path_with_type": "Xã Mường Khoa, Huyện Tân Uyên, Tỉnh Lai Châu",
+        "code": "03601",
+        "parent_code": "111"
+    },
+    "03602": {
+        "name": "Phúc Khoa",
+        "type": "xa",
+        "slug": "phuc-khoa",
+        "name_with_type": "Xã Phúc Khoa",
+        "path": "Phúc Khoa, Tân Uyên, Lai Châu",
+        "path_with_type": "Xã Phúc Khoa, Huyện Tân Uyên, Tỉnh Lai Châu",
+        "code": "03602",
+        "parent_code": "111"
+    },
+    "03604": {
+        "name": "Thân Thuộc",
+        "type": "xa",
+        "slug": "than-thuoc",
+        "name_with_type": "Xã Thân Thuộc",
+        "path": "Thân Thuộc, Tân Uyên, Lai Châu",
+        "path_with_type": "Xã Thân Thuộc, Huyện Tân Uyên, Tỉnh Lai Châu",
+        "code": "03604",
+        "parent_code": "111"
+    },
+    "03605": {
+        "name": "Trung Đồng",
+        "type": "xa",
+        "slug": "trung-dong",
+        "name_with_type": "Xã Trung Đồng",
+        "path": "Trung Đồng, Tân Uyên, Lai Châu",
+        "path_with_type": "Xã Trung Đồng, Huyện Tân Uyên, Tỉnh Lai Châu",
+        "code": "03605",
+        "parent_code": "111"
+    },
+    "03607": {
+        "name": "Hố Mít",
+        "type": "xa",
+        "slug": "ho-mit",
+        "name_with_type": "Xã Hố Mít",
+        "path": "Hố Mít, Tân Uyên, Lai Châu",
+        "path_with_type": "Xã Hố Mít, Huyện Tân Uyên, Tỉnh Lai Châu",
+        "code": "03607",
+        "parent_code": "111"
+    },
+    "03610": {
+        "name": "Nậm Cần",
+        "type": "xa",
+        "slug": "nam-can",
+        "name_with_type": "Xã Nậm Cần",
+        "path": "Nậm Cần, Tân Uyên, Lai Châu",
+        "path_with_type": "Xã Nậm Cần, Huyện Tân Uyên, Tỉnh Lai Châu",
+        "code": "03610",
+        "parent_code": "111"
+    },
+    "03613": {
+        "name": "Nậm Sỏ",
+        "type": "xa",
+        "slug": "nam-so",
+        "name_with_type": "Xã Nậm Sỏ",
+        "path": "Nậm Sỏ, Tân Uyên, Lai Châu",
+        "path_with_type": "Xã Nậm Sỏ, Huyện Tân Uyên, Tỉnh Lai Châu",
+        "code": "03613",
+        "parent_code": "111"
+    },
+    "03616": {
+        "name": "Pắc Ta",
+        "type": "xa",
+        "slug": "pac-ta",
+        "name_with_type": "Xã Pắc Ta",
+        "path": "Pắc Ta, Tân Uyên, Lai Châu",
+        "path_with_type": "Xã Pắc Ta, Huyện Tân Uyên, Tỉnh Lai Châu",
+        "code": "03616",
+        "parent_code": "111"
+    },
+    "03622": {
+        "name": "Tà Mít",
+        "type": "xa",
+        "slug": "ta-mit",
+        "name_with_type": "Xã Tà Mít",
+        "path": "Tà Mít, Tân Uyên, Lai Châu",
+        "path_with_type": "Xã Tà Mít, Huyện Tân Uyên, Tỉnh Lai Châu",
+        "code": "03622",
+        "parent_code": "111"
+    }
+}

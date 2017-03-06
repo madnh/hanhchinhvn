@@ -1,0 +1,132 @@
+{
+    "31258": {
+        "name": "Thới Lai",
+        "type": "thi-tran",
+        "slug": "thoi-lai",
+        "name_with_type": "Thị trấn Thới Lai",
+        "path": "Thới Lai, Thới Lai, Cần Thơ",
+        "path_with_type": "Thị trấn Thới Lai, Huyện Thới Lai, Thành phố Cần Thơ",
+        "code": "31258",
+        "parent_code": "927"
+    },
+    "31267": {
+        "name": "Thới Thạnh",
+        "type": "xa",
+        "slug": "thoi-thanh",
+        "name_with_type": "Xã Thới Thạnh",
+        "path": "Thới Thạnh, Thới Lai, Cần Thơ",
+        "path_with_type": "Xã Thới Thạnh, Huyện Thới Lai, Thành phố Cần Thơ",
+        "code": "31267",
+        "parent_code": "927"
+    },
+    "31268": {
+        "name": "Tân Thạnh",
+        "type": "xa",
+        "slug": "tan-thanh",
+        "name_with_type": "Xã Tân Thạnh",
+        "path": "Tân Thạnh, Thới Lai, Cần Thơ",
+        "path_with_type": "Xã Tân Thạnh, Huyện Thới Lai, Thành phố Cần Thơ",
+        "code": "31268",
+        "parent_code": "927"
+    },
+    "31270": {
+        "name": "Xuân Thắng",
+        "type": "xa",
+        "slug": "xuan-thang",
+        "name_with_type": "Xã Xuân Thắng",
+        "path": "Xuân Thắng, Thới Lai, Cần Thơ",
+        "path_with_type": "Xã Xuân Thắng, Huyện Thới Lai, Thành phố Cần Thơ",
+        "code": "31270",
+        "parent_code": "927"
+    },
+    "31279": {
+        "name": "Đông Bình",
+        "type": "xa",
+        "slug": "dong-binh",
+        "name_with_type": "Xã Đông Bình",
+        "path": "Đông Bình, Thới Lai, Cần Thơ",
+        "path_with_type": "Xã Đông Bình, Huyện Thới Lai, Thành phố Cần Thơ",
+        "code": "31279",
+        "parent_code": "927"
+    },
+    "31282": {
+        "name": "Đông Thuận",
+        "type": "xa",
+        "slug": "dong-thuan",
+        "name_with_type": "Xã Đông Thuận",
+        "path": "Đông Thuận, Thới Lai, Cần Thơ",
+        "path_with_type": "Xã Đông Thuận, Huyện Thới Lai, Thành phố Cần Thơ",
+        "code": "31282",
+        "parent_code": "927"
+    },
+    "31285": {
+        "name": "Thới Tân",
+        "type": "xa",
+        "slug": "thoi-tan",
+        "name_with_type": "Xã Thới Tân",
+        "path": "Thới Tân, Thới Lai, Cần Thơ",
+        "path_with_type": "Xã Thới Tân, Huyện Thới Lai, Thành phố Cần Thơ",
+        "code": "31285",
+        "parent_code": "927"
+    },
+    "31286": {
+        "name": "Trường Thắng",
+        "type": "xa",
+        "slug": "truong-thang",
+        "name_with_type": "Xã Trường Thắng",
+        "path": "Trường Thắng, Thới Lai, Cần Thơ",
+        "path_with_type": "Xã Trường Thắng, Huyện Thới Lai, Thành phố Cần Thơ",
+        "code": "31286",
+        "parent_code": "927"
+    },
+    "31288": {
+        "name": "Định Môn",
+        "type": "xa",
+        "slug": "dinh-mon",
+        "name_with_type": "Xã Định Môn",
+        "path": "Định Môn, Thới Lai, Cần Thơ",
+        "path_with_type": "Xã Định Môn, Huyện Thới Lai, Thành phố Cần Thơ",
+        "code": "31288",
+        "parent_code": "927"
+    },
+    "31291": {
+        "name": "Trường Thành",
+        "type": "xa",
+        "slug": "truong-thanh",
+        "name_with_type": "Xã Trường Thành",
+        "path": "Trường Thành, Thới Lai, Cần Thơ",
+        "path_with_type": "Xã Trường Thành, Huyện Thới Lai, Thành phố Cần Thơ",
+        "code": "31291",
+        "parent_code": "927"
+    },
+    "31294": {
+        "name": "Trường Xuân",
+        "type": "xa",
+        "slug": "truong-xuan",
+        "name_with_type": "Xã Trường Xuân",
+        "path": "Trường Xuân, Thới Lai, Cần Thơ",
+        "path_with_type": "Xã Trường Xuân, Huyện Thới Lai, Thành phố Cần Thơ",
+        "code": "31294",
+        "parent_code": "927"
+    },
+    "31297": {
+        "name": "Trường Xuân A",
+        "type": "xa",
+        "slug": "truong-xuan-a",
+        "name_with_type": "Xã Trường Xuân A",
+        "path": "Trường Xuân A, Thới Lai, Cần Thơ",
+        "path_with_type": "Xã Trường Xuân A, Huyện Thới Lai, Thành phố Cần Thơ",
+        "code": "31297",
+        "parent_code": "927"
+    },
+    "31298": {
+        "name": "Trường Xuân B",
+        "type": "xa",
+        "slug": "truong-xuan-b",
+        "name_with_type": "Xã Trường Xuân B",
+        "path": "Trường Xuân B, Thới Lai, Cần Thơ",
+        "path_with_type": "Xã Trường Xuân B, Huyện Thới Lai, Thành phố Cần Thơ",
+        "code": "31298",
+        "parent_code": "927"
+    }
+}

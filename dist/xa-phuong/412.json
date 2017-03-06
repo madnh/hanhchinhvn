@@ -1,0 +1,252 @@
+{
+    "16663": {
+        "name": "Đông Vĩnh",
+        "type": "phuong",
+        "slug": "dong-vinh",
+        "name_with_type": "Phường Đông Vĩnh",
+        "path": "Đông Vĩnh, Vinh, Nghệ An",
+        "path_with_type": "Phường Đông Vĩnh, Thành phố Vinh, Tỉnh Nghệ An",
+        "code": "16663",
+        "parent_code": "412"
+    },
+    "16666": {
+        "name": "Hà Huy Tập",
+        "type": "phuong",
+        "slug": "ha-huy-tap",
+        "name_with_type": "Phường Hà Huy Tập",
+        "path": "Hà Huy Tập, Vinh, Nghệ An",
+        "path_with_type": "Phường Hà Huy Tập, Thành phố Vinh, Tỉnh Nghệ An",
+        "code": "16666",
+        "parent_code": "412"
+    },
+    "16669": {
+        "name": "Lê Lợi",
+        "type": "phuong",
+        "slug": "le-loi",
+        "name_with_type": "Phường Lê Lợi",
+        "path": "Lê Lợi, Vinh, Nghệ An",
+        "path_with_type": "Phường Lê Lợi, Thành phố Vinh, Tỉnh Nghệ An",
+        "code": "16669",
+        "parent_code": "412"
+    },
+    "16670": {
+        "name": "Quán Bàu",
+        "type": "phuong",
+        "slug": "quan-bau",
+        "name_with_type": "Phường Quán Bàu",
+        "path": "Quán Bàu, Vinh, Nghệ An",
+        "path_with_type": "Phường Quán Bàu, Thành phố Vinh, Tỉnh Nghệ An",
+        "code": "16670",
+        "parent_code": "412"
+    },
+    "16672": {
+        "name": "Hưng Bình",
+        "type": "phuong",
+        "slug": "hung-binh",
+        "name_with_type": "Phường Hưng Bình",
+        "path": "Hưng Bình, Vinh, Nghệ An",
+        "path_with_type": "Phường Hưng Bình, Thành phố Vinh, Tỉnh Nghệ An",
+        "code": "16672",
+        "parent_code": "412"
+    },
+    "16673": {
+        "name": "Hưng Phúc",
+        "type": "phuong",
+        "slug": "hung-phuc",
+        "name_with_type": "Phường Hưng Phúc",
+        "path": "Hưng Phúc, Vinh, Nghệ An",
+        "path_with_type": "Phường Hưng Phúc, Thành phố Vinh, Tỉnh Nghệ An",
+        "code": "16673",
+        "parent_code": "412"
+    },
+    "16675": {
+        "name": "Hưng Dũng",
+        "type": "phuong",
+        "slug": "hung-dung",
+        "name_with_type": "Phường Hưng Dũng",
+        "path": "Hưng Dũng, Vinh, Nghệ An",
+        "path_with_type": "Phường Hưng Dũng, Thành phố Vinh, Tỉnh Nghệ An",
+        "code": "16675",
+        "parent_code": "412"
+    },
+    "16678": {
+        "name": "Cửa Nam",
+        "type": "phuong",
+        "slug": "cua-nam",
+        "name_with_type": "Phường Cửa Nam",
+        "path": "Cửa Nam, Vinh, Nghệ An",
+        "path_with_type": "Phường Cửa Nam, Thành phố Vinh, Tỉnh Nghệ An",
+        "code": "16678",
+        "parent_code": "412"
+    },
+    "16681": {
+        "name": "Quang Trung",
+        "type": "phuong",
+        "slug": "quang-trung",
+        "name_with_type": "Phường Quang Trung",
+        "path": "Quang Trung, Vinh, Nghệ An",
+        "path_with_type": "Phường Quang Trung, Thành phố Vinh, Tỉnh Nghệ An",
+        "code": "16681",
+        "parent_code": "412"
+    },
+    "16684": {
+        "name": "Đội Cung",
+        "type": "phuong",
+        "slug": "doi-cung",
+        "name_with_type": "Phường Đội Cung",
+        "path": "Đội Cung, Vinh, Nghệ An",
+        "path_with_type": "Phường Đội Cung, Thành phố Vinh, Tỉnh Nghệ An",
+        "code": "16684",
+        "parent_code": "412"
+    },
+    "16687": {
+        "name": "Lê Mao",
+        "type": "phuong",
+        "slug": "le-mao",
+        "name_with_type": "Phường Lê Mao",
+        "path": "Lê Mao, Vinh, Nghệ An",
+        "path_with_type": "Phường Lê Mao, Thành phố Vinh, Tỉnh Nghệ An",
+        "code": "16687",
+        "parent_code": "412"
+    },
+    "16690": {
+        "name": "Trường Thi",
+        "type": "phuong",
+        "slug": "truong-thi",
+        "name_with_type": "Phường Trường Thi",
+        "path": "Trường Thi, Vinh, Nghệ An",
+        "path_with_type": "Phường Trường Thi, Thành phố Vinh, Tỉnh Nghệ An",
+        "code": "16690",
+        "parent_code": "412"
+    },
+    "16693": {
+        "name": "Bến Thủy",
+        "type": "phuong",
+        "slug": "ben-thuy",
+        "name_with_type": "Phường Bến Thủy",
+        "path": "Bến Thủy, Vinh, Nghệ An",
+        "path_with_type": "Phường Bến Thủy, Thành phố Vinh, Tỉnh Nghệ An",
+        "code": "16693",
+        "parent_code": "412"
+    },
+    "16696": {
+        "name": "Hồng Sơn",
+        "type": "phuong",
+        "slug": "hong-son",
+        "name_with_type": "Phường Hồng Sơn",
+        "path": "Hồng Sơn, Vinh, Nghệ An",
+        "path_with_type": "Phường Hồng Sơn, Thành phố Vinh, Tỉnh Nghệ An",
+        "code": "16696",
+        "parent_code": "412"
+    },
+    "16699": {
+        "name": "Trung Đô",
+        "type": "phuong",
+        "slug": "trung-do",
+        "name_with_type": "Phường Trung Đô",
+        "path": "Trung Đô, Vinh, Nghệ An",
+        "path_with_type": "Phường Trung Đô, Thành phố Vinh, Tỉnh Nghệ An",
+        "code": "16699",
+        "parent_code": "412"
+    },
+    "16702": {
+        "name": "Nghi Phú",
+        "type": "xa",
+        "slug": "nghi-phu",
+        "name_with_type": "Xã Nghi Phú",
+        "path": "Nghi Phú, Vinh, Nghệ An",
+        "path_with_type": "Xã Nghi Phú, Thành phố Vinh, Tỉnh Nghệ An",
+        "code": "16702",
+        "parent_code": "412"
+    },
+    "16705": {
+        "name": "Hưng Đông",
+        "type": "xa",
+        "slug": "hung-dong",
+        "name_with_type": "Xã Hưng Đông",
+        "path": "Hưng Đông, Vinh, Nghệ An",
+        "path_with_type": "Xã Hưng Đông, Thành phố Vinh, Tỉnh Nghệ An",
+        "code": "16705",
+        "parent_code": "412"
+    },
+    "16708": {
+        "name": "Hưng Lộc",
+        "type": "xa",
+        "slug": "hung-loc",
+        "name_with_type": "Xã Hưng Lộc",
+        "path": "Hưng Lộc, Vinh, Nghệ An",
+        "path_with_type": "Xã Hưng Lộc, Thành phố Vinh, Tỉnh Nghệ An",
+        "code": "16708",
+        "parent_code": "412"
+    },
+    "16711": {
+        "name": "Hưng Hòa",
+        "type": "xa",
+        "slug": "hung-hoa",
+        "name_with_type": "Xã Hưng Hòa",
+        "path": "Hưng Hòa, Vinh, Nghệ An",
+        "path_with_type": "Xã Hưng Hòa, Thành phố Vinh, Tỉnh Nghệ An",
+        "code": "16711",
+        "parent_code": "412"
+    },
+    "16714": {
+        "name": "Vinh Tân",
+        "type": "phuong",
+        "slug": "vinh-tan",
+        "name_with_type": "Phường Vinh Tân",
+        "path": "Vinh Tân, Vinh, Nghệ An",
+        "path_with_type": "Phường Vinh Tân, Thành phố Vinh, Tỉnh Nghệ An",
+        "code": "16714",
+        "parent_code": "412"
+    },
+    "17908": {
+        "name": "Nghi Liên",
+        "type": "xa",
+        "slug": "nghi-lien",
+        "name_with_type": "Xã Nghi Liên",
+        "path": "Nghi Liên, Vinh, Nghệ An",
+        "path_with_type": "Xã Nghi Liên, Thành phố Vinh, Tỉnh Nghệ An",
+        "code": "17908",
+        "parent_code": "412"
+    },
+    "17914": {
+        "name": "Nghi Ân",
+        "type": "xa",
+        "slug": "nghi-an",
+        "name_with_type": "Xã Nghi Ân",
+        "path": "Nghi Ân, Vinh, Nghệ An",
+        "path_with_type": "Xã Nghi Ân, Thành phố Vinh, Tỉnh Nghệ An",
+        "code": "17914",
+        "parent_code": "412"
+    },
+    "17920": {
+        "name": "Nghi Kim",
+        "type": "xa",
+        "slug": "nghi-kim",
+        "name_with_type": "Xã Nghi Kim",
+        "path": "Nghi Kim, Vinh, Nghệ An",
+        "path_with_type": "Xã Nghi Kim, Thành phố Vinh, Tỉnh Nghệ An",
+        "code": "17920",
+        "parent_code": "412"
+    },
+    "17923": {
+        "name": "Nghi Đức",
+        "type": "xa",
+        "slug": "nghi-duc",
+        "name_with_type": "Xã Nghi Đức",
+        "path": "Nghi Đức, Vinh, Nghệ An",
+        "path_with_type": "Xã Nghi Đức, Thành phố Vinh, Tỉnh Nghệ An",
+        "code": "17923",
+        "parent_code": "412"
+    },
+    "18013": {
+        "name": "Hưng Chính",
+        "type": "xa",
+        "slug": "hung-chinh",
+        "name_with_type": "Xã Hưng Chính",
+        "path": "Hưng Chính, Vinh, Nghệ An",
+        "path_with_type": "Xã Hưng Chính, Thành phố Vinh, Tỉnh Nghệ An",
+        "code": "18013",
+        "parent_code": "412"
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "436": {
+        "name": "Hà Tĩnh",
+        "type": "thanh-pho",
+        "slug": "ha-tinh",
+        "name_with_type": "Thành phố Hà Tĩnh",
+        "path": "Hà Tĩnh, Hà Tĩnh",
+        "path_with_type": "Thành phố Hà Tĩnh, Tỉnh Hà Tĩnh",
+        "code": "436",
+        "parent_code": "42"
+    },
+    "437": {
+        "name": "Hồng Lĩnh",
+        "type": "thi-xa",
+        "slug": "hong-linh",
+        "name_with_type": "Thị xã Hồng Lĩnh",
+        "path": "Hồng Lĩnh, Hà Tĩnh",
+        "path_with_type": "Thị xã Hồng Lĩnh, Tỉnh Hà Tĩnh",
+        "code": "437",
+        "parent_code": "42"
+    },
+    "439": {
+        "name": "Hương Sơn",
+        "type": "huyen",
+        "slug": "huong-son",
+        "name_with_type": "Huyện Hương Sơn",
+        "path": "Hương Sơn, Hà Tĩnh",
+        "path_with_type": "Huyện Hương Sơn, Tỉnh Hà Tĩnh",
+        "code": "439",
+        "parent_code": "42"
+    },
+    "440": {
+        "name": "Đức Thọ",
+        "type": "huyen",
+        "slug": "duc-tho",
+        "name_with_type": "Huyện Đức Thọ",
+        "path": "Đức Thọ, Hà Tĩnh",
+        "path_with_type": "Huyện Đức Thọ, Tỉnh Hà Tĩnh",
+        "code": "440",
+        "parent_code": "42"
+    },
+    "441": {
+        "name": "Vũ Quang",
+        "type": "huyen",
+        "slug": "vu-quang",
+        "name_with_type": "Huyện Vũ Quang",
+        "path": "Vũ Quang, Hà Tĩnh",
+        "path_with_type": "Huyện Vũ Quang, Tỉnh Hà Tĩnh",
+        "code": "441",
+        "parent_code": "42"
+    },
+    "442": {
+        "name": "Nghi Xuân",
+        "type": "huyen",
+        "slug": "nghi-xuan",
+        "name_with_type": "Huyện Nghi Xuân",
+        "path": "Nghi Xuân, Hà Tĩnh",
+        "path_with_type": "Huyện Nghi Xuân, Tỉnh Hà Tĩnh",
+        "code": "442",
+        "parent_code": "42"
+    },
+    "443": {
+        "name": "Can Lộc",
+        "type": "huyen",
+        "slug": "can-loc",
+        "name_with_type": "Huyện Can Lộc",
+        "path": "Can Lộc, Hà Tĩnh",
+        "path_with_type": "Huyện Can Lộc, Tỉnh Hà Tĩnh",
+        "code": "443",
+        "parent_code": "42"
+    },
+    "444": {
+        "name": "Hương Khê",
+        "type": "huyen",
+        "slug": "huong-khe",
+        "name_with_type": "Huyện Hương Khê",
+        "path": "Hương Khê, Hà Tĩnh",
+        "path_with_type": "Huyện Hương Khê, Tỉnh Hà Tĩnh",
+        "code": "444",
+        "parent_code": "42"
+    },
+    "445": {
+        "name": "Thạch Hà",
+        "type": "huyen",
+        "slug": "thach-ha",
+        "name_with_type": "Huyện Thạch Hà",
+        "path": "Thạch Hà, Hà Tĩnh",
+        "path_with_type": "Huyện Thạch Hà, Tỉnh Hà Tĩnh",
+        "code": "445",
+        "parent_code": "42"
+    },
+    "446": {
+        "name": "Cẩm Xuyên",
+        "type": "huyen",
+        "slug": "cam-xuyen",
+        "name_with_type": "Huyện Cẩm Xuyên",
+        "path": "Cẩm Xuyên, Hà Tĩnh",
+        "path_with_type": "Huyện Cẩm Xuyên, Tỉnh Hà Tĩnh",
+        "code": "446",
+        "parent_code": "42"
+    },
+    "447": {
+        "name": "Kỳ Anh",
+        "type": "huyen",
+        "slug": "ky-anh",
+        "name_with_type": "Huyện Kỳ Anh",
+        "path": "Kỳ Anh, Hà Tĩnh",
+        "path_with_type": "Huyện Kỳ Anh, Tỉnh Hà Tĩnh",
+        "code": "447",
+        "parent_code": "42"
+    },
+    "448": {
+        "name": "Lộc Hà",
+        "type": "huyen",
+        "slug": "loc-ha",
+        "name_with_type": "Huyện Lộc Hà",
+        "path": "Lộc Hà, Hà Tĩnh",
+        "path_with_type": "Huyện Lộc Hà, Tỉnh Hà Tĩnh",
+        "code": "448",
+        "parent_code": "42"
+    },
+    "449": {
+        "name": "Kỳ Anh",
+        "type": "thi-xa",
+        "slug": "ky-anh",
+        "name_with_type": "Thị xã Kỳ Anh",
+        "path": "Kỳ Anh, Hà Tĩnh",
+        "path_with_type": "Thị xã Kỳ Anh, Tỉnh Hà Tĩnh",
+        "code": "449",
+        "parent_code": "42"
+    }
+}

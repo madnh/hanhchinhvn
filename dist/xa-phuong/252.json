@@ -1,0 +1,292 @@
+{
+    "09076": {
+        "name": "Vĩnh Tường",
+        "type": "thi-tran",
+        "slug": "vinh-tuong",
+        "name_with_type": "Thị trấn Vĩnh Tường",
+        "path": "Vĩnh Tường, Vĩnh Tường, Vĩnh Phúc",
+        "path_with_type": "Thị trấn Vĩnh Tường, Huyện Vĩnh Tường, Tỉnh Vĩnh Phúc",
+        "code": "09076",
+        "parent_code": "252"
+    },
+    "09079": {
+        "name": "Kim Xá",
+        "type": "xa",
+        "slug": "kim-xa",
+        "name_with_type": "Xã Kim Xá",
+        "path": "Kim Xá, Vĩnh Tường, Vĩnh Phúc",
+        "path_with_type": "Xã Kim Xá, Huyện Vĩnh Tường, Tỉnh Vĩnh Phúc",
+        "code": "09079",
+        "parent_code": "252"
+    },
+    "09082": {
+        "name": "Yên Bình",
+        "type": "xa",
+        "slug": "yen-binh",
+        "name_with_type": "Xã Yên Bình",
+        "path": "Yên Bình, Vĩnh Tường, Vĩnh Phúc",
+        "path_with_type": "Xã Yên Bình, Huyện Vĩnh Tường, Tỉnh Vĩnh Phúc",
+        "code": "09082",
+        "parent_code": "252"
+    },
+    "09085": {
+        "name": "Chấn Hưng",
+        "type": "xa",
+        "slug": "chan-hung",
+        "name_with_type": "Xã Chấn Hưng",
+        "path": "Chấn Hưng, Vĩnh Tường, Vĩnh Phúc",
+        "path_with_type": "Xã Chấn Hưng, Huyện Vĩnh Tường, Tỉnh Vĩnh Phúc",
+        "code": "09085",
+        "parent_code": "252"
+    },
+    "09088": {
+        "name": "Nghĩa Hưng",
+        "type": "xa",
+        "slug": "nghia-hung",
+        "name_with_type": "Xã Nghĩa Hưng",
+        "path": "Nghĩa Hưng, Vĩnh Tường, Vĩnh Phúc",
+        "path_with_type": "Xã Nghĩa Hưng, Huyện Vĩnh Tường, Tỉnh Vĩnh Phúc",
+        "code": "09088",
+        "parent_code": "252"
+    },
+    "09091": {
+        "name": "Yên Lập",
+        "type": "xa",
+        "slug": "yen-lap",
+        "name_with_type": "Xã Yên Lập",
+        "path": "Yên Lập, Vĩnh Tường, Vĩnh Phúc",
+        "path_with_type": "Xã Yên Lập, Huyện Vĩnh Tường, Tỉnh Vĩnh Phúc",
+        "code": "09091",
+        "parent_code": "252"
+    },
+    "09094": {
+        "name": "Việt Xuân",
+        "type": "xa",
+        "slug": "viet-xuan",
+        "name_with_type": "Xã Việt Xuân",
+        "path": "Việt Xuân, Vĩnh Tường, Vĩnh Phúc",
+        "path_with_type": "Xã Việt Xuân, Huyện Vĩnh Tường, Tỉnh Vĩnh Phúc",
+        "code": "09094",
+        "parent_code": "252"
+    },
+    "09097": {
+        "name": "Bồ Sao",
+        "type": "xa",
+        "slug": "bo-sao",
+        "name_with_type": "Xã Bồ Sao",
+        "path": "Bồ Sao, Vĩnh Tường, Vĩnh Phúc",
+        "path_with_type": "Xã Bồ Sao, Huyện Vĩnh Tường, Tỉnh Vĩnh Phúc",
+        "code": "09097",
+        "parent_code": "252"
+    },
+    "09100": {
+        "name": "Đại Đồng",
+        "type": "xa",
+        "slug": "dai-dong",
+        "name_with_type": "Xã Đại Đồng",
+        "path": "Đại Đồng, Vĩnh Tường, Vĩnh Phúc",
+        "path_with_type": "Xã Đại Đồng, Huyện Vĩnh Tường, Tỉnh Vĩnh Phúc",
+        "code": "09100",
+        "parent_code": "252"
+    },
+    "09103": {
+        "name": "Tân Tiến",
+        "type": "xa",
+        "slug": "tan-tien",
+        "name_with_type": "Xã Tân Tiến",
+        "path": "Tân Tiến, Vĩnh Tường, Vĩnh Phúc",
+        "path_with_type": "Xã Tân Tiến, Huyện Vĩnh Tường, Tỉnh Vĩnh Phúc",
+        "code": "09103",
+        "parent_code": "252"
+    },
+    "09106": {
+        "name": "Lũng Hoà",
+        "type": "xa",
+        "slug": "lung-hoa",
+        "name_with_type": "Xã Lũng Hoà",
+        "path": "Lũng Hoà, Vĩnh Tường, Vĩnh Phúc",
+        "path_with_type": "Xã Lũng Hoà, Huyện Vĩnh Tường, Tỉnh Vĩnh Phúc",
+        "code": "09106",
+        "parent_code": "252"
+    },
+    "09109": {
+        "name": "Cao Đại",
+        "type": "xa",
+        "slug": "cao-dai",
+        "name_with_type": "Xã Cao Đại",
+        "path": "Cao Đại, Vĩnh Tường, Vĩnh Phúc",
+        "path_with_type": "Xã Cao Đại, Huyện Vĩnh Tường, Tỉnh Vĩnh Phúc",
+        "code": "09109",
+        "parent_code": "252"
+    },
+    "09112": {
+        "name": "Thổ Tang",
+        "type": "thi-tran",
+        "slug": "tho-tang",
+        "name_with_type": "Thị Trấn Thổ Tang",
+        "path": "Thổ Tang, Vĩnh Tường, Vĩnh Phúc",
+        "path_with_type": "Thị Trấn Thổ Tang, Huyện Vĩnh Tường, Tỉnh Vĩnh Phúc",
+        "code": "09112",
+        "parent_code": "252"
+    },
+    "09115": {
+        "name": "Vĩnh Sơn",
+        "type": "xa",
+        "slug": "vinh-son",
+        "name_with_type": "Xã Vĩnh Sơn",
+        "path": "Vĩnh Sơn, Vĩnh Tường, Vĩnh Phúc",
+        "path_with_type": "Xã Vĩnh Sơn, Huyện Vĩnh Tường, Tỉnh Vĩnh Phúc",
+        "code": "09115",
+        "parent_code": "252"
+    },
+    "09118": {
+        "name": "Bình Dương",
+        "type": "xa",
+        "slug": "binh-duong",
+        "name_with_type": "Xã Bình Dương",
+        "path": "Bình Dương, Vĩnh Tường, Vĩnh Phúc",
+        "path_with_type": "Xã Bình Dương, Huyện Vĩnh Tường, Tỉnh Vĩnh Phúc",
+        "code": "09118",
+        "parent_code": "252"
+    },
+    "09121": {
+        "name": "Tân Cương",
+        "type": "xa",
+        "slug": "tan-cuong",
+        "name_with_type": "Xã Tân Cương",
+        "path": "Tân Cương, Vĩnh Tường, Vĩnh Phúc",
+        "path_with_type": "Xã Tân Cương, Huyện Vĩnh Tường, Tỉnh Vĩnh Phúc",
+        "code": "09121",
+        "parent_code": "252"
+    },
+    "09124": {
+        "name": "Phú Thịnh",
+        "type": "xa",
+        "slug": "phu-thinh",
+        "name_with_type": "Xã Phú Thịnh",
+        "path": "Phú Thịnh, Vĩnh Tường, Vĩnh Phúc",
+        "path_with_type": "Xã Phú Thịnh, Huyện Vĩnh Tường, Tỉnh Vĩnh Phúc",
+        "code": "09124",
+        "parent_code": "252"
+    },
+    "09127": {
+        "name": "Thượng Trưng",
+        "type": "xa",
+        "slug": "thuong-trung",
+        "name_with_type": "Xã Thượng Trưng",
+        "path": "Thượng Trưng, Vĩnh Tường, Vĩnh Phúc",
+        "path_with_type": "Xã Thượng Trưng, Huyện Vĩnh Tường, Tỉnh Vĩnh Phúc",
+        "code": "09127",
+        "parent_code": "252"
+    },
+    "09130": {
+        "name": "Vũ Di",
+        "type": "xa",
+        "slug": "vu-di",
+        "name_with_type": "Xã Vũ Di",
+        "path": "Vũ Di, Vĩnh Tường, Vĩnh Phúc",
+        "path_with_type": "Xã Vũ Di, Huyện Vĩnh Tường, Tỉnh Vĩnh Phúc",
+        "code": "09130",
+        "parent_code": "252"
+    },
+    "09133": {
+        "name": "Lý Nhân",
+        "type": "xa",
+        "slug": "ly-nhan",
+        "name_with_type": "Xã Lý Nhân",
+        "path": "Lý Nhân, Vĩnh Tường, Vĩnh Phúc",
+        "path_with_type": "Xã Lý Nhân, Huyện Vĩnh Tường, Tỉnh Vĩnh Phúc",
+        "code": "09133",
+        "parent_code": "252"
+    },
+    "09136": {
+        "name": "Tuân Chính",
+        "type": "xa",
+        "slug": "tuan-chinh",
+        "name_with_type": "Xã Tuân Chính",
+        "path": "Tuân Chính, Vĩnh Tường, Vĩnh Phúc",
+        "path_with_type": "Xã Tuân Chính, Huyện Vĩnh Tường, Tỉnh Vĩnh Phúc",
+        "code": "09136",
+        "parent_code": "252"
+    },
+    "09139": {
+        "name": "Vân Xuân",
+        "type": "xa",
+        "slug": "van-xuan",
+        "name_with_type": "Xã Vân Xuân",
+        "path": "Vân Xuân, Vĩnh Tường, Vĩnh Phúc",
+        "path_with_type": "Xã Vân Xuân, Huyện Vĩnh Tường, Tỉnh Vĩnh Phúc",
+        "code": "09139",
+        "parent_code": "252"
+    },
+    "09142": {
+        "name": "Tam Phúc",
+        "type": "xa",
+        "slug": "tam-phuc",
+        "name_with_type": "Xã Tam Phúc",
+        "path": "Tam Phúc, Vĩnh Tường, Vĩnh Phúc",
+        "path_with_type": "Xã Tam Phúc, Huyện Vĩnh Tường, Tỉnh Vĩnh Phúc",
+        "code": "09142",
+        "parent_code": "252"
+    },
+    "09145": {
+        "name": "Tứ Trưng",
+        "type": "thi-tran",
+        "slug": "tu-trung",
+        "name_with_type": "Thị trấn Tứ Trưng",
+        "path": "Tứ Trưng, Vĩnh Tường, Vĩnh Phúc",
+        "path_with_type": "Thị trấn Tứ Trưng, Huyện Vĩnh Tường, Tỉnh Vĩnh Phúc",
+        "code": "09145",
+        "parent_code": "252"
+    },
+    "09148": {
+        "name": "Ngũ Kiên",
+        "type": "xa",
+        "slug": "ngu-kien",
+        "name_with_type": "Xã Ngũ Kiên",
+        "path": "Ngũ Kiên, Vĩnh Tường, Vĩnh Phúc",
+        "path_with_type": "Xã Ngũ Kiên, Huyện Vĩnh Tường, Tỉnh Vĩnh Phúc",
+        "code": "09148",
+        "parent_code": "252"
+    },
+    "09151": {
+        "name": "An Tường",
+        "type": "xa",
+        "slug": "an-tuong",
+        "name_with_type": "Xã An Tường",
+        "path": "An Tường, Vĩnh Tường, Vĩnh Phúc",
+        "path_with_type": "Xã An Tường, Huyện Vĩnh Tường, Tỉnh Vĩnh Phúc",
+        "code": "09151",
+        "parent_code": "252"
+    },
+    "09154": {
+        "name": "Vĩnh Thịnh",
+        "type": "xa",
+        "slug": "vinh-thinh",
+        "name_with_type": "Xã Vĩnh Thịnh",
+        "path": "Vĩnh Thịnh, Vĩnh Tường, Vĩnh Phúc",
+        "path_with_type": "Xã Vĩnh Thịnh, Huyện Vĩnh Tường, Tỉnh Vĩnh Phúc",
+        "code": "09154",
+        "parent_code": "252"
+    },
+    "09157": {
+        "name": "Phú Đa",
+        "type": "xa",
+        "slug": "phu-da",
+        "name_with_type": "Xã Phú Đa",
+        "path": "Phú Đa, Vĩnh Tường, Vĩnh Phúc",
+        "path_with_type": "Xã Phú Đa, Huyện Vĩnh Tường, Tỉnh Vĩnh Phúc",
+        "code": "09157",
+        "parent_code": "252"
+    },
+    "09160": {
+        "name": "Vĩnh Ninh",
+        "type": "xa",
+        "slug": "vinh-ninh",
+        "name_with_type": "Xã Vĩnh Ninh",
+        "path": "Vĩnh Ninh, Vĩnh Tường, Vĩnh Phúc",
+        "path_with_type": "Xã Vĩnh Ninh, Huyện Vĩnh Tường, Tỉnh Vĩnh Phúc",
+        "code": "09160",
+        "parent_code": "252"
+    }
+}

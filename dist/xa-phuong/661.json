@@ -1,0 +1,72 @@
+{
+    "24616": {
+        "name": "Quảng Sơn",
+        "type": "xa",
+        "slug": "quang-son",
+        "name_with_type": "Xã Quảng Sơn",
+        "path": "Quảng Sơn, Đăk Glong, Đắk Nông",
+        "path_with_type": "Xã Quảng Sơn, Huyện Đăk Glong, Tỉnh Đắk Nông",
+        "code": "24616",
+        "parent_code": "661"
+    },
+    "24620": {
+        "name": "Quảng Hoà",
+        "type": "xa",
+        "slug": "quang-hoa",
+        "name_with_type": "Xã Quảng Hoà",
+        "path": "Quảng Hoà, Đăk Glong, Đắk Nông",
+        "path_with_type": "Xã Quảng Hoà, Huyện Đăk Glong, Tỉnh Đắk Nông",
+        "code": "24620",
+        "parent_code": "661"
+    },
+    "24622": {
+        "name": "Đắk Ha",
+        "type": "xa",
+        "slug": "dak-ha",
+        "name_with_type": "Xã Đắk Ha",
+        "path": "Đắk Ha, Đăk Glong, Đắk Nông",
+        "path_with_type": "Xã Đắk Ha, Huyện Đăk Glong, Tỉnh Đắk Nông",
+        "code": "24622",
+        "parent_code": "661"
+    },
+    "24625": {
+        "name": "Đắk R'Măng",
+        "type": "xa",
+        "slug": "dak-r-mang",
+        "name_with_type": "Xã Đắk R'Măng",
+        "path": "Đắk R'Măng, Đăk Glong, Đắk Nông",
+        "path_with_type": "Xã Đắk R'Măng, Huyện Đăk Glong, Tỉnh Đắk Nông",
+        "code": "24625",
+        "parent_code": "661"
+    },
+    "24631": {
+        "name": "Quảng Khê",
+        "type": "xa",
+        "slug": "quang-khe",
+        "name_with_type": "Xã Quảng Khê",
+        "path": "Quảng Khê, Đăk Glong, Đắk Nông",
+        "path_with_type": "Xã Quảng Khê, Huyện Đăk Glong, Tỉnh Đắk Nông",
+        "code": "24631",
+        "parent_code": "661"
+    },
+    "24634": {
+        "name": "Đắk Plao",
+        "type": "xa",
+        "slug": "dak-plao",
+        "name_with_type": "Xã Đắk Plao",
+        "path": "Đắk Plao, Đăk Glong, Đắk Nông",
+        "path_with_type": "Xã Đắk Plao, Huyện Đăk Glong, Tỉnh Đắk Nông",
+        "code": "24634",
+        "parent_code": "661"
+    },
+    "24637": {
+        "name": "Đắk Som",
+        "type": "xa",
+        "slug": "dak-som",
+        "name_with_type": "Xã Đắk Som",
+        "path": "Đắk Som, Đăk Glong, Đắk Nông",
+        "path_with_type": "Xã Đắk Som, Huyện Đăk Glong, Tỉnh Đắk Nông",
+        "code": "24637",
+        "parent_code": "661"
+    }
+}

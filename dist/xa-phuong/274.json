@@ -1,0 +1,202 @@
+{
+    "09832": {
+        "name": "Trạm Trôi",
+        "type": "thi-tran",
+        "slug": "tram-troi",
+        "name_with_type": "Thị trấn Trạm Trôi",
+        "path": "Trạm Trôi, Hoài Đức, Hà Nội",
+        "path_with_type": "Thị trấn Trạm Trôi, Huyện Hoài Đức, Thành phố Hà Nội",
+        "code": "09832",
+        "parent_code": "274"
+    },
+    "09835": {
+        "name": "Đức Thượng",
+        "type": "xa",
+        "slug": "duc-thuong",
+        "name_with_type": "Xã Đức Thượng",
+        "path": "Đức Thượng, Hoài Đức, Hà Nội",
+        "path_with_type": "Xã Đức Thượng, Huyện Hoài Đức, Thành phố Hà Nội",
+        "code": "09835",
+        "parent_code": "274"
+    },
+    "09838": {
+        "name": "Minh Khai",
+        "type": "xa",
+        "slug": "minh-khai",
+        "name_with_type": "Xã Minh Khai",
+        "path": "Minh Khai, Hoài Đức, Hà Nội",
+        "path_with_type": "Xã Minh Khai, Huyện Hoài Đức, Thành phố Hà Nội",
+        "code": "09838",
+        "parent_code": "274"
+    },
+    "09841": {
+        "name": "Dương Liễu",
+        "type": "xa",
+        "slug": "duong-lieu",
+        "name_with_type": "Xã Dương Liễu",
+        "path": "Dương Liễu, Hoài Đức, Hà Nội",
+        "path_with_type": "Xã Dương Liễu, Huyện Hoài Đức, Thành phố Hà Nội",
+        "code": "09841",
+        "parent_code": "274"
+    },
+    "09844": {
+        "name": "Di Trạch",
+        "type": "xa",
+        "slug": "di-trach",
+        "name_with_type": "Xã Di Trạch",
+        "path": "Di Trạch, Hoài Đức, Hà Nội",
+        "path_with_type": "Xã Di Trạch, Huyện Hoài Đức, Thành phố Hà Nội",
+        "code": "09844",
+        "parent_code": "274"
+    },
+    "09847": {
+        "name": "Đức Giang",
+        "type": "xa",
+        "slug": "duc-giang",
+        "name_with_type": "Xã Đức Giang",
+        "path": "Đức Giang, Hoài Đức, Hà Nội",
+        "path_with_type": "Xã Đức Giang, Huyện Hoài Đức, Thành phố Hà Nội",
+        "code": "09847",
+        "parent_code": "274"
+    },
+    "09850": {
+        "name": "Cát Quế",
+        "type": "xa",
+        "slug": "cat-que",
+        "name_with_type": "Xã Cát Quế",
+        "path": "Cát Quế, Hoài Đức, Hà Nội",
+        "path_with_type": "Xã Cát Quế, Huyện Hoài Đức, Thành phố Hà Nội",
+        "code": "09850",
+        "parent_code": "274"
+    },
+    "09853": {
+        "name": "Kim Chung",
+        "type": "xa",
+        "slug": "kim-chung",
+        "name_with_type": "Xã Kim Chung",
+        "path": "Kim Chung, Hoài Đức, Hà Nội",
+        "path_with_type": "Xã Kim Chung, Huyện Hoài Đức, Thành phố Hà Nội",
+        "code": "09853",
+        "parent_code": "274"
+    },
+    "09856": {
+        "name": "Yên Sở",
+        "type": "xa",
+        "slug": "yen-so",
+        "name_with_type": "Xã Yên Sở",
+        "path": "Yên Sở, Hoài Đức, Hà Nội",
+        "path_with_type": "Xã Yên Sở, Huyện Hoài Đức, Thành phố Hà Nội",
+        "code": "09856",
+        "parent_code": "274"
+    },
+    "09859": {
+        "name": "Sơn Đồng",
+        "type": "xa",
+        "slug": "son-dong",
+        "name_with_type": "Xã Sơn Đồng",
+        "path": "Sơn Đồng, Hoài Đức, Hà Nội",
+        "path_with_type": "Xã Sơn Đồng, Huyện Hoài Đức, Thành phố Hà Nội",
+        "code": "09859",
+        "parent_code": "274"
+    },
+    "09862": {
+        "name": "Vân Canh",
+        "type": "xa",
+        "slug": "van-canh",
+        "name_with_type": "Xã Vân Canh",
+        "path": "Vân Canh, Hoài Đức, Hà Nội",
+        "path_with_type": "Xã Vân Canh, Huyện Hoài Đức, Thành phố Hà Nội",
+        "code": "09862",
+        "parent_code": "274"
+    },
+    "09865": {
+        "name": "Đắc Sở",
+        "type": "xa",
+        "slug": "dac-so",
+        "name_with_type": "Xã Đắc Sở",
+        "path": "Đắc Sở, Hoài Đức, Hà Nội",
+        "path_with_type": "Xã Đắc Sở, Huyện Hoài Đức, Thành phố Hà Nội",
+        "code": "09865",
+        "parent_code": "274"
+    },
+    "09868": {
+        "name": "Lại Yên",
+        "type": "xa",
+        "slug": "lai-yen",
+        "name_with_type": "Xã Lại Yên",
+        "path": "Lại Yên, Hoài Đức, Hà Nội",
+        "path_with_type": "Xã Lại Yên, Huyện Hoài Đức, Thành phố Hà Nội",
+        "code": "09868",
+        "parent_code": "274"
+    },
+    "09871": {
+        "name": "Tiền Yên",
+        "type": "xa",
+        "slug": "tien-yen",
+        "name_with_type": "Xã Tiền Yên",
+        "path": "Tiền Yên, Hoài Đức, Hà Nội",
+        "path_with_type": "Xã Tiền Yên, Huyện Hoài Đức, Thành phố Hà Nội",
+        "code": "09871",
+        "parent_code": "274"
+    },
+    "09874": {
+        "name": "Song Phương",
+        "type": "xa",
+        "slug": "song-phuong",
+        "name_with_type": "Xã Song Phương",
+        "path": "Song Phương, Hoài Đức, Hà Nội",
+        "path_with_type": "Xã Song Phương, Huyện Hoài Đức, Thành phố Hà Nội",
+        "code": "09874",
+        "parent_code": "274"
+    },
+    "09877": {
+        "name": "An Khánh",
+        "type": "xa",
+        "slug": "an-khanh",
+        "name_with_type": "Xã An Khánh",
+        "path": "An Khánh, Hoài Đức, Hà Nội",
+        "path_with_type": "Xã An Khánh, Huyện Hoài Đức, Thành phố Hà Nội",
+        "code": "09877",
+        "parent_code": "274"
+    },
+    "09880": {
+        "name": "An Thượng",
+        "type": "xa",
+        "slug": "an-thuong",
+        "name_with_type": "Xã An Thượng",
+        "path": "An Thượng, Hoài Đức, Hà Nội",
+        "path_with_type": "Xã An Thượng, Huyện Hoài Đức, Thành phố Hà Nội",
+        "code": "09880",
+        "parent_code": "274"
+    },
+    "09883": {
+        "name": "Vân Côn",
+        "type": "xa",
+        "slug": "van-con",
+        "name_with_type": "Xã Vân Côn",
+        "path": "Vân Côn, Hoài Đức, Hà Nội",
+        "path_with_type": "Xã Vân Côn, Huyện Hoài Đức, Thành phố Hà Nội",
+        "code": "09883",
+        "parent_code": "274"
+    },
+    "09889": {
+        "name": "La Phù",
+        "type": "xa",
+        "slug": "la-phu",
+        "name_with_type": "Xã La Phù",
+        "path": "La Phù, Hoài Đức, Hà Nội",
+        "path_with_type": "Xã La Phù, Huyện Hoài Đức, Thành phố Hà Nội",
+        "code": "09889",
+        "parent_code": "274"
+    },
+    "09892": {
+        "name": "Đông La",
+        "type": "xa",
+        "slug": "dong-la",
+        "name_with_type": "Xã Đông La",
+        "path": "Đông La, Hoài Đức, Hà Nội",
+        "path_with_type": "Xã Đông La, Huyện Hoài Đức, Thành phố Hà Nội",
+        "code": "09892",
+        "parent_code": "274"
+    }
+}

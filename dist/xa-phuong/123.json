@@ -1,0 +1,152 @@
+{
+    "03979": {
+        "name": "Mộc Châu",
+        "type": "thi-tran",
+        "slug": "moc-chau",
+        "name_with_type": "Thị trấn Mộc Châu",
+        "path": "Mộc Châu, Mộc Châu, Sơn La",
+        "path_with_type": "Thị trấn Mộc Châu, Huyện Mộc Châu, Tỉnh Sơn La",
+        "code": "03979",
+        "parent_code": "123"
+    },
+    "03982": {
+        "name": "NT Mộc Châu",
+        "type": "thi-tran",
+        "slug": "nt-moc-chau",
+        "name_with_type": "Thị trấn NT Mộc Châu",
+        "path": "NT Mộc Châu, Mộc Châu, Sơn La",
+        "path_with_type": "Thị trấn NT Mộc Châu, Huyện Mộc Châu, Tỉnh Sơn La",
+        "code": "03982",
+        "parent_code": "123"
+    },
+    "03985": {
+        "name": "Chiềng Sơn",
+        "type": "xa",
+        "slug": "chieng-son",
+        "name_with_type": "Xã Chiềng Sơn",
+        "path": "Chiềng Sơn, Mộc Châu, Sơn La",
+        "path_with_type": "Xã Chiềng Sơn, Huyện Mộc Châu, Tỉnh Sơn La",
+        "code": "03985",
+        "parent_code": "123"
+    },
+    "03988": {
+        "name": "Tân Hợp",
+        "type": "xa",
+        "slug": "tan-hop",
+        "name_with_type": "Xã Tân Hợp",
+        "path": "Tân Hợp, Mộc Châu, Sơn La",
+        "path_with_type": "Xã Tân Hợp, Huyện Mộc Châu, Tỉnh Sơn La",
+        "code": "03988",
+        "parent_code": "123"
+    },
+    "03991": {
+        "name": "Qui Hướng",
+        "type": "xa",
+        "slug": "qui-huong",
+        "name_with_type": "Xã Qui Hướng",
+        "path": "Qui Hướng, Mộc Châu, Sơn La",
+        "path_with_type": "Xã Qui Hướng, Huyện Mộc Châu, Tỉnh Sơn La",
+        "code": "03991",
+        "parent_code": "123"
+    },
+    "03997": {
+        "name": "Tân Lập",
+        "type": "xa",
+        "slug": "tan-lap",
+        "name_with_type": "Xã Tân Lập",
+        "path": "Tân Lập, Mộc Châu, Sơn La",
+        "path_with_type": "Xã Tân Lập, Huyện Mộc Châu, Tỉnh Sơn La",
+        "code": "03997",
+        "parent_code": "123"
+    },
+    "04000": {
+        "name": "Nà Mường",
+        "type": "xa",
+        "slug": "na-muong",
+        "name_with_type": "Xã Nà Mường",
+        "path": "Nà Mường, Mộc Châu, Sơn La",
+        "path_with_type": "Xã Nà Mường, Huyện Mộc Châu, Tỉnh Sơn La",
+        "code": "04000",
+        "parent_code": "123"
+    },
+    "04003": {
+        "name": "Tà Lai",
+        "type": "xa",
+        "slug": "ta-lai",
+        "name_with_type": "Xã Tà Lai",
+        "path": "Tà Lai, Mộc Châu, Sơn La",
+        "path_with_type": "Xã Tà Lai, Huyện Mộc Châu, Tỉnh Sơn La",
+        "code": "04003",
+        "parent_code": "123"
+    },
+    "04012": {
+        "name": "Chiềng Hắc",
+        "type": "xa",
+        "slug": "chieng-hac",
+        "name_with_type": "Xã Chiềng Hắc",
+        "path": "Chiềng Hắc, Mộc Châu, Sơn La",
+        "path_with_type": "Xã Chiềng Hắc, Huyện Mộc Châu, Tỉnh Sơn La",
+        "code": "04012",
+        "parent_code": "123"
+    },
+    "04015": {
+        "name": "Hua Păng",
+        "type": "xa",
+        "slug": "hua-pang",
+        "name_with_type": "Xã Hua Păng",
+        "path": "Hua Păng, Mộc Châu, Sơn La",
+        "path_with_type": "Xã Hua Păng, Huyện Mộc Châu, Tỉnh Sơn La",
+        "code": "04015",
+        "parent_code": "123"
+    },
+    "04024": {
+        "name": "Chiềng Khừa",
+        "type": "xa",
+        "slug": "chieng-khua",
+        "name_with_type": "Xã Chiềng Khừa",
+        "path": "Chiềng Khừa, Mộc Châu, Sơn La",
+        "path_with_type": "Xã Chiềng Khừa, Huyện Mộc Châu, Tỉnh Sơn La",
+        "code": "04024",
+        "parent_code": "123"
+    },
+    "04027": {
+        "name": "Mường Sang",
+        "type": "xa",
+        "slug": "muong-sang",
+        "name_with_type": "Xã Mường Sang",
+        "path": "Mường Sang, Mộc Châu, Sơn La",
+        "path_with_type": "Xã Mường Sang, Huyện Mộc Châu, Tỉnh Sơn La",
+        "code": "04027",
+        "parent_code": "123"
+    },
+    "04030": {
+        "name": "Đông Sang",
+        "type": "xa",
+        "slug": "dong-sang",
+        "name_with_type": "Xã Đông Sang",
+        "path": "Đông Sang, Mộc Châu, Sơn La",
+        "path_with_type": "Xã Đông Sang, Huyện Mộc Châu, Tỉnh Sơn La",
+        "code": "04030",
+        "parent_code": "123"
+    },
+    "04033": {
+        "name": "Phiêng Luông",
+        "type": "xa",
+        "slug": "phieng-luong",
+        "name_with_type": "Xã Phiêng Luông",
+        "path": "Phiêng Luông, Mộc Châu, Sơn La",
+        "path_with_type": "Xã Phiêng Luông, Huyện Mộc Châu, Tỉnh Sơn La",
+        "code": "04033",
+        "parent_code": "123"
+    },
+    "04045": {
+        "name": "Lóng Sập",
+        "type": "xa",
+        "slug": "long-sap",
+        "name_with_type": "Xã Lóng Sập",
+        "path": "Lóng Sập, Mộc Châu, Sơn La",
+        "path_with_type": "Xã Lóng Sập, Huyện Mộc Châu, Tỉnh Sơn La",
+        "code": "04045",
+        "parent_code": "123"
+    }
+}

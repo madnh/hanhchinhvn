@@ -1,0 +1,112 @@
+{
+    "178": {
+        "name": "Lạng Sơn",
+        "type": "thanh-pho",
+        "slug": "lang-son",
+        "name_with_type": "Thành phố Lạng Sơn",
+        "path": "Lạng Sơn, Lạng Sơn",
+        "path_with_type": "Thành phố Lạng Sơn, Tỉnh Lạng Sơn",
+        "code": "178",
+        "parent_code": "20"
+    },
+    "180": {
+        "name": "Tràng Định",
+        "type": "huyen",
+        "slug": "trang-dinh",
+        "name_with_type": "Huyện Tràng Định",
+        "path": "Tràng Định, Lạng Sơn",
+        "path_with_type": "Huyện Tràng Định, Tỉnh Lạng Sơn",
+        "code": "180",
+        "parent_code": "20"
+    },
+    "181": {
+        "name": "Bình Gia",
+        "type": "huyen",
+        "slug": "binh-gia",
+        "name_with_type": "Huyện Bình Gia",
+        "path": "Bình Gia, Lạng Sơn",
+        "path_with_type": "Huyện Bình Gia, Tỉnh Lạng Sơn",
+        "code": "181",
+        "parent_code": "20"
+    },
+    "182": {
+        "name": "Văn Lãng",
+        "type": "huyen",
+        "slug": "van-lang",
+        "name_with_type": "Huyện Văn Lãng",
+        "path": "Văn Lãng, Lạng Sơn",
+        "path_with_type": "Huyện Văn Lãng, Tỉnh Lạng Sơn",
+        "code": "182",
+        "parent_code": "20"
+    },
+    "183": {
+        "name": "Cao Lộc",
+        "type": "huyen",
+        "slug": "cao-loc",
+        "name_with_type": "Huyện Cao Lộc",
+        "path": "Cao Lộc, Lạng Sơn",
+        "path_with_type": "Huyện Cao Lộc, Tỉnh Lạng Sơn",
+        "code": "183",
+        "parent_code": "20"
+    },
+    "184": {
+        "name": "Văn Quan",
+        "type": "huyen",
+        "slug": "van-quan",
+        "name_with_type": "Huyện Văn Quan",
+        "path": "Văn Quan, Lạng Sơn",
+        "path_with_type": "Huyện Văn Quan, Tỉnh Lạng Sơn",
+        "code": "184",
+        "parent_code": "20"
+    },
+    "185": {
+        "name": "Bắc Sơn",
+        "type": "huyen",
+        "slug": "bac-son",
+        "name_with_type": "Huyện Bắc Sơn",
+        "path": "Bắc Sơn, Lạng Sơn",
+        "path_with_type": "Huyện Bắc Sơn, Tỉnh Lạng Sơn",
+        "code": "185",
+        "parent_code": "20"
+    },
+    "186": {
+        "name": "Hữu Lũng",
+        "type": "huyen",
+        "slug": "huu-lung",
+        "name_with_type": "Huyện Hữu Lũng",
+        "path": "Hữu Lũng, Lạng Sơn",
+        "path_with_type": "Huyện Hữu Lũng, Tỉnh Lạng Sơn",
+        "code": "186",
+        "parent_code": "20"
+    },
+    "187": {
+        "name": "Chi Lăng",
+        "type": "huyen",
+        "slug": "chi-lang",
+        "name_with_type": "Huyện Chi Lăng",
+        "path": "Chi Lăng, Lạng Sơn",
+        "path_with_type": "Huyện Chi Lăng, Tỉnh Lạng Sơn",
+        "code": "187",
+        "parent_code": "20"
+    },
+    "188": {
+        "name": "Lộc Bình",
+        "type": "huyen",
+        "slug": "loc-binh",
+        "name_with_type": "Huyện Lộc Bình",
+        "path": "Lộc Bình, Lạng Sơn",
+        "path_with_type": "Huyện Lộc Bình, Tỉnh Lạng Sơn",
+        "code": "188",
+        "parent_code": "20"
+    },
+    "189": {
+        "name": "Đình Lập",
+        "type": "huyen",
+        "slug": "dinh-lap",
+        "name_with_type": "Huyện Đình Lập",
+        "path": "Đình Lập, Lạng Sơn",
+        "path_with_type": "Huyện Đình Lập, Tỉnh Lạng Sơn",
+        "code": "189",
+        "parent_code": "20"
+    }
+}

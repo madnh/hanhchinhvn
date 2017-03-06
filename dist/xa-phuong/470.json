@@ -1,0 +1,202 @@
+{
+    "19681": {
+        "name": "Hải Lăng",
+        "type": "thi-tran",
+        "slug": "hai-lang",
+        "name_with_type": "Thị trấn Hải Lăng",
+        "path": "Hải Lăng, Hải Lăng, Quảng Trị",
+        "path_with_type": "Thị trấn Hải Lăng, Huyện Hải Lăng, Tỉnh Quảng Trị",
+        "code": "19681",
+        "parent_code": "470"
+    },
+    "19684": {
+        "name": "Hải An",
+        "type": "xa",
+        "slug": "hai-an",
+        "name_with_type": "Xã Hải An",
+        "path": "Hải An, Hải Lăng, Quảng Trị",
+        "path_with_type": "Xã Hải An, Huyện Hải Lăng, Tỉnh Quảng Trị",
+        "code": "19684",
+        "parent_code": "470"
+    },
+    "19687": {
+        "name": "Hải Ba",
+        "type": "xa",
+        "slug": "hai-ba",
+        "name_with_type": "Xã Hải Ba",
+        "path": "Hải Ba, Hải Lăng, Quảng Trị",
+        "path_with_type": "Xã Hải Ba, Huyện Hải Lăng, Tỉnh Quảng Trị",
+        "code": "19687",
+        "parent_code": "470"
+    },
+    "19690": {
+        "name": "Hải Xuân",
+        "type": "xa",
+        "slug": "hai-xuan",
+        "name_with_type": "Xã Hải Xuân",
+        "path": "Hải Xuân, Hải Lăng, Quảng Trị",
+        "path_with_type": "Xã Hải Xuân, Huyện Hải Lăng, Tỉnh Quảng Trị",
+        "code": "19690",
+        "parent_code": "470"
+    },
+    "19693": {
+        "name": "Hải Quy",
+        "type": "xa",
+        "slug": "hai-quy",
+        "name_with_type": "Xã Hải Quy",
+        "path": "Hải Quy, Hải Lăng, Quảng Trị",
+        "path_with_type": "Xã Hải Quy, Huyện Hải Lăng, Tỉnh Quảng Trị",
+        "code": "19693",
+        "parent_code": "470"
+    },
+    "19696": {
+        "name": "Hải Quế",
+        "type": "xa",
+        "slug": "hai-que",
+        "name_with_type": "Xã Hải Quế",
+        "path": "Hải Quế, Hải Lăng, Quảng Trị",
+        "path_with_type": "Xã Hải Quế, Huyện Hải Lăng, Tỉnh Quảng Trị",
+        "code": "19696",
+        "parent_code": "470"
+    },
+    "19699": {
+        "name": "Hải Vĩnh",
+        "type": "xa",
+        "slug": "hai-vinh",
+        "name_with_type": "Xã Hải Vĩnh",
+        "path": "Hải Vĩnh, Hải Lăng, Quảng Trị",
+        "path_with_type": "Xã Hải Vĩnh, Huyện Hải Lăng, Tỉnh Quảng Trị",
+        "code": "19699",
+        "parent_code": "470"
+    },
+    "19702": {
+        "name": "Hải Phú",
+        "type": "xa",
+        "slug": "hai-phu",
+        "name_with_type": "Xã Hải Phú",
+        "path": "Hải Phú, Hải Lăng, Quảng Trị",
+        "path_with_type": "Xã Hải Phú, Huyện Hải Lăng, Tỉnh Quảng Trị",
+        "code": "19702",
+        "parent_code": "470"
+    },
+    "19708": {
+        "name": "Hải Thượng",
+        "type": "xa",
+        "slug": "hai-thuong",
+        "name_with_type": "Xã Hải Thượng",
+        "path": "Hải Thượng, Hải Lăng, Quảng Trị",
+        "path_with_type": "Xã Hải Thượng, Huyện Hải Lăng, Tỉnh Quảng Trị",
+        "code": "19708",
+        "parent_code": "470"
+    },
+    "19711": {
+        "name": "Hải Dương",
+        "type": "xa",
+        "slug": "hai-duong",
+        "name_with_type": "Xã Hải Dương",
+        "path": "Hải Dương, Hải Lăng, Quảng Trị",
+        "path_with_type": "Xã Hải Dương, Huyện Hải Lăng, Tỉnh Quảng Trị",
+        "code": "19711",
+        "parent_code": "470"
+    },
+    "19714": {
+        "name": "Hải Thiện",
+        "type": "xa",
+        "slug": "hai-thien",
+        "name_with_type": "Xã Hải Thiện",
+        "path": "Hải Thiện, Hải Lăng, Quảng Trị",
+        "path_with_type": "Xã Hải Thiện, Huyện Hải Lăng, Tỉnh Quảng Trị",
+        "code": "19714",
+        "parent_code": "470"
+    },
+    "19717": {
+        "name": "Hải Lâm",
+        "type": "xa",
+        "slug": "hai-lam",
+        "name_with_type": "Xã Hải Lâm",
+        "path": "Hải Lâm, Hải Lăng, Quảng Trị",
+        "path_with_type": "Xã Hải Lâm, Huyện Hải Lăng, Tỉnh Quảng Trị",
+        "code": "19717",
+        "parent_code": "470"
+    },
+    "19720": {
+        "name": "Hải Thành",
+        "type": "xa",
+        "slug": "hai-thanh",
+        "name_with_type": "Xã Hải Thành",
+        "path": "Hải Thành, Hải Lăng, Quảng Trị",
+        "path_with_type": "Xã Hải Thành, Huyện Hải Lăng, Tỉnh Quảng Trị",
+        "code": "19720",
+        "parent_code": "470"
+    },
+    "19723": {
+        "name": "Hải Hòa",
+        "type": "xa",
+        "slug": "hai-hoa",
+        "name_with_type": "Xã Hải Hòa",
+        "path": "Hải Hòa, Hải Lăng, Quảng Trị",
+        "path_with_type": "Xã Hải Hòa, Huyện Hải Lăng, Tỉnh Quảng Trị",
+        "code": "19723",
+        "parent_code": "470"
+    },
+    "19726": {
+        "name": "Hải Tân",
+        "type": "xa",
+        "slug": "hai-tan",
+        "name_with_type": "Xã Hải Tân",
+        "path": "Hải Tân, Hải Lăng, Quảng Trị",
+        "path_with_type": "Xã Hải Tân, Huyện Hải Lăng, Tỉnh Quảng Trị",
+        "code": "19726",
+        "parent_code": "470"
+    },
+    "19729": {
+        "name": "Hải Trường",
+        "type": "xa",
+        "slug": "hai-truong",
+        "name_with_type": "Xã Hải Trường",
+        "path": "Hải Trường, Hải Lăng, Quảng Trị",
+        "path_with_type": "Xã Hải Trường, Huyện Hải Lăng, Tỉnh Quảng Trị",
+        "code": "19729",
+        "parent_code": "470"
+    },
+    "19732": {
+        "name": "Hải Thọ",
+        "type": "xa",
+        "slug": "hai-tho",
+        "name_with_type": "Xã Hải Thọ",
+        "path": "Hải Thọ, Hải Lăng, Quảng Trị",
+        "path_with_type": "Xã Hải Thọ, Huyện Hải Lăng, Tỉnh Quảng Trị",
+        "code": "19732",
+        "parent_code": "470"
+    },
+    "19735": {
+        "name": "Hải Sơn",
+        "type": "xa",
+        "slug": "hai-son",
+        "name_with_type": "Xã Hải Sơn",
+        "path": "Hải Sơn, Hải Lăng, Quảng Trị",
+        "path_with_type": "Xã Hải Sơn, Huyện Hải Lăng, Tỉnh Quảng Trị",
+        "code": "19735",
+        "parent_code": "470"
+    },
+    "19738": {
+        "name": "Hải Chánh",
+        "type": "xa",
+        "slug": "hai-chanh",
+        "name_with_type": "Xã Hải Chánh",
+        "path": "Hải Chánh, Hải Lăng, Quảng Trị",
+        "path_with_type": "Xã Hải Chánh, Huyện Hải Lăng, Tỉnh Quảng Trị",
+        "code": "19738",
+        "parent_code": "470"
+    },
+    "19741": {
+        "name": "Hải Khê",
+        "type": "xa",
+        "slug": "hai-khe",
+        "name_with_type": "Xã Hải Khê",
+        "path": "Hải Khê, Hải Lăng, Quảng Trị",
+        "path_with_type": "Xã Hải Khê, Huyện Hải Lăng, Tỉnh Quảng Trị",
+        "code": "19741",
+        "parent_code": "470"
+    }
+}

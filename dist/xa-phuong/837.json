@@ -1,0 +1,182 @@
+{
+    "29182": {
+        "name": "Thạnh Phú",
+        "type": "thi-tran",
+        "slug": "thanh-phu",
+        "name_with_type": "Thị trấn Thạnh Phú",
+        "path": "Thạnh Phú, Thạnh Phú, Bến Tre",
+        "path_with_type": "Thị trấn Thạnh Phú, Huyện Thạnh Phú, Tỉnh Bến Tre",
+        "code": "29182",
+        "parent_code": "837"
+    },
+    "29185": {
+        "name": "Phú Khánh",
+        "type": "xa",
+        "slug": "phu-khanh",
+        "name_with_type": "Xã Phú Khánh",
+        "path": "Phú Khánh, Thạnh Phú, Bến Tre",
+        "path_with_type": "Xã Phú Khánh, Huyện Thạnh Phú, Tỉnh Bến Tre",
+        "code": "29185",
+        "parent_code": "837"
+    },
+    "29188": {
+        "name": "Đại Điền",
+        "type": "xa",
+        "slug": "dai-dien",
+        "name_with_type": "Xã Đại Điền",
+        "path": "Đại Điền, Thạnh Phú, Bến Tre",
+        "path_with_type": "Xã Đại Điền, Huyện Thạnh Phú, Tỉnh Bến Tre",
+        "code": "29188",
+        "parent_code": "837"
+    },
+    "29191": {
+        "name": "Quới Điền",
+        "type": "xa",
+        "slug": "quoi-dien",
+        "name_with_type": "Xã Quới Điền",
+        "path": "Quới Điền, Thạnh Phú, Bến Tre",
+        "path_with_type": "Xã Quới Điền, Huyện Thạnh Phú, Tỉnh Bến Tre",
+        "code": "29191",
+        "parent_code": "837"
+    },
+    "29194": {
+        "name": "Tân Phong",
+        "type": "xa",
+        "slug": "tan-phong",
+        "name_with_type": "Xã Tân Phong",
+        "path": "Tân Phong, Thạnh Phú, Bến Tre",
+        "path_with_type": "Xã Tân Phong, Huyện Thạnh Phú, Tỉnh Bến Tre",
+        "code": "29194",
+        "parent_code": "837"
+    },
+    "29197": {
+        "name": "Mỹ Hưng",
+        "type": "xa",
+        "slug": "my-hung",
+        "name_with_type": "Xã Mỹ Hưng",
+        "path": "Mỹ Hưng, Thạnh Phú, Bến Tre",
+        "path_with_type": "Xã Mỹ Hưng, Huyện Thạnh Phú, Tỉnh Bến Tre",
+        "code": "29197",
+        "parent_code": "837"
+    },
+    "29200": {
+        "name": "An Thạnh",
+        "type": "xa",
+        "slug": "an-thanh",
+        "name_with_type": "Xã An Thạnh",
+        "path": "An Thạnh, Thạnh Phú, Bến Tre",
+        "path_with_type": "Xã An Thạnh, Huyện Thạnh Phú, Tỉnh Bến Tre",
+        "code": "29200",
+        "parent_code": "837"
+    },
+    "29203": {
+        "name": "Thới Thạnh",
+        "type": "xa",
+        "slug": "thoi-thanh",
+        "name_with_type": "Xã Thới Thạnh",
+        "path": "Thới Thạnh, Thạnh Phú, Bến Tre",
+        "path_with_type": "Xã Thới Thạnh, Huyện Thạnh Phú, Tỉnh Bến Tre",
+        "code": "29203",
+        "parent_code": "837"
+    },
+    "29206": {
+        "name": "Hòa Lợi",
+        "type": "xa",
+        "slug": "hoa-loi",
+        "name_with_type": "Xã Hòa Lợi",
+        "path": "Hòa Lợi, Thạnh Phú, Bến Tre",
+        "path_with_type": "Xã Hòa Lợi, Huyện Thạnh Phú, Tỉnh Bến Tre",
+        "code": "29206",
+        "parent_code": "837"
+    },
+    "29209": {
+        "name": "An Điền",
+        "type": "xa",
+        "slug": "an-dien",
+        "name_with_type": "Xã An Điền",
+        "path": "An Điền, Thạnh Phú, Bến Tre",
+        "path_with_type": "Xã An Điền, Huyện Thạnh Phú, Tỉnh Bến Tre",
+        "code": "29209",
+        "parent_code": "837"
+    },
+    "29212": {
+        "name": "Bình Thạnh",
+        "type": "xa",
+        "slug": "binh-thanh",
+        "name_with_type": "Xã Bình Thạnh",
+        "path": "Bình Thạnh, Thạnh Phú, Bến Tre",
+        "path_with_type": "Xã Bình Thạnh, Huyện Thạnh Phú, Tỉnh Bến Tre",
+        "code": "29212",
+        "parent_code": "837"
+    },
+    "29215": {
+        "name": "An Thuận",
+        "type": "xa",
+        "slug": "an-thuan",
+        "name_with_type": "Xã An Thuận",
+        "path": "An Thuận, Thạnh Phú, Bến Tre",
+        "path_with_type": "Xã An Thuận, Huyện Thạnh Phú, Tỉnh Bến Tre",
+        "code": "29215",
+        "parent_code": "837"
+    },
+    "29218": {
+        "name": "An Quy",
+        "type": "xa",
+        "slug": "an-quy",
+        "name_with_type": "Xã An Quy",
+        "path": "An Quy, Thạnh Phú, Bến Tre",
+        "path_with_type": "Xã An Quy, Huyện Thạnh Phú, Tỉnh Bến Tre",
+        "code": "29218",
+        "parent_code": "837"
+    },
+    "29221": {
+        "name": "Thạnh Hải",
+        "type": "xa",
+        "slug": "thanh-hai",
+        "name_with_type": "Xã Thạnh Hải",
+        "path": "Thạnh Hải, Thạnh Phú, Bến Tre",
+        "path_with_type": "Xã Thạnh Hải, Huyện Thạnh Phú, Tỉnh Bến Tre",
+        "code": "29221",
+        "parent_code": "837"
+    },
+    "29224": {
+        "name": "An Nhơn",
+        "type": "xa",
+        "slug": "an-nhon",
+        "name_with_type": "Xã An Nhơn",
+        "path": "An Nhơn, Thạnh Phú, Bến Tre",
+        "path_with_type": "Xã An Nhơn, Huyện Thạnh Phú, Tỉnh Bến Tre",
+        "code": "29224",
+        "parent_code": "837"
+    },
+    "29227": {
+        "name": "Giao Thạnh",
+        "type": "xa",
+        "slug": "giao-thanh",
+        "name_with_type": "Xã Giao Thạnh",
+        "path": "Giao Thạnh, Thạnh Phú, Bến Tre",
+        "path_with_type": "Xã Giao Thạnh, Huyện Thạnh Phú, Tỉnh Bến Tre",
+        "code": "29227",
+        "parent_code": "837"
+    },
+    "29230": {
+        "name": "Thạnh Phong",
+        "type": "xa",
+        "slug": "thanh-phong",
+        "name_with_type": "Xã Thạnh Phong",
+        "path": "Thạnh Phong, Thạnh Phú, Bến Tre",
+        "path_with_type": "Xã Thạnh Phong, Huyện Thạnh Phú, Tỉnh Bến Tre",
+        "code": "29230",
+        "parent_code": "837"
+    },
+    "29233": {
+        "name": "Mỹ An",
+        "type": "xa",
+        "slug": "my-an",
+        "name_with_type": "Xã Mỹ An",
+        "path": "Mỹ An, Thạnh Phú, Bến Tre",
+        "path_with_type": "Xã Mỹ An, Huyện Thạnh Phú, Tỉnh Bến Tre",
+        "code": "29233",
+        "parent_code": "837"
+    }
+}

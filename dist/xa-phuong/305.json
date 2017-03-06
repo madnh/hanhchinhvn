@@ -1,0 +1,152 @@
+{
+    "11368": {
+        "name": "Cát Dài",
+        "type": "phuong",
+        "slug": "cat-dai",
+        "name_with_type": "Phường Cát Dài",
+        "path": "Cát Dài, Lê Chân, Hải Phòng",
+        "path_with_type": "Phường Cát Dài, Quận Lê Chân, Thành phố Hải Phòng",
+        "code": "11368",
+        "parent_code": "305"
+    },
+    "11371": {
+        "name": "An Biên",
+        "type": "phuong",
+        "slug": "an-bien",
+        "name_with_type": "Phường An Biên",
+        "path": "An Biên, Lê Chân, Hải Phòng",
+        "path_with_type": "Phường An Biên, Quận Lê Chân, Thành phố Hải Phòng",
+        "code": "11371",
+        "parent_code": "305"
+    },
+    "11374": {
+        "name": "Lam Sơn",
+        "type": "phuong",
+        "slug": "lam-son",
+        "name_with_type": "Phường Lam Sơn",
+        "path": "Lam Sơn, Lê Chân, Hải Phòng",
+        "path_with_type": "Phường Lam Sơn, Quận Lê Chân, Thành phố Hải Phòng",
+        "code": "11374",
+        "parent_code": "305"
+    },
+    "11377": {
+        "name": "An Dương",
+        "type": "phuong",
+        "slug": "an-duong",
+        "name_with_type": "Phường An Dương",
+        "path": "An Dương, Lê Chân, Hải Phòng",
+        "path_with_type": "Phường An Dương, Quận Lê Chân, Thành phố Hải Phòng",
+        "code": "11377",
+        "parent_code": "305"
+    },
+    "11380": {
+        "name": "Trần Nguyên Hãn",
+        "type": "phuong",
+        "slug": "tran-nguyen-han",
+        "name_with_type": "Phường Trần Nguyên Hãn",
+        "path": "Trần Nguyên Hãn, Lê Chân, Hải Phòng",
+        "path_with_type": "Phường Trần Nguyên Hãn, Quận Lê Chân, Thành phố Hải Phòng",
+        "code": "11380",
+        "parent_code": "305"
+    },
+    "11383": {
+        "name": "Hồ Nam",
+        "type": "phuong",
+        "slug": "ho-nam",
+        "name_with_type": "Phường Hồ Nam",
+        "path": "Hồ Nam, Lê Chân, Hải Phòng",
+        "path_with_type": "Phường Hồ Nam, Quận Lê Chân, Thành phố Hải Phòng",
+        "code": "11383",
+        "parent_code": "305"
+    },
+    "11386": {
+        "name": "Trại Cau",
+        "type": "phuong",
+        "slug": "trai-cau",
+        "name_with_type": "Phường Trại Cau",
+        "path": "Trại Cau, Lê Chân, Hải Phòng",
+        "path_with_type": "Phường Trại Cau, Quận Lê Chân, Thành phố Hải Phòng",
+        "code": "11386",
+        "parent_code": "305"
+    },
+    "11389": {
+        "name": "Dư Hàng",
+        "type": "phuong",
+        "slug": "du-hang",
+        "name_with_type": "Phường Dư Hàng",
+        "path": "Dư Hàng, Lê Chân, Hải Phòng",
+        "path_with_type": "Phường Dư Hàng, Quận Lê Chân, Thành phố Hải Phòng",
+        "code": "11389",
+        "parent_code": "305"
+    },
+    "11392": {
+        "name": "Hàng Kênh",
+        "type": "phuong",
+        "slug": "hang-kenh",
+        "name_with_type": "Phường Hàng Kênh",
+        "path": "Hàng Kênh, Lê Chân, Hải Phòng",
+        "path_with_type": "Phường Hàng Kênh, Quận Lê Chân, Thành phố Hải Phòng",
+        "code": "11392",
+        "parent_code": "305"
+    },
+    "11395": {
+        "name": "Đông Hải",
+        "type": "phuong",
+        "slug": "dong-hai",
+        "name_with_type": "Phường Đông Hải",
+        "path": "Đông Hải, Lê Chân, Hải Phòng",
+        "path_with_type": "Phường Đông Hải, Quận Lê Chân, Thành phố Hải Phòng",
+        "code": "11395",
+        "parent_code": "305"
+    },
+    "11398": {
+        "name": "Niệm Nghĩa",
+        "type": "phuong",
+        "slug": "niem-nghia",
+        "name_with_type": "Phường Niệm Nghĩa",
+        "path": "Niệm Nghĩa, Lê Chân, Hải Phòng",
+        "path_with_type": "Phường Niệm Nghĩa, Quận Lê Chân, Thành phố Hải Phòng",
+        "code": "11398",
+        "parent_code": "305"
+    },
+    "11401": {
+        "name": "Nghĩa Xá",
+        "type": "phuong",
+        "slug": "nghia-xa",
+        "name_with_type": "Phường Nghĩa Xá",
+        "path": "Nghĩa Xá, Lê Chân, Hải Phòng",
+        "path_with_type": "Phường Nghĩa Xá, Quận Lê Chân, Thành phố Hải Phòng",
+        "code": "11401",
+        "parent_code": "305"
+    },
+    "11404": {
+        "name": "Dư Hàng Kênh",
+        "type": "phuong",
+        "slug": "du-hang-kenh",
+        "name_with_type": "Phường Dư Hàng Kênh",
+        "path": "Dư Hàng Kênh, Lê Chân, Hải Phòng",
+        "path_with_type": "Phường Dư Hàng Kênh, Quận Lê Chân, Thành phố Hải Phòng",
+        "code": "11404",
+        "parent_code": "305"
+    },
+    "11405": {
+        "name": "Kênh Dương",
+        "type": "phuong",
+        "slug": "kenh-duong",
+        "name_with_type": "Phường Kênh Dương",
+        "path": "Kênh Dương, Lê Chân, Hải Phòng",
+        "path_with_type": "Phường Kênh Dương, Quận Lê Chân, Thành phố Hải Phòng",
+        "code": "11405",
+        "parent_code": "305"
+    },
+    "11407": {
+        "name": "Vĩnh Niệm",
+        "type": "phuong",
+        "slug": "vinh-niem",
+        "name_with_type": "Phường Vĩnh Niệm",
+        "path": "Vĩnh Niệm, Lê Chân, Hải Phòng",
+        "path_with_type": "Phường Vĩnh Niệm, Quận Lê Chân, Thành phố Hải Phòng",
+        "code": "11407",
+        "parent_code": "305"
+    }
+}

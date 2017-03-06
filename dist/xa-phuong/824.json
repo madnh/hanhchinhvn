@@ -1,0 +1,132 @@
+{
+    "28702": {
+        "name": "Tân Hòa",
+        "type": "thi-tran",
+        "slug": "tan-hoa",
+        "name_with_type": "Thị trấn Tân Hòa",
+        "path": "Tân Hòa, Gò Công Đông, Tiền Giang",
+        "path_with_type": "Thị trấn Tân Hòa, Huyện Gò Công Đông, Tỉnh Tiền Giang",
+        "code": "28702",
+        "parent_code": "824"
+    },
+    "28705": {
+        "name": "Tăng Hoà",
+        "type": "xa",
+        "slug": "tang-hoa",
+        "name_with_type": "Xã Tăng Hoà",
+        "path": "Tăng Hoà, Gò Công Đông, Tiền Giang",
+        "path_with_type": "Xã Tăng Hoà, Huyện Gò Công Đông, Tỉnh Tiền Giang",
+        "code": "28705",
+        "parent_code": "824"
+    },
+    "28711": {
+        "name": "Tân Phước",
+        "type": "xa",
+        "slug": "tan-phuoc",
+        "name_with_type": "Xã Tân Phước",
+        "path": "Tân Phước, Gò Công Đông, Tiền Giang",
+        "path_with_type": "Xã Tân Phước, Huyện Gò Công Đông, Tỉnh Tiền Giang",
+        "code": "28711",
+        "parent_code": "824"
+    },
+    "28714": {
+        "name": "Gia Thuận",
+        "type": "xa",
+        "slug": "gia-thuan",
+        "name_with_type": "Xã Gia Thuận",
+        "path": "Gia Thuận, Gò Công Đông, Tiền Giang",
+        "path_with_type": "Xã Gia Thuận, Huyện Gò Công Đông, Tỉnh Tiền Giang",
+        "code": "28714",
+        "parent_code": "824"
+    },
+    "28720": {
+        "name": "Vàm Láng",
+        "type": "thi-tran",
+        "slug": "vam-lang",
+        "name_with_type": "Thị trấn Vàm Láng",
+        "path": "Vàm Láng, Gò Công Đông, Tiền Giang",
+        "path_with_type": "Thị trấn Vàm Láng, Huyện Gò Công Đông, Tỉnh Tiền Giang",
+        "code": "28720",
+        "parent_code": "824"
+    },
+    "28723": {
+        "name": "Tân Tây",
+        "type": "xa",
+        "slug": "tan-tay",
+        "name_with_type": "Xã Tân Tây",
+        "path": "Tân Tây, Gò Công Đông, Tiền Giang",
+        "path_with_type": "Xã Tân Tây, Huyện Gò Công Đông, Tỉnh Tiền Giang",
+        "code": "28723",
+        "parent_code": "824"
+    },
+    "28726": {
+        "name": "Kiểng Phước",
+        "type": "xa",
+        "slug": "kieng-phuoc",
+        "name_with_type": "Xã Kiểng Phước",
+        "path": "Kiểng Phước, Gò Công Đông, Tiền Giang",
+        "path_with_type": "Xã Kiểng Phước, Huyện Gò Công Đông, Tỉnh Tiền Giang",
+        "code": "28726",
+        "parent_code": "824"
+    },
+    "28732": {
+        "name": "Tân Đông",
+        "type": "xa",
+        "slug": "tan-dong",
+        "name_with_type": "Xã Tân Đông",
+        "path": "Tân Đông, Gò Công Đông, Tiền Giang",
+        "path_with_type": "Xã Tân Đông, Huyện Gò Công Đông, Tỉnh Tiền Giang",
+        "code": "28732",
+        "parent_code": "824"
+    },
+    "28735": {
+        "name": "Bình Ân",
+        "type": "xa",
+        "slug": "binh-an",
+        "name_with_type": "Xã Bình Ân",
+        "path": "Bình Ân, Gò Công Đông, Tiền Giang",
+        "path_with_type": "Xã Bình Ân, Huyện Gò Công Đông, Tỉnh Tiền Giang",
+        "code": "28735",
+        "parent_code": "824"
+    },
+    "28738": {
+        "name": "Tân Điền",
+        "type": "xa",
+        "slug": "tan-dien",
+        "name_with_type": "Xã Tân Điền",
+        "path": "Tân Điền, Gò Công Đông, Tiền Giang",
+        "path_with_type": "Xã Tân Điền, Huyện Gò Công Đông, Tỉnh Tiền Giang",
+        "code": "28738",
+        "parent_code": "824"
+    },
+    "28741": {
+        "name": "Bình Nghị",
+        "type": "xa",
+        "slug": "binh-nghi",
+        "name_with_type": "Xã Bình Nghị",
+        "path": "Bình Nghị, Gò Công Đông, Tiền Giang",
+        "path_with_type": "Xã Bình Nghị, Huyện Gò Công Đông, Tỉnh Tiền Giang",
+        "code": "28741",
+        "parent_code": "824"
+    },
+    "28744": {
+        "name": "Phước Trung",
+        "type": "xa",
+        "slug": "phuoc-trung",
+        "name_with_type": "Xã Phước Trung",
+        "path": "Phước Trung, Gò Công Đông, Tiền Giang",
+        "path_with_type": "Xã Phước Trung, Huyện Gò Công Đông, Tỉnh Tiền Giang",
+        "code": "28744",
+        "parent_code": "824"
+    },
+    "28747": {
+        "name": "Tân Thành",
+        "type": "xa",
+        "slug": "tan-thanh",
+        "name_with_type": "Xã Tân Thành",
+        "path": "Tân Thành, Gò Công Đông, Tiền Giang",
+        "path_with_type": "Xã Tân Thành, Huyện Gò Công Đông, Tỉnh Tiền Giang",
+        "code": "28747",
+        "parent_code": "824"
+    }
+}

@@ -1,0 +1,162 @@
+{
+    "22015": {
+        "name": "1",
+        "type": "phuong",
+        "slug": "1",
+        "name_with_type": "Phường 1",
+        "path": "1, Tuy Hoà, Phú Yên",
+        "path_with_type": "Phường 1, Thành phố Tuy Hoà, Tỉnh Phú Yên",
+        "code": "22015",
+        "parent_code": "555"
+    },
+    "22018": {
+        "name": "8",
+        "type": "phuong",
+        "slug": "8",
+        "name_with_type": "Phường 8",
+        "path": "8, Tuy Hoà, Phú Yên",
+        "path_with_type": "Phường 8, Thành phố Tuy Hoà, Tỉnh Phú Yên",
+        "code": "22018",
+        "parent_code": "555"
+    },
+    "22021": {
+        "name": "2",
+        "type": "phuong",
+        "slug": "2",
+        "name_with_type": "Phường 2",
+        "path": "2, Tuy Hoà, Phú Yên",
+        "path_with_type": "Phường 2, Thành phố Tuy Hoà, Tỉnh Phú Yên",
+        "code": "22021",
+        "parent_code": "555"
+    },
+    "22024": {
+        "name": "9",
+        "type": "phuong",
+        "slug": "9",
+        "name_with_type": "Phường 9",
+        "path": "9, Tuy Hoà, Phú Yên",
+        "path_with_type": "Phường 9, Thành phố Tuy Hoà, Tỉnh Phú Yên",
+        "code": "22024",
+        "parent_code": "555"
+    },
+    "22027": {
+        "name": "3",
+        "type": "phuong",
+        "slug": "3",
+        "name_with_type": "Phường 3",
+        "path": "3, Tuy Hoà, Phú Yên",
+        "path_with_type": "Phường 3, Thành phố Tuy Hoà, Tỉnh Phú Yên",
+        "code": "22027",
+        "parent_code": "555"
+    },
+    "22030": {
+        "name": "4",
+        "type": "phuong",
+        "slug": "4",
+        "name_with_type": "Phường 4",
+        "path": "4, Tuy Hoà, Phú Yên",
+        "path_with_type": "Phường 4, Thành phố Tuy Hoà, Tỉnh Phú Yên",
+        "code": "22030",
+        "parent_code": "555"
+    },
+    "22033": {
+        "name": "5",
+        "type": "phuong",
+        "slug": "5",
+        "name_with_type": "Phường 5",
+        "path": "5, Tuy Hoà, Phú Yên",
+        "path_with_type": "Phường 5, Thành phố Tuy Hoà, Tỉnh Phú Yên",
+        "code": "22033",
+        "parent_code": "555"
+    },
+    "22036": {
+        "name": "7",
+        "type": "phuong",
+        "slug": "7",
+        "name_with_type": "Phường 7",
+        "path": "7, Tuy Hoà, Phú Yên",
+        "path_with_type": "Phường 7, Thành phố Tuy Hoà, Tỉnh Phú Yên",
+        "code": "22036",
+        "parent_code": "555"
+    },
+    "22039": {
+        "name": "6",
+        "type": "phuong",
+        "slug": "6",
+        "name_with_type": "Phường 6",
+        "path": "6, Tuy Hoà, Phú Yên",
+        "path_with_type": "Phường 6, Thành phố Tuy Hoà, Tỉnh Phú Yên",
+        "code": "22039",
+        "parent_code": "555"
+    },
+    "22040": {
+        "name": "Phú Thạnh",
+        "type": "phuong",
+        "slug": "phu-thanh",
+        "name_with_type": "Phường Phú Thạnh",
+        "path": "Phú Thạnh, Tuy Hoà, Phú Yên",
+        "path_with_type": "Phường Phú Thạnh, Thành phố Tuy Hoà, Tỉnh Phú Yên",
+        "code": "22040",
+        "parent_code": "555"
+    },
+    "22041": {
+        "name": "Phú Đông",
+        "type": "phuong",
+        "slug": "phu-dong",
+        "name_with_type": "Phường Phú Đông",
+        "path": "Phú Đông, Tuy Hoà, Phú Yên",
+        "path_with_type": "Phường Phú Đông, Thành phố Tuy Hoà, Tỉnh Phú Yên",
+        "code": "22041",
+        "parent_code": "555"
+    },
+    "22042": {
+        "name": "Hòa Kiến",
+        "type": "xa",
+        "slug": "hoa-kien",
+        "name_with_type": "Xã Hòa Kiến",
+        "path": "Hòa Kiến, Tuy Hoà, Phú Yên",
+        "path_with_type": "Xã Hòa Kiến, Thành phố Tuy Hoà, Tỉnh Phú Yên",
+        "code": "22042",
+        "parent_code": "555"
+    },
+    "22045": {
+        "name": "Bình Kiến",
+        "type": "xa",
+        "slug": "binh-kien",
+        "name_with_type": "Xã Bình Kiến",
+        "path": "Bình Kiến, Tuy Hoà, Phú Yên",
+        "path_with_type": "Xã Bình Kiến, Thành phố Tuy Hoà, Tỉnh Phú Yên",
+        "code": "22045",
+        "parent_code": "555"
+    },
+    "22048": {
+        "name": "Bình Ngọc",
+        "type": "xa",
+        "slug": "binh-ngoc",
+        "name_with_type": "Xã Bình Ngọc",
+        "path": "Bình Ngọc, Tuy Hoà, Phú Yên",
+        "path_with_type": "Xã Bình Ngọc, Thành phố Tuy Hoà, Tỉnh Phú Yên",
+        "code": "22048",
+        "parent_code": "555"
+    },
+    "22162": {
+        "name": "An Phú",
+        "type": "xa",
+        "slug": "an-phu",
+        "name_with_type": "Xã An Phú",
+        "path": "An Phú, Tuy Hoà, Phú Yên",
+        "path_with_type": "Xã An Phú, Thành phố Tuy Hoà, Tỉnh Phú Yên",
+        "code": "22162",
+        "parent_code": "555"
+    },
+    "22240": {
+        "name": "Phú Lâm",
+        "type": "phuong",
+        "slug": "phu-lam",
+        "name_with_type": "Phường Phú Lâm",
+        "path": "Phú Lâm, Tuy Hoà, Phú Yên",
+        "path_with_type": "Phường Phú Lâm, Thành phố Tuy Hoà, Tỉnh Phú Yên",
+        "code": "22240",
+        "parent_code": "555"
+    }
+}

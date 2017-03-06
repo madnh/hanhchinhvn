@@ -1,0 +1,182 @@
+{
+    "09400": {
+        "name": "Hồ",
+        "type": "thi-tran",
+        "slug": "ho",
+        "name_with_type": "Thị trấn Hồ",
+        "path": "Hồ, Thuận Thành, Bắc Ninh",
+        "path_with_type": "Thị trấn Hồ, Huyện Thuận Thành, Tỉnh Bắc Ninh",
+        "code": "09400",
+        "parent_code": "262"
+    },
+    "09403": {
+        "name": "Hoài Thượng",
+        "type": "xa",
+        "slug": "hoai-thuong",
+        "name_with_type": "Xã Hoài Thượng",
+        "path": "Hoài Thượng, Thuận Thành, Bắc Ninh",
+        "path_with_type": "Xã Hoài Thượng, Huyện Thuận Thành, Tỉnh Bắc Ninh",
+        "code": "09403",
+        "parent_code": "262"
+    },
+    "09406": {
+        "name": "Đại Đồng Thành",
+        "type": "xa",
+        "slug": "dai-dong-thanh",
+        "name_with_type": "Xã Đại Đồng Thành",
+        "path": "Đại Đồng Thành, Thuận Thành, Bắc Ninh",
+        "path_with_type": "Xã Đại Đồng Thành, Huyện Thuận Thành, Tỉnh Bắc Ninh",
+        "code": "09406",
+        "parent_code": "262"
+    },
+    "09409": {
+        "name": "Mão Điền",
+        "type": "xa",
+        "slug": "mao-dien",
+        "name_with_type": "Xã Mão Điền",
+        "path": "Mão Điền, Thuận Thành, Bắc Ninh",
+        "path_with_type": "Xã Mão Điền, Huyện Thuận Thành, Tỉnh Bắc Ninh",
+        "code": "09409",
+        "parent_code": "262"
+    },
+    "09412": {
+        "name": "Song Hồ",
+        "type": "xa",
+        "slug": "song-ho",
+        "name_with_type": "Xã Song Hồ",
+        "path": "Song Hồ, Thuận Thành, Bắc Ninh",
+        "path_with_type": "Xã Song Hồ, Huyện Thuận Thành, Tỉnh Bắc Ninh",
+        "code": "09412",
+        "parent_code": "262"
+    },
+    "09415": {
+        "name": "Đình Tổ",
+        "type": "xa",
+        "slug": "dinh-to",
+        "name_with_type": "Xã Đình Tổ",
+        "path": "Đình Tổ, Thuận Thành, Bắc Ninh",
+        "path_with_type": "Xã Đình Tổ, Huyện Thuận Thành, Tỉnh Bắc Ninh",
+        "code": "09415",
+        "parent_code": "262"
+    },
+    "09418": {
+        "name": "An Bình",
+        "type": "xa",
+        "slug": "an-binh",
+        "name_with_type": "Xã An Bình",
+        "path": "An Bình, Thuận Thành, Bắc Ninh",
+        "path_with_type": "Xã An Bình, Huyện Thuận Thành, Tỉnh Bắc Ninh",
+        "code": "09418",
+        "parent_code": "262"
+    },
+    "09421": {
+        "name": "Trí Quả",
+        "type": "xa",
+        "slug": "tri-qua",
+        "name_with_type": "Xã Trí Quả",
+        "path": "Trí Quả, Thuận Thành, Bắc Ninh",
+        "path_with_type": "Xã Trí Quả, Huyện Thuận Thành, Tỉnh Bắc Ninh",
+        "code": "09421",
+        "parent_code": "262"
+    },
+    "09424": {
+        "name": "Gia Đông",
+        "type": "xa",
+        "slug": "gia-dong",
+        "name_with_type": "Xã Gia Đông",
+        "path": "Gia Đông, Thuận Thành, Bắc Ninh",
+        "path_with_type": "Xã Gia Đông, Huyện Thuận Thành, Tỉnh Bắc Ninh",
+        "code": "09424",
+        "parent_code": "262"
+    },
+    "09427": {
+        "name": "Thanh Khương",
+        "type": "xa",
+        "slug": "thanh-khuong",
+        "name_with_type": "Xã Thanh Khương",
+        "path": "Thanh Khương, Thuận Thành, Bắc Ninh",
+        "path_with_type": "Xã Thanh Khương, Huyện Thuận Thành, Tỉnh Bắc Ninh",
+        "code": "09427",
+        "parent_code": "262"
+    },
+    "09430": {
+        "name": "Trạm Lộ",
+        "type": "xa",
+        "slug": "tram-lo",
+        "name_with_type": "Xã Trạm Lộ",
+        "path": "Trạm Lộ, Thuận Thành, Bắc Ninh",
+        "path_with_type": "Xã Trạm Lộ, Huyện Thuận Thành, Tỉnh Bắc Ninh",
+        "code": "09430",
+        "parent_code": "262"
+    },
+    "09433": {
+        "name": "Xuân Lâm",
+        "type": "xa",
+        "slug": "xuan-lam",
+        "name_with_type": "Xã Xuân Lâm",
+        "path": "Xuân Lâm, Thuận Thành, Bắc Ninh",
+        "path_with_type": "Xã Xuân Lâm, Huyện Thuận Thành, Tỉnh Bắc Ninh",
+        "code": "09433",
+        "parent_code": "262"
+    },
+    "09436": {
+        "name": "Hà Mãn",
+        "type": "xa",
+        "slug": "ha-man",
+        "name_with_type": "Xã Hà Mãn",
+        "path": "Hà Mãn, Thuận Thành, Bắc Ninh",
+        "path_with_type": "Xã Hà Mãn, Huyện Thuận Thành, Tỉnh Bắc Ninh",
+        "code": "09436",
+        "parent_code": "262"
+    },
+    "09439": {
+        "name": "Ngũ Thái",
+        "type": "xa",
+        "slug": "ngu-thai",
+        "name_with_type": "Xã Ngũ Thái",
+        "path": "Ngũ Thái, Thuận Thành, Bắc Ninh",
+        "path_with_type": "Xã Ngũ Thái, Huyện Thuận Thành, Tỉnh Bắc Ninh",
+        "code": "09439",
+        "parent_code": "262"
+    },
+    "09442": {
+        "name": "Nguyệt Đức",
+        "type": "xa",
+        "slug": "nguyet-duc",
+        "name_with_type": "Xã Nguyệt Đức",
+        "path": "Nguyệt Đức, Thuận Thành, Bắc Ninh",
+        "path_with_type": "Xã Nguyệt Đức, Huyện Thuận Thành, Tỉnh Bắc Ninh",
+        "code": "09442",
+        "parent_code": "262"
+    },
+    "09445": {
+        "name": "Ninh Xá",
+        "type": "xa",
+        "slug": "ninh-xa",
+        "name_with_type": "Xã Ninh Xá",
+        "path": "Ninh Xá, Thuận Thành, Bắc Ninh",
+        "path_with_type": "Xã Ninh Xá, Huyện Thuận Thành, Tỉnh Bắc Ninh",
+        "code": "09445",
+        "parent_code": "262"
+    },
+    "09448": {
+        "name": "Nghĩa Đạo",
+        "type": "xa",
+        "slug": "nghia-dao",
+        "name_with_type": "Xã Nghĩa Đạo",
+        "path": "Nghĩa Đạo, Thuận Thành, Bắc Ninh",
+        "path_with_type": "Xã Nghĩa Đạo, Huyện Thuận Thành, Tỉnh Bắc Ninh",
+        "code": "09448",
+        "parent_code": "262"
+    },
+    "09451": {
+        "name": "Song Liễu",
+        "type": "xa",
+        "slug": "song-lieu",
+        "name_with_type": "Xã Song Liễu",
+        "path": "Song Liễu, Thuận Thành, Bắc Ninh",
+        "path_with_type": "Xã Song Liễu, Huyện Thuận Thành, Tỉnh Bắc Ninh",
+        "code": "09451",
+        "parent_code": "262"
+    }
+}

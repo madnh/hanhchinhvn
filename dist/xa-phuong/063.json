@@ -1,0 +1,172 @@
+{
+    "01969": {
+        "name": "Phủ Thông",
+        "type": "thi-tran",
+        "slug": "phu-thong",
+        "name_with_type": "Thị trấn Phủ Thông",
+        "path": "Phủ Thông, Bạch Thông, Bắc Kạn",
+        "path_with_type": "Thị trấn Phủ Thông, Huyện Bạch Thông, Tỉnh Bắc Kạn",
+        "code": "01969",
+        "parent_code": "063"
+    },
+    "01972": {
+        "name": "Phương Linh",
+        "type": "xa",
+        "slug": "phuong-linh",
+        "name_with_type": "Xã Phương Linh",
+        "path": "Phương Linh, Bạch Thông, Bắc Kạn",
+        "path_with_type": "Xã Phương Linh, Huyện Bạch Thông, Tỉnh Bắc Kạn",
+        "code": "01972",
+        "parent_code": "063"
+    },
+    "01975": {
+        "name": "Vi Hương",
+        "type": "xa",
+        "slug": "vi-huong",
+        "name_with_type": "Xã Vi Hương",
+        "path": "Vi Hương, Bạch Thông, Bắc Kạn",
+        "path_with_type": "Xã Vi Hương, Huyện Bạch Thông, Tỉnh Bắc Kạn",
+        "code": "01975",
+        "parent_code": "063"
+    },
+    "01978": {
+        "name": "Sĩ Bình",
+        "type": "xa",
+        "slug": "si-binh",
+        "name_with_type": "Xã Sĩ Bình",
+        "path": "Sĩ Bình, Bạch Thông, Bắc Kạn",
+        "path_with_type": "Xã Sĩ Bình, Huyện Bạch Thông, Tỉnh Bắc Kạn",
+        "code": "01978",
+        "parent_code": "063"
+    },
+    "01981": {
+        "name": "Vũ Muộn",
+        "type": "xa",
+        "slug": "vu-muon",
+        "name_with_type": "Xã Vũ Muộn",
+        "path": "Vũ Muộn, Bạch Thông, Bắc Kạn",
+        "path_with_type": "Xã Vũ Muộn, Huyện Bạch Thông, Tỉnh Bắc Kạn",
+        "code": "01981",
+        "parent_code": "063"
+    },
+    "01984": {
+        "name": "Đôn Phong",
+        "type": "xa",
+        "slug": "don-phong",
+        "name_with_type": "Xã Đôn Phong",
+        "path": "Đôn Phong, Bạch Thông, Bắc Kạn",
+        "path_with_type": "Xã Đôn Phong, Huyện Bạch Thông, Tỉnh Bắc Kạn",
+        "code": "01984",
+        "parent_code": "063"
+    },
+    "01987": {
+        "name": "Tú Trĩ",
+        "type": "xa",
+        "slug": "tu-tri",
+        "name_with_type": "Xã Tú Trĩ",
+        "path": "Tú Trĩ, Bạch Thông, Bắc Kạn",
+        "path_with_type": "Xã Tú Trĩ, Huyện Bạch Thông, Tỉnh Bắc Kạn",
+        "code": "01987",
+        "parent_code": "063"
+    },
+    "01990": {
+        "name": "Lục Bình",
+        "type": "xa",
+        "slug": "luc-binh",
+        "name_with_type": "Xã Lục Bình",
+        "path": "Lục Bình, Bạch Thông, Bắc Kạn",
+        "path_with_type": "Xã Lục Bình, Huyện Bạch Thông, Tỉnh Bắc Kạn",
+        "code": "01990",
+        "parent_code": "063"
+    },
+    "01993": {
+        "name": "Tân Tiến",
+        "type": "xa",
+        "slug": "tan-tien",
+        "name_with_type": "Xã Tân Tiến",
+        "path": "Tân Tiến, Bạch Thông, Bắc Kạn",
+        "path_with_type": "Xã Tân Tiến, Huyện Bạch Thông, Tỉnh Bắc Kạn",
+        "code": "01993",
+        "parent_code": "063"
+    },
+    "01996": {
+        "name": "Quân Bình",
+        "type": "xa",
+        "slug": "quan-binh",
+        "name_with_type": "Xã Quân Bình",
+        "path": "Quân Bình, Bạch Thông, Bắc Kạn",
+        "path_with_type": "Xã Quân Bình, Huyện Bạch Thông, Tỉnh Bắc Kạn",
+        "code": "01996",
+        "parent_code": "063"
+    },
+    "01999": {
+        "name": "Nguyên Phúc",
+        "type": "xa",
+        "slug": "nguyen-phuc",
+        "name_with_type": "Xã Nguyên Phúc",
+        "path": "Nguyên Phúc, Bạch Thông, Bắc Kạn",
+        "path_with_type": "Xã Nguyên Phúc, Huyện Bạch Thông, Tỉnh Bắc Kạn",
+        "code": "01999",
+        "parent_code": "063"
+    },
+    "02002": {
+        "name": "Cao Sơn",
+        "type": "xa",
+        "slug": "cao-son",
+        "name_with_type": "Xã Cao Sơn",
+        "path": "Cao Sơn, Bạch Thông, Bắc Kạn",
+        "path_with_type": "Xã Cao Sơn, Huyện Bạch Thông, Tỉnh Bắc Kạn",
+        "code": "02002",
+        "parent_code": "063"
+    },
+    "02005": {
+        "name": "Hà Vị",
+        "type": "xa",
+        "slug": "ha-vi",
+        "name_with_type": "Xã Hà Vị",
+        "path": "Hà Vị, Bạch Thông, Bắc Kạn",
+        "path_with_type": "Xã Hà Vị, Huyện Bạch Thông, Tỉnh Bắc Kạn",
+        "code": "02005",
+        "parent_code": "063"
+    },
+    "02008": {
+        "name": "Cẩm Giàng",
+        "type": "xa",
+        "slug": "cam-giang",
+        "name_with_type": "Xã Cẩm Giàng",
+        "path": "Cẩm Giàng, Bạch Thông, Bắc Kạn",
+        "path_with_type": "Xã Cẩm Giàng, Huyện Bạch Thông, Tỉnh Bắc Kạn",
+        "code": "02008",
+        "parent_code": "063"
+    },
+    "02011": {
+        "name": "Mỹ Thanh",
+        "type": "xa",
+        "slug": "my-thanh",
+        "name_with_type": "Xã Mỹ Thanh",
+        "path": "Mỹ Thanh, Bạch Thông, Bắc Kạn",
+        "path_with_type": "Xã Mỹ Thanh, Huyện Bạch Thông, Tỉnh Bắc Kạn",
+        "code": "02011",
+        "parent_code": "063"
+    },
+    "02014": {
+        "name": "Dương Phong",
+        "type": "xa",
+        "slug": "duong-phong",
+        "name_with_type": "Xã Dương Phong",
+        "path": "Dương Phong, Bạch Thông, Bắc Kạn",
+        "path_with_type": "Xã Dương Phong, Huyện Bạch Thông, Tỉnh Bắc Kạn",
+        "code": "02014",
+        "parent_code": "063"
+    },
+    "02017": {
+        "name": "Quang Thuận",
+        "type": "xa",
+        "slug": "quang-thuan",
+        "name_with_type": "Xã Quang Thuận",
+        "path": "Quang Thuận, Bạch Thông, Bắc Kạn",
+        "path_with_type": "Xã Quang Thuận, Huyện Bạch Thông, Tỉnh Bắc Kạn",
+        "code": "02017",
+        "parent_code": "063"
+    }
+}

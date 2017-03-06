@@ -1,0 +1,132 @@
+{
+    "31528": {
+        "name": "Kế Sách",
+        "type": "thi-tran",
+        "slug": "ke-sach",
+        "name_with_type": "Thị trấn Kế Sách",
+        "path": "Kế Sách, Kế Sách, Sóc Trăng",
+        "path_with_type": "Thị trấn Kế Sách, Huyện Kế Sách, Tỉnh Sóc Trăng",
+        "code": "31528",
+        "parent_code": "943"
+    },
+    "31531": {
+        "name": "An Lạc Thôn",
+        "type": "thi-tran",
+        "slug": "an-lac-thon",
+        "name_with_type": "Thị trấn An Lạc Thôn",
+        "path": "An Lạc Thôn, Kế Sách, Sóc Trăng",
+        "path_with_type": "Thị trấn An Lạc Thôn, Huyện Kế Sách, Tỉnh Sóc Trăng",
+        "code": "31531",
+        "parent_code": "943"
+    },
+    "31534": {
+        "name": "Xuân Hòa",
+        "type": "xa",
+        "slug": "xuan-hoa",
+        "name_with_type": "Xã Xuân Hòa",
+        "path": "Xuân Hòa, Kế Sách, Sóc Trăng",
+        "path_with_type": "Xã Xuân Hòa, Huyện Kế Sách, Tỉnh Sóc Trăng",
+        "code": "31534",
+        "parent_code": "943"
+    },
+    "31537": {
+        "name": "Phong Nẫm",
+        "type": "xa",
+        "slug": "phong-nam",
+        "name_with_type": "Xã Phong Nẫm",
+        "path": "Phong Nẫm, Kế Sách, Sóc Trăng",
+        "path_with_type": "Xã Phong Nẫm, Huyện Kế Sách, Tỉnh Sóc Trăng",
+        "code": "31537",
+        "parent_code": "943"
+    },
+    "31540": {
+        "name": "An Lạc Tây",
+        "type": "xa",
+        "slug": "an-lac-tay",
+        "name_with_type": "Xã An Lạc Tây",
+        "path": "An Lạc Tây, Kế Sách, Sóc Trăng",
+        "path_with_type": "Xã An Lạc Tây, Huyện Kế Sách, Tỉnh Sóc Trăng",
+        "code": "31540",
+        "parent_code": "943"
+    },
+    "31543": {
+        "name": "Trinh Phú",
+        "type": "xa",
+        "slug": "trinh-phu",
+        "name_with_type": "Xã Trinh Phú",
+        "path": "Trinh Phú, Kế Sách, Sóc Trăng",
+        "path_with_type": "Xã Trinh Phú, Huyện Kế Sách, Tỉnh Sóc Trăng",
+        "code": "31543",
+        "parent_code": "943"
+    },
+    "31546": {
+        "name": "Ba Trinh",
+        "type": "xa",
+        "slug": "ba-trinh",
+        "name_with_type": "Xã Ba Trinh",
+        "path": "Ba Trinh, Kế Sách, Sóc Trăng",
+        "path_with_type": "Xã Ba Trinh, Huyện Kế Sách, Tỉnh Sóc Trăng",
+        "code": "31546",
+        "parent_code": "943"
+    },
+    "31549": {
+        "name": "Thới An Hội",
+        "type": "xa",
+        "slug": "thoi-an-hoi",
+        "name_with_type": "Xã Thới An Hội",
+        "path": "Thới An Hội, Kế Sách, Sóc Trăng",
+        "path_with_type": "Xã Thới An Hội, Huyện Kế Sách, Tỉnh Sóc Trăng",
+        "code": "31549",
+        "parent_code": "943"
+    },
+    "31552": {
+        "name": "Nhơn Mỹ",
+        "type": "xa",
+        "slug": "nhon-my",
+        "name_with_type": "Xã Nhơn Mỹ",
+        "path": "Nhơn Mỹ, Kế Sách, Sóc Trăng",
+        "path_with_type": "Xã Nhơn Mỹ, Huyện Kế Sách, Tỉnh Sóc Trăng",
+        "code": "31552",
+        "parent_code": "943"
+    },
+    "31555": {
+        "name": "Kế Thành",
+        "type": "xa",
+        "slug": "ke-thanh",
+        "name_with_type": "Xã Kế Thành",
+        "path": "Kế Thành, Kế Sách, Sóc Trăng",
+        "path_with_type": "Xã Kế Thành, Huyện Kế Sách, Tỉnh Sóc Trăng",
+        "code": "31555",
+        "parent_code": "943"
+    },
+    "31558": {
+        "name": "Kế An",
+        "type": "xa",
+        "slug": "ke-an",
+        "name_with_type": "Xã Kế An",
+        "path": "Kế An, Kế Sách, Sóc Trăng",
+        "path_with_type": "Xã Kế An, Huyện Kế Sách, Tỉnh Sóc Trăng",
+        "code": "31558",
+        "parent_code": "943"
+    },
+    "31561": {
+        "name": "Đại Hải",
+        "type": "xa",
+        "slug": "dai-hai",
+        "name_with_type": "Xã Đại Hải",
+        "path": "Đại Hải, Kế Sách, Sóc Trăng",
+        "path_with_type": "Xã Đại Hải, Huyện Kế Sách, Tỉnh Sóc Trăng",
+        "code": "31561",
+        "parent_code": "943"
+    },
+    "31564": {
+        "name": "An Mỹ",
+        "type": "xa",
+        "slug": "an-my",
+        "name_with_type": "Xã An Mỹ",
+        "path": "An Mỹ, Kế Sách, Sóc Trăng",
+        "path_with_type": "Xã An Mỹ, Huyện Kế Sách, Tỉnh Sóc Trăng",
+        "code": "31564",
+        "parent_code": "943"
+    }
+}

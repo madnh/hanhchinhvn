@@ -127,7 +127,7 @@ $tree = [];
 
 $current_quan_huyen_code = null;
 
-$files = glob(EXCEL_FILES_DIR . '/*.xls');
+$files = glob(EXCEL_FILES_DIR . '/*.xls', GLOB_NOSORT);
 $files_count = count($files);
 $file_index = 1;
 

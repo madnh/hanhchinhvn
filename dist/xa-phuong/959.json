@@ -1,0 +1,102 @@
+{
+    "31942": {
+        "name": "1",
+        "type": "phuong",
+        "slug": "1",
+        "name_with_type": "Phường 1",
+        "path": "1, Giá Rai, Bạc Liêu",
+        "path_with_type": "Phường 1, Thị xã Giá Rai, Tỉnh Bạc Liêu",
+        "code": "31942",
+        "parent_code": "959"
+    },
+    "31945": {
+        "name": "Hộ Phòng",
+        "type": "phuong",
+        "slug": "ho-phong",
+        "name_with_type": "Phường Hộ Phòng",
+        "path": "Hộ Phòng, Giá Rai, Bạc Liêu",
+        "path_with_type": "Phường Hộ Phòng, Thị xã Giá Rai, Tỉnh Bạc Liêu",
+        "code": "31945",
+        "parent_code": "959"
+    },
+    "31948": {
+        "name": "Phong Thạnh Đông",
+        "type": "xa",
+        "slug": "phong-thanh-dong",
+        "name_with_type": "Xã Phong Thạnh Đông",
+        "path": "Phong Thạnh Đông, Giá Rai, Bạc Liêu",
+        "path_with_type": "Xã Phong Thạnh Đông, Thị xã Giá Rai, Tỉnh Bạc Liêu",
+        "code": "31948",
+        "parent_code": "959"
+    },
+    "31951": {
+        "name": "Láng Tròn",
+        "type": "phuong",
+        "slug": "lang-tron",
+        "name_with_type": "Phường Láng Tròn",
+        "path": "Láng Tròn, Giá Rai, Bạc Liêu",
+        "path_with_type": "Phường Láng Tròn, Thị xã Giá Rai, Tỉnh Bạc Liêu",
+        "code": "31951",
+        "parent_code": "959"
+    },
+    "31954": {
+        "name": "Phong Tân",
+        "type": "xa",
+        "slug": "phong-tan",
+        "name_with_type": "Xã Phong Tân",
+        "path": "Phong Tân, Giá Rai, Bạc Liêu",
+        "path_with_type": "Xã Phong Tân, Thị xã Giá Rai, Tỉnh Bạc Liêu",
+        "code": "31954",
+        "parent_code": "959"
+    },
+    "31957": {
+        "name": "Tân Phong",
+        "type": "xa",
+        "slug": "tan-phong",
+        "name_with_type": "Xã Tân Phong",
+        "path": "Tân Phong, Giá Rai, Bạc Liêu",
+        "path_with_type": "Xã Tân Phong, Thị xã Giá Rai, Tỉnh Bạc Liêu",
+        "code": "31957",
+        "parent_code": "959"
+    },
+    "31960": {
+        "name": "Phong Thạnh",
+        "type": "xa",
+        "slug": "phong-thanh",
+        "name_with_type": "Xã Phong Thạnh",
+        "path": "Phong Thạnh, Giá Rai, Bạc Liêu",
+        "path_with_type": "Xã Phong Thạnh, Thị xã Giá Rai, Tỉnh Bạc Liêu",
+        "code": "31960",
+        "parent_code": "959"
+    },
+    "31963": {
+        "name": "Phong Thạnh A",
+        "type": "xa",
+        "slug": "phong-thanh-a",
+        "name_with_type": "Xã Phong Thạnh A",
+        "path": "Phong Thạnh A, Giá Rai, Bạc Liêu",
+        "path_with_type": "Xã Phong Thạnh A, Thị xã Giá Rai, Tỉnh Bạc Liêu",
+        "code": "31963",
+        "parent_code": "959"
+    },
+    "31966": {
+        "name": "Phong Thạnh Tây",
+        "type": "xa",
+        "slug": "phong-thanh-tay",
+        "name_with_type": "Xã Phong Thạnh Tây",
+        "path": "Phong Thạnh Tây, Giá Rai, Bạc Liêu",
+        "path_with_type": "Xã Phong Thạnh Tây, Thị xã Giá Rai, Tỉnh Bạc Liêu",
+        "code": "31966",
+        "parent_code": "959"
+    },
+    "31969": {
+        "name": "Tân Thạnh",
+        "type": "xa",
+        "slug": "tan-thanh",
+        "name_with_type": "Xã Tân Thạnh",
+        "path": "Tân Thạnh, Giá Rai, Bạc Liêu",
+        "path_with_type": "Xã Tân Thạnh, Thị xã Giá Rai, Tỉnh Bạc Liêu",
+        "code": "31969",
+        "parent_code": "959"
+    }
+}

@@ -1,0 +1,142 @@
+{
+    "01290": {
+        "name": "Pác Miầu",
+        "type": "thi-tran",
+        "slug": "pac-miau",
+        "name_with_type": "Thị trấn Pác Miầu",
+        "path": "Pác Miầu, Bảo Lâm, Cao Bằng",
+        "path_with_type": "Thị trấn Pác Miầu, Huyện Bảo Lâm, Tỉnh Cao Bằng",
+        "code": "01290",
+        "parent_code": "042"
+    },
+    "01291": {
+        "name": "Đức Hạnh",
+        "type": "xa",
+        "slug": "duc-hanh",
+        "name_with_type": "Xã Đức Hạnh",
+        "path": "Đức Hạnh, Bảo Lâm, Cao Bằng",
+        "path_with_type": "Xã Đức Hạnh, Huyện Bảo Lâm, Tỉnh Cao Bằng",
+        "code": "01291",
+        "parent_code": "042"
+    },
+    "01294": {
+        "name": "Lý Bôn",
+        "type": "xa",
+        "slug": "ly-bon",
+        "name_with_type": "Xã Lý Bôn",
+        "path": "Lý Bôn, Bảo Lâm, Cao Bằng",
+        "path_with_type": "Xã Lý Bôn, Huyện Bảo Lâm, Tỉnh Cao Bằng",
+        "code": "01294",
+        "parent_code": "042"
+    },
+    "01296": {
+        "name": "Nam Cao",
+        "type": "xa",
+        "slug": "nam-cao",
+        "name_with_type": "Xã Nam Cao",
+        "path": "Nam Cao, Bảo Lâm, Cao Bằng",
+        "path_with_type": "Xã Nam Cao, Huyện Bảo Lâm, Tỉnh Cao Bằng",
+        "code": "01296",
+        "parent_code": "042"
+    },
+    "01297": {
+        "name": "Nam Quang",
+        "type": "xa",
+        "slug": "nam-quang",
+        "name_with_type": "Xã Nam Quang",
+        "path": "Nam Quang, Bảo Lâm, Cao Bằng",
+        "path_with_type": "Xã Nam Quang, Huyện Bảo Lâm, Tỉnh Cao Bằng",
+        "code": "01297",
+        "parent_code": "042"
+    },
+    "01300": {
+        "name": "Vĩnh Quang",
+        "type": "xa",
+        "slug": "vinh-quang",
+        "name_with_type": "Xã Vĩnh Quang",
+        "path": "Vĩnh Quang, Bảo Lâm, Cao Bằng",
+        "path_with_type": "Xã Vĩnh Quang, Huyện Bảo Lâm, Tỉnh Cao Bằng",
+        "code": "01300",
+        "parent_code": "042"
+    },
+    "01303": {
+        "name": "Quảng Lâm",
+        "type": "xa",
+        "slug": "quang-lam",
+        "name_with_type": "Xã Quảng Lâm",
+        "path": "Quảng Lâm, Bảo Lâm, Cao Bằng",
+        "path_with_type": "Xã Quảng Lâm, Huyện Bảo Lâm, Tỉnh Cao Bằng",
+        "code": "01303",
+        "parent_code": "042"
+    },
+    "01304": {
+        "name": "Thạch Lâm",
+        "type": "xa",
+        "slug": "thach-lam",
+        "name_with_type": "Xã Thạch Lâm",
+        "path": "Thạch Lâm, Bảo Lâm, Cao Bằng",
+        "path_with_type": "Xã Thạch Lâm, Huyện Bảo Lâm, Tỉnh Cao Bằng",
+        "code": "01304",
+        "parent_code": "042"
+    },
+    "01306": {
+        "name": "Tân Việt",
+        "type": "xa",
+        "slug": "tan-viet",
+        "name_with_type": "Xã Tân Việt",
+        "path": "Tân Việt, Bảo Lâm, Cao Bằng",
+        "path_with_type": "Xã Tân Việt, Huyện Bảo Lâm, Tỉnh Cao Bằng",
+        "code": "01306",
+        "parent_code": "042"
+    },
+    "01309": {
+        "name": "Vĩnh Phong",
+        "type": "xa",
+        "slug": "vinh-phong",
+        "name_with_type": "Xã Vĩnh Phong",
+        "path": "Vĩnh Phong, Bảo Lâm, Cao Bằng",
+        "path_with_type": "Xã Vĩnh Phong, Huyện Bảo Lâm, Tỉnh Cao Bằng",
+        "code": "01309",
+        "parent_code": "042"
+    },
+    "01312": {
+        "name": "Mông Ân",
+        "type": "xa",
+        "slug": "mong-an",
+        "name_with_type": "Xã Mông Ân",
+        "path": "Mông Ân, Bảo Lâm, Cao Bằng",
+        "path_with_type": "Xã Mông Ân, Huyện Bảo Lâm, Tỉnh Cao Bằng",
+        "code": "01312",
+        "parent_code": "042"
+    },
+    "01315": {
+        "name": "Thái Học",
+        "type": "xa",
+        "slug": "thai-hoc",
+        "name_with_type": "Xã Thái Học",
+        "path": "Thái Học, Bảo Lâm, Cao Bằng",
+        "path_with_type": "Xã Thái Học, Huyện Bảo Lâm, Tỉnh Cao Bằng",
+        "code": "01315",
+        "parent_code": "042"
+    },
+    "01316": {
+        "name": "Thái Sơn",
+        "type": "xa",
+        "slug": "thai-son",
+        "name_with_type": "Xã Thái Sơn",
+        "path": "Thái Sơn, Bảo Lâm, Cao Bằng",
+        "path_with_type": "Xã Thái Sơn, Huyện Bảo Lâm, Tỉnh Cao Bằng",
+        "code": "01316",
+        "parent_code": "042"
+    },
+    "01318": {
+        "name": "Yên Thổ",
+        "type": "xa",
+        "slug": "yen-tho",
+        "name_with_type": "Xã Yên Thổ",
+        "path": "Yên Thổ, Bảo Lâm, Cao Bằng",
+        "path_with_type": "Xã Yên Thổ, Huyện Bảo Lâm, Tỉnh Cao Bằng",
+        "code": "01318",
+        "parent_code": "042"
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "20161": {
+        "name": "Khe Tre",
+        "type": "thi-tran",
+        "slug": "khe-tre",
+        "name_with_type": "Thị trấn Khe Tre",
+        "path": "Khe Tre, Nam Đông, Thừa Thiên Huế",
+        "path_with_type": "Thị trấn Khe Tre, Huyện Nam Đông, Tỉnh Thừa Thiên Huế",
+        "code": "20161",
+        "parent_code": "483"
+    },
+    "20164": {
+        "name": "Hương Phú",
+        "type": "xa",
+        "slug": "huong-phu",
+        "name_with_type": "Xã Hương Phú",
+        "path": "Hương Phú, Nam Đông, Thừa Thiên Huế",
+        "path_with_type": "Xã Hương Phú, Huyện Nam Đông, Tỉnh Thừa Thiên Huế",
+        "code": "20164",
+        "parent_code": "483"
+    },
+    "20167": {
+        "name": "Hương Sơn",
+        "type": "xa",
+        "slug": "huong-son",
+        "name_with_type": "Xã Hương Sơn",
+        "path": "Hương Sơn, Nam Đông, Thừa Thiên Huế",
+        "path_with_type": "Xã Hương Sơn, Huyện Nam Đông, Tỉnh Thừa Thiên Huế",
+        "code": "20167",
+        "parent_code": "483"
+    },
+    "20170": {
+        "name": "Hương Lộc",
+        "type": "xa",
+        "slug": "huong-loc",
+        "name_with_type": "Xã Hương Lộc",
+        "path": "Hương Lộc, Nam Đông, Thừa Thiên Huế",
+        "path_with_type": "Xã Hương Lộc, Huyện Nam Đông, Tỉnh Thừa Thiên Huế",
+        "code": "20170",
+        "parent_code": "483"
+    },
+    "20173": {
+        "name": "Thượng Quảng",
+        "type": "xa",
+        "slug": "thuong-quang",
+        "name_with_type": "Xã Thượng Quảng",
+        "path": "Thượng Quảng, Nam Đông, Thừa Thiên Huế",
+        "path_with_type": "Xã Thượng Quảng, Huyện Nam Đông, Tỉnh Thừa Thiên Huế",
+        "code": "20173",
+        "parent_code": "483"
+    },
+    "20176": {
+        "name": "Hương Hòa",
+        "type": "xa",
+        "slug": "huong-hoa",
+        "name_with_type": "Xã Hương Hòa",
+        "path": "Hương Hòa, Nam Đông, Thừa Thiên Huế",
+        "path_with_type": "Xã Hương Hòa, Huyện Nam Đông, Tỉnh Thừa Thiên Huế",
+        "code": "20176",
+        "parent_code": "483"
+    },
+    "20179": {
+        "name": "Hương Giang",
+        "type": "xa",
+        "slug": "huong-giang",
+        "name_with_type": "Xã Hương Giang",
+        "path": "Hương Giang, Nam Đông, Thừa Thiên Huế",
+        "path_with_type": "Xã Hương Giang, Huyện Nam Đông, Tỉnh Thừa Thiên Huế",
+        "code": "20179",
+        "parent_code": "483"
+    },
+    "20182": {
+        "name": "Hương Hữu",
+        "type": "xa",
+        "slug": "huong-huu",
+        "name_with_type": "Xã Hương Hữu",
+        "path": "Hương Hữu, Nam Đông, Thừa Thiên Huế",
+        "path_with_type": "Xã Hương Hữu, Huyện Nam Đông, Tỉnh Thừa Thiên Huế",
+        "code": "20182",
+        "parent_code": "483"
+    },
+    "20185": {
+        "name": "Thượng Lộ",
+        "type": "xa",
+        "slug": "thuong-lo",
+        "name_with_type": "Xã Thượng Lộ",
+        "path": "Thượng Lộ, Nam Đông, Thừa Thiên Huế",
+        "path_with_type": "Xã Thượng Lộ, Huyện Nam Đông, Tỉnh Thừa Thiên Huế",
+        "code": "20185",
+        "parent_code": "483"
+    },
+    "20188": {
+        "name": "Thượng Long",
+        "type": "xa",
+        "slug": "thuong-long",
+        "name_with_type": "Xã Thượng Long",
+        "path": "Thượng Long, Nam Đông, Thừa Thiên Huế",
+        "path_with_type": "Xã Thượng Long, Huyện Nam Đông, Tỉnh Thừa Thiên Huế",
+        "code": "20188",
+        "parent_code": "483"
+    },
+    "20191": {
+        "name": "Thượng Nhật",
+        "type": "xa",
+        "slug": "thuong-nhat",
+        "name_with_type": "Xã Thượng Nhật",
+        "path": "Thượng Nhật, Nam Đông, Thừa Thiên Huế",
+        "path_with_type": "Xã Thượng Nhật, Huyện Nam Đông, Tỉnh Thừa Thiên Huế",
+        "code": "20191",
+        "parent_code": "483"
+    }
+}

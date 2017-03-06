@@ -1,0 +1,172 @@
+{
+    "28159": {
+        "name": "Cần Giuộc",
+        "type": "thi-tran",
+        "slug": "can-giuoc",
+        "name_with_type": "Thị trấn Cần Giuộc",
+        "path": "Cần Giuộc, Cần Giuộc, Long An",
+        "path_with_type": "Thị trấn Cần Giuộc, Huyện Cần Giuộc, Tỉnh Long An",
+        "code": "28159",
+        "parent_code": "807"
+    },
+    "28162": {
+        "name": "Phước Lý",
+        "type": "xa",
+        "slug": "phuoc-ly",
+        "name_with_type": "Xã Phước Lý",
+        "path": "Phước Lý, Cần Giuộc, Long An",
+        "path_with_type": "Xã Phước Lý, Huyện Cần Giuộc, Tỉnh Long An",
+        "code": "28162",
+        "parent_code": "807"
+    },
+    "28165": {
+        "name": "Long Thượng",
+        "type": "xa",
+        "slug": "long-thuong",
+        "name_with_type": "Xã Long Thượng",
+        "path": "Long Thượng, Cần Giuộc, Long An",
+        "path_with_type": "Xã Long Thượng, Huyện Cần Giuộc, Tỉnh Long An",
+        "code": "28165",
+        "parent_code": "807"
+    },
+    "28168": {
+        "name": "Long Hậu",
+        "type": "xa",
+        "slug": "long-hau",
+        "name_with_type": "Xã Long Hậu",
+        "path": "Long Hậu, Cần Giuộc, Long An",
+        "path_with_type": "Xã Long Hậu, Huyện Cần Giuộc, Tỉnh Long An",
+        "code": "28168",
+        "parent_code": "807"
+    },
+    "28171": {
+        "name": "Tân Kim",
+        "type": "xa",
+        "slug": "tan-kim",
+        "name_with_type": "Xã Tân Kim",
+        "path": "Tân Kim, Cần Giuộc, Long An",
+        "path_with_type": "Xã Tân Kim, Huyện Cần Giuộc, Tỉnh Long An",
+        "code": "28171",
+        "parent_code": "807"
+    },
+    "28174": {
+        "name": "Phước Hậu",
+        "type": "xa",
+        "slug": "phuoc-hau",
+        "name_with_type": "Xã Phước Hậu",
+        "path": "Phước Hậu, Cần Giuộc, Long An",
+        "path_with_type": "Xã Phước Hậu, Huyện Cần Giuộc, Tỉnh Long An",
+        "code": "28174",
+        "parent_code": "807"
+    },
+    "28177": {
+        "name": "Mỹ Lộc",
+        "type": "xa",
+        "slug": "my-loc",
+        "name_with_type": "Xã Mỹ Lộc",
+        "path": "Mỹ Lộc, Cần Giuộc, Long An",
+        "path_with_type": "Xã Mỹ Lộc, Huyện Cần Giuộc, Tỉnh Long An",
+        "code": "28177",
+        "parent_code": "807"
+    },
+    "28180": {
+        "name": "Phước Lại",
+        "type": "xa",
+        "slug": "phuoc-lai",
+        "name_with_type": "Xã Phước Lại",
+        "path": "Phước Lại, Cần Giuộc, Long An",
+        "path_with_type": "Xã Phước Lại, Huyện Cần Giuộc, Tỉnh Long An",
+        "code": "28180",
+        "parent_code": "807"
+    },
+    "28183": {
+        "name": "Phước Lâm",
+        "type": "xa",
+        "slug": "phuoc-lam",
+        "name_with_type": "Xã Phước Lâm",
+        "path": "Phước Lâm, Cần Giuộc, Long An",
+        "path_with_type": "Xã Phước Lâm, Huyện Cần Giuộc, Tỉnh Long An",
+        "code": "28183",
+        "parent_code": "807"
+    },
+    "28186": {
+        "name": "Trường Bình",
+        "type": "xa",
+        "slug": "truong-binh",
+        "name_with_type": "Xã Trường Bình",
+        "path": "Trường Bình, Cần Giuộc, Long An",
+        "path_with_type": "Xã Trường Bình, Huyện Cần Giuộc, Tỉnh Long An",
+        "code": "28186",
+        "parent_code": "807"
+    },
+    "28189": {
+        "name": "Thuận Thành",
+        "type": "xa",
+        "slug": "thuan-thanh",
+        "name_with_type": "Xã Thuận Thành",
+        "path": "Thuận Thành, Cần Giuộc, Long An",
+        "path_with_type": "Xã Thuận Thành, Huyện Cần Giuộc, Tỉnh Long An",
+        "code": "28189",
+        "parent_code": "807"
+    },
+    "28192": {
+        "name": "Phước Vĩnh Tây",
+        "type": "xa",
+        "slug": "phuoc-vinh-tay",
+        "name_with_type": "Xã Phước Vĩnh Tây",
+        "path": "Phước Vĩnh Tây, Cần Giuộc, Long An",
+        "path_with_type": "Xã Phước Vĩnh Tây, Huyện Cần Giuộc, Tỉnh Long An",
+        "code": "28192",
+        "parent_code": "807"
+    },
+    "28195": {
+        "name": "Phước Vĩnh Đông",
+        "type": "xa",
+        "slug": "phuoc-vinh-dong",
+        "name_with_type": "Xã Phước Vĩnh Đông",
+        "path": "Phước Vĩnh Đông, Cần Giuộc, Long An",
+        "path_with_type": "Xã Phước Vĩnh Đông, Huyện Cần Giuộc, Tỉnh Long An",
+        "code": "28195",
+        "parent_code": "807"
+    },
+    "28198": {
+        "name": "Long An",
+        "type": "xa",
+        "slug": "long-an",
+        "name_with_type": "Xã Long An",
+        "path": "Long An, Cần Giuộc, Long An",
+        "path_with_type": "Xã Long An, Huyện Cần Giuộc, Tỉnh Long An",
+        "code": "28198",
+        "parent_code": "807"
+    },
+    "28201": {
+        "name": "Long Phụng",
+        "type": "xa",
+        "slug": "long-phung",
+        "name_with_type": "Xã Long Phụng",
+        "path": "Long Phụng, Cần Giuộc, Long An",
+        "path_with_type": "Xã Long Phụng, Huyện Cần Giuộc, Tỉnh Long An",
+        "code": "28201",
+        "parent_code": "807"
+    },
+    "28204": {
+        "name": "Đông Thạnh",
+        "type": "xa",
+        "slug": "dong-thanh",
+        "name_with_type": "Xã Đông Thạnh",
+        "path": "Đông Thạnh, Cần Giuộc, Long An",
+        "path_with_type": "Xã Đông Thạnh, Huyện Cần Giuộc, Tỉnh Long An",
+        "code": "28204",
+        "parent_code": "807"
+    },
+    "28207": {
+        "name": "Tân Tập",
+        "type": "xa",
+        "slug": "tan-tap",
+        "name_with_type": "Xã Tân Tập",
+        "path": "Tân Tập, Cần Giuộc, Long An",
+        "path_with_type": "Xã Tân Tập, Huyện Cần Giuộc, Tỉnh Long An",
+        "code": "28207",
+        "parent_code": "807"
+    }
+}

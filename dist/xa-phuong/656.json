@@ -1,0 +1,112 @@
+{
+    "24580": {
+        "name": "Liên Sơn",
+        "type": "thi-tran",
+        "slug": "lien-son",
+        "name_with_type": "Thị trấn Liên Sơn",
+        "path": "Liên Sơn, Lắk, Đắk Lắk",
+        "path_with_type": "Thị trấn Liên Sơn, Huyện Lắk, Tỉnh Đắk Lắk",
+        "code": "24580",
+        "parent_code": "656"
+    },
+    "24583": {
+        "name": "Yang Tao",
+        "type": "xa",
+        "slug": "yang-tao",
+        "name_with_type": "Xã Yang Tao",
+        "path": "Yang Tao, Lắk, Đắk Lắk",
+        "path_with_type": "Xã Yang Tao, Huyện Lắk, Tỉnh Đắk Lắk",
+        "code": "24583",
+        "parent_code": "656"
+    },
+    "24586": {
+        "name": "Bông Krang",
+        "type": "xa",
+        "slug": "bong-krang",
+        "name_with_type": "Xã Bông Krang",
+        "path": "Bông Krang, Lắk, Đắk Lắk",
+        "path_with_type": "Xã Bông Krang, Huyện Lắk, Tỉnh Đắk Lắk",
+        "code": "24586",
+        "parent_code": "656"
+    },
+    "24589": {
+        "name": "Đắk Liêng",
+        "type": "xa",
+        "slug": "dak-lieng",
+        "name_with_type": "Xã Đắk Liêng",
+        "path": "Đắk Liêng, Lắk, Đắk Lắk",
+        "path_with_type": "Xã Đắk Liêng, Huyện Lắk, Tỉnh Đắk Lắk",
+        "code": "24589",
+        "parent_code": "656"
+    },
+    "24592": {
+        "name": "Buôn Triết",
+        "type": "xa",
+        "slug": "buon-triet",
+        "name_with_type": "Xã Buôn Triết",
+        "path": "Buôn Triết, Lắk, Đắk Lắk",
+        "path_with_type": "Xã Buôn Triết, Huyện Lắk, Tỉnh Đắk Lắk",
+        "code": "24592",
+        "parent_code": "656"
+    },
+    "24595": {
+        "name": "Buôn Tría",
+        "type": "xa",
+        "slug": "buon-tria",
+        "name_with_type": "Xã Buôn Tría",
+        "path": "Buôn Tría, Lắk, Đắk Lắk",
+        "path_with_type": "Xã Buôn Tría, Huyện Lắk, Tỉnh Đắk Lắk",
+        "code": "24595",
+        "parent_code": "656"
+    },
+    "24598": {
+        "name": "Đắk Phơi",
+        "type": "xa",
+        "slug": "dak-phoi",
+        "name_with_type": "Xã Đắk Phơi",
+        "path": "Đắk Phơi, Lắk, Đắk Lắk",
+        "path_with_type": "Xã Đắk Phơi, Huyện Lắk, Tỉnh Đắk Lắk",
+        "code": "24598",
+        "parent_code": "656"
+    },
+    "24601": {
+        "name": "Đắk Nuê",
+        "type": "xa",
+        "slug": "dak-nue",
+        "name_with_type": "Xã Đắk Nuê",
+        "path": "Đắk Nuê, Lắk, Đắk Lắk",
+        "path_with_type": "Xã Đắk Nuê, Huyện Lắk, Tỉnh Đắk Lắk",
+        "code": "24601",
+        "parent_code": "656"
+    },
+    "24604": {
+        "name": "Krông Nô",
+        "type": "xa",
+        "slug": "krong-no",
+        "name_with_type": "Xã Krông Nô",
+        "path": "Krông Nô, Lắk, Đắk Lắk",
+        "path_with_type": "Xã Krông Nô, Huyện Lắk, Tỉnh Đắk Lắk",
+        "code": "24604",
+        "parent_code": "656"
+    },
+    "24607": {
+        "name": "Nam Ka",
+        "type": "xa",
+        "slug": "nam-ka",
+        "name_with_type": "Xã Nam Ka",
+        "path": "Nam Ka, Lắk, Đắk Lắk",
+        "path_with_type": "Xã Nam Ka, Huyện Lắk, Tỉnh Đắk Lắk",
+        "code": "24607",
+        "parent_code": "656"
+    },
+    "24610": {
+        "name": "Ea R'Bin",
+        "type": "xa",
+        "slug": "ea-r-bin",
+        "name_with_type": "Xã Ea R'Bin",
+        "path": "Ea R'Bin, Lắk, Đắk Lắk",
+        "path_with_type": "Xã Ea R'Bin, Huyện Lắk, Tỉnh Đắk Lắk",
+        "code": "24610",
+        "parent_code": "656"
+    }
+}

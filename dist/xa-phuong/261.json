@@ -1,0 +1,122 @@
+{
+    "09367": {
+        "name": "Đông Ngàn",
+        "type": "phuong",
+        "slug": "dong-ngan",
+        "name_with_type": "Phường Đông Ngàn",
+        "path": "Đông Ngàn, Từ Sơn, Bắc Ninh",
+        "path_with_type": "Phường Đông Ngàn, Thị xã Từ Sơn, Tỉnh Bắc Ninh",
+        "code": "09367",
+        "parent_code": "261"
+    },
+    "09370": {
+        "name": "Tam Sơn",
+        "type": "xa",
+        "slug": "tam-son",
+        "name_with_type": "Xã Tam Sơn",
+        "path": "Tam Sơn, Từ Sơn, Bắc Ninh",
+        "path_with_type": "Xã Tam Sơn, Thị xã Từ Sơn, Tỉnh Bắc Ninh",
+        "code": "09370",
+        "parent_code": "261"
+    },
+    "09373": {
+        "name": "Hương Mạc",
+        "type": "xa",
+        "slug": "huong-mac",
+        "name_with_type": "Xã Hương Mạc",
+        "path": "Hương Mạc, Từ Sơn, Bắc Ninh",
+        "path_with_type": "Xã Hương Mạc, Thị xã Từ Sơn, Tỉnh Bắc Ninh",
+        "code": "09373",
+        "parent_code": "261"
+    },
+    "09376": {
+        "name": "Tương Giang",
+        "type": "xa",
+        "slug": "tuong-giang",
+        "name_with_type": "Xã Tương Giang",
+        "path": "Tương Giang, Từ Sơn, Bắc Ninh",
+        "path_with_type": "Xã Tương Giang, Thị xã Từ Sơn, Tỉnh Bắc Ninh",
+        "code": "09376",
+        "parent_code": "261"
+    },
+    "09379": {
+        "name": "Phù Khê",
+        "type": "xa",
+        "slug": "phu-khe",
+        "name_with_type": "Xã Phù Khê",
+        "path": "Phù Khê, Từ Sơn, Bắc Ninh",
+        "path_with_type": "Xã Phù Khê, Thị xã Từ Sơn, Tỉnh Bắc Ninh",
+        "code": "09379",
+        "parent_code": "261"
+    },
+    "09382": {
+        "name": "Đồng Kỵ",
+        "type": "phuong",
+        "slug": "dong-ky",
+        "name_with_type": "Phường Đồng Kỵ",
+        "path": "Đồng Kỵ, Từ Sơn, Bắc Ninh",
+        "path_with_type": "Phường Đồng Kỵ, Thị xã Từ Sơn, Tỉnh Bắc Ninh",
+        "code": "09382",
+        "parent_code": "261"
+    },
+    "09383": {
+        "name": "Trang Hạ",
+        "type": "phuong",
+        "slug": "trang-ha",
+        "name_with_type": "Phường Trang Hạ",
+        "path": "Trang Hạ, Từ Sơn, Bắc Ninh",
+        "path_with_type": "Phường Trang Hạ, Thị xã Từ Sơn, Tỉnh Bắc Ninh",
+        "code": "09383",
+        "parent_code": "261"
+    },
+    "09385": {
+        "name": "Đồng Nguyên",
+        "type": "phuong",
+        "slug": "dong-nguyen",
+        "name_with_type": "Phường Đồng Nguyên",
+        "path": "Đồng Nguyên, Từ Sơn, Bắc Ninh",
+        "path_with_type": "Phường Đồng Nguyên, Thị xã Từ Sơn, Tỉnh Bắc Ninh",
+        "code": "09385",
+        "parent_code": "261"
+    },
+    "09388": {
+        "name": "Châu Khê",
+        "type": "phuong",
+        "slug": "chau-khe",
+        "name_with_type": "Phường Châu Khê",
+        "path": "Châu Khê, Từ Sơn, Bắc Ninh",
+        "path_with_type": "Phường Châu Khê, Thị xã Từ Sơn, Tỉnh Bắc Ninh",
+        "code": "09388",
+        "parent_code": "261"
+    },
+    "09391": {
+        "name": "Tân Hồng",
+        "type": "phuong",
+        "slug": "tan-hong",
+        "name_with_type": "Phường Tân Hồng",
+        "path": "Tân Hồng, Từ Sơn, Bắc Ninh",
+        "path_with_type": "Phường Tân Hồng, Thị xã Từ Sơn, Tỉnh Bắc Ninh",
+        "code": "09391",
+        "parent_code": "261"
+    },
+    "09394": {
+        "name": "Đình Bảng",
+        "type": "phuong",
+        "slug": "dinh-bang",
+        "name_with_type": "Phường Đình Bảng",
+        "path": "Đình Bảng, Từ Sơn, Bắc Ninh",
+        "path_with_type": "Phường Đình Bảng, Thị xã Từ Sơn, Tỉnh Bắc Ninh",
+        "code": "09394",
+        "parent_code": "261"
+    },
+    "09397": {
+        "name": "Phù Chẩn",
+        "type": "xa",
+        "slug": "phu-chan",
+        "name_with_type": "Xã Phù Chẩn",
+        "path": "Phù Chẩn, Từ Sơn, Bắc Ninh",
+        "path_with_type": "Xã Phù Chẩn, Thị xã Từ Sơn, Tỉnh Bắc Ninh",
+        "code": "09397",
+        "parent_code": "261"
+    }
+}

@@ -1,0 +1,142 @@
+{
+    "27685": {
+        "name": "5",
+        "type": "phuong",
+        "slug": "5",
+        "name_with_type": "Phường 5",
+        "path": "5, Tân An, Long An",
+        "path_with_type": "Phường 5, Thành phố Tân An, Tỉnh Long An",
+        "code": "27685",
+        "parent_code": "794"
+    },
+    "27688": {
+        "name": "2",
+        "type": "phuong",
+        "slug": "2",
+        "name_with_type": "Phường 2",
+        "path": "2, Tân An, Long An",
+        "path_with_type": "Phường 2, Thành phố Tân An, Tỉnh Long An",
+        "code": "27688",
+        "parent_code": "794"
+    },
+    "27691": {
+        "name": "4",
+        "type": "phuong",
+        "slug": "4",
+        "name_with_type": "Phường 4",
+        "path": "4, Tân An, Long An",
+        "path_with_type": "Phường 4, Thành phố Tân An, Tỉnh Long An",
+        "code": "27691",
+        "parent_code": "794"
+    },
+    "27692": {
+        "name": "Tân Khánh",
+        "type": "phuong",
+        "slug": "tan-khanh",
+        "name_with_type": "Phường Tân Khánh",
+        "path": "Tân Khánh, Tân An, Long An",
+        "path_with_type": "Phường Tân Khánh, Thành phố Tân An, Tỉnh Long An",
+        "code": "27692",
+        "parent_code": "794"
+    },
+    "27694": {
+        "name": "1",
+        "type": "phuong",
+        "slug": "1",
+        "name_with_type": "Phường 1",
+        "path": "1, Tân An, Long An",
+        "path_with_type": "Phường 1, Thành phố Tân An, Tỉnh Long An",
+        "code": "27694",
+        "parent_code": "794"
+    },
+    "27697": {
+        "name": "3",
+        "type": "phuong",
+        "slug": "3",
+        "name_with_type": "Phường 3",
+        "path": "3, Tân An, Long An",
+        "path_with_type": "Phường 3, Thành phố Tân An, Tỉnh Long An",
+        "code": "27697",
+        "parent_code": "794"
+    },
+    "27698": {
+        "name": "7",
+        "type": "phuong",
+        "slug": "7",
+        "name_with_type": "Phường 7",
+        "path": "7, Tân An, Long An",
+        "path_with_type": "Phường 7, Thành phố Tân An, Tỉnh Long An",
+        "code": "27698",
+        "parent_code": "794"
+    },
+    "27700": {
+        "name": "6",
+        "type": "phuong",
+        "slug": "6",
+        "name_with_type": "Phường 6",
+        "path": "6, Tân An, Long An",
+        "path_with_type": "Phường 6, Thành phố Tân An, Tỉnh Long An",
+        "code": "27700",
+        "parent_code": "794"
+    },
+    "27703": {
+        "name": "Hướng Thọ Phú",
+        "type": "xa",
+        "slug": "huong-tho-phu",
+        "name_with_type": "Xã Hướng Thọ Phú",
+        "path": "Hướng Thọ Phú, Tân An, Long An",
+        "path_with_type": "Xã Hướng Thọ Phú, Thành phố Tân An, Tỉnh Long An",
+        "code": "27703",
+        "parent_code": "794"
+    },
+    "27706": {
+        "name": "Nhơn Thạnh Trung",
+        "type": "xa",
+        "slug": "nhon-thanh-trung",
+        "name_with_type": "Xã Nhơn Thạnh Trung",
+        "path": "Nhơn Thạnh Trung, Tân An, Long An",
+        "path_with_type": "Xã Nhơn Thạnh Trung, Thành phố Tân An, Tỉnh Long An",
+        "code": "27706",
+        "parent_code": "794"
+    },
+    "27709": {
+        "name": "Lợi Bình Nhơn",
+        "type": "xa",
+        "slug": "loi-binh-nhon",
+        "name_with_type": "Xã Lợi Bình Nhơn",
+        "path": "Lợi Bình Nhơn, Tân An, Long An",
+        "path_with_type": "Xã Lợi Bình Nhơn, Thành phố Tân An, Tỉnh Long An",
+        "code": "27709",
+        "parent_code": "794"
+    },
+    "27712": {
+        "name": "Bình Tâm",
+        "type": "xa",
+        "slug": "binh-tam",
+        "name_with_type": "Xã Bình Tâm",
+        "path": "Bình Tâm, Tân An, Long An",
+        "path_with_type": "Xã Bình Tâm, Thành phố Tân An, Tỉnh Long An",
+        "code": "27712",
+        "parent_code": "794"
+    },
+    "27715": {
+        "name": "Khánh Hậu",
+        "type": "phuong",
+        "slug": "khanh-hau",
+        "name_with_type": "Phường Khánh Hậu",
+        "path": "Khánh Hậu, Tân An, Long An",
+        "path_with_type": "Phường Khánh Hậu, Thành phố Tân An, Tỉnh Long An",
+        "code": "27715",
+        "parent_code": "794"
+    },
+    "27718": {
+        "name": "An Vĩnh Ngãi",
+        "type": "xa",
+        "slug": "an-vinh-ngai",
+        "name_with_type": "Xã An Vĩnh Ngãi",
+        "path": "An Vĩnh Ngãi, Tân An, Long An",
+        "path_with_type": "Xã An Vĩnh Ngãi, Thành phố Tân An, Tỉnh Long An",
+        "code": "27718",
+        "parent_code": "794"
+    }
+}

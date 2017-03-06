@@ -1,0 +1,92 @@
+{
+    "964": {
+        "name": "Cà Mau",
+        "type": "thanh-pho",
+        "slug": "ca-mau",
+        "name_with_type": "Thành phố Cà Mau",
+        "path": "Cà Mau, Cà Mau",
+        "path_with_type": "Thành phố Cà Mau, Tỉnh Cà Mau",
+        "code": "964",
+        "parent_code": "96"
+    },
+    "966": {
+        "name": "U Minh",
+        "type": "huyen",
+        "slug": "u-minh",
+        "name_with_type": "Huyện U Minh",
+        "path": "U Minh, Cà Mau",
+        "path_with_type": "Huyện U Minh, Tỉnh Cà Mau",
+        "code": "966",
+        "parent_code": "96"
+    },
+    "967": {
+        "name": "Thới Bình",
+        "type": "huyen",
+        "slug": "thoi-binh",
+        "name_with_type": "Huyện Thới Bình",
+        "path": "Thới Bình, Cà Mau",
+        "path_with_type": "Huyện Thới Bình, Tỉnh Cà Mau",
+        "code": "967",
+        "parent_code": "96"
+    },
+    "968": {
+        "name": "Trần Văn Thời",
+        "type": "huyen",
+        "slug": "tran-van-thoi",
+        "name_with_type": "Huyện Trần Văn Thời",
+        "path": "Trần Văn Thời, Cà Mau",
+        "path_with_type": "Huyện Trần Văn Thời, Tỉnh Cà Mau",
+        "code": "968",
+        "parent_code": "96"
+    },
+    "969": {
+        "name": "Cái Nước",
+        "type": "huyen",
+        "slug": "cai-nuoc",
+        "name_with_type": "Huyện Cái Nước",
+        "path": "Cái Nước, Cà Mau",
+        "path_with_type": "Huyện Cái Nước, Tỉnh Cà Mau",
+        "code": "969",
+        "parent_code": "96"
+    },
+    "970": {
+        "name": "Đầm Dơi",
+        "type": "huyen",
+        "slug": "dam-doi",
+        "name_with_type": "Huyện Đầm Dơi",
+        "path": "Đầm Dơi, Cà Mau",
+        "path_with_type": "Huyện Đầm Dơi, Tỉnh Cà Mau",
+        "code": "970",
+        "parent_code": "96"
+    },
+    "971": {
+        "name": "Năm Căn",
+        "type": "huyen",
+        "slug": "nam-can",
+        "name_with_type": "Huyện Năm Căn",
+        "path": "Năm Căn, Cà Mau",
+        "path_with_type": "Huyện Năm Căn, Tỉnh Cà Mau",
+        "code": "971",
+        "parent_code": "96"
+    },
+    "972": {
+        "name": "Phú Tân",
+        "type": "huyen",
+        "slug": "phu-tan",
+        "name_with_type": "Huyện Phú Tân",
+        "path": "Phú Tân, Cà Mau",
+        "path_with_type": "Huyện Phú Tân, Tỉnh Cà Mau",
+        "code": "972",
+        "parent_code": "96"
+    },
+    "973": {
+        "name": "Ngọc Hiển",
+        "type": "huyen",
+        "slug": "ngoc-hien",
+        "name_with_type": "Huyện Ngọc Hiển",
+        "path": "Ngọc Hiển, Cà Mau",
+        "path_with_type": "Huyện Ngọc Hiển, Tỉnh Cà Mau",
+        "code": "973",
+        "parent_code": "96"
+    }
+}

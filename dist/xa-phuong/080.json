@@ -1,0 +1,172 @@
+{
+    "02635": {
+        "name": "Duyên Hải",
+        "type": "phuong",
+        "slug": "duyen-hai",
+        "name_with_type": "Phường Duyên Hải",
+        "path": "Duyên Hải, Lào Cai, Lào Cai",
+        "path_with_type": "Phường Duyên Hải, Thành phố Lào Cai, Tỉnh Lào Cai",
+        "code": "02635",
+        "parent_code": "080"
+    },
+    "02638": {
+        "name": "Lào Cai",
+        "type": "phuong",
+        "slug": "lao-cai",
+        "name_with_type": "Phường Lào Cai",
+        "path": "Lào Cai, Lào Cai, Lào Cai",
+        "path_with_type": "Phường Lào Cai, Thành phố Lào Cai, Tỉnh Lào Cai",
+        "code": "02638",
+        "parent_code": "080"
+    },
+    "02641": {
+        "name": "Phố Mới",
+        "type": "phuong",
+        "slug": "pho-moi",
+        "name_with_type": "Phường Phố Mới",
+        "path": "Phố Mới, Lào Cai, Lào Cai",
+        "path_with_type": "Phường Phố Mới, Thành phố Lào Cai, Tỉnh Lào Cai",
+        "code": "02641",
+        "parent_code": "080"
+    },
+    "02644": {
+        "name": "Cốc Lếu",
+        "type": "phuong",
+        "slug": "coc-leu",
+        "name_with_type": "Phường Cốc Lếu",
+        "path": "Cốc Lếu, Lào Cai, Lào Cai",
+        "path_with_type": "Phường Cốc Lếu, Thành phố Lào Cai, Tỉnh Lào Cai",
+        "code": "02644",
+        "parent_code": "080"
+    },
+    "02647": {
+        "name": "Kim Tân",
+        "type": "phuong",
+        "slug": "kim-tan",
+        "name_with_type": "Phường Kim Tân",
+        "path": "Kim Tân, Lào Cai, Lào Cai",
+        "path_with_type": "Phường Kim Tân, Thành phố Lào Cai, Tỉnh Lào Cai",
+        "code": "02647",
+        "parent_code": "080"
+    },
+    "02650": {
+        "name": "Bắc Lệnh",
+        "type": "phuong",
+        "slug": "bac-lenh",
+        "name_with_type": "Phường Bắc Lệnh",
+        "path": "Bắc Lệnh, Lào Cai, Lào Cai",
+        "path_with_type": "Phường Bắc Lệnh, Thành phố Lào Cai, Tỉnh Lào Cai",
+        "code": "02650",
+        "parent_code": "080"
+    },
+    "02653": {
+        "name": "Pom Hán",
+        "type": "phuong",
+        "slug": "pom-han",
+        "name_with_type": "Phường Pom Hán",
+        "path": "Pom Hán, Lào Cai, Lào Cai",
+        "path_with_type": "Phường Pom Hán, Thành phố Lào Cai, Tỉnh Lào Cai",
+        "code": "02653",
+        "parent_code": "080"
+    },
+    "02656": {
+        "name": "Xuân Tăng",
+        "type": "phuong",
+        "slug": "xuan-tang",
+        "name_with_type": "Phường Xuân Tăng",
+        "path": "Xuân Tăng, Lào Cai, Lào Cai",
+        "path_with_type": "Phường Xuân Tăng, Thành phố Lào Cai, Tỉnh Lào Cai",
+        "code": "02656",
+        "parent_code": "080"
+    },
+    "02658": {
+        "name": "Bình Minh",
+        "type": "phuong",
+        "slug": "binh-minh",
+        "name_with_type": "Phường Bình Minh",
+        "path": "Bình Minh, Lào Cai, Lào Cai",
+        "path_with_type": "Phường Bình Minh, Thành phố Lào Cai, Tỉnh Lào Cai",
+        "code": "02658",
+        "parent_code": "080"
+    },
+    "02659": {
+        "name": "Thống Nhất",
+        "type": "phuong",
+        "slug": "thong-nhat",
+        "name_with_type": "Phường Thống Nhất",
+        "path": "Thống Nhất, Lào Cai, Lào Cai",
+        "path_with_type": "Phường Thống Nhất, Thành phố Lào Cai, Tỉnh Lào Cai",
+        "code": "02659",
+        "parent_code": "080"
+    },
+    "02662": {
+        "name": "Đồng Tuyển",
+        "type": "xa",
+        "slug": "dong-tuyen",
+        "name_with_type": "Xã Đồng Tuyển",
+        "path": "Đồng Tuyển, Lào Cai, Lào Cai",
+        "path_with_type": "Xã Đồng Tuyển, Thành phố Lào Cai, Tỉnh Lào Cai",
+        "code": "02662",
+        "parent_code": "080"
+    },
+    "02665": {
+        "name": "Vạn Hoà",
+        "type": "xa",
+        "slug": "van-hoa",
+        "name_with_type": "Xã Vạn Hoà",
+        "path": "Vạn Hoà, Lào Cai, Lào Cai",
+        "path_with_type": "Xã Vạn Hoà, Thành phố Lào Cai, Tỉnh Lào Cai",
+        "code": "02665",
+        "parent_code": "080"
+    },
+    "02668": {
+        "name": "Bắc Cường",
+        "type": "phuong",
+        "slug": "bac-cuong",
+        "name_with_type": "Phường Bắc Cường",
+        "path": "Bắc Cường, Lào Cai, Lào Cai",
+        "path_with_type": "Phường Bắc Cường, Thành phố Lào Cai, Tỉnh Lào Cai",
+        "code": "02668",
+        "parent_code": "080"
+    },
+    "02671": {
+        "name": "Nam Cường",
+        "type": "phuong",
+        "slug": "nam-cuong",
+        "name_with_type": "Phường Nam Cường",
+        "path": "Nam Cường, Lào Cai, Lào Cai",
+        "path_with_type": "Phường Nam Cường, Thành phố Lào Cai, Tỉnh Lào Cai",
+        "code": "02671",
+        "parent_code": "080"
+    },
+    "02674": {
+        "name": "Cam Đường",
+        "type": "xa",
+        "slug": "cam-duong",
+        "name_with_type": "Xã Cam Đường",
+        "path": "Cam Đường, Lào Cai, Lào Cai",
+        "path_with_type": "Xã Cam Đường, Thành phố Lào Cai, Tỉnh Lào Cai",
+        "code": "02674",
+        "parent_code": "080"
+    },
+    "02677": {
+        "name": "Tả Phời",
+        "type": "xa",
+        "slug": "ta-phoi",
+        "name_with_type": "Xã Tả Phời",
+        "path": "Tả Phời, Lào Cai, Lào Cai",
+        "path_with_type": "Xã Tả Phời, Thành phố Lào Cai, Tỉnh Lào Cai",
+        "code": "02677",
+        "parent_code": "080"
+    },
+    "02680": {
+        "name": "Hợp Thành",
+        "type": "xa",
+        "slug": "hop-thanh",
+        "name_with_type": "Xã Hợp Thành",
+        "path": "Hợp Thành, Lào Cai, Lào Cai",
+        "path_with_type": "Xã Hợp Thành, Thành phố Lào Cai, Tỉnh Lào Cai",
+        "code": "02680",
+        "parent_code": "080"
+    }
+}

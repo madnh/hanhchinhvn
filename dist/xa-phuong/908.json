@@ -1,0 +1,92 @@
+{
+    "30985": {
+        "name": "Thứ Ba",
+        "type": "thi-tran",
+        "slug": "thu-ba",
+        "name_with_type": "Thị trấn Thứ Ba",
+        "path": "Thứ Ba, An Biên, Kiên Giang",
+        "path_with_type": "Thị trấn Thứ Ba, Huyện An Biên, Tỉnh Kiên Giang",
+        "code": "30985",
+        "parent_code": "908"
+    },
+    "30988": {
+        "name": "Tây Yên",
+        "type": "xa",
+        "slug": "tay-yen",
+        "name_with_type": "Xã Tây Yên",
+        "path": "Tây Yên, An Biên, Kiên Giang",
+        "path_with_type": "Xã Tây Yên, Huyện An Biên, Tỉnh Kiên Giang",
+        "code": "30988",
+        "parent_code": "908"
+    },
+    "30991": {
+        "name": "Tây Yên A",
+        "type": "xa",
+        "slug": "tay-yen-a",
+        "name_with_type": "Xã Tây Yên A",
+        "path": "Tây Yên A, An Biên, Kiên Giang",
+        "path_with_type": "Xã Tây Yên A, Huyện An Biên, Tỉnh Kiên Giang",
+        "code": "30991",
+        "parent_code": "908"
+    },
+    "30994": {
+        "name": "Nam Yên",
+        "type": "xa",
+        "slug": "nam-yen",
+        "name_with_type": "Xã Nam Yên",
+        "path": "Nam Yên, An Biên, Kiên Giang",
+        "path_with_type": "Xã Nam Yên, Huyện An Biên, Tỉnh Kiên Giang",
+        "code": "30994",
+        "parent_code": "908"
+    },
+    "30997": {
+        "name": "Hưng Yên",
+        "type": "xa",
+        "slug": "hung-yen",
+        "name_with_type": "Xã Hưng Yên",
+        "path": "Hưng Yên, An Biên, Kiên Giang",
+        "path_with_type": "Xã Hưng Yên, Huyện An Biên, Tỉnh Kiên Giang",
+        "code": "30997",
+        "parent_code": "908"
+    },
+    "31000": {
+        "name": "Nam Thái",
+        "type": "xa",
+        "slug": "nam-thai",
+        "name_with_type": "Xã Nam Thái",
+        "path": "Nam Thái, An Biên, Kiên Giang",
+        "path_with_type": "Xã Nam Thái, Huyện An Biên, Tỉnh Kiên Giang",
+        "code": "31000",
+        "parent_code": "908"
+    },
+    "31003": {
+        "name": "Nam Thái A",
+        "type": "xa",
+        "slug": "nam-thai-a",
+        "name_with_type": "Xã Nam Thái A",
+        "path": "Nam Thái A, An Biên, Kiên Giang",
+        "path_with_type": "Xã Nam Thái A, Huyện An Biên, Tỉnh Kiên Giang",
+        "code": "31003",
+        "parent_code": "908"
+    },
+    "31006": {
+        "name": "Đông Thái",
+        "type": "xa",
+        "slug": "dong-thai",
+        "name_with_type": "Xã Đông Thái",
+        "path": "Đông Thái, An Biên, Kiên Giang",
+        "path_with_type": "Xã Đông Thái, Huyện An Biên, Tỉnh Kiên Giang",
+        "code": "31006",
+        "parent_code": "908"
+    },
+    "31009": {
+        "name": "Đông Yên",
+        "type": "xa",
+        "slug": "dong-yen",
+        "name_with_type": "Xã Đông Yên",
+        "path": "Đông Yên, An Biên, Kiên Giang",
+        "path_with_type": "Xã Đông Yên, Huyện An Biên, Tỉnh Kiên Giang",
+        "code": "31009",
+        "parent_code": "908"
+    }
+}

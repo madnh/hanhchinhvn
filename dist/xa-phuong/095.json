@@ -1,0 +1,32 @@
+{
+    "03148": {
+        "name": "Sông Đà",
+        "type": "phuong",
+        "slug": "song-da",
+        "name_with_type": "Phường Sông Đà",
+        "path": "Sông Đà, Mường Lay, Điện Biên",
+        "path_with_type": "Phường Sông Đà, Thị xã Mường Lay, Tỉnh Điện Biên",
+        "code": "03148",
+        "parent_code": "095"
+    },
+    "03151": {
+        "name": "Na Lay",
+        "type": "phuong",
+        "slug": "na-lay",
+        "name_with_type": "Phường Na Lay",
+        "path": "Na Lay, Mường Lay, Điện Biên",
+        "path_with_type": "Phường Na Lay, Thị xã Mường Lay, Tỉnh Điện Biên",
+        "code": "03151",
+        "parent_code": "095"
+    },
+    "03184": {
+        "name": "Lay Nưa",
+        "type": "xa",
+        "slug": "lay-nua",
+        "name_with_type": "Xã Lay Nưa",
+        "path": "Lay Nưa, Mường Lay, Điện Biên",
+        "path_with_type": "Xã Lay Nưa, Thị xã Mường Lay, Tỉnh Điện Biên",
+        "code": "03184",
+        "parent_code": "095"
+    }
+}

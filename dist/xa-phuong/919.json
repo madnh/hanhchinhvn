@@ -1,0 +1,72 @@
+{
+    "31186": {
+        "name": "Lê Bình",
+        "type": "phuong",
+        "slug": "le-binh",
+        "name_with_type": "Phường Lê Bình",
+        "path": "Lê Bình, Cái Răng, Cần Thơ",
+        "path_with_type": "Phường Lê Bình, Quận Cái Răng, Thành phố Cần Thơ",
+        "code": "31186",
+        "parent_code": "919"
+    },
+    "31189": {
+        "name": "Hưng Phú",
+        "type": "phuong",
+        "slug": "hung-phu",
+        "name_with_type": "Phường Hưng Phú",
+        "path": "Hưng Phú, Cái Răng, Cần Thơ",
+        "path_with_type": "Phường Hưng Phú, Quận Cái Răng, Thành phố Cần Thơ",
+        "code": "31189",
+        "parent_code": "919"
+    },
+    "31192": {
+        "name": "Hưng Thạnh",
+        "type": "phuong",
+        "slug": "hung-thanh",
+        "name_with_type": "Phường Hưng Thạnh",
+        "path": "Hưng Thạnh, Cái Răng, Cần Thơ",
+        "path_with_type": "Phường Hưng Thạnh, Quận Cái Răng, Thành phố Cần Thơ",
+        "code": "31192",
+        "parent_code": "919"
+    },
+    "31195": {
+        "name": "Ba Láng",
+        "type": "phuong",
+        "slug": "ba-lang",
+        "name_with_type": "Phường Ba Láng",
+        "path": "Ba Láng, Cái Răng, Cần Thơ",
+        "path_with_type": "Phường Ba Láng, Quận Cái Răng, Thành phố Cần Thơ",
+        "code": "31195",
+        "parent_code": "919"
+    },
+    "31198": {
+        "name": "Thường Thạnh",
+        "type": "phuong",
+        "slug": "thuong-thanh",
+        "name_with_type": "Phường Thường Thạnh",
+        "path": "Thường Thạnh, Cái Răng, Cần Thơ",
+        "path_with_type": "Phường Thường Thạnh, Quận Cái Răng, Thành phố Cần Thơ",
+        "code": "31198",
+        "parent_code": "919"
+    },
+    "31201": {
+        "name": "Phú Thứ",
+        "type": "phuong",
+        "slug": "phu-thu",
+        "name_with_type": "Phường Phú Thứ",
+        "path": "Phú Thứ, Cái Răng, Cần Thơ",
+        "path_with_type": "Phường Phú Thứ, Quận Cái Răng, Thành phố Cần Thơ",
+        "code": "31201",
+        "parent_code": "919"
+    },
+    "31204": {
+        "name": "Tân Phú",
+        "type": "phuong",
+        "slug": "tan-phu",
+        "name_with_type": "Phường Tân Phú",
+        "path": "Tân Phú, Cái Răng, Cần Thơ",
+        "path_with_type": "Phường Tân Phú, Quận Cái Răng, Thành phố Cần Thơ",
+        "code": "31204",
+        "parent_code": "919"
+    }
+}

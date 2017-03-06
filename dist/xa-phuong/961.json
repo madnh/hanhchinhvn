@@ -1,0 +1,82 @@
+{
+    "31891": {
+        "name": "Hòa Bình",
+        "type": "thi-tran",
+        "slug": "hoa-binh",
+        "name_with_type": "Thị trấn Hòa Bình",
+        "path": "Hòa Bình, Hoà Bình, Bạc Liêu",
+        "path_with_type": "Thị trấn Hòa Bình, Huyện Hoà Bình, Tỉnh Bạc Liêu",
+        "code": "31891",
+        "parent_code": "961"
+    },
+    "31915": {
+        "name": "Minh Diệu",
+        "type": "xa",
+        "slug": "minh-dieu",
+        "name_with_type": "Xã Minh Diệu",
+        "path": "Minh Diệu, Hoà Bình, Bạc Liêu",
+        "path_with_type": "Xã Minh Diệu, Huyện Hoà Bình, Tỉnh Bạc Liêu",
+        "code": "31915",
+        "parent_code": "961"
+    },
+    "31918": {
+        "name": "Vĩnh Bình",
+        "type": "xa",
+        "slug": "vinh-binh",
+        "name_with_type": "Xã Vĩnh Bình",
+        "path": "Vĩnh Bình, Hoà Bình, Bạc Liêu",
+        "path_with_type": "Xã Vĩnh Bình, Huyện Hoà Bình, Tỉnh Bạc Liêu",
+        "code": "31918",
+        "parent_code": "961"
+    },
+    "31924": {
+        "name": "Vĩnh Mỹ B",
+        "type": "xa",
+        "slug": "vinh-my-b",
+        "name_with_type": "Xã Vĩnh Mỹ B",
+        "path": "Vĩnh Mỹ B, Hoà Bình, Bạc Liêu",
+        "path_with_type": "Xã Vĩnh Mỹ B, Huyện Hoà Bình, Tỉnh Bạc Liêu",
+        "code": "31924",
+        "parent_code": "961"
+    },
+    "31927": {
+        "name": "Vĩnh Hậu",
+        "type": "xa",
+        "slug": "vinh-hau",
+        "name_with_type": "Xã Vĩnh Hậu",
+        "path": "Vĩnh Hậu, Hoà Bình, Bạc Liêu",
+        "path_with_type": "Xã Vĩnh Hậu, Huyện Hoà Bình, Tỉnh Bạc Liêu",
+        "code": "31927",
+        "parent_code": "961"
+    },
+    "31930": {
+        "name": "Vĩnh Hậu A",
+        "type": "xa",
+        "slug": "vinh-hau-a",
+        "name_with_type": "Xã Vĩnh Hậu A",
+        "path": "Vĩnh Hậu A, Hoà Bình, Bạc Liêu",
+        "path_with_type": "Xã Vĩnh Hậu A, Huyện Hoà Bình, Tỉnh Bạc Liêu",
+        "code": "31930",
+        "parent_code": "961"
+    },
+    "31933": {
+        "name": "Vĩnh Mỹ A",
+        "type": "xa",
+        "slug": "vinh-my-a",
+        "name_with_type": "Xã Vĩnh Mỹ A",
+        "path": "Vĩnh Mỹ A, Hoà Bình, Bạc Liêu",
+        "path_with_type": "Xã Vĩnh Mỹ A, Huyện Hoà Bình, Tỉnh Bạc Liêu",
+        "code": "31933",
+        "parent_code": "961"
+    },
+    "31936": {
+        "name": "Vĩnh Thịnh",
+        "type": "xa",
+        "slug": "vinh-thinh",
+        "name_with_type": "Xã Vĩnh Thịnh",
+        "path": "Vĩnh Thịnh, Hoà Bình, Bạc Liêu",
+        "path_with_type": "Xã Vĩnh Thịnh, Huyện Hoà Bình, Tỉnh Bạc Liêu",
+        "code": "31936",
+        "parent_code": "961"
+    }
+}

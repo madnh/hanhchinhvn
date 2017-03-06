@@ -1,0 +1,122 @@
+{
+    "18313": {
+        "name": "Vũ Quang",
+        "type": "thi-tran",
+        "slug": "vu-quang",
+        "name_with_type": "Thị trấn Vũ Quang",
+        "path": "Vũ Quang, Vũ Quang, Hà Tĩnh",
+        "path_with_type": "Thị trấn Vũ Quang, Huyện Vũ Quang, Tỉnh Hà Tĩnh",
+        "code": "18313",
+        "parent_code": "441"
+    },
+    "18316": {
+        "name": "Ân Phú",
+        "type": "xa",
+        "slug": "an-phu",
+        "name_with_type": "Xã Ân Phú",
+        "path": "Ân Phú, Vũ Quang, Hà Tĩnh",
+        "path_with_type": "Xã Ân Phú, Huyện Vũ Quang, Tỉnh Hà Tĩnh",
+        "code": "18316",
+        "parent_code": "441"
+    },
+    "18319": {
+        "name": "Đức Giang",
+        "type": "xa",
+        "slug": "duc-giang",
+        "name_with_type": "Xã Đức Giang",
+        "path": "Đức Giang, Vũ Quang, Hà Tĩnh",
+        "path_with_type": "Xã Đức Giang, Huyện Vũ Quang, Tỉnh Hà Tĩnh",
+        "code": "18319",
+        "parent_code": "441"
+    },
+    "18322": {
+        "name": "Đức Lĩnh",
+        "type": "xa",
+        "slug": "duc-linh",
+        "name_with_type": "Xã Đức Lĩnh",
+        "path": "Đức Lĩnh, Vũ Quang, Hà Tĩnh",
+        "path_with_type": "Xã Đức Lĩnh, Huyện Vũ Quang, Tỉnh Hà Tĩnh",
+        "code": "18322",
+        "parent_code": "441"
+    },
+    "18325": {
+        "name": "Sơn Thọ",
+        "type": "xa",
+        "slug": "son-tho",
+        "name_with_type": "Xã Sơn Thọ",
+        "path": "Sơn Thọ, Vũ Quang, Hà Tĩnh",
+        "path_with_type": "Xã Sơn Thọ, Huyện Vũ Quang, Tỉnh Hà Tĩnh",
+        "code": "18325",
+        "parent_code": "441"
+    },
+    "18328": {
+        "name": "Đức Hương",
+        "type": "xa",
+        "slug": "duc-huong",
+        "name_with_type": "Xã Đức Hương",
+        "path": "Đức Hương, Vũ Quang, Hà Tĩnh",
+        "path_with_type": "Xã Đức Hương, Huyện Vũ Quang, Tỉnh Hà Tĩnh",
+        "code": "18328",
+        "parent_code": "441"
+    },
+    "18331": {
+        "name": "Đức Bồng",
+        "type": "xa",
+        "slug": "duc-bong",
+        "name_with_type": "Xã Đức Bồng",
+        "path": "Đức Bồng, Vũ Quang, Hà Tĩnh",
+        "path_with_type": "Xã Đức Bồng, Huyện Vũ Quang, Tỉnh Hà Tĩnh",
+        "code": "18331",
+        "parent_code": "441"
+    },
+    "18334": {
+        "name": "Đức Liên",
+        "type": "xa",
+        "slug": "duc-lien",
+        "name_with_type": "Xã Đức Liên",
+        "path": "Đức Liên, Vũ Quang, Hà Tĩnh",
+        "path_with_type": "Xã Đức Liên, Huyện Vũ Quang, Tỉnh Hà Tĩnh",
+        "code": "18334",
+        "parent_code": "441"
+    },
+    "18337": {
+        "name": "Hương Điền",
+        "type": "xa",
+        "slug": "huong-dien",
+        "name_with_type": "Xã Hương Điền",
+        "path": "Hương Điền, Vũ Quang, Hà Tĩnh",
+        "path_with_type": "Xã Hương Điền, Huyện Vũ Quang, Tỉnh Hà Tĩnh",
+        "code": "18337",
+        "parent_code": "441"
+    },
+    "18340": {
+        "name": "Hương Minh",
+        "type": "xa",
+        "slug": "huong-minh",
+        "name_with_type": "Xã Hương Minh",
+        "path": "Hương Minh, Vũ Quang, Hà Tĩnh",
+        "path_with_type": "Xã Hương Minh, Huyện Vũ Quang, Tỉnh Hà Tĩnh",
+        "code": "18340",
+        "parent_code": "441"
+    },
+    "18343": {
+        "name": "Hương Thọ",
+        "type": "xa",
+        "slug": "huong-tho",
+        "name_with_type": "Xã Hương Thọ",
+        "path": "Hương Thọ, Vũ Quang, Hà Tĩnh",
+        "path_with_type": "Xã Hương Thọ, Huyện Vũ Quang, Tỉnh Hà Tĩnh",
+        "code": "18343",
+        "parent_code": "441"
+    },
+    "18346": {
+        "name": "Hương Quang",
+        "type": "xa",
+        "slug": "huong-quang",
+        "name_with_type": "Xã Hương Quang",
+        "path": "Hương Quang, Vũ Quang, Hà Tĩnh",
+        "path_with_type": "Xã Hương Quang, Huyện Vũ Quang, Tỉnh Hà Tĩnh",
+        "code": "18346",
+        "parent_code": "441"
+    }
+}

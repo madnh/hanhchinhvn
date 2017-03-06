@@ -1,0 +1,172 @@
+{
+    "12280": {
+        "name": "Lương Bằng",
+        "type": "thi-tran",
+        "slug": "luong-bang",
+        "name_with_type": "Thị trấn Lương Bằng",
+        "path": "Lương Bằng, Kim Động, Hưng Yên",
+        "path_with_type": "Thị trấn Lương Bằng, Huyện Kim Động, Tỉnh Hưng Yên",
+        "code": "12280",
+        "parent_code": "331"
+    },
+    "12283": {
+        "name": "Nghĩa Dân",
+        "type": "xa",
+        "slug": "nghia-dan",
+        "name_with_type": "Xã Nghĩa Dân",
+        "path": "Nghĩa Dân, Kim Động, Hưng Yên",
+        "path_with_type": "Xã Nghĩa Dân, Huyện Kim Động, Tỉnh Hưng Yên",
+        "code": "12283",
+        "parent_code": "331"
+    },
+    "12286": {
+        "name": "Toàn Thắng",
+        "type": "xa",
+        "slug": "toan-thang",
+        "name_with_type": "Xã Toàn Thắng",
+        "path": "Toàn Thắng, Kim Động, Hưng Yên",
+        "path_with_type": "Xã Toàn Thắng, Huyện Kim Động, Tỉnh Hưng Yên",
+        "code": "12286",
+        "parent_code": "331"
+    },
+    "12289": {
+        "name": "Vĩnh Xá",
+        "type": "xa",
+        "slug": "vinh-xa",
+        "name_with_type": "Xã Vĩnh Xá",
+        "path": "Vĩnh Xá, Kim Động, Hưng Yên",
+        "path_with_type": "Xã Vĩnh Xá, Huyện Kim Động, Tỉnh Hưng Yên",
+        "code": "12289",
+        "parent_code": "331"
+    },
+    "12292": {
+        "name": "Phạm Ngũ Lão",
+        "type": "xa",
+        "slug": "pham-ngu-lao",
+        "name_with_type": "Xã Phạm Ngũ Lão",
+        "path": "Phạm Ngũ Lão, Kim Động, Hưng Yên",
+        "path_with_type": "Xã Phạm Ngũ Lão, Huyện Kim Động, Tỉnh Hưng Yên",
+        "code": "12292",
+        "parent_code": "331"
+    },
+    "12295": {
+        "name": "Thọ Vinh",
+        "type": "xa",
+        "slug": "tho-vinh",
+        "name_with_type": "Xã Thọ Vinh",
+        "path": "Thọ Vinh, Kim Động, Hưng Yên",
+        "path_with_type": "Xã Thọ Vinh, Huyện Kim Động, Tỉnh Hưng Yên",
+        "code": "12295",
+        "parent_code": "331"
+    },
+    "12298": {
+        "name": "Đồng Thanh",
+        "type": "xa",
+        "slug": "dong-thanh",
+        "name_with_type": "Xã Đồng Thanh",
+        "path": "Đồng Thanh, Kim Động, Hưng Yên",
+        "path_with_type": "Xã Đồng Thanh, Huyện Kim Động, Tỉnh Hưng Yên",
+        "code": "12298",
+        "parent_code": "331"
+    },
+    "12301": {
+        "name": "Song Mai",
+        "type": "xa",
+        "slug": "song-mai",
+        "name_with_type": "Xã Song Mai",
+        "path": "Song Mai, Kim Động, Hưng Yên",
+        "path_with_type": "Xã Song Mai, Huyện Kim Động, Tỉnh Hưng Yên",
+        "code": "12301",
+        "parent_code": "331"
+    },
+    "12304": {
+        "name": "Chính Nghĩa",
+        "type": "xa",
+        "slug": "chinh-nghia",
+        "name_with_type": "Xã Chính Nghĩa",
+        "path": "Chính Nghĩa, Kim Động, Hưng Yên",
+        "path_with_type": "Xã Chính Nghĩa, Huyện Kim Động, Tỉnh Hưng Yên",
+        "code": "12304",
+        "parent_code": "331"
+    },
+    "12307": {
+        "name": "Nhân La",
+        "type": "xa",
+        "slug": "nhan-la",
+        "name_with_type": "Xã Nhân La",
+        "path": "Nhân La, Kim Động, Hưng Yên",
+        "path_with_type": "Xã Nhân La, Huyện Kim Động, Tỉnh Hưng Yên",
+        "code": "12307",
+        "parent_code": "331"
+    },
+    "12310": {
+        "name": "Phú Thịnh",
+        "type": "xa",
+        "slug": "phu-thinh",
+        "name_with_type": "Xã Phú Thịnh",
+        "path": "Phú Thịnh, Kim Động, Hưng Yên",
+        "path_with_type": "Xã Phú Thịnh, Huyện Kim Động, Tỉnh Hưng Yên",
+        "code": "12310",
+        "parent_code": "331"
+    },
+    "12313": {
+        "name": "Mai Động",
+        "type": "xa",
+        "slug": "mai-dong",
+        "name_with_type": "Xã Mai Động",
+        "path": "Mai Động, Kim Động, Hưng Yên",
+        "path_with_type": "Xã Mai Động, Huyện Kim Động, Tỉnh Hưng Yên",
+        "code": "12313",
+        "parent_code": "331"
+    },
+    "12316": {
+        "name": "Đức Hợp",
+        "type": "xa",
+        "slug": "duc-hop",
+        "name_with_type": "Xã Đức Hợp",
+        "path": "Đức Hợp, Kim Động, Hưng Yên",
+        "path_with_type": "Xã Đức Hợp, Huyện Kim Động, Tỉnh Hưng Yên",
+        "code": "12316",
+        "parent_code": "331"
+    },
+    "12319": {
+        "name": "Hùng An",
+        "type": "xa",
+        "slug": "hung-an",
+        "name_with_type": "Xã Hùng An",
+        "path": "Hùng An, Kim Động, Hưng Yên",
+        "path_with_type": "Xã Hùng An, Huyện Kim Động, Tỉnh Hưng Yên",
+        "code": "12319",
+        "parent_code": "331"
+    },
+    "12322": {
+        "name": "Ngọc Thanh",
+        "type": "xa",
+        "slug": "ngoc-thanh",
+        "name_with_type": "Xã Ngọc Thanh",
+        "path": "Ngọc Thanh, Kim Động, Hưng Yên",
+        "path_with_type": "Xã Ngọc Thanh, Huyện Kim Động, Tỉnh Hưng Yên",
+        "code": "12322",
+        "parent_code": "331"
+    },
+    "12325": {
+        "name": "Vũ Xá",
+        "type": "xa",
+        "slug": "vu-xa",
+        "name_with_type": "Xã Vũ Xá",
+        "path": "Vũ Xá, Kim Động, Hưng Yên",
+        "path_with_type": "Xã Vũ Xá, Huyện Kim Động, Tỉnh Hưng Yên",
+        "code": "12325",
+        "parent_code": "331"
+    },
+    "12328": {
+        "name": "Hiệp Cường",
+        "type": "xa",
+        "slug": "hiep-cuong",
+        "name_with_type": "Xã Hiệp Cường",
+        "path": "Hiệp Cường, Kim Động, Hưng Yên",
+        "path_with_type": "Xã Hiệp Cường, Huyện Kim Động, Tỉnh Hưng Yên",
+        "code": "12328",
+        "parent_code": "331"
+    }
+}

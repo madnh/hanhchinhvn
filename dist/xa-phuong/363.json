@@ -1,0 +1,212 @@
+{
+    "14026": {
+        "name": "Cổ Lễ",
+        "type": "thi-tran",
+        "slug": "co-le",
+        "name_with_type": "Thị trấn Cổ Lễ",
+        "path": "Cổ Lễ, Trực Ninh, Nam Định",
+        "path_with_type": "Thị trấn Cổ Lễ, Huyện Trực Ninh, Tỉnh Nam Định",
+        "code": "14026",
+        "parent_code": "363"
+    },
+    "14029": {
+        "name": "Phương Định",
+        "type": "xa",
+        "slug": "phuong-dinh",
+        "name_with_type": "Xã Phương Định",
+        "path": "Phương Định, Trực Ninh, Nam Định",
+        "path_with_type": "Xã Phương Định, Huyện Trực Ninh, Tỉnh Nam Định",
+        "code": "14029",
+        "parent_code": "363"
+    },
+    "14032": {
+        "name": "Trực Chính",
+        "type": "xa",
+        "slug": "truc-chinh",
+        "name_with_type": "Xã Trực Chính",
+        "path": "Trực Chính, Trực Ninh, Nam Định",
+        "path_with_type": "Xã Trực Chính, Huyện Trực Ninh, Tỉnh Nam Định",
+        "code": "14032",
+        "parent_code": "363"
+    },
+    "14035": {
+        "name": "Trung Đông",
+        "type": "xa",
+        "slug": "trung-dong",
+        "name_with_type": "Xã Trung Đông",
+        "path": "Trung Đông, Trực Ninh, Nam Định",
+        "path_with_type": "Xã Trung Đông, Huyện Trực Ninh, Tỉnh Nam Định",
+        "code": "14035",
+        "parent_code": "363"
+    },
+    "14038": {
+        "name": "Liêm Hải",
+        "type": "xa",
+        "slug": "liem-hai",
+        "name_with_type": "Xã Liêm Hải",
+        "path": "Liêm Hải, Trực Ninh, Nam Định",
+        "path_with_type": "Xã Liêm Hải, Huyện Trực Ninh, Tỉnh Nam Định",
+        "code": "14038",
+        "parent_code": "363"
+    },
+    "14041": {
+        "name": "Trực Tuấn",
+        "type": "xa",
+        "slug": "truc-tuan",
+        "name_with_type": "Xã Trực Tuấn",
+        "path": "Trực Tuấn, Trực Ninh, Nam Định",
+        "path_with_type": "Xã Trực Tuấn, Huyện Trực Ninh, Tỉnh Nam Định",
+        "code": "14041",
+        "parent_code": "363"
+    },
+    "14044": {
+        "name": "Việt Hùng",
+        "type": "xa",
+        "slug": "viet-hung",
+        "name_with_type": "Xã Việt Hùng",
+        "path": "Việt Hùng, Trực Ninh, Nam Định",
+        "path_with_type": "Xã Việt Hùng, Huyện Trực Ninh, Tỉnh Nam Định",
+        "code": "14044",
+        "parent_code": "363"
+    },
+    "14047": {
+        "name": "Trực Đạo",
+        "type": "xa",
+        "slug": "truc-dao",
+        "name_with_type": "Xã Trực Đạo",
+        "path": "Trực Đạo, Trực Ninh, Nam Định",
+        "path_with_type": "Xã Trực Đạo, Huyện Trực Ninh, Tỉnh Nam Định",
+        "code": "14047",
+        "parent_code": "363"
+    },
+    "14050": {
+        "name": "Trực Hưng",
+        "type": "xa",
+        "slug": "truc-hung",
+        "name_with_type": "Xã Trực Hưng",
+        "path": "Trực Hưng, Trực Ninh, Nam Định",
+        "path_with_type": "Xã Trực Hưng, Huyện Trực Ninh, Tỉnh Nam Định",
+        "code": "14050",
+        "parent_code": "363"
+    },
+    "14053": {
+        "name": "Trực Nội",
+        "type": "xa",
+        "slug": "truc-noi",
+        "name_with_type": "Xã Trực Nội",
+        "path": "Trực Nội, Trực Ninh, Nam Định",
+        "path_with_type": "Xã Trực Nội, Huyện Trực Ninh, Tỉnh Nam Định",
+        "code": "14053",
+        "parent_code": "363"
+    },
+    "14056": {
+        "name": "Cát Thành",
+        "type": "thi-tran",
+        "slug": "cat-thanh",
+        "name_with_type": "Thị trấn Cát Thành",
+        "path": "Cát Thành, Trực Ninh, Nam Định",
+        "path_with_type": "Thị trấn Cát Thành, Huyện Trực Ninh, Tỉnh Nam Định",
+        "code": "14056",
+        "parent_code": "363"
+    },
+    "14059": {
+        "name": "Trực Thanh",
+        "type": "xa",
+        "slug": "truc-thanh",
+        "name_with_type": "Xã Trực Thanh",
+        "path": "Trực Thanh, Trực Ninh, Nam Định",
+        "path_with_type": "Xã Trực Thanh, Huyện Trực Ninh, Tỉnh Nam Định",
+        "code": "14059",
+        "parent_code": "363"
+    },
+    "14062": {
+        "name": "Trực Khang",
+        "type": "xa",
+        "slug": "truc-khang",
+        "name_with_type": "Xã Trực Khang",
+        "path": "Trực Khang, Trực Ninh, Nam Định",
+        "path_with_type": "Xã Trực Khang, Huyện Trực Ninh, Tỉnh Nam Định",
+        "code": "14062",
+        "parent_code": "363"
+    },
+    "14065": {
+        "name": "Trực Thuận",
+        "type": "xa",
+        "slug": "truc-thuan",
+        "name_with_type": "Xã Trực Thuận",
+        "path": "Trực Thuận, Trực Ninh, Nam Định",
+        "path_with_type": "Xã Trực Thuận, Huyện Trực Ninh, Tỉnh Nam Định",
+        "code": "14065",
+        "parent_code": "363"
+    },
+    "14068": {
+        "name": "Trực Mỹ",
+        "type": "xa",
+        "slug": "truc-my",
+        "name_with_type": "Xã Trực Mỹ",
+        "path": "Trực Mỹ, Trực Ninh, Nam Định",
+        "path_with_type": "Xã Trực Mỹ, Huyện Trực Ninh, Tỉnh Nam Định",
+        "code": "14068",
+        "parent_code": "363"
+    },
+    "14071": {
+        "name": "Trực Đại",
+        "type": "xa",
+        "slug": "truc-dai",
+        "name_with_type": "Xã Trực Đại",
+        "path": "Trực Đại, Trực Ninh, Nam Định",
+        "path_with_type": "Xã Trực Đại, Huyện Trực Ninh, Tỉnh Nam Định",
+        "code": "14071",
+        "parent_code": "363"
+    },
+    "14074": {
+        "name": "Trực Cường",
+        "type": "xa",
+        "slug": "truc-cuong",
+        "name_with_type": "Xã Trực Cường",
+        "path": "Trực Cường, Trực Ninh, Nam Định",
+        "path_with_type": "Xã Trực Cường, Huyện Trực Ninh, Tỉnh Nam Định",
+        "code": "14074",
+        "parent_code": "363"
+    },
+    "14077": {
+        "name": "Trực Phú",
+        "type": "xa",
+        "slug": "truc-phu",
+        "name_with_type": "Xã Trực Phú",
+        "path": "Trực Phú, Trực Ninh, Nam Định",
+        "path_with_type": "Xã Trực Phú, Huyện Trực Ninh, Tỉnh Nam Định",
+        "code": "14077",
+        "parent_code": "363"
+    },
+    "14080": {
+        "name": "Trực Thái",
+        "type": "xa",
+        "slug": "truc-thai",
+        "name_with_type": "Xã Trực Thái",
+        "path": "Trực Thái, Trực Ninh, Nam Định",
+        "path_with_type": "Xã Trực Thái, Huyện Trực Ninh, Tỉnh Nam Định",
+        "code": "14080",
+        "parent_code": "363"
+    },
+    "14083": {
+        "name": "Trực Hùng",
+        "type": "xa",
+        "slug": "truc-hung",
+        "name_with_type": "Xã Trực Hùng",
+        "path": "Trực Hùng, Trực Ninh, Nam Định",
+        "path_with_type": "Xã Trực Hùng, Huyện Trực Ninh, Tỉnh Nam Định",
+        "code": "14083",
+        "parent_code": "363"
+    },
+    "14086": {
+        "name": "Trực Thắng",
+        "type": "xa",
+        "slug": "truc-thang",
+        "name_with_type": "Xã Trực Thắng",
+        "path": "Trực Thắng, Trực Ninh, Nam Định",
+        "path_with_type": "Xã Trực Thắng, Huyện Trực Ninh, Tỉnh Nam Định",
+        "code": "14086",
+        "parent_code": "363"
+    }
+}

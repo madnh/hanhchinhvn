@@ -1,0 +1,172 @@
+{
+    "13441": {
+        "name": "Kiện Khê",
+        "type": "thi-tran",
+        "slug": "kien-khe",
+        "name_with_type": "Thị trấn Kiện Khê",
+        "path": "Kiện Khê, Thanh Liêm, Hà Nam",
+        "path_with_type": "Thị trấn Kiện Khê, Huyện Thanh Liêm, Tỉnh Hà Nam",
+        "code": "13441",
+        "parent_code": "351"
+    },
+    "13450": {
+        "name": "Liêm Phong",
+        "type": "xa",
+        "slug": "liem-phong",
+        "name_with_type": "Xã Liêm Phong",
+        "path": "Liêm Phong, Thanh Liêm, Hà Nam",
+        "path_with_type": "Xã Liêm Phong, Huyện Thanh Liêm, Tỉnh Hà Nam",
+        "code": "13450",
+        "parent_code": "351"
+    },
+    "13453": {
+        "name": "Thanh Hà",
+        "type": "xa",
+        "slug": "thanh-ha",
+        "name_with_type": "Xã Thanh Hà",
+        "path": "Thanh Hà, Thanh Liêm, Hà Nam",
+        "path_with_type": "Xã Thanh Hà, Huyện Thanh Liêm, Tỉnh Hà Nam",
+        "code": "13453",
+        "parent_code": "351"
+    },
+    "13456": {
+        "name": "Liêm Cần",
+        "type": "xa",
+        "slug": "liem-can",
+        "name_with_type": "Xã Liêm Cần",
+        "path": "Liêm Cần, Thanh Liêm, Hà Nam",
+        "path_with_type": "Xã Liêm Cần, Huyện Thanh Liêm, Tỉnh Hà Nam",
+        "code": "13456",
+        "parent_code": "351"
+    },
+    "13462": {
+        "name": "Thanh Bình",
+        "type": "xa",
+        "slug": "thanh-binh",
+        "name_with_type": "Xã Thanh Bình",
+        "path": "Thanh Bình, Thanh Liêm, Hà Nam",
+        "path_with_type": "Xã Thanh Bình, Huyện Thanh Liêm, Tỉnh Hà Nam",
+        "code": "13462",
+        "parent_code": "351"
+    },
+    "13465": {
+        "name": "Liêm Thuận",
+        "type": "xa",
+        "slug": "liem-thuan",
+        "name_with_type": "Xã Liêm Thuận",
+        "path": "Liêm Thuận, Thanh Liêm, Hà Nam",
+        "path_with_type": "Xã Liêm Thuận, Huyện Thanh Liêm, Tỉnh Hà Nam",
+        "code": "13465",
+        "parent_code": "351"
+    },
+    "13468": {
+        "name": "Thanh Thủy",
+        "type": "xa",
+        "slug": "thanh-thuy",
+        "name_with_type": "Xã Thanh Thủy",
+        "path": "Thanh Thủy, Thanh Liêm, Hà Nam",
+        "path_with_type": "Xã Thanh Thủy, Huyện Thanh Liêm, Tỉnh Hà Nam",
+        "code": "13468",
+        "parent_code": "351"
+    },
+    "13471": {
+        "name": "Thanh Phong",
+        "type": "xa",
+        "slug": "thanh-phong",
+        "name_with_type": "Xã Thanh Phong",
+        "path": "Thanh Phong, Thanh Liêm, Hà Nam",
+        "path_with_type": "Xã Thanh Phong, Huyện Thanh Liêm, Tỉnh Hà Nam",
+        "code": "13471",
+        "parent_code": "351"
+    },
+    "13474": {
+        "name": "Thanh Lưu",
+        "type": "xa",
+        "slug": "thanh-luu",
+        "name_with_type": "Xã Thanh Lưu",
+        "path": "Thanh Lưu, Thanh Liêm, Hà Nam",
+        "path_with_type": "Xã Thanh Lưu, Huyện Thanh Liêm, Tỉnh Hà Nam",
+        "code": "13474",
+        "parent_code": "351"
+    },
+    "13477": {
+        "name": "Thanh Tân",
+        "type": "xa",
+        "slug": "thanh-tan",
+        "name_with_type": "Xã Thanh Tân",
+        "path": "Thanh Tân, Thanh Liêm, Hà Nam",
+        "path_with_type": "Xã Thanh Tân, Huyện Thanh Liêm, Tỉnh Hà Nam",
+        "code": "13477",
+        "parent_code": "351"
+    },
+    "13480": {
+        "name": "Liêm Túc",
+        "type": "xa",
+        "slug": "liem-tuc",
+        "name_with_type": "Xã Liêm Túc",
+        "path": "Liêm Túc, Thanh Liêm, Hà Nam",
+        "path_with_type": "Xã Liêm Túc, Huyện Thanh Liêm, Tỉnh Hà Nam",
+        "code": "13480",
+        "parent_code": "351"
+    },
+    "13483": {
+        "name": "Liêm Sơn",
+        "type": "xa",
+        "slug": "liem-son",
+        "name_with_type": "Xã Liêm Sơn",
+        "path": "Liêm Sơn, Thanh Liêm, Hà Nam",
+        "path_with_type": "Xã Liêm Sơn, Huyện Thanh Liêm, Tỉnh Hà Nam",
+        "code": "13483",
+        "parent_code": "351"
+    },
+    "13486": {
+        "name": "Thanh Hương",
+        "type": "xa",
+        "slug": "thanh-huong",
+        "name_with_type": "Xã Thanh Hương",
+        "path": "Thanh Hương, Thanh Liêm, Hà Nam",
+        "path_with_type": "Xã Thanh Hương, Huyện Thanh Liêm, Tỉnh Hà Nam",
+        "code": "13486",
+        "parent_code": "351"
+    },
+    "13489": {
+        "name": "Thanh Nghị",
+        "type": "xa",
+        "slug": "thanh-nghi",
+        "name_with_type": "Xã Thanh Nghị",
+        "path": "Thanh Nghị, Thanh Liêm, Hà Nam",
+        "path_with_type": "Xã Thanh Nghị, Huyện Thanh Liêm, Tỉnh Hà Nam",
+        "code": "13489",
+        "parent_code": "351"
+    },
+    "13492": {
+        "name": "Thanh Tâm",
+        "type": "xa",
+        "slug": "thanh-tam",
+        "name_with_type": "Xã Thanh Tâm",
+        "path": "Thanh Tâm, Thanh Liêm, Hà Nam",
+        "path_with_type": "Xã Thanh Tâm, Huyện Thanh Liêm, Tỉnh Hà Nam",
+        "code": "13492",
+        "parent_code": "351"
+    },
+    "13495": {
+        "name": "Thanh Nguyên",
+        "type": "xa",
+        "slug": "thanh-nguyen",
+        "name_with_type": "Xã Thanh Nguyên",
+        "path": "Thanh Nguyên, Thanh Liêm, Hà Nam",
+        "path_with_type": "Xã Thanh Nguyên, Huyện Thanh Liêm, Tỉnh Hà Nam",
+        "code": "13495",
+        "parent_code": "351"
+    },
+    "13498": {
+        "name": "Thanh Hải",
+        "type": "xa",
+        "slug": "thanh-hai",
+        "name_with_type": "Xã Thanh Hải",
+        "path": "Thanh Hải, Thanh Liêm, Hà Nam",
+        "path_with_type": "Xã Thanh Hải, Huyện Thanh Liêm, Tỉnh Hà Nam",
+        "code": "13498",
+        "parent_code": "351"
+    }
+}

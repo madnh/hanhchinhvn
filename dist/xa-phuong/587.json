@@ -1,0 +1,92 @@
+{
+    "22870": {
+        "name": "Phước Dân",
+        "type": "thi-tran",
+        "slug": "phuoc-dan",
+        "name_with_type": "Thị trấn Phước Dân",
+        "path": "Phước Dân, Ninh Phước, Ninh Thuận",
+        "path_with_type": "Thị trấn Phước Dân, Huyện Ninh Phước, Tỉnh Ninh Thuận",
+        "code": "22870",
+        "parent_code": "587"
+    },
+    "22873": {
+        "name": "Phước Sơn",
+        "type": "xa",
+        "slug": "phuoc-son",
+        "name_with_type": "Xã Phước Sơn",
+        "path": "Phước Sơn, Ninh Phước, Ninh Thuận",
+        "path_with_type": "Xã Phước Sơn, Huyện Ninh Phước, Tỉnh Ninh Thuận",
+        "code": "22873",
+        "parent_code": "587"
+    },
+    "22876": {
+        "name": "Phước Thái",
+        "type": "xa",
+        "slug": "phuoc-thai",
+        "name_with_type": "Xã Phước Thái",
+        "path": "Phước Thái, Ninh Phước, Ninh Thuận",
+        "path_with_type": "Xã Phước Thái, Huyện Ninh Phước, Tỉnh Ninh Thuận",
+        "code": "22876",
+        "parent_code": "587"
+    },
+    "22879": {
+        "name": "Phước Hậu",
+        "type": "xa",
+        "slug": "phuoc-hau",
+        "name_with_type": "Xã Phước Hậu",
+        "path": "Phước Hậu, Ninh Phước, Ninh Thuận",
+        "path_with_type": "Xã Phước Hậu, Huyện Ninh Phước, Tỉnh Ninh Thuận",
+        "code": "22879",
+        "parent_code": "587"
+    },
+    "22882": {
+        "name": "Phước Thuận",
+        "type": "xa",
+        "slug": "phuoc-thuan",
+        "name_with_type": "Xã Phước Thuận",
+        "path": "Phước Thuận, Ninh Phước, Ninh Thuận",
+        "path_with_type": "Xã Phước Thuận, Huyện Ninh Phước, Tỉnh Ninh Thuận",
+        "code": "22882",
+        "parent_code": "587"
+    },
+    "22888": {
+        "name": "An Hải",
+        "type": "xa",
+        "slug": "an-hai",
+        "name_with_type": "Xã An Hải",
+        "path": "An Hải, Ninh Phước, Ninh Thuận",
+        "path_with_type": "Xã An Hải, Huyện Ninh Phước, Tỉnh Ninh Thuận",
+        "code": "22888",
+        "parent_code": "587"
+    },
+    "22891": {
+        "name": "Phước Hữu",
+        "type": "xa",
+        "slug": "phuoc-huu",
+        "name_with_type": "Xã Phước Hữu",
+        "path": "Phước Hữu, Ninh Phước, Ninh Thuận",
+        "path_with_type": "Xã Phước Hữu, Huyện Ninh Phước, Tỉnh Ninh Thuận",
+        "code": "22891",
+        "parent_code": "587"
+    },
+    "22894": {
+        "name": "Phước Hải",
+        "type": "xa",
+        "slug": "phuoc-hai",
+        "name_with_type": "Xã Phước Hải",
+        "path": "Phước Hải, Ninh Phước, Ninh Thuận",
+        "path_with_type": "Xã Phước Hải, Huyện Ninh Phước, Tỉnh Ninh Thuận",
+        "code": "22894",
+        "parent_code": "587"
+    },
+    "22912": {
+        "name": "Phước Vinh",
+        "type": "xa",
+        "slug": "phuoc-vinh",
+        "name_with_type": "Xã Phước Vinh",
+        "path": "Phước Vinh, Ninh Phước, Ninh Thuận",
+        "path_with_type": "Xã Phước Vinh, Huyện Ninh Phước, Tỉnh Ninh Thuận",
+        "code": "22912",
+        "parent_code": "587"
+    }
+}

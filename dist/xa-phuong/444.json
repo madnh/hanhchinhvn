@@ -1,0 +1,222 @@
+{
+    "18496": {
+        "name": "Hương Khê",
+        "type": "thi-tran",
+        "slug": "huong-khe",
+        "name_with_type": "Thị trấn Hương Khê",
+        "path": "Hương Khê, Hương Khê, Hà Tĩnh",
+        "path_with_type": "Thị trấn Hương Khê, Huyện Hương Khê, Tỉnh Hà Tĩnh",
+        "code": "18496",
+        "parent_code": "444"
+    },
+    "18499": {
+        "name": "Phương Mỹ",
+        "type": "xa",
+        "slug": "phuong-my",
+        "name_with_type": "Xã Phương Mỹ",
+        "path": "Phương Mỹ, Hương Khê, Hà Tĩnh",
+        "path_with_type": "Xã Phương Mỹ, Huyện Hương Khê, Tỉnh Hà Tĩnh",
+        "code": "18499",
+        "parent_code": "444"
+    },
+    "18502": {
+        "name": "Hà Linh",
+        "type": "xa",
+        "slug": "ha-linh",
+        "name_with_type": "Xã Hà Linh",
+        "path": "Hà Linh, Hương Khê, Hà Tĩnh",
+        "path_with_type": "Xã Hà Linh, Huyện Hương Khê, Tỉnh Hà Tĩnh",
+        "code": "18502",
+        "parent_code": "444"
+    },
+    "18505": {
+        "name": "Hương Thủy",
+        "type": "xa",
+        "slug": "huong-thuy",
+        "name_with_type": "Xã Hương Thủy",
+        "path": "Hương Thủy, Hương Khê, Hà Tĩnh",
+        "path_with_type": "Xã Hương Thủy, Huyện Hương Khê, Tỉnh Hà Tĩnh",
+        "code": "18505",
+        "parent_code": "444"
+    },
+    "18508": {
+        "name": "Hòa Hải",
+        "type": "xa",
+        "slug": "hoa-hai",
+        "name_with_type": "Xã Hòa Hải",
+        "path": "Hòa Hải, Hương Khê, Hà Tĩnh",
+        "path_with_type": "Xã Hòa Hải, Huyện Hương Khê, Tỉnh Hà Tĩnh",
+        "code": "18508",
+        "parent_code": "444"
+    },
+    "18511": {
+        "name": "Phương Điền",
+        "type": "xa",
+        "slug": "phuong-dien",
+        "name_with_type": "Xã Phương Điền",
+        "path": "Phương Điền, Hương Khê, Hà Tĩnh",
+        "path_with_type": "Xã Phương Điền, Huyện Hương Khê, Tỉnh Hà Tĩnh",
+        "code": "18511",
+        "parent_code": "444"
+    },
+    "18514": {
+        "name": "Phúc Đồng",
+        "type": "xa",
+        "slug": "phuc-dong",
+        "name_with_type": "Xã Phúc Đồng",
+        "path": "Phúc Đồng, Hương Khê, Hà Tĩnh",
+        "path_with_type": "Xã Phúc Đồng, Huyện Hương Khê, Tỉnh Hà Tĩnh",
+        "code": "18514",
+        "parent_code": "444"
+    },
+    "18517": {
+        "name": "Hương Giang",
+        "type": "xa",
+        "slug": "huong-giang",
+        "name_with_type": "Xã Hương Giang",
+        "path": "Hương Giang, Hương Khê, Hà Tĩnh",
+        "path_with_type": "Xã Hương Giang, Huyện Hương Khê, Tỉnh Hà Tĩnh",
+        "code": "18517",
+        "parent_code": "444"
+    },
+    "18520": {
+        "name": "Lộc Yên",
+        "type": "xa",
+        "slug": "loc-yen",
+        "name_with_type": "Xã Lộc Yên",
+        "path": "Lộc Yên, Hương Khê, Hà Tĩnh",
+        "path_with_type": "Xã Lộc Yên, Huyện Hương Khê, Tỉnh Hà Tĩnh",
+        "code": "18520",
+        "parent_code": "444"
+    },
+    "18523": {
+        "name": "Hương Bình",
+        "type": "xa",
+        "slug": "huong-binh",
+        "name_with_type": "Xã Hương Bình",
+        "path": "Hương Bình, Hương Khê, Hà Tĩnh",
+        "path_with_type": "Xã Hương Bình, Huyện Hương Khê, Tỉnh Hà Tĩnh",
+        "code": "18523",
+        "parent_code": "444"
+    },
+    "18526": {
+        "name": "Hương Long",
+        "type": "xa",
+        "slug": "huong-long",
+        "name_with_type": "Xã Hương Long",
+        "path": "Hương Long, Hương Khê, Hà Tĩnh",
+        "path_with_type": "Xã Hương Long, Huyện Hương Khê, Tỉnh Hà Tĩnh",
+        "code": "18526",
+        "parent_code": "444"
+    },
+    "18529": {
+        "name": "Phú Gia",
+        "type": "xa",
+        "slug": "phu-gia",
+        "name_with_type": "Xã Phú Gia",
+        "path": "Phú Gia, Hương Khê, Hà Tĩnh",
+        "path_with_type": "Xã Phú Gia, Huyện Hương Khê, Tỉnh Hà Tĩnh",
+        "code": "18529",
+        "parent_code": "444"
+    },
+    "18532": {
+        "name": "Gia Phố",
+        "type": "xa",
+        "slug": "gia-pho",
+        "name_with_type": "Xã Gia Phố",
+        "path": "Gia Phố, Hương Khê, Hà Tĩnh",
+        "path_with_type": "Xã Gia Phố, Huyện Hương Khê, Tỉnh Hà Tĩnh",
+        "code": "18532",
+        "parent_code": "444"
+    },
+    "18535": {
+        "name": "Phú Phong",
+        "type": "xa",
+        "slug": "phu-phong",
+        "name_with_type": "Xã Phú Phong",
+        "path": "Phú Phong, Hương Khê, Hà Tĩnh",
+        "path_with_type": "Xã Phú Phong, Huyện Hương Khê, Tỉnh Hà Tĩnh",
+        "code": "18535",
+        "parent_code": "444"
+    },
+    "18538": {
+        "name": "Hương Đô",
+        "type": "xa",
+        "slug": "huong-do",
+        "name_with_type": "Xã Hương Đô",
+        "path": "Hương Đô, Hương Khê, Hà Tĩnh",
+        "path_with_type": "Xã Hương Đô, Huyện Hương Khê, Tỉnh Hà Tĩnh",
+        "code": "18538",
+        "parent_code": "444"
+    },
+    "18541": {
+        "name": "Hương Vĩnh",
+        "type": "xa",
+        "slug": "huong-vinh",
+        "name_with_type": "Xã Hương Vĩnh",
+        "path": "Hương Vĩnh, Hương Khê, Hà Tĩnh",
+        "path_with_type": "Xã Hương Vĩnh, Huyện Hương Khê, Tỉnh Hà Tĩnh",
+        "code": "18541",
+        "parent_code": "444"
+    },
+    "18544": {
+        "name": "Hương Xuân",
+        "type": "xa",
+        "slug": "huong-xuan",
+        "name_with_type": "Xã Hương Xuân",
+        "path": "Hương Xuân, Hương Khê, Hà Tĩnh",
+        "path_with_type": "Xã Hương Xuân, Huyện Hương Khê, Tỉnh Hà Tĩnh",
+        "code": "18544",
+        "parent_code": "444"
+    },
+    "18547": {
+        "name": "Phúc Trạch",
+        "type": "xa",
+        "slug": "phuc-trach",
+        "name_with_type": "Xã Phúc Trạch",
+        "path": "Phúc Trạch, Hương Khê, Hà Tĩnh",
+        "path_with_type": "Xã Phúc Trạch, Huyện Hương Khê, Tỉnh Hà Tĩnh",
+        "code": "18547",
+        "parent_code": "444"
+    },
+    "18550": {
+        "name": "Hương Trà",
+        "type": "xa",
+        "slug": "huong-tra",
+        "name_with_type": "Xã Hương Trà",
+        "path": "Hương Trà, Hương Khê, Hà Tĩnh",
+        "path_with_type": "Xã Hương Trà, Huyện Hương Khê, Tỉnh Hà Tĩnh",
+        "code": "18550",
+        "parent_code": "444"
+    },
+    "18553": {
+        "name": "Hương Trạch",
+        "type": "xa",
+        "slug": "huong-trach",
+        "name_with_type": "Xã Hương Trạch",
+        "path": "Hương Trạch, Hương Khê, Hà Tĩnh",
+        "path_with_type": "Xã Hương Trạch, Huyện Hương Khê, Tỉnh Hà Tĩnh",
+        "code": "18553",
+        "parent_code": "444"
+    },
+    "18556": {
+        "name": "Hương Lâm",
+        "type": "xa",
+        "slug": "huong-lam",
+        "name_with_type": "Xã Hương Lâm",
+        "path": "Hương Lâm, Hương Khê, Hà Tĩnh",
+        "path_with_type": "Xã Hương Lâm, Huyện Hương Khê, Tỉnh Hà Tĩnh",
+        "code": "18556",
+        "parent_code": "444"
+    },
+    "18559": {
+        "name": "Hương Liên",
+        "type": "xa",
+        "slug": "huong-lien",
+        "name_with_type": "Xã Hương Liên",
+        "path": "Hương Liên, Hương Khê, Hà Tĩnh",
+        "path_with_type": "Xã Hương Liên, Huyện Hương Khê, Tỉnh Hà Tĩnh",
+        "code": "18559",
+        "parent_code": "444"
+    }
+}

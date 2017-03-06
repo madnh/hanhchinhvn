@@ -1,0 +1,132 @@
+{
+    "26329": {
+        "name": "Sông Nhạn",
+        "type": "xa",
+        "slug": "song-nhan",
+        "name_with_type": "Xã Sông Nhạn",
+        "path": "Sông Nhạn, Cẩm Mỹ, Đồng Nai",
+        "path_with_type": "Xã Sông Nhạn, Huyện Cẩm Mỹ, Tỉnh Đồng Nai",
+        "code": "26329",
+        "parent_code": "739"
+    },
+    "26332": {
+        "name": "Xuân Quế",
+        "type": "xa",
+        "slug": "xuan-que",
+        "name_with_type": "Xã Xuân Quế",
+        "path": "Xuân Quế, Cẩm Mỹ, Đồng Nai",
+        "path_with_type": "Xã Xuân Quế, Huyện Cẩm Mỹ, Tỉnh Đồng Nai",
+        "code": "26332",
+        "parent_code": "739"
+    },
+    "26335": {
+        "name": "Nhân Nghĩa",
+        "type": "xa",
+        "slug": "nhan-nghia",
+        "name_with_type": "Xã Nhân Nghĩa",
+        "path": "Nhân Nghĩa, Cẩm Mỹ, Đồng Nai",
+        "path_with_type": "Xã Nhân Nghĩa, Huyện Cẩm Mỹ, Tỉnh Đồng Nai",
+        "code": "26335",
+        "parent_code": "739"
+    },
+    "26338": {
+        "name": "Xuân Đường",
+        "type": "xa",
+        "slug": "xuan-duong",
+        "name_with_type": "Xã Xuân Đường",
+        "path": "Xuân Đường, Cẩm Mỹ, Đồng Nai",
+        "path_with_type": "Xã Xuân Đường, Huyện Cẩm Mỹ, Tỉnh Đồng Nai",
+        "code": "26338",
+        "parent_code": "739"
+    },
+    "26341": {
+        "name": "Long Giao",
+        "type": "xa",
+        "slug": "long-giao",
+        "name_with_type": "Xã Long Giao",
+        "path": "Long Giao, Cẩm Mỹ, Đồng Nai",
+        "path_with_type": "Xã Long Giao, Huyện Cẩm Mỹ, Tỉnh Đồng Nai",
+        "code": "26341",
+        "parent_code": "739"
+    },
+    "26344": {
+        "name": "Xuân Mỹ",
+        "type": "xa",
+        "slug": "xuan-my",
+        "name_with_type": "Xã Xuân Mỹ",
+        "path": "Xuân Mỹ, Cẩm Mỹ, Đồng Nai",
+        "path_with_type": "Xã Xuân Mỹ, Huyện Cẩm Mỹ, Tỉnh Đồng Nai",
+        "code": "26344",
+        "parent_code": "739"
+    },
+    "26347": {
+        "name": "Thừa Đức",
+        "type": "xa",
+        "slug": "thua-duc",
+        "name_with_type": "Xã Thừa Đức",
+        "path": "Thừa Đức, Cẩm Mỹ, Đồng Nai",
+        "path_with_type": "Xã Thừa Đức, Huyện Cẩm Mỹ, Tỉnh Đồng Nai",
+        "code": "26347",
+        "parent_code": "739"
+    },
+    "26350": {
+        "name": "Bảo Bình",
+        "type": "xa",
+        "slug": "bao-binh",
+        "name_with_type": "Xã Bảo Bình",
+        "path": "Bảo Bình, Cẩm Mỹ, Đồng Nai",
+        "path_with_type": "Xã Bảo Bình, Huyện Cẩm Mỹ, Tỉnh Đồng Nai",
+        "code": "26350",
+        "parent_code": "739"
+    },
+    "26353": {
+        "name": "Xuân Bảo",
+        "type": "xa",
+        "slug": "xuan-bao",
+        "name_with_type": "Xã Xuân Bảo",
+        "path": "Xuân Bảo, Cẩm Mỹ, Đồng Nai",
+        "path_with_type": "Xã Xuân Bảo, Huyện Cẩm Mỹ, Tỉnh Đồng Nai",
+        "code": "26353",
+        "parent_code": "739"
+    },
+    "26356": {
+        "name": "Xuân Tây",
+        "type": "xa",
+        "slug": "xuan-tay",
+        "name_with_type": "Xã Xuân Tây",
+        "path": "Xuân Tây, Cẩm Mỹ, Đồng Nai",
+        "path_with_type": "Xã Xuân Tây, Huyện Cẩm Mỹ, Tỉnh Đồng Nai",
+        "code": "26356",
+        "parent_code": "739"
+    },
+    "26359": {
+        "name": "Xuân Đông",
+        "type": "xa",
+        "slug": "xuan-dong",
+        "name_with_type": "Xã Xuân Đông",
+        "path": "Xuân Đông, Cẩm Mỹ, Đồng Nai",
+        "path_with_type": "Xã Xuân Đông, Huyện Cẩm Mỹ, Tỉnh Đồng Nai",
+        "code": "26359",
+        "parent_code": "739"
+    },
+    "26362": {
+        "name": "Sông Ray",
+        "type": "xa",
+        "slug": "song-ray",
+        "name_with_type": "Xã Sông Ray",
+        "path": "Sông Ray, Cẩm Mỹ, Đồng Nai",
+        "path_with_type": "Xã Sông Ray, Huyện Cẩm Mỹ, Tỉnh Đồng Nai",
+        "code": "26362",
+        "parent_code": "739"
+    },
+    "26365": {
+        "name": "Lâm San",
+        "type": "xa",
+        "slug": "lam-san",
+        "name_with_type": "Xã Lâm San",
+        "path": "Lâm San, Cẩm Mỹ, Đồng Nai",
+        "path_with_type": "Xã Lâm San, Huyện Cẩm Mỹ, Tỉnh Đồng Nai",
+        "code": "26365",
+        "parent_code": "739"
+    }
+}

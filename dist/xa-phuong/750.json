@@ -1,0 +1,162 @@
+{
+    "26574": {
+        "name": "Bàu Chinh",
+        "type": "xa",
+        "slug": "bau-chinh",
+        "name_with_type": "Xã Bàu Chinh",
+        "path": "Bàu Chinh, Châu Đức, Bà Rịa - Vũng Tàu",
+        "path_with_type": "Xã Bàu Chinh, Huyện Châu Đức, Tỉnh Bà Rịa - Vũng Tàu",
+        "code": "26574",
+        "parent_code": "750"
+    },
+    "26575": {
+        "name": "Ngãi Giao",
+        "type": "thi-tran",
+        "slug": "ngai-giao",
+        "name_with_type": "Thị trấn Ngãi Giao",
+        "path": "Ngãi Giao, Châu Đức, Bà Rịa - Vũng Tàu",
+        "path_with_type": "Thị trấn Ngãi Giao, Huyện Châu Đức, Tỉnh Bà Rịa - Vũng Tàu",
+        "code": "26575",
+        "parent_code": "750"
+    },
+    "26578": {
+        "name": "Bình Ba",
+        "type": "xa",
+        "slug": "binh-ba",
+        "name_with_type": "Xã Bình Ba",
+        "path": "Bình Ba, Châu Đức, Bà Rịa - Vũng Tàu",
+        "path_with_type": "Xã Bình Ba, Huyện Châu Đức, Tỉnh Bà Rịa - Vũng Tàu",
+        "code": "26578",
+        "parent_code": "750"
+    },
+    "26581": {
+        "name": "Suối Nghệ",
+        "type": "xa",
+        "slug": "suoi-nghe",
+        "name_with_type": "Xã Suối Nghệ",
+        "path": "Suối Nghệ, Châu Đức, Bà Rịa - Vũng Tàu",
+        "path_with_type": "Xã Suối Nghệ, Huyện Châu Đức, Tỉnh Bà Rịa - Vũng Tàu",
+        "code": "26581",
+        "parent_code": "750"
+    },
+    "26584": {
+        "name": "Xuân Sơn",
+        "type": "xa",
+        "slug": "xuan-son",
+        "name_with_type": "Xã Xuân Sơn",
+        "path": "Xuân Sơn, Châu Đức, Bà Rịa - Vũng Tàu",
+        "path_with_type": "Xã Xuân Sơn, Huyện Châu Đức, Tỉnh Bà Rịa - Vũng Tàu",
+        "code": "26584",
+        "parent_code": "750"
+    },
+    "26587": {
+        "name": "Sơn Bình",
+        "type": "xa",
+        "slug": "son-binh",
+        "name_with_type": "Xã Sơn Bình",
+        "path": "Sơn Bình, Châu Đức, Bà Rịa - Vũng Tàu",
+        "path_with_type": "Xã Sơn Bình, Huyện Châu Đức, Tỉnh Bà Rịa - Vũng Tàu",
+        "code": "26587",
+        "parent_code": "750"
+    },
+    "26590": {
+        "name": "Bình Giã",
+        "type": "xa",
+        "slug": "binh-gia",
+        "name_with_type": "Xã Bình Giã",
+        "path": "Bình Giã, Châu Đức, Bà Rịa - Vũng Tàu",
+        "path_with_type": "Xã Bình Giã, Huyện Châu Đức, Tỉnh Bà Rịa - Vũng Tàu",
+        "code": "26590",
+        "parent_code": "750"
+    },
+    "26593": {
+        "name": "Bình Trung",
+        "type": "xa",
+        "slug": "binh-trung",
+        "name_with_type": "Xã Bình Trung",
+        "path": "Bình Trung, Châu Đức, Bà Rịa - Vũng Tàu",
+        "path_with_type": "Xã Bình Trung, Huyện Châu Đức, Tỉnh Bà Rịa - Vũng Tàu",
+        "code": "26593",
+        "parent_code": "750"
+    },
+    "26596": {
+        "name": "Xà Bang",
+        "type": "xa",
+        "slug": "xa-bang",
+        "name_with_type": "Xã Xà Bang",
+        "path": "Xà Bang, Châu Đức, Bà Rịa - Vũng Tàu",
+        "path_with_type": "Xã Xà Bang, Huyện Châu Đức, Tỉnh Bà Rịa - Vũng Tàu",
+        "code": "26596",
+        "parent_code": "750"
+    },
+    "26599": {
+        "name": "Cù Bị",
+        "type": "xa",
+        "slug": "cu-bi",
+        "name_with_type": "Xã Cù Bị",
+        "path": "Cù Bị, Châu Đức, Bà Rịa - Vũng Tàu",
+        "path_with_type": "Xã Cù Bị, Huyện Châu Đức, Tỉnh Bà Rịa - Vũng Tàu",
+        "code": "26599",
+        "parent_code": "750"
+    },
+    "26602": {
+        "name": "Láng Lớn",
+        "type": "xa",
+        "slug": "lang-lon",
+        "name_with_type": "Xã Láng Lớn",
+        "path": "Láng Lớn, Châu Đức, Bà Rịa - Vũng Tàu",
+        "path_with_type": "Xã Láng Lớn, Huyện Châu Đức, Tỉnh Bà Rịa - Vũng Tàu",
+        "code": "26602",
+        "parent_code": "750"
+    },
+    "26605": {
+        "name": "Quảng Thành",
+        "type": "xa",
+        "slug": "quang-thanh",
+        "name_with_type": "Xã Quảng Thành",
+        "path": "Quảng Thành, Châu Đức, Bà Rịa - Vũng Tàu",
+        "path_with_type": "Xã Quảng Thành, Huyện Châu Đức, Tỉnh Bà Rịa - Vũng Tàu",
+        "code": "26605",
+        "parent_code": "750"
+    },
+    "26608": {
+        "name": "Kim Long",
+        "type": "xa",
+        "slug": "kim-long",
+        "name_with_type": "Xã Kim Long",
+        "path": "Kim Long, Châu Đức, Bà Rịa - Vũng Tàu",
+        "path_with_type": "Xã Kim Long, Huyện Châu Đức, Tỉnh Bà Rịa - Vũng Tàu",
+        "code": "26608",
+        "parent_code": "750"
+    },
+    "26611": {
+        "name": "Suối Rao",
+        "type": "xa",
+        "slug": "suoi-rao",
+        "name_with_type": "Xã Suối Rao",
+        "path": "Suối Rao, Châu Đức, Bà Rịa - Vũng Tàu",
+        "path_with_type": "Xã Suối Rao, Huyện Châu Đức, Tỉnh Bà Rịa - Vũng Tàu",
+        "code": "26611",
+        "parent_code": "750"
+    },
+    "26614": {
+        "name": "Đá Bạc",
+        "type": "xa",
+        "slug": "da-bac",
+        "name_with_type": "Xã Đá Bạc",
+        "path": "Đá Bạc, Châu Đức, Bà Rịa - Vũng Tàu",
+        "path_with_type": "Xã Đá Bạc, Huyện Châu Đức, Tỉnh Bà Rịa - Vũng Tàu",
+        "code": "26614",
+        "parent_code": "750"
+    },
+    "26617": {
+        "name": "Nghĩa Thành",
+        "type": "xa",
+        "slug": "nghia-thanh",
+        "name_with_type": "Xã Nghĩa Thành",
+        "path": "Nghĩa Thành, Châu Đức, Bà Rịa - Vũng Tàu",
+        "path_with_type": "Xã Nghĩa Thành, Huyện Châu Đức, Tỉnh Bà Rịa - Vũng Tàu",
+        "code": "26617",
+        "parent_code": "750"
+    }
+}

@@ -1,0 +1,142 @@
+{
+    "03390": {
+        "name": "Tam Đường",
+        "type": "thi-tran",
+        "slug": "tam-duong",
+        "name_with_type": "Thị trấn Tam Đường",
+        "path": "Tam Đường, Tam Đường, Lai Châu",
+        "path_with_type": "Thị trấn Tam Đường, Huyện Tam Đường, Tỉnh Lai Châu",
+        "code": "03390",
+        "parent_code": "106"
+    },
+    "03394": {
+        "name": "Thèn Sin",
+        "type": "xa",
+        "slug": "then-sin",
+        "name_with_type": "Xã Thèn Sin",
+        "path": "Thèn Sin, Tam Đường, Lai Châu",
+        "path_with_type": "Xã Thèn Sin, Huyện Tam Đường, Tỉnh Lai Châu",
+        "code": "03394",
+        "parent_code": "106"
+    },
+    "03397": {
+        "name": "Sùng Phài",
+        "type": "xa",
+        "slug": "sung-phai",
+        "name_with_type": "Xã Sùng Phài",
+        "path": "Sùng Phài, Tam Đường, Lai Châu",
+        "path_with_type": "Xã Sùng Phài, Huyện Tam Đường, Tỉnh Lai Châu",
+        "code": "03397",
+        "parent_code": "106"
+    },
+    "03400": {
+        "name": "Tả Lèng",
+        "type": "xa",
+        "slug": "ta-leng",
+        "name_with_type": "Xã Tả Lèng",
+        "path": "Tả Lèng, Tam Đường, Lai Châu",
+        "path_with_type": "Xã Tả Lèng, Huyện Tam Đường, Tỉnh Lai Châu",
+        "code": "03400",
+        "parent_code": "106"
+    },
+    "03405": {
+        "name": "Giang Ma",
+        "type": "xa",
+        "slug": "giang-ma",
+        "name_with_type": "Xã Giang Ma",
+        "path": "Giang Ma, Tam Đường, Lai Châu",
+        "path_with_type": "Xã Giang Ma, Huyện Tam Đường, Tỉnh Lai Châu",
+        "code": "03405",
+        "parent_code": "106"
+    },
+    "03406": {
+        "name": "Hồ Thầu",
+        "type": "xa",
+        "slug": "ho-thau",
+        "name_with_type": "Xã Hồ Thầu",
+        "path": "Hồ Thầu, Tam Đường, Lai Châu",
+        "path_with_type": "Xã Hồ Thầu, Huyện Tam Đường, Tỉnh Lai Châu",
+        "code": "03406",
+        "parent_code": "106"
+    },
+    "03412": {
+        "name": "Bình Lư",
+        "type": "xa",
+        "slug": "binh-lu",
+        "name_with_type": "Xã Bình Lư",
+        "path": "Bình Lư, Tam Đường, Lai Châu",
+        "path_with_type": "Xã Bình Lư, Huyện Tam Đường, Tỉnh Lai Châu",
+        "code": "03412",
+        "parent_code": "106"
+    },
+    "03413": {
+        "name": "Sơn Bình",
+        "type": "xa",
+        "slug": "son-binh",
+        "name_with_type": "Xã Sơn Bình",
+        "path": "Sơn Bình, Tam Đường, Lai Châu",
+        "path_with_type": "Xã Sơn Bình, Huyện Tam Đường, Tỉnh Lai Châu",
+        "code": "03413",
+        "parent_code": "106"
+    },
+    "03415": {
+        "name": "Nùng Nàng",
+        "type": "xa",
+        "slug": "nung-nang",
+        "name_with_type": "Xã Nùng Nàng",
+        "path": "Nùng Nàng, Tam Đường, Lai Châu",
+        "path_with_type": "Xã Nùng Nàng, Huyện Tam Đường, Tỉnh Lai Châu",
+        "code": "03415",
+        "parent_code": "106"
+    },
+    "03418": {
+        "name": "Bản Giang",
+        "type": "xa",
+        "slug": "ban-giang",
+        "name_with_type": "Xã Bản Giang",
+        "path": "Bản Giang, Tam Đường, Lai Châu",
+        "path_with_type": "Xã Bản Giang, Huyện Tam Đường, Tỉnh Lai Châu",
+        "code": "03418",
+        "parent_code": "106"
+    },
+    "03421": {
+        "name": "Bản Hon",
+        "type": "xa",
+        "slug": "ban-hon",
+        "name_with_type": "Xã Bản Hon",
+        "path": "Bản Hon, Tam Đường, Lai Châu",
+        "path_with_type": "Xã Bản Hon, Huyện Tam Đường, Tỉnh Lai Châu",
+        "code": "03421",
+        "parent_code": "106"
+    },
+    "03424": {
+        "name": "Bản Bo",
+        "type": "xa",
+        "slug": "ban-bo",
+        "name_with_type": "Xã Bản Bo",
+        "path": "Bản Bo, Tam Đường, Lai Châu",
+        "path_with_type": "Xã Bản Bo, Huyện Tam Đường, Tỉnh Lai Châu",
+        "code": "03424",
+        "parent_code": "106"
+    },
+    "03427": {
+        "name": "Nà Tăm",
+        "type": "xa",
+        "slug": "na-tam",
+        "name_with_type": "Xã Nà Tăm",
+        "path": "Nà Tăm, Tam Đường, Lai Châu",
+        "path_with_type": "Xã Nà Tăm, Huyện Tam Đường, Tỉnh Lai Châu",
+        "code": "03427",
+        "parent_code": "106"
+    },
+    "03430": {
+        "name": "Khun Há",
+        "type": "xa",
+        "slug": "khun-ha",
+        "name_with_type": "Xã Khun Há",
+        "path": "Khun Há, Tam Đường, Lai Châu",
+        "path_with_type": "Xã Khun Há, Huyện Tam Đường, Tỉnh Lai Châu",
+        "code": "03430",
+        "parent_code": "106"
+    }
+}

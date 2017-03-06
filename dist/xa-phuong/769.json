@@ -1,0 +1,112 @@
+{
+    "27088": {
+        "name": "Thảo Điền",
+        "type": "phuong",
+        "slug": "thao-dien",
+        "name_with_type": "Phường Thảo Điền",
+        "path": "Thảo Điền, 2, Hồ Chí Minh",
+        "path_with_type": "Phường Thảo Điền, Quận 2, Thành phố Hồ Chí Minh",
+        "code": "27088",
+        "parent_code": "769"
+    },
+    "27091": {
+        "name": "An Phú",
+        "type": "phuong",
+        "slug": "an-phu",
+        "name_with_type": "Phường An Phú",
+        "path": "An Phú, 2, Hồ Chí Minh",
+        "path_with_type": "Phường An Phú, Quận 2, Thành phố Hồ Chí Minh",
+        "code": "27091",
+        "parent_code": "769"
+    },
+    "27094": {
+        "name": "Bình An",
+        "type": "phuong",
+        "slug": "binh-an",
+        "name_with_type": "Phường Bình An",
+        "path": "Bình An, 2, Hồ Chí Minh",
+        "path_with_type": "Phường Bình An, Quận 2, Thành phố Hồ Chí Minh",
+        "code": "27094",
+        "parent_code": "769"
+    },
+    "27097": {
+        "name": "Bình Trưng Đông",
+        "type": "phuong",
+        "slug": "binh-trung-dong",
+        "name_with_type": "Phường Bình Trưng Đông",
+        "path": "Bình Trưng Đông, 2, Hồ Chí Minh",
+        "path_with_type": "Phường Bình Trưng Đông, Quận 2, Thành phố Hồ Chí Minh",
+        "code": "27097",
+        "parent_code": "769"
+    },
+    "27100": {
+        "name": "Bình Trưng Tây",
+        "type": "phuong",
+        "slug": "binh-trung-tay",
+        "name_with_type": "Phường Bình Trưng Tây",
+        "path": "Bình Trưng Tây, 2, Hồ Chí Minh",
+        "path_with_type": "Phường Bình Trưng Tây, Quận 2, Thành phố Hồ Chí Minh",
+        "code": "27100",
+        "parent_code": "769"
+    },
+    "27103": {
+        "name": "Bình Khánh",
+        "type": "phuong",
+        "slug": "binh-khanh",
+        "name_with_type": "Phường Bình Khánh",
+        "path": "Bình Khánh, 2, Hồ Chí Minh",
+        "path_with_type": "Phường Bình Khánh, Quận 2, Thành phố Hồ Chí Minh",
+        "code": "27103",
+        "parent_code": "769"
+    },
+    "27106": {
+        "name": "An Khánh",
+        "type": "phuong",
+        "slug": "an-khanh",
+        "name_with_type": "Phường An Khánh",
+        "path": "An Khánh, 2, Hồ Chí Minh",
+        "path_with_type": "Phường An Khánh, Quận 2, Thành phố Hồ Chí Minh",
+        "code": "27106",
+        "parent_code": "769"
+    },
+    "27109": {
+        "name": "Cát Lái",
+        "type": "phuong",
+        "slug": "cat-lai",
+        "name_with_type": "Phường Cát Lái",
+        "path": "Cát Lái, 2, Hồ Chí Minh",
+        "path_with_type": "Phường Cát Lái, Quận 2, Thành phố Hồ Chí Minh",
+        "code": "27109",
+        "parent_code": "769"
+    },
+    "27112": {
+        "name": "Thạnh Mỹ Lợi",
+        "type": "phuong",
+        "slug": "thanh-my-loi",
+        "name_with_type": "Phường Thạnh Mỹ Lợi",
+        "path": "Thạnh Mỹ Lợi, 2, Hồ Chí Minh",
+        "path_with_type": "Phường Thạnh Mỹ Lợi, Quận 2, Thành phố Hồ Chí Minh",
+        "code": "27112",
+        "parent_code": "769"
+    },
+    "27115": {
+        "name": "An Lợi Đông",
+        "type": "phuong",
+        "slug": "an-loi-dong",
+        "name_with_type": "Phường An Lợi Đông",
+        "path": "An Lợi Đông, 2, Hồ Chí Minh",
+        "path_with_type": "Phường An Lợi Đông, Quận 2, Thành phố Hồ Chí Minh",
+        "code": "27115",
+        "parent_code": "769"
+    },
+    "27118": {
+        "name": "Thủ Thiêm",
+        "type": "phuong",
+        "slug": "thu-thiem",
+        "name_with_type": "Phường Thủ Thiêm",
+        "path": "Thủ Thiêm, 2, Hồ Chí Minh",
+        "path_with_type": "Phường Thủ Thiêm, Quận 2, Thành phố Hồ Chí Minh",
+        "code": "27118",
+        "parent_code": "769"
+    }
+}

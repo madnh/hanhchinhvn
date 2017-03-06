@@ -1,0 +1,92 @@
+{
+    "842": {
+        "name": "Trà Vinh",
+        "type": "thanh-pho",
+        "slug": "tra-vinh",
+        "name_with_type": "Thành phố Trà Vinh",
+        "path": "Trà Vinh, Trà Vinh",
+        "path_with_type": "Thành phố Trà Vinh, Tỉnh Trà Vinh",
+        "code": "842",
+        "parent_code": "84"
+    },
+    "844": {
+        "name": "Càng Long",
+        "type": "huyen",
+        "slug": "cang-long",
+        "name_with_type": "Huyện Càng Long",
+        "path": "Càng Long, Trà Vinh",
+        "path_with_type": "Huyện Càng Long, Tỉnh Trà Vinh",
+        "code": "844",
+        "parent_code": "84"
+    },
+    "845": {
+        "name": "Cầu Kè",
+        "type": "huyen",
+        "slug": "cau-ke",
+        "name_with_type": "Huyện Cầu Kè",
+        "path": "Cầu Kè, Trà Vinh",
+        "path_with_type": "Huyện Cầu Kè, Tỉnh Trà Vinh",
+        "code": "845",
+        "parent_code": "84"
+    },
+    "846": {
+        "name": "Tiểu Cần",
+        "type": "huyen",
+        "slug": "tieu-can",
+        "name_with_type": "Huyện Tiểu Cần",
+        "path": "Tiểu Cần, Trà Vinh",
+        "path_with_type": "Huyện Tiểu Cần, Tỉnh Trà Vinh",
+        "code": "846",
+        "parent_code": "84"
+    },
+    "847": {
+        "name": "Châu Thành",
+        "type": "huyen",
+        "slug": "chau-thanh",
+        "name_with_type": "Huyện Châu Thành",
+        "path": "Châu Thành, Trà Vinh",
+        "path_with_type": "Huyện Châu Thành, Tỉnh Trà Vinh",
+        "code": "847",
+        "parent_code": "84"
+    },
+    "848": {
+        "name": "Cầu Ngang",
+        "type": "huyen",
+        "slug": "cau-ngang",
+        "name_with_type": "Huyện Cầu Ngang",
+        "path": "Cầu Ngang, Trà Vinh",
+        "path_with_type": "Huyện Cầu Ngang, Tỉnh Trà Vinh",
+        "code": "848",
+        "parent_code": "84"
+    },
+    "849": {
+        "name": "Trà Cú",
+        "type": "huyen",
+        "slug": "tra-cu",
+        "name_with_type": "Huyện Trà Cú",
+        "path": "Trà Cú, Trà Vinh",
+        "path_with_type": "Huyện Trà Cú, Tỉnh Trà Vinh",
+        "code": "849",
+        "parent_code": "84"
+    },
+    "850": {
+        "name": "Duyên Hải",
+        "type": "huyen",
+        "slug": "duyen-hai",
+        "name_with_type": "Huyện Duyên Hải",
+        "path": "Duyên Hải, Trà Vinh",
+        "path_with_type": "Huyện Duyên Hải, Tỉnh Trà Vinh",
+        "code": "850",
+        "parent_code": "84"
+    },
+    "851": {
+        "name": "Duyên Hải",
+        "type": "thi-xa",
+        "slug": "duyen-hai",
+        "name_with_type": "Thị xã Duyên Hải",
+        "path": "Duyên Hải, Trà Vinh",
+        "path_with_type": "Thị xã Duyên Hải, Tỉnh Trà Vinh",
+        "code": "851",
+        "parent_code": "84"
+    }
+}

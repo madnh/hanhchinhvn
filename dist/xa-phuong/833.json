@@ -1,0 +1,172 @@
+{
+    "28903": {
+        "name": "Mỏ Cày",
+        "type": "thi-tran",
+        "slug": "mo-cay",
+        "name_with_type": "Thị trấn Mỏ Cày",
+        "path": "Mỏ Cày, Mỏ Cày Nam, Bến Tre",
+        "path_with_type": "Thị trấn Mỏ Cày, Huyện Mỏ Cày Nam, Tỉnh Bến Tre",
+        "code": "28903",
+        "parent_code": "833"
+    },
+    "28930": {
+        "name": "Định Thủy",
+        "type": "xa",
+        "slug": "dinh-thuy",
+        "name_with_type": "Xã Định Thủy",
+        "path": "Định Thủy, Mỏ Cày Nam, Bến Tre",
+        "path_with_type": "Xã Định Thủy, Huyện Mỏ Cày Nam, Tỉnh Bến Tre",
+        "code": "28930",
+        "parent_code": "833"
+    },
+    "28939": {
+        "name": "Đa Phước Hội",
+        "type": "xa",
+        "slug": "da-phuoc-hoi",
+        "name_with_type": "Xã Đa Phước Hội",
+        "path": "Đa Phước Hội, Mỏ Cày Nam, Bến Tre",
+        "path_with_type": "Xã Đa Phước Hội, Huyện Mỏ Cày Nam, Tỉnh Bến Tre",
+        "code": "28939",
+        "parent_code": "833"
+    },
+    "28940": {
+        "name": "Tân Hội",
+        "type": "xa",
+        "slug": "tan-hoi",
+        "name_with_type": "Xã Tân Hội",
+        "path": "Tân Hội, Mỏ Cày Nam, Bến Tre",
+        "path_with_type": "Xã Tân Hội, Huyện Mỏ Cày Nam, Tỉnh Bến Tre",
+        "code": "28940",
+        "parent_code": "833"
+    },
+    "28942": {
+        "name": "Phước Hiệp",
+        "type": "xa",
+        "slug": "phuoc-hiep",
+        "name_with_type": "Xã Phước Hiệp",
+        "path": "Phước Hiệp, Mỏ Cày Nam, Bến Tre",
+        "path_with_type": "Xã Phước Hiệp, Huyện Mỏ Cày Nam, Tỉnh Bến Tre",
+        "code": "28942",
+        "parent_code": "833"
+    },
+    "28945": {
+        "name": "Bình Khánh Đông",
+        "type": "xa",
+        "slug": "binh-khanh-dong",
+        "name_with_type": "Xã Bình Khánh Đông",
+        "path": "Bình Khánh Đông, Mỏ Cày Nam, Bến Tre",
+        "path_with_type": "Xã Bình Khánh Đông, Huyện Mỏ Cày Nam, Tỉnh Bến Tre",
+        "code": "28945",
+        "parent_code": "833"
+    },
+    "28951": {
+        "name": "An Thạnh",
+        "type": "xa",
+        "slug": "an-thanh",
+        "name_with_type": "Xã An Thạnh",
+        "path": "An Thạnh, Mỏ Cày Nam, Bến Tre",
+        "path_with_type": "Xã An Thạnh, Huyện Mỏ Cày Nam, Tỉnh Bến Tre",
+        "code": "28951",
+        "parent_code": "833"
+    },
+    "28954": {
+        "name": "Bình Khánh Tây",
+        "type": "xa",
+        "slug": "binh-khanh-tay",
+        "name_with_type": "Xã Bình Khánh Tây",
+        "path": "Bình Khánh Tây, Mỏ Cày Nam, Bến Tre",
+        "path_with_type": "Xã Bình Khánh Tây, Huyện Mỏ Cày Nam, Tỉnh Bến Tre",
+        "code": "28954",
+        "parent_code": "833"
+    },
+    "28957": {
+        "name": "An Định",
+        "type": "xa",
+        "slug": "an-dinh",
+        "name_with_type": "Xã An Định",
+        "path": "An Định, Mỏ Cày Nam, Bến Tre",
+        "path_with_type": "Xã An Định, Huyện Mỏ Cày Nam, Tỉnh Bến Tre",
+        "code": "28957",
+        "parent_code": "833"
+    },
+    "28960": {
+        "name": "Thành Thới B",
+        "type": "xa",
+        "slug": "thanh-thoi-b",
+        "name_with_type": "Xã Thành Thới B",
+        "path": "Thành Thới B, Mỏ Cày Nam, Bến Tre",
+        "path_with_type": "Xã Thành Thới B, Huyện Mỏ Cày Nam, Tỉnh Bến Tre",
+        "code": "28960",
+        "parent_code": "833"
+    },
+    "28963": {
+        "name": "Tân Trung",
+        "type": "xa",
+        "slug": "tan-trung",
+        "name_with_type": "Xã Tân Trung",
+        "path": "Tân Trung, Mỏ Cày Nam, Bến Tre",
+        "path_with_type": "Xã Tân Trung, Huyện Mỏ Cày Nam, Tỉnh Bến Tre",
+        "code": "28963",
+        "parent_code": "833"
+    },
+    "28966": {
+        "name": "An Thới",
+        "type": "xa",
+        "slug": "an-thoi",
+        "name_with_type": "Xã An Thới",
+        "path": "An Thới, Mỏ Cày Nam, Bến Tre",
+        "path_with_type": "Xã An Thới, Huyện Mỏ Cày Nam, Tỉnh Bến Tre",
+        "code": "28966",
+        "parent_code": "833"
+    },
+    "28969": {
+        "name": "Thành Thới A",
+        "type": "xa",
+        "slug": "thanh-thoi-a",
+        "name_with_type": "Xã Thành Thới A",
+        "path": "Thành Thới A, Mỏ Cày Nam, Bến Tre",
+        "path_with_type": "Xã Thành Thới A, Huyện Mỏ Cày Nam, Tỉnh Bến Tre",
+        "code": "28969",
+        "parent_code": "833"
+    },
+    "28972": {
+        "name": "Minh Đức",
+        "type": "xa",
+        "slug": "minh-duc",
+        "name_with_type": "Xã Minh Đức",
+        "path": "Minh Đức, Mỏ Cày Nam, Bến Tre",
+        "path_with_type": "Xã Minh Đức, Huyện Mỏ Cày Nam, Tỉnh Bến Tre",
+        "code": "28972",
+        "parent_code": "833"
+    },
+    "28975": {
+        "name": "Ngãi Đăng",
+        "type": "xa",
+        "slug": "ngai-dang",
+        "name_with_type": "Xã Ngãi Đăng",
+        "path": "Ngãi Đăng, Mỏ Cày Nam, Bến Tre",
+        "path_with_type": "Xã Ngãi Đăng, Huyện Mỏ Cày Nam, Tỉnh Bến Tre",
+        "code": "28975",
+        "parent_code": "833"
+    },
+    "28978": {
+        "name": "Cẩm Sơn",
+        "type": "xa",
+        "slug": "cam-son",
+        "name_with_type": "Xã Cẩm Sơn",
+        "path": "Cẩm Sơn, Mỏ Cày Nam, Bến Tre",
+        "path_with_type": "Xã Cẩm Sơn, Huyện Mỏ Cày Nam, Tỉnh Bến Tre",
+        "code": "28978",
+        "parent_code": "833"
+    },
+    "28981": {
+        "name": "Hương Mỹ",
+        "type": "xa",
+        "slug": "huong-my",
+        "name_with_type": "Xã Hương Mỹ",
+        "path": "Hương Mỹ, Mỏ Cày Nam, Bến Tre",
+        "path_with_type": "Xã Hương Mỹ, Huyện Mỏ Cày Nam, Tỉnh Bến Tre",
+        "code": "28981",
+        "parent_code": "833"
+    }
+}

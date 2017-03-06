@@ -1,0 +1,72 @@
+{
+    "25308": {
+        "name": "Thanh Bình",
+        "type": "thi-tran",
+        "slug": "thanh-binh",
+        "name_with_type": "Thị trấn Thanh Bình",
+        "path": "Thanh Bình, Bù Đốp, Bình Phước",
+        "path_with_type": "Thị trấn Thanh Bình, Huyện Bù Đốp, Tỉnh Bình Phước",
+        "code": "25308",
+        "parent_code": "693"
+    },
+    "25309": {
+        "name": "Hưng Phước",
+        "type": "xa",
+        "slug": "hung-phuoc",
+        "name_with_type": "Xã Hưng Phước",
+        "path": "Hưng Phước, Bù Đốp, Bình Phước",
+        "path_with_type": "Xã Hưng Phước, Huyện Bù Đốp, Tỉnh Bình Phước",
+        "code": "25309",
+        "parent_code": "693"
+    },
+    "25310": {
+        "name": "Phước Thiện",
+        "type": "xa",
+        "slug": "phuoc-thien",
+        "name_with_type": "Xã Phước Thiện",
+        "path": "Phước Thiện, Bù Đốp, Bình Phước",
+        "path_with_type": "Xã Phước Thiện, Huyện Bù Đốp, Tỉnh Bình Phước",
+        "code": "25310",
+        "parent_code": "693"
+    },
+    "25312": {
+        "name": "Thiện Hưng",
+        "type": "xa",
+        "slug": "thien-hung",
+        "name_with_type": "Xã Thiện Hưng",
+        "path": "Thiện Hưng, Bù Đốp, Bình Phước",
+        "path_with_type": "Xã Thiện Hưng, Huyện Bù Đốp, Tỉnh Bình Phước",
+        "code": "25312",
+        "parent_code": "693"
+    },
+    "25315": {
+        "name": "Thanh Hòa",
+        "type": "xa",
+        "slug": "thanh-hoa",
+        "name_with_type": "Xã Thanh Hòa",
+        "path": "Thanh Hòa, Bù Đốp, Bình Phước",
+        "path_with_type": "Xã Thanh Hòa, Huyện Bù Đốp, Tỉnh Bình Phước",
+        "code": "25315",
+        "parent_code": "693"
+    },
+    "25318": {
+        "name": "Tân Thành",
+        "type": "xa",
+        "slug": "tan-thanh",
+        "name_with_type": "Xã Tân Thành",
+        "path": "Tân Thành, Bù Đốp, Bình Phước",
+        "path_with_type": "Xã Tân Thành, Huyện Bù Đốp, Tỉnh Bình Phước",
+        "code": "25318",
+        "parent_code": "693"
+    },
+    "25321": {
+        "name": "Tân Tiến",
+        "type": "xa",
+        "slug": "tan-tien",
+        "name_with_type": "Xã Tân Tiến",
+        "path": "Tân Tiến, Bù Đốp, Bình Phước",
+        "path_with_type": "Xã Tân Tiến, Huyện Bù Đốp, Tỉnh Bình Phước",
+        "code": "25321",
+        "parent_code": "693"
+    }
+}

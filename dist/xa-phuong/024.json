@@ -1,0 +1,82 @@
+{
+    "00688": {
+        "name": "Quang Trung",
+        "type": "phuong",
+        "slug": "quang-trung",
+        "name_with_type": "Phường Quang Trung",
+        "path": "Quang Trung, Hà Giang, Hà Giang",
+        "path_with_type": "Phường Quang Trung, Thành phố Hà Giang, Tỉnh Hà Giang",
+        "code": "00688",
+        "parent_code": "024"
+    },
+    "00691": {
+        "name": "Trần Phú",
+        "type": "phuong",
+        "slug": "tran-phu",
+        "name_with_type": "Phường Trần Phú",
+        "path": "Trần Phú, Hà Giang, Hà Giang",
+        "path_with_type": "Phường Trần Phú, Thành phố Hà Giang, Tỉnh Hà Giang",
+        "code": "00691",
+        "parent_code": "024"
+    },
+    "00692": {
+        "name": "Ngọc Hà",
+        "type": "phuong",
+        "slug": "ngoc-ha",
+        "name_with_type": "Phường Ngọc Hà",
+        "path": "Ngọc Hà, Hà Giang, Hà Giang",
+        "path_with_type": "Phường Ngọc Hà, Thành phố Hà Giang, Tỉnh Hà Giang",
+        "code": "00692",
+        "parent_code": "024"
+    },
+    "00694": {
+        "name": "Nguyễn Trãi",
+        "type": "phuong",
+        "slug": "nguyen-trai",
+        "name_with_type": "Phường Nguyễn Trãi",
+        "path": "Nguyễn Trãi, Hà Giang, Hà Giang",
+        "path_with_type": "Phường Nguyễn Trãi, Thành phố Hà Giang, Tỉnh Hà Giang",
+        "code": "00694",
+        "parent_code": "024"
+    },
+    "00697": {
+        "name": "Minh Khai",
+        "type": "phuong",
+        "slug": "minh-khai",
+        "name_with_type": "Phường Minh Khai",
+        "path": "Minh Khai, Hà Giang, Hà Giang",
+        "path_with_type": "Phường Minh Khai, Thành phố Hà Giang, Tỉnh Hà Giang",
+        "code": "00697",
+        "parent_code": "024"
+    },
+    "00700": {
+        "name": "Ngọc Đường",
+        "type": "xa",
+        "slug": "ngoc-duong",
+        "name_with_type": "Xã Ngọc Đường",
+        "path": "Ngọc Đường, Hà Giang, Hà Giang",
+        "path_with_type": "Xã Ngọc Đường, Thành phố Hà Giang, Tỉnh Hà Giang",
+        "code": "00700",
+        "parent_code": "024"
+    },
+    "00946": {
+        "name": "Phương Độ",
+        "type": "xa",
+        "slug": "phuong-do",
+        "name_with_type": "Xã Phương Độ",
+        "path": "Phương Độ, Hà Giang, Hà Giang",
+        "path_with_type": "Xã Phương Độ, Thành phố Hà Giang, Tỉnh Hà Giang",
+        "code": "00946",
+        "parent_code": "024"
+    },
+    "00949": {
+        "name": "Phương Thiện",
+        "type": "xa",
+        "slug": "phuong-thien",
+        "name_with_type": "Xã Phương Thiện",
+        "path": "Phương Thiện, Hà Giang, Hà Giang",
+        "path_with_type": "Xã Phương Thiện, Thành phố Hà Giang, Tỉnh Hà Giang",
+        "code": "00949",
+        "parent_code": "024"
+    }
+}

@@ -1,0 +1,182 @@
+{
+    "23005": {
+        "name": "Chợ Lầu",
+        "type": "thi-tran",
+        "slug": "cho-lau",
+        "name_with_type": "Thị trấn Chợ Lầu",
+        "path": "Chợ Lầu, Bắc Bình, Bình Thuận",
+        "path_with_type": "Thị trấn Chợ Lầu, Huyện Bắc Bình, Tỉnh Bình Thuận",
+        "code": "23005",
+        "parent_code": "596"
+    },
+    "23008": {
+        "name": "Phan Sơn",
+        "type": "xa",
+        "slug": "phan-son",
+        "name_with_type": "Xã Phan Sơn",
+        "path": "Phan Sơn, Bắc Bình, Bình Thuận",
+        "path_with_type": "Xã Phan Sơn, Huyện Bắc Bình, Tỉnh Bình Thuận",
+        "code": "23008",
+        "parent_code": "596"
+    },
+    "23011": {
+        "name": "Phan Lâm",
+        "type": "xa",
+        "slug": "phan-lam",
+        "name_with_type": "Xã Phan Lâm",
+        "path": "Phan Lâm, Bắc Bình, Bình Thuận",
+        "path_with_type": "Xã Phan Lâm, Huyện Bắc Bình, Tỉnh Bình Thuận",
+        "code": "23011",
+        "parent_code": "596"
+    },
+    "23014": {
+        "name": "Bình An",
+        "type": "xa",
+        "slug": "binh-an",
+        "name_with_type": "Xã Bình An",
+        "path": "Bình An, Bắc Bình, Bình Thuận",
+        "path_with_type": "Xã Bình An, Huyện Bắc Bình, Tỉnh Bình Thuận",
+        "code": "23014",
+        "parent_code": "596"
+    },
+    "23017": {
+        "name": "Phan Điền",
+        "type": "xa",
+        "slug": "phan-dien",
+        "name_with_type": "Xã Phan Điền",
+        "path": "Phan Điền, Bắc Bình, Bình Thuận",
+        "path_with_type": "Xã Phan Điền, Huyện Bắc Bình, Tỉnh Bình Thuận",
+        "code": "23017",
+        "parent_code": "596"
+    },
+    "23020": {
+        "name": "Hải Ninh",
+        "type": "xa",
+        "slug": "hai-ninh",
+        "name_with_type": "Xã Hải Ninh",
+        "path": "Hải Ninh, Bắc Bình, Bình Thuận",
+        "path_with_type": "Xã Hải Ninh, Huyện Bắc Bình, Tỉnh Bình Thuận",
+        "code": "23020",
+        "parent_code": "596"
+    },
+    "23023": {
+        "name": "Sông Lũy",
+        "type": "xa",
+        "slug": "song-luy",
+        "name_with_type": "Xã Sông Lũy",
+        "path": "Sông Lũy, Bắc Bình, Bình Thuận",
+        "path_with_type": "Xã Sông Lũy, Huyện Bắc Bình, Tỉnh Bình Thuận",
+        "code": "23023",
+        "parent_code": "596"
+    },
+    "23026": {
+        "name": "Phan Tiến",
+        "type": "xa",
+        "slug": "phan-tien",
+        "name_with_type": "Xã Phan Tiến",
+        "path": "Phan Tiến, Bắc Bình, Bình Thuận",
+        "path_with_type": "Xã Phan Tiến, Huyện Bắc Bình, Tỉnh Bình Thuận",
+        "code": "23026",
+        "parent_code": "596"
+    },
+    "23029": {
+        "name": "Sông Bình",
+        "type": "xa",
+        "slug": "song-binh",
+        "name_with_type": "Xã Sông Bình",
+        "path": "Sông Bình, Bắc Bình, Bình Thuận",
+        "path_with_type": "Xã Sông Bình, Huyện Bắc Bình, Tỉnh Bình Thuận",
+        "code": "23029",
+        "parent_code": "596"
+    },
+    "23032": {
+        "name": "Lương Sơn",
+        "type": "thi-tran",
+        "slug": "luong-son",
+        "name_with_type": "Thị trấn Lương Sơn",
+        "path": "Lương Sơn, Bắc Bình, Bình Thuận",
+        "path_with_type": "Thị trấn Lương Sơn, Huyện Bắc Bình, Tỉnh Bình Thuận",
+        "code": "23032",
+        "parent_code": "596"
+    },
+    "23035": {
+        "name": "Phan Hòa",
+        "type": "xa",
+        "slug": "phan-hoa",
+        "name_with_type": "Xã Phan Hòa",
+        "path": "Phan Hòa, Bắc Bình, Bình Thuận",
+        "path_with_type": "Xã Phan Hòa, Huyện Bắc Bình, Tỉnh Bình Thuận",
+        "code": "23035",
+        "parent_code": "596"
+    },
+    "23038": {
+        "name": "Phan Thanh",
+        "type": "xa",
+        "slug": "phan-thanh",
+        "name_with_type": "Xã Phan Thanh",
+        "path": "Phan Thanh, Bắc Bình, Bình Thuận",
+        "path_with_type": "Xã Phan Thanh, Huyện Bắc Bình, Tỉnh Bình Thuận",
+        "code": "23038",
+        "parent_code": "596"
+    },
+    "23041": {
+        "name": "Hồng Thái",
+        "type": "xa",
+        "slug": "hong-thai",
+        "name_with_type": "Xã Hồng Thái",
+        "path": "Hồng Thái, Bắc Bình, Bình Thuận",
+        "path_with_type": "Xã Hồng Thái, Huyện Bắc Bình, Tỉnh Bình Thuận",
+        "code": "23041",
+        "parent_code": "596"
+    },
+    "23044": {
+        "name": "Phan Hiệp",
+        "type": "xa",
+        "slug": "phan-hiep",
+        "name_with_type": "Xã Phan Hiệp",
+        "path": "Phan Hiệp, Bắc Bình, Bình Thuận",
+        "path_with_type": "Xã Phan Hiệp, Huyện Bắc Bình, Tỉnh Bình Thuận",
+        "code": "23044",
+        "parent_code": "596"
+    },
+    "23047": {
+        "name": "Bình Tân",
+        "type": "xa",
+        "slug": "binh-tan",
+        "name_with_type": "Xã Bình Tân",
+        "path": "Bình Tân, Bắc Bình, Bình Thuận",
+        "path_with_type": "Xã Bình Tân, Huyện Bắc Bình, Tỉnh Bình Thuận",
+        "code": "23047",
+        "parent_code": "596"
+    },
+    "23050": {
+        "name": "Phan Rí Thành",
+        "type": "xa",
+        "slug": "phan-ri-thanh",
+        "name_with_type": "Xã Phan Rí Thành",
+        "path": "Phan Rí Thành, Bắc Bình, Bình Thuận",
+        "path_with_type": "Xã Phan Rí Thành, Huyện Bắc Bình, Tỉnh Bình Thuận",
+        "code": "23050",
+        "parent_code": "596"
+    },
+    "23053": {
+        "name": "Hòa Thắng",
+        "type": "xa",
+        "slug": "hoa-thang",
+        "name_with_type": "Xã Hòa Thắng",
+        "path": "Hòa Thắng, Bắc Bình, Bình Thuận",
+        "path_with_type": "Xã Hòa Thắng, Huyện Bắc Bình, Tỉnh Bình Thuận",
+        "code": "23053",
+        "parent_code": "596"
+    },
+    "23056": {
+        "name": "Hồng Phong",
+        "type": "xa",
+        "slug": "hong-phong",
+        "name_with_type": "Xã Hồng Phong",
+        "path": "Hồng Phong, Bắc Bình, Bình Thuận",
+        "path_with_type": "Xã Hồng Phong, Huyện Bắc Bình, Tỉnh Bình Thuận",
+        "code": "23056",
+        "parent_code": "596"
+    }
+}

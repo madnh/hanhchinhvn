@@ -1,0 +1,252 @@
+{
+    "13633": {
+        "name": "Hạ Long",
+        "type": "phuong",
+        "slug": "ha-long",
+        "name_with_type": "Phường Hạ Long",
+        "path": "Hạ Long, Nam Định, Nam Định",
+        "path_with_type": "Phường Hạ Long, Thành phố Nam Định, Tỉnh Nam Định",
+        "code": "13633",
+        "parent_code": "356"
+    },
+    "13636": {
+        "name": "Trần Tế Xương",
+        "type": "phuong",
+        "slug": "tran-te-xuong",
+        "name_with_type": "Phường Trần Tế Xương",
+        "path": "Trần Tế Xương, Nam Định, Nam Định",
+        "path_with_type": "Phường Trần Tế Xương, Thành phố Nam Định, Tỉnh Nam Định",
+        "code": "13636",
+        "parent_code": "356"
+    },
+    "13639": {
+        "name": "Vị Hoàng",
+        "type": "phuong",
+        "slug": "vi-hoang",
+        "name_with_type": "Phường Vị Hoàng",
+        "path": "Vị Hoàng, Nam Định, Nam Định",
+        "path_with_type": "Phường Vị Hoàng, Thành phố Nam Định, Tỉnh Nam Định",
+        "code": "13639",
+        "parent_code": "356"
+    },
+    "13642": {
+        "name": "Vị Xuyên",
+        "type": "phuong",
+        "slug": "vi-xuyen",
+        "name_with_type": "Phường Vị Xuyên",
+        "path": "Vị Xuyên, Nam Định, Nam Định",
+        "path_with_type": "Phường Vị Xuyên, Thành phố Nam Định, Tỉnh Nam Định",
+        "code": "13642",
+        "parent_code": "356"
+    },
+    "13645": {
+        "name": "Quang Trung",
+        "type": "phuong",
+        "slug": "quang-trung",
+        "name_with_type": "Phường Quang Trung",
+        "path": "Quang Trung, Nam Định, Nam Định",
+        "path_with_type": "Phường Quang Trung, Thành phố Nam Định, Tỉnh Nam Định",
+        "code": "13645",
+        "parent_code": "356"
+    },
+    "13648": {
+        "name": "Cửa Bắc",
+        "type": "phuong",
+        "slug": "cua-bac",
+        "name_with_type": "Phường Cửa Bắc",
+        "path": "Cửa Bắc, Nam Định, Nam Định",
+        "path_with_type": "Phường Cửa Bắc, Thành phố Nam Định, Tỉnh Nam Định",
+        "code": "13648",
+        "parent_code": "356"
+    },
+    "13651": {
+        "name": "Nguyễn Du",
+        "type": "phuong",
+        "slug": "nguyen-du",
+        "name_with_type": "Phường Nguyễn Du",
+        "path": "Nguyễn Du, Nam Định, Nam Định",
+        "path_with_type": "Phường Nguyễn Du, Thành phố Nam Định, Tỉnh Nam Định",
+        "code": "13651",
+        "parent_code": "356"
+    },
+    "13654": {
+        "name": "Bà Triệu",
+        "type": "phuong",
+        "slug": "ba-trieu",
+        "name_with_type": "Phường Bà Triệu",
+        "path": "Bà Triệu, Nam Định, Nam Định",
+        "path_with_type": "Phường Bà Triệu, Thành phố Nam Định, Tỉnh Nam Định",
+        "code": "13654",
+        "parent_code": "356"
+    },
+    "13657": {
+        "name": "Trường Thi",
+        "type": "phuong",
+        "slug": "truong-thi",
+        "name_with_type": "Phường Trường Thi",
+        "path": "Trường Thi, Nam Định, Nam Định",
+        "path_with_type": "Phường Trường Thi, Thành phố Nam Định, Tỉnh Nam Định",
+        "code": "13657",
+        "parent_code": "356"
+    },
+    "13660": {
+        "name": "Phan Đình Phùng",
+        "type": "phuong",
+        "slug": "phan-dinh-phung",
+        "name_with_type": "Phường Phan Đình Phùng",
+        "path": "Phan Đình Phùng, Nam Định, Nam Định",
+        "path_with_type": "Phường Phan Đình Phùng, Thành phố Nam Định, Tỉnh Nam Định",
+        "code": "13660",
+        "parent_code": "356"
+    },
+    "13663": {
+        "name": "Ngô Quyền",
+        "type": "phuong",
+        "slug": "ngo-quyen",
+        "name_with_type": "Phường Ngô Quyền",
+        "path": "Ngô Quyền, Nam Định, Nam Định",
+        "path_with_type": "Phường Ngô Quyền, Thành phố Nam Định, Tỉnh Nam Định",
+        "code": "13663",
+        "parent_code": "356"
+    },
+    "13666": {
+        "name": "Trần Hưng Đạo",
+        "type": "phuong",
+        "slug": "tran-hung-dao",
+        "name_with_type": "Phường Trần Hưng Đạo",
+        "path": "Trần Hưng Đạo, Nam Định, Nam Định",
+        "path_with_type": "Phường Trần Hưng Đạo, Thành phố Nam Định, Tỉnh Nam Định",
+        "code": "13666",
+        "parent_code": "356"
+    },
+    "13669": {
+        "name": "Trần Đăng Ninh",
+        "type": "phuong",
+        "slug": "tran-dang-ninh",
+        "name_with_type": "Phường Trần Đăng Ninh",
+        "path": "Trần Đăng Ninh, Nam Định, Nam Định",
+        "path_with_type": "Phường Trần Đăng Ninh, Thành phố Nam Định, Tỉnh Nam Định",
+        "code": "13669",
+        "parent_code": "356"
+    },
+    "13672": {
+        "name": "Năng Tĩnh",
+        "type": "phuong",
+        "slug": "nang-tinh",
+        "name_with_type": "Phường Năng Tĩnh",
+        "path": "Năng Tĩnh, Nam Định, Nam Định",
+        "path_with_type": "Phường Năng Tĩnh, Thành phố Nam Định, Tỉnh Nam Định",
+        "code": "13672",
+        "parent_code": "356"
+    },
+    "13675": {
+        "name": "Văn Miếu",
+        "type": "phuong",
+        "slug": "van-mieu",
+        "name_with_type": "Phường Văn Miếu",
+        "path": "Văn Miếu, Nam Định, Nam Định",
+        "path_with_type": "Phường Văn Miếu, Thành phố Nam Định, Tỉnh Nam Định",
+        "code": "13675",
+        "parent_code": "356"
+    },
+    "13678": {
+        "name": "Trần Quang Khải",
+        "type": "phuong",
+        "slug": "tran-quang-khai",
+        "name_with_type": "Phường Trần Quang Khải",
+        "path": "Trần Quang Khải, Nam Định, Nam Định",
+        "path_with_type": "Phường Trần Quang Khải, Thành phố Nam Định, Tỉnh Nam Định",
+        "code": "13678",
+        "parent_code": "356"
+    },
+    "13681": {
+        "name": "Thống Nhất",
+        "type": "phuong",
+        "slug": "thong-nhat",
+        "name_with_type": "Phường Thống Nhất",
+        "path": "Thống Nhất, Nam Định, Nam Định",
+        "path_with_type": "Phường Thống Nhất, Thành phố Nam Định, Tỉnh Nam Định",
+        "code": "13681",
+        "parent_code": "356"
+    },
+    "13684": {
+        "name": "Lộc Hạ",
+        "type": "phuong",
+        "slug": "loc-ha",
+        "name_with_type": "Phường Lộc Hạ",
+        "path": "Lộc Hạ, Nam Định, Nam Định",
+        "path_with_type": "Phường Lộc Hạ, Thành phố Nam Định, Tỉnh Nam Định",
+        "code": "13684",
+        "parent_code": "356"
+    },
+    "13687": {
+        "name": "Lộc Vượng",
+        "type": "phuong",
+        "slug": "loc-vuong",
+        "name_with_type": "Phường Lộc Vượng",
+        "path": "Lộc Vượng, Nam Định, Nam Định",
+        "path_with_type": "Phường Lộc Vượng, Thành phố Nam Định, Tỉnh Nam Định",
+        "code": "13687",
+        "parent_code": "356"
+    },
+    "13690": {
+        "name": "Cửa Nam",
+        "type": "phuong",
+        "slug": "cua-nam",
+        "name_with_type": "Phường Cửa Nam",
+        "path": "Cửa Nam, Nam Định, Nam Định",
+        "path_with_type": "Phường Cửa Nam, Thành phố Nam Định, Tỉnh Nam Định",
+        "code": "13690",
+        "parent_code": "356"
+    },
+    "13693": {
+        "name": "Lộc Hòa",
+        "type": "xa",
+        "slug": "loc-hoa",
+        "name_with_type": "Xã Lộc Hòa",
+        "path": "Lộc Hòa, Nam Định, Nam Định",
+        "path_with_type": "Xã Lộc Hòa, Thành phố Nam Định, Tỉnh Nam Định",
+        "code": "13693",
+        "parent_code": "356"
+    },
+    "13696": {
+        "name": "Nam Phong",
+        "type": "xa",
+        "slug": "nam-phong",
+        "name_with_type": "Xã Nam Phong",
+        "path": "Nam Phong, Nam Định, Nam Định",
+        "path_with_type": "Xã Nam Phong, Thành phố Nam Định, Tỉnh Nam Định",
+        "code": "13696",
+        "parent_code": "356"
+    },
+    "13699": {
+        "name": "Mỹ Xá",
+        "type": "xa",
+        "slug": "my-xa",
+        "name_with_type": "Xã Mỹ Xá",
+        "path": "Mỹ Xá, Nam Định, Nam Định",
+        "path_with_type": "Xã Mỹ Xá, Thành phố Nam Định, Tỉnh Nam Định",
+        "code": "13699",
+        "parent_code": "356"
+    },
+    "13702": {
+        "name": "Lộc An",
+        "type": "xa",
+        "slug": "loc-an",
+        "name_with_type": "Xã Lộc An",
+        "path": "Lộc An, Nam Định, Nam Định",
+        "path_with_type": "Xã Lộc An, Thành phố Nam Định, Tỉnh Nam Định",
+        "code": "13702",
+        "parent_code": "356"
+    },
+    "13705": {
+        "name": "Nam Vân",
+        "type": "xa",
+        "slug": "nam-van",
+        "name_with_type": "Xã Nam Vân",
+        "path": "Nam Vân, Nam Định, Nam Định",
+        "path_with_type": "Xã Nam Vân, Thành phố Nam Định, Tỉnh Nam Định",
+        "code": "13705",
+        "parent_code": "356"
+    }
+}

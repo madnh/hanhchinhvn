@@ -1,0 +1,132 @@
+{
+    "040": {
+        "name": "Cao Bằng",
+        "type": "thanh-pho",
+        "slug": "cao-bang",
+        "name_with_type": "Thành phố Cao Bằng",
+        "path": "Cao Bằng, Cao Bằng",
+        "path_with_type": "Thành phố Cao Bằng, Tỉnh Cao Bằng",
+        "code": "040",
+        "parent_code": "04"
+    },
+    "042": {
+        "name": "Bảo Lâm",
+        "type": "huyen",
+        "slug": "bao-lam",
+        "name_with_type": "Huyện Bảo Lâm",
+        "path": "Bảo Lâm, Cao Bằng",
+        "path_with_type": "Huyện Bảo Lâm, Tỉnh Cao Bằng",
+        "code": "042",
+        "parent_code": "04"
+    },
+    "043": {
+        "name": "Bảo Lạc",
+        "type": "huyen",
+        "slug": "bao-lac",
+        "name_with_type": "Huyện Bảo Lạc",
+        "path": "Bảo Lạc, Cao Bằng",
+        "path_with_type": "Huyện Bảo Lạc, Tỉnh Cao Bằng",
+        "code": "043",
+        "parent_code": "04"
+    },
+    "044": {
+        "name": "Thông Nông",
+        "type": "huyen",
+        "slug": "thong-nong",
+        "name_with_type": "Huyện Thông Nông",
+        "path": "Thông Nông, Cao Bằng",
+        "path_with_type": "Huyện Thông Nông, Tỉnh Cao Bằng",
+        "code": "044",
+        "parent_code": "04"
+    },
+    "045": {
+        "name": "Hà Quảng",
+        "type": "huyen",
+        "slug": "ha-quang",
+        "name_with_type": "Huyện Hà Quảng",
+        "path": "Hà Quảng, Cao Bằng",
+        "path_with_type": "Huyện Hà Quảng, Tỉnh Cao Bằng",
+        "code": "045",
+        "parent_code": "04"
+    },
+    "046": {
+        "name": "Trà Lĩnh",
+        "type": "huyen",
+        "slug": "tra-linh",
+        "name_with_type": "Huyện Trà Lĩnh",
+        "path": "Trà Lĩnh, Cao Bằng",
+        "path_with_type": "Huyện Trà Lĩnh, Tỉnh Cao Bằng",
+        "code": "046",
+        "parent_code": "04"
+    },
+    "047": {
+        "name": "Trùng Khánh",
+        "type": "huyen",
+        "slug": "trung-khanh",
+        "name_with_type": "Huyện Trùng Khánh",
+        "path": "Trùng Khánh, Cao Bằng",
+        "path_with_type": "Huyện Trùng Khánh, Tỉnh Cao Bằng",
+        "code": "047",
+        "parent_code": "04"
+    },
+    "048": {
+        "name": "Hạ Lang",
+        "type": "huyen",
+        "slug": "ha-lang",
+        "name_with_type": "Huyện Hạ Lang",
+        "path": "Hạ Lang, Cao Bằng",
+        "path_with_type": "Huyện Hạ Lang, Tỉnh Cao Bằng",
+        "code": "048",
+        "parent_code": "04"
+    },
+    "049": {
+        "name": "Quảng Uyên",
+        "type": "huyen",
+        "slug": "quang-uyen",
+        "name_with_type": "Huyện Quảng Uyên",
+        "path": "Quảng Uyên, Cao Bằng",
+        "path_with_type": "Huyện Quảng Uyên, Tỉnh Cao Bằng",
+        "code": "049",
+        "parent_code": "04"
+    },
+    "050": {
+        "name": "Phục Hoà",
+        "type": "huyen",
+        "slug": "phuc-hoa",
+        "name_with_type": "Huyện Phục Hoà",
+        "path": "Phục Hoà, Cao Bằng",
+        "path_with_type": "Huyện Phục Hoà, Tỉnh Cao Bằng",
+        "code": "050",
+        "parent_code": "04"
+    },
+    "051": {
+        "name": "Hoà An",
+        "type": "huyen",
+        "slug": "hoa-an",
+        "name_with_type": "Huyện Hoà An",
+        "path": "Hoà An, Cao Bằng",
+        "path_with_type": "Huyện Hoà An, Tỉnh Cao Bằng",
+        "code": "051",
+        "parent_code": "04"
+    },
+    "052": {
+        "name": "Nguyên Bình",
+        "type": "huyen",
+        "slug": "nguyen-binh",
+        "name_with_type": "Huyện Nguyên Bình",
+        "path": "Nguyên Bình, Cao Bằng",
+        "path_with_type": "Huyện Nguyên Bình, Tỉnh Cao Bằng",
+        "code": "052",
+        "parent_code": "04"
+    },
+    "053": {
+        "name": "Thạch An",
+        "type": "huyen",
+        "slug": "thach-an",
+        "name_with_type": "Huyện Thạch An",
+        "path": "Thạch An, Cao Bằng",
+        "path_with_type": "Huyện Thạch An, Tỉnh Cao Bằng",
+        "code": "053",
+        "parent_code": "04"
+    }
+}

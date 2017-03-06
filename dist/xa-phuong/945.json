@@ -1,0 +1,82 @@
+{
+    "31615": {
+        "name": "Cù Lao Dung",
+        "type": "thi-tran",
+        "slug": "cu-lao-dung",
+        "name_with_type": "Thị trấn Cù Lao Dung",
+        "path": "Cù Lao Dung, Cù Lao Dung, Sóc Trăng",
+        "path_with_type": "Thị trấn Cù Lao Dung, Huyện Cù Lao Dung, Tỉnh Sóc Trăng",
+        "code": "31615",
+        "parent_code": "945"
+    },
+    "31618": {
+        "name": "An Thạnh 1",
+        "type": "xa",
+        "slug": "an-thanh-1",
+        "name_with_type": "Xã An Thạnh 1",
+        "path": "An Thạnh 1, Cù Lao Dung, Sóc Trăng",
+        "path_with_type": "Xã An Thạnh 1, Huyện Cù Lao Dung, Tỉnh Sóc Trăng",
+        "code": "31618",
+        "parent_code": "945"
+    },
+    "31621": {
+        "name": "An Thạnh Tây",
+        "type": "xa",
+        "slug": "an-thanh-tay",
+        "name_with_type": "Xã An Thạnh Tây",
+        "path": "An Thạnh Tây, Cù Lao Dung, Sóc Trăng",
+        "path_with_type": "Xã An Thạnh Tây, Huyện Cù Lao Dung, Tỉnh Sóc Trăng",
+        "code": "31621",
+        "parent_code": "945"
+    },
+    "31624": {
+        "name": "An Thạnh Đông",
+        "type": "xa",
+        "slug": "an-thanh-dong",
+        "name_with_type": "Xã An Thạnh Đông",
+        "path": "An Thạnh Đông, Cù Lao Dung, Sóc Trăng",
+        "path_with_type": "Xã An Thạnh Đông, Huyện Cù Lao Dung, Tỉnh Sóc Trăng",
+        "code": "31624",
+        "parent_code": "945"
+    },
+    "31627": {
+        "name": "Đại Ân 1",
+        "type": "xa",
+        "slug": "dai-an-1",
+        "name_with_type": "Xã Đại Ân 1",
+        "path": "Đại Ân 1, Cù Lao Dung, Sóc Trăng",
+        "path_with_type": "Xã Đại Ân 1, Huyện Cù Lao Dung, Tỉnh Sóc Trăng",
+        "code": "31627",
+        "parent_code": "945"
+    },
+    "31630": {
+        "name": "An Thạnh 2",
+        "type": "xa",
+        "slug": "an-thanh-2",
+        "name_with_type": "Xã An Thạnh 2",
+        "path": "An Thạnh 2, Cù Lao Dung, Sóc Trăng",
+        "path_with_type": "Xã An Thạnh 2, Huyện Cù Lao Dung, Tỉnh Sóc Trăng",
+        "code": "31630",
+        "parent_code": "945"
+    },
+    "31633": {
+        "name": "An Thạnh 3",
+        "type": "xa",
+        "slug": "an-thanh-3",
+        "name_with_type": "Xã An Thạnh 3",
+        "path": "An Thạnh 3, Cù Lao Dung, Sóc Trăng",
+        "path_with_type": "Xã An Thạnh 3, Huyện Cù Lao Dung, Tỉnh Sóc Trăng",
+        "code": "31633",
+        "parent_code": "945"
+    },
+    "31636": {
+        "name": "An Thạnh Nam",
+        "type": "xa",
+        "slug": "an-thanh-nam",
+        "name_with_type": "Xã An Thạnh Nam",
+        "path": "An Thạnh Nam, Cù Lao Dung, Sóc Trăng",
+        "path_with_type": "Xã An Thạnh Nam, Huyện Cù Lao Dung, Tỉnh Sóc Trăng",
+        "code": "31636",
+        "parent_code": "945"
+    }
+}

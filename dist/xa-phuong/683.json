@@ -1,0 +1,112 @@
+{
+    "25159": {
+        "name": "Cát Tiên",
+        "type": "thi-tran",
+        "slug": "cat-tien",
+        "name_with_type": "Thị trấn Cát Tiên",
+        "path": "Cát Tiên, Cát Tiên, Lâm Đồng",
+        "path_with_type": "Thị trấn Cát Tiên, Huyện Cát Tiên, Tỉnh Lâm Đồng",
+        "code": "25159",
+        "parent_code": "683"
+    },
+    "25162": {
+        "name": "Tiên Hoàng",
+        "type": "xa",
+        "slug": "tien-hoang",
+        "name_with_type": "Xã Tiên Hoàng",
+        "path": "Tiên Hoàng, Cát Tiên, Lâm Đồng",
+        "path_with_type": "Xã Tiên Hoàng, Huyện Cát Tiên, Tỉnh Lâm Đồng",
+        "code": "25162",
+        "parent_code": "683"
+    },
+    "25165": {
+        "name": "Phước Cát 2",
+        "type": "xa",
+        "slug": "phuoc-cat-2",
+        "name_with_type": "Xã Phước Cát 2",
+        "path": "Phước Cát 2, Cát Tiên, Lâm Đồng",
+        "path_with_type": "Xã Phước Cát 2, Huyện Cát Tiên, Tỉnh Lâm Đồng",
+        "code": "25165",
+        "parent_code": "683"
+    },
+    "25168": {
+        "name": "Gia Viễn",
+        "type": "xa",
+        "slug": "gia-vien",
+        "name_with_type": "Xã Gia Viễn",
+        "path": "Gia Viễn, Cát Tiên, Lâm Đồng",
+        "path_with_type": "Xã Gia Viễn, Huyện Cát Tiên, Tỉnh Lâm Đồng",
+        "code": "25168",
+        "parent_code": "683"
+    },
+    "25171": {
+        "name": "Nam Ninh",
+        "type": "xa",
+        "slug": "nam-ninh",
+        "name_with_type": "Xã Nam Ninh",
+        "path": "Nam Ninh, Cát Tiên, Lâm Đồng",
+        "path_with_type": "Xã Nam Ninh, Huyện Cát Tiên, Tỉnh Lâm Đồng",
+        "code": "25171",
+        "parent_code": "683"
+    },
+    "25174": {
+        "name": "Mỹ Lâm",
+        "type": "xa",
+        "slug": "my-lam",
+        "name_with_type": "Xã Mỹ Lâm",
+        "path": "Mỹ Lâm, Cát Tiên, Lâm Đồng",
+        "path_with_type": "Xã Mỹ Lâm, Huyện Cát Tiên, Tỉnh Lâm Đồng",
+        "code": "25174",
+        "parent_code": "683"
+    },
+    "25177": {
+        "name": "Tư Nghĩa",
+        "type": "xa",
+        "slug": "tu-nghia",
+        "name_with_type": "Xã Tư Nghĩa",
+        "path": "Tư Nghĩa, Cát Tiên, Lâm Đồng",
+        "path_with_type": "Xã Tư Nghĩa, Huyện Cát Tiên, Tỉnh Lâm Đồng",
+        "code": "25177",
+        "parent_code": "683"
+    },
+    "25180": {
+        "name": "Phước Cát 1",
+        "type": "xa",
+        "slug": "phuoc-cat-1",
+        "name_with_type": "Xã Phước Cát 1",
+        "path": "Phước Cát 1, Cát Tiên, Lâm Đồng",
+        "path_with_type": "Xã Phước Cát 1, Huyện Cát Tiên, Tỉnh Lâm Đồng",
+        "code": "25180",
+        "parent_code": "683"
+    },
+    "25183": {
+        "name": "Đức Phổ",
+        "type": "xa",
+        "slug": "duc-pho",
+        "name_with_type": "Xã Đức Phổ",
+        "path": "Đức Phổ, Cát Tiên, Lâm Đồng",
+        "path_with_type": "Xã Đức Phổ, Huyện Cát Tiên, Tỉnh Lâm Đồng",
+        "code": "25183",
+        "parent_code": "683"
+    },
+    "25189": {
+        "name": "Quảng Ngãi",
+        "type": "xa",
+        "slug": "quang-ngai",
+        "name_with_type": "Xã Quảng Ngãi",
+        "path": "Quảng Ngãi, Cát Tiên, Lâm Đồng",
+        "path_with_type": "Xã Quảng Ngãi, Huyện Cát Tiên, Tỉnh Lâm Đồng",
+        "code": "25189",
+        "parent_code": "683"
+    },
+    "25192": {
+        "name": "Đồng Nai Thượng",
+        "type": "xa",
+        "slug": "dong-nai-thuong",
+        "name_with_type": "Xã Đồng Nai Thượng",
+        "path": "Đồng Nai Thượng, Cát Tiên, Lâm Đồng",
+        "path_with_type": "Xã Đồng Nai Thượng, Huyện Cát Tiên, Tỉnh Lâm Đồng",
+        "code": "25192",
+        "parent_code": "683"
+    }
+}

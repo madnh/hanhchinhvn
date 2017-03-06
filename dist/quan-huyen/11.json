@@ -1,0 +1,102 @@
+{
+    "094": {
+        "name": "Điện Biên Phủ",
+        "type": "thanh-pho",
+        "slug": "dien-bien-phu",
+        "name_with_type": "Thành phố Điện Biên Phủ",
+        "path": "Điện Biên Phủ, Điện Biên",
+        "path_with_type": "Thành phố Điện Biên Phủ, Tỉnh Điện Biên",
+        "code": "094",
+        "parent_code": "11"
+    },
+    "095": {
+        "name": "Mường Lay",
+        "type": "thi-xa",
+        "slug": "muong-lay",
+        "name_with_type": "Thị xã Mường Lay",
+        "path": "Mường Lay, Điện Biên",
+        "path_with_type": "Thị xã Mường Lay, Tỉnh Điện Biên",
+        "code": "095",
+        "parent_code": "11"
+    },
+    "096": {
+        "name": "Mường Nhé",
+        "type": "huyen",
+        "slug": "muong-nhe",
+        "name_with_type": "Huyện Mường Nhé",
+        "path": "Mường Nhé, Điện Biên",
+        "path_with_type": "Huyện Mường Nhé, Tỉnh Điện Biên",
+        "code": "096",
+        "parent_code": "11"
+    },
+    "097": {
+        "name": "Mường Chà",
+        "type": "huyen",
+        "slug": "muong-cha",
+        "name_with_type": "Huyện Mường Chà",
+        "path": "Mường Chà, Điện Biên",
+        "path_with_type": "Huyện Mường Chà, Tỉnh Điện Biên",
+        "code": "097",
+        "parent_code": "11"
+    },
+    "098": {
+        "name": "Tủa Chùa",
+        "type": "huyen",
+        "slug": "tua-chua",
+        "name_with_type": "Huyện Tủa Chùa",
+        "path": "Tủa Chùa, Điện Biên",
+        "path_with_type": "Huyện Tủa Chùa, Tỉnh Điện Biên",
+        "code": "098",
+        "parent_code": "11"
+    },
+    "099": {
+        "name": "Tuần Giáo",
+        "type": "huyen",
+        "slug": "tuan-giao",
+        "name_with_type": "Huyện Tuần Giáo",
+        "path": "Tuần Giáo, Điện Biên",
+        "path_with_type": "Huyện Tuần Giáo, Tỉnh Điện Biên",
+        "code": "099",
+        "parent_code": "11"
+    },
+    "100": {
+        "name": "Điện Biên",
+        "type": "huyen",
+        "slug": "dien-bien",
+        "name_with_type": "Huyện Điện Biên",
+        "path": "Điện Biên, Điện Biên",
+        "path_with_type": "Huyện Điện Biên, Tỉnh Điện Biên",
+        "code": "100",
+        "parent_code": "11"
+    },
+    "101": {
+        "name": "Điện Biên Đông",
+        "type": "huyen",
+        "slug": "dien-bien-dong",
+        "name_with_type": "Huyện Điện Biên Đông",
+        "path": "Điện Biên Đông, Điện Biên",
+        "path_with_type": "Huyện Điện Biên Đông, Tỉnh Điện Biên",
+        "code": "101",
+        "parent_code": "11"
+    },
+    "102": {
+        "name": "Mường Ảng",
+        "type": "huyen",
+        "slug": "muong-ang",
+        "name_with_type": "Huyện Mường Ảng",
+        "path": "Mường Ảng, Điện Biên",
+        "path_with_type": "Huyện Mường Ảng, Tỉnh Điện Biên",
+        "code": "102",
+        "parent_code": "11"
+    },
+    "103": {
+        "name": "Nậm Pồ",
+        "type": "huyen",
+        "slug": "nam-po",
+        "name_with_type": "Huyện Nậm Pồ",
+        "path": "Nậm Pồ, Điện Biên",
+        "path_with_type": "Huyện Nậm Pồ, Tỉnh Điện Biên",
+        "code": "103",
+        "parent_code": "11"
+    }
+}

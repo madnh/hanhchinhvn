@@ -1,0 +1,102 @@
+{
+    "01447": {
+        "name": "Hùng Quốc",
+        "type": "thi-tran",
+        "slug": "hung-quoc",
+        "name_with_type": "Thị trấn Hùng Quốc",
+        "path": "Hùng Quốc, Trà Lĩnh, Cao Bằng",
+        "path_with_type": "Thị trấn Hùng Quốc, Huyện Trà Lĩnh, Tỉnh Cao Bằng",
+        "code": "01447",
+        "parent_code": "046"
+    },
+    "01450": {
+        "name": "Cô Mười",
+        "type": "xa",
+        "slug": "co-muoi",
+        "name_with_type": "Xã Cô Mười",
+        "path": "Cô Mười, Trà Lĩnh, Cao Bằng",
+        "path_with_type": "Xã Cô Mười, Huyện Trà Lĩnh, Tỉnh Cao Bằng",
+        "code": "01450",
+        "parent_code": "046"
+    },
+    "01453": {
+        "name": "Tri Phương",
+        "type": "xa",
+        "slug": "tri-phuong",
+        "name_with_type": "Xã Tri Phương",
+        "path": "Tri Phương, Trà Lĩnh, Cao Bằng",
+        "path_with_type": "Xã Tri Phương, Huyện Trà Lĩnh, Tỉnh Cao Bằng",
+        "code": "01453",
+        "parent_code": "046"
+    },
+    "01456": {
+        "name": "Quang Hán",
+        "type": "xa",
+        "slug": "quang-han",
+        "name_with_type": "Xã Quang Hán",
+        "path": "Quang Hán, Trà Lĩnh, Cao Bằng",
+        "path_with_type": "Xã Quang Hán, Huyện Trà Lĩnh, Tỉnh Cao Bằng",
+        "code": "01456",
+        "parent_code": "046"
+    },
+    "01459": {
+        "name": "Quang Vinh",
+        "type": "xa",
+        "slug": "quang-vinh",
+        "name_with_type": "Xã Quang Vinh",
+        "path": "Quang Vinh, Trà Lĩnh, Cao Bằng",
+        "path_with_type": "Xã Quang Vinh, Huyện Trà Lĩnh, Tỉnh Cao Bằng",
+        "code": "01459",
+        "parent_code": "046"
+    },
+    "01462": {
+        "name": "Xuân Nội",
+        "type": "xa",
+        "slug": "xuan-noi",
+        "name_with_type": "Xã Xuân Nội",
+        "path": "Xuân Nội, Trà Lĩnh, Cao Bằng",
+        "path_with_type": "Xã Xuân Nội, Huyện Trà Lĩnh, Tỉnh Cao Bằng",
+        "code": "01462",
+        "parent_code": "046"
+    },
+    "01465": {
+        "name": "Quang Trung",
+        "type": "xa",
+        "slug": "quang-trung",
+        "name_with_type": "Xã Quang Trung",
+        "path": "Quang Trung, Trà Lĩnh, Cao Bằng",
+        "path_with_type": "Xã Quang Trung, Huyện Trà Lĩnh, Tỉnh Cao Bằng",
+        "code": "01465",
+        "parent_code": "046"
+    },
+    "01468": {
+        "name": "Lưu Ngọc",
+        "type": "xa",
+        "slug": "luu-ngoc",
+        "name_with_type": "Xã Lưu Ngọc",
+        "path": "Lưu Ngọc, Trà Lĩnh, Cao Bằng",
+        "path_with_type": "Xã Lưu Ngọc, Huyện Trà Lĩnh, Tỉnh Cao Bằng",
+        "code": "01468",
+        "parent_code": "046"
+    },
+    "01471": {
+        "name": "Cao Chương",
+        "type": "xa",
+        "slug": "cao-chuong",
+        "name_with_type": "Xã Cao Chương",
+        "path": "Cao Chương, Trà Lĩnh, Cao Bằng",
+        "path_with_type": "Xã Cao Chương, Huyện Trà Lĩnh, Tỉnh Cao Bằng",
+        "code": "01471",
+        "parent_code": "046"
+    },
+    "01474": {
+        "name": "Quốc Toản",
+        "type": "xa",
+        "slug": "quoc-toan",
+        "name_with_type": "Xã Quốc Toản",
+        "path": "Quốc Toản, Trà Lĩnh, Cao Bằng",
+        "path_with_type": "Xã Quốc Toản, Huyện Trà Lĩnh, Tỉnh Cao Bằng",
+        "code": "01474",
+        "parent_code": "046"
+    }
+}

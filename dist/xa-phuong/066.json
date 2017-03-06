@@ -1,0 +1,222 @@
+{
+    "02134": {
+        "name": "Yến Lạc",
+        "type": "thi-tran",
+        "slug": "yen-lac",
+        "name_with_type": "Thị trấn Yến Lạc",
+        "path": "Yến Lạc, Na Rì, Bắc Kạn",
+        "path_with_type": "Thị trấn Yến Lạc, Huyện Na Rì, Tỉnh Bắc Kạn",
+        "code": "02134",
+        "parent_code": "066"
+    },
+    "02137": {
+        "name": "Vũ Loan",
+        "type": "xa",
+        "slug": "vu-loan",
+        "name_with_type": "Xã Vũ Loan",
+        "path": "Vũ Loan, Na Rì, Bắc Kạn",
+        "path_with_type": "Xã Vũ Loan, Huyện Na Rì, Tỉnh Bắc Kạn",
+        "code": "02137",
+        "parent_code": "066"
+    },
+    "02140": {
+        "name": "Lạng San",
+        "type": "xa",
+        "slug": "lang-san",
+        "name_with_type": "Xã Lạng San",
+        "path": "Lạng San, Na Rì, Bắc Kạn",
+        "path_with_type": "Xã Lạng San, Huyện Na Rì, Tỉnh Bắc Kạn",
+        "code": "02140",
+        "parent_code": "066"
+    },
+    "02143": {
+        "name": "Lương Thượng",
+        "type": "xa",
+        "slug": "luong-thuong",
+        "name_with_type": "Xã Lương Thượng",
+        "path": "Lương Thượng, Na Rì, Bắc Kạn",
+        "path_with_type": "Xã Lương Thượng, Huyện Na Rì, Tỉnh Bắc Kạn",
+        "code": "02143",
+        "parent_code": "066"
+    },
+    "02146": {
+        "name": "Kim Hỷ",
+        "type": "xa",
+        "slug": "kim-hy",
+        "name_with_type": "Xã Kim Hỷ",
+        "path": "Kim Hỷ, Na Rì, Bắc Kạn",
+        "path_with_type": "Xã Kim Hỷ, Huyện Na Rì, Tỉnh Bắc Kạn",
+        "code": "02146",
+        "parent_code": "066"
+    },
+    "02149": {
+        "name": "Văn Học",
+        "type": "xa",
+        "slug": "van-hoc",
+        "name_with_type": "Xã Văn Học",
+        "path": "Văn Học, Na Rì, Bắc Kạn",
+        "path_with_type": "Xã Văn Học, Huyện Na Rì, Tỉnh Bắc Kạn",
+        "code": "02149",
+        "parent_code": "066"
+    },
+    "02152": {
+        "name": "Cường Lợi",
+        "type": "xa",
+        "slug": "cuong-loi",
+        "name_with_type": "Xã Cường Lợi",
+        "path": "Cường Lợi, Na Rì, Bắc Kạn",
+        "path_with_type": "Xã Cường Lợi, Huyện Na Rì, Tỉnh Bắc Kạn",
+        "code": "02152",
+        "parent_code": "066"
+    },
+    "02155": {
+        "name": "Lương Hạ",
+        "type": "xa",
+        "slug": "luong-ha",
+        "name_with_type": "Xã Lương Hạ",
+        "path": "Lương Hạ, Na Rì, Bắc Kạn",
+        "path_with_type": "Xã Lương Hạ, Huyện Na Rì, Tỉnh Bắc Kạn",
+        "code": "02155",
+        "parent_code": "066"
+    },
+    "02158": {
+        "name": "Kim Lư",
+        "type": "xa",
+        "slug": "kim-lu",
+        "name_with_type": "Xã Kim Lư",
+        "path": "Kim Lư, Na Rì, Bắc Kạn",
+        "path_with_type": "Xã Kim Lư, Huyện Na Rì, Tỉnh Bắc Kạn",
+        "code": "02158",
+        "parent_code": "066"
+    },
+    "02161": {
+        "name": "Lương Thành",
+        "type": "xa",
+        "slug": "luong-thanh",
+        "name_with_type": "Xã Lương Thành",
+        "path": "Lương Thành, Na Rì, Bắc Kạn",
+        "path_with_type": "Xã Lương Thành, Huyện Na Rì, Tỉnh Bắc Kạn",
+        "code": "02161",
+        "parent_code": "066"
+    },
+    "02164": {
+        "name": "Ân Tình",
+        "type": "xa",
+        "slug": "an-tinh",
+        "name_with_type": "Xã Ân Tình",
+        "path": "Ân Tình, Na Rì, Bắc Kạn",
+        "path_with_type": "Xã Ân Tình, Huyện Na Rì, Tỉnh Bắc Kạn",
+        "code": "02164",
+        "parent_code": "066"
+    },
+    "02167": {
+        "name": "Lam Sơn",
+        "type": "xa",
+        "slug": "lam-son",
+        "name_with_type": "Xã Lam Sơn",
+        "path": "Lam Sơn, Na Rì, Bắc Kạn",
+        "path_with_type": "Xã Lam Sơn, Huyện Na Rì, Tỉnh Bắc Kạn",
+        "code": "02167",
+        "parent_code": "066"
+    },
+    "02170": {
+        "name": "Văn Minh",
+        "type": "xa",
+        "slug": "van-minh",
+        "name_with_type": "Xã Văn Minh",
+        "path": "Văn Minh, Na Rì, Bắc Kạn",
+        "path_with_type": "Xã Văn Minh, Huyện Na Rì, Tỉnh Bắc Kạn",
+        "code": "02170",
+        "parent_code": "066"
+    },
+    "02173": {
+        "name": "Côn Minh",
+        "type": "xa",
+        "slug": "con-minh",
+        "name_with_type": "Xã Côn Minh",
+        "path": "Côn Minh, Na Rì, Bắc Kạn",
+        "path_with_type": "Xã Côn Minh, Huyện Na Rì, Tỉnh Bắc Kạn",
+        "code": "02173",
+        "parent_code": "066"
+    },
+    "02176": {
+        "name": "Cư Lễ",
+        "type": "xa",
+        "slug": "cu-le",
+        "name_with_type": "Xã Cư Lễ",
+        "path": "Cư Lễ, Na Rì, Bắc Kạn",
+        "path_with_type": "Xã Cư Lễ, Huyện Na Rì, Tỉnh Bắc Kạn",
+        "code": "02176",
+        "parent_code": "066"
+    },
+    "02179": {
+        "name": "Hữu Thác",
+        "type": "xa",
+        "slug": "huu-thac",
+        "name_with_type": "Xã Hữu Thác",
+        "path": "Hữu Thác, Na Rì, Bắc Kạn",
+        "path_with_type": "Xã Hữu Thác, Huyện Na Rì, Tỉnh Bắc Kạn",
+        "code": "02179",
+        "parent_code": "066"
+    },
+    "02182": {
+        "name": "Hảo Nghĩa",
+        "type": "xa",
+        "slug": "hao-nghia",
+        "name_with_type": "Xã Hảo Nghĩa",
+        "path": "Hảo Nghĩa, Na Rì, Bắc Kạn",
+        "path_with_type": "Xã Hảo Nghĩa, Huyện Na Rì, Tỉnh Bắc Kạn",
+        "code": "02182",
+        "parent_code": "066"
+    },
+    "02185": {
+        "name": "Quang Phong",
+        "type": "xa",
+        "slug": "quang-phong",
+        "name_with_type": "Xã Quang Phong",
+        "path": "Quang Phong, Na Rì, Bắc Kạn",
+        "path_with_type": "Xã Quang Phong, Huyện Na Rì, Tỉnh Bắc Kạn",
+        "code": "02185",
+        "parent_code": "066"
+    },
+    "02188": {
+        "name": "Dương Sơn",
+        "type": "xa",
+        "slug": "duong-son",
+        "name_with_type": "Xã Dương Sơn",
+        "path": "Dương Sơn, Na Rì, Bắc Kạn",
+        "path_with_type": "Xã Dương Sơn, Huyện Na Rì, Tỉnh Bắc Kạn",
+        "code": "02188",
+        "parent_code": "066"
+    },
+    "02191": {
+        "name": "Xuân Dương",
+        "type": "xa",
+        "slug": "xuan-duong",
+        "name_with_type": "Xã Xuân Dương",
+        "path": "Xuân Dương, Na Rì, Bắc Kạn",
+        "path_with_type": "Xã Xuân Dương, Huyện Na Rì, Tỉnh Bắc Kạn",
+        "code": "02191",
+        "parent_code": "066"
+    },
+    "02194": {
+        "name": "Đổng Xá",
+        "type": "xa",
+        "slug": "dong-xa",
+        "name_with_type": "Xã Đổng Xá",
+        "path": "Đổng Xá, Na Rì, Bắc Kạn",
+        "path_with_type": "Xã Đổng Xá, Huyện Na Rì, Tỉnh Bắc Kạn",
+        "code": "02194",
+        "parent_code": "066"
+    },
+    "02197": {
+        "name": "Liêm Thuỷ",
+        "type": "xa",
+        "slug": "liem-thuy",
+        "name_with_type": "Xã Liêm Thuỷ",
+        "path": "Liêm Thuỷ, Na Rì, Bắc Kạn",
+        "path_with_type": "Xã Liêm Thuỷ, Huyện Na Rì, Tỉnh Bắc Kạn",
+        "code": "02197",
+        "parent_code": "066"
+    }
+}

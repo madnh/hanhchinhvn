@@ -1,0 +1,112 @@
+{
+    "27898": {
+        "name": "Đông Thành",
+        "type": "thi-tran",
+        "slug": "dong-thanh",
+        "name_with_type": "Thị trấn Đông Thành",
+        "path": "Đông Thành, Đức Huệ, Long An",
+        "path_with_type": "Thị trấn Đông Thành, Huyện Đức Huệ, Tỉnh Long An",
+        "code": "27898",
+        "parent_code": "801"
+    },
+    "27901": {
+        "name": "Mỹ Quý Đông",
+        "type": "xa",
+        "slug": "my-quy-dong",
+        "name_with_type": "Xã Mỹ Quý Đông",
+        "path": "Mỹ Quý Đông, Đức Huệ, Long An",
+        "path_with_type": "Xã Mỹ Quý Đông, Huyện Đức Huệ, Tỉnh Long An",
+        "code": "27901",
+        "parent_code": "801"
+    },
+    "27904": {
+        "name": "Mỹ Thạnh Bắc",
+        "type": "xa",
+        "slug": "my-thanh-bac",
+        "name_with_type": "Xã Mỹ Thạnh Bắc",
+        "path": "Mỹ Thạnh Bắc, Đức Huệ, Long An",
+        "path_with_type": "Xã Mỹ Thạnh Bắc, Huyện Đức Huệ, Tỉnh Long An",
+        "code": "27904",
+        "parent_code": "801"
+    },
+    "27907": {
+        "name": "Mỹ Quý Tây",
+        "type": "xa",
+        "slug": "my-quy-tay",
+        "name_with_type": "Xã Mỹ Quý Tây",
+        "path": "Mỹ Quý Tây, Đức Huệ, Long An",
+        "path_with_type": "Xã Mỹ Quý Tây, Huyện Đức Huệ, Tỉnh Long An",
+        "code": "27907",
+        "parent_code": "801"
+    },
+    "27910": {
+        "name": "Mỹ Thạnh Tây",
+        "type": "xa",
+        "slug": "my-thanh-tay",
+        "name_with_type": "Xã Mỹ Thạnh Tây",
+        "path": "Mỹ Thạnh Tây, Đức Huệ, Long An",
+        "path_with_type": "Xã Mỹ Thạnh Tây, Huyện Đức Huệ, Tỉnh Long An",
+        "code": "27910",
+        "parent_code": "801"
+    },
+    "27913": {
+        "name": "Mỹ Thạnh Đông",
+        "type": "xa",
+        "slug": "my-thanh-dong",
+        "name_with_type": "Xã Mỹ Thạnh Đông",
+        "path": "Mỹ Thạnh Đông, Đức Huệ, Long An",
+        "path_with_type": "Xã Mỹ Thạnh Đông, Huyện Đức Huệ, Tỉnh Long An",
+        "code": "27913",
+        "parent_code": "801"
+    },
+    "27916": {
+        "name": "Bình Thành",
+        "type": "xa",
+        "slug": "binh-thanh",
+        "name_with_type": "Xã Bình Thành",
+        "path": "Bình Thành, Đức Huệ, Long An",
+        "path_with_type": "Xã Bình Thành, Huyện Đức Huệ, Tỉnh Long An",
+        "code": "27916",
+        "parent_code": "801"
+    },
+    "27919": {
+        "name": "Bình Hòa Bắc",
+        "type": "xa",
+        "slug": "binh-hoa-bac",
+        "name_with_type": "Xã Bình Hòa Bắc",
+        "path": "Bình Hòa Bắc, Đức Huệ, Long An",
+        "path_with_type": "Xã Bình Hòa Bắc, Huyện Đức Huệ, Tỉnh Long An",
+        "code": "27919",
+        "parent_code": "801"
+    },
+    "27922": {
+        "name": "Bình Hòa Hưng",
+        "type": "xa",
+        "slug": "binh-hoa-hung",
+        "name_with_type": "Xã Bình Hòa Hưng",
+        "path": "Bình Hòa Hưng, Đức Huệ, Long An",
+        "path_with_type": "Xã Bình Hòa Hưng, Huyện Đức Huệ, Tỉnh Long An",
+        "code": "27922",
+        "parent_code": "801"
+    },
+    "27925": {
+        "name": "Bình Hòa Nam",
+        "type": "xa",
+        "slug": "binh-hoa-nam",
+        "name_with_type": "Xã Bình Hòa Nam",
+        "path": "Bình Hòa Nam, Đức Huệ, Long An",
+        "path_with_type": "Xã Bình Hòa Nam, Huyện Đức Huệ, Tỉnh Long An",
+        "code": "27925",
+        "parent_code": "801"
+    },
+    "27928": {
+        "name": "Mỹ Bình",
+        "type": "xa",
+        "slug": "my-binh",
+        "name_with_type": "Xã Mỹ Bình",
+        "path": "Mỹ Bình, Đức Huệ, Long An",
+        "path_with_type": "Xã Mỹ Bình, Huyện Đức Huệ, Tỉnh Long An",
+        "code": "27928",
+        "parent_code": "801"
+    }
+}

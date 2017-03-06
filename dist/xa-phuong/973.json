@@ -1,0 +1,72 @@
+{
+    "32233": {
+        "name": "Tam Giang Tây",
+        "type": "xa",
+        "slug": "tam-giang-tay",
+        "name_with_type": "Xã Tam Giang Tây",
+        "path": "Tam Giang Tây, Ngọc Hiển, Cà Mau",
+        "path_with_type": "Xã Tam Giang Tây, Huyện Ngọc Hiển, Tỉnh Cà Mau",
+        "code": "32233",
+        "parent_code": "973"
+    },
+    "32236": {
+        "name": "Tân Ân Tây",
+        "type": "xa",
+        "slug": "tan-an-tay",
+        "name_with_type": "Xã Tân Ân Tây",
+        "path": "Tân Ân Tây, Ngọc Hiển, Cà Mau",
+        "path_with_type": "Xã Tân Ân Tây, Huyện Ngọc Hiển, Tỉnh Cà Mau",
+        "code": "32236",
+        "parent_code": "973"
+    },
+    "32239": {
+        "name": "Viên An Đông",
+        "type": "xa",
+        "slug": "vien-an-dong",
+        "name_with_type": "Xã Viên An Đông",
+        "path": "Viên An Đông, Ngọc Hiển, Cà Mau",
+        "path_with_type": "Xã Viên An Đông, Huyện Ngọc Hiển, Tỉnh Cà Mau",
+        "code": "32239",
+        "parent_code": "973"
+    },
+    "32242": {
+        "name": "Viên An",
+        "type": "xa",
+        "slug": "vien-an",
+        "name_with_type": "Xã Viên An",
+        "path": "Viên An, Ngọc Hiển, Cà Mau",
+        "path_with_type": "Xã Viên An, Huyện Ngọc Hiển, Tỉnh Cà Mau",
+        "code": "32242",
+        "parent_code": "973"
+    },
+    "32244": {
+        "name": "Rạch Gốc",
+        "type": "thi-tran",
+        "slug": "rach-goc",
+        "name_with_type": "Thị trấn Rạch Gốc",
+        "path": "Rạch Gốc, Ngọc Hiển, Cà Mau",
+        "path_with_type": "Thị trấn Rạch Gốc, Huyện Ngọc Hiển, Tỉnh Cà Mau",
+        "code": "32244",
+        "parent_code": "973"
+    },
+    "32245": {
+        "name": "Tân Ân",
+        "type": "xa",
+        "slug": "tan-an",
+        "name_with_type": "Xã Tân Ân",
+        "path": "Tân Ân, Ngọc Hiển, Cà Mau",
+        "path_with_type": "Xã Tân Ân, Huyện Ngọc Hiển, Tỉnh Cà Mau",
+        "code": "32245",
+        "parent_code": "973"
+    },
+    "32248": {
+        "name": "Đất Mũi",
+        "type": "xa",
+        "slug": "dat-mui",
+        "name_with_type": "Xã Đất Mũi",
+        "path": "Đất Mũi, Ngọc Hiển, Cà Mau",
+        "path_with_type": "Xã Đất Mũi, Huyện Ngọc Hiển, Tỉnh Cà Mau",
+        "code": "32248",
+        "parent_code": "973"
+    }
+}

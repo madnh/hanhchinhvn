@@ -1,0 +1,232 @@
+{
+    "14923": {
+        "name": "Cành Nàng",
+        "type": "thi-tran",
+        "slug": "canh-nang",
+        "name_with_type": "Thị trấn Cành Nàng",
+        "path": "Cành Nàng, Bá Thước, Thanh Hóa",
+        "path_with_type": "Thị trấn Cành Nàng, Huyện Bá Thước, Tỉnh Thanh Hóa",
+        "code": "14923",
+        "parent_code": "386"
+    },
+    "14926": {
+        "name": "Điền Thượng",
+        "type": "xa",
+        "slug": "dien-thuong",
+        "name_with_type": "Xã Điền Thượng",
+        "path": "Điền Thượng, Bá Thước, Thanh Hóa",
+        "path_with_type": "Xã Điền Thượng, Huyện Bá Thước, Tỉnh Thanh Hóa",
+        "code": "14926",
+        "parent_code": "386"
+    },
+    "14929": {
+        "name": "Điền Hạ",
+        "type": "xa",
+        "slug": "dien-ha",
+        "name_with_type": "Xã Điền Hạ",
+        "path": "Điền Hạ, Bá Thước, Thanh Hóa",
+        "path_with_type": "Xã Điền Hạ, Huyện Bá Thước, Tỉnh Thanh Hóa",
+        "code": "14929",
+        "parent_code": "386"
+    },
+    "14932": {
+        "name": "Điền Quang",
+        "type": "xa",
+        "slug": "dien-quang",
+        "name_with_type": "Xã Điền Quang",
+        "path": "Điền Quang, Bá Thước, Thanh Hóa",
+        "path_with_type": "Xã Điền Quang, Huyện Bá Thước, Tỉnh Thanh Hóa",
+        "code": "14932",
+        "parent_code": "386"
+    },
+    "14935": {
+        "name": "Điền Trung",
+        "type": "xa",
+        "slug": "dien-trung",
+        "name_with_type": "Xã Điền Trung",
+        "path": "Điền Trung, Bá Thước, Thanh Hóa",
+        "path_with_type": "Xã Điền Trung, Huyện Bá Thước, Tỉnh Thanh Hóa",
+        "code": "14935",
+        "parent_code": "386"
+    },
+    "14938": {
+        "name": "Thành Sơn",
+        "type": "xa",
+        "slug": "thanh-son",
+        "name_with_type": "Xã Thành Sơn",
+        "path": "Thành Sơn, Bá Thước, Thanh Hóa",
+        "path_with_type": "Xã Thành Sơn, Huyện Bá Thước, Tỉnh Thanh Hóa",
+        "code": "14938",
+        "parent_code": "386"
+    },
+    "14941": {
+        "name": "Lương Ngoại",
+        "type": "xa",
+        "slug": "luong-ngoai",
+        "name_with_type": "Xã Lương Ngoại",
+        "path": "Lương Ngoại, Bá Thước, Thanh Hóa",
+        "path_with_type": "Xã Lương Ngoại, Huyện Bá Thước, Tỉnh Thanh Hóa",
+        "code": "14941",
+        "parent_code": "386"
+    },
+    "14944": {
+        "name": "Ái Thượng",
+        "type": "xa",
+        "slug": "ai-thuong",
+        "name_with_type": "Xã Ái Thượng",
+        "path": "Ái Thượng, Bá Thước, Thanh Hóa",
+        "path_with_type": "Xã Ái Thượng, Huyện Bá Thước, Tỉnh Thanh Hóa",
+        "code": "14944",
+        "parent_code": "386"
+    },
+    "14947": {
+        "name": "Lương Nội",
+        "type": "xa",
+        "slug": "luong-noi",
+        "name_with_type": "Xã Lương Nội",
+        "path": "Lương Nội, Bá Thước, Thanh Hóa",
+        "path_with_type": "Xã Lương Nội, Huyện Bá Thước, Tỉnh Thanh Hóa",
+        "code": "14947",
+        "parent_code": "386"
+    },
+    "14950": {
+        "name": "Điền Lư",
+        "type": "xa",
+        "slug": "dien-lu",
+        "name_with_type": "Xã Điền Lư",
+        "path": "Điền Lư, Bá Thước, Thanh Hóa",
+        "path_with_type": "Xã Điền Lư, Huyện Bá Thước, Tỉnh Thanh Hóa",
+        "code": "14950",
+        "parent_code": "386"
+    },
+    "14953": {
+        "name": "Lương Trung",
+        "type": "xa",
+        "slug": "luong-trung",
+        "name_with_type": "Xã Lương Trung",
+        "path": "Lương Trung, Bá Thước, Thanh Hóa",
+        "path_with_type": "Xã Lương Trung, Huyện Bá Thước, Tỉnh Thanh Hóa",
+        "code": "14953",
+        "parent_code": "386"
+    },
+    "14956": {
+        "name": "Lũng Niêm",
+        "type": "xa",
+        "slug": "lung-niem",
+        "name_with_type": "Xã Lũng Niêm",
+        "path": "Lũng Niêm, Bá Thước, Thanh Hóa",
+        "path_with_type": "Xã Lũng Niêm, Huyện Bá Thước, Tỉnh Thanh Hóa",
+        "code": "14956",
+        "parent_code": "386"
+    },
+    "14959": {
+        "name": "Lũng Cao",
+        "type": "xa",
+        "slug": "lung-cao",
+        "name_with_type": "Xã Lũng Cao",
+        "path": "Lũng Cao, Bá Thước, Thanh Hóa",
+        "path_with_type": "Xã Lũng Cao, Huyện Bá Thước, Tỉnh Thanh Hóa",
+        "code": "14959",
+        "parent_code": "386"
+    },
+    "14962": {
+        "name": "Hạ Trung",
+        "type": "xa",
+        "slug": "ha-trung",
+        "name_with_type": "Xã Hạ Trung",
+        "path": "Hạ Trung, Bá Thước, Thanh Hóa",
+        "path_with_type": "Xã Hạ Trung, Huyện Bá Thước, Tỉnh Thanh Hóa",
+        "code": "14962",
+        "parent_code": "386"
+    },
+    "14965": {
+        "name": "Cổ Lũng",
+        "type": "xa",
+        "slug": "co-lung",
+        "name_with_type": "Xã Cổ Lũng",
+        "path": "Cổ Lũng, Bá Thước, Thanh Hóa",
+        "path_with_type": "Xã Cổ Lũng, Huyện Bá Thước, Tỉnh Thanh Hóa",
+        "code": "14965",
+        "parent_code": "386"
+    },
+    "14968": {
+        "name": "Thành Lâm",
+        "type": "xa",
+        "slug": "thanh-lam",
+        "name_with_type": "Xã Thành Lâm",
+        "path": "Thành Lâm, Bá Thước, Thanh Hóa",
+        "path_with_type": "Xã Thành Lâm, Huyện Bá Thước, Tỉnh Thanh Hóa",
+        "code": "14968",
+        "parent_code": "386"
+    },
+    "14971": {
+        "name": "Ban Công",
+        "type": "xa",
+        "slug": "ban-cong",
+        "name_with_type": "Xã Ban Công",
+        "path": "Ban Công, Bá Thước, Thanh Hóa",
+        "path_with_type": "Xã Ban Công, Huyện Bá Thước, Tỉnh Thanh Hóa",
+        "code": "14971",
+        "parent_code": "386"
+    },
+    "14974": {
+        "name": "Kỳ Tân",
+        "type": "xa",
+        "slug": "ky-tan",
+        "name_with_type": "Xã Kỳ Tân",
+        "path": "Kỳ Tân, Bá Thước, Thanh Hóa",
+        "path_with_type": "Xã Kỳ Tân, Huyện Bá Thước, Tỉnh Thanh Hóa",
+        "code": "14974",
+        "parent_code": "386"
+    },
+    "14977": {
+        "name": "Văn Nho",
+        "type": "xa",
+        "slug": "van-nho",
+        "name_with_type": "Xã Văn Nho",
+        "path": "Văn Nho, Bá Thước, Thanh Hóa",
+        "path_with_type": "Xã Văn Nho, Huyện Bá Thước, Tỉnh Thanh Hóa",
+        "code": "14977",
+        "parent_code": "386"
+    },
+    "14980": {
+        "name": "Thiết Ống",
+        "type": "xa",
+        "slug": "thiet-ong",
+        "name_with_type": "Xã Thiết Ống",
+        "path": "Thiết Ống, Bá Thước, Thanh Hóa",
+        "path_with_type": "Xã Thiết Ống, Huyện Bá Thước, Tỉnh Thanh Hóa",
+        "code": "14980",
+        "parent_code": "386"
+    },
+    "14983": {
+        "name": "Lâm Sa",
+        "type": "xa",
+        "slug": "lam-sa",
+        "name_with_type": "Xã Lâm Sa",
+        "path": "Lâm Sa, Bá Thước, Thanh Hóa",
+        "path_with_type": "Xã Lâm Sa, Huyện Bá Thước, Tỉnh Thanh Hóa",
+        "code": "14983",
+        "parent_code": "386"
+    },
+    "14986": {
+        "name": "Thiết Kế",
+        "type": "xa",
+        "slug": "thiet-ke",
+        "name_with_type": "Xã Thiết Kế",
+        "path": "Thiết Kế, Bá Thước, Thanh Hóa",
+        "path_with_type": "Xã Thiết Kế, Huyện Bá Thước, Tỉnh Thanh Hóa",
+        "code": "14986",
+        "parent_code": "386"
+    },
+    "14989": {
+        "name": "Tân Lập",
+        "type": "xa",
+        "slug": "tan-lap",
+        "name_with_type": "Xã Tân Lập",
+        "path": "Tân Lập, Bá Thước, Thanh Hóa",
+        "path_with_type": "Xã Tân Lập, Huyện Bá Thước, Tỉnh Thanh Hóa",
+        "code": "14989",
+        "parent_code": "386"
+    }
+}

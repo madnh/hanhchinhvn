@@ -1,0 +1,162 @@
+{
+    "27208": {
+        "name": "15",
+        "type": "phuong",
+        "slug": "15",
+        "name_with_type": "Phường 15",
+        "path": "15, 11, Hồ Chí Minh",
+        "path_with_type": "Phường 15, Quận 11, Thành phố Hồ Chí Minh",
+        "code": "27208",
+        "parent_code": "772"
+    },
+    "27211": {
+        "name": "05",
+        "type": "phuong",
+        "slug": "05",
+        "name_with_type": "Phường 05",
+        "path": "05, 11, Hồ Chí Minh",
+        "path_with_type": "Phường 05, Quận 11, Thành phố Hồ Chí Minh",
+        "code": "27211",
+        "parent_code": "772"
+    },
+    "27214": {
+        "name": "14",
+        "type": "phuong",
+        "slug": "14",
+        "name_with_type": "Phường 14",
+        "path": "14, 11, Hồ Chí Minh",
+        "path_with_type": "Phường 14, Quận 11, Thành phố Hồ Chí Minh",
+        "code": "27214",
+        "parent_code": "772"
+    },
+    "27217": {
+        "name": "11",
+        "type": "phuong",
+        "slug": "11",
+        "name_with_type": "Phường 11",
+        "path": "11, 11, Hồ Chí Minh",
+        "path_with_type": "Phường 11, Quận 11, Thành phố Hồ Chí Minh",
+        "code": "27217",
+        "parent_code": "772"
+    },
+    "27220": {
+        "name": "03",
+        "type": "phuong",
+        "slug": "03",
+        "name_with_type": "Phường 03",
+        "path": "03, 11, Hồ Chí Minh",
+        "path_with_type": "Phường 03, Quận 11, Thành phố Hồ Chí Minh",
+        "code": "27220",
+        "parent_code": "772"
+    },
+    "27223": {
+        "name": "10",
+        "type": "phuong",
+        "slug": "10",
+        "name_with_type": "Phường 10",
+        "path": "10, 11, Hồ Chí Minh",
+        "path_with_type": "Phường 10, Quận 11, Thành phố Hồ Chí Minh",
+        "code": "27223",
+        "parent_code": "772"
+    },
+    "27226": {
+        "name": "13",
+        "type": "phuong",
+        "slug": "13",
+        "name_with_type": "Phường 13",
+        "path": "13, 11, Hồ Chí Minh",
+        "path_with_type": "Phường 13, Quận 11, Thành phố Hồ Chí Minh",
+        "code": "27226",
+        "parent_code": "772"
+    },
+    "27229": {
+        "name": "08",
+        "type": "phuong",
+        "slug": "08",
+        "name_with_type": "Phường 08",
+        "path": "08, 11, Hồ Chí Minh",
+        "path_with_type": "Phường 08, Quận 11, Thành phố Hồ Chí Minh",
+        "code": "27229",
+        "parent_code": "772"
+    },
+    "27232": {
+        "name": "09",
+        "type": "phuong",
+        "slug": "09",
+        "name_with_type": "Phường 09",
+        "path": "09, 11, Hồ Chí Minh",
+        "path_with_type": "Phường 09, Quận 11, Thành phố Hồ Chí Minh",
+        "code": "27232",
+        "parent_code": "772"
+    },
+    "27235": {
+        "name": "12",
+        "type": "phuong",
+        "slug": "12",
+        "name_with_type": "Phường 12",
+        "path": "12, 11, Hồ Chí Minh",
+        "path_with_type": "Phường 12, Quận 11, Thành phố Hồ Chí Minh",
+        "code": "27235",
+        "parent_code": "772"
+    },
+    "27238": {
+        "name": "07",
+        "type": "phuong",
+        "slug": "07",
+        "name_with_type": "Phường 07",
+        "path": "07, 11, Hồ Chí Minh",
+        "path_with_type": "Phường 07, Quận 11, Thành phố Hồ Chí Minh",
+        "code": "27238",
+        "parent_code": "772"
+    },
+    "27241": {
+        "name": "06",
+        "type": "phuong",
+        "slug": "06",
+        "name_with_type": "Phường 06",
+        "path": "06, 11, Hồ Chí Minh",
+        "path_with_type": "Phường 06, Quận 11, Thành phố Hồ Chí Minh",
+        "code": "27241",
+        "parent_code": "772"
+    },
+    "27244": {
+        "name": "04",
+        "type": "phuong",
+        "slug": "04",
+        "name_with_type": "Phường 04",
+        "path": "04, 11, Hồ Chí Minh",
+        "path_with_type": "Phường 04, Quận 11, Thành phố Hồ Chí Minh",
+        "code": "27244",
+        "parent_code": "772"
+    },
+    "27247": {
+        "name": "01",
+        "type": "phuong",
+        "slug": "01",
+        "name_with_type": "Phường 01",
+        "path": "01, 11, Hồ Chí Minh",
+        "path_with_type": "Phường 01, Quận 11, Thành phố Hồ Chí Minh",
+        "code": "27247",
+        "parent_code": "772"
+    },
+    "27250": {
+        "name": "02",
+        "type": "phuong",
+        "slug": "02",
+        "name_with_type": "Phường 02",
+        "path": "02, 11, Hồ Chí Minh",
+        "path_with_type": "Phường 02, Quận 11, Thành phố Hồ Chí Minh",
+        "code": "27250",
+        "parent_code": "772"
+    },
+    "27253": {
+        "name": "16",
+        "type": "phuong",
+        "slug": "16",
+        "name_with_type": "Phường 16",
+        "path": "16, 11, Hồ Chí Minh",
+        "path_with_type": "Phường 16, Quận 11, Thành phố Hồ Chí Minh",
+        "code": "27253",
+        "parent_code": "772"
+    }
+}

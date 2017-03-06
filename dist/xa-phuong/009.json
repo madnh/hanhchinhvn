@@ -1,0 +1,112 @@
+{
+    "00343": {
+        "name": "Nhân Chính",
+        "type": "phuong",
+        "slug": "nhan-chinh",
+        "name_with_type": "Phường Nhân Chính",
+        "path": "Nhân Chính, Thanh Xuân, Hà Nội",
+        "path_with_type": "Phường Nhân Chính, Quận Thanh Xuân, Thành phố Hà Nội",
+        "code": "00343",
+        "parent_code": "009"
+    },
+    "00346": {
+        "name": "Thượng Đình",
+        "type": "phuong",
+        "slug": "thuong-dinh",
+        "name_with_type": "Phường Thượng Đình",
+        "path": "Thượng Đình, Thanh Xuân, Hà Nội",
+        "path_with_type": "Phường Thượng Đình, Quận Thanh Xuân, Thành phố Hà Nội",
+        "code": "00346",
+        "parent_code": "009"
+    },
+    "00349": {
+        "name": "Khương Trung",
+        "type": "phuong",
+        "slug": "khuong-trung",
+        "name_with_type": "Phường Khương Trung",
+        "path": "Khương Trung, Thanh Xuân, Hà Nội",
+        "path_with_type": "Phường Khương Trung, Quận Thanh Xuân, Thành phố Hà Nội",
+        "code": "00349",
+        "parent_code": "009"
+    },
+    "00352": {
+        "name": "Khương Mai",
+        "type": "phuong",
+        "slug": "khuong-mai",
+        "name_with_type": "Phường Khương Mai",
+        "path": "Khương Mai, Thanh Xuân, Hà Nội",
+        "path_with_type": "Phường Khương Mai, Quận Thanh Xuân, Thành phố Hà Nội",
+        "code": "00352",
+        "parent_code": "009"
+    },
+    "00355": {
+        "name": "Thanh Xuân Trung",
+        "type": "phuong",
+        "slug": "thanh-xuan-trung",
+        "name_with_type": "Phường Thanh Xuân Trung",
+        "path": "Thanh Xuân Trung, Thanh Xuân, Hà Nội",
+        "path_with_type": "Phường Thanh Xuân Trung, Quận Thanh Xuân, Thành phố Hà Nội",
+        "code": "00355",
+        "parent_code": "009"
+    },
+    "00358": {
+        "name": "Phương Liệt",
+        "type": "phuong",
+        "slug": "phuong-liet",
+        "name_with_type": "Phường Phương Liệt",
+        "path": "Phương Liệt, Thanh Xuân, Hà Nội",
+        "path_with_type": "Phường Phương Liệt, Quận Thanh Xuân, Thành phố Hà Nội",
+        "code": "00358",
+        "parent_code": "009"
+    },
+    "00361": {
+        "name": "Hạ Đình",
+        "type": "phuong",
+        "slug": "ha-dinh",
+        "name_with_type": "Phường Hạ Đình",
+        "path": "Hạ Đình, Thanh Xuân, Hà Nội",
+        "path_with_type": "Phường Hạ Đình, Quận Thanh Xuân, Thành phố Hà Nội",
+        "code": "00361",
+        "parent_code": "009"
+    },
+    "00364": {
+        "name": "Khương Đình",
+        "type": "phuong",
+        "slug": "khuong-dinh",
+        "name_with_type": "Phường Khương Đình",
+        "path": "Khương Đình, Thanh Xuân, Hà Nội",
+        "path_with_type": "Phường Khương Đình, Quận Thanh Xuân, Thành phố Hà Nội",
+        "code": "00364",
+        "parent_code": "009"
+    },
+    "00367": {
+        "name": "Thanh Xuân Bắc",
+        "type": "phuong",
+        "slug": "thanh-xuan-bac",
+        "name_with_type": "Phường Thanh Xuân Bắc",
+        "path": "Thanh Xuân Bắc, Thanh Xuân, Hà Nội",
+        "path_with_type": "Phường Thanh Xuân Bắc, Quận Thanh Xuân, Thành phố Hà Nội",
+        "code": "00367",
+        "parent_code": "009"
+    },
+    "00370": {
+        "name": "Thanh Xuân Nam",
+        "type": "phuong",
+        "slug": "thanh-xuan-nam",
+        "name_with_type": "Phường Thanh Xuân Nam",
+        "path": "Thanh Xuân Nam, Thanh Xuân, Hà Nội",
+        "path_with_type": "Phường Thanh Xuân Nam, Quận Thanh Xuân, Thành phố Hà Nội",
+        "code": "00370",
+        "parent_code": "009"
+    },
+    "00373": {
+        "name": "Kim Giang",
+        "type": "phuong",
+        "slug": "kim-giang",
+        "name_with_type": "Phường Kim Giang",
+        "path": "Kim Giang, Thanh Xuân, Hà Nội",
+        "path_with_type": "Phường Kim Giang, Quận Thanh Xuân, Thành phố Hà Nội",
+        "code": "00373",
+        "parent_code": "009"
+    }
+}

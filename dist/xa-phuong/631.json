@@ -1,0 +1,102 @@
+{
+    "23857": {
+        "name": "Chư Ty",
+        "type": "thi-tran",
+        "slug": "chu-ty",
+        "name_with_type": "Thị trấn Chư Ty",
+        "path": "Chư Ty, Đức Cơ, Gia Lai",
+        "path_with_type": "Thị trấn Chư Ty, Huyện Đức Cơ, Tỉnh Gia Lai",
+        "code": "23857",
+        "parent_code": "631"
+    },
+    "23860": {
+        "name": "Ia Dơk",
+        "type": "xa",
+        "slug": "ia-dok",
+        "name_with_type": "Xã Ia Dơk",
+        "path": "Ia Dơk, Đức Cơ, Gia Lai",
+        "path_with_type": "Xã Ia Dơk, Huyện Đức Cơ, Tỉnh Gia Lai",
+        "code": "23860",
+        "parent_code": "631"
+    },
+    "23863": {
+        "name": "Ia Krêl",
+        "type": "xa",
+        "slug": "ia-krel",
+        "name_with_type": "Xã Ia Krêl",
+        "path": "Ia Krêl, Đức Cơ, Gia Lai",
+        "path_with_type": "Xã Ia Krêl, Huyện Đức Cơ, Tỉnh Gia Lai",
+        "code": "23863",
+        "parent_code": "631"
+    },
+    "23866": {
+        "name": "Ia Din",
+        "type": "xa",
+        "slug": "ia-din",
+        "name_with_type": "Xã Ia Din",
+        "path": "Ia Din, Đức Cơ, Gia Lai",
+        "path_with_type": "Xã Ia Din, Huyện Đức Cơ, Tỉnh Gia Lai",
+        "code": "23866",
+        "parent_code": "631"
+    },
+    "23869": {
+        "name": "Ia Kla",
+        "type": "xa",
+        "slug": "ia-kla",
+        "name_with_type": "Xã Ia Kla",
+        "path": "Ia Kla, Đức Cơ, Gia Lai",
+        "path_with_type": "Xã Ia Kla, Huyện Đức Cơ, Tỉnh Gia Lai",
+        "code": "23869",
+        "parent_code": "631"
+    },
+    "23872": {
+        "name": "Ia Dom",
+        "type": "xa",
+        "slug": "ia-dom",
+        "name_with_type": "Xã Ia Dom",
+        "path": "Ia Dom, Đức Cơ, Gia Lai",
+        "path_with_type": "Xã Ia Dom, Huyện Đức Cơ, Tỉnh Gia Lai",
+        "code": "23872",
+        "parent_code": "631"
+    },
+    "23875": {
+        "name": "Ia Lang",
+        "type": "xa",
+        "slug": "ia-lang",
+        "name_with_type": "Xã Ia Lang",
+        "path": "Ia Lang, Đức Cơ, Gia Lai",
+        "path_with_type": "Xã Ia Lang, Huyện Đức Cơ, Tỉnh Gia Lai",
+        "code": "23875",
+        "parent_code": "631"
+    },
+    "23878": {
+        "name": "Ia Kriêng",
+        "type": "xa",
+        "slug": "ia-krieng",
+        "name_with_type": "Xã Ia Kriêng",
+        "path": "Ia Kriêng, Đức Cơ, Gia Lai",
+        "path_with_type": "Xã Ia Kriêng, Huyện Đức Cơ, Tỉnh Gia Lai",
+        "code": "23878",
+        "parent_code": "631"
+    },
+    "23881": {
+        "name": "Ia Pnôn",
+        "type": "xa",
+        "slug": "ia-pnon",
+        "name_with_type": "Xã Ia Pnôn",
+        "path": "Ia Pnôn, Đức Cơ, Gia Lai",
+        "path_with_type": "Xã Ia Pnôn, Huyện Đức Cơ, Tỉnh Gia Lai",
+        "code": "23881",
+        "parent_code": "631"
+    },
+    "23884": {
+        "name": "Ia Nan",
+        "type": "xa",
+        "slug": "ia-nan",
+        "name_with_type": "Xã Ia Nan",
+        "path": "Ia Nan, Đức Cơ, Gia Lai",
+        "path_with_type": "Xã Ia Nan, Huyện Đức Cơ, Tỉnh Gia Lai",
+        "code": "23884",
+        "parent_code": "631"
+    }
+}

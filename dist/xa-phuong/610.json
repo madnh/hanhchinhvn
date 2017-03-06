@@ -1,0 +1,122 @@
+{
+    "23341": {
+        "name": "Đắk Glei",
+        "type": "thi-tran",
+        "slug": "dak-glei",
+        "name_with_type": "Thị trấn Đắk Glei",
+        "path": "Đắk Glei, Đắk Glei, Kon Tum",
+        "path_with_type": "Thị trấn Đắk Glei, Huyện Đắk Glei, Tỉnh Kon Tum",
+        "code": "23341",
+        "parent_code": "610"
+    },
+    "23344": {
+        "name": "Đắk Plô",
+        "type": "xa",
+        "slug": "dak-plo",
+        "name_with_type": "Xã Đắk Plô",
+        "path": "Đắk Plô, Đắk Glei, Kon Tum",
+        "path_with_type": "Xã Đắk Plô, Huyện Đắk Glei, Tỉnh Kon Tum",
+        "code": "23344",
+        "parent_code": "610"
+    },
+    "23347": {
+        "name": "Đắk Man",
+        "type": "xa",
+        "slug": "dak-man",
+        "name_with_type": "Xã Đắk Man",
+        "path": "Đắk Man, Đắk Glei, Kon Tum",
+        "path_with_type": "Xã Đắk Man, Huyện Đắk Glei, Tỉnh Kon Tum",
+        "code": "23347",
+        "parent_code": "610"
+    },
+    "23350": {
+        "name": "Đắk Nhoong",
+        "type": "xa",
+        "slug": "dak-nhoong",
+        "name_with_type": "Xã Đắk Nhoong",
+        "path": "Đắk Nhoong, Đắk Glei, Kon Tum",
+        "path_with_type": "Xã Đắk Nhoong, Huyện Đắk Glei, Tỉnh Kon Tum",
+        "code": "23350",
+        "parent_code": "610"
+    },
+    "23353": {
+        "name": "Đắk Pék",
+        "type": "xa",
+        "slug": "dak-pek",
+        "name_with_type": "Xã Đắk Pék",
+        "path": "Đắk Pék, Đắk Glei, Kon Tum",
+        "path_with_type": "Xã Đắk Pék, Huyện Đắk Glei, Tỉnh Kon Tum",
+        "code": "23353",
+        "parent_code": "610"
+    },
+    "23356": {
+        "name": "Đắk Choong",
+        "type": "xa",
+        "slug": "dak-choong",
+        "name_with_type": "Xã Đắk Choong",
+        "path": "Đắk Choong, Đắk Glei, Kon Tum",
+        "path_with_type": "Xã Đắk Choong, Huyện Đắk Glei, Tỉnh Kon Tum",
+        "code": "23356",
+        "parent_code": "610"
+    },
+    "23359": {
+        "name": "Xốp",
+        "type": "xa",
+        "slug": "xop",
+        "name_with_type": "Xã Xốp",
+        "path": "Xốp, Đắk Glei, Kon Tum",
+        "path_with_type": "Xã Xốp, Huyện Đắk Glei, Tỉnh Kon Tum",
+        "code": "23359",
+        "parent_code": "610"
+    },
+    "23362": {
+        "name": "Mường Hoong",
+        "type": "xa",
+        "slug": "muong-hoong",
+        "name_with_type": "Xã Mường Hoong",
+        "path": "Mường Hoong, Đắk Glei, Kon Tum",
+        "path_with_type": "Xã Mường Hoong, Huyện Đắk Glei, Tỉnh Kon Tum",
+        "code": "23362",
+        "parent_code": "610"
+    },
+    "23365": {
+        "name": "Ngọc Linh",
+        "type": "xa",
+        "slug": "ngoc-linh",
+        "name_with_type": "Xã Ngọc Linh",
+        "path": "Ngọc Linh, Đắk Glei, Kon Tum",
+        "path_with_type": "Xã Ngọc Linh, Huyện Đắk Glei, Tỉnh Kon Tum",
+        "code": "23365",
+        "parent_code": "610"
+    },
+    "23368": {
+        "name": "Đắk Long",
+        "type": "xa",
+        "slug": "dak-long",
+        "name_with_type": "Xã Đắk Long",
+        "path": "Đắk Long, Đắk Glei, Kon Tum",
+        "path_with_type": "Xã Đắk Long, Huyện Đắk Glei, Tỉnh Kon Tum",
+        "code": "23368",
+        "parent_code": "610"
+    },
+    "23371": {
+        "name": "Đắk KRoong",
+        "type": "xa",
+        "slug": "dak-kroong",
+        "name_with_type": "Xã Đắk KRoong",
+        "path": "Đắk KRoong, Đắk Glei, Kon Tum",
+        "path_with_type": "Xã Đắk KRoong, Huyện Đắk Glei, Tỉnh Kon Tum",
+        "code": "23371",
+        "parent_code": "610"
+    },
+    "23374": {
+        "name": "Đắk Môn",
+        "type": "xa",
+        "slug": "dak-mon",
+        "name_with_type": "Xã Đắk Môn",
+        "path": "Đắk Môn, Đắk Glei, Kon Tum",
+        "path_with_type": "Xã Đắk Môn, Huyện Đắk Glei, Tỉnh Kon Tum",
+        "code": "23374",
+        "parent_code": "610"
+    }
+}

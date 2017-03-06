@@ -1,0 +1,172 @@
+{
+    "20965": {
+        "name": "Núi Thành",
+        "type": "thi-tran",
+        "slug": "nui-thanh",
+        "name_with_type": "Thị trấn Núi Thành",
+        "path": "Núi Thành, Núi Thành, Quảng Nam",
+        "path_with_type": "Thị trấn Núi Thành, Huyện Núi Thành, Tỉnh Quảng Nam",
+        "code": "20965",
+        "parent_code": "517"
+    },
+    "20968": {
+        "name": "Tam Xuân I",
+        "type": "xa",
+        "slug": "tam-xuan-i",
+        "name_with_type": "Xã Tam Xuân I",
+        "path": "Tam Xuân I, Núi Thành, Quảng Nam",
+        "path_with_type": "Xã Tam Xuân I, Huyện Núi Thành, Tỉnh Quảng Nam",
+        "code": "20968",
+        "parent_code": "517"
+    },
+    "20971": {
+        "name": "Tam Xuân II",
+        "type": "xa",
+        "slug": "tam-xuan-ii",
+        "name_with_type": "Xã Tam Xuân II",
+        "path": "Tam Xuân II, Núi Thành, Quảng Nam",
+        "path_with_type": "Xã Tam Xuân II, Huyện Núi Thành, Tỉnh Quảng Nam",
+        "code": "20971",
+        "parent_code": "517"
+    },
+    "20974": {
+        "name": "Tam Tiến",
+        "type": "xa",
+        "slug": "tam-tien",
+        "name_with_type": "Xã Tam Tiến",
+        "path": "Tam Tiến, Núi Thành, Quảng Nam",
+        "path_with_type": "Xã Tam Tiến, Huyện Núi Thành, Tỉnh Quảng Nam",
+        "code": "20974",
+        "parent_code": "517"
+    },
+    "20977": {
+        "name": "Tam Sơn",
+        "type": "xa",
+        "slug": "tam-son",
+        "name_with_type": "Xã Tam Sơn",
+        "path": "Tam Sơn, Núi Thành, Quảng Nam",
+        "path_with_type": "Xã Tam Sơn, Huyện Núi Thành, Tỉnh Quảng Nam",
+        "code": "20977",
+        "parent_code": "517"
+    },
+    "20980": {
+        "name": "Tam Thạnh",
+        "type": "xa",
+        "slug": "tam-thanh",
+        "name_with_type": "Xã Tam Thạnh",
+        "path": "Tam Thạnh, Núi Thành, Quảng Nam",
+        "path_with_type": "Xã Tam Thạnh, Huyện Núi Thành, Tỉnh Quảng Nam",
+        "code": "20980",
+        "parent_code": "517"
+    },
+    "20983": {
+        "name": "Tam Anh Bắc",
+        "type": "xa",
+        "slug": "tam-anh-bac",
+        "name_with_type": "Xã Tam Anh Bắc",
+        "path": "Tam Anh Bắc, Núi Thành, Quảng Nam",
+        "path_with_type": "Xã Tam Anh Bắc, Huyện Núi Thành, Tỉnh Quảng Nam",
+        "code": "20983",
+        "parent_code": "517"
+    },
+    "20984": {
+        "name": "Tam Anh Nam",
+        "type": "xa",
+        "slug": "tam-anh-nam",
+        "name_with_type": "Xã Tam Anh Nam",
+        "path": "Tam Anh Nam, Núi Thành, Quảng Nam",
+        "path_with_type": "Xã Tam Anh Nam, Huyện Núi Thành, Tỉnh Quảng Nam",
+        "code": "20984",
+        "parent_code": "517"
+    },
+    "20986": {
+        "name": "Tam Hòa",
+        "type": "xa",
+        "slug": "tam-hoa",
+        "name_with_type": "Xã Tam Hòa",
+        "path": "Tam Hòa, Núi Thành, Quảng Nam",
+        "path_with_type": "Xã Tam Hòa, Huyện Núi Thành, Tỉnh Quảng Nam",
+        "code": "20986",
+        "parent_code": "517"
+    },
+    "20989": {
+        "name": "Tam Hiệp",
+        "type": "xa",
+        "slug": "tam-hiep",
+        "name_with_type": "Xã Tam Hiệp",
+        "path": "Tam Hiệp, Núi Thành, Quảng Nam",
+        "path_with_type": "Xã Tam Hiệp, Huyện Núi Thành, Tỉnh Quảng Nam",
+        "code": "20989",
+        "parent_code": "517"
+    },
+    "20992": {
+        "name": "Tam Hải",
+        "type": "xa",
+        "slug": "tam-hai",
+        "name_with_type": "Xã Tam Hải",
+        "path": "Tam Hải, Núi Thành, Quảng Nam",
+        "path_with_type": "Xã Tam Hải, Huyện Núi Thành, Tỉnh Quảng Nam",
+        "code": "20992",
+        "parent_code": "517"
+    },
+    "20995": {
+        "name": "Tam Giang",
+        "type": "xa",
+        "slug": "tam-giang",
+        "name_with_type": "Xã Tam Giang",
+        "path": "Tam Giang, Núi Thành, Quảng Nam",
+        "path_with_type": "Xã Tam Giang, Huyện Núi Thành, Tỉnh Quảng Nam",
+        "code": "20995",
+        "parent_code": "517"
+    },
+    "20998": {
+        "name": "Tam Quang",
+        "type": "xa",
+        "slug": "tam-quang",
+        "name_with_type": "Xã Tam Quang",
+        "path": "Tam Quang, Núi Thành, Quảng Nam",
+        "path_with_type": "Xã Tam Quang, Huyện Núi Thành, Tỉnh Quảng Nam",
+        "code": "20998",
+        "parent_code": "517"
+    },
+    "21001": {
+        "name": "Tam Nghĩa",
+        "type": "xa",
+        "slug": "tam-nghia",
+        "name_with_type": "Xã Tam Nghĩa",
+        "path": "Tam Nghĩa, Núi Thành, Quảng Nam",
+        "path_with_type": "Xã Tam Nghĩa, Huyện Núi Thành, Tỉnh Quảng Nam",
+        "code": "21001",
+        "parent_code": "517"
+    },
+    "21004": {
+        "name": "Tam Mỹ Tây",
+        "type": "xa",
+        "slug": "tam-my-tay",
+        "name_with_type": "Xã Tam Mỹ Tây",
+        "path": "Tam Mỹ Tây, Núi Thành, Quảng Nam",
+        "path_with_type": "Xã Tam Mỹ Tây, Huyện Núi Thành, Tỉnh Quảng Nam",
+        "code": "21004",
+        "parent_code": "517"
+    },
+    "21005": {
+        "name": "Tam Mỹ Đông",
+        "type": "xa",
+        "slug": "tam-my-dong",
+        "name_with_type": "Xã Tam Mỹ Đông",
+        "path": "Tam Mỹ Đông, Núi Thành, Quảng Nam",
+        "path_with_type": "Xã Tam Mỹ Đông, Huyện Núi Thành, Tỉnh Quảng Nam",
+        "code": "21005",
+        "parent_code": "517"
+    },
+    "21007": {
+        "name": "Tam Trà",
+        "type": "xa",
+        "slug": "tam-tra",
+        "name_with_type": "Xã Tam Trà",
+        "path": "Tam Trà, Núi Thành, Quảng Nam",
+        "path_with_type": "Xã Tam Trà, Huyện Núi Thành, Tỉnh Quảng Nam",
+        "code": "21007",
+        "parent_code": "517"
+    }
+}

@@ -1,0 +1,232 @@
+{
+    "18001": {
+        "name": "Hưng Nguyên",
+        "type": "thi-tran",
+        "slug": "hung-nguyen",
+        "name_with_type": "Thị trấn Hưng Nguyên",
+        "path": "Hưng Nguyên, Hưng Nguyên, Nghệ An",
+        "path_with_type": "Thị trấn Hưng Nguyên, Huyện Hưng Nguyên, Tỉnh Nghệ An",
+        "code": "18001",
+        "parent_code": "431"
+    },
+    "18004": {
+        "name": "Hưng Trung",
+        "type": "xa",
+        "slug": "hung-trung",
+        "name_with_type": "Xã Hưng Trung",
+        "path": "Hưng Trung, Hưng Nguyên, Nghệ An",
+        "path_with_type": "Xã Hưng Trung, Huyện Hưng Nguyên, Tỉnh Nghệ An",
+        "code": "18004",
+        "parent_code": "431"
+    },
+    "18007": {
+        "name": "Hưng Yên",
+        "type": "xa",
+        "slug": "hung-yen",
+        "name_with_type": "Xã Hưng Yên",
+        "path": "Hưng Yên, Hưng Nguyên, Nghệ An",
+        "path_with_type": "Xã Hưng Yên, Huyện Hưng Nguyên, Tỉnh Nghệ An",
+        "code": "18007",
+        "parent_code": "431"
+    },
+    "18008": {
+        "name": "Hưng Yên Bắc",
+        "type": "xa",
+        "slug": "hung-yen-bac",
+        "name_with_type": "Xã Hưng Yên Bắc",
+        "path": "Hưng Yên Bắc, Hưng Nguyên, Nghệ An",
+        "path_with_type": "Xã Hưng Yên Bắc, Huyện Hưng Nguyên, Tỉnh Nghệ An",
+        "code": "18008",
+        "parent_code": "431"
+    },
+    "18010": {
+        "name": "Hưng Tây",
+        "type": "xa",
+        "slug": "hung-tay",
+        "name_with_type": "Xã Hưng Tây",
+        "path": "Hưng Tây, Hưng Nguyên, Nghệ An",
+        "path_with_type": "Xã Hưng Tây, Huyện Hưng Nguyên, Tỉnh Nghệ An",
+        "code": "18010",
+        "parent_code": "431"
+    },
+    "18016": {
+        "name": "Hưng Đạo",
+        "type": "xa",
+        "slug": "hung-dao",
+        "name_with_type": "Xã Hưng Đạo",
+        "path": "Hưng Đạo, Hưng Nguyên, Nghệ An",
+        "path_with_type": "Xã Hưng Đạo, Huyện Hưng Nguyên, Tỉnh Nghệ An",
+        "code": "18016",
+        "parent_code": "431"
+    },
+    "18019": {
+        "name": "Hưng Mỹ",
+        "type": "xa",
+        "slug": "hung-my",
+        "name_with_type": "Xã Hưng Mỹ",
+        "path": "Hưng Mỹ, Hưng Nguyên, Nghệ An",
+        "path_with_type": "Xã Hưng Mỹ, Huyện Hưng Nguyên, Tỉnh Nghệ An",
+        "code": "18019",
+        "parent_code": "431"
+    },
+    "18022": {
+        "name": "Hưng Thịnh",
+        "type": "xa",
+        "slug": "hung-thinh",
+        "name_with_type": "Xã Hưng Thịnh",
+        "path": "Hưng Thịnh, Hưng Nguyên, Nghệ An",
+        "path_with_type": "Xã Hưng Thịnh, Huyện Hưng Nguyên, Tỉnh Nghệ An",
+        "code": "18022",
+        "parent_code": "431"
+    },
+    "18025": {
+        "name": "Hưng Lĩnh",
+        "type": "xa",
+        "slug": "hung-linh",
+        "name_with_type": "Xã Hưng Lĩnh",
+        "path": "Hưng Lĩnh, Hưng Nguyên, Nghệ An",
+        "path_with_type": "Xã Hưng Lĩnh, Huyện Hưng Nguyên, Tỉnh Nghệ An",
+        "code": "18025",
+        "parent_code": "431"
+    },
+    "18028": {
+        "name": "Hưng Thông",
+        "type": "xa",
+        "slug": "hung-thong",
+        "name_with_type": "Xã Hưng Thông",
+        "path": "Hưng Thông, Hưng Nguyên, Nghệ An",
+        "path_with_type": "Xã Hưng Thông, Huyện Hưng Nguyên, Tỉnh Nghệ An",
+        "code": "18028",
+        "parent_code": "431"
+    },
+    "18031": {
+        "name": "Hưng Tân",
+        "type": "xa",
+        "slug": "hung-tan",
+        "name_with_type": "Xã Hưng Tân",
+        "path": "Hưng Tân, Hưng Nguyên, Nghệ An",
+        "path_with_type": "Xã Hưng Tân, Huyện Hưng Nguyên, Tỉnh Nghệ An",
+        "code": "18031",
+        "parent_code": "431"
+    },
+    "18034": {
+        "name": "Hưng Lợi",
+        "type": "xa",
+        "slug": "hung-loi",
+        "name_with_type": "Xã Hưng Lợi",
+        "path": "Hưng Lợi, Hưng Nguyên, Nghệ An",
+        "path_with_type": "Xã Hưng Lợi, Huyện Hưng Nguyên, Tỉnh Nghệ An",
+        "code": "18034",
+        "parent_code": "431"
+    },
+    "18037": {
+        "name": "Hưng Thắng",
+        "type": "xa",
+        "slug": "hung-thang",
+        "name_with_type": "Xã Hưng Thắng",
+        "path": "Hưng Thắng, Hưng Nguyên, Nghệ An",
+        "path_with_type": "Xã Hưng Thắng, Huyện Hưng Nguyên, Tỉnh Nghệ An",
+        "code": "18037",
+        "parent_code": "431"
+    },
+    "18040": {
+        "name": "Hưng Phúc",
+        "type": "xa",
+        "slug": "hung-phuc",
+        "name_with_type": "Xã Hưng Phúc",
+        "path": "Hưng Phúc, Hưng Nguyên, Nghệ An",
+        "path_with_type": "Xã Hưng Phúc, Huyện Hưng Nguyên, Tỉnh Nghệ An",
+        "code": "18040",
+        "parent_code": "431"
+    },
+    "18043": {
+        "name": "Hưng Long",
+        "type": "xa",
+        "slug": "hung-long",
+        "name_with_type": "Xã Hưng Long",
+        "path": "Hưng Long, Hưng Nguyên, Nghệ An",
+        "path_with_type": "Xã Hưng Long, Huyện Hưng Nguyên, Tỉnh Nghệ An",
+        "code": "18043",
+        "parent_code": "431"
+    },
+    "18046": {
+        "name": "Hưng Tiến",
+        "type": "xa",
+        "slug": "hung-tien",
+        "name_with_type": "Xã Hưng Tiến",
+        "path": "Hưng Tiến, Hưng Nguyên, Nghệ An",
+        "path_with_type": "Xã Hưng Tiến, Huyện Hưng Nguyên, Tỉnh Nghệ An",
+        "code": "18046",
+        "parent_code": "431"
+    },
+    "18049": {
+        "name": "Hưng Xá",
+        "type": "xa",
+        "slug": "hung-xa",
+        "name_with_type": "Xã Hưng Xá",
+        "path": "Hưng Xá, Hưng Nguyên, Nghệ An",
+        "path_with_type": "Xã Hưng Xá, Huyện Hưng Nguyên, Tỉnh Nghệ An",
+        "code": "18049",
+        "parent_code": "431"
+    },
+    "18052": {
+        "name": "Hưng Châu",
+        "type": "xa",
+        "slug": "hung-chau",
+        "name_with_type": "Xã Hưng Châu",
+        "path": "Hưng Châu, Hưng Nguyên, Nghệ An",
+        "path_with_type": "Xã Hưng Châu, Huyện Hưng Nguyên, Tỉnh Nghệ An",
+        "code": "18052",
+        "parent_code": "431"
+    },
+    "18055": {
+        "name": "Hưng Xuân",
+        "type": "xa",
+        "slug": "hung-xuan",
+        "name_with_type": "Xã Hưng Xuân",
+        "path": "Hưng Xuân, Hưng Nguyên, Nghệ An",
+        "path_with_type": "Xã Hưng Xuân, Huyện Hưng Nguyên, Tỉnh Nghệ An",
+        "code": "18055",
+        "parent_code": "431"
+    },
+    "18058": {
+        "name": "Hưng Nhân",
+        "type": "xa",
+        "slug": "hung-nhan",
+        "name_with_type": "Xã Hưng Nhân",
+        "path": "Hưng Nhân, Hưng Nguyên, Nghệ An",
+        "path_with_type": "Xã Hưng Nhân, Huyện Hưng Nguyên, Tỉnh Nghệ An",
+        "code": "18058",
+        "parent_code": "431"
+    },
+    "18061": {
+        "name": "Hưng Phú",
+        "type": "xa",
+        "slug": "hung-phu",
+        "name_with_type": "Xã Hưng Phú",
+        "path": "Hưng Phú, Hưng Nguyên, Nghệ An",
+        "path_with_type": "Xã Hưng Phú, Huyện Hưng Nguyên, Tỉnh Nghệ An",
+        "code": "18061",
+        "parent_code": "431"
+    },
+    "18064": {
+        "name": "Hưng Khánh",
+        "type": "xa",
+        "slug": "hung-khanh",
+        "name_with_type": "Xã Hưng Khánh",
+        "path": "Hưng Khánh, Hưng Nguyên, Nghệ An",
+        "path_with_type": "Xã Hưng Khánh, Huyện Hưng Nguyên, Tỉnh Nghệ An",
+        "code": "18064",
+        "parent_code": "431"
+    },
+    "18067": {
+        "name": "Hưng Lam",
+        "type": "xa",
+        "slug": "hung-lam",
+        "name_with_type": "Xã Hưng Lam",
+        "path": "Hưng Lam, Hưng Nguyên, Nghệ An",
+        "path_with_type": "Xã Hưng Lam, Huyện Hưng Nguyên, Tỉnh Nghệ An",
+        "code": "18067",
+        "parent_code": "431"
+    }
+}

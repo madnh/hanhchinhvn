@@ -1,0 +1,292 @@
+{
+    "15394": {
+        "name": "Quán Lào",
+        "type": "thi-tran",
+        "slug": "quan-lao",
+        "name_with_type": "Thị trấn Quán Lào",
+        "path": "Quán Lào, Yên Định, Thanh Hóa",
+        "path_with_type": "Thị trấn Quán Lào, Huyện Yên Định, Tỉnh Thanh Hóa",
+        "code": "15394",
+        "parent_code": "394"
+    },
+    "15397": {
+        "name": "Thống Nhất",
+        "type": "thi-tran",
+        "slug": "thong-nhat",
+        "name_with_type": "Thị trấn Thống Nhất",
+        "path": "Thống Nhất, Yên Định, Thanh Hóa",
+        "path_with_type": "Thị trấn Thống Nhất, Huyện Yên Định, Tỉnh Thanh Hóa",
+        "code": "15397",
+        "parent_code": "394"
+    },
+    "15400": {
+        "name": "Yên Phú",
+        "type": "xa",
+        "slug": "yen-phu",
+        "name_with_type": "Xã Yên Phú",
+        "path": "Yên Phú, Yên Định, Thanh Hóa",
+        "path_with_type": "Xã Yên Phú, Huyện Yên Định, Tỉnh Thanh Hóa",
+        "code": "15400",
+        "parent_code": "394"
+    },
+    "15403": {
+        "name": "Yên Lâm",
+        "type": "xa",
+        "slug": "yen-lam",
+        "name_with_type": "Xã Yên Lâm",
+        "path": "Yên Lâm, Yên Định, Thanh Hóa",
+        "path_with_type": "Xã Yên Lâm, Huyện Yên Định, Tỉnh Thanh Hóa",
+        "code": "15403",
+        "parent_code": "394"
+    },
+    "15406": {
+        "name": "Yên Tâm",
+        "type": "xa",
+        "slug": "yen-tam",
+        "name_with_type": "Xã Yên Tâm",
+        "path": "Yên Tâm, Yên Định, Thanh Hóa",
+        "path_with_type": "Xã Yên Tâm, Huyện Yên Định, Tỉnh Thanh Hóa",
+        "code": "15406",
+        "parent_code": "394"
+    },
+    "15409": {
+        "name": "Yên Giang",
+        "type": "xa",
+        "slug": "yen-giang",
+        "name_with_type": "Xã Yên Giang",
+        "path": "Yên Giang, Yên Định, Thanh Hóa",
+        "path_with_type": "Xã Yên Giang, Huyện Yên Định, Tỉnh Thanh Hóa",
+        "code": "15409",
+        "parent_code": "394"
+    },
+    "15412": {
+        "name": "Quí Lộc",
+        "type": "xa",
+        "slug": "qui-loc",
+        "name_with_type": "Xã Quí Lộc",
+        "path": "Quí Lộc, Yên Định, Thanh Hóa",
+        "path_with_type": "Xã Quí Lộc, Huyện Yên Định, Tỉnh Thanh Hóa",
+        "code": "15412",
+        "parent_code": "394"
+    },
+    "15415": {
+        "name": "Yên Thọ",
+        "type": "xa",
+        "slug": "yen-tho",
+        "name_with_type": "Xã Yên Thọ",
+        "path": "Yên Thọ, Yên Định, Thanh Hóa",
+        "path_with_type": "Xã Yên Thọ, Huyện Yên Định, Tỉnh Thanh Hóa",
+        "code": "15415",
+        "parent_code": "394"
+    },
+    "15418": {
+        "name": "Yên Trung",
+        "type": "xa",
+        "slug": "yen-trung",
+        "name_with_type": "Xã Yên Trung",
+        "path": "Yên Trung, Yên Định, Thanh Hóa",
+        "path_with_type": "Xã Yên Trung, Huyện Yên Định, Tỉnh Thanh Hóa",
+        "code": "15418",
+        "parent_code": "394"
+    },
+    "15421": {
+        "name": "Yên Trường",
+        "type": "xa",
+        "slug": "yen-truong",
+        "name_with_type": "Xã Yên Trường",
+        "path": "Yên Trường, Yên Định, Thanh Hóa",
+        "path_with_type": "Xã Yên Trường, Huyện Yên Định, Tỉnh Thanh Hóa",
+        "code": "15421",
+        "parent_code": "394"
+    },
+    "15424": {
+        "name": "Yên Bái",
+        "type": "xa",
+        "slug": "yen-bai",
+        "name_with_type": "Xã Yên Bái",
+        "path": "Yên Bái, Yên Định, Thanh Hóa",
+        "path_with_type": "Xã Yên Bái, Huyện Yên Định, Tỉnh Thanh Hóa",
+        "code": "15424",
+        "parent_code": "394"
+    },
+    "15427": {
+        "name": "Yên Phong",
+        "type": "xa",
+        "slug": "yen-phong",
+        "name_with_type": "Xã Yên Phong",
+        "path": "Yên Phong, Yên Định, Thanh Hóa",
+        "path_with_type": "Xã Yên Phong, Huyện Yên Định, Tỉnh Thanh Hóa",
+        "code": "15427",
+        "parent_code": "394"
+    },
+    "15430": {
+        "name": "Yên Thái",
+        "type": "xa",
+        "slug": "yen-thai",
+        "name_with_type": "Xã Yên Thái",
+        "path": "Yên Thái, Yên Định, Thanh Hóa",
+        "path_with_type": "Xã Yên Thái, Huyện Yên Định, Tỉnh Thanh Hóa",
+        "code": "15430",
+        "parent_code": "394"
+    },
+    "15433": {
+        "name": "Yên Hùng",
+        "type": "xa",
+        "slug": "yen-hung",
+        "name_with_type": "Xã Yên Hùng",
+        "path": "Yên Hùng, Yên Định, Thanh Hóa",
+        "path_with_type": "Xã Yên Hùng, Huyện Yên Định, Tỉnh Thanh Hóa",
+        "code": "15433",
+        "parent_code": "394"
+    },
+    "15436": {
+        "name": "Yên Thịnh",
+        "type": "xa",
+        "slug": "yen-thinh",
+        "name_with_type": "Xã Yên Thịnh",
+        "path": "Yên Thịnh, Yên Định, Thanh Hóa",
+        "path_with_type": "Xã Yên Thịnh, Huyện Yên Định, Tỉnh Thanh Hóa",
+        "code": "15436",
+        "parent_code": "394"
+    },
+    "15439": {
+        "name": "Yên Ninh",
+        "type": "xa",
+        "slug": "yen-ninh",
+        "name_with_type": "Xã Yên Ninh",
+        "path": "Yên Ninh, Yên Định, Thanh Hóa",
+        "path_with_type": "Xã Yên Ninh, Huyện Yên Định, Tỉnh Thanh Hóa",
+        "code": "15439",
+        "parent_code": "394"
+    },
+    "15442": {
+        "name": "Yên Lạc",
+        "type": "xa",
+        "slug": "yen-lac",
+        "name_with_type": "Xã Yên Lạc",
+        "path": "Yên Lạc, Yên Định, Thanh Hóa",
+        "path_with_type": "Xã Yên Lạc, Huyện Yên Định, Tỉnh Thanh Hóa",
+        "code": "15442",
+        "parent_code": "394"
+    },
+    "15445": {
+        "name": "Định Tăng",
+        "type": "xa",
+        "slug": "dinh-tang",
+        "name_with_type": "Xã Định Tăng",
+        "path": "Định Tăng, Yên Định, Thanh Hóa",
+        "path_with_type": "Xã Định Tăng, Huyện Yên Định, Tỉnh Thanh Hóa",
+        "code": "15445",
+        "parent_code": "394"
+    },
+    "15448": {
+        "name": "Định Hòa",
+        "type": "xa",
+        "slug": "dinh-hoa",
+        "name_with_type": "Xã Định Hòa",
+        "path": "Định Hòa, Yên Định, Thanh Hóa",
+        "path_with_type": "Xã Định Hòa, Huyện Yên Định, Tỉnh Thanh Hóa",
+        "code": "15448",
+        "parent_code": "394"
+    },
+    "15451": {
+        "name": "Định Thành",
+        "type": "xa",
+        "slug": "dinh-thanh",
+        "name_with_type": "Xã Định Thành",
+        "path": "Định Thành, Yên Định, Thanh Hóa",
+        "path_with_type": "Xã Định Thành, Huyện Yên Định, Tỉnh Thanh Hóa",
+        "code": "15451",
+        "parent_code": "394"
+    },
+    "15454": {
+        "name": "Định Công",
+        "type": "xa",
+        "slug": "dinh-cong",
+        "name_with_type": "Xã Định Công",
+        "path": "Định Công, Yên Định, Thanh Hóa",
+        "path_with_type": "Xã Định Công, Huyện Yên Định, Tỉnh Thanh Hóa",
+        "code": "15454",
+        "parent_code": "394"
+    },
+    "15457": {
+        "name": "Định Tân",
+        "type": "xa",
+        "slug": "dinh-tan",
+        "name_with_type": "Xã Định Tân",
+        "path": "Định Tân, Yên Định, Thanh Hóa",
+        "path_with_type": "Xã Định Tân, Huyện Yên Định, Tỉnh Thanh Hóa",
+        "code": "15457",
+        "parent_code": "394"
+    },
+    "15460": {
+        "name": "Định Tiến",
+        "type": "xa",
+        "slug": "dinh-tien",
+        "name_with_type": "Xã Định Tiến",
+        "path": "Định Tiến, Yên Định, Thanh Hóa",
+        "path_with_type": "Xã Định Tiến, Huyện Yên Định, Tỉnh Thanh Hóa",
+        "code": "15460",
+        "parent_code": "394"
+    },
+    "15463": {
+        "name": "Định Long",
+        "type": "xa",
+        "slug": "dinh-long",
+        "name_with_type": "Xã Định Long",
+        "path": "Định Long, Yên Định, Thanh Hóa",
+        "path_with_type": "Xã Định Long, Huyện Yên Định, Tỉnh Thanh Hóa",
+        "code": "15463",
+        "parent_code": "394"
+    },
+    "15466": {
+        "name": "Định Liên",
+        "type": "xa",
+        "slug": "dinh-lien",
+        "name_with_type": "Xã Định Liên",
+        "path": "Định Liên, Yên Định, Thanh Hóa",
+        "path_with_type": "Xã Định Liên, Huyện Yên Định, Tỉnh Thanh Hóa",
+        "code": "15466",
+        "parent_code": "394"
+    },
+    "15469": {
+        "name": "Định Tường",
+        "type": "xa",
+        "slug": "dinh-tuong",
+        "name_with_type": "Xã Định Tường",
+        "path": "Định Tường, Yên Định, Thanh Hóa",
+        "path_with_type": "Xã Định Tường, Huyện Yên Định, Tỉnh Thanh Hóa",
+        "code": "15469",
+        "parent_code": "394"
+    },
+    "15472": {
+        "name": "Định Hưng",
+        "type": "xa",
+        "slug": "dinh-hung",
+        "name_with_type": "Xã Định Hưng",
+        "path": "Định Hưng, Yên Định, Thanh Hóa",
+        "path_with_type": "Xã Định Hưng, Huyện Yên Định, Tỉnh Thanh Hóa",
+        "code": "15472",
+        "parent_code": "394"
+    },
+    "15475": {
+        "name": "Định Hải",
+        "type": "xa",
+        "slug": "dinh-hai",
+        "name_with_type": "Xã Định Hải",
+        "path": "Định Hải, Yên Định, Thanh Hóa",
+        "path_with_type": "Xã Định Hải, Huyện Yên Định, Tỉnh Thanh Hóa",
+        "code": "15475",
+        "parent_code": "394"
+    },
+    "15478": {
+        "name": "Định Bình",
+        "type": "xa",
+        "slug": "dinh-binh",
+        "name_with_type": "Xã Định Bình",
+        "path": "Định Bình, Yên Định, Thanh Hóa",
+        "path_with_type": "Xã Định Bình, Huyện Yên Định, Tỉnh Thanh Hóa",
+        "code": "15478",
+        "parent_code": "394"
+    }
+}

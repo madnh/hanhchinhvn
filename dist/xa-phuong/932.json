@@ -1,0 +1,102 @@
+{
+    "31342": {
+        "name": "Một Ngàn",
+        "type": "thi-tran",
+        "slug": "mot-ngan",
+        "name_with_type": "Thị trấn Một Ngàn",
+        "path": "Một Ngàn, Châu Thành A, Hậu Giang",
+        "path_with_type": "Thị trấn Một Ngàn, Huyện Châu Thành A, Tỉnh Hậu Giang",
+        "code": "31342",
+        "parent_code": "932"
+    },
+    "31345": {
+        "name": "Tân Hoà",
+        "type": "xa",
+        "slug": "tan-hoa",
+        "name_with_type": "Xã Tân Hoà",
+        "path": "Tân Hoà, Châu Thành A, Hậu Giang",
+        "path_with_type": "Xã Tân Hoà, Huyện Châu Thành A, Tỉnh Hậu Giang",
+        "code": "31345",
+        "parent_code": "932"
+    },
+    "31346": {
+        "name": "Bảy Ngàn",
+        "type": "thi-tran",
+        "slug": "bay-ngan",
+        "name_with_type": "Thị trấn Bảy Ngàn",
+        "path": "Bảy Ngàn, Châu Thành A, Hậu Giang",
+        "path_with_type": "Thị trấn Bảy Ngàn, Huyện Châu Thành A, Tỉnh Hậu Giang",
+        "code": "31346",
+        "parent_code": "932"
+    },
+    "31348": {
+        "name": "Trường Long Tây",
+        "type": "xa",
+        "slug": "truong-long-tay",
+        "name_with_type": "Xã Trường Long Tây",
+        "path": "Trường Long Tây, Châu Thành A, Hậu Giang",
+        "path_with_type": "Xã Trường Long Tây, Huyện Châu Thành A, Tỉnh Hậu Giang",
+        "code": "31348",
+        "parent_code": "932"
+    },
+    "31351": {
+        "name": "Trường Long A",
+        "type": "xa",
+        "slug": "truong-long-a",
+        "name_with_type": "Xã Trường Long A",
+        "path": "Trường Long A, Châu Thành A, Hậu Giang",
+        "path_with_type": "Xã Trường Long A, Huyện Châu Thành A, Tỉnh Hậu Giang",
+        "code": "31351",
+        "parent_code": "932"
+    },
+    "31357": {
+        "name": "Nhơn Nghĩa A",
+        "type": "xa",
+        "slug": "nhon-nghia-a",
+        "name_with_type": "Xã Nhơn Nghĩa A",
+        "path": "Nhơn Nghĩa A, Châu Thành A, Hậu Giang",
+        "path_with_type": "Xã Nhơn Nghĩa A, Huyện Châu Thành A, Tỉnh Hậu Giang",
+        "code": "31357",
+        "parent_code": "932"
+    },
+    "31359": {
+        "name": "Rạch Gòi",
+        "type": "thi-tran",
+        "slug": "rach-goi",
+        "name_with_type": "Thị trấn Rạch Gòi",
+        "path": "Rạch Gòi, Châu Thành A, Hậu Giang",
+        "path_with_type": "Thị trấn Rạch Gòi, Huyện Châu Thành A, Tỉnh Hậu Giang",
+        "code": "31359",
+        "parent_code": "932"
+    },
+    "31360": {
+        "name": "Thạnh Xuân",
+        "type": "xa",
+        "slug": "thanh-xuan",
+        "name_with_type": "Xã Thạnh Xuân",
+        "path": "Thạnh Xuân, Châu Thành A, Hậu Giang",
+        "path_with_type": "Xã Thạnh Xuân, Huyện Châu Thành A, Tỉnh Hậu Giang",
+        "code": "31360",
+        "parent_code": "932"
+    },
+    "31362": {
+        "name": "Cái Tắc",
+        "type": "thi-tran",
+        "slug": "cai-tac",
+        "name_with_type": "Thị trấn Cái Tắc",
+        "path": "Cái Tắc, Châu Thành A, Hậu Giang",
+        "path_with_type": "Thị trấn Cái Tắc, Huyện Châu Thành A, Tỉnh Hậu Giang",
+        "code": "31362",
+        "parent_code": "932"
+    },
+    "31363": {
+        "name": "Tân Phú Thạnh",
+        "type": "xa",
+        "slug": "tan-phu-thanh",
+        "name_with_type": "Xã Tân Phú Thạnh",
+        "path": "Tân Phú Thạnh, Châu Thành A, Hậu Giang",
+        "path_with_type": "Xã Tân Phú Thạnh, Huyện Châu Thành A, Tỉnh Hậu Giang",
+        "code": "31363",
+        "parent_code": "932"
+    }
+}

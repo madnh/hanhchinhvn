@@ -1,0 +1,122 @@
+{
+    "22969": {
+        "name": "Liên Hương",
+        "type": "thi-tran",
+        "slug": "lien-huong",
+        "name_with_type": "Thị trấn Liên Hương",
+        "path": "Liên Hương, Tuy Phong, Bình Thuận",
+        "path_with_type": "Thị trấn Liên Hương, Huyện Tuy Phong, Tỉnh Bình Thuận",
+        "code": "22969",
+        "parent_code": "595"
+    },
+    "22972": {
+        "name": "Phan Rí Cửa",
+        "type": "thi-tran",
+        "slug": "phan-ri-cua",
+        "name_with_type": "Thị trấn Phan Rí Cửa",
+        "path": "Phan Rí Cửa, Tuy Phong, Bình Thuận",
+        "path_with_type": "Thị trấn Phan Rí Cửa, Huyện Tuy Phong, Tỉnh Bình Thuận",
+        "code": "22972",
+        "parent_code": "595"
+    },
+    "22975": {
+        "name": "Phan Dũng",
+        "type": "xa",
+        "slug": "phan-dung",
+        "name_with_type": "Xã Phan Dũng",
+        "path": "Phan Dũng, Tuy Phong, Bình Thuận",
+        "path_with_type": "Xã Phan Dũng, Huyện Tuy Phong, Tỉnh Bình Thuận",
+        "code": "22975",
+        "parent_code": "595"
+    },
+    "22978": {
+        "name": "Phong Phú",
+        "type": "xa",
+        "slug": "phong-phu",
+        "name_with_type": "Xã Phong Phú",
+        "path": "Phong Phú, Tuy Phong, Bình Thuận",
+        "path_with_type": "Xã Phong Phú, Huyện Tuy Phong, Tỉnh Bình Thuận",
+        "code": "22978",
+        "parent_code": "595"
+    },
+    "22981": {
+        "name": "Vĩnh Hảo",
+        "type": "xa",
+        "slug": "vinh-hao",
+        "name_with_type": "Xã Vĩnh Hảo",
+        "path": "Vĩnh Hảo, Tuy Phong, Bình Thuận",
+        "path_with_type": "Xã Vĩnh Hảo, Huyện Tuy Phong, Tỉnh Bình Thuận",
+        "code": "22981",
+        "parent_code": "595"
+    },
+    "22984": {
+        "name": "Vĩnh Tân",
+        "type": "xa",
+        "slug": "vinh-tan",
+        "name_with_type": "Xã Vĩnh Tân",
+        "path": "Vĩnh Tân, Tuy Phong, Bình Thuận",
+        "path_with_type": "Xã Vĩnh Tân, Huyện Tuy Phong, Tỉnh Bình Thuận",
+        "code": "22984",
+        "parent_code": "595"
+    },
+    "22987": {
+        "name": "Phú Lạc",
+        "type": "xa",
+        "slug": "phu-lac",
+        "name_with_type": "Xã Phú Lạc",
+        "path": "Phú Lạc, Tuy Phong, Bình Thuận",
+        "path_with_type": "Xã Phú Lạc, Huyện Tuy Phong, Tỉnh Bình Thuận",
+        "code": "22987",
+        "parent_code": "595"
+    },
+    "22990": {
+        "name": "Phước Thể",
+        "type": "xa",
+        "slug": "phuoc-the",
+        "name_with_type": "Xã Phước Thể",
+        "path": "Phước Thể, Tuy Phong, Bình Thuận",
+        "path_with_type": "Xã Phước Thể, Huyện Tuy Phong, Tỉnh Bình Thuận",
+        "code": "22990",
+        "parent_code": "595"
+    },
+    "22993": {
+        "name": "Hòa Minh",
+        "type": "xa",
+        "slug": "hoa-minh",
+        "name_with_type": "Xã Hòa Minh",
+        "path": "Hòa Minh, Tuy Phong, Bình Thuận",
+        "path_with_type": "Xã Hòa Minh, Huyện Tuy Phong, Tỉnh Bình Thuận",
+        "code": "22993",
+        "parent_code": "595"
+    },
+    "22996": {
+        "name": "Chí Công",
+        "type": "xa",
+        "slug": "chi-cong",
+        "name_with_type": "Xã Chí Công",
+        "path": "Chí Công, Tuy Phong, Bình Thuận",
+        "path_with_type": "Xã Chí Công, Huyện Tuy Phong, Tỉnh Bình Thuận",
+        "code": "22996",
+        "parent_code": "595"
+    },
+    "22999": {
+        "name": "Bình Thạnh",
+        "type": "xa",
+        "slug": "binh-thanh",
+        "name_with_type": "Xã Bình Thạnh",
+        "path": "Bình Thạnh, Tuy Phong, Bình Thuận",
+        "path_with_type": "Xã Bình Thạnh, Huyện Tuy Phong, Tỉnh Bình Thuận",
+        "code": "22999",
+        "parent_code": "595"
+    },
+    "23002": {
+        "name": "Hòa Phú",
+        "type": "xa",
+        "slug": "hoa-phu",
+        "name_with_type": "Xã Hòa Phú",
+        "path": "Hòa Phú, Tuy Phong, Bình Thuận",
+        "path_with_type": "Xã Hòa Phú, Huyện Tuy Phong, Tỉnh Bình Thuận",
+        "code": "23002",
+        "parent_code": "595"
+    }
+}

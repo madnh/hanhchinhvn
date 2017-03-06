@@ -1,0 +1,152 @@
+{
+    "26425": {
+        "name": "Gia Ray",
+        "type": "thi-tran",
+        "slug": "gia-ray",
+        "name_with_type": "Thị trấn Gia Ray",
+        "path": "Gia Ray, Xuân Lộc, Đồng Nai",
+        "path_with_type": "Thị trấn Gia Ray, Huyện Xuân Lộc, Tỉnh Đồng Nai",
+        "code": "26425",
+        "parent_code": "741"
+    },
+    "26428": {
+        "name": "Xuân Bắc",
+        "type": "xa",
+        "slug": "xuan-bac",
+        "name_with_type": "Xã Xuân Bắc",
+        "path": "Xuân Bắc, Xuân Lộc, Đồng Nai",
+        "path_with_type": "Xã Xuân Bắc, Huyện Xuân Lộc, Tỉnh Đồng Nai",
+        "code": "26428",
+        "parent_code": "741"
+    },
+    "26431": {
+        "name": "Suối Cao",
+        "type": "xa",
+        "slug": "suoi-cao",
+        "name_with_type": "Xã Suối Cao",
+        "path": "Suối Cao, Xuân Lộc, Đồng Nai",
+        "path_with_type": "Xã Suối Cao, Huyện Xuân Lộc, Tỉnh Đồng Nai",
+        "code": "26431",
+        "parent_code": "741"
+    },
+    "26434": {
+        "name": "Xuân Thành",
+        "type": "xa",
+        "slug": "xuan-thanh",
+        "name_with_type": "Xã Xuân Thành",
+        "path": "Xuân Thành, Xuân Lộc, Đồng Nai",
+        "path_with_type": "Xã Xuân Thành, Huyện Xuân Lộc, Tỉnh Đồng Nai",
+        "code": "26434",
+        "parent_code": "741"
+    },
+    "26437": {
+        "name": "Xuân Thọ",
+        "type": "xa",
+        "slug": "xuan-tho",
+        "name_with_type": "Xã Xuân Thọ",
+        "path": "Xuân Thọ, Xuân Lộc, Đồng Nai",
+        "path_with_type": "Xã Xuân Thọ, Huyện Xuân Lộc, Tỉnh Đồng Nai",
+        "code": "26437",
+        "parent_code": "741"
+    },
+    "26440": {
+        "name": "Xuân Trường",
+        "type": "xa",
+        "slug": "xuan-truong",
+        "name_with_type": "Xã Xuân Trường",
+        "path": "Xuân Trường, Xuân Lộc, Đồng Nai",
+        "path_with_type": "Xã Xuân Trường, Huyện Xuân Lộc, Tỉnh Đồng Nai",
+        "code": "26440",
+        "parent_code": "741"
+    },
+    "26443": {
+        "name": "Xuân Hòa",
+        "type": "xa",
+        "slug": "xuan-hoa",
+        "name_with_type": "Xã Xuân Hòa",
+        "path": "Xuân Hòa, Xuân Lộc, Đồng Nai",
+        "path_with_type": "Xã Xuân Hòa, Huyện Xuân Lộc, Tỉnh Đồng Nai",
+        "code": "26443",
+        "parent_code": "741"
+    },
+    "26446": {
+        "name": "Xuân Hưng",
+        "type": "xa",
+        "slug": "xuan-hung",
+        "name_with_type": "Xã Xuân Hưng",
+        "path": "Xuân Hưng, Xuân Lộc, Đồng Nai",
+        "path_with_type": "Xã Xuân Hưng, Huyện Xuân Lộc, Tỉnh Đồng Nai",
+        "code": "26446",
+        "parent_code": "741"
+    },
+    "26449": {
+        "name": "Xuân Tâm",
+        "type": "xa",
+        "slug": "xuan-tam",
+        "name_with_type": "Xã Xuân Tâm",
+        "path": "Xuân Tâm, Xuân Lộc, Đồng Nai",
+        "path_with_type": "Xã Xuân Tâm, Huyện Xuân Lộc, Tỉnh Đồng Nai",
+        "code": "26449",
+        "parent_code": "741"
+    },
+    "26452": {
+        "name": "Suối Cát",
+        "type": "xa",
+        "slug": "suoi-cat",
+        "name_with_type": "Xã Suối Cát",
+        "path": "Suối Cát, Xuân Lộc, Đồng Nai",
+        "path_with_type": "Xã Suối Cát, Huyện Xuân Lộc, Tỉnh Đồng Nai",
+        "code": "26452",
+        "parent_code": "741"
+    },
+    "26455": {
+        "name": "Xuân Hiệp",
+        "type": "xa",
+        "slug": "xuan-hiep",
+        "name_with_type": "Xã Xuân Hiệp",
+        "path": "Xuân Hiệp, Xuân Lộc, Đồng Nai",
+        "path_with_type": "Xã Xuân Hiệp, Huyện Xuân Lộc, Tỉnh Đồng Nai",
+        "code": "26455",
+        "parent_code": "741"
+    },
+    "26458": {
+        "name": "Xuân Phú",
+        "type": "xa",
+        "slug": "xuan-phu",
+        "name_with_type": "Xã Xuân Phú",
+        "path": "Xuân Phú, Xuân Lộc, Đồng Nai",
+        "path_with_type": "Xã Xuân Phú, Huyện Xuân Lộc, Tỉnh Đồng Nai",
+        "code": "26458",
+        "parent_code": "741"
+    },
+    "26461": {
+        "name": "Xuân Định",
+        "type": "xa",
+        "slug": "xuan-dinh",
+        "name_with_type": "Xã Xuân Định",
+        "path": "Xuân Định, Xuân Lộc, Đồng Nai",
+        "path_with_type": "Xã Xuân Định, Huyện Xuân Lộc, Tỉnh Đồng Nai",
+        "code": "26461",
+        "parent_code": "741"
+    },
+    "26464": {
+        "name": "Bảo Hoà",
+        "type": "xa",
+        "slug": "bao-hoa",
+        "name_with_type": "Xã Bảo Hoà",
+        "path": "Bảo Hoà, Xuân Lộc, Đồng Nai",
+        "path_with_type": "Xã Bảo Hoà, Huyện Xuân Lộc, Tỉnh Đồng Nai",
+        "code": "26464",
+        "parent_code": "741"
+    },
+    "26467": {
+        "name": "Lang Minh",
+        "type": "xa",
+        "slug": "lang-minh",
+        "name_with_type": "Xã Lang Minh",
+        "path": "Lang Minh, Xuân Lộc, Đồng Nai",
+        "path_with_type": "Xã Lang Minh, Huyện Xuân Lộc, Tỉnh Đồng Nai",
+        "code": "26467",
+        "parent_code": "741"
+    }
+}

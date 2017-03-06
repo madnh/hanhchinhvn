@@ -1,0 +1,212 @@
+{
+    "12142": {
+        "name": "Ân Thi",
+        "type": "thi-tran",
+        "slug": "an-thi",
+        "name_with_type": "Thị trấn Ân Thi",
+        "path": "Ân Thi, Ân Thi, Hưng Yên",
+        "path_with_type": "Thị trấn Ân Thi, Huyện Ân Thi, Tỉnh Hưng Yên",
+        "code": "12142",
+        "parent_code": "329"
+    },
+    "12145": {
+        "name": "Phù Ủng",
+        "type": "xa",
+        "slug": "phu-ung",
+        "name_with_type": "Xã Phù Ủng",
+        "path": "Phù Ủng, Ân Thi, Hưng Yên",
+        "path_with_type": "Xã Phù Ủng, Huyện Ân Thi, Tỉnh Hưng Yên",
+        "code": "12145",
+        "parent_code": "329"
+    },
+    "12148": {
+        "name": "Bắc Sơn",
+        "type": "xa",
+        "slug": "bac-son",
+        "name_with_type": "Xã Bắc Sơn",
+        "path": "Bắc Sơn, Ân Thi, Hưng Yên",
+        "path_with_type": "Xã Bắc Sơn, Huyện Ân Thi, Tỉnh Hưng Yên",
+        "code": "12148",
+        "parent_code": "329"
+    },
+    "12151": {
+        "name": "Bãi Sậy",
+        "type": "xa",
+        "slug": "bai-say",
+        "name_with_type": "Xã Bãi Sậy",
+        "path": "Bãi Sậy, Ân Thi, Hưng Yên",
+        "path_with_type": "Xã Bãi Sậy, Huyện Ân Thi, Tỉnh Hưng Yên",
+        "code": "12151",
+        "parent_code": "329"
+    },
+    "12154": {
+        "name": "Đào Dương",
+        "type": "xa",
+        "slug": "dao-duong",
+        "name_with_type": "Xã Đào Dương",
+        "path": "Đào Dương, Ân Thi, Hưng Yên",
+        "path_with_type": "Xã Đào Dương, Huyện Ân Thi, Tỉnh Hưng Yên",
+        "code": "12154",
+        "parent_code": "329"
+    },
+    "12157": {
+        "name": "Tân Phúc",
+        "type": "xa",
+        "slug": "tan-phuc",
+        "name_with_type": "Xã Tân Phúc",
+        "path": "Tân Phúc, Ân Thi, Hưng Yên",
+        "path_with_type": "Xã Tân Phúc, Huyện Ân Thi, Tỉnh Hưng Yên",
+        "code": "12157",
+        "parent_code": "329"
+    },
+    "12160": {
+        "name": "Vân Du",
+        "type": "xa",
+        "slug": "van-du",
+        "name_with_type": "Xã Vân Du",
+        "path": "Vân Du, Ân Thi, Hưng Yên",
+        "path_with_type": "Xã Vân Du, Huyện Ân Thi, Tỉnh Hưng Yên",
+        "code": "12160",
+        "parent_code": "329"
+    },
+    "12163": {
+        "name": "Quang Vinh",
+        "type": "xa",
+        "slug": "quang-vinh",
+        "name_with_type": "Xã Quang Vinh",
+        "path": "Quang Vinh, Ân Thi, Hưng Yên",
+        "path_with_type": "Xã Quang Vinh, Huyện Ân Thi, Tỉnh Hưng Yên",
+        "code": "12163",
+        "parent_code": "329"
+    },
+    "12166": {
+        "name": "Xuân Trúc",
+        "type": "xa",
+        "slug": "xuan-truc",
+        "name_with_type": "Xã Xuân Trúc",
+        "path": "Xuân Trúc, Ân Thi, Hưng Yên",
+        "path_with_type": "Xã Xuân Trúc, Huyện Ân Thi, Tỉnh Hưng Yên",
+        "code": "12166",
+        "parent_code": "329"
+    },
+    "12169": {
+        "name": "Hoàng Hoa Thám",
+        "type": "xa",
+        "slug": "hoang-hoa-tham",
+        "name_with_type": "Xã Hoàng Hoa Thám",
+        "path": "Hoàng Hoa Thám, Ân Thi, Hưng Yên",
+        "path_with_type": "Xã Hoàng Hoa Thám, Huyện Ân Thi, Tỉnh Hưng Yên",
+        "code": "12169",
+        "parent_code": "329"
+    },
+    "12172": {
+        "name": "Quảng Lãng",
+        "type": "xa",
+        "slug": "quang-lang",
+        "name_with_type": "Xã Quảng Lãng",
+        "path": "Quảng Lãng, Ân Thi, Hưng Yên",
+        "path_with_type": "Xã Quảng Lãng, Huyện Ân Thi, Tỉnh Hưng Yên",
+        "code": "12172",
+        "parent_code": "329"
+    },
+    "12175": {
+        "name": "Văn Nhuệ",
+        "type": "xa",
+        "slug": "van-nhue",
+        "name_with_type": "Xã Văn Nhuệ",
+        "path": "Văn Nhuệ, Ân Thi, Hưng Yên",
+        "path_with_type": "Xã Văn Nhuệ, Huyện Ân Thi, Tỉnh Hưng Yên",
+        "code": "12175",
+        "parent_code": "329"
+    },
+    "12178": {
+        "name": "Đặng Lễ",
+        "type": "xa",
+        "slug": "dang-le",
+        "name_with_type": "Xã Đặng Lễ",
+        "path": "Đặng Lễ, Ân Thi, Hưng Yên",
+        "path_with_type": "Xã Đặng Lễ, Huyện Ân Thi, Tỉnh Hưng Yên",
+        "code": "12178",
+        "parent_code": "329"
+    },
+    "12181": {
+        "name": "Cẩm Ninh",
+        "type": "xa",
+        "slug": "cam-ninh",
+        "name_with_type": "Xã Cẩm Ninh",
+        "path": "Cẩm Ninh, Ân Thi, Hưng Yên",
+        "path_with_type": "Xã Cẩm Ninh, Huyện Ân Thi, Tỉnh Hưng Yên",
+        "code": "12181",
+        "parent_code": "329"
+    },
+    "12184": {
+        "name": "Nguyễn Trãi",
+        "type": "xa",
+        "slug": "nguyen-trai",
+        "name_with_type": "Xã Nguyễn Trãi",
+        "path": "Nguyễn Trãi, Ân Thi, Hưng Yên",
+        "path_with_type": "Xã Nguyễn Trãi, Huyện Ân Thi, Tỉnh Hưng Yên",
+        "code": "12184",
+        "parent_code": "329"
+    },
+    "12187": {
+        "name": "Đa Lộc",
+        "type": "xa",
+        "slug": "da-loc",
+        "name_with_type": "Xã Đa Lộc",
+        "path": "Đa Lộc, Ân Thi, Hưng Yên",
+        "path_with_type": "Xã Đa Lộc, Huyện Ân Thi, Tỉnh Hưng Yên",
+        "code": "12187",
+        "parent_code": "329"
+    },
+    "12190": {
+        "name": "Hồ Tùng Mậu",
+        "type": "xa",
+        "slug": "ho-tung-mau",
+        "name_with_type": "Xã Hồ Tùng Mậu",
+        "path": "Hồ Tùng Mậu, Ân Thi, Hưng Yên",
+        "path_with_type": "Xã Hồ Tùng Mậu, Huyện Ân Thi, Tỉnh Hưng Yên",
+        "code": "12190",
+        "parent_code": "329"
+    },
+    "12193": {
+        "name": "Tiền Phong",
+        "type": "xa",
+        "slug": "tien-phong",
+        "name_with_type": "Xã Tiền Phong",
+        "path": "Tiền Phong, Ân Thi, Hưng Yên",
+        "path_with_type": "Xã Tiền Phong, Huyện Ân Thi, Tỉnh Hưng Yên",
+        "code": "12193",
+        "parent_code": "329"
+    },
+    "12196": {
+        "name": "Hồng Vân",
+        "type": "xa",
+        "slug": "hong-van",
+        "name_with_type": "Xã Hồng Vân",
+        "path": "Hồng Vân, Ân Thi, Hưng Yên",
+        "path_with_type": "Xã Hồng Vân, Huyện Ân Thi, Tỉnh Hưng Yên",
+        "code": "12196",
+        "parent_code": "329"
+    },
+    "12199": {
+        "name": "Hồng Quang",
+        "type": "xa",
+        "slug": "hong-quang",
+        "name_with_type": "Xã Hồng Quang",
+        "path": "Hồng Quang, Ân Thi, Hưng Yên",
+        "path_with_type": "Xã Hồng Quang, Huyện Ân Thi, Tỉnh Hưng Yên",
+        "code": "12199",
+        "parent_code": "329"
+    },
+    "12202": {
+        "name": "Hạ Lễ",
+        "type": "xa",
+        "slug": "ha-le",
+        "name_with_type": "Xã Hạ Lễ",
+        "path": "Hạ Lễ, Ân Thi, Hưng Yên",
+        "path_with_type": "Xã Hạ Lễ, Huyện Ân Thi, Tỉnh Hưng Yên",
+        "code": "12202",
+        "parent_code": "329"
+    }
+}

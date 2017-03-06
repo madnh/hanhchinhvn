@@ -1,0 +1,232 @@
+{
+    "06184": {
+        "name": "Đồng Đăng",
+        "type": "thi-tran",
+        "slug": "dong-dang",
+        "name_with_type": "Thị trấn Đồng Đăng",
+        "path": "Đồng Đăng, Cao Lộc, Lạng Sơn",
+        "path_with_type": "Thị trấn Đồng Đăng, Huyện Cao Lộc, Tỉnh Lạng Sơn",
+        "code": "06184",
+        "parent_code": "183"
+    },
+    "06187": {
+        "name": "Cao Lộc",
+        "type": "thi-tran",
+        "slug": "cao-loc",
+        "name_with_type": "Thị trấn Cao Lộc",
+        "path": "Cao Lộc, Cao Lộc, Lạng Sơn",
+        "path_with_type": "Thị trấn Cao Lộc, Huyện Cao Lộc, Tỉnh Lạng Sơn",
+        "code": "06187",
+        "parent_code": "183"
+    },
+    "06190": {
+        "name": "Bảo Lâm",
+        "type": "xa",
+        "slug": "bao-lam",
+        "name_with_type": "Xã Bảo Lâm",
+        "path": "Bảo Lâm, Cao Lộc, Lạng Sơn",
+        "path_with_type": "Xã Bảo Lâm, Huyện Cao Lộc, Tỉnh Lạng Sơn",
+        "code": "06190",
+        "parent_code": "183"
+    },
+    "06193": {
+        "name": "Thanh Lòa",
+        "type": "xa",
+        "slug": "thanh-loa",
+        "name_with_type": "Xã Thanh Lòa",
+        "path": "Thanh Lòa, Cao Lộc, Lạng Sơn",
+        "path_with_type": "Xã Thanh Lòa, Huyện Cao Lộc, Tỉnh Lạng Sơn",
+        "code": "06193",
+        "parent_code": "183"
+    },
+    "06196": {
+        "name": "Cao Lâu",
+        "type": "xa",
+        "slug": "cao-lau",
+        "name_with_type": "Xã Cao Lâu",
+        "path": "Cao Lâu, Cao Lộc, Lạng Sơn",
+        "path_with_type": "Xã Cao Lâu, Huyện Cao Lộc, Tỉnh Lạng Sơn",
+        "code": "06196",
+        "parent_code": "183"
+    },
+    "06199": {
+        "name": "Thạch Đạn",
+        "type": "xa",
+        "slug": "thach-dan",
+        "name_with_type": "Xã Thạch Đạn",
+        "path": "Thạch Đạn, Cao Lộc, Lạng Sơn",
+        "path_with_type": "Xã Thạch Đạn, Huyện Cao Lộc, Tỉnh Lạng Sơn",
+        "code": "06199",
+        "parent_code": "183"
+    },
+    "06202": {
+        "name": "Xuất Lễ",
+        "type": "xa",
+        "slug": "xuat-le",
+        "name_with_type": "Xã Xuất Lễ",
+        "path": "Xuất Lễ, Cao Lộc, Lạng Sơn",
+        "path_with_type": "Xã Xuất Lễ, Huyện Cao Lộc, Tỉnh Lạng Sơn",
+        "code": "06202",
+        "parent_code": "183"
+    },
+    "06205": {
+        "name": "Hồng Phong",
+        "type": "xa",
+        "slug": "hong-phong",
+        "name_with_type": "Xã Hồng Phong",
+        "path": "Hồng Phong, Cao Lộc, Lạng Sơn",
+        "path_with_type": "Xã Hồng Phong, Huyện Cao Lộc, Tỉnh Lạng Sơn",
+        "code": "06205",
+        "parent_code": "183"
+    },
+    "06208": {
+        "name": "Thụy Hùng",
+        "type": "xa",
+        "slug": "thuy-hung",
+        "name_with_type": "Xã Thụy Hùng",
+        "path": "Thụy Hùng, Cao Lộc, Lạng Sơn",
+        "path_with_type": "Xã Thụy Hùng, Huyện Cao Lộc, Tỉnh Lạng Sơn",
+        "code": "06208",
+        "parent_code": "183"
+    },
+    "06211": {
+        "name": "Lộc Yên",
+        "type": "xa",
+        "slug": "loc-yen",
+        "name_with_type": "Xã Lộc Yên",
+        "path": "Lộc Yên, Cao Lộc, Lạng Sơn",
+        "path_with_type": "Xã Lộc Yên, Huyện Cao Lộc, Tỉnh Lạng Sơn",
+        "code": "06211",
+        "parent_code": "183"
+    },
+    "06214": {
+        "name": "Phú Xá",
+        "type": "xa",
+        "slug": "phu-xa",
+        "name_with_type": "Xã Phú Xá",
+        "path": "Phú Xá, Cao Lộc, Lạng Sơn",
+        "path_with_type": "Xã Phú Xá, Huyện Cao Lộc, Tỉnh Lạng Sơn",
+        "code": "06214",
+        "parent_code": "183"
+    },
+    "06217": {
+        "name": "Bình Trung",
+        "type": "xa",
+        "slug": "binh-trung",
+        "name_with_type": "Xã Bình Trung",
+        "path": "Bình Trung, Cao Lộc, Lạng Sơn",
+        "path_with_type": "Xã Bình Trung, Huyện Cao Lộc, Tỉnh Lạng Sơn",
+        "code": "06217",
+        "parent_code": "183"
+    },
+    "06220": {
+        "name": "Hải Yến",
+        "type": "xa",
+        "slug": "hai-yen",
+        "name_with_type": "Xã Hải Yến",
+        "path": "Hải Yến, Cao Lộc, Lạng Sơn",
+        "path_with_type": "Xã Hải Yến, Huyện Cao Lộc, Tỉnh Lạng Sơn",
+        "code": "06220",
+        "parent_code": "183"
+    },
+    "06223": {
+        "name": "Hòa Cư",
+        "type": "xa",
+        "slug": "hoa-cu",
+        "name_with_type": "Xã Hòa Cư",
+        "path": "Hòa Cư, Cao Lộc, Lạng Sơn",
+        "path_with_type": "Xã Hòa Cư, Huyện Cao Lộc, Tỉnh Lạng Sơn",
+        "code": "06223",
+        "parent_code": "183"
+    },
+    "06226": {
+        "name": "Hợp Thành",
+        "type": "xa",
+        "slug": "hop-thanh",
+        "name_with_type": "Xã Hợp Thành",
+        "path": "Hợp Thành, Cao Lộc, Lạng Sơn",
+        "path_with_type": "Xã Hợp Thành, Huyện Cao Lộc, Tỉnh Lạng Sơn",
+        "code": "06226",
+        "parent_code": "183"
+    },
+    "06229": {
+        "name": "Song Giáp",
+        "type": "xa",
+        "slug": "song-giap",
+        "name_with_type": "Xã Song Giáp",
+        "path": "Song Giáp, Cao Lộc, Lạng Sơn",
+        "path_with_type": "Xã Song Giáp, Huyện Cao Lộc, Tỉnh Lạng Sơn",
+        "code": "06229",
+        "parent_code": "183"
+    },
+    "06232": {
+        "name": "Công Sơn",
+        "type": "xa",
+        "slug": "cong-son",
+        "name_with_type": "Xã Công Sơn",
+        "path": "Công Sơn, Cao Lộc, Lạng Sơn",
+        "path_with_type": "Xã Công Sơn, Huyện Cao Lộc, Tỉnh Lạng Sơn",
+        "code": "06232",
+        "parent_code": "183"
+    },
+    "06235": {
+        "name": "Gia Cát",
+        "type": "xa",
+        "slug": "gia-cat",
+        "name_with_type": "Xã Gia Cát",
+        "path": "Gia Cát, Cao Lộc, Lạng Sơn",
+        "path_with_type": "Xã Gia Cát, Huyện Cao Lộc, Tỉnh Lạng Sơn",
+        "code": "06235",
+        "parent_code": "183"
+    },
+    "06238": {
+        "name": "Mẫu Sơn",
+        "type": "xa",
+        "slug": "mau-son",
+        "name_with_type": "Xã Mẫu Sơn",
+        "path": "Mẫu Sơn, Cao Lộc, Lạng Sơn",
+        "path_with_type": "Xã Mẫu Sơn, Huyện Cao Lộc, Tỉnh Lạng Sơn",
+        "code": "06238",
+        "parent_code": "183"
+    },
+    "06241": {
+        "name": "Xuân Long",
+        "type": "xa",
+        "slug": "xuan-long",
+        "name_with_type": "Xã Xuân Long",
+        "path": "Xuân Long, Cao Lộc, Lạng Sơn",
+        "path_with_type": "Xã Xuân Long, Huyện Cao Lộc, Tỉnh Lạng Sơn",
+        "code": "06241",
+        "parent_code": "183"
+    },
+    "06244": {
+        "name": "Tân Liên",
+        "type": "xa",
+        "slug": "tan-lien",
+        "name_with_type": "Xã Tân Liên",
+        "path": "Tân Liên, Cao Lộc, Lạng Sơn",
+        "path_with_type": "Xã Tân Liên, Huyện Cao Lộc, Tỉnh Lạng Sơn",
+        "code": "06244",
+        "parent_code": "183"
+    },
+    "06247": {
+        "name": "Yên Trạch",
+        "type": "xa",
+        "slug": "yen-trach",
+        "name_with_type": "Xã Yên Trạch",
+        "path": "Yên Trạch, Cao Lộc, Lạng Sơn",
+        "path_with_type": "Xã Yên Trạch, Huyện Cao Lộc, Tỉnh Lạng Sơn",
+        "code": "06247",
+        "parent_code": "183"
+    },
+    "06250": {
+        "name": "Tân Thành",
+        "type": "xa",
+        "slug": "tan-thanh",
+        "name_with_type": "Xã Tân Thành",
+        "path": "Tân Thành, Cao Lộc, Lạng Sơn",
+        "path_with_type": "Xã Tân Thành, Huyện Cao Lộc, Tỉnh Lạng Sơn",
+        "code": "06250",
+        "parent_code": "183"
+    }
+}

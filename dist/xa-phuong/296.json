@@ -1,0 +1,182 @@
+{
+    "10945": {
+        "name": "Kẻ Sặt",
+        "type": "thi-tran",
+        "slug": "ke-sat",
+        "name_with_type": "Thị trấn Kẻ Sặt",
+        "path": "Kẻ Sặt, Bình Giang, Hải Dương",
+        "path_with_type": "Thị trấn Kẻ Sặt, Huyện Bình Giang, Tỉnh Hải Dương",
+        "code": "10945",
+        "parent_code": "296"
+    },
+    "10948": {
+        "name": "Hưng Thịnh",
+        "type": "xa",
+        "slug": "hung-thinh",
+        "name_with_type": "Xã Hưng Thịnh",
+        "path": "Hưng Thịnh, Bình Giang, Hải Dương",
+        "path_with_type": "Xã Hưng Thịnh, Huyện Bình Giang, Tỉnh Hải Dương",
+        "code": "10948",
+        "parent_code": "296"
+    },
+    "10951": {
+        "name": "Vĩnh Tuy",
+        "type": "xa",
+        "slug": "vinh-tuy",
+        "name_with_type": "Xã Vĩnh Tuy",
+        "path": "Vĩnh Tuy, Bình Giang, Hải Dương",
+        "path_with_type": "Xã Vĩnh Tuy, Huyện Bình Giang, Tỉnh Hải Dương",
+        "code": "10951",
+        "parent_code": "296"
+    },
+    "10954": {
+        "name": "Hùng Thắng",
+        "type": "xa",
+        "slug": "hung-thang",
+        "name_with_type": "Xã Hùng Thắng",
+        "path": "Hùng Thắng, Bình Giang, Hải Dương",
+        "path_with_type": "Xã Hùng Thắng, Huyện Bình Giang, Tỉnh Hải Dương",
+        "code": "10954",
+        "parent_code": "296"
+    },
+    "10957": {
+        "name": "Tráng Liệt",
+        "type": "xa",
+        "slug": "trang-liet",
+        "name_with_type": "Xã Tráng Liệt",
+        "path": "Tráng Liệt, Bình Giang, Hải Dương",
+        "path_with_type": "Xã Tráng Liệt, Huyện Bình Giang, Tỉnh Hải Dương",
+        "code": "10957",
+        "parent_code": "296"
+    },
+    "10960": {
+        "name": "Vĩnh Hồng",
+        "type": "xa",
+        "slug": "vinh-hong",
+        "name_with_type": "Xã Vĩnh Hồng",
+        "path": "Vĩnh Hồng, Bình Giang, Hải Dương",
+        "path_with_type": "Xã Vĩnh Hồng, Huyện Bình Giang, Tỉnh Hải Dương",
+        "code": "10960",
+        "parent_code": "296"
+    },
+    "10963": {
+        "name": "Long Xuyên",
+        "type": "xa",
+        "slug": "long-xuyen",
+        "name_with_type": "Xã Long Xuyên",
+        "path": "Long Xuyên, Bình Giang, Hải Dương",
+        "path_with_type": "Xã Long Xuyên, Huyện Bình Giang, Tỉnh Hải Dương",
+        "code": "10963",
+        "parent_code": "296"
+    },
+    "10966": {
+        "name": "Tân Việt",
+        "type": "xa",
+        "slug": "tan-viet",
+        "name_with_type": "Xã Tân Việt",
+        "path": "Tân Việt, Bình Giang, Hải Dương",
+        "path_with_type": "Xã Tân Việt, Huyện Bình Giang, Tỉnh Hải Dương",
+        "code": "10966",
+        "parent_code": "296"
+    },
+    "10969": {
+        "name": "Thúc Kháng",
+        "type": "xa",
+        "slug": "thuc-khang",
+        "name_with_type": "Xã Thúc Kháng",
+        "path": "Thúc Kháng, Bình Giang, Hải Dương",
+        "path_with_type": "Xã Thúc Kháng, Huyện Bình Giang, Tỉnh Hải Dương",
+        "code": "10969",
+        "parent_code": "296"
+    },
+    "10972": {
+        "name": "Tân Hồng",
+        "type": "xa",
+        "slug": "tan-hong",
+        "name_with_type": "Xã Tân Hồng",
+        "path": "Tân Hồng, Bình Giang, Hải Dương",
+        "path_with_type": "Xã Tân Hồng, Huyện Bình Giang, Tỉnh Hải Dương",
+        "code": "10972",
+        "parent_code": "296"
+    },
+    "10975": {
+        "name": "Bình Minh",
+        "type": "xa",
+        "slug": "binh-minh",
+        "name_with_type": "Xã Bình Minh",
+        "path": "Bình Minh, Bình Giang, Hải Dương",
+        "path_with_type": "Xã Bình Minh, Huyện Bình Giang, Tỉnh Hải Dương",
+        "code": "10975",
+        "parent_code": "296"
+    },
+    "10978": {
+        "name": "Hồng Khê",
+        "type": "xa",
+        "slug": "hong-khe",
+        "name_with_type": "Xã Hồng Khê",
+        "path": "Hồng Khê, Bình Giang, Hải Dương",
+        "path_with_type": "Xã Hồng Khê, Huyện Bình Giang, Tỉnh Hải Dương",
+        "code": "10978",
+        "parent_code": "296"
+    },
+    "10981": {
+        "name": "Thái Học",
+        "type": "xa",
+        "slug": "thai-hoc",
+        "name_with_type": "Xã Thái Học",
+        "path": "Thái Học, Bình Giang, Hải Dương",
+        "path_with_type": "Xã Thái Học, Huyện Bình Giang, Tỉnh Hải Dương",
+        "code": "10981",
+        "parent_code": "296"
+    },
+    "10984": {
+        "name": "Cổ Bi",
+        "type": "xa",
+        "slug": "co-bi",
+        "name_with_type": "Xã Cổ Bi",
+        "path": "Cổ Bi, Bình Giang, Hải Dương",
+        "path_with_type": "Xã Cổ Bi, Huyện Bình Giang, Tỉnh Hải Dương",
+        "code": "10984",
+        "parent_code": "296"
+    },
+    "10987": {
+        "name": "Nhân Quyền",
+        "type": "xa",
+        "slug": "nhan-quyen",
+        "name_with_type": "Xã Nhân Quyền",
+        "path": "Nhân Quyền, Bình Giang, Hải Dương",
+        "path_with_type": "Xã Nhân Quyền, Huyện Bình Giang, Tỉnh Hải Dương",
+        "code": "10987",
+        "parent_code": "296"
+    },
+    "10990": {
+        "name": "Thái Dương",
+        "type": "xa",
+        "slug": "thai-duong",
+        "name_with_type": "Xã Thái Dương",
+        "path": "Thái Dương, Bình Giang, Hải Dương",
+        "path_with_type": "Xã Thái Dương, Huyện Bình Giang, Tỉnh Hải Dương",
+        "code": "10990",
+        "parent_code": "296"
+    },
+    "10993": {
+        "name": "Thái Hòa",
+        "type": "xa",
+        "slug": "thai-hoa",
+        "name_with_type": "Xã Thái Hòa",
+        "path": "Thái Hòa, Bình Giang, Hải Dương",
+        "path_with_type": "Xã Thái Hòa, Huyện Bình Giang, Tỉnh Hải Dương",
+        "code": "10993",
+        "parent_code": "296"
+    },
+    "10996": {
+        "name": "Bình Xuyên",
+        "type": "xa",
+        "slug": "binh-xuyen",
+        "name_with_type": "Xã Bình Xuyên",
+        "path": "Bình Xuyên, Bình Giang, Hải Dương",
+        "path_with_type": "Xã Bình Xuyên, Huyện Bình Giang, Tỉnh Hải Dương",
+        "code": "10996",
+        "parent_code": "296"
+    }
+}

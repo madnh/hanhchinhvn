@@ -1,0 +1,162 @@
+{
+    "19819": {
+        "name": "Phong Điền",
+        "type": "thi-tran",
+        "slug": "phong-dien",
+        "name_with_type": "Thị trấn Phong Điền",
+        "path": "Phong Điền, Phong Điền, Thừa Thiên Huế",
+        "path_with_type": "Thị trấn Phong Điền, Huyện Phong Điền, Tỉnh Thừa Thiên Huế",
+        "code": "19819",
+        "parent_code": "476"
+    },
+    "19822": {
+        "name": "Điền Hương",
+        "type": "xa",
+        "slug": "dien-huong",
+        "name_with_type": "Xã Điền Hương",
+        "path": "Điền Hương, Phong Điền, Thừa Thiên Huế",
+        "path_with_type": "Xã Điền Hương, Huyện Phong Điền, Tỉnh Thừa Thiên Huế",
+        "code": "19822",
+        "parent_code": "476"
+    },
+    "19825": {
+        "name": "Điền Môn",
+        "type": "xa",
+        "slug": "dien-mon",
+        "name_with_type": "Xã Điền Môn",
+        "path": "Điền Môn, Phong Điền, Thừa Thiên Huế",
+        "path_with_type": "Xã Điền Môn, Huyện Phong Điền, Tỉnh Thừa Thiên Huế",
+        "code": "19825",
+        "parent_code": "476"
+    },
+    "19828": {
+        "name": "Điền Lộc",
+        "type": "xa",
+        "slug": "dien-loc",
+        "name_with_type": "Xã Điền Lộc",
+        "path": "Điền Lộc, Phong Điền, Thừa Thiên Huế",
+        "path_with_type": "Xã Điền Lộc, Huyện Phong Điền, Tỉnh Thừa Thiên Huế",
+        "code": "19828",
+        "parent_code": "476"
+    },
+    "19831": {
+        "name": "Phong Bình",
+        "type": "xa",
+        "slug": "phong-binh",
+        "name_with_type": "Xã Phong Bình",
+        "path": "Phong Bình, Phong Điền, Thừa Thiên Huế",
+        "path_with_type": "Xã Phong Bình, Huyện Phong Điền, Tỉnh Thừa Thiên Huế",
+        "code": "19831",
+        "parent_code": "476"
+    },
+    "19834": {
+        "name": "Điền Hòa",
+        "type": "xa",
+        "slug": "dien-hoa",
+        "name_with_type": "Xã Điền Hòa",
+        "path": "Điền Hòa, Phong Điền, Thừa Thiên Huế",
+        "path_with_type": "Xã Điền Hòa, Huyện Phong Điền, Tỉnh Thừa Thiên Huế",
+        "code": "19834",
+        "parent_code": "476"
+    },
+    "19837": {
+        "name": "Phong Chương",
+        "type": "xa",
+        "slug": "phong-chuong",
+        "name_with_type": "Xã Phong Chương",
+        "path": "Phong Chương, Phong Điền, Thừa Thiên Huế",
+        "path_with_type": "Xã Phong Chương, Huyện Phong Điền, Tỉnh Thừa Thiên Huế",
+        "code": "19837",
+        "parent_code": "476"
+    },
+    "19840": {
+        "name": "Phong Hải",
+        "type": "xa",
+        "slug": "phong-hai",
+        "name_with_type": "Xã Phong Hải",
+        "path": "Phong Hải, Phong Điền, Thừa Thiên Huế",
+        "path_with_type": "Xã Phong Hải, Huyện Phong Điền, Tỉnh Thừa Thiên Huế",
+        "code": "19840",
+        "parent_code": "476"
+    },
+    "19843": {
+        "name": "Điền Hải",
+        "type": "xa",
+        "slug": "dien-hai",
+        "name_with_type": "Xã Điền Hải",
+        "path": "Điền Hải, Phong Điền, Thừa Thiên Huế",
+        "path_with_type": "Xã Điền Hải, Huyện Phong Điền, Tỉnh Thừa Thiên Huế",
+        "code": "19843",
+        "parent_code": "476"
+    },
+    "19846": {
+        "name": "Phong Hòa",
+        "type": "xa",
+        "slug": "phong-hoa",
+        "name_with_type": "Xã Phong Hòa",
+        "path": "Phong Hòa, Phong Điền, Thừa Thiên Huế",
+        "path_with_type": "Xã Phong Hòa, Huyện Phong Điền, Tỉnh Thừa Thiên Huế",
+        "code": "19846",
+        "parent_code": "476"
+    },
+    "19849": {
+        "name": "Phong Thu",
+        "type": "xa",
+        "slug": "phong-thu",
+        "name_with_type": "Xã Phong Thu",
+        "path": "Phong Thu, Phong Điền, Thừa Thiên Huế",
+        "path_with_type": "Xã Phong Thu, Huyện Phong Điền, Tỉnh Thừa Thiên Huế",
+        "code": "19849",
+        "parent_code": "476"
+    },
+    "19852": {
+        "name": "Phong Hiền",
+        "type": "xa",
+        "slug": "phong-hien",
+        "name_with_type": "Xã Phong Hiền",
+        "path": "Phong Hiền, Phong Điền, Thừa Thiên Huế",
+        "path_with_type": "Xã Phong Hiền, Huyện Phong Điền, Tỉnh Thừa Thiên Huế",
+        "code": "19852",
+        "parent_code": "476"
+    },
+    "19855": {
+        "name": "Phong Mỹ",
+        "type": "xa",
+        "slug": "phong-my",
+        "name_with_type": "Xã Phong Mỹ",
+        "path": "Phong Mỹ, Phong Điền, Thừa Thiên Huế",
+        "path_with_type": "Xã Phong Mỹ, Huyện Phong Điền, Tỉnh Thừa Thiên Huế",
+        "code": "19855",
+        "parent_code": "476"
+    },
+    "19858": {
+        "name": "Phong An",
+        "type": "xa",
+        "slug": "phong-an",
+        "name_with_type": "Xã Phong An",
+        "path": "Phong An, Phong Điền, Thừa Thiên Huế",
+        "path_with_type": "Xã Phong An, Huyện Phong Điền, Tỉnh Thừa Thiên Huế",
+        "code": "19858",
+        "parent_code": "476"
+    },
+    "19861": {
+        "name": "Phong Xuân",
+        "type": "xa",
+        "slug": "phong-xuan",
+        "name_with_type": "Xã Phong Xuân",
+        "path": "Phong Xuân, Phong Điền, Thừa Thiên Huế",
+        "path_with_type": "Xã Phong Xuân, Huyện Phong Điền, Tỉnh Thừa Thiên Huế",
+        "code": "19861",
+        "parent_code": "476"
+    },
+    "19864": {
+        "name": "Phong Sơn",
+        "type": "xa",
+        "slug": "phong-son",
+        "name_with_type": "Xã Phong Sơn",
+        "path": "Phong Sơn, Phong Điền, Thừa Thiên Huế",
+        "path_with_type": "Xã Phong Sơn, Huyện Phong Điền, Tỉnh Thừa Thiên Huế",
+        "code": "19864",
+        "parent_code": "476"
+    }
+}

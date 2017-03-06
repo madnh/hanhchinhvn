@@ -1,0 +1,62 @@
+{
+    "25320": {
+        "name": "Hưng Chiến",
+        "type": "phuong",
+        "slug": "hung-chien",
+        "name_with_type": "Phường Hưng Chiến",
+        "path": "Hưng Chiến, Bình Long, Bình Phước",
+        "path_with_type": "Phường Hưng Chiến, Thị xã Bình Long, Tỉnh Bình Phước",
+        "code": "25320",
+        "parent_code": "690"
+    },
+    "25324": {
+        "name": "An Lộc",
+        "type": "phuong",
+        "slug": "an-loc",
+        "name_with_type": "Phường An Lộc",
+        "path": "An Lộc, Bình Long, Bình Phước",
+        "path_with_type": "Phường An Lộc, Thị xã Bình Long, Tỉnh Bình Phước",
+        "code": "25324",
+        "parent_code": "690"
+    },
+    "25325": {
+        "name": "Phú Thịnh",
+        "type": "phuong",
+        "slug": "phu-thinh",
+        "name_with_type": "Phường Phú Thịnh",
+        "path": "Phú Thịnh, Bình Long, Bình Phước",
+        "path_with_type": "Phường Phú Thịnh, Thị xã Bình Long, Tỉnh Bình Phước",
+        "code": "25325",
+        "parent_code": "690"
+    },
+    "25326": {
+        "name": "Phú Đức",
+        "type": "phuong",
+        "slug": "phu-duc",
+        "name_with_type": "Phường Phú Đức",
+        "path": "Phú Đức, Bình Long, Bình Phước",
+        "path_with_type": "Phường Phú Đức, Thị xã Bình Long, Tỉnh Bình Phước",
+        "code": "25326",
+        "parent_code": "690"
+    },
+    "25333": {
+        "name": "Thanh Lương",
+        "type": "xa",
+        "slug": "thanh-luong",
+        "name_with_type": "Xã Thanh Lương",
+        "path": "Thanh Lương, Bình Long, Bình Phước",
+        "path_with_type": "Xã Thanh Lương, Thị xã Bình Long, Tỉnh Bình Phước",
+        "code": "25333",
+        "parent_code": "690"
+    },
+    "25336": {
+        "name": "Thanh Phú",
+        "type": "xa",
+        "slug": "thanh-phu",
+        "name_with_type": "Xã Thanh Phú",
+        "path": "Thanh Phú, Bình Long, Bình Phước",
+        "path_with_type": "Xã Thanh Phú, Thị xã Bình Long, Tỉnh Bình Phước",
+        "code": "25336",
+        "parent_code": "690"
+    }
+}

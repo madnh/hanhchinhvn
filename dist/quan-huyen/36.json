@@ -1,0 +1,102 @@
+{
+    "356": {
+        "name": "Nam Định",
+        "type": "thanh-pho",
+        "slug": "nam-dinh",
+        "name_with_type": "Thành phố Nam Định",
+        "path": "Nam Định, Nam Định",
+        "path_with_type": "Thành phố Nam Định, Tỉnh Nam Định",
+        "code": "356",
+        "parent_code": "36"
+    },
+    "358": {
+        "name": "Mỹ Lộc",
+        "type": "huyen",
+        "slug": "my-loc",
+        "name_with_type": "Huyện Mỹ Lộc",
+        "path": "Mỹ Lộc, Nam Định",
+        "path_with_type": "Huyện Mỹ Lộc, Tỉnh Nam Định",
+        "code": "358",
+        "parent_code": "36"
+    },
+    "359": {
+        "name": "Vụ Bản",
+        "type": "huyen",
+        "slug": "vu-ban",
+        "name_with_type": "Huyện Vụ Bản",
+        "path": "Vụ Bản, Nam Định",
+        "path_with_type": "Huyện Vụ Bản, Tỉnh Nam Định",
+        "code": "359",
+        "parent_code": "36"
+    },
+    "360": {
+        "name": "Ý Yên",
+        "type": "huyen",
+        "slug": "y-yen",
+        "name_with_type": "Huyện Ý Yên",
+        "path": "Ý Yên, Nam Định",
+        "path_with_type": "Huyện Ý Yên, Tỉnh Nam Định",
+        "code": "360",
+        "parent_code": "36"
+    },
+    "361": {
+        "name": "Nghĩa Hưng",
+        "type": "huyen",
+        "slug": "nghia-hung",
+        "name_with_type": "Huyện Nghĩa Hưng",
+        "path": "Nghĩa Hưng, Nam Định",
+        "path_with_type": "Huyện Nghĩa Hưng, Tỉnh Nam Định",
+        "code": "361",
+        "parent_code": "36"
+    },
+    "362": {
+        "name": "Nam Trực",
+        "type": "huyen",
+        "slug": "nam-truc",
+        "name_with_type": "Huyện Nam Trực",
+        "path": "Nam Trực, Nam Định",
+        "path_with_type": "Huyện Nam Trực, Tỉnh Nam Định",
+        "code": "362",
+        "parent_code": "36"
+    },
+    "363": {
+        "name": "Trực Ninh",
+        "type": "huyen",
+        "slug": "truc-ninh",
+        "name_with_type": "Huyện Trực Ninh",
+        "path": "Trực Ninh, Nam Định",
+        "path_with_type": "Huyện Trực Ninh, Tỉnh Nam Định",
+        "code": "363",
+        "parent_code": "36"
+    },
+    "364": {
+        "name": "Xuân Trường",
+        "type": "huyen",
+        "slug": "xuan-truong",
+        "name_with_type": "Huyện Xuân Trường",
+        "path": "Xuân Trường, Nam Định",
+        "path_with_type": "Huyện Xuân Trường, Tỉnh Nam Định",
+        "code": "364",
+        "parent_code": "36"
+    },
+    "365": {
+        "name": "Giao Thủy",
+        "type": "huyen",
+        "slug": "giao-thuy",
+        "name_with_type": "Huyện Giao Thủy",
+        "path": "Giao Thủy, Nam Định",
+        "path_with_type": "Huyện Giao Thủy, Tỉnh Nam Định",
+        "code": "365",
+        "parent_code": "36"
+    },
+    "366": {
+        "name": "Hải Hậu",
+        "type": "huyen",
+        "slug": "hai-hau",
+        "name_with_type": "Huyện Hải Hậu",
+        "path": "Hải Hậu, Nam Định",
+        "path_with_type": "Huyện Hải Hậu, Tỉnh Nam Định",
+        "code": "366",
+        "parent_code": "36"
+    }
+}

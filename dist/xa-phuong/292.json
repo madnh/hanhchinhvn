@@ -1,0 +1,252 @@
+{
+    "10675": {
+        "name": "Kinh Môn",
+        "type": "thi-tran",
+        "slug": "kinh-mon",
+        "name_with_type": "Thị trấn Kinh Môn",
+        "path": "Kinh Môn, Kinh Môn, Hải Dương",
+        "path_with_type": "Thị trấn Kinh Môn, Huyện Kinh Môn, Tỉnh Hải Dương",
+        "code": "10675",
+        "parent_code": "292"
+    },
+    "10678": {
+        "name": "Bạch Đằng",
+        "type": "xa",
+        "slug": "bach-dang",
+        "name_with_type": "Xã Bạch Đằng",
+        "path": "Bạch Đằng, Kinh Môn, Hải Dương",
+        "path_with_type": "Xã Bạch Đằng, Huyện Kinh Môn, Tỉnh Hải Dương",
+        "code": "10678",
+        "parent_code": "292"
+    },
+    "10681": {
+        "name": "Thất Hùng",
+        "type": "xa",
+        "slug": "that-hung",
+        "name_with_type": "Xã Thất Hùng",
+        "path": "Thất Hùng, Kinh Môn, Hải Dương",
+        "path_with_type": "Xã Thất Hùng, Huyện Kinh Môn, Tỉnh Hải Dương",
+        "code": "10681",
+        "parent_code": "292"
+    },
+    "10684": {
+        "name": "Lê Ninh",
+        "type": "xa",
+        "slug": "le-ninh",
+        "name_with_type": "Xã Lê Ninh",
+        "path": "Lê Ninh, Kinh Môn, Hải Dương",
+        "path_with_type": "Xã Lê Ninh, Huyện Kinh Môn, Tỉnh Hải Dương",
+        "code": "10684",
+        "parent_code": "292"
+    },
+    "10687": {
+        "name": "Hoành Sơn",
+        "type": "xa",
+        "slug": "hoanh-son",
+        "name_with_type": "Xã Hoành Sơn",
+        "path": "Hoành Sơn, Kinh Môn, Hải Dương",
+        "path_with_type": "Xã Hoành Sơn, Huyện Kinh Môn, Tỉnh Hải Dương",
+        "code": "10687",
+        "parent_code": "292"
+    },
+    "10690": {
+        "name": "Phúc Thành B",
+        "type": "xa",
+        "slug": "phuc-thanh-b",
+        "name_with_type": "Xã Phúc Thành B",
+        "path": "Phúc Thành B, Kinh Môn, Hải Dương",
+        "path_with_type": "Xã Phúc Thành B, Huyện Kinh Môn, Tỉnh Hải Dương",
+        "code": "10690",
+        "parent_code": "292"
+    },
+    "10693": {
+        "name": "Thái Sơn",
+        "type": "xa",
+        "slug": "thai-son",
+        "name_with_type": "Xã Thái Sơn",
+        "path": "Thái Sơn, Kinh Môn, Hải Dương",
+        "path_with_type": "Xã Thái Sơn, Huyện Kinh Môn, Tỉnh Hải Dương",
+        "code": "10693",
+        "parent_code": "292"
+    },
+    "10696": {
+        "name": "Duy Tân",
+        "type": "xa",
+        "slug": "duy-tan",
+        "name_with_type": "Xã Duy Tân",
+        "path": "Duy Tân, Kinh Môn, Hải Dương",
+        "path_with_type": "Xã Duy Tân, Huyện Kinh Môn, Tỉnh Hải Dương",
+        "code": "10696",
+        "parent_code": "292"
+    },
+    "10699": {
+        "name": "Tân Dân",
+        "type": "xa",
+        "slug": "tan-dan",
+        "name_with_type": "Xã Tân Dân",
+        "path": "Tân Dân, Kinh Môn, Hải Dương",
+        "path_with_type": "Xã Tân Dân, Huyện Kinh Môn, Tỉnh Hải Dương",
+        "code": "10699",
+        "parent_code": "292"
+    },
+    "10702": {
+        "name": "Minh Tân",
+        "type": "thi-tran",
+        "slug": "minh-tan",
+        "name_with_type": "Thị trấn Minh Tân",
+        "path": "Minh Tân, Kinh Môn, Hải Dương",
+        "path_with_type": "Thị trấn Minh Tân, Huyện Kinh Môn, Tỉnh Hải Dương",
+        "code": "10702",
+        "parent_code": "292"
+    },
+    "10705": {
+        "name": "Quang Trung",
+        "type": "xa",
+        "slug": "quang-trung",
+        "name_with_type": "Xã Quang Trung",
+        "path": "Quang Trung, Kinh Môn, Hải Dương",
+        "path_with_type": "Xã Quang Trung, Huyện Kinh Môn, Tỉnh Hải Dương",
+        "code": "10705",
+        "parent_code": "292"
+    },
+    "10708": {
+        "name": "Hiệp Hòa",
+        "type": "xa",
+        "slug": "hiep-hoa",
+        "name_with_type": "Xã Hiệp Hòa",
+        "path": "Hiệp Hòa, Kinh Môn, Hải Dương",
+        "path_with_type": "Xã Hiệp Hòa, Huyện Kinh Môn, Tỉnh Hải Dương",
+        "code": "10708",
+        "parent_code": "292"
+    },
+    "10711": {
+        "name": "Phạm Mệnh",
+        "type": "xa",
+        "slug": "pham-menh",
+        "name_with_type": "Xã Phạm Mệnh",
+        "path": "Phạm Mệnh, Kinh Môn, Hải Dương",
+        "path_with_type": "Xã Phạm Mệnh, Huyện Kinh Môn, Tỉnh Hải Dương",
+        "code": "10711",
+        "parent_code": "292"
+    },
+    "10714": {
+        "name": "Phú Thứ",
+        "type": "thi-tran",
+        "slug": "phu-thu",
+        "name_with_type": "Thị trấn Phú Thứ",
+        "path": "Phú Thứ, Kinh Môn, Hải Dương",
+        "path_with_type": "Thị trấn Phú Thứ, Huyện Kinh Môn, Tỉnh Hải Dương",
+        "code": "10714",
+        "parent_code": "292"
+    },
+    "10717": {
+        "name": "Thăng Long",
+        "type": "xa",
+        "slug": "thang-long",
+        "name_with_type": "Xã Thăng Long",
+        "path": "Thăng Long, Kinh Môn, Hải Dương",
+        "path_with_type": "Xã Thăng Long, Huyện Kinh Môn, Tỉnh Hải Dương",
+        "code": "10717",
+        "parent_code": "292"
+    },
+    "10720": {
+        "name": "Lạc Long",
+        "type": "xa",
+        "slug": "lac-long",
+        "name_with_type": "Xã Lạc Long",
+        "path": "Lạc Long, Kinh Môn, Hải Dương",
+        "path_with_type": "Xã Lạc Long, Huyện Kinh Môn, Tỉnh Hải Dương",
+        "code": "10720",
+        "parent_code": "292"
+    },
+    "10723": {
+        "name": "An Sinh",
+        "type": "xa",
+        "slug": "an-sinh",
+        "name_with_type": "Xã An Sinh",
+        "path": "An Sinh, Kinh Môn, Hải Dương",
+        "path_with_type": "Xã An Sinh, Huyện Kinh Môn, Tỉnh Hải Dương",
+        "code": "10723",
+        "parent_code": "292"
+    },
+    "10726": {
+        "name": "Hiệp Sơn",
+        "type": "xa",
+        "slug": "hiep-son",
+        "name_with_type": "Xã Hiệp Sơn",
+        "path": "Hiệp Sơn, Kinh Môn, Hải Dương",
+        "path_with_type": "Xã Hiệp Sơn, Huyện Kinh Môn, Tỉnh Hải Dương",
+        "code": "10726",
+        "parent_code": "292"
+    },
+    "10729": {
+        "name": "Thượng Quận",
+        "type": "xa",
+        "slug": "thuong-quan",
+        "name_with_type": "Xã Thượng Quận",
+        "path": "Thượng Quận, Kinh Môn, Hải Dương",
+        "path_with_type": "Xã Thượng Quận, Huyện Kinh Môn, Tỉnh Hải Dương",
+        "code": "10729",
+        "parent_code": "292"
+    },
+    "10732": {
+        "name": "An Phụ",
+        "type": "xa",
+        "slug": "an-phu",
+        "name_with_type": "Xã An Phụ",
+        "path": "An Phụ, Kinh Môn, Hải Dương",
+        "path_with_type": "Xã An Phụ, Huyện Kinh Môn, Tỉnh Hải Dương",
+        "code": "10732",
+        "parent_code": "292"
+    },
+    "10735": {
+        "name": "Hiệp An",
+        "type": "xa",
+        "slug": "hiep-an",
+        "name_with_type": "Xã Hiệp An",
+        "path": "Hiệp An, Kinh Môn, Hải Dương",
+        "path_with_type": "Xã Hiệp An, Huyện Kinh Môn, Tỉnh Hải Dương",
+        "code": "10735",
+        "parent_code": "292"
+    },
+    "10738": {
+        "name": "Long Xuyên",
+        "type": "xa",
+        "slug": "long-xuyen",
+        "name_with_type": "Xã Long Xuyên",
+        "path": "Long Xuyên, Kinh Môn, Hải Dương",
+        "path_with_type": "Xã Long Xuyên, Huyện Kinh Môn, Tỉnh Hải Dương",
+        "code": "10738",
+        "parent_code": "292"
+    },
+    "10741": {
+        "name": "Thái Thịnh",
+        "type": "xa",
+        "slug": "thai-thinh",
+        "name_with_type": "Xã Thái Thịnh",
+        "path": "Thái Thịnh, Kinh Môn, Hải Dương",
+        "path_with_type": "Xã Thái Thịnh, Huyện Kinh Môn, Tỉnh Hải Dương",
+        "code": "10741",
+        "parent_code": "292"
+    },
+    "10744": {
+        "name": "Hiến Thành",
+        "type": "xa",
+        "slug": "hien-thanh",
+        "name_with_type": "Xã Hiến Thành",
+        "path": "Hiến Thành, Kinh Môn, Hải Dương",
+        "path_with_type": "Xã Hiến Thành, Huyện Kinh Môn, Tỉnh Hải Dương",
+        "code": "10744",
+        "parent_code": "292"
+    },
+    "10747": {
+        "name": "Minh Hòa",
+        "type": "xa",
+        "slug": "minh-hoa",
+        "name_with_type": "Xã Minh Hòa",
+        "path": "Minh Hòa, Kinh Môn, Hải Dương",
+        "path_with_type": "Xã Minh Hòa, Huyện Kinh Môn, Tỉnh Hải Dương",
+        "code": "10747",
+        "parent_code": "292"
+    }
+}

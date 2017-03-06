@@ -1,0 +1,292 @@
+{
+    "10183": {
+        "name": "Thường Tín",
+        "type": "thi-tran",
+        "slug": "thuong-tin",
+        "name_with_type": "Thị trấn Thường Tín",
+        "path": "Thường Tín, Thường Tín, Hà Nội",
+        "path_with_type": "Thị trấn Thường Tín, Huyện Thường Tín, Thành phố Hà Nội",
+        "code": "10183",
+        "parent_code": "279"
+    },
+    "10186": {
+        "name": "Ninh Sở",
+        "type": "xa",
+        "slug": "ninh-so",
+        "name_with_type": "Xã Ninh Sở",
+        "path": "Ninh Sở, Thường Tín, Hà Nội",
+        "path_with_type": "Xã Ninh Sở, Huyện Thường Tín, Thành phố Hà Nội",
+        "code": "10186",
+        "parent_code": "279"
+    },
+    "10189": {
+        "name": "Nhị Khê",
+        "type": "xa",
+        "slug": "nhi-khe",
+        "name_with_type": "Xã Nhị Khê",
+        "path": "Nhị Khê, Thường Tín, Hà Nội",
+        "path_with_type": "Xã Nhị Khê, Huyện Thường Tín, Thành phố Hà Nội",
+        "code": "10189",
+        "parent_code": "279"
+    },
+    "10192": {
+        "name": "Duyên Thái",
+        "type": "xa",
+        "slug": "duyen-thai",
+        "name_with_type": "Xã Duyên Thái",
+        "path": "Duyên Thái, Thường Tín, Hà Nội",
+        "path_with_type": "Xã Duyên Thái, Huyện Thường Tín, Thành phố Hà Nội",
+        "code": "10192",
+        "parent_code": "279"
+    },
+    "10195": {
+        "name": "Khánh Hà",
+        "type": "xa",
+        "slug": "khanh-ha",
+        "name_with_type": "Xã Khánh Hà",
+        "path": "Khánh Hà, Thường Tín, Hà Nội",
+        "path_with_type": "Xã Khánh Hà, Huyện Thường Tín, Thành phố Hà Nội",
+        "code": "10195",
+        "parent_code": "279"
+    },
+    "10198": {
+        "name": "Hòa Bình",
+        "type": "xa",
+        "slug": "hoa-binh",
+        "name_with_type": "Xã Hòa Bình",
+        "path": "Hòa Bình, Thường Tín, Hà Nội",
+        "path_with_type": "Xã Hòa Bình, Huyện Thường Tín, Thành phố Hà Nội",
+        "code": "10198",
+        "parent_code": "279"
+    },
+    "10201": {
+        "name": "Văn Bình",
+        "type": "xa",
+        "slug": "van-binh",
+        "name_with_type": "Xã Văn Bình",
+        "path": "Văn Bình, Thường Tín, Hà Nội",
+        "path_with_type": "Xã Văn Bình, Huyện Thường Tín, Thành phố Hà Nội",
+        "code": "10201",
+        "parent_code": "279"
+    },
+    "10204": {
+        "name": "Hiền Giang",
+        "type": "xa",
+        "slug": "hien-giang",
+        "name_with_type": "Xã Hiền Giang",
+        "path": "Hiền Giang, Thường Tín, Hà Nội",
+        "path_with_type": "Xã Hiền Giang, Huyện Thường Tín, Thành phố Hà Nội",
+        "code": "10204",
+        "parent_code": "279"
+    },
+    "10207": {
+        "name": "Hồng Vân",
+        "type": "xa",
+        "slug": "hong-van",
+        "name_with_type": "Xã Hồng Vân",
+        "path": "Hồng Vân, Thường Tín, Hà Nội",
+        "path_with_type": "Xã Hồng Vân, Huyện Thường Tín, Thành phố Hà Nội",
+        "code": "10207",
+        "parent_code": "279"
+    },
+    "10210": {
+        "name": "Vân Tảo",
+        "type": "xa",
+        "slug": "van-tao",
+        "name_with_type": "Xã Vân Tảo",
+        "path": "Vân Tảo, Thường Tín, Hà Nội",
+        "path_with_type": "Xã Vân Tảo, Huyện Thường Tín, Thành phố Hà Nội",
+        "code": "10210",
+        "parent_code": "279"
+    },
+    "10213": {
+        "name": "Liên Phương",
+        "type": "xa",
+        "slug": "lien-phuong",
+        "name_with_type": "Xã Liên Phương",
+        "path": "Liên Phương, Thường Tín, Hà Nội",
+        "path_with_type": "Xã Liên Phương, Huyện Thường Tín, Thành phố Hà Nội",
+        "code": "10213",
+        "parent_code": "279"
+    },
+    "10216": {
+        "name": "Văn Phú",
+        "type": "xa",
+        "slug": "van-phu",
+        "name_with_type": "Xã Văn Phú",
+        "path": "Văn Phú, Thường Tín, Hà Nội",
+        "path_with_type": "Xã Văn Phú, Huyện Thường Tín, Thành phố Hà Nội",
+        "code": "10216",
+        "parent_code": "279"
+    },
+    "10219": {
+        "name": "Tự Nhiên",
+        "type": "xa",
+        "slug": "tu-nhien",
+        "name_with_type": "Xã Tự Nhiên",
+        "path": "Tự Nhiên, Thường Tín, Hà Nội",
+        "path_with_type": "Xã Tự Nhiên, Huyện Thường Tín, Thành phố Hà Nội",
+        "code": "10219",
+        "parent_code": "279"
+    },
+    "10222": {
+        "name": "Tiền Phong",
+        "type": "xa",
+        "slug": "tien-phong",
+        "name_with_type": "Xã Tiền Phong",
+        "path": "Tiền Phong, Thường Tín, Hà Nội",
+        "path_with_type": "Xã Tiền Phong, Huyện Thường Tín, Thành phố Hà Nội",
+        "code": "10222",
+        "parent_code": "279"
+    },
+    "10225": {
+        "name": "Hà Hồi",
+        "type": "xa",
+        "slug": "ha-hoi",
+        "name_with_type": "Xã Hà Hồi",
+        "path": "Hà Hồi, Thường Tín, Hà Nội",
+        "path_with_type": "Xã Hà Hồi, Huyện Thường Tín, Thành phố Hà Nội",
+        "code": "10225",
+        "parent_code": "279"
+    },
+    "10228": {
+        "name": "Thư Phú",
+        "type": "xa",
+        "slug": "thu-phu",
+        "name_with_type": "Xã Thư Phú",
+        "path": "Thư Phú, Thường Tín, Hà Nội",
+        "path_with_type": "Xã Thư Phú, Huyện Thường Tín, Thành phố Hà Nội",
+        "code": "10228",
+        "parent_code": "279"
+    },
+    "10231": {
+        "name": "Nguyễn Trãi",
+        "type": "xa",
+        "slug": "nguyen-trai",
+        "name_with_type": "Xã Nguyễn Trãi",
+        "path": "Nguyễn Trãi, Thường Tín, Hà Nội",
+        "path_with_type": "Xã Nguyễn Trãi, Huyện Thường Tín, Thành phố Hà Nội",
+        "code": "10231",
+        "parent_code": "279"
+    },
+    "10234": {
+        "name": "Quất Động",
+        "type": "xa",
+        "slug": "quat-dong",
+        "name_with_type": "Xã Quất Động",
+        "path": "Quất Động, Thường Tín, Hà Nội",
+        "path_with_type": "Xã Quất Động, Huyện Thường Tín, Thành phố Hà Nội",
+        "code": "10234",
+        "parent_code": "279"
+    },
+    "10237": {
+        "name": "Chương Dương",
+        "type": "xa",
+        "slug": "chuong-duong",
+        "name_with_type": "Xã Chương Dương",
+        "path": "Chương Dương, Thường Tín, Hà Nội",
+        "path_with_type": "Xã Chương Dương, Huyện Thường Tín, Thành phố Hà Nội",
+        "code": "10237",
+        "parent_code": "279"
+    },
+    "10240": {
+        "name": "Tân Minh",
+        "type": "xa",
+        "slug": "tan-minh",
+        "name_with_type": "Xã Tân Minh",
+        "path": "Tân Minh, Thường Tín, Hà Nội",
+        "path_with_type": "Xã Tân Minh, Huyện Thường Tín, Thành phố Hà Nội",
+        "code": "10240",
+        "parent_code": "279"
+    },
+    "10243": {
+        "name": "Lê Lợi",
+        "type": "xa",
+        "slug": "le-loi",
+        "name_with_type": "Xã Lê Lợi",
+        "path": "Lê Lợi, Thường Tín, Hà Nội",
+        "path_with_type": "Xã Lê Lợi, Huyện Thường Tín, Thành phố Hà Nội",
+        "code": "10243",
+        "parent_code": "279"
+    },
+    "10246": {
+        "name": "Thắng Lợi",
+        "type": "xa",
+        "slug": "thang-loi",
+        "name_with_type": "Xã Thắng Lợi",
+        "path": "Thắng Lợi, Thường Tín, Hà Nội",
+        "path_with_type": "Xã Thắng Lợi, Huyện Thường Tín, Thành phố Hà Nội",
+        "code": "10246",
+        "parent_code": "279"
+    },
+    "10249": {
+        "name": "Dũng Tiến",
+        "type": "xa",
+        "slug": "dung-tien",
+        "name_with_type": "Xã Dũng Tiến",
+        "path": "Dũng Tiến, Thường Tín, Hà Nội",
+        "path_with_type": "Xã Dũng Tiến, Huyện Thường Tín, Thành phố Hà Nội",
+        "code": "10249",
+        "parent_code": "279"
+    },
+    "10252": {
+        "name": "Thống Nhất",
+        "type": "xa",
+        "slug": "thong-nhat",
+        "name_with_type": "Xã Thống Nhất",
+        "path": "Thống Nhất, Thường Tín, Hà Nội",
+        "path_with_type": "Xã Thống Nhất, Huyện Thường Tín, Thành phố Hà Nội",
+        "code": "10252",
+        "parent_code": "279"
+    },
+    "10255": {
+        "name": "Nghiêm Xuyên",
+        "type": "xa",
+        "slug": "nghiem-xuyen",
+        "name_with_type": "Xã Nghiêm Xuyên",
+        "path": "Nghiêm Xuyên, Thường Tín, Hà Nội",
+        "path_with_type": "Xã Nghiêm Xuyên, Huyện Thường Tín, Thành phố Hà Nội",
+        "code": "10255",
+        "parent_code": "279"
+    },
+    "10258": {
+        "name": "Tô Hiệu",
+        "type": "xa",
+        "slug": "to-hieu",
+        "name_with_type": "Xã Tô Hiệu",
+        "path": "Tô Hiệu, Thường Tín, Hà Nội",
+        "path_with_type": "Xã Tô Hiệu, Huyện Thường Tín, Thành phố Hà Nội",
+        "code": "10258",
+        "parent_code": "279"
+    },
+    "10261": {
+        "name": "Văn Tự",
+        "type": "xa",
+        "slug": "van-tu",
+        "name_with_type": "Xã Văn Tự",
+        "path": "Văn Tự, Thường Tín, Hà Nội",
+        "path_with_type": "Xã Văn Tự, Huyện Thường Tín, Thành phố Hà Nội",
+        "code": "10261",
+        "parent_code": "279"
+    },
+    "10264": {
+        "name": "Vạn Điểm",
+        "type": "xa",
+        "slug": "van-diem",
+        "name_with_type": "Xã Vạn Điểm",
+        "path": "Vạn Điểm, Thường Tín, Hà Nội",
+        "path_with_type": "Xã Vạn Điểm, Huyện Thường Tín, Thành phố Hà Nội",
+        "code": "10264",
+        "parent_code": "279"
+    },
+    "10267": {
+        "name": "Minh Cường",
+        "type": "xa",
+        "slug": "minh-cuong",
+        "name_with_type": "Xã Minh Cường",
+        "path": "Minh Cường, Thường Tín, Hà Nội",
+        "path_with_type": "Xã Minh Cường, Huyện Thường Tín, Thành phố Hà Nội",
+        "code": "10267",
+        "parent_code": "279"
+    }
+}

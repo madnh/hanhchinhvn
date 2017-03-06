@@ -1,0 +1,62 @@
+{
+    "22837": {
+        "name": "Phước Chiến",
+        "type": "xa",
+        "slug": "phuoc-chien",
+        "name_with_type": "Xã Phước Chiến",
+        "path": "Phước Chiến, Thuận Bắc, Ninh Thuận",
+        "path_with_type": "Xã Phước Chiến, Huyện Thuận Bắc, Tỉnh Ninh Thuận",
+        "code": "22837",
+        "parent_code": "588"
+    },
+    "22840": {
+        "name": "Công Hải",
+        "type": "xa",
+        "slug": "cong-hai",
+        "name_with_type": "Xã Công Hải",
+        "path": "Công Hải, Thuận Bắc, Ninh Thuận",
+        "path_with_type": "Xã Công Hải, Huyện Thuận Bắc, Tỉnh Ninh Thuận",
+        "code": "22840",
+        "parent_code": "588"
+    },
+    "22843": {
+        "name": "Phước Kháng",
+        "type": "xa",
+        "slug": "phuoc-khang",
+        "name_with_type": "Xã Phước Kháng",
+        "path": "Phước Kháng, Thuận Bắc, Ninh Thuận",
+        "path_with_type": "Xã Phước Kháng, Huyện Thuận Bắc, Tỉnh Ninh Thuận",
+        "code": "22843",
+        "parent_code": "588"
+    },
+    "22849": {
+        "name": "Lợi Hải",
+        "type": "xa",
+        "slug": "loi-hai",
+        "name_with_type": "Xã Lợi Hải",
+        "path": "Lợi Hải, Thuận Bắc, Ninh Thuận",
+        "path_with_type": "Xã Lợi Hải, Huyện Thuận Bắc, Tỉnh Ninh Thuận",
+        "code": "22849",
+        "parent_code": "588"
+    },
+    "22853": {
+        "name": "Bắc Sơn",
+        "type": "xa",
+        "slug": "bac-son",
+        "name_with_type": "Xã Bắc Sơn",
+        "path": "Bắc Sơn, Thuận Bắc, Ninh Thuận",
+        "path_with_type": "Xã Bắc Sơn, Huyện Thuận Bắc, Tỉnh Ninh Thuận",
+        "code": "22853",
+        "parent_code": "588"
+    },
+    "22856": {
+        "name": "Bắc Phong",
+        "type": "xa",
+        "slug": "bac-phong",
+        "name_with_type": "Xã Bắc Phong",
+        "path": "Bắc Phong, Thuận Bắc, Ninh Thuận",
+        "path_with_type": "Xã Bắc Phong, Huyện Thuận Bắc, Tỉnh Ninh Thuận",
+        "code": "22856",
+        "parent_code": "588"
+    }
+}

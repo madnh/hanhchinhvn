@@ -1,0 +1,312 @@
+{
+    "04621": {
+        "name": "NT Liên Sơn",
+        "type": "thi-tran",
+        "slug": "nt-lien-son",
+        "name_with_type": "Thị trấn NT Liên Sơn",
+        "path": "NT Liên Sơn, Văn Chấn, Yên Bái",
+        "path_with_type": "Thị trấn NT Liên Sơn, Huyện Văn Chấn, Tỉnh Yên Bái",
+        "code": "04621",
+        "parent_code": "140"
+    },
+    "04624": {
+        "name": "NT Nghĩa Lộ",
+        "type": "thi-tran",
+        "slug": "nt-nghia-lo",
+        "name_with_type": "Thị trấn NT Nghĩa Lộ",
+        "path": "NT Nghĩa Lộ, Văn Chấn, Yên Bái",
+        "path_with_type": "Thị trấn NT Nghĩa Lộ, Huyện Văn Chấn, Tỉnh Yên Bái",
+        "code": "04624",
+        "parent_code": "140"
+    },
+    "04627": {
+        "name": "NT Trần Phú",
+        "type": "thi-tran",
+        "slug": "nt-tran-phu",
+        "name_with_type": "Thị trấn NT Trần Phú",
+        "path": "NT Trần Phú, Văn Chấn, Yên Bái",
+        "path_with_type": "Thị trấn NT Trần Phú, Huyện Văn Chấn, Tỉnh Yên Bái",
+        "code": "04627",
+        "parent_code": "140"
+    },
+    "04630": {
+        "name": "Tú Lệ",
+        "type": "xa",
+        "slug": "tu-le",
+        "name_with_type": "Xã Tú Lệ",
+        "path": "Tú Lệ, Văn Chấn, Yên Bái",
+        "path_with_type": "Xã Tú Lệ, Huyện Văn Chấn, Tỉnh Yên Bái",
+        "code": "04630",
+        "parent_code": "140"
+    },
+    "04633": {
+        "name": "Nậm Búng",
+        "type": "xa",
+        "slug": "nam-bung",
+        "name_with_type": "Xã Nậm Búng",
+        "path": "Nậm Búng, Văn Chấn, Yên Bái",
+        "path_with_type": "Xã Nậm Búng, Huyện Văn Chấn, Tỉnh Yên Bái",
+        "code": "04633",
+        "parent_code": "140"
+    },
+    "04636": {
+        "name": "Gia Hội",
+        "type": "xa",
+        "slug": "gia-hoi",
+        "name_with_type": "Xã Gia Hội",
+        "path": "Gia Hội, Văn Chấn, Yên Bái",
+        "path_with_type": "Xã Gia Hội, Huyện Văn Chấn, Tỉnh Yên Bái",
+        "code": "04636",
+        "parent_code": "140"
+    },
+    "04639": {
+        "name": "Sùng Đô",
+        "type": "xa",
+        "slug": "sung-do",
+        "name_with_type": "Xã Sùng Đô",
+        "path": "Sùng Đô, Văn Chấn, Yên Bái",
+        "path_with_type": "Xã Sùng Đô, Huyện Văn Chấn, Tỉnh Yên Bái",
+        "code": "04639",
+        "parent_code": "140"
+    },
+    "04642": {
+        "name": "Nậm Mười",
+        "type": "xa",
+        "slug": "nam-muoi",
+        "name_with_type": "Xã Nậm Mười",
+        "path": "Nậm Mười, Văn Chấn, Yên Bái",
+        "path_with_type": "Xã Nậm Mười, Huyện Văn Chấn, Tỉnh Yên Bái",
+        "code": "04642",
+        "parent_code": "140"
+    },
+    "04645": {
+        "name": "An Lương",
+        "type": "xa",
+        "slug": "an-luong",
+        "name_with_type": "Xã An Lương",
+        "path": "An Lương, Văn Chấn, Yên Bái",
+        "path_with_type": "Xã An Lương, Huyện Văn Chấn, Tỉnh Yên Bái",
+        "code": "04645",
+        "parent_code": "140"
+    },
+    "04648": {
+        "name": "Nậm Lành",
+        "type": "xa",
+        "slug": "nam-lanh",
+        "name_with_type": "Xã Nậm Lành",
+        "path": "Nậm Lành, Văn Chấn, Yên Bái",
+        "path_with_type": "Xã Nậm Lành, Huyện Văn Chấn, Tỉnh Yên Bái",
+        "code": "04648",
+        "parent_code": "140"
+    },
+    "04651": {
+        "name": "Sơn Lương",
+        "type": "xa",
+        "slug": "son-luong",
+        "name_with_type": "Xã Sơn Lương",
+        "path": "Sơn Lương, Văn Chấn, Yên Bái",
+        "path_with_type": "Xã Sơn Lương, Huyện Văn Chấn, Tỉnh Yên Bái",
+        "code": "04651",
+        "parent_code": "140"
+    },
+    "04654": {
+        "name": "Suối Quyền",
+        "type": "xa",
+        "slug": "suoi-quyen",
+        "name_with_type": "Xã Suối Quyền",
+        "path": "Suối Quyền, Văn Chấn, Yên Bái",
+        "path_with_type": "Xã Suối Quyền, Huyện Văn Chấn, Tỉnh Yên Bái",
+        "code": "04654",
+        "parent_code": "140"
+    },
+    "04657": {
+        "name": "Suối Giàng",
+        "type": "xa",
+        "slug": "suoi-giang",
+        "name_with_type": "Xã Suối Giàng",
+        "path": "Suối Giàng, Văn Chấn, Yên Bái",
+        "path_with_type": "Xã Suối Giàng, Huyện Văn Chấn, Tỉnh Yên Bái",
+        "code": "04657",
+        "parent_code": "140"
+    },
+    "04660": {
+        "name": "Sơn A",
+        "type": "xa",
+        "slug": "son-a",
+        "name_with_type": "Xã Sơn A",
+        "path": "Sơn A, Văn Chấn, Yên Bái",
+        "path_with_type": "Xã Sơn A, Huyện Văn Chấn, Tỉnh Yên Bái",
+        "code": "04660",
+        "parent_code": "140"
+    },
+    "04663": {
+        "name": "Phù Nham",
+        "type": "xa",
+        "slug": "phu-nham",
+        "name_with_type": "Xã Phù Nham",
+        "path": "Phù Nham, Văn Chấn, Yên Bái",
+        "path_with_type": "Xã Phù Nham, Huyện Văn Chấn, Tỉnh Yên Bái",
+        "code": "04663",
+        "parent_code": "140"
+    },
+    "04666": {
+        "name": "Nghĩa Sơn",
+        "type": "xa",
+        "slug": "nghia-son",
+        "name_with_type": "Xã Nghĩa Sơn",
+        "path": "Nghĩa Sơn, Văn Chấn, Yên Bái",
+        "path_with_type": "Xã Nghĩa Sơn, Huyện Văn Chấn, Tỉnh Yên Bái",
+        "code": "04666",
+        "parent_code": "140"
+    },
+    "04669": {
+        "name": "Suối Bu",
+        "type": "xa",
+        "slug": "suoi-bu",
+        "name_with_type": "Xã Suối Bu",
+        "path": "Suối Bu, Văn Chấn, Yên Bái",
+        "path_with_type": "Xã Suối Bu, Huyện Văn Chấn, Tỉnh Yên Bái",
+        "code": "04669",
+        "parent_code": "140"
+    },
+    "04672": {
+        "name": "Sơn Thịnh",
+        "type": "xa",
+        "slug": "son-thinh",
+        "name_with_type": "Xã Sơn Thịnh",
+        "path": "Sơn Thịnh, Văn Chấn, Yên Bái",
+        "path_with_type": "Xã Sơn Thịnh, Huyện Văn Chấn, Tỉnh Yên Bái",
+        "code": "04672",
+        "parent_code": "140"
+    },
+    "04675": {
+        "name": "Thanh Lương",
+        "type": "xa",
+        "slug": "thanh-luong",
+        "name_with_type": "Xã Thanh Lương",
+        "path": "Thanh Lương, Văn Chấn, Yên Bái",
+        "path_with_type": "Xã Thanh Lương, Huyện Văn Chấn, Tỉnh Yên Bái",
+        "code": "04675",
+        "parent_code": "140"
+    },
+    "04678": {
+        "name": "Hạnh Sơn",
+        "type": "xa",
+        "slug": "hanh-son",
+        "name_with_type": "Xã Hạnh Sơn",
+        "path": "Hạnh Sơn, Văn Chấn, Yên Bái",
+        "path_with_type": "Xã Hạnh Sơn, Huyện Văn Chấn, Tỉnh Yên Bái",
+        "code": "04678",
+        "parent_code": "140"
+    },
+    "04681": {
+        "name": "Phúc Sơn",
+        "type": "xa",
+        "slug": "phuc-son",
+        "name_with_type": "Xã Phúc Sơn",
+        "path": "Phúc Sơn, Văn Chấn, Yên Bái",
+        "path_with_type": "Xã Phúc Sơn, Huyện Văn Chấn, Tỉnh Yên Bái",
+        "code": "04681",
+        "parent_code": "140"
+    },
+    "04684": {
+        "name": "Thạch Lương",
+        "type": "xa",
+        "slug": "thach-luong",
+        "name_with_type": "Xã Thạch Lương",
+        "path": "Thạch Lương, Văn Chấn, Yên Bái",
+        "path_with_type": "Xã Thạch Lương, Huyện Văn Chấn, Tỉnh Yên Bái",
+        "code": "04684",
+        "parent_code": "140"
+    },
+    "04687": {
+        "name": "Đại Lịch",
+        "type": "xa",
+        "slug": "dai-lich",
+        "name_with_type": "Xã Đại Lịch",
+        "path": "Đại Lịch, Văn Chấn, Yên Bái",
+        "path_with_type": "Xã Đại Lịch, Huyện Văn Chấn, Tỉnh Yên Bái",
+        "code": "04687",
+        "parent_code": "140"
+    },
+    "04690": {
+        "name": "Đồng Khê",
+        "type": "xa",
+        "slug": "dong-khe",
+        "name_with_type": "Xã Đồng Khê",
+        "path": "Đồng Khê, Văn Chấn, Yên Bái",
+        "path_with_type": "Xã Đồng Khê, Huyện Văn Chấn, Tỉnh Yên Bái",
+        "code": "04690",
+        "parent_code": "140"
+    },
+    "04693": {
+        "name": "Cát Thịnh",
+        "type": "xa",
+        "slug": "cat-thinh",
+        "name_with_type": "Xã Cát Thịnh",
+        "path": "Cát Thịnh, Văn Chấn, Yên Bái",
+        "path_with_type": "Xã Cát Thịnh, Huyện Văn Chấn, Tỉnh Yên Bái",
+        "code": "04693",
+        "parent_code": "140"
+    },
+    "04696": {
+        "name": "Tân Thịnh",
+        "type": "xa",
+        "slug": "tan-thinh",
+        "name_with_type": "Xã Tân Thịnh",
+        "path": "Tân Thịnh, Văn Chấn, Yên Bái",
+        "path_with_type": "Xã Tân Thịnh, Huyện Văn Chấn, Tỉnh Yên Bái",
+        "code": "04696",
+        "parent_code": "140"
+    },
+    "04699": {
+        "name": "Chấn Thịnh",
+        "type": "xa",
+        "slug": "chan-thinh",
+        "name_with_type": "Xã Chấn Thịnh",
+        "path": "Chấn Thịnh, Văn Chấn, Yên Bái",
+        "path_with_type": "Xã Chấn Thịnh, Huyện Văn Chấn, Tỉnh Yên Bái",
+        "code": "04699",
+        "parent_code": "140"
+    },
+    "04702": {
+        "name": "Bình Thuận",
+        "type": "xa",
+        "slug": "binh-thuan",
+        "name_with_type": "Xã Bình Thuận",
+        "path": "Bình Thuận, Văn Chấn, Yên Bái",
+        "path_with_type": "Xã Bình Thuận, Huyện Văn Chấn, Tỉnh Yên Bái",
+        "code": "04702",
+        "parent_code": "140"
+    },
+    "04705": {
+        "name": "Thượng Bằng La",
+        "type": "xa",
+        "slug": "thuong-bang-la",
+        "name_with_type": "Xã Thượng Bằng La",
+        "path": "Thượng Bằng La, Văn Chấn, Yên Bái",
+        "path_with_type": "Xã Thượng Bằng La, Huyện Văn Chấn, Tỉnh Yên Bái",
+        "code": "04705",
+        "parent_code": "140"
+    },
+    "04708": {
+        "name": "Minh An",
+        "type": "xa",
+        "slug": "minh-an",
+        "name_with_type": "Xã Minh An",
+        "path": "Minh An, Văn Chấn, Yên Bái",
+        "path_with_type": "Xã Minh An, Huyện Văn Chấn, Tỉnh Yên Bái",
+        "code": "04708",
+        "parent_code": "140"
+    },
+    "04711": {
+        "name": "Nghĩa Tâm",
+        "type": "xa",
+        "slug": "nghia-tam",
+        "name_with_type": "Xã Nghĩa Tâm",
+        "path": "Nghĩa Tâm, Văn Chấn, Yên Bái",
+        "path_with_type": "Xã Nghĩa Tâm, Huyện Văn Chấn, Tỉnh Yên Bái",
+        "code": "04711",
+        "parent_code": "140"
+    }
+}

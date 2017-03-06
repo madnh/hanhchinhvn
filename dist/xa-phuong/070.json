@@ -1,0 +1,132 @@
+{
+    "02200": {
+        "name": "Phan Thiết",
+        "type": "phuong",
+        "slug": "phan-thiet",
+        "name_with_type": "Phường Phan Thiết",
+        "path": "Phan Thiết, Tuyên Quang, Tuyên Quang",
+        "path_with_type": "Phường Phan Thiết, Thành phố Tuyên Quang, Tỉnh Tuyên Quang",
+        "code": "02200",
+        "parent_code": "070"
+    },
+    "02203": {
+        "name": "Minh Xuân",
+        "type": "phuong",
+        "slug": "minh-xuan",
+        "name_with_type": "Phường Minh Xuân",
+        "path": "Minh Xuân, Tuyên Quang, Tuyên Quang",
+        "path_with_type": "Phường Minh Xuân, Thành phố Tuyên Quang, Tỉnh Tuyên Quang",
+        "code": "02203",
+        "parent_code": "070"
+    },
+    "02206": {
+        "name": "Tân Quang",
+        "type": "phuong",
+        "slug": "tan-quang",
+        "name_with_type": "Phường Tân Quang",
+        "path": "Tân Quang, Tuyên Quang, Tuyên Quang",
+        "path_with_type": "Phường Tân Quang, Thành phố Tuyên Quang, Tỉnh Tuyên Quang",
+        "code": "02206",
+        "parent_code": "070"
+    },
+    "02209": {
+        "name": "Tràng Đà",
+        "type": "xa",
+        "slug": "trang-da",
+        "name_with_type": "Xã Tràng Đà",
+        "path": "Tràng Đà, Tuyên Quang, Tuyên Quang",
+        "path_with_type": "Xã Tràng Đà, Thành phố Tuyên Quang, Tỉnh Tuyên Quang",
+        "code": "02209",
+        "parent_code": "070"
+    },
+    "02212": {
+        "name": "Nông Tiến",
+        "type": "phuong",
+        "slug": "nong-tien",
+        "name_with_type": "Phường Nông Tiến",
+        "path": "Nông Tiến, Tuyên Quang, Tuyên Quang",
+        "path_with_type": "Phường Nông Tiến, Thành phố Tuyên Quang, Tỉnh Tuyên Quang",
+        "code": "02212",
+        "parent_code": "070"
+    },
+    "02215": {
+        "name": "Ỷ La",
+        "type": "phuong",
+        "slug": "y-la",
+        "name_with_type": "Phường Ỷ La",
+        "path": "Ỷ La, Tuyên Quang, Tuyên Quang",
+        "path_with_type": "Phường Ỷ La, Thành phố Tuyên Quang, Tỉnh Tuyên Quang",
+        "code": "02215",
+        "parent_code": "070"
+    },
+    "02216": {
+        "name": "Tân Hà",
+        "type": "phuong",
+        "slug": "tan-ha",
+        "name_with_type": "Phường Tân Hà",
+        "path": "Tân Hà, Tuyên Quang, Tuyên Quang",
+        "path_with_type": "Phường Tân Hà, Thành phố Tuyên Quang, Tỉnh Tuyên Quang",
+        "code": "02216",
+        "parent_code": "070"
+    },
+    "02218": {
+        "name": "Hưng Thành",
+        "type": "phuong",
+        "slug": "hung-thanh",
+        "name_with_type": "Phường Hưng Thành",
+        "path": "Hưng Thành, Tuyên Quang, Tuyên Quang",
+        "path_with_type": "Phường Hưng Thành, Thành phố Tuyên Quang, Tỉnh Tuyên Quang",
+        "code": "02218",
+        "parent_code": "070"
+    },
+    "02503": {
+        "name": "An Khang",
+        "type": "xa",
+        "slug": "an-khang",
+        "name_with_type": "Xã An Khang",
+        "path": "An Khang, Tuyên Quang, Tuyên Quang",
+        "path_with_type": "Xã An Khang, Thành phố Tuyên Quang, Tỉnh Tuyên Quang",
+        "code": "02503",
+        "parent_code": "070"
+    },
+    "02512": {
+        "name": "An Tường",
+        "type": "xa",
+        "slug": "an-tuong",
+        "name_with_type": "Xã An Tường",
+        "path": "An Tường, Tuyên Quang, Tuyên Quang",
+        "path_with_type": "Xã An Tường, Thành phố Tuyên Quang, Tỉnh Tuyên Quang",
+        "code": "02512",
+        "parent_code": "070"
+    },
+    "02515": {
+        "name": "Lưỡng Vượng",
+        "type": "xa",
+        "slug": "luong-vuong",
+        "name_with_type": "Xã Lưỡng Vượng",
+        "path": "Lưỡng Vượng, Tuyên Quang, Tuyên Quang",
+        "path_with_type": "Xã Lưỡng Vượng, Thành phố Tuyên Quang, Tỉnh Tuyên Quang",
+        "code": "02515",
+        "parent_code": "070"
+    },
+    "02521": {
+        "name": "Thái Long",
+        "type": "xa",
+        "slug": "thai-long",
+        "name_with_type": "Xã Thái Long",
+        "path": "Thái Long, Tuyên Quang, Tuyên Quang",
+        "path_with_type": "Xã Thái Long, Thành phố Tuyên Quang, Tỉnh Tuyên Quang",
+        "code": "02521",
+        "parent_code": "070"
+    },
+    "02524": {
+        "name": "Đội Cấn",
+        "type": "xa",
+        "slug": "doi-can",
+        "name_with_type": "Xã Đội Cấn",
+        "path": "Đội Cấn, Tuyên Quang, Tuyên Quang",
+        "path_with_type": "Xã Đội Cấn, Thành phố Tuyên Quang, Tỉnh Tuyên Quang",
+        "code": "02524",
+        "parent_code": "070"
+    }
+}

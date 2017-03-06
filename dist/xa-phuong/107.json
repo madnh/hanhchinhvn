@@ -1,0 +1,142 @@
+{
+    "03433": {
+        "name": "Mường Tè",
+        "type": "thi-tran",
+        "slug": "muong-te",
+        "name_with_type": "Thị trấn Mường Tè",
+        "path": "Mường Tè, Mường Tè, Lai Châu",
+        "path_with_type": "Thị trấn Mường Tè, Huyện Mường Tè, Tỉnh Lai Châu",
+        "code": "03433",
+        "parent_code": "107"
+    },
+    "03436": {
+        "name": "Thu Lũm",
+        "type": "xa",
+        "slug": "thu-lum",
+        "name_with_type": "Xã Thu Lũm",
+        "path": "Thu Lũm, Mường Tè, Lai Châu",
+        "path_with_type": "Xã Thu Lũm, Huyện Mường Tè, Tỉnh Lai Châu",
+        "code": "03436",
+        "parent_code": "107"
+    },
+    "03439": {
+        "name": "Ka Lăng",
+        "type": "xa",
+        "slug": "ka-lang",
+        "name_with_type": "Xã Ka Lăng",
+        "path": "Ka Lăng, Mường Tè, Lai Châu",
+        "path_with_type": "Xã Ka Lăng, Huyện Mường Tè, Tỉnh Lai Châu",
+        "code": "03439",
+        "parent_code": "107"
+    },
+    "03440": {
+        "name": "Tá Bạ",
+        "type": "xa",
+        "slug": "ta-ba",
+        "name_with_type": "Xã Tá Bạ",
+        "path": "Tá Bạ, Mường Tè, Lai Châu",
+        "path_with_type": "Xã Tá Bạ, Huyện Mường Tè, Tỉnh Lai Châu",
+        "code": "03440",
+        "parent_code": "107"
+    },
+    "03442": {
+        "name": "Pa ủ",
+        "type": "xa",
+        "slug": "pa-u",
+        "name_with_type": "Xã Pa ủ",
+        "path": "Pa ủ, Mường Tè, Lai Châu",
+        "path_with_type": "Xã Pa ủ, Huyện Mường Tè, Tỉnh Lai Châu",
+        "code": "03442",
+        "parent_code": "107"
+    },
+    "03445": {
+        "name": "Mường Tè",
+        "type": "xa",
+        "slug": "muong-te",
+        "name_with_type": "Xã Mường Tè",
+        "path": "Mường Tè, Mường Tè, Lai Châu",
+        "path_with_type": "Xã Mường Tè, Huyện Mường Tè, Tỉnh Lai Châu",
+        "code": "03445",
+        "parent_code": "107"
+    },
+    "03448": {
+        "name": "Pa Vệ Sử",
+        "type": "xa",
+        "slug": "pa-ve-su",
+        "name_with_type": "Xã Pa Vệ Sử",
+        "path": "Pa Vệ Sử, Mường Tè, Lai Châu",
+        "path_with_type": "Xã Pa Vệ Sử, Huyện Mường Tè, Tỉnh Lai Châu",
+        "code": "03448",
+        "parent_code": "107"
+    },
+    "03451": {
+        "name": "Mù Cả",
+        "type": "xa",
+        "slug": "mu-ca",
+        "name_with_type": "Xã Mù Cả",
+        "path": "Mù Cả, Mường Tè, Lai Châu",
+        "path_with_type": "Xã Mù Cả, Huyện Mường Tè, Tỉnh Lai Châu",
+        "code": "03451",
+        "parent_code": "107"
+    },
+    "03454": {
+        "name": "Bun Tở",
+        "type": "xa",
+        "slug": "bun-to",
+        "name_with_type": "Xã Bun Tở",
+        "path": "Bun Tở, Mường Tè, Lai Châu",
+        "path_with_type": "Xã Bun Tở, Huyện Mường Tè, Tỉnh Lai Châu",
+        "code": "03454",
+        "parent_code": "107"
+    },
+    "03457": {
+        "name": "Nậm Khao",
+        "type": "xa",
+        "slug": "nam-khao",
+        "name_with_type": "Xã Nậm Khao",
+        "path": "Nậm Khao, Mường Tè, Lai Châu",
+        "path_with_type": "Xã Nậm Khao, Huyện Mường Tè, Tỉnh Lai Châu",
+        "code": "03457",
+        "parent_code": "107"
+    },
+    "03463": {
+        "name": "Tà Tổng",
+        "type": "xa",
+        "slug": "ta-tong",
+        "name_with_type": "Xã Tà Tổng",
+        "path": "Tà Tổng, Mường Tè, Lai Châu",
+        "path_with_type": "Xã Tà Tổng, Huyện Mường Tè, Tỉnh Lai Châu",
+        "code": "03463",
+        "parent_code": "107"
+    },
+    "03466": {
+        "name": "Bun Nưa",
+        "type": "xa",
+        "slug": "bun-nua",
+        "name_with_type": "Xã Bun Nưa",
+        "path": "Bun Nưa, Mường Tè, Lai Châu",
+        "path_with_type": "Xã Bun Nưa, Huyện Mường Tè, Tỉnh Lai Châu",
+        "code": "03466",
+        "parent_code": "107"
+    },
+    "03467": {
+        "name": "Vàng San",
+        "type": "xa",
+        "slug": "vang-san",
+        "name_with_type": "Xã Vàng San",
+        "path": "Vàng San, Mường Tè, Lai Châu",
+        "path_with_type": "Xã Vàng San, Huyện Mường Tè, Tỉnh Lai Châu",
+        "code": "03467",
+        "parent_code": "107"
+    },
+    "03469": {
+        "name": "Kan Hồ",
+        "type": "xa",
+        "slug": "kan-ho",
+        "name_with_type": "Xã Kan Hồ",
+        "path": "Kan Hồ, Mường Tè, Lai Châu",
+        "path_with_type": "Xã Kan Hồ, Huyện Mường Tè, Tỉnh Lai Châu",
+        "code": "03469",
+        "parent_code": "107"
+    }
+}

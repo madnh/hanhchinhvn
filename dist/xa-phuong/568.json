@@ -1,0 +1,272 @@
+{
+    "22327": {
+        "name": "Vĩnh Hòa",
+        "type": "phuong",
+        "slug": "vinh-hoa",
+        "name_with_type": "Phường Vĩnh Hòa",
+        "path": "Vĩnh Hòa, Nha Trang, Khánh Hòa",
+        "path_with_type": "Phường Vĩnh Hòa, Thành phố Nha Trang, Tỉnh Khánh Hòa",
+        "code": "22327",
+        "parent_code": "568"
+    },
+    "22330": {
+        "name": "Vĩnh Hải",
+        "type": "phuong",
+        "slug": "vinh-hai",
+        "name_with_type": "Phường Vĩnh Hải",
+        "path": "Vĩnh Hải, Nha Trang, Khánh Hòa",
+        "path_with_type": "Phường Vĩnh Hải, Thành phố Nha Trang, Tỉnh Khánh Hòa",
+        "code": "22330",
+        "parent_code": "568"
+    },
+    "22333": {
+        "name": "Vĩnh Phước",
+        "type": "phuong",
+        "slug": "vinh-phuoc",
+        "name_with_type": "Phường Vĩnh Phước",
+        "path": "Vĩnh Phước, Nha Trang, Khánh Hòa",
+        "path_with_type": "Phường Vĩnh Phước, Thành phố Nha Trang, Tỉnh Khánh Hòa",
+        "code": "22333",
+        "parent_code": "568"
+    },
+    "22336": {
+        "name": "Ngọc Hiệp",
+        "type": "phuong",
+        "slug": "ngoc-hiep",
+        "name_with_type": "Phường Ngọc Hiệp",
+        "path": "Ngọc Hiệp, Nha Trang, Khánh Hòa",
+        "path_with_type": "Phường Ngọc Hiệp, Thành phố Nha Trang, Tỉnh Khánh Hòa",
+        "code": "22336",
+        "parent_code": "568"
+    },
+    "22339": {
+        "name": "Vĩnh Thọ",
+        "type": "phuong",
+        "slug": "vinh-tho",
+        "name_with_type": "Phường Vĩnh Thọ",
+        "path": "Vĩnh Thọ, Nha Trang, Khánh Hòa",
+        "path_with_type": "Phường Vĩnh Thọ, Thành phố Nha Trang, Tỉnh Khánh Hòa",
+        "code": "22339",
+        "parent_code": "568"
+    },
+    "22342": {
+        "name": "Xương Huân",
+        "type": "phuong",
+        "slug": "xuong-huan",
+        "name_with_type": "Phường Xương Huân",
+        "path": "Xương Huân, Nha Trang, Khánh Hòa",
+        "path_with_type": "Phường Xương Huân, Thành phố Nha Trang, Tỉnh Khánh Hòa",
+        "code": "22342",
+        "parent_code": "568"
+    },
+    "22345": {
+        "name": "Vạn Thắng",
+        "type": "phuong",
+        "slug": "van-thang",
+        "name_with_type": "Phường Vạn Thắng",
+        "path": "Vạn Thắng, Nha Trang, Khánh Hòa",
+        "path_with_type": "Phường Vạn Thắng, Thành phố Nha Trang, Tỉnh Khánh Hòa",
+        "code": "22345",
+        "parent_code": "568"
+    },
+    "22348": {
+        "name": "Vạn Thạnh",
+        "type": "phuong",
+        "slug": "van-thanh",
+        "name_with_type": "Phường Vạn Thạnh",
+        "path": "Vạn Thạnh, Nha Trang, Khánh Hòa",
+        "path_with_type": "Phường Vạn Thạnh, Thành phố Nha Trang, Tỉnh Khánh Hòa",
+        "code": "22348",
+        "parent_code": "568"
+    },
+    "22351": {
+        "name": "Phương Sài",
+        "type": "phuong",
+        "slug": "phuong-sai",
+        "name_with_type": "Phường Phương Sài",
+        "path": "Phương Sài, Nha Trang, Khánh Hòa",
+        "path_with_type": "Phường Phương Sài, Thành phố Nha Trang, Tỉnh Khánh Hòa",
+        "code": "22351",
+        "parent_code": "568"
+    },
+    "22354": {
+        "name": "Phương Sơn",
+        "type": "phuong",
+        "slug": "phuong-son",
+        "name_with_type": "Phường Phương Sơn",
+        "path": "Phương Sơn, Nha Trang, Khánh Hòa",
+        "path_with_type": "Phường Phương Sơn, Thành phố Nha Trang, Tỉnh Khánh Hòa",
+        "code": "22354",
+        "parent_code": "568"
+    },
+    "22357": {
+        "name": "Phước Hải",
+        "type": "phuong",
+        "slug": "phuoc-hai",
+        "name_with_type": "Phường Phước Hải",
+        "path": "Phước Hải, Nha Trang, Khánh Hòa",
+        "path_with_type": "Phường Phước Hải, Thành phố Nha Trang, Tỉnh Khánh Hòa",
+        "code": "22357",
+        "parent_code": "568"
+    },
+    "22360": {
+        "name": "Phước Tân",
+        "type": "phuong",
+        "slug": "phuoc-tan",
+        "name_with_type": "Phường Phước Tân",
+        "path": "Phước Tân, Nha Trang, Khánh Hòa",
+        "path_with_type": "Phường Phước Tân, Thành phố Nha Trang, Tỉnh Khánh Hòa",
+        "code": "22360",
+        "parent_code": "568"
+    },
+    "22363": {
+        "name": "Lộc Thọ",
+        "type": "phuong",
+        "slug": "loc-tho",
+        "name_with_type": "Phường Lộc Thọ",
+        "path": "Lộc Thọ, Nha Trang, Khánh Hòa",
+        "path_with_type": "Phường Lộc Thọ, Thành phố Nha Trang, Tỉnh Khánh Hòa",
+        "code": "22363",
+        "parent_code": "568"
+    },
+    "22366": {
+        "name": "Phước Tiến",
+        "type": "phuong",
+        "slug": "phuoc-tien",
+        "name_with_type": "Phường Phước Tiến",
+        "path": "Phước Tiến, Nha Trang, Khánh Hòa",
+        "path_with_type": "Phường Phước Tiến, Thành phố Nha Trang, Tỉnh Khánh Hòa",
+        "code": "22366",
+        "parent_code": "568"
+    },
+    "22369": {
+        "name": "Tân Lập",
+        "type": "phuong",
+        "slug": "tan-lap",
+        "name_with_type": "Phường Tân Lập",
+        "path": "Tân Lập, Nha Trang, Khánh Hòa",
+        "path_with_type": "Phường Tân Lập, Thành phố Nha Trang, Tỉnh Khánh Hòa",
+        "code": "22369",
+        "parent_code": "568"
+    },
+    "22372": {
+        "name": "Phước Hòa",
+        "type": "phuong",
+        "slug": "phuoc-hoa",
+        "name_with_type": "Phường Phước Hòa",
+        "path": "Phước Hòa, Nha Trang, Khánh Hòa",
+        "path_with_type": "Phường Phước Hòa, Thành phố Nha Trang, Tỉnh Khánh Hòa",
+        "code": "22372",
+        "parent_code": "568"
+    },
+    "22375": {
+        "name": "Vĩnh Nguyên",
+        "type": "phuong",
+        "slug": "vinh-nguyen",
+        "name_with_type": "Phường Vĩnh Nguyên",
+        "path": "Vĩnh Nguyên, Nha Trang, Khánh Hòa",
+        "path_with_type": "Phường Vĩnh Nguyên, Thành phố Nha Trang, Tỉnh Khánh Hòa",
+        "code": "22375",
+        "parent_code": "568"
+    },
+    "22378": {
+        "name": "Phước Long",
+        "type": "phuong",
+        "slug": "phuoc-long",
+        "name_with_type": "Phường Phước Long",
+        "path": "Phước Long, Nha Trang, Khánh Hòa",
+        "path_with_type": "Phường Phước Long, Thành phố Nha Trang, Tỉnh Khánh Hòa",
+        "code": "22378",
+        "parent_code": "568"
+    },
+    "22381": {
+        "name": "Vĩnh Trường",
+        "type": "phuong",
+        "slug": "vinh-truong",
+        "name_with_type": "Phường Vĩnh Trường",
+        "path": "Vĩnh Trường, Nha Trang, Khánh Hòa",
+        "path_with_type": "Phường Vĩnh Trường, Thành phố Nha Trang, Tỉnh Khánh Hòa",
+        "code": "22381",
+        "parent_code": "568"
+    },
+    "22384": {
+        "name": "Vĩnh Lương",
+        "type": "xa",
+        "slug": "vinh-luong",
+        "name_with_type": "Xã Vĩnh Lương",
+        "path": "Vĩnh Lương, Nha Trang, Khánh Hòa",
+        "path_with_type": "Xã Vĩnh Lương, Thành phố Nha Trang, Tỉnh Khánh Hòa",
+        "code": "22384",
+        "parent_code": "568"
+    },
+    "22387": {
+        "name": "Vĩnh Phương",
+        "type": "xa",
+        "slug": "vinh-phuong",
+        "name_with_type": "Xã Vĩnh Phương",
+        "path": "Vĩnh Phương, Nha Trang, Khánh Hòa",
+        "path_with_type": "Xã Vĩnh Phương, Thành phố Nha Trang, Tỉnh Khánh Hòa",
+        "code": "22387",
+        "parent_code": "568"
+    },
+    "22390": {
+        "name": "Vĩnh Ngọc",
+        "type": "xa",
+        "slug": "vinh-ngoc",
+        "name_with_type": "Xã Vĩnh Ngọc",
+        "path": "Vĩnh Ngọc, Nha Trang, Khánh Hòa",
+        "path_with_type": "Xã Vĩnh Ngọc, Thành phố Nha Trang, Tỉnh Khánh Hòa",
+        "code": "22390",
+        "parent_code": "568"
+    },
+    "22393": {
+        "name": "Vĩnh Thạnh",
+        "type": "xa",
+        "slug": "vinh-thanh",
+        "name_with_type": "Xã Vĩnh Thạnh",
+        "path": "Vĩnh Thạnh, Nha Trang, Khánh Hòa",
+        "path_with_type": "Xã Vĩnh Thạnh, Thành phố Nha Trang, Tỉnh Khánh Hòa",
+        "code": "22393",
+        "parent_code": "568"
+    },
+    "22396": {
+        "name": "Vĩnh Trung",
+        "type": "xa",
+        "slug": "vinh-trung",
+        "name_with_type": "Xã Vĩnh Trung",
+        "path": "Vĩnh Trung, Nha Trang, Khánh Hòa",
+        "path_with_type": "Xã Vĩnh Trung, Thành phố Nha Trang, Tỉnh Khánh Hòa",
+        "code": "22396",
+        "parent_code": "568"
+    },
+    "22399": {
+        "name": "Vĩnh Hiệp",
+        "type": "xa",
+        "slug": "vinh-hiep",
+        "name_with_type": "Xã Vĩnh Hiệp",
+        "path": "Vĩnh Hiệp, Nha Trang, Khánh Hòa",
+        "path_with_type": "Xã Vĩnh Hiệp, Thành phố Nha Trang, Tỉnh Khánh Hòa",
+        "code": "22399",
+        "parent_code": "568"
+    },
+    "22402": {
+        "name": "Vĩnh Thái",
+        "type": "xa",
+        "slug": "vinh-thai",
+        "name_with_type": "Xã Vĩnh Thái",
+        "path": "Vĩnh Thái, Nha Trang, Khánh Hòa",
+        "path_with_type": "Xã Vĩnh Thái, Thành phố Nha Trang, Tỉnh Khánh Hòa",
+        "code": "22402",
+        "parent_code": "568"
+    },
+    "22405": {
+        "name": "Phước Đồng",
+        "type": "xa",
+        "slug": "phuoc-dong",
+        "name_with_type": "Xã Phước Đồng",
+        "path": "Phước Đồng, Nha Trang, Khánh Hòa",
+        "path_with_type": "Xã Phước Đồng, Thành phố Nha Trang, Tỉnh Khánh Hòa",
+        "code": "22405",
+        "parent_code": "568"
+    }
+}

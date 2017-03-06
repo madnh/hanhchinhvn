@@ -1,0 +1,162 @@
+{
+    "24769": {
+        "name": "7",
+        "type": "phuong",
+        "slug": "7",
+        "name_with_type": "Phường 7",
+        "path": "7, Đà Lạt, Lâm Đồng",
+        "path_with_type": "Phường 7, Thành phố Đà Lạt, Tỉnh Lâm Đồng",
+        "code": "24769",
+        "parent_code": "672"
+    },
+    "24772": {
+        "name": "8",
+        "type": "phuong",
+        "slug": "8",
+        "name_with_type": "Phường 8",
+        "path": "8, Đà Lạt, Lâm Đồng",
+        "path_with_type": "Phường 8, Thành phố Đà Lạt, Tỉnh Lâm Đồng",
+        "code": "24772",
+        "parent_code": "672"
+    },
+    "24775": {
+        "name": "12",
+        "type": "phuong",
+        "slug": "12",
+        "name_with_type": "Phường 12",
+        "path": "12, Đà Lạt, Lâm Đồng",
+        "path_with_type": "Phường 12, Thành phố Đà Lạt, Tỉnh Lâm Đồng",
+        "code": "24775",
+        "parent_code": "672"
+    },
+    "24778": {
+        "name": "9",
+        "type": "phuong",
+        "slug": "9",
+        "name_with_type": "Phường 9",
+        "path": "9, Đà Lạt, Lâm Đồng",
+        "path_with_type": "Phường 9, Thành phố Đà Lạt, Tỉnh Lâm Đồng",
+        "code": "24778",
+        "parent_code": "672"
+    },
+    "24781": {
+        "name": "2",
+        "type": "phuong",
+        "slug": "2",
+        "name_with_type": "Phường 2",
+        "path": "2, Đà Lạt, Lâm Đồng",
+        "path_with_type": "Phường 2, Thành phố Đà Lạt, Tỉnh Lâm Đồng",
+        "code": "24781",
+        "parent_code": "672"
+    },
+    "24784": {
+        "name": "1",
+        "type": "phuong",
+        "slug": "1",
+        "name_with_type": "Phường 1",
+        "path": "1, Đà Lạt, Lâm Đồng",
+        "path_with_type": "Phường 1, Thành phố Đà Lạt, Tỉnh Lâm Đồng",
+        "code": "24784",
+        "parent_code": "672"
+    },
+    "24787": {
+        "name": "6",
+        "type": "phuong",
+        "slug": "6",
+        "name_with_type": "Phường 6",
+        "path": "6, Đà Lạt, Lâm Đồng",
+        "path_with_type": "Phường 6, Thành phố Đà Lạt, Tỉnh Lâm Đồng",
+        "code": "24787",
+        "parent_code": "672"
+    },
+    "24790": {
+        "name": "5",
+        "type": "phuong",
+        "slug": "5",
+        "name_with_type": "Phường 5",
+        "path": "5, Đà Lạt, Lâm Đồng",
+        "path_with_type": "Phường 5, Thành phố Đà Lạt, Tỉnh Lâm Đồng",
+        "code": "24790",
+        "parent_code": "672"
+    },
+    "24793": {
+        "name": "4",
+        "type": "phuong",
+        "slug": "4",
+        "name_with_type": "Phường 4",
+        "path": "4, Đà Lạt, Lâm Đồng",
+        "path_with_type": "Phường 4, Thành phố Đà Lạt, Tỉnh Lâm Đồng",
+        "code": "24793",
+        "parent_code": "672"
+    },
+    "24796": {
+        "name": "10",
+        "type": "phuong",
+        "slug": "10",
+        "name_with_type": "Phường 10",
+        "path": "10, Đà Lạt, Lâm Đồng",
+        "path_with_type": "Phường 10, Thành phố Đà Lạt, Tỉnh Lâm Đồng",
+        "code": "24796",
+        "parent_code": "672"
+    },
+    "24799": {
+        "name": "11",
+        "type": "phuong",
+        "slug": "11",
+        "name_with_type": "Phường 11",
+        "path": "11, Đà Lạt, Lâm Đồng",
+        "path_with_type": "Phường 11, Thành phố Đà Lạt, Tỉnh Lâm Đồng",
+        "code": "24799",
+        "parent_code": "672"
+    },
+    "24802": {
+        "name": "3",
+        "type": "phuong",
+        "slug": "3",
+        "name_with_type": "Phường 3",
+        "path": "3, Đà Lạt, Lâm Đồng",
+        "path_with_type": "Phường 3, Thành phố Đà Lạt, Tỉnh Lâm Đồng",
+        "code": "24802",
+        "parent_code": "672"
+    },
+    "24805": {
+        "name": "Xuân Thọ",
+        "type": "xa",
+        "slug": "xuan-tho",
+        "name_with_type": "Xã Xuân Thọ",
+        "path": "Xuân Thọ, Đà Lạt, Lâm Đồng",
+        "path_with_type": "Xã Xuân Thọ, Thành phố Đà Lạt, Tỉnh Lâm Đồng",
+        "code": "24805",
+        "parent_code": "672"
+    },
+    "24808": {
+        "name": "Tà Nung",
+        "type": "xa",
+        "slug": "ta-nung",
+        "name_with_type": "Xã Tà Nung",
+        "path": "Tà Nung, Đà Lạt, Lâm Đồng",
+        "path_with_type": "Xã Tà Nung, Thành phố Đà Lạt, Tỉnh Lâm Đồng",
+        "code": "24808",
+        "parent_code": "672"
+    },
+    "24810": {
+        "name": "Trạm Hành",
+        "type": "xa",
+        "slug": "tram-hanh",
+        "name_with_type": "Xã Trạm Hành",
+        "path": "Trạm Hành, Đà Lạt, Lâm Đồng",
+        "path_with_type": "Xã Trạm Hành, Thành phố Đà Lạt, Tỉnh Lâm Đồng",
+        "code": "24810",
+        "parent_code": "672"
+    },
+    "24811": {
+        "name": "Xuân Trường",
+        "type": "xa",
+        "slug": "xuan-truong",
+        "name_with_type": "Xã Xuân Trường",
+        "path": "Xuân Trường, Đà Lạt, Lâm Đồng",
+        "path_with_type": "Xã Xuân Trường, Thành phố Đà Lạt, Tỉnh Lâm Đồng",
+        "code": "24811",
+        "parent_code": "672"
+    }
+}

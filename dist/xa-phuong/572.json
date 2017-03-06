@@ -1,0 +1,272 @@
+{
+    "22528": {
+        "name": "Ninh Hiệp",
+        "type": "phuong",
+        "slug": "ninh-hiep",
+        "name_with_type": "Phường Ninh Hiệp",
+        "path": "Ninh Hiệp, Ninh Hòa, Khánh Hòa",
+        "path_with_type": "Phường Ninh Hiệp, Thị xã Ninh Hòa, Tỉnh Khánh Hòa",
+        "code": "22528",
+        "parent_code": "572"
+    },
+    "22531": {
+        "name": "Ninh Sơn",
+        "type": "xa",
+        "slug": "ninh-son",
+        "name_with_type": "Xã Ninh Sơn",
+        "path": "Ninh Sơn, Ninh Hòa, Khánh Hòa",
+        "path_with_type": "Xã Ninh Sơn, Thị xã Ninh Hòa, Tỉnh Khánh Hòa",
+        "code": "22531",
+        "parent_code": "572"
+    },
+    "22534": {
+        "name": "Ninh Tây",
+        "type": "xa",
+        "slug": "ninh-tay",
+        "name_with_type": "Xã Ninh Tây",
+        "path": "Ninh Tây, Ninh Hòa, Khánh Hòa",
+        "path_with_type": "Xã Ninh Tây, Thị xã Ninh Hòa, Tỉnh Khánh Hòa",
+        "code": "22534",
+        "parent_code": "572"
+    },
+    "22537": {
+        "name": "Ninh Thượng",
+        "type": "xa",
+        "slug": "ninh-thuong",
+        "name_with_type": "Xã Ninh Thượng",
+        "path": "Ninh Thượng, Ninh Hòa, Khánh Hòa",
+        "path_with_type": "Xã Ninh Thượng, Thị xã Ninh Hòa, Tỉnh Khánh Hòa",
+        "code": "22537",
+        "parent_code": "572"
+    },
+    "22540": {
+        "name": "Ninh An",
+        "type": "xa",
+        "slug": "ninh-an",
+        "name_with_type": "Xã Ninh An",
+        "path": "Ninh An, Ninh Hòa, Khánh Hòa",
+        "path_with_type": "Xã Ninh An, Thị xã Ninh Hòa, Tỉnh Khánh Hòa",
+        "code": "22540",
+        "parent_code": "572"
+    },
+    "22543": {
+        "name": "Ninh Hải",
+        "type": "phuong",
+        "slug": "ninh-hai",
+        "name_with_type": "Phường Ninh Hải",
+        "path": "Ninh Hải, Ninh Hòa, Khánh Hòa",
+        "path_with_type": "Phường Ninh Hải, Thị xã Ninh Hòa, Tỉnh Khánh Hòa",
+        "code": "22543",
+        "parent_code": "572"
+    },
+    "22546": {
+        "name": "Ninh Thọ",
+        "type": "xa",
+        "slug": "ninh-tho",
+        "name_with_type": "Xã Ninh Thọ",
+        "path": "Ninh Thọ, Ninh Hòa, Khánh Hòa",
+        "path_with_type": "Xã Ninh Thọ, Thị xã Ninh Hòa, Tỉnh Khánh Hòa",
+        "code": "22546",
+        "parent_code": "572"
+    },
+    "22549": {
+        "name": "Ninh Trung",
+        "type": "xa",
+        "slug": "ninh-trung",
+        "name_with_type": "Xã Ninh Trung",
+        "path": "Ninh Trung, Ninh Hòa, Khánh Hòa",
+        "path_with_type": "Xã Ninh Trung, Thị xã Ninh Hòa, Tỉnh Khánh Hòa",
+        "code": "22549",
+        "parent_code": "572"
+    },
+    "22552": {
+        "name": "Ninh Sim",
+        "type": "xa",
+        "slug": "ninh-sim",
+        "name_with_type": "Xã Ninh Sim",
+        "path": "Ninh Sim, Ninh Hòa, Khánh Hòa",
+        "path_with_type": "Xã Ninh Sim, Thị xã Ninh Hòa, Tỉnh Khánh Hòa",
+        "code": "22552",
+        "parent_code": "572"
+    },
+    "22555": {
+        "name": "Ninh Xuân",
+        "type": "xa",
+        "slug": "ninh-xuan",
+        "name_with_type": "Xã Ninh Xuân",
+        "path": "Ninh Xuân, Ninh Hòa, Khánh Hòa",
+        "path_with_type": "Xã Ninh Xuân, Thị xã Ninh Hòa, Tỉnh Khánh Hòa",
+        "code": "22555",
+        "parent_code": "572"
+    },
+    "22558": {
+        "name": "Ninh Thân",
+        "type": "xa",
+        "slug": "ninh-than",
+        "name_with_type": "Xã Ninh Thân",
+        "path": "Ninh Thân, Ninh Hòa, Khánh Hòa",
+        "path_with_type": "Xã Ninh Thân, Thị xã Ninh Hòa, Tỉnh Khánh Hòa",
+        "code": "22558",
+        "parent_code": "572"
+    },
+    "22561": {
+        "name": "Ninh Diêm",
+        "type": "phuong",
+        "slug": "ninh-diem",
+        "name_with_type": "Phường Ninh Diêm",
+        "path": "Ninh Diêm, Ninh Hòa, Khánh Hòa",
+        "path_with_type": "Phường Ninh Diêm, Thị xã Ninh Hòa, Tỉnh Khánh Hòa",
+        "code": "22561",
+        "parent_code": "572"
+    },
+    "22564": {
+        "name": "Ninh Đông",
+        "type": "xa",
+        "slug": "ninh-dong",
+        "name_with_type": "Xã Ninh Đông",
+        "path": "Ninh Đông, Ninh Hòa, Khánh Hòa",
+        "path_with_type": "Xã Ninh Đông, Thị xã Ninh Hòa, Tỉnh Khánh Hòa",
+        "code": "22564",
+        "parent_code": "572"
+    },
+    "22567": {
+        "name": "Ninh Thủy",
+        "type": "phuong",
+        "slug": "ninh-thuy",
+        "name_with_type": "Phường Ninh Thủy",
+        "path": "Ninh Thủy, Ninh Hòa, Khánh Hòa",
+        "path_with_type": "Phường Ninh Thủy, Thị xã Ninh Hòa, Tỉnh Khánh Hòa",
+        "code": "22567",
+        "parent_code": "572"
+    },
+    "22570": {
+        "name": "Ninh Đa",
+        "type": "phuong",
+        "slug": "ninh-da",
+        "name_with_type": "Phường Ninh Đa",
+        "path": "Ninh Đa, Ninh Hòa, Khánh Hòa",
+        "path_with_type": "Phường Ninh Đa, Thị xã Ninh Hòa, Tỉnh Khánh Hòa",
+        "code": "22570",
+        "parent_code": "572"
+    },
+    "22573": {
+        "name": "Ninh Phụng",
+        "type": "xa",
+        "slug": "ninh-phung",
+        "name_with_type": "Xã Ninh Phụng",
+        "path": "Ninh Phụng, Ninh Hòa, Khánh Hòa",
+        "path_with_type": "Xã Ninh Phụng, Thị xã Ninh Hòa, Tỉnh Khánh Hòa",
+        "code": "22573",
+        "parent_code": "572"
+    },
+    "22576": {
+        "name": "Ninh Bình",
+        "type": "xa",
+        "slug": "ninh-binh",
+        "name_with_type": "Xã Ninh Bình",
+        "path": "Ninh Bình, Ninh Hòa, Khánh Hòa",
+        "path_with_type": "Xã Ninh Bình, Thị xã Ninh Hòa, Tỉnh Khánh Hòa",
+        "code": "22576",
+        "parent_code": "572"
+    },
+    "22579": {
+        "name": "Ninh Phước",
+        "type": "xa",
+        "slug": "ninh-phuoc",
+        "name_with_type": "Xã Ninh Phước",
+        "path": "Ninh Phước, Ninh Hòa, Khánh Hòa",
+        "path_with_type": "Xã Ninh Phước, Thị xã Ninh Hòa, Tỉnh Khánh Hòa",
+        "code": "22579",
+        "parent_code": "572"
+    },
+    "22582": {
+        "name": "Ninh Phú",
+        "type": "xa",
+        "slug": "ninh-phu",
+        "name_with_type": "Xã Ninh Phú",
+        "path": "Ninh Phú, Ninh Hòa, Khánh Hòa",
+        "path_with_type": "Xã Ninh Phú, Thị xã Ninh Hòa, Tỉnh Khánh Hòa",
+        "code": "22582",
+        "parent_code": "572"
+    },
+    "22585": {
+        "name": "Ninh Tân",
+        "type": "xa",
+        "slug": "ninh-tan",
+        "name_with_type": "Xã Ninh Tân",
+        "path": "Ninh Tân, Ninh Hòa, Khánh Hòa",
+        "path_with_type": "Xã Ninh Tân, Thị xã Ninh Hòa, Tỉnh Khánh Hòa",
+        "code": "22585",
+        "parent_code": "572"
+    },
+    "22588": {
+        "name": "Ninh Quang",
+        "type": "xa",
+        "slug": "ninh-quang",
+        "name_with_type": "Xã Ninh Quang",
+        "path": "Ninh Quang, Ninh Hòa, Khánh Hòa",
+        "path_with_type": "Xã Ninh Quang, Thị xã Ninh Hòa, Tỉnh Khánh Hòa",
+        "code": "22588",
+        "parent_code": "572"
+    },
+    "22591": {
+        "name": "Ninh Giang",
+        "type": "phuong",
+        "slug": "ninh-giang",
+        "name_with_type": "Phường Ninh Giang",
+        "path": "Ninh Giang, Ninh Hòa, Khánh Hòa",
+        "path_with_type": "Phường Ninh Giang, Thị xã Ninh Hòa, Tỉnh Khánh Hòa",
+        "code": "22591",
+        "parent_code": "572"
+    },
+    "22594": {
+        "name": "Ninh Hà",
+        "type": "phuong",
+        "slug": "ninh-ha",
+        "name_with_type": "Phường Ninh Hà",
+        "path": "Ninh Hà, Ninh Hòa, Khánh Hòa",
+        "path_with_type": "Phường Ninh Hà, Thị xã Ninh Hòa, Tỉnh Khánh Hòa",
+        "code": "22594",
+        "parent_code": "572"
+    },
+    "22597": {
+        "name": "Ninh Hưng",
+        "type": "xa",
+        "slug": "ninh-hung",
+        "name_with_type": "Xã Ninh Hưng",
+        "path": "Ninh Hưng, Ninh Hòa, Khánh Hòa",
+        "path_with_type": "Xã Ninh Hưng, Thị xã Ninh Hòa, Tỉnh Khánh Hòa",
+        "code": "22597",
+        "parent_code": "572"
+    },
+    "22600": {
+        "name": "Ninh Lộc",
+        "type": "xa",
+        "slug": "ninh-loc",
+        "name_with_type": "Xã Ninh Lộc",
+        "path": "Ninh Lộc, Ninh Hòa, Khánh Hòa",
+        "path_with_type": "Xã Ninh Lộc, Thị xã Ninh Hòa, Tỉnh Khánh Hòa",
+        "code": "22600",
+        "parent_code": "572"
+    },
+    "22603": {
+        "name": "Ninh Ích",
+        "type": "xa",
+        "slug": "ninh-ich",
+        "name_with_type": "Xã Ninh Ích",
+        "path": "Ninh Ích, Ninh Hòa, Khánh Hòa",
+        "path_with_type": "Xã Ninh Ích, Thị xã Ninh Hòa, Tỉnh Khánh Hòa",
+        "code": "22603",
+        "parent_code": "572"
+    },
+    "22606": {
+        "name": "Ninh Vân",
+        "type": "xa",
+        "slug": "ninh-van",
+        "name_with_type": "Xã Ninh Vân",
+        "path": "Ninh Vân, Ninh Hòa, Khánh Hòa",
+        "path_with_type": "Xã Ninh Vân, Thị xã Ninh Hòa, Tỉnh Khánh Hòa",
+        "code": "22606",
+        "parent_code": "572"
+    }
+}

@@ -1,0 +1,302 @@
+{
+    "16438": {
+        "name": "Quảng Xương",
+        "type": "thi-tran",
+        "slug": "quang-xuong",
+        "name_with_type": "Thị trấn Quảng Xương",
+        "path": "Quảng Xương, Quảng Xương, Thanh Hóa",
+        "path_with_type": "Thị trấn Quảng Xương, Huyện Quảng Xương, Tỉnh Thanh Hóa",
+        "code": "16438",
+        "parent_code": "406"
+    },
+    "16444": {
+        "name": "Quảng Tân",
+        "type": "xa",
+        "slug": "quang-tan",
+        "name_with_type": "Xã Quảng Tân",
+        "path": "Quảng Tân, Quảng Xương, Thanh Hóa",
+        "path_with_type": "Xã Quảng Tân, Huyện Quảng Xương, Tỉnh Thanh Hóa",
+        "code": "16444",
+        "parent_code": "406"
+    },
+    "16447": {
+        "name": "Quảng Trạch",
+        "type": "xa",
+        "slug": "quang-trach",
+        "name_with_type": "Xã Quảng Trạch",
+        "path": "Quảng Trạch, Quảng Xương, Thanh Hóa",
+        "path_with_type": "Xã Quảng Trạch, Huyện Quảng Xương, Tỉnh Thanh Hóa",
+        "code": "16447",
+        "parent_code": "406"
+    },
+    "16450": {
+        "name": "Quảng Phong",
+        "type": "xa",
+        "slug": "quang-phong",
+        "name_with_type": "Xã Quảng Phong",
+        "path": "Quảng Phong, Quảng Xương, Thanh Hóa",
+        "path_with_type": "Xã Quảng Phong, Huyện Quảng Xương, Tỉnh Thanh Hóa",
+        "code": "16450",
+        "parent_code": "406"
+    },
+    "16453": {
+        "name": "Quảng Đức",
+        "type": "xa",
+        "slug": "quang-duc",
+        "name_with_type": "Xã Quảng Đức",
+        "path": "Quảng Đức, Quảng Xương, Thanh Hóa",
+        "path_with_type": "Xã Quảng Đức, Huyện Quảng Xương, Tỉnh Thanh Hóa",
+        "code": "16453",
+        "parent_code": "406"
+    },
+    "16456": {
+        "name": "Quảng Định",
+        "type": "xa",
+        "slug": "quang-dinh",
+        "name_with_type": "Xã Quảng Định",
+        "path": "Quảng Định, Quảng Xương, Thanh Hóa",
+        "path_with_type": "Xã Quảng Định, Huyện Quảng Xương, Tỉnh Thanh Hóa",
+        "code": "16456",
+        "parent_code": "406"
+    },
+    "16462": {
+        "name": "Quảng Nhân",
+        "type": "xa",
+        "slug": "quang-nhan",
+        "name_with_type": "Xã Quảng Nhân",
+        "path": "Quảng Nhân, Quảng Xương, Thanh Hóa",
+        "path_with_type": "Xã Quảng Nhân, Huyện Quảng Xương, Tỉnh Thanh Hóa",
+        "code": "16462",
+        "parent_code": "406"
+    },
+    "16465": {
+        "name": "Quảng Ninh",
+        "type": "xa",
+        "slug": "quang-ninh",
+        "name_with_type": "Xã Quảng Ninh",
+        "path": "Quảng Ninh, Quảng Xương, Thanh Hóa",
+        "path_with_type": "Xã Quảng Ninh, Huyện Quảng Xương, Tỉnh Thanh Hóa",
+        "code": "16465",
+        "parent_code": "406"
+    },
+    "16468": {
+        "name": "Quảng Bình",
+        "type": "xa",
+        "slug": "quang-binh",
+        "name_with_type": "Xã Quảng Bình",
+        "path": "Quảng Bình, Quảng Xương, Thanh Hóa",
+        "path_with_type": "Xã Quảng Bình, Huyện Quảng Xương, Tỉnh Thanh Hóa",
+        "code": "16468",
+        "parent_code": "406"
+    },
+    "16471": {
+        "name": "Quảng Hợp",
+        "type": "xa",
+        "slug": "quang-hop",
+        "name_with_type": "Xã Quảng Hợp",
+        "path": "Quảng Hợp, Quảng Xương, Thanh Hóa",
+        "path_with_type": "Xã Quảng Hợp, Huyện Quảng Xương, Tỉnh Thanh Hóa",
+        "code": "16471",
+        "parent_code": "406"
+    },
+    "16474": {
+        "name": "Quảng Văn",
+        "type": "xa",
+        "slug": "quang-van",
+        "name_with_type": "Xã Quảng Văn",
+        "path": "Quảng Văn, Quảng Xương, Thanh Hóa",
+        "path_with_type": "Xã Quảng Văn, Huyện Quảng Xương, Tỉnh Thanh Hóa",
+        "code": "16474",
+        "parent_code": "406"
+    },
+    "16477": {
+        "name": "Quảng Long",
+        "type": "xa",
+        "slug": "quang-long",
+        "name_with_type": "Xã Quảng Long",
+        "path": "Quảng Long, Quảng Xương, Thanh Hóa",
+        "path_with_type": "Xã Quảng Long, Huyện Quảng Xương, Tỉnh Thanh Hóa",
+        "code": "16477",
+        "parent_code": "406"
+    },
+    "16480": {
+        "name": "Quảng Yên",
+        "type": "xa",
+        "slug": "quang-yen",
+        "name_with_type": "Xã Quảng Yên",
+        "path": "Quảng Yên, Quảng Xương, Thanh Hóa",
+        "path_with_type": "Xã Quảng Yên, Huyện Quảng Xương, Tỉnh Thanh Hóa",
+        "code": "16480",
+        "parent_code": "406"
+    },
+    "16483": {
+        "name": "Quảng Hòa",
+        "type": "xa",
+        "slug": "quang-hoa",
+        "name_with_type": "Xã Quảng Hòa",
+        "path": "Quảng Hòa, Quảng Xương, Thanh Hóa",
+        "path_with_type": "Xã Quảng Hòa, Huyện Quảng Xương, Tỉnh Thanh Hóa",
+        "code": "16483",
+        "parent_code": "406"
+    },
+    "16486": {
+        "name": "Quảng Lĩnh",
+        "type": "xa",
+        "slug": "quang-linh",
+        "name_with_type": "Xã Quảng Lĩnh",
+        "path": "Quảng Lĩnh, Quảng Xương, Thanh Hóa",
+        "path_with_type": "Xã Quảng Lĩnh, Huyện Quảng Xương, Tỉnh Thanh Hóa",
+        "code": "16486",
+        "parent_code": "406"
+    },
+    "16489": {
+        "name": "Quảng Khê",
+        "type": "xa",
+        "slug": "quang-khe",
+        "name_with_type": "Xã Quảng Khê",
+        "path": "Quảng Khê, Quảng Xương, Thanh Hóa",
+        "path_with_type": "Xã Quảng Khê, Huyện Quảng Xương, Tỉnh Thanh Hóa",
+        "code": "16489",
+        "parent_code": "406"
+    },
+    "16492": {
+        "name": "Quảng Trung",
+        "type": "xa",
+        "slug": "quang-trung",
+        "name_with_type": "Xã Quảng Trung",
+        "path": "Quảng Trung, Quảng Xương, Thanh Hóa",
+        "path_with_type": "Xã Quảng Trung, Huyện Quảng Xương, Tỉnh Thanh Hóa",
+        "code": "16492",
+        "parent_code": "406"
+    },
+    "16495": {
+        "name": "Quảng Chính",
+        "type": "xa",
+        "slug": "quang-chinh",
+        "name_with_type": "Xã Quảng Chính",
+        "path": "Quảng Chính, Quảng Xương, Thanh Hóa",
+        "path_with_type": "Xã Quảng Chính, Huyện Quảng Xương, Tỉnh Thanh Hóa",
+        "code": "16495",
+        "parent_code": "406"
+    },
+    "16498": {
+        "name": "Quảng Ngọc",
+        "type": "xa",
+        "slug": "quang-ngoc",
+        "name_with_type": "Xã Quảng Ngọc",
+        "path": "Quảng Ngọc, Quảng Xương, Thanh Hóa",
+        "path_with_type": "Xã Quảng Ngọc, Huyện Quảng Xương, Tỉnh Thanh Hóa",
+        "code": "16498",
+        "parent_code": "406"
+    },
+    "16501": {
+        "name": "Quảng Trường",
+        "type": "xa",
+        "slug": "quang-truong",
+        "name_with_type": "Xã Quảng Trường",
+        "path": "Quảng Trường, Quảng Xương, Thanh Hóa",
+        "path_with_type": "Xã Quảng Trường, Huyện Quảng Xương, Tỉnh Thanh Hóa",
+        "code": "16501",
+        "parent_code": "406"
+    },
+    "16504": {
+        "name": "Quảng Phúc",
+        "type": "xa",
+        "slug": "quang-phuc",
+        "name_with_type": "Xã Quảng Phúc",
+        "path": "Quảng Phúc, Quảng Xương, Thanh Hóa",
+        "path_with_type": "Xã Quảng Phúc, Huyện Quảng Xương, Tỉnh Thanh Hóa",
+        "code": "16504",
+        "parent_code": "406"
+    },
+    "16510": {
+        "name": "Quảng Vọng",
+        "type": "xa",
+        "slug": "quang-vong",
+        "name_with_type": "Xã Quảng Vọng",
+        "path": "Quảng Vọng, Quảng Xương, Thanh Hóa",
+        "path_with_type": "Xã Quảng Vọng, Huyện Quảng Xương, Tỉnh Thanh Hóa",
+        "code": "16510",
+        "parent_code": "406"
+    },
+    "16519": {
+        "name": "Quảng Giao",
+        "type": "xa",
+        "slug": "quang-giao",
+        "name_with_type": "Xã Quảng Giao",
+        "path": "Quảng Giao, Quảng Xương, Thanh Hóa",
+        "path_with_type": "Xã Quảng Giao, Huyện Quảng Xương, Tỉnh Thanh Hóa",
+        "code": "16519",
+        "parent_code": "406"
+    },
+    "16540": {
+        "name": "Quảng Hải",
+        "type": "xa",
+        "slug": "quang-hai",
+        "name_with_type": "Xã Quảng Hải",
+        "path": "Quảng Hải, Quảng Xương, Thanh Hóa",
+        "path_with_type": "Xã Quảng Hải, Huyện Quảng Xương, Tỉnh Thanh Hóa",
+        "code": "16540",
+        "parent_code": "406"
+    },
+    "16543": {
+        "name": "Quảng Lưu",
+        "type": "xa",
+        "slug": "quang-luu",
+        "name_with_type": "Xã Quảng Lưu",
+        "path": "Quảng Lưu, Quảng Xương, Thanh Hóa",
+        "path_with_type": "Xã Quảng Lưu, Huyện Quảng Xương, Tỉnh Thanh Hóa",
+        "code": "16543",
+        "parent_code": "406"
+    },
+    "16546": {
+        "name": "Quảng Lộc",
+        "type": "xa",
+        "slug": "quang-loc",
+        "name_with_type": "Xã Quảng Lộc",
+        "path": "Quảng Lộc, Quảng Xương, Thanh Hóa",
+        "path_with_type": "Xã Quảng Lộc, Huyện Quảng Xương, Tỉnh Thanh Hóa",
+        "code": "16546",
+        "parent_code": "406"
+    },
+    "16549": {
+        "name": "Quảng Lợi",
+        "type": "xa",
+        "slug": "quang-loi",
+        "name_with_type": "Xã Quảng Lợi",
+        "path": "Quảng Lợi, Quảng Xương, Thanh Hóa",
+        "path_with_type": "Xã Quảng Lợi, Huyện Quảng Xương, Tỉnh Thanh Hóa",
+        "code": "16549",
+        "parent_code": "406"
+    },
+    "16552": {
+        "name": "Quảng Nham",
+        "type": "xa",
+        "slug": "quang-nham",
+        "name_with_type": "Xã Quảng Nham",
+        "path": "Quảng Nham, Quảng Xương, Thanh Hóa",
+        "path_with_type": "Xã Quảng Nham, Huyện Quảng Xương, Tỉnh Thanh Hóa",
+        "code": "16552",
+        "parent_code": "406"
+    },
+    "16555": {
+        "name": "Quảng Thạch",
+        "type": "xa",
+        "slug": "quang-thach",
+        "name_with_type": "Xã Quảng Thạch",
+        "path": "Quảng Thạch, Quảng Xương, Thanh Hóa",
+        "path_with_type": "Xã Quảng Thạch, Huyện Quảng Xương, Tỉnh Thanh Hóa",
+        "code": "16555",
+        "parent_code": "406"
+    },
+    "16558": {
+        "name": "Quảng Thái",
+        "type": "xa",
+        "slug": "quang-thai",
+        "name_with_type": "Xã Quảng Thái",
+        "path": "Quảng Thái, Quảng Xương, Thanh Hóa",
+        "path_with_type": "Xã Quảng Thái, Huyện Quảng Xương, Tỉnh Thanh Hóa",
+        "code": "16558",
+        "parent_code": "406"
+    }
+}

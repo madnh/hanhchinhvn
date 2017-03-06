@@ -1,0 +1,122 @@
+{
+    "24688": {
+        "name": "Đắk Mâm",
+        "type": "thi-tran",
+        "slug": "dak-mam",
+        "name_with_type": "Thị trấn Đắk Mâm",
+        "path": "Đắk Mâm, Krông Nô, Đắk Nông",
+        "path_with_type": "Thị trấn Đắk Mâm, Huyện Krông Nô, Tỉnh Đắk Nông",
+        "code": "24688",
+        "parent_code": "664"
+    },
+    "24691": {
+        "name": "Đắk Sôr",
+        "type": "xa",
+        "slug": "dak-sor",
+        "name_with_type": "Xã Đắk Sôr",
+        "path": "Đắk Sôr, Krông Nô, Đắk Nông",
+        "path_with_type": "Xã Đắk Sôr, Huyện Krông Nô, Tỉnh Đắk Nông",
+        "code": "24691",
+        "parent_code": "664"
+    },
+    "24692": {
+        "name": "Nam Xuân",
+        "type": "xa",
+        "slug": "nam-xuan",
+        "name_with_type": "Xã Nam Xuân",
+        "path": "Nam Xuân, Krông Nô, Đắk Nông",
+        "path_with_type": "Xã Nam Xuân, Huyện Krông Nô, Tỉnh Đắk Nông",
+        "code": "24692",
+        "parent_code": "664"
+    },
+    "24694": {
+        "name": "Buôn Choah",
+        "type": "xa",
+        "slug": "buon-choah",
+        "name_with_type": "Xã Buôn Choah",
+        "path": "Buôn Choah, Krông Nô, Đắk Nông",
+        "path_with_type": "Xã Buôn Choah, Huyện Krông Nô, Tỉnh Đắk Nông",
+        "code": "24694",
+        "parent_code": "664"
+    },
+    "24697": {
+        "name": "Nam Đà",
+        "type": "xa",
+        "slug": "nam-da",
+        "name_with_type": "Xã Nam Đà",
+        "path": "Nam Đà, Krông Nô, Đắk Nông",
+        "path_with_type": "Xã Nam Đà, Huyện Krông Nô, Tỉnh Đắk Nông",
+        "code": "24697",
+        "parent_code": "664"
+    },
+    "24699": {
+        "name": "Tân Thành",
+        "type": "xa",
+        "slug": "tan-thanh",
+        "name_with_type": "Xã Tân Thành",
+        "path": "Tân Thành, Krông Nô, Đắk Nông",
+        "path_with_type": "Xã Tân Thành, Huyện Krông Nô, Tỉnh Đắk Nông",
+        "code": "24699",
+        "parent_code": "664"
+    },
+    "24700": {
+        "name": "Đắk Drô",
+        "type": "xa",
+        "slug": "dak-dro",
+        "name_with_type": "Xã Đắk Drô",
+        "path": "Đắk Drô, Krông Nô, Đắk Nông",
+        "path_with_type": "Xã Đắk Drô, Huyện Krông Nô, Tỉnh Đắk Nông",
+        "code": "24700",
+        "parent_code": "664"
+    },
+    "24703": {
+        "name": "Nâm Nung",
+        "type": "xa",
+        "slug": "nam-nung",
+        "name_with_type": "Xã Nâm Nung",
+        "path": "Nâm Nung, Krông Nô, Đắk Nông",
+        "path_with_type": "Xã Nâm Nung, Huyện Krông Nô, Tỉnh Đắk Nông",
+        "code": "24703",
+        "parent_code": "664"
+    },
+    "24706": {
+        "name": "Đức Xuyên",
+        "type": "xa",
+        "slug": "duc-xuyen",
+        "name_with_type": "Xã Đức Xuyên",
+        "path": "Đức Xuyên, Krông Nô, Đắk Nông",
+        "path_with_type": "Xã Đức Xuyên, Huyện Krông Nô, Tỉnh Đắk Nông",
+        "code": "24706",
+        "parent_code": "664"
+    },
+    "24709": {
+        "name": "Đắk Nang",
+        "type": "xa",
+        "slug": "dak-nang",
+        "name_with_type": "Xã Đắk Nang",
+        "path": "Đắk Nang, Krông Nô, Đắk Nông",
+        "path_with_type": "Xã Đắk Nang, Huyện Krông Nô, Tỉnh Đắk Nông",
+        "code": "24709",
+        "parent_code": "664"
+    },
+    "24712": {
+        "name": "Quảng Phú",
+        "type": "xa",
+        "slug": "quang-phu",
+        "name_with_type": "Xã Quảng Phú",
+        "path": "Quảng Phú, Krông Nô, Đắk Nông",
+        "path_with_type": "Xã Quảng Phú, Huyện Krông Nô, Tỉnh Đắk Nông",
+        "code": "24712",
+        "parent_code": "664"
+    },
+    "24715": {
+        "name": "Nâm N'Đir",
+        "type": "xa",
+        "slug": "nam-n-dir",
+        "name_with_type": "Xã Nâm N'Đir",
+        "path": "Nâm N'Đir, Krông Nô, Đắk Nông",
+        "path_with_type": "Xã Nâm N'Đir, Huyện Krông Nô, Tỉnh Đắk Nông",
+        "code": "24715",
+        "parent_code": "664"
+    }
+}

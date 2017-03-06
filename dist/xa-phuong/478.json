@@ -1,0 +1,202 @@
+{
+    "19900": {
+        "name": "Thuận An",
+        "type": "thi-tran",
+        "slug": "thuan-an",
+        "name_with_type": "Thị trấn Thuận An",
+        "path": "Thuận An, Phú Vang, Thừa Thiên Huế",
+        "path_with_type": "Thị trấn Thuận An, Huyện Phú Vang, Tỉnh Thừa Thiên Huế",
+        "code": "19900",
+        "parent_code": "478"
+    },
+    "19903": {
+        "name": "Phú Thuận",
+        "type": "xa",
+        "slug": "phu-thuan",
+        "name_with_type": "Xã Phú Thuận",
+        "path": "Phú Thuận, Phú Vang, Thừa Thiên Huế",
+        "path_with_type": "Xã Phú Thuận, Huyện Phú Vang, Tỉnh Thừa Thiên Huế",
+        "code": "19903",
+        "parent_code": "478"
+    },
+    "19906": {
+        "name": "Phú Dương",
+        "type": "xa",
+        "slug": "phu-duong",
+        "name_with_type": "Xã Phú Dương",
+        "path": "Phú Dương, Phú Vang, Thừa Thiên Huế",
+        "path_with_type": "Xã Phú Dương, Huyện Phú Vang, Tỉnh Thừa Thiên Huế",
+        "code": "19906",
+        "parent_code": "478"
+    },
+    "19909": {
+        "name": "Phú Mậu",
+        "type": "xa",
+        "slug": "phu-mau",
+        "name_with_type": "Xã Phú Mậu",
+        "path": "Phú Mậu, Phú Vang, Thừa Thiên Huế",
+        "path_with_type": "Xã Phú Mậu, Huyện Phú Vang, Tỉnh Thừa Thiên Huế",
+        "code": "19909",
+        "parent_code": "478"
+    },
+    "19912": {
+        "name": "Phú An",
+        "type": "xa",
+        "slug": "phu-an",
+        "name_with_type": "Xã Phú An",
+        "path": "Phú An, Phú Vang, Thừa Thiên Huế",
+        "path_with_type": "Xã Phú An, Huyện Phú Vang, Tỉnh Thừa Thiên Huế",
+        "code": "19912",
+        "parent_code": "478"
+    },
+    "19915": {
+        "name": "Phú Hải",
+        "type": "xa",
+        "slug": "phu-hai",
+        "name_with_type": "Xã Phú Hải",
+        "path": "Phú Hải, Phú Vang, Thừa Thiên Huế",
+        "path_with_type": "Xã Phú Hải, Huyện Phú Vang, Tỉnh Thừa Thiên Huế",
+        "code": "19915",
+        "parent_code": "478"
+    },
+    "19918": {
+        "name": "Phú Xuân",
+        "type": "xa",
+        "slug": "phu-xuan",
+        "name_with_type": "Xã Phú Xuân",
+        "path": "Phú Xuân, Phú Vang, Thừa Thiên Huế",
+        "path_with_type": "Xã Phú Xuân, Huyện Phú Vang, Tỉnh Thừa Thiên Huế",
+        "code": "19918",
+        "parent_code": "478"
+    },
+    "19921": {
+        "name": "Phú Diên",
+        "type": "xa",
+        "slug": "phu-dien",
+        "name_with_type": "Xã Phú Diên",
+        "path": "Phú Diên, Phú Vang, Thừa Thiên Huế",
+        "path_with_type": "Xã Phú Diên, Huyện Phú Vang, Tỉnh Thừa Thiên Huế",
+        "code": "19921",
+        "parent_code": "478"
+    },
+    "19924": {
+        "name": "Phú Thanh",
+        "type": "xa",
+        "slug": "phu-thanh",
+        "name_with_type": "Xã Phú Thanh",
+        "path": "Phú Thanh, Phú Vang, Thừa Thiên Huế",
+        "path_with_type": "Xã Phú Thanh, Huyện Phú Vang, Tỉnh Thừa Thiên Huế",
+        "code": "19924",
+        "parent_code": "478"
+    },
+    "19927": {
+        "name": "Phú Mỹ",
+        "type": "xa",
+        "slug": "phu-my",
+        "name_with_type": "Xã Phú Mỹ",
+        "path": "Phú Mỹ, Phú Vang, Thừa Thiên Huế",
+        "path_with_type": "Xã Phú Mỹ, Huyện Phú Vang, Tỉnh Thừa Thiên Huế",
+        "code": "19927",
+        "parent_code": "478"
+    },
+    "19930": {
+        "name": "Phú Thượng",
+        "type": "xa",
+        "slug": "phu-thuong",
+        "name_with_type": "Xã Phú Thượng",
+        "path": "Phú Thượng, Phú Vang, Thừa Thiên Huế",
+        "path_with_type": "Xã Phú Thượng, Huyện Phú Vang, Tỉnh Thừa Thiên Huế",
+        "code": "19930",
+        "parent_code": "478"
+    },
+    "19933": {
+        "name": "Phú Hồ",
+        "type": "xa",
+        "slug": "phu-ho",
+        "name_with_type": "Xã Phú Hồ",
+        "path": "Phú Hồ, Phú Vang, Thừa Thiên Huế",
+        "path_with_type": "Xã Phú Hồ, Huyện Phú Vang, Tỉnh Thừa Thiên Huế",
+        "code": "19933",
+        "parent_code": "478"
+    },
+    "19936": {
+        "name": "Vinh Xuân",
+        "type": "xa",
+        "slug": "vinh-xuan",
+        "name_with_type": "Xã Vinh Xuân",
+        "path": "Vinh Xuân, Phú Vang, Thừa Thiên Huế",
+        "path_with_type": "Xã Vinh Xuân, Huyện Phú Vang, Tỉnh Thừa Thiên Huế",
+        "code": "19936",
+        "parent_code": "478"
+    },
+    "19939": {
+        "name": "Phú Lương",
+        "type": "xa",
+        "slug": "phu-luong",
+        "name_with_type": "Xã Phú Lương",
+        "path": "Phú Lương, Phú Vang, Thừa Thiên Huế",
+        "path_with_type": "Xã Phú Lương, Huyện Phú Vang, Tỉnh Thừa Thiên Huế",
+        "code": "19939",
+        "parent_code": "478"
+    },
+    "19942": {
+        "name": "Phú Đa",
+        "type": "thi-tran",
+        "slug": "phu-da",
+        "name_with_type": "Thị trấn Phú Đa",
+        "path": "Phú Đa, Phú Vang, Thừa Thiên Huế",
+        "path_with_type": "Thị trấn Phú Đa, Huyện Phú Vang, Tỉnh Thừa Thiên Huế",
+        "code": "19942",
+        "parent_code": "478"
+    },
+    "19945": {
+        "name": "Vinh Thanh",
+        "type": "xa",
+        "slug": "vinh-thanh",
+        "name_with_type": "Xã Vinh Thanh",
+        "path": "Vinh Thanh, Phú Vang, Thừa Thiên Huế",
+        "path_with_type": "Xã Vinh Thanh, Huyện Phú Vang, Tỉnh Thừa Thiên Huế",
+        "code": "19945",
+        "parent_code": "478"
+    },
+    "19948": {
+        "name": "Vinh An",
+        "type": "xa",
+        "slug": "vinh-an",
+        "name_with_type": "Xã Vinh An",
+        "path": "Vinh An, Phú Vang, Thừa Thiên Huế",
+        "path_with_type": "Xã Vinh An, Huyện Phú Vang, Tỉnh Thừa Thiên Huế",
+        "code": "19948",
+        "parent_code": "478"
+    },
+    "19951": {
+        "name": "Vinh Phú",
+        "type": "xa",
+        "slug": "vinh-phu",
+        "name_with_type": "Xã Vinh Phú",
+        "path": "Vinh Phú, Phú Vang, Thừa Thiên Huế",
+        "path_with_type": "Xã Vinh Phú, Huyện Phú Vang, Tỉnh Thừa Thiên Huế",
+        "code": "19951",
+        "parent_code": "478"
+    },
+    "19954": {
+        "name": "Vinh Thái",
+        "type": "xa",
+        "slug": "vinh-thai",
+        "name_with_type": "Xã Vinh Thái",
+        "path": "Vinh Thái, Phú Vang, Thừa Thiên Huế",
+        "path_with_type": "Xã Vinh Thái, Huyện Phú Vang, Tỉnh Thừa Thiên Huế",
+        "code": "19954",
+        "parent_code": "478"
+    },
+    "19957": {
+        "name": "Vinh Hà",
+        "type": "xa",
+        "slug": "vinh-ha",
+        "name_with_type": "Xã Vinh Hà",
+        "path": "Vinh Hà, Phú Vang, Thừa Thiên Huế",
+        "path_with_type": "Xã Vinh Hà, Huyện Phú Vang, Tỉnh Thừa Thiên Huế",
+        "code": "19957",
+        "parent_code": "478"
+    }
+}

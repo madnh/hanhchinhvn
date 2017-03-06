@@ -1,0 +1,132 @@
+{
+    "24412": {
+        "name": "M'Đrắk",
+        "type": "thi-tran",
+        "slug": "m-drak",
+        "name_with_type": "Thị trấn M'Đrắk",
+        "path": "M'Đrắk, M'Đrắk, Đắk Lắk",
+        "path_with_type": "Thị trấn M'Đrắk, Huyện M'Đrắk, Tỉnh Đắk Lắk",
+        "code": "24412",
+        "parent_code": "652"
+    },
+    "24415": {
+        "name": "Cư Prao",
+        "type": "xa",
+        "slug": "cu-prao",
+        "name_with_type": "Xã Cư Prao",
+        "path": "Cư Prao, M'Đrắk, Đắk Lắk",
+        "path_with_type": "Xã Cư Prao, Huyện M'Đrắk, Tỉnh Đắk Lắk",
+        "code": "24415",
+        "parent_code": "652"
+    },
+    "24418": {
+        "name": "Ea Pil",
+        "type": "xa",
+        "slug": "ea-pil",
+        "name_with_type": "Xã Ea Pil",
+        "path": "Ea Pil, M'Đrắk, Đắk Lắk",
+        "path_with_type": "Xã Ea Pil, Huyện M'Đrắk, Tỉnh Đắk Lắk",
+        "code": "24418",
+        "parent_code": "652"
+    },
+    "24421": {
+        "name": "Ea Lai",
+        "type": "xa",
+        "slug": "ea-lai",
+        "name_with_type": "Xã Ea Lai",
+        "path": "Ea Lai, M'Đrắk, Đắk Lắk",
+        "path_with_type": "Xã Ea Lai, Huyện M'Đrắk, Tỉnh Đắk Lắk",
+        "code": "24421",
+        "parent_code": "652"
+    },
+    "24424": {
+        "name": "Ea H'MLay",
+        "type": "xa",
+        "slug": "ea-h-mlay",
+        "name_with_type": "Xã Ea H'MLay",
+        "path": "Ea H'MLay, M'Đrắk, Đắk Lắk",
+        "path_with_type": "Xã Ea H'MLay, Huyện M'Đrắk, Tỉnh Đắk Lắk",
+        "code": "24424",
+        "parent_code": "652"
+    },
+    "24427": {
+        "name": "Krông Jing",
+        "type": "xa",
+        "slug": "krong-jing",
+        "name_with_type": "Xã Krông Jing",
+        "path": "Krông Jing, M'Đrắk, Đắk Lắk",
+        "path_with_type": "Xã Krông Jing, Huyện M'Đrắk, Tỉnh Đắk Lắk",
+        "code": "24427",
+        "parent_code": "652"
+    },
+    "24430": {
+        "name": "Ea M' Doal",
+        "type": "xa",
+        "slug": "ea-m-doal",
+        "name_with_type": "Xã Ea M' Doal",
+        "path": "Ea M' Doal, M'Đrắk, Đắk Lắk",
+        "path_with_type": "Xã Ea M' Doal, Huyện M'Đrắk, Tỉnh Đắk Lắk",
+        "code": "24430",
+        "parent_code": "652"
+    },
+    "24433": {
+        "name": "Ea Riêng",
+        "type": "xa",
+        "slug": "ea-rieng",
+        "name_with_type": "Xã Ea Riêng",
+        "path": "Ea Riêng, M'Đrắk, Đắk Lắk",
+        "path_with_type": "Xã Ea Riêng, Huyện M'Đrắk, Tỉnh Đắk Lắk",
+        "code": "24433",
+        "parent_code": "652"
+    },
+    "24436": {
+        "name": "Cư M'ta",
+        "type": "xa",
+        "slug": "cu-m-ta",
+        "name_with_type": "Xã Cư M'ta",
+        "path": "Cư M'ta, M'Đrắk, Đắk Lắk",
+        "path_with_type": "Xã Cư M'ta, Huyện M'Đrắk, Tỉnh Đắk Lắk",
+        "code": "24436",
+        "parent_code": "652"
+    },
+    "24439": {
+        "name": "Cư K Róa",
+        "type": "xa",
+        "slug": "cu-k-roa",
+        "name_with_type": "Xã Cư K Róa",
+        "path": "Cư K Róa, M'Đrắk, Đắk Lắk",
+        "path_with_type": "Xã Cư K Róa, Huyện M'Đrắk, Tỉnh Đắk Lắk",
+        "code": "24439",
+        "parent_code": "652"
+    },
+    "24442": {
+        "name": "Krông Á",
+        "type": "xa",
+        "slug": "krong-a",
+        "name_with_type": "Xã Krông Á",
+        "path": "Krông Á, M'Đrắk, Đắk Lắk",
+        "path_with_type": "Xã Krông Á, Huyện M'Đrắk, Tỉnh Đắk Lắk",
+        "code": "24442",
+        "parent_code": "652"
+    },
+    "24444": {
+        "name": "Cư San",
+        "type": "xa",
+        "slug": "cu-san",
+        "name_with_type": "Xã Cư San",
+        "path": "Cư San, M'Đrắk, Đắk Lắk",
+        "path_with_type": "Xã Cư San, Huyện M'Đrắk, Tỉnh Đắk Lắk",
+        "code": "24444",
+        "parent_code": "652"
+    },
+    "24445": {
+        "name": "Ea Trang",
+        "type": "xa",
+        "slug": "ea-trang",
+        "name_with_type": "Xã Ea Trang",
+        "path": "Ea Trang, M'Đrắk, Đắk Lắk",
+        "path_with_type": "Xã Ea Trang, Huyện M'Đrắk, Tỉnh Đắk Lắk",
+        "code": "24445",
+        "parent_code": "652"
+    }
+}

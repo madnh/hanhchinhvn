@@ -1,0 +1,112 @@
+{
+    "29308": {
+        "name": "Cầu Kè",
+        "type": "thi-tran",
+        "slug": "cau-ke",
+        "name_with_type": "Thị trấn Cầu Kè",
+        "path": "Cầu Kè, Cầu Kè, Trà Vinh",
+        "path_with_type": "Thị trấn Cầu Kè, Huyện Cầu Kè, Tỉnh Trà Vinh",
+        "code": "29308",
+        "parent_code": "845"
+    },
+    "29311": {
+        "name": "Hòa Ân",
+        "type": "xa",
+        "slug": "hoa-an",
+        "name_with_type": "Xã Hòa Ân",
+        "path": "Hòa Ân, Cầu Kè, Trà Vinh",
+        "path_with_type": "Xã Hòa Ân, Huyện Cầu Kè, Tỉnh Trà Vinh",
+        "code": "29311",
+        "parent_code": "845"
+    },
+    "29314": {
+        "name": "Châu Điền",
+        "type": "xa",
+        "slug": "chau-dien",
+        "name_with_type": "Xã Châu Điền",
+        "path": "Châu Điền, Cầu Kè, Trà Vinh",
+        "path_with_type": "Xã Châu Điền, Huyện Cầu Kè, Tỉnh Trà Vinh",
+        "code": "29314",
+        "parent_code": "845"
+    },
+    "29317": {
+        "name": "An Phú Tân",
+        "type": "xa",
+        "slug": "an-phu-tan",
+        "name_with_type": "Xã An Phú Tân",
+        "path": "An Phú Tân, Cầu Kè, Trà Vinh",
+        "path_with_type": "Xã An Phú Tân, Huyện Cầu Kè, Tỉnh Trà Vinh",
+        "code": "29317",
+        "parent_code": "845"
+    },
+    "29320": {
+        "name": "Hoà Tân",
+        "type": "xa",
+        "slug": "hoa-tan",
+        "name_with_type": "Xã Hoà Tân",
+        "path": "Hoà Tân, Cầu Kè, Trà Vinh",
+        "path_with_type": "Xã Hoà Tân, Huyện Cầu Kè, Tỉnh Trà Vinh",
+        "code": "29320",
+        "parent_code": "845"
+    },
+    "29323": {
+        "name": "Ninh Thới",
+        "type": "xa",
+        "slug": "ninh-thoi",
+        "name_with_type": "Xã Ninh Thới",
+        "path": "Ninh Thới, Cầu Kè, Trà Vinh",
+        "path_with_type": "Xã Ninh Thới, Huyện Cầu Kè, Tỉnh Trà Vinh",
+        "code": "29323",
+        "parent_code": "845"
+    },
+    "29326": {
+        "name": "Phong Phú",
+        "type": "xa",
+        "slug": "phong-phu",
+        "name_with_type": "Xã Phong Phú",
+        "path": "Phong Phú, Cầu Kè, Trà Vinh",
+        "path_with_type": "Xã Phong Phú, Huyện Cầu Kè, Tỉnh Trà Vinh",
+        "code": "29326",
+        "parent_code": "845"
+    },
+    "29329": {
+        "name": "Phong Thạnh",
+        "type": "xa",
+        "slug": "phong-thanh",
+        "name_with_type": "Xã Phong Thạnh",
+        "path": "Phong Thạnh, Cầu Kè, Trà Vinh",
+        "path_with_type": "Xã Phong Thạnh, Huyện Cầu Kè, Tỉnh Trà Vinh",
+        "code": "29329",
+        "parent_code": "845"
+    },
+    "29332": {
+        "name": "Tam Ngãi",
+        "type": "xa",
+        "slug": "tam-ngai",
+        "name_with_type": "Xã Tam Ngãi",
+        "path": "Tam Ngãi, Cầu Kè, Trà Vinh",
+        "path_with_type": "Xã Tam Ngãi, Huyện Cầu Kè, Tỉnh Trà Vinh",
+        "code": "29332",
+        "parent_code": "845"
+    },
+    "29335": {
+        "name": "Thông Hòa",
+        "type": "xa",
+        "slug": "thong-hoa",
+        "name_with_type": "Xã Thông Hòa",
+        "path": "Thông Hòa, Cầu Kè, Trà Vinh",
+        "path_with_type": "Xã Thông Hòa, Huyện Cầu Kè, Tỉnh Trà Vinh",
+        "code": "29335",
+        "parent_code": "845"
+    },
+    "29338": {
+        "name": "Thạnh Phú",
+        "type": "xa",
+        "slug": "thanh-phu",
+        "name_with_type": "Xã Thạnh Phú",
+        "path": "Thạnh Phú, Cầu Kè, Trà Vinh",
+        "path_with_type": "Xã Thạnh Phú, Huyện Cầu Kè, Tỉnh Trà Vinh",
+        "code": "29338",
+        "parent_code": "845"
+    }
+}

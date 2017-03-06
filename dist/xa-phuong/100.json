@@ -1,0 +1,252 @@
+{
+    "03316": {
+        "name": "Nà Tấu",
+        "type": "xa",
+        "slug": "na-tau",
+        "name_with_type": "Xã Nà Tấu",
+        "path": "Nà Tấu, Điện Biên, Điện Biên",
+        "path_with_type": "Xã Nà Tấu, Huyện Điện Biên, Tỉnh Điện Biên",
+        "code": "03316",
+        "parent_code": "100"
+    },
+    "03317": {
+        "name": "Nà Nhạn",
+        "type": "xa",
+        "slug": "na-nhan",
+        "name_with_type": "Xã Nà Nhạn",
+        "path": "Nà Nhạn, Điện Biên, Điện Biên",
+        "path_with_type": "Xã Nà Nhạn, Huyện Điện Biên, Tỉnh Điện Biên",
+        "code": "03317",
+        "parent_code": "100"
+    },
+    "03319": {
+        "name": "Mường Pồn",
+        "type": "xa",
+        "slug": "muong-pon",
+        "name_with_type": "Xã Mường Pồn",
+        "path": "Mường Pồn, Điện Biên, Điện Biên",
+        "path_with_type": "Xã Mường Pồn, Huyện Điện Biên, Tỉnh Điện Biên",
+        "code": "03319",
+        "parent_code": "100"
+    },
+    "03322": {
+        "name": "Thanh Nưa",
+        "type": "xa",
+        "slug": "thanh-nua",
+        "name_with_type": "Xã Thanh Nưa",
+        "path": "Thanh Nưa, Điện Biên, Điện Biên",
+        "path_with_type": "Xã Thanh Nưa, Huyện Điện Biên, Tỉnh Điện Biên",
+        "code": "03322",
+        "parent_code": "100"
+    },
+    "03323": {
+        "name": "Hua Thanh",
+        "type": "xa",
+        "slug": "hua-thanh",
+        "name_with_type": "Xã Hua Thanh",
+        "path": "Hua Thanh, Điện Biên, Điện Biên",
+        "path_with_type": "Xã Hua Thanh, Huyện Điện Biên, Tỉnh Điện Biên",
+        "code": "03323",
+        "parent_code": "100"
+    },
+    "03325": {
+        "name": "Mường Phăng",
+        "type": "xa",
+        "slug": "muong-phang",
+        "name_with_type": "Xã Mường Phăng",
+        "path": "Mường Phăng, Điện Biên, Điện Biên",
+        "path_with_type": "Xã Mường Phăng, Huyện Điện Biên, Tỉnh Điện Biên",
+        "code": "03325",
+        "parent_code": "100"
+    },
+    "03326": {
+        "name": "Pá Khoang",
+        "type": "xa",
+        "slug": "pa-khoang",
+        "name_with_type": "Xã Pá Khoang",
+        "path": "Pá Khoang, Điện Biên, Điện Biên",
+        "path_with_type": "Xã Pá Khoang, Huyện Điện Biên, Tỉnh Điện Biên",
+        "code": "03326",
+        "parent_code": "100"
+    },
+    "03328": {
+        "name": "Thanh Luông",
+        "type": "xa",
+        "slug": "thanh-luong",
+        "name_with_type": "Xã Thanh Luông",
+        "path": "Thanh Luông, Điện Biên, Điện Biên",
+        "path_with_type": "Xã Thanh Luông, Huyện Điện Biên, Tỉnh Điện Biên",
+        "code": "03328",
+        "parent_code": "100"
+    },
+    "03331": {
+        "name": "Thanh Hưng",
+        "type": "xa",
+        "slug": "thanh-hung",
+        "name_with_type": "Xã Thanh Hưng",
+        "path": "Thanh Hưng, Điện Biên, Điện Biên",
+        "path_with_type": "Xã Thanh Hưng, Huyện Điện Biên, Tỉnh Điện Biên",
+        "code": "03331",
+        "parent_code": "100"
+    },
+    "03334": {
+        "name": "Thanh Xương",
+        "type": "xa",
+        "slug": "thanh-xuong",
+        "name_with_type": "Xã Thanh Xương",
+        "path": "Thanh Xương, Điện Biên, Điện Biên",
+        "path_with_type": "Xã Thanh Xương, Huyện Điện Biên, Tỉnh Điện Biên",
+        "code": "03334",
+        "parent_code": "100"
+    },
+    "03337": {
+        "name": "Thanh Chăn",
+        "type": "xa",
+        "slug": "thanh-chan",
+        "name_with_type": "Xã Thanh Chăn",
+        "path": "Thanh Chăn, Điện Biên, Điện Biên",
+        "path_with_type": "Xã Thanh Chăn, Huyện Điện Biên, Tỉnh Điện Biên",
+        "code": "03337",
+        "parent_code": "100"
+    },
+    "03340": {
+        "name": "Pa Thơm",
+        "type": "xa",
+        "slug": "pa-thom",
+        "name_with_type": "Xã Pa Thơm",
+        "path": "Pa Thơm, Điện Biên, Điện Biên",
+        "path_with_type": "Xã Pa Thơm, Huyện Điện Biên, Tỉnh Điện Biên",
+        "code": "03340",
+        "parent_code": "100"
+    },
+    "03343": {
+        "name": "Thanh An",
+        "type": "xa",
+        "slug": "thanh-an",
+        "name_with_type": "Xã Thanh An",
+        "path": "Thanh An, Điện Biên, Điện Biên",
+        "path_with_type": "Xã Thanh An, Huyện Điện Biên, Tỉnh Điện Biên",
+        "code": "03343",
+        "parent_code": "100"
+    },
+    "03346": {
+        "name": "Thanh Yên",
+        "type": "xa",
+        "slug": "thanh-yen",
+        "name_with_type": "Xã Thanh Yên",
+        "path": "Thanh Yên, Điện Biên, Điện Biên",
+        "path_with_type": "Xã Thanh Yên, Huyện Điện Biên, Tỉnh Điện Biên",
+        "code": "03346",
+        "parent_code": "100"
+    },
+    "03349": {
+        "name": "Noong Luống",
+        "type": "xa",
+        "slug": "noong-luong",
+        "name_with_type": "Xã Noong Luống",
+        "path": "Noong Luống, Điện Biên, Điện Biên",
+        "path_with_type": "Xã Noong Luống, Huyện Điện Biên, Tỉnh Điện Biên",
+        "code": "03349",
+        "parent_code": "100"
+    },
+    "03352": {
+        "name": "Noọng Hẹt",
+        "type": "xa",
+        "slug": "noong-het",
+        "name_with_type": "Xã Noọng Hẹt",
+        "path": "Noọng Hẹt, Điện Biên, Điện Biên",
+        "path_with_type": "Xã Noọng Hẹt, Huyện Điện Biên, Tỉnh Điện Biên",
+        "code": "03352",
+        "parent_code": "100"
+    },
+    "03355": {
+        "name": "Sam Mứn",
+        "type": "xa",
+        "slug": "sam-mun",
+        "name_with_type": "Xã Sam Mứn",
+        "path": "Sam Mứn, Điện Biên, Điện Biên",
+        "path_with_type": "Xã Sam Mứn, Huyện Điện Biên, Tỉnh Điện Biên",
+        "code": "03355",
+        "parent_code": "100"
+    },
+    "03356": {
+        "name": "Pom Lót",
+        "type": "xa",
+        "slug": "pom-lot",
+        "name_with_type": "Xã Pom Lót",
+        "path": "Pom Lót, Điện Biên, Điện Biên",
+        "path_with_type": "Xã Pom Lót, Huyện Điện Biên, Tỉnh Điện Biên",
+        "code": "03356",
+        "parent_code": "100"
+    },
+    "03358": {
+        "name": "Núa Ngam",
+        "type": "xa",
+        "slug": "nua-ngam",
+        "name_with_type": "Xã Núa Ngam",
+        "path": "Núa Ngam, Điện Biên, Điện Biên",
+        "path_with_type": "Xã Núa Ngam, Huyện Điện Biên, Tỉnh Điện Biên",
+        "code": "03358",
+        "parent_code": "100"
+    },
+    "03359": {
+        "name": "Hẹ Muông",
+        "type": "xa",
+        "slug": "he-muong",
+        "name_with_type": "Xã Hẹ Muông",
+        "path": "Hẹ Muông, Điện Biên, Điện Biên",
+        "path_with_type": "Xã Hẹ Muông, Huyện Điện Biên, Tỉnh Điện Biên",
+        "code": "03359",
+        "parent_code": "100"
+    },
+    "03361": {
+        "name": "Na Ư",
+        "type": "xa",
+        "slug": "na-u",
+        "name_with_type": "Xã Na Ư",
+        "path": "Na Ư, Điện Biên, Điện Biên",
+        "path_with_type": "Xã Na Ư, Huyện Điện Biên, Tỉnh Điện Biên",
+        "code": "03361",
+        "parent_code": "100"
+    },
+    "03364": {
+        "name": "Mường Nhà",
+        "type": "xa",
+        "slug": "muong-nha",
+        "name_with_type": "Xã Mường Nhà",
+        "path": "Mường Nhà, Điện Biên, Điện Biên",
+        "path_with_type": "Xã Mường Nhà, Huyện Điện Biên, Tỉnh Điện Biên",
+        "code": "03364",
+        "parent_code": "100"
+    },
+    "03365": {
+        "name": "Na Tông",
+        "type": "xa",
+        "slug": "na-tong",
+        "name_with_type": "Xã Na Tông",
+        "path": "Na Tông, Điện Biên, Điện Biên",
+        "path_with_type": "Xã Na Tông, Huyện Điện Biên, Tỉnh Điện Biên",
+        "code": "03365",
+        "parent_code": "100"
+    },
+    "03367": {
+        "name": "Mường Lói",
+        "type": "xa",
+        "slug": "muong-loi",
+        "name_with_type": "Xã Mường Lói",
+        "path": "Mường Lói, Điện Biên, Điện Biên",
+        "path_with_type": "Xã Mường Lói, Huyện Điện Biên, Tỉnh Điện Biên",
+        "code": "03367",
+        "parent_code": "100"
+    },
+    "03368": {
+        "name": "Phu Luông",
+        "type": "xa",
+        "slug": "phu-luong",
+        "name_with_type": "Xã Phu Luông",
+        "path": "Phu Luông, Điện Biên, Điện Biên",
+        "path_with_type": "Xã Phu Luông, Huyện Điện Biên, Tỉnh Điện Biên",
+        "code": "03368",
+        "parent_code": "100"
+    }
+}

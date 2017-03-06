@@ -1,0 +1,82 @@
+{
+    "32044": {
+        "name": "U Minh",
+        "type": "thi-tran",
+        "slug": "u-minh",
+        "name_with_type": "Thị trấn U Minh",
+        "path": "U Minh, U Minh, Cà Mau",
+        "path_with_type": "Thị trấn U Minh, Huyện U Minh, Tỉnh Cà Mau",
+        "code": "32044",
+        "parent_code": "966"
+    },
+    "32047": {
+        "name": "Khánh Hòa",
+        "type": "xa",
+        "slug": "khanh-hoa",
+        "name_with_type": "Xã Khánh Hòa",
+        "path": "Khánh Hòa, U Minh, Cà Mau",
+        "path_with_type": "Xã Khánh Hòa, Huyện U Minh, Tỉnh Cà Mau",
+        "code": "32047",
+        "parent_code": "966"
+    },
+    "32048": {
+        "name": "Khánh Thuận",
+        "type": "xa",
+        "slug": "khanh-thuan",
+        "name_with_type": "Xã Khánh Thuận",
+        "path": "Khánh Thuận, U Minh, Cà Mau",
+        "path_with_type": "Xã Khánh Thuận, Huyện U Minh, Tỉnh Cà Mau",
+        "code": "32048",
+        "parent_code": "966"
+    },
+    "32050": {
+        "name": "Khánh Tiến",
+        "type": "xa",
+        "slug": "khanh-tien",
+        "name_with_type": "Xã Khánh Tiến",
+        "path": "Khánh Tiến, U Minh, Cà Mau",
+        "path_with_type": "Xã Khánh Tiến, Huyện U Minh, Tỉnh Cà Mau",
+        "code": "32050",
+        "parent_code": "966"
+    },
+    "32053": {
+        "name": "Nguyễn Phích",
+        "type": "xa",
+        "slug": "nguyen-phich",
+        "name_with_type": "Xã Nguyễn Phích",
+        "path": "Nguyễn Phích, U Minh, Cà Mau",
+        "path_with_type": "Xã Nguyễn Phích, Huyện U Minh, Tỉnh Cà Mau",
+        "code": "32053",
+        "parent_code": "966"
+    },
+    "32056": {
+        "name": "Khánh Lâm",
+        "type": "xa",
+        "slug": "khanh-lam",
+        "name_with_type": "Xã Khánh Lâm",
+        "path": "Khánh Lâm, U Minh, Cà Mau",
+        "path_with_type": "Xã Khánh Lâm, Huyện U Minh, Tỉnh Cà Mau",
+        "code": "32056",
+        "parent_code": "966"
+    },
+    "32059": {
+        "name": "Khánh An",
+        "type": "xa",
+        "slug": "khanh-an",
+        "name_with_type": "Xã Khánh An",
+        "path": "Khánh An, U Minh, Cà Mau",
+        "path_with_type": "Xã Khánh An, Huyện U Minh, Tỉnh Cà Mau",
+        "code": "32059",
+        "parent_code": "966"
+    },
+    "32062": {
+        "name": "Khánh Hội",
+        "type": "xa",
+        "slug": "khanh-hoi",
+        "name_with_type": "Xã Khánh Hội",
+        "path": "Khánh Hội, U Minh, Cà Mau",
+        "path_with_type": "Xã Khánh Hội, Huyện U Minh, Tỉnh Cà Mau",
+        "code": "32062",
+        "parent_code": "966"
+    }
+}

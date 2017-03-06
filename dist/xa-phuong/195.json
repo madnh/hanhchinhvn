@@ -1,0 +1,162 @@
+{
+    "06760": {
+        "name": "Mông Dương",
+        "type": "phuong",
+        "slug": "mong-duong",
+        "name_with_type": "Phường Mông Dương",
+        "path": "Mông Dương, Cẩm Phả, Quảng Ninh",
+        "path_with_type": "Phường Mông Dương, Thành phố Cẩm Phả, Tỉnh Quảng Ninh",
+        "code": "06760",
+        "parent_code": "195"
+    },
+    "06763": {
+        "name": "Cửa Ông",
+        "type": "phuong",
+        "slug": "cua-ong",
+        "name_with_type": "Phường Cửa Ông",
+        "path": "Cửa Ông, Cẩm Phả, Quảng Ninh",
+        "path_with_type": "Phường Cửa Ông, Thành phố Cẩm Phả, Tỉnh Quảng Ninh",
+        "code": "06763",
+        "parent_code": "195"
+    },
+    "06766": {
+        "name": "Cẩm Sơn",
+        "type": "phuong",
+        "slug": "cam-son",
+        "name_with_type": "Phường Cẩm Sơn",
+        "path": "Cẩm Sơn, Cẩm Phả, Quảng Ninh",
+        "path_with_type": "Phường Cẩm Sơn, Thành phố Cẩm Phả, Tỉnh Quảng Ninh",
+        "code": "06766",
+        "parent_code": "195"
+    },
+    "06769": {
+        "name": "Cẩm Đông",
+        "type": "phuong",
+        "slug": "cam-dong",
+        "name_with_type": "Phường Cẩm Đông",
+        "path": "Cẩm Đông, Cẩm Phả, Quảng Ninh",
+        "path_with_type": "Phường Cẩm Đông, Thành phố Cẩm Phả, Tỉnh Quảng Ninh",
+        "code": "06769",
+        "parent_code": "195"
+    },
+    "06772": {
+        "name": "Cẩm Phú",
+        "type": "phuong",
+        "slug": "cam-phu",
+        "name_with_type": "Phường Cẩm Phú",
+        "path": "Cẩm Phú, Cẩm Phả, Quảng Ninh",
+        "path_with_type": "Phường Cẩm Phú, Thành phố Cẩm Phả, Tỉnh Quảng Ninh",
+        "code": "06772",
+        "parent_code": "195"
+    },
+    "06775": {
+        "name": "Cẩm Tây",
+        "type": "phuong",
+        "slug": "cam-tay",
+        "name_with_type": "Phường Cẩm Tây",
+        "path": "Cẩm Tây, Cẩm Phả, Quảng Ninh",
+        "path_with_type": "Phường Cẩm Tây, Thành phố Cẩm Phả, Tỉnh Quảng Ninh",
+        "code": "06775",
+        "parent_code": "195"
+    },
+    "06778": {
+        "name": "Quang Hanh",
+        "type": "phuong",
+        "slug": "quang-hanh",
+        "name_with_type": "Phường Quang Hanh",
+        "path": "Quang Hanh, Cẩm Phả, Quảng Ninh",
+        "path_with_type": "Phường Quang Hanh, Thành phố Cẩm Phả, Tỉnh Quảng Ninh",
+        "code": "06778",
+        "parent_code": "195"
+    },
+    "06781": {
+        "name": "Cẩm Thịnh",
+        "type": "phuong",
+        "slug": "cam-thinh",
+        "name_with_type": "Phường Cẩm Thịnh",
+        "path": "Cẩm Thịnh, Cẩm Phả, Quảng Ninh",
+        "path_with_type": "Phường Cẩm Thịnh, Thành phố Cẩm Phả, Tỉnh Quảng Ninh",
+        "code": "06781",
+        "parent_code": "195"
+    },
+    "06784": {
+        "name": "Cẩm Thủy",
+        "type": "phuong",
+        "slug": "cam-thuy",
+        "name_with_type": "Phường Cẩm Thủy",
+        "path": "Cẩm Thủy, Cẩm Phả, Quảng Ninh",
+        "path_with_type": "Phường Cẩm Thủy, Thành phố Cẩm Phả, Tỉnh Quảng Ninh",
+        "code": "06784",
+        "parent_code": "195"
+    },
+    "06787": {
+        "name": "Cẩm Thạch",
+        "type": "phuong",
+        "slug": "cam-thach",
+        "name_with_type": "Phường Cẩm Thạch",
+        "path": "Cẩm Thạch, Cẩm Phả, Quảng Ninh",
+        "path_with_type": "Phường Cẩm Thạch, Thành phố Cẩm Phả, Tỉnh Quảng Ninh",
+        "code": "06787",
+        "parent_code": "195"
+    },
+    "06790": {
+        "name": "Cẩm Thành",
+        "type": "phuong",
+        "slug": "cam-thanh",
+        "name_with_type": "Phường Cẩm Thành",
+        "path": "Cẩm Thành, Cẩm Phả, Quảng Ninh",
+        "path_with_type": "Phường Cẩm Thành, Thành phố Cẩm Phả, Tỉnh Quảng Ninh",
+        "code": "06790",
+        "parent_code": "195"
+    },
+    "06793": {
+        "name": "Cẩm Trung",
+        "type": "phuong",
+        "slug": "cam-trung",
+        "name_with_type": "Phường Cẩm Trung",
+        "path": "Cẩm Trung, Cẩm Phả, Quảng Ninh",
+        "path_with_type": "Phường Cẩm Trung, Thành phố Cẩm Phả, Tỉnh Quảng Ninh",
+        "code": "06793",
+        "parent_code": "195"
+    },
+    "06796": {
+        "name": "Cẩm Bình",
+        "type": "phuong",
+        "slug": "cam-binh",
+        "name_with_type": "Phường Cẩm Bình",
+        "path": "Cẩm Bình, Cẩm Phả, Quảng Ninh",
+        "path_with_type": "Phường Cẩm Bình, Thành phố Cẩm Phả, Tỉnh Quảng Ninh",
+        "code": "06796",
+        "parent_code": "195"
+    },
+    "06799": {
+        "name": "Cộng Hòa",
+        "type": "xa",
+        "slug": "cong-hoa",
+        "name_with_type": "Xã Cộng Hòa",
+        "path": "Cộng Hòa, Cẩm Phả, Quảng Ninh",
+        "path_with_type": "Xã Cộng Hòa, Thành phố Cẩm Phả, Tỉnh Quảng Ninh",
+        "code": "06799",
+        "parent_code": "195"
+    },
+    "06802": {
+        "name": "Cẩm Hải",
+        "type": "xa",
+        "slug": "cam-hai",
+        "name_with_type": "Xã Cẩm Hải",
+        "path": "Cẩm Hải, Cẩm Phả, Quảng Ninh",
+        "path_with_type": "Xã Cẩm Hải, Thành phố Cẩm Phả, Tỉnh Quảng Ninh",
+        "code": "06802",
+        "parent_code": "195"
+    },
+    "06805": {
+        "name": "Dương Huy",
+        "type": "xa",
+        "slug": "duong-huy",
+        "name_with_type": "Xã Dương Huy",
+        "path": "Dương Huy, Cẩm Phả, Quảng Ninh",
+        "path_with_type": "Xã Dương Huy, Thành phố Cẩm Phả, Tỉnh Quảng Ninh",
+        "code": "06805",
+        "parent_code": "195"
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "31483": {
+        "name": "Thuận Hưng",
+        "type": "xa",
+        "slug": "thuan-hung",
+        "name_with_type": "Xã Thuận Hưng",
+        "path": "Thuận Hưng, Long Mỹ, Hậu Giang",
+        "path_with_type": "Xã Thuận Hưng, Huyện Long Mỹ, Tỉnh Hậu Giang",
+        "code": "31483",
+        "parent_code": "936"
+    },
+    "31484": {
+        "name": "Thuận Hòa",
+        "type": "xa",
+        "slug": "thuan-hoa",
+        "name_with_type": "Xã Thuận Hòa",
+        "path": "Thuận Hòa, Long Mỹ, Hậu Giang",
+        "path_with_type": "Xã Thuận Hòa, Huyện Long Mỹ, Tỉnh Hậu Giang",
+        "code": "31484",
+        "parent_code": "936"
+    },
+    "31486": {
+        "name": "Vĩnh Thuận Đông",
+        "type": "xa",
+        "slug": "vinh-thuan-dong",
+        "name_with_type": "Xã Vĩnh Thuận Đông",
+        "path": "Vĩnh Thuận Đông, Long Mỹ, Hậu Giang",
+        "path_with_type": "Xã Vĩnh Thuận Đông, Huyện Long Mỹ, Tỉnh Hậu Giang",
+        "code": "31486",
+        "parent_code": "936"
+    },
+    "31489": {
+        "name": "Vĩnh Viễn",
+        "type": "xa",
+        "slug": "vinh-vien",
+        "name_with_type": "Xã Vĩnh Viễn",
+        "path": "Vĩnh Viễn, Long Mỹ, Hậu Giang",
+        "path_with_type": "Xã Vĩnh Viễn, Huyện Long Mỹ, Tỉnh Hậu Giang",
+        "code": "31489",
+        "parent_code": "936"
+    },
+    "31490": {
+        "name": "Vĩnh Viễn A",
+        "type": "xa",
+        "slug": "vinh-vien-a",
+        "name_with_type": "Xã Vĩnh Viễn A",
+        "path": "Vĩnh Viễn A, Long Mỹ, Hậu Giang",
+        "path_with_type": "Xã Vĩnh Viễn A, Huyện Long Mỹ, Tỉnh Hậu Giang",
+        "code": "31490",
+        "parent_code": "936"
+    },
+    "31492": {
+        "name": "Lương Tâm",
+        "type": "xa",
+        "slug": "luong-tam",
+        "name_with_type": "Xã Lương Tâm",
+        "path": "Lương Tâm, Long Mỹ, Hậu Giang",
+        "path_with_type": "Xã Lương Tâm, Huyện Long Mỹ, Tỉnh Hậu Giang",
+        "code": "31492",
+        "parent_code": "936"
+    },
+    "31493": {
+        "name": "Lương Nghĩa",
+        "type": "xa",
+        "slug": "luong-nghia",
+        "name_with_type": "Xã Lương Nghĩa",
+        "path": "Lương Nghĩa, Long Mỹ, Hậu Giang",
+        "path_with_type": "Xã Lương Nghĩa, Huyện Long Mỹ, Tỉnh Hậu Giang",
+        "code": "31493",
+        "parent_code": "936"
+    },
+    "31495": {
+        "name": "Xà Phiên",
+        "type": "xa",
+        "slug": "xa-phien",
+        "name_with_type": "Xã Xà Phiên",
+        "path": "Xà Phiên, Long Mỹ, Hậu Giang",
+        "path_with_type": "Xã Xà Phiên, Huyện Long Mỹ, Tỉnh Hậu Giang",
+        "code": "31495",
+        "parent_code": "936"
+    }
+}

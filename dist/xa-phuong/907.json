@@ -1,0 +1,112 @@
+{
+    "30952": {
+        "name": "Gò Quao",
+        "type": "thi-tran",
+        "slug": "go-quao",
+        "name_with_type": "Thị trấn Gò Quao",
+        "path": "Gò Quao, Gò Quao, Kiên Giang",
+        "path_with_type": "Thị trấn Gò Quao, Huyện Gò Quao, Tỉnh Kiên Giang",
+        "code": "30952",
+        "parent_code": "907"
+    },
+    "30955": {
+        "name": "Vĩnh Hòa Hưng Bắc",
+        "type": "xa",
+        "slug": "vinh-hoa-hung-bac",
+        "name_with_type": "Xã Vĩnh Hòa Hưng Bắc",
+        "path": "Vĩnh Hòa Hưng Bắc, Gò Quao, Kiên Giang",
+        "path_with_type": "Xã Vĩnh Hòa Hưng Bắc, Huyện Gò Quao, Tỉnh Kiên Giang",
+        "code": "30955",
+        "parent_code": "907"
+    },
+    "30958": {
+        "name": "Định Hòa",
+        "type": "xa",
+        "slug": "dinh-hoa",
+        "name_with_type": "Xã Định Hòa",
+        "path": "Định Hòa, Gò Quao, Kiên Giang",
+        "path_with_type": "Xã Định Hòa, Huyện Gò Quao, Tỉnh Kiên Giang",
+        "code": "30958",
+        "parent_code": "907"
+    },
+    "30961": {
+        "name": "Thới Quản",
+        "type": "xa",
+        "slug": "thoi-quan",
+        "name_with_type": "Xã Thới Quản",
+        "path": "Thới Quản, Gò Quao, Kiên Giang",
+        "path_with_type": "Xã Thới Quản, Huyện Gò Quao, Tỉnh Kiên Giang",
+        "code": "30961",
+        "parent_code": "907"
+    },
+    "30964": {
+        "name": "Định An",
+        "type": "xa",
+        "slug": "dinh-an",
+        "name_with_type": "Xã Định An",
+        "path": "Định An, Gò Quao, Kiên Giang",
+        "path_with_type": "Xã Định An, Huyện Gò Quao, Tỉnh Kiên Giang",
+        "code": "30964",
+        "parent_code": "907"
+    },
+    "30967": {
+        "name": "Thủy Liễu",
+        "type": "xa",
+        "slug": "thuy-lieu",
+        "name_with_type": "Xã Thủy Liễu",
+        "path": "Thủy Liễu, Gò Quao, Kiên Giang",
+        "path_with_type": "Xã Thủy Liễu, Huyện Gò Quao, Tỉnh Kiên Giang",
+        "code": "30967",
+        "parent_code": "907"
+    },
+    "30970": {
+        "name": "Vĩnh Hòa Hưng Nam",
+        "type": "xa",
+        "slug": "vinh-hoa-hung-nam",
+        "name_with_type": "Xã Vĩnh Hòa Hưng Nam",
+        "path": "Vĩnh Hòa Hưng Nam, Gò Quao, Kiên Giang",
+        "path_with_type": "Xã Vĩnh Hòa Hưng Nam, Huyện Gò Quao, Tỉnh Kiên Giang",
+        "code": "30970",
+        "parent_code": "907"
+    },
+    "30973": {
+        "name": "Vĩnh Phước A",
+        "type": "xa",
+        "slug": "vinh-phuoc-a",
+        "name_with_type": "Xã Vĩnh Phước A",
+        "path": "Vĩnh Phước A, Gò Quao, Kiên Giang",
+        "path_with_type": "Xã Vĩnh Phước A, Huyện Gò Quao, Tỉnh Kiên Giang",
+        "code": "30973",
+        "parent_code": "907"
+    },
+    "30976": {
+        "name": "Vĩnh Phước B",
+        "type": "xa",
+        "slug": "vinh-phuoc-b",
+        "name_with_type": "Xã Vĩnh Phước B",
+        "path": "Vĩnh Phước B, Gò Quao, Kiên Giang",
+        "path_with_type": "Xã Vĩnh Phước B, Huyện Gò Quao, Tỉnh Kiên Giang",
+        "code": "30976",
+        "parent_code": "907"
+    },
+    "30979": {
+        "name": "Vĩnh Tuy",
+        "type": "xa",
+        "slug": "vinh-tuy",
+        "name_with_type": "Xã Vĩnh Tuy",
+        "path": "Vĩnh Tuy, Gò Quao, Kiên Giang",
+        "path_with_type": "Xã Vĩnh Tuy, Huyện Gò Quao, Tỉnh Kiên Giang",
+        "code": "30979",
+        "parent_code": "907"
+    },
+    "30982": {
+        "name": "Vĩnh Thắng",
+        "type": "xa",
+        "slug": "vinh-thang",
+        "name_with_type": "Xã Vĩnh Thắng",
+        "path": "Vĩnh Thắng, Gò Quao, Kiên Giang",
+        "path_with_type": "Xã Vĩnh Thắng, Huyện Gò Quao, Tỉnh Kiên Giang",
+        "code": "30982",
+        "parent_code": "907"
+    }
+}

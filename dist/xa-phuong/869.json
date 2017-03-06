@@ -1,0 +1,92 @@
+{
+    "29926": {
+        "name": "Sa Rài",
+        "type": "thi-tran",
+        "slug": "sa-rai",
+        "name_with_type": "Thị trấn Sa Rài",
+        "path": "Sa Rài, Tân Hồng, Đồng Tháp",
+        "path_with_type": "Thị trấn Sa Rài, Huyện Tân Hồng, Tỉnh Đồng Tháp",
+        "code": "29926",
+        "parent_code": "869"
+    },
+    "29929": {
+        "name": "Tân Hộ Cơ",
+        "type": "xa",
+        "slug": "tan-ho-co",
+        "name_with_type": "Xã Tân Hộ Cơ",
+        "path": "Tân Hộ Cơ, Tân Hồng, Đồng Tháp",
+        "path_with_type": "Xã Tân Hộ Cơ, Huyện Tân Hồng, Tỉnh Đồng Tháp",
+        "code": "29929",
+        "parent_code": "869"
+    },
+    "29932": {
+        "name": "Thông Bình",
+        "type": "xa",
+        "slug": "thong-binh",
+        "name_with_type": "Xã Thông Bình",
+        "path": "Thông Bình, Tân Hồng, Đồng Tháp",
+        "path_with_type": "Xã Thông Bình, Huyện Tân Hồng, Tỉnh Đồng Tháp",
+        "code": "29932",
+        "parent_code": "869"
+    },
+    "29935": {
+        "name": "Bình Phú",
+        "type": "xa",
+        "slug": "binh-phu",
+        "name_with_type": "Xã Bình Phú",
+        "path": "Bình Phú, Tân Hồng, Đồng Tháp",
+        "path_with_type": "Xã Bình Phú, Huyện Tân Hồng, Tỉnh Đồng Tháp",
+        "code": "29935",
+        "parent_code": "869"
+    },
+    "29938": {
+        "name": "Tân Thành A",
+        "type": "xa",
+        "slug": "tan-thanh-a",
+        "name_with_type": "Xã Tân Thành A",
+        "path": "Tân Thành A, Tân Hồng, Đồng Tháp",
+        "path_with_type": "Xã Tân Thành A, Huyện Tân Hồng, Tỉnh Đồng Tháp",
+        "code": "29938",
+        "parent_code": "869"
+    },
+    "29941": {
+        "name": "Tân Thành B",
+        "type": "xa",
+        "slug": "tan-thanh-b",
+        "name_with_type": "Xã Tân Thành B",
+        "path": "Tân Thành B, Tân Hồng, Đồng Tháp",
+        "path_with_type": "Xã Tân Thành B, Huyện Tân Hồng, Tỉnh Đồng Tháp",
+        "code": "29941",
+        "parent_code": "869"
+    },
+    "29944": {
+        "name": "Tân Phước",
+        "type": "xa",
+        "slug": "tan-phuoc",
+        "name_with_type": "Xã Tân Phước",
+        "path": "Tân Phước, Tân Hồng, Đồng Tháp",
+        "path_with_type": "Xã Tân Phước, Huyện Tân Hồng, Tỉnh Đồng Tháp",
+        "code": "29944",
+        "parent_code": "869"
+    },
+    "29947": {
+        "name": "Tân Công Chí",
+        "type": "xa",
+        "slug": "tan-cong-chi",
+        "name_with_type": "Xã Tân Công Chí",
+        "path": "Tân Công Chí, Tân Hồng, Đồng Tháp",
+        "path_with_type": "Xã Tân Công Chí, Huyện Tân Hồng, Tỉnh Đồng Tháp",
+        "code": "29947",
+        "parent_code": "869"
+    },
+    "29950": {
+        "name": "An Phước",
+        "type": "xa",
+        "slug": "an-phuoc",
+        "name_with_type": "Xã An Phước",
+        "path": "An Phước, Tân Hồng, Đồng Tháp",
+        "path_with_type": "Xã An Phước, Huyện Tân Hồng, Tỉnh Đồng Tháp",
+        "code": "29950",
+        "parent_code": "869"
+    }
+}

@@ -1,0 +1,182 @@
+{
+    "19012": {
+        "name": "Quảng Hợp",
+        "type": "xa",
+        "slug": "quang-hop",
+        "name_with_type": "Xã Quảng Hợp",
+        "path": "Quảng Hợp, Quảng Trạch, Quảng Bình",
+        "path_with_type": "Xã Quảng Hợp, Huyện Quảng Trạch, Tỉnh Quảng Bình",
+        "code": "19012",
+        "parent_code": "454"
+    },
+    "19015": {
+        "name": "Quảng Kim",
+        "type": "xa",
+        "slug": "quang-kim",
+        "name_with_type": "Xã Quảng Kim",
+        "path": "Quảng Kim, Quảng Trạch, Quảng Bình",
+        "path_with_type": "Xã Quảng Kim, Huyện Quảng Trạch, Tỉnh Quảng Bình",
+        "code": "19015",
+        "parent_code": "454"
+    },
+    "19018": {
+        "name": "Quảng Đông",
+        "type": "xa",
+        "slug": "quang-dong",
+        "name_with_type": "Xã Quảng Đông",
+        "path": "Quảng Đông, Quảng Trạch, Quảng Bình",
+        "path_with_type": "Xã Quảng Đông, Huyện Quảng Trạch, Tỉnh Quảng Bình",
+        "code": "19018",
+        "parent_code": "454"
+    },
+    "19021": {
+        "name": "Quảng Phú",
+        "type": "xa",
+        "slug": "quang-phu",
+        "name_with_type": "Xã Quảng Phú",
+        "path": "Quảng Phú, Quảng Trạch, Quảng Bình",
+        "path_with_type": "Xã Quảng Phú, Huyện Quảng Trạch, Tỉnh Quảng Bình",
+        "code": "19021",
+        "parent_code": "454"
+    },
+    "19024": {
+        "name": "Quảng Châu",
+        "type": "xa",
+        "slug": "quang-chau",
+        "name_with_type": "Xã Quảng Châu",
+        "path": "Quảng Châu, Quảng Trạch, Quảng Bình",
+        "path_with_type": "Xã Quảng Châu, Huyện Quảng Trạch, Tỉnh Quảng Bình",
+        "code": "19024",
+        "parent_code": "454"
+    },
+    "19027": {
+        "name": "Quảng Thạch",
+        "type": "xa",
+        "slug": "quang-thach",
+        "name_with_type": "Xã Quảng Thạch",
+        "path": "Quảng Thạch, Quảng Trạch, Quảng Bình",
+        "path_with_type": "Xã Quảng Thạch, Huyện Quảng Trạch, Tỉnh Quảng Bình",
+        "code": "19027",
+        "parent_code": "454"
+    },
+    "19030": {
+        "name": "Quảng Lưu",
+        "type": "xa",
+        "slug": "quang-luu",
+        "name_with_type": "Xã Quảng Lưu",
+        "path": "Quảng Lưu, Quảng Trạch, Quảng Bình",
+        "path_with_type": "Xã Quảng Lưu, Huyện Quảng Trạch, Tỉnh Quảng Bình",
+        "code": "19030",
+        "parent_code": "454"
+    },
+    "19033": {
+        "name": "Quảng Tùng",
+        "type": "xa",
+        "slug": "quang-tung",
+        "name_with_type": "Xã Quảng Tùng",
+        "path": "Quảng Tùng, Quảng Trạch, Quảng Bình",
+        "path_with_type": "Xã Quảng Tùng, Huyện Quảng Trạch, Tỉnh Quảng Bình",
+        "code": "19033",
+        "parent_code": "454"
+    },
+    "19036": {
+        "name": "Cảnh Dương",
+        "type": "xa",
+        "slug": "canh-duong",
+        "name_with_type": "Xã Cảnh Dương",
+        "path": "Cảnh Dương, Quảng Trạch, Quảng Bình",
+        "path_with_type": "Xã Cảnh Dương, Huyện Quảng Trạch, Tỉnh Quảng Bình",
+        "code": "19036",
+        "parent_code": "454"
+    },
+    "19039": {
+        "name": "Quảng Tiến",
+        "type": "xa",
+        "slug": "quang-tien",
+        "name_with_type": "Xã Quảng Tiến",
+        "path": "Quảng Tiến, Quảng Trạch, Quảng Bình",
+        "path_with_type": "Xã Quảng Tiến, Huyện Quảng Trạch, Tỉnh Quảng Bình",
+        "code": "19039",
+        "parent_code": "454"
+    },
+    "19042": {
+        "name": "Quảng Hưng",
+        "type": "xa",
+        "slug": "quang-hung",
+        "name_with_type": "Xã Quảng Hưng",
+        "path": "Quảng Hưng, Quảng Trạch, Quảng Bình",
+        "path_with_type": "Xã Quảng Hưng, Huyện Quảng Trạch, Tỉnh Quảng Bình",
+        "code": "19042",
+        "parent_code": "454"
+    },
+    "19045": {
+        "name": "Quảng Xuân",
+        "type": "xa",
+        "slug": "quang-xuan",
+        "name_with_type": "Xã Quảng Xuân",
+        "path": "Quảng Xuân, Quảng Trạch, Quảng Bình",
+        "path_with_type": "Xã Quảng Xuân, Huyện Quảng Trạch, Tỉnh Quảng Bình",
+        "code": "19045",
+        "parent_code": "454"
+    },
+    "19048": {
+        "name": "Cảnh Hóa",
+        "type": "xa",
+        "slug": "canh-hoa",
+        "name_with_type": "Xã Cảnh Hóa",
+        "path": "Cảnh Hóa, Quảng Trạch, Quảng Bình",
+        "path_with_type": "Xã Cảnh Hóa, Huyện Quảng Trạch, Tỉnh Quảng Bình",
+        "code": "19048",
+        "parent_code": "454"
+    },
+    "19051": {
+        "name": "Quảng Liên",
+        "type": "xa",
+        "slug": "quang-lien",
+        "name_with_type": "Xã Quảng Liên",
+        "path": "Quảng Liên, Quảng Trạch, Quảng Bình",
+        "path_with_type": "Xã Quảng Liên, Huyện Quảng Trạch, Tỉnh Quảng Bình",
+        "code": "19051",
+        "parent_code": "454"
+    },
+    "19054": {
+        "name": "Quảng Trường",
+        "type": "xa",
+        "slug": "quang-truong",
+        "name_with_type": "Xã Quảng Trường",
+        "path": "Quảng Trường, Quảng Trạch, Quảng Bình",
+        "path_with_type": "Xã Quảng Trường, Huyện Quảng Trạch, Tỉnh Quảng Bình",
+        "code": "19054",
+        "parent_code": "454"
+    },
+    "19057": {
+        "name": "Quảng Phương",
+        "type": "xa",
+        "slug": "quang-phuong",
+        "name_with_type": "Xã Quảng Phương",
+        "path": "Quảng Phương, Quảng Trạch, Quảng Bình",
+        "path_with_type": "Xã Quảng Phương, Huyện Quảng Trạch, Tỉnh Quảng Bình",
+        "code": "19057",
+        "parent_code": "454"
+    },
+    "19063": {
+        "name": "Phù Hóa",
+        "type": "xa",
+        "slug": "phu-hoa",
+        "name_with_type": "Xã Phù Hóa",
+        "path": "Phù Hóa, Quảng Trạch, Quảng Bình",
+        "path_with_type": "Xã Phù Hóa, Huyện Quảng Trạch, Tỉnh Quảng Bình",
+        "code": "19063",
+        "parent_code": "454"
+    },
+    "19072": {
+        "name": "Quảng Thanh",
+        "type": "xa",
+        "slug": "quang-thanh",
+        "name_with_type": "Xã Quảng Thanh",
+        "path": "Quảng Thanh, Quảng Trạch, Quảng Bình",
+        "path_with_type": "Xã Quảng Thanh, Huyện Quảng Trạch, Tỉnh Quảng Bình",
+        "code": "19072",
+        "parent_code": "454"
+    }
+}

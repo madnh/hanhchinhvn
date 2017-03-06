@@ -1,0 +1,232 @@
+{
+    "01153": {
+        "name": "Việt Quang",
+        "type": "thi-tran",
+        "slug": "viet-quang",
+        "name_with_type": "Thị trấn Việt Quang",
+        "path": "Việt Quang, Bắc Quang, Hà Giang",
+        "path_with_type": "Thị trấn Việt Quang, Huyện Bắc Quang, Tỉnh Hà Giang",
+        "code": "01153",
+        "parent_code": "034"
+    },
+    "01156": {
+        "name": "Vĩnh Tuy",
+        "type": "thi-tran",
+        "slug": "vinh-tuy",
+        "name_with_type": "Thị trấn Vĩnh Tuy",
+        "path": "Vĩnh Tuy, Bắc Quang, Hà Giang",
+        "path_with_type": "Thị trấn Vĩnh Tuy, Huyện Bắc Quang, Tỉnh Hà Giang",
+        "code": "01156",
+        "parent_code": "034"
+    },
+    "01159": {
+        "name": "Tân Lập",
+        "type": "xa",
+        "slug": "tan-lap",
+        "name_with_type": "Xã Tân Lập",
+        "path": "Tân Lập, Bắc Quang, Hà Giang",
+        "path_with_type": "Xã Tân Lập, Huyện Bắc Quang, Tỉnh Hà Giang",
+        "code": "01159",
+        "parent_code": "034"
+    },
+    "01162": {
+        "name": "Tân Thành",
+        "type": "xa",
+        "slug": "tan-thanh",
+        "name_with_type": "Xã Tân Thành",
+        "path": "Tân Thành, Bắc Quang, Hà Giang",
+        "path_with_type": "Xã Tân Thành, Huyện Bắc Quang, Tỉnh Hà Giang",
+        "code": "01162",
+        "parent_code": "034"
+    },
+    "01165": {
+        "name": "Đồng Tiến",
+        "type": "xa",
+        "slug": "dong-tien",
+        "name_with_type": "Xã Đồng Tiến",
+        "path": "Đồng Tiến, Bắc Quang, Hà Giang",
+        "path_with_type": "Xã Đồng Tiến, Huyện Bắc Quang, Tỉnh Hà Giang",
+        "code": "01165",
+        "parent_code": "034"
+    },
+    "01168": {
+        "name": "Đồng Tâm",
+        "type": "xa",
+        "slug": "dong-tam",
+        "name_with_type": "Xã Đồng Tâm",
+        "path": "Đồng Tâm, Bắc Quang, Hà Giang",
+        "path_with_type": "Xã Đồng Tâm, Huyện Bắc Quang, Tỉnh Hà Giang",
+        "code": "01168",
+        "parent_code": "034"
+    },
+    "01171": {
+        "name": "Tân Quang",
+        "type": "xa",
+        "slug": "tan-quang",
+        "name_with_type": "Xã Tân Quang",
+        "path": "Tân Quang, Bắc Quang, Hà Giang",
+        "path_with_type": "Xã Tân Quang, Huyện Bắc Quang, Tỉnh Hà Giang",
+        "code": "01171",
+        "parent_code": "034"
+    },
+    "01174": {
+        "name": "Thượng Bình",
+        "type": "xa",
+        "slug": "thuong-binh",
+        "name_with_type": "Xã Thượng Bình",
+        "path": "Thượng Bình, Bắc Quang, Hà Giang",
+        "path_with_type": "Xã Thượng Bình, Huyện Bắc Quang, Tỉnh Hà Giang",
+        "code": "01174",
+        "parent_code": "034"
+    },
+    "01177": {
+        "name": "Hữu Sản",
+        "type": "xa",
+        "slug": "huu-san",
+        "name_with_type": "Xã Hữu Sản",
+        "path": "Hữu Sản, Bắc Quang, Hà Giang",
+        "path_with_type": "Xã Hữu Sản, Huyện Bắc Quang, Tỉnh Hà Giang",
+        "code": "01177",
+        "parent_code": "034"
+    },
+    "01180": {
+        "name": "Kim Ngọc",
+        "type": "xa",
+        "slug": "kim-ngoc",
+        "name_with_type": "Xã Kim Ngọc",
+        "path": "Kim Ngọc, Bắc Quang, Hà Giang",
+        "path_with_type": "Xã Kim Ngọc, Huyện Bắc Quang, Tỉnh Hà Giang",
+        "code": "01180",
+        "parent_code": "034"
+    },
+    "01183": {
+        "name": "Việt Vinh",
+        "type": "xa",
+        "slug": "viet-vinh",
+        "name_with_type": "Xã Việt Vinh",
+        "path": "Việt Vinh, Bắc Quang, Hà Giang",
+        "path_with_type": "Xã Việt Vinh, Huyện Bắc Quang, Tỉnh Hà Giang",
+        "code": "01183",
+        "parent_code": "034"
+    },
+    "01186": {
+        "name": "Bằng Hành",
+        "type": "xa",
+        "slug": "bang-hanh",
+        "name_with_type": "Xã Bằng Hành",
+        "path": "Bằng Hành, Bắc Quang, Hà Giang",
+        "path_with_type": "Xã Bằng Hành, Huyện Bắc Quang, Tỉnh Hà Giang",
+        "code": "01186",
+        "parent_code": "034"
+    },
+    "01189": {
+        "name": "Quang Minh",
+        "type": "xa",
+        "slug": "quang-minh",
+        "name_with_type": "Xã Quang Minh",
+        "path": "Quang Minh, Bắc Quang, Hà Giang",
+        "path_with_type": "Xã Quang Minh, Huyện Bắc Quang, Tỉnh Hà Giang",
+        "code": "01189",
+        "parent_code": "034"
+    },
+    "01192": {
+        "name": "Liên Hiệp",
+        "type": "xa",
+        "slug": "lien-hiep",
+        "name_with_type": "Xã Liên Hiệp",
+        "path": "Liên Hiệp, Bắc Quang, Hà Giang",
+        "path_with_type": "Xã Liên Hiệp, Huyện Bắc Quang, Tỉnh Hà Giang",
+        "code": "01192",
+        "parent_code": "034"
+    },
+    "01195": {
+        "name": "Vô Điếm",
+        "type": "xa",
+        "slug": "vo-diem",
+        "name_with_type": "Xã Vô Điếm",
+        "path": "Vô Điếm, Bắc Quang, Hà Giang",
+        "path_with_type": "Xã Vô Điếm, Huyện Bắc Quang, Tỉnh Hà Giang",
+        "code": "01195",
+        "parent_code": "034"
+    },
+    "01198": {
+        "name": "Việt Hồng",
+        "type": "xa",
+        "slug": "viet-hong",
+        "name_with_type": "Xã Việt Hồng",
+        "path": "Việt Hồng, Bắc Quang, Hà Giang",
+        "path_with_type": "Xã Việt Hồng, Huyện Bắc Quang, Tỉnh Hà Giang",
+        "code": "01198",
+        "parent_code": "034"
+    },
+    "01201": {
+        "name": "Hùng An",
+        "type": "xa",
+        "slug": "hung-an",
+        "name_with_type": "Xã Hùng An",
+        "path": "Hùng An, Bắc Quang, Hà Giang",
+        "path_with_type": "Xã Hùng An, Huyện Bắc Quang, Tỉnh Hà Giang",
+        "code": "01201",
+        "parent_code": "034"
+    },
+    "01204": {
+        "name": "Đức Xuân",
+        "type": "xa",
+        "slug": "duc-xuan",
+        "name_with_type": "Xã Đức Xuân",
+        "path": "Đức Xuân, Bắc Quang, Hà Giang",
+        "path_with_type": "Xã Đức Xuân, Huyện Bắc Quang, Tỉnh Hà Giang",
+        "code": "01204",
+        "parent_code": "034"
+    },
+    "01207": {
+        "name": "Tiên Kiều",
+        "type": "xa",
+        "slug": "tien-kieu",
+        "name_with_type": "Xã Tiên Kiều",
+        "path": "Tiên Kiều, Bắc Quang, Hà Giang",
+        "path_with_type": "Xã Tiên Kiều, Huyện Bắc Quang, Tỉnh Hà Giang",
+        "code": "01207",
+        "parent_code": "034"
+    },
+    "01210": {
+        "name": "Vĩnh Hảo",
+        "type": "xa",
+        "slug": "vinh-hao",
+        "name_with_type": "Xã Vĩnh Hảo",
+        "path": "Vĩnh Hảo, Bắc Quang, Hà Giang",
+        "path_with_type": "Xã Vĩnh Hảo, Huyện Bắc Quang, Tỉnh Hà Giang",
+        "code": "01210",
+        "parent_code": "034"
+    },
+    "01213": {
+        "name": "Vĩnh Phúc",
+        "type": "xa",
+        "slug": "vinh-phuc",
+        "name_with_type": "Xã Vĩnh Phúc",
+        "path": "Vĩnh Phúc, Bắc Quang, Hà Giang",
+        "path_with_type": "Xã Vĩnh Phúc, Huyện Bắc Quang, Tỉnh Hà Giang",
+        "code": "01213",
+        "parent_code": "034"
+    },
+    "01216": {
+        "name": "Đồng Yên",
+        "type": "xa",
+        "slug": "dong-yen",
+        "name_with_type": "Xã Đồng Yên",
+        "path": "Đồng Yên, Bắc Quang, Hà Giang",
+        "path_with_type": "Xã Đồng Yên, Huyện Bắc Quang, Tỉnh Hà Giang",
+        "code": "01216",
+        "parent_code": "034"
+    },
+    "01219": {
+        "name": "Đông Thành",
+        "type": "xa",
+        "slug": "dong-thanh",
+        "name_with_type": "Xã Đông Thành",
+        "path": "Đông Thành, Bắc Quang, Hà Giang",
+        "path_with_type": "Xã Đông Thành, Huyện Bắc Quang, Tỉnh Hà Giang",
+        "code": "01219",
+        "parent_code": "034"
+    }
+}

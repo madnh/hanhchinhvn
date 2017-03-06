@@ -1,0 +1,272 @@
+{
+    "04375": {
+        "name": "Mậu A",
+        "type": "thi-tran",
+        "slug": "mau-a",
+        "name_with_type": "Thị trấn Mậu A",
+        "path": "Mậu A, Văn Yên, Yên Bái",
+        "path_with_type": "Thị trấn Mậu A, Huyện Văn Yên, Tỉnh Yên Bái",
+        "code": "04375",
+        "parent_code": "136"
+    },
+    "04378": {
+        "name": "Lang Thíp",
+        "type": "xa",
+        "slug": "lang-thip",
+        "name_with_type": "Xã Lang Thíp",
+        "path": "Lang Thíp, Văn Yên, Yên Bái",
+        "path_with_type": "Xã Lang Thíp, Huyện Văn Yên, Tỉnh Yên Bái",
+        "code": "04378",
+        "parent_code": "136"
+    },
+    "04381": {
+        "name": "Lâm Giang",
+        "type": "xa",
+        "slug": "lam-giang",
+        "name_with_type": "Xã Lâm Giang",
+        "path": "Lâm Giang, Văn Yên, Yên Bái",
+        "path_with_type": "Xã Lâm Giang, Huyện Văn Yên, Tỉnh Yên Bái",
+        "code": "04381",
+        "parent_code": "136"
+    },
+    "04384": {
+        "name": "Châu Quế Thượng",
+        "type": "xa",
+        "slug": "chau-que-thuong",
+        "name_with_type": "Xã Châu Quế Thượng",
+        "path": "Châu Quế Thượng, Văn Yên, Yên Bái",
+        "path_with_type": "Xã Châu Quế Thượng, Huyện Văn Yên, Tỉnh Yên Bái",
+        "code": "04384",
+        "parent_code": "136"
+    },
+    "04387": {
+        "name": "Châu Quế Hạ",
+        "type": "xa",
+        "slug": "chau-que-ha",
+        "name_with_type": "Xã Châu Quế Hạ",
+        "path": "Châu Quế Hạ, Văn Yên, Yên Bái",
+        "path_with_type": "Xã Châu Quế Hạ, Huyện Văn Yên, Tỉnh Yên Bái",
+        "code": "04387",
+        "parent_code": "136"
+    },
+    "04390": {
+        "name": "An Bình",
+        "type": "xa",
+        "slug": "an-binh",
+        "name_with_type": "Xã An Bình",
+        "path": "An Bình, Văn Yên, Yên Bái",
+        "path_with_type": "Xã An Bình, Huyện Văn Yên, Tỉnh Yên Bái",
+        "code": "04390",
+        "parent_code": "136"
+    },
+    "04393": {
+        "name": "Quang Minh",
+        "type": "xa",
+        "slug": "quang-minh",
+        "name_with_type": "Xã Quang Minh",
+        "path": "Quang Minh, Văn Yên, Yên Bái",
+        "path_with_type": "Xã Quang Minh, Huyện Văn Yên, Tỉnh Yên Bái",
+        "code": "04393",
+        "parent_code": "136"
+    },
+    "04396": {
+        "name": "Đông An",
+        "type": "xa",
+        "slug": "dong-an",
+        "name_with_type": "Xã Đông An",
+        "path": "Đông An, Văn Yên, Yên Bái",
+        "path_with_type": "Xã Đông An, Huyện Văn Yên, Tỉnh Yên Bái",
+        "code": "04396",
+        "parent_code": "136"
+    },
+    "04399": {
+        "name": "Đông Cuông",
+        "type": "xa",
+        "slug": "dong-cuong",
+        "name_with_type": "Xã Đông Cuông",
+        "path": "Đông Cuông, Văn Yên, Yên Bái",
+        "path_with_type": "Xã Đông Cuông, Huyện Văn Yên, Tỉnh Yên Bái",
+        "code": "04399",
+        "parent_code": "136"
+    },
+    "04402": {
+        "name": "Phong Dụ Hạ",
+        "type": "xa",
+        "slug": "phong-du-ha",
+        "name_with_type": "Xã Phong Dụ Hạ",
+        "path": "Phong Dụ Hạ, Văn Yên, Yên Bái",
+        "path_with_type": "Xã Phong Dụ Hạ, Huyện Văn Yên, Tỉnh Yên Bái",
+        "code": "04402",
+        "parent_code": "136"
+    },
+    "04405": {
+        "name": "Mậu Đông",
+        "type": "xa",
+        "slug": "mau-dong",
+        "name_with_type": "Xã Mậu Đông",
+        "path": "Mậu Đông, Văn Yên, Yên Bái",
+        "path_with_type": "Xã Mậu Đông, Huyện Văn Yên, Tỉnh Yên Bái",
+        "code": "04405",
+        "parent_code": "136"
+    },
+    "04408": {
+        "name": "Ngòi A",
+        "type": "xa",
+        "slug": "ngoi-a",
+        "name_with_type": "Xã Ngòi A",
+        "path": "Ngòi A, Văn Yên, Yên Bái",
+        "path_with_type": "Xã Ngòi A, Huyện Văn Yên, Tỉnh Yên Bái",
+        "code": "04408",
+        "parent_code": "136"
+    },
+    "04411": {
+        "name": "Xuân Tầm",
+        "type": "xa",
+        "slug": "xuan-tam",
+        "name_with_type": "Xã Xuân Tầm",
+        "path": "Xuân Tầm, Văn Yên, Yên Bái",
+        "path_with_type": "Xã Xuân Tầm, Huyện Văn Yên, Tỉnh Yên Bái",
+        "code": "04411",
+        "parent_code": "136"
+    },
+    "04414": {
+        "name": "Tân Hợp",
+        "type": "xa",
+        "slug": "tan-hop",
+        "name_with_type": "Xã Tân Hợp",
+        "path": "Tân Hợp, Văn Yên, Yên Bái",
+        "path_with_type": "Xã Tân Hợp, Huyện Văn Yên, Tỉnh Yên Bái",
+        "code": "04414",
+        "parent_code": "136"
+    },
+    "04417": {
+        "name": "An Thịnh",
+        "type": "xa",
+        "slug": "an-thinh",
+        "name_with_type": "Xã An Thịnh",
+        "path": "An Thịnh, Văn Yên, Yên Bái",
+        "path_with_type": "Xã An Thịnh, Huyện Văn Yên, Tỉnh Yên Bái",
+        "code": "04417",
+        "parent_code": "136"
+    },
+    "04420": {
+        "name": "Yên Thái",
+        "type": "xa",
+        "slug": "yen-thai",
+        "name_with_type": "Xã Yên Thái",
+        "path": "Yên Thái, Văn Yên, Yên Bái",
+        "path_with_type": "Xã Yên Thái, Huyện Văn Yên, Tỉnh Yên Bái",
+        "code": "04420",
+        "parent_code": "136"
+    },
+    "04423": {
+        "name": "Phong Dụ Thượng",
+        "type": "xa",
+        "slug": "phong-du-thuong",
+        "name_with_type": "Xã Phong Dụ Thượng",
+        "path": "Phong Dụ Thượng, Văn Yên, Yên Bái",
+        "path_with_type": "Xã Phong Dụ Thượng, Huyện Văn Yên, Tỉnh Yên Bái",
+        "code": "04423",
+        "parent_code": "136"
+    },
+    "04426": {
+        "name": "Yên Hợp",
+        "type": "xa",
+        "slug": "yen-hop",
+        "name_with_type": "Xã Yên Hợp",
+        "path": "Yên Hợp, Văn Yên, Yên Bái",
+        "path_with_type": "Xã Yên Hợp, Huyện Văn Yên, Tỉnh Yên Bái",
+        "code": "04426",
+        "parent_code": "136"
+    },
+    "04429": {
+        "name": "Đại Sơn",
+        "type": "xa",
+        "slug": "dai-son",
+        "name_with_type": "Xã Đại Sơn",
+        "path": "Đại Sơn, Văn Yên, Yên Bái",
+        "path_with_type": "Xã Đại Sơn, Huyện Văn Yên, Tỉnh Yên Bái",
+        "code": "04429",
+        "parent_code": "136"
+    },
+    "04432": {
+        "name": "Yên Hưng",
+        "type": "xa",
+        "slug": "yen-hung",
+        "name_with_type": "Xã Yên Hưng",
+        "path": "Yên Hưng, Văn Yên, Yên Bái",
+        "path_with_type": "Xã Yên Hưng, Huyện Văn Yên, Tỉnh Yên Bái",
+        "code": "04432",
+        "parent_code": "136"
+    },
+    "04435": {
+        "name": "Đại Phác",
+        "type": "xa",
+        "slug": "dai-phac",
+        "name_with_type": "Xã Đại Phác",
+        "path": "Đại Phác, Văn Yên, Yên Bái",
+        "path_with_type": "Xã Đại Phác, Huyện Văn Yên, Tỉnh Yên Bái",
+        "code": "04435",
+        "parent_code": "136"
+    },
+    "04438": {
+        "name": "Yên Phú",
+        "type": "xa",
+        "slug": "yen-phu",
+        "name_with_type": "Xã Yên Phú",
+        "path": "Yên Phú, Văn Yên, Yên Bái",
+        "path_with_type": "Xã Yên Phú, Huyện Văn Yên, Tỉnh Yên Bái",
+        "code": "04438",
+        "parent_code": "136"
+    },
+    "04441": {
+        "name": "Xuân Ái",
+        "type": "xa",
+        "slug": "xuan-ai",
+        "name_with_type": "Xã Xuân Ái",
+        "path": "Xuân Ái, Văn Yên, Yên Bái",
+        "path_with_type": "Xã Xuân Ái, Huyện Văn Yên, Tỉnh Yên Bái",
+        "code": "04441",
+        "parent_code": "136"
+    },
+    "04444": {
+        "name": "Hoàng Thắng",
+        "type": "xa",
+        "slug": "hoang-thang",
+        "name_with_type": "Xã Hoàng Thắng",
+        "path": "Hoàng Thắng, Văn Yên, Yên Bái",
+        "path_with_type": "Xã Hoàng Thắng, Huyện Văn Yên, Tỉnh Yên Bái",
+        "code": "04444",
+        "parent_code": "136"
+    },
+    "04447": {
+        "name": "Viễn Sơn",
+        "type": "xa",
+        "slug": "vien-son",
+        "name_with_type": "Xã Viễn Sơn",
+        "path": "Viễn Sơn, Văn Yên, Yên Bái",
+        "path_with_type": "Xã Viễn Sơn, Huyện Văn Yên, Tỉnh Yên Bái",
+        "code": "04447",
+        "parent_code": "136"
+    },
+    "04450": {
+        "name": "Mỏ Vàng",
+        "type": "xa",
+        "slug": "mo-vang",
+        "name_with_type": "Xã Mỏ Vàng",
+        "path": "Mỏ Vàng, Văn Yên, Yên Bái",
+        "path_with_type": "Xã Mỏ Vàng, Huyện Văn Yên, Tỉnh Yên Bái",
+        "code": "04450",
+        "parent_code": "136"
+    },
+    "04453": {
+        "name": "Nà Hẩu",
+        "type": "xa",
+        "slug": "na-hau",
+        "name_with_type": "Xã Nà Hẩu",
+        "path": "Nà Hẩu, Văn Yên, Yên Bái",
+        "path_with_type": "Xã Nà Hẩu, Huyện Văn Yên, Tỉnh Yên Bái",
+        "code": "04453",
+        "parent_code": "136"
+    }
+}

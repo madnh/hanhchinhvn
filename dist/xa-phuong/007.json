@@ -1,0 +1,202 @@
+{
+    "00241": {
+        "name": "Nguyễn Du",
+        "type": "phuong",
+        "slug": "nguyen-du",
+        "name_with_type": "Phường Nguyễn Du",
+        "path": "Nguyễn Du, Hai Bà Trưng, Hà Nội",
+        "path_with_type": "Phường Nguyễn Du, Quận Hai Bà Trưng, Thành phố Hà Nội",
+        "code": "00241",
+        "parent_code": "007"
+    },
+    "00244": {
+        "name": "Bạch Đằng",
+        "type": "phuong",
+        "slug": "bach-dang",
+        "name_with_type": "Phường Bạch Đằng",
+        "path": "Bạch Đằng, Hai Bà Trưng, Hà Nội",
+        "path_with_type": "Phường Bạch Đằng, Quận Hai Bà Trưng, Thành phố Hà Nội",
+        "code": "00244",
+        "parent_code": "007"
+    },
+    "00247": {
+        "name": "Phạm Đình Hổ",
+        "type": "phuong",
+        "slug": "pham-dinh-ho",
+        "name_with_type": "Phường Phạm Đình Hổ",
+        "path": "Phạm Đình Hổ, Hai Bà Trưng, Hà Nội",
+        "path_with_type": "Phường Phạm Đình Hổ, Quận Hai Bà Trưng, Thành phố Hà Nội",
+        "code": "00247",
+        "parent_code": "007"
+    },
+    "00250": {
+        "name": "Bùi Thị Xuân",
+        "type": "phuong",
+        "slug": "bui-thi-xuan",
+        "name_with_type": "Phường Bùi Thị Xuân",
+        "path": "Bùi Thị Xuân, Hai Bà Trưng, Hà Nội",
+        "path_with_type": "Phường Bùi Thị Xuân, Quận Hai Bà Trưng, Thành phố Hà Nội",
+        "code": "00250",
+        "parent_code": "007"
+    },
+    "00253": {
+        "name": "Ngô Thì Nhậm",
+        "type": "phuong",
+        "slug": "ngo-thi-nham",
+        "name_with_type": "Phường Ngô Thì Nhậm",
+        "path": "Ngô Thì Nhậm, Hai Bà Trưng, Hà Nội",
+        "path_with_type": "Phường Ngô Thì Nhậm, Quận Hai Bà Trưng, Thành phố Hà Nội",
+        "code": "00253",
+        "parent_code": "007"
+    },
+    "00256": {
+        "name": "Lê Đại Hành",
+        "type": "phuong",
+        "slug": "le-dai-hanh",
+        "name_with_type": "Phường Lê Đại Hành",
+        "path": "Lê Đại Hành, Hai Bà Trưng, Hà Nội",
+        "path_with_type": "Phường Lê Đại Hành, Quận Hai Bà Trưng, Thành phố Hà Nội",
+        "code": "00256",
+        "parent_code": "007"
+    },
+    "00259": {
+        "name": "Đồng Nhân",
+        "type": "phuong",
+        "slug": "dong-nhan",
+        "name_with_type": "Phường Đồng Nhân",
+        "path": "Đồng Nhân, Hai Bà Trưng, Hà Nội",
+        "path_with_type": "Phường Đồng Nhân, Quận Hai Bà Trưng, Thành phố Hà Nội",
+        "code": "00259",
+        "parent_code": "007"
+    },
+    "00262": {
+        "name": "Phố Huế",
+        "type": "phuong",
+        "slug": "pho-hue",
+        "name_with_type": "Phường Phố Huế",
+        "path": "Phố Huế, Hai Bà Trưng, Hà Nội",
+        "path_with_type": "Phường Phố Huế, Quận Hai Bà Trưng, Thành phố Hà Nội",
+        "code": "00262",
+        "parent_code": "007"
+    },
+    "00265": {
+        "name": "Đống Mác",
+        "type": "phuong",
+        "slug": "dong-mac",
+        "name_with_type": "Phường Đống Mác",
+        "path": "Đống Mác, Hai Bà Trưng, Hà Nội",
+        "path_with_type": "Phường Đống Mác, Quận Hai Bà Trưng, Thành phố Hà Nội",
+        "code": "00265",
+        "parent_code": "007"
+    },
+    "00268": {
+        "name": "Thanh Lương",
+        "type": "phuong",
+        "slug": "thanh-luong",
+        "name_with_type": "Phường Thanh Lương",
+        "path": "Thanh Lương, Hai Bà Trưng, Hà Nội",
+        "path_with_type": "Phường Thanh Lương, Quận Hai Bà Trưng, Thành phố Hà Nội",
+        "code": "00268",
+        "parent_code": "007"
+    },
+    "00271": {
+        "name": "Thanh Nhàn",
+        "type": "phuong",
+        "slug": "thanh-nhan",
+        "name_with_type": "Phường Thanh Nhàn",
+        "path": "Thanh Nhàn, Hai Bà Trưng, Hà Nội",
+        "path_with_type": "Phường Thanh Nhàn, Quận Hai Bà Trưng, Thành phố Hà Nội",
+        "code": "00271",
+        "parent_code": "007"
+    },
+    "00274": {
+        "name": "Cầu Dền",
+        "type": "phuong",
+        "slug": "cau-den",
+        "name_with_type": "Phường Cầu Dền",
+        "path": "Cầu Dền, Hai Bà Trưng, Hà Nội",
+        "path_with_type": "Phường Cầu Dền, Quận Hai Bà Trưng, Thành phố Hà Nội",
+        "code": "00274",
+        "parent_code": "007"
+    },
+    "00277": {
+        "name": "Bách Khoa",
+        "type": "phuong",
+        "slug": "bach-khoa",
+        "name_with_type": "Phường Bách Khoa",
+        "path": "Bách Khoa, Hai Bà Trưng, Hà Nội",
+        "path_with_type": "Phường Bách Khoa, Quận Hai Bà Trưng, Thành phố Hà Nội",
+        "code": "00277",
+        "parent_code": "007"
+    },
+    "00280": {
+        "name": "Đồng Tâm",
+        "type": "phuong",
+        "slug": "dong-tam",
+        "name_with_type": "Phường Đồng Tâm",
+        "path": "Đồng Tâm, Hai Bà Trưng, Hà Nội",
+        "path_with_type": "Phường Đồng Tâm, Quận Hai Bà Trưng, Thành phố Hà Nội",
+        "code": "00280",
+        "parent_code": "007"
+    },
+    "00283": {
+        "name": "Vĩnh Tuy",
+        "type": "phuong",
+        "slug": "vinh-tuy",
+        "name_with_type": "Phường Vĩnh Tuy",
+        "path": "Vĩnh Tuy, Hai Bà Trưng, Hà Nội",
+        "path_with_type": "Phường Vĩnh Tuy, Quận Hai Bà Trưng, Thành phố Hà Nội",
+        "code": "00283",
+        "parent_code": "007"
+    },
+    "00286": {
+        "name": "Bạch Mai",
+        "type": "phuong",
+        "slug": "bach-mai",
+        "name_with_type": "Phường Bạch Mai",
+        "path": "Bạch Mai, Hai Bà Trưng, Hà Nội",
+        "path_with_type": "Phường Bạch Mai, Quận Hai Bà Trưng, Thành phố Hà Nội",
+        "code": "00286",
+        "parent_code": "007"
+    },
+    "00289": {
+        "name": "Quỳnh Mai",
+        "type": "phuong",
+        "slug": "quynh-mai",
+        "name_with_type": "Phường Quỳnh Mai",
+        "path": "Quỳnh Mai, Hai Bà Trưng, Hà Nội",
+        "path_with_type": "Phường Quỳnh Mai, Quận Hai Bà Trưng, Thành phố Hà Nội",
+        "code": "00289",
+        "parent_code": "007"
+    },
+    "00292": {
+        "name": "Quỳnh Lôi",
+        "type": "phuong",
+        "slug": "quynh-loi",
+        "name_with_type": "Phường Quỳnh Lôi",
+        "path": "Quỳnh Lôi, Hai Bà Trưng, Hà Nội",
+        "path_with_type": "Phường Quỳnh Lôi, Quận Hai Bà Trưng, Thành phố Hà Nội",
+        "code": "00292",
+        "parent_code": "007"
+    },
+    "00295": {
+        "name": "Minh Khai",
+        "type": "phuong",
+        "slug": "minh-khai",
+        "name_with_type": "Phường Minh Khai",
+        "path": "Minh Khai, Hai Bà Trưng, Hà Nội",
+        "path_with_type": "Phường Minh Khai, Quận Hai Bà Trưng, Thành phố Hà Nội",
+        "code": "00295",
+        "parent_code": "007"
+    },
+    "00298": {
+        "name": "Trương Định",
+        "type": "phuong",
+        "slug": "truong-dinh",
+        "name_with_type": "Phường Trương Định",
+        "path": "Trương Định, Hai Bà Trưng, Hà Nội",
+        "path_with_type": "Phường Trương Định, Quận Hai Bà Trưng, Thành phố Hà Nội",
+        "code": "00298",
+        "parent_code": "007"
+    }
+}

@@ -1,0 +1,212 @@
+{
+    "07681": {
+        "name": "Neo",
+        "type": "thi-tran",
+        "slug": "neo",
+        "name_with_type": "Thị trấn Neo",
+        "path": "Neo, Yên Dũng, Bắc Giang",
+        "path_with_type": "Thị trấn Neo, Huyện Yên Dũng, Tỉnh Bắc Giang",
+        "code": "07681",
+        "parent_code": "221"
+    },
+    "07682": {
+        "name": "Tân Dân",
+        "type": "thi-tran",
+        "slug": "tan-dan",
+        "name_with_type": "Thị trấn Tân Dân",
+        "path": "Tân Dân, Yên Dũng, Bắc Giang",
+        "path_with_type": "Thị trấn Tân Dân, Huyện Yên Dũng, Tỉnh Bắc Giang",
+        "code": "07682",
+        "parent_code": "221"
+    },
+    "07684": {
+        "name": "Lão Hộ",
+        "type": "xa",
+        "slug": "lao-ho",
+        "name_with_type": "Xã Lão Hộ",
+        "path": "Lão Hộ, Yên Dũng, Bắc Giang",
+        "path_with_type": "Xã Lão Hộ, Huyện Yên Dũng, Tỉnh Bắc Giang",
+        "code": "07684",
+        "parent_code": "221"
+    },
+    "07690": {
+        "name": "Hương Gián",
+        "type": "xa",
+        "slug": "huong-gian",
+        "name_with_type": "Xã Hương Gián",
+        "path": "Hương Gián, Yên Dũng, Bắc Giang",
+        "path_with_type": "Xã Hương Gián, Huyện Yên Dũng, Tỉnh Bắc Giang",
+        "code": "07690",
+        "parent_code": "221"
+    },
+    "07693": {
+        "name": "Tân An",
+        "type": "xa",
+        "slug": "tan-an",
+        "name_with_type": "Xã Tân An",
+        "path": "Tân An, Yên Dũng, Bắc Giang",
+        "path_with_type": "Xã Tân An, Huyện Yên Dũng, Tỉnh Bắc Giang",
+        "code": "07693",
+        "parent_code": "221"
+    },
+    "07702": {
+        "name": "Quỳnh Sơn",
+        "type": "xa",
+        "slug": "quynh-son",
+        "name_with_type": "Xã Quỳnh Sơn",
+        "path": "Quỳnh Sơn, Yên Dũng, Bắc Giang",
+        "path_with_type": "Xã Quỳnh Sơn, Huyện Yên Dũng, Tỉnh Bắc Giang",
+        "code": "07702",
+        "parent_code": "221"
+    },
+    "07708": {
+        "name": "Nội Hoàng",
+        "type": "xa",
+        "slug": "noi-hoang",
+        "name_with_type": "Xã Nội Hoàng",
+        "path": "Nội Hoàng, Yên Dũng, Bắc Giang",
+        "path_with_type": "Xã Nội Hoàng, Huyện Yên Dũng, Tỉnh Bắc Giang",
+        "code": "07708",
+        "parent_code": "221"
+    },
+    "07711": {
+        "name": "Tiền Phong",
+        "type": "xa",
+        "slug": "tien-phong",
+        "name_with_type": "Xã Tiền Phong",
+        "path": "Tiền Phong, Yên Dũng, Bắc Giang",
+        "path_with_type": "Xã Tiền Phong, Huyện Yên Dũng, Tỉnh Bắc Giang",
+        "code": "07711",
+        "parent_code": "221"
+    },
+    "07714": {
+        "name": "Xuân Phú",
+        "type": "xa",
+        "slug": "xuan-phu",
+        "name_with_type": "Xã Xuân Phú",
+        "path": "Xuân Phú, Yên Dũng, Bắc Giang",
+        "path_with_type": "Xã Xuân Phú, Huyện Yên Dũng, Tỉnh Bắc Giang",
+        "code": "07714",
+        "parent_code": "221"
+    },
+    "07717": {
+        "name": "Tân Liễu",
+        "type": "xa",
+        "slug": "tan-lieu",
+        "name_with_type": "Xã Tân Liễu",
+        "path": "Tân Liễu, Yên Dũng, Bắc Giang",
+        "path_with_type": "Xã Tân Liễu, Huyện Yên Dũng, Tỉnh Bắc Giang",
+        "code": "07717",
+        "parent_code": "221"
+    },
+    "07720": {
+        "name": "Trí Yên",
+        "type": "xa",
+        "slug": "tri-yen",
+        "name_with_type": "Xã Trí Yên",
+        "path": "Trí Yên, Yên Dũng, Bắc Giang",
+        "path_with_type": "Xã Trí Yên, Huyện Yên Dũng, Tỉnh Bắc Giang",
+        "code": "07720",
+        "parent_code": "221"
+    },
+    "07723": {
+        "name": "Lãng Sơn",
+        "type": "xa",
+        "slug": "lang-son",
+        "name_with_type": "Xã Lãng Sơn",
+        "path": "Lãng Sơn, Yên Dũng, Bắc Giang",
+        "path_with_type": "Xã Lãng Sơn, Huyện Yên Dũng, Tỉnh Bắc Giang",
+        "code": "07723",
+        "parent_code": "221"
+    },
+    "07726": {
+        "name": "Yên Lư",
+        "type": "xa",
+        "slug": "yen-lu",
+        "name_with_type": "Xã Yên Lư",
+        "path": "Yên Lư, Yên Dũng, Bắc Giang",
+        "path_with_type": "Xã Yên Lư, Huyện Yên Dũng, Tỉnh Bắc Giang",
+        "code": "07726",
+        "parent_code": "221"
+    },
+    "07729": {
+        "name": "Tiến Dũng",
+        "type": "xa",
+        "slug": "tien-dung",
+        "name_with_type": "Xã Tiến Dũng",
+        "path": "Tiến Dũng, Yên Dũng, Bắc Giang",
+        "path_with_type": "Xã Tiến Dũng, Huyện Yên Dũng, Tỉnh Bắc Giang",
+        "code": "07729",
+        "parent_code": "221"
+    },
+    "07732": {
+        "name": "Nham Sơn",
+        "type": "xa",
+        "slug": "nham-son",
+        "name_with_type": "Xã Nham Sơn",
+        "path": "Nham Sơn, Yên Dũng, Bắc Giang",
+        "path_with_type": "Xã Nham Sơn, Huyện Yên Dũng, Tỉnh Bắc Giang",
+        "code": "07732",
+        "parent_code": "221"
+    },
+    "07735": {
+        "name": "Đức Giang",
+        "type": "xa",
+        "slug": "duc-giang",
+        "name_with_type": "Xã Đức Giang",
+        "path": "Đức Giang, Yên Dũng, Bắc Giang",
+        "path_with_type": "Xã Đức Giang, Huyện Yên Dũng, Tỉnh Bắc Giang",
+        "code": "07735",
+        "parent_code": "221"
+    },
+    "07738": {
+        "name": "Cảnh Thụy",
+        "type": "xa",
+        "slug": "canh-thuy",
+        "name_with_type": "Xã Cảnh Thụy",
+        "path": "Cảnh Thụy, Yên Dũng, Bắc Giang",
+        "path_with_type": "Xã Cảnh Thụy, Huyện Yên Dũng, Tỉnh Bắc Giang",
+        "code": "07738",
+        "parent_code": "221"
+    },
+    "07741": {
+        "name": "Tư Mại",
+        "type": "xa",
+        "slug": "tu-mai",
+        "name_with_type": "Xã Tư Mại",
+        "path": "Tư Mại, Yên Dũng, Bắc Giang",
+        "path_with_type": "Xã Tư Mại, Huyện Yên Dũng, Tỉnh Bắc Giang",
+        "code": "07741",
+        "parent_code": "221"
+    },
+    "07744": {
+        "name": "Thắng Cương",
+        "type": "xa",
+        "slug": "thang-cuong",
+        "name_with_type": "Xã Thắng Cương",
+        "path": "Thắng Cương, Yên Dũng, Bắc Giang",
+        "path_with_type": "Xã Thắng Cương, Huyện Yên Dũng, Tỉnh Bắc Giang",
+        "code": "07744",
+        "parent_code": "221"
+    },
+    "07747": {
+        "name": "Đồng Việt",
+        "type": "xa",
+        "slug": "dong-viet",
+        "name_with_type": "Xã Đồng Việt",
+        "path": "Đồng Việt, Yên Dũng, Bắc Giang",
+        "path_with_type": "Xã Đồng Việt, Huyện Yên Dũng, Tỉnh Bắc Giang",
+        "code": "07747",
+        "parent_code": "221"
+    },
+    "07750": {
+        "name": "Đồng Phúc",
+        "type": "xa",
+        "slug": "dong-phuc",
+        "name_with_type": "Xã Đồng Phúc",
+        "path": "Đồng Phúc, Yên Dũng, Bắc Giang",
+        "path_with_type": "Xã Đồng Phúc, Huyện Yên Dũng, Tỉnh Bắc Giang",
+        "code": "07750",
+        "parent_code": "221"
+    }
+}

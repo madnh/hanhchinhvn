@@ -1,0 +1,142 @@
+{
+    "03994": {
+        "name": "Suối Bàng",
+        "type": "xa",
+        "slug": "suoi-bang",
+        "name_with_type": "Xã Suối Bàng",
+        "path": "Suối Bàng, Vân Hồ, Sơn La",
+        "path_with_type": "Xã Suối Bàng, Huyện Vân Hồ, Tỉnh Sơn La",
+        "code": "03994",
+        "parent_code": "128"
+    },
+    "04006": {
+        "name": "Song Khủa",
+        "type": "xa",
+        "slug": "song-khua",
+        "name_with_type": "Xã Song Khủa",
+        "path": "Song Khủa, Vân Hồ, Sơn La",
+        "path_with_type": "Xã Song Khủa, Huyện Vân Hồ, Tỉnh Sơn La",
+        "code": "04006",
+        "parent_code": "128"
+    },
+    "04009": {
+        "name": "Liên Hoà",
+        "type": "xa",
+        "slug": "lien-hoa",
+        "name_with_type": "Xã Liên Hoà",
+        "path": "Liên Hoà, Vân Hồ, Sơn La",
+        "path_with_type": "Xã Liên Hoà, Huyện Vân Hồ, Tỉnh Sơn La",
+        "code": "04009",
+        "parent_code": "128"
+    },
+    "04018": {
+        "name": "Tô Múa",
+        "type": "xa",
+        "slug": "to-mua",
+        "name_with_type": "Xã Tô Múa",
+        "path": "Tô Múa, Vân Hồ, Sơn La",
+        "path_with_type": "Xã Tô Múa, Huyện Vân Hồ, Tỉnh Sơn La",
+        "code": "04018",
+        "parent_code": "128"
+    },
+    "04021": {
+        "name": "Mường Tè",
+        "type": "xa",
+        "slug": "muong-te",
+        "name_with_type": "Xã Mường Tè",
+        "path": "Mường Tè, Vân Hồ, Sơn La",
+        "path_with_type": "Xã Mường Tè, Huyện Vân Hồ, Tỉnh Sơn La",
+        "code": "04021",
+        "parent_code": "128"
+    },
+    "04036": {
+        "name": "Chiềng Khoa",
+        "type": "xa",
+        "slug": "chieng-khoa",
+        "name_with_type": "Xã Chiềng Khoa",
+        "path": "Chiềng Khoa, Vân Hồ, Sơn La",
+        "path_with_type": "Xã Chiềng Khoa, Huyện Vân Hồ, Tỉnh Sơn La",
+        "code": "04036",
+        "parent_code": "128"
+    },
+    "04039": {
+        "name": "Mường Men",
+        "type": "xa",
+        "slug": "muong-men",
+        "name_with_type": "Xã Mường Men",
+        "path": "Mường Men, Vân Hồ, Sơn La",
+        "path_with_type": "Xã Mường Men, Huyện Vân Hồ, Tỉnh Sơn La",
+        "code": "04039",
+        "parent_code": "128"
+    },
+    "04042": {
+        "name": "Quang Minh",
+        "type": "xa",
+        "slug": "quang-minh",
+        "name_with_type": "Xã Quang Minh",
+        "path": "Quang Minh, Vân Hồ, Sơn La",
+        "path_with_type": "Xã Quang Minh, Huyện Vân Hồ, Tỉnh Sơn La",
+        "code": "04042",
+        "parent_code": "128"
+    },
+    "04048": {
+        "name": "Vân Hồ",
+        "type": "xa",
+        "slug": "van-ho",
+        "name_with_type": "Xã Vân Hồ",
+        "path": "Vân Hồ, Vân Hồ, Sơn La",
+        "path_with_type": "Xã Vân Hồ, Huyện Vân Hồ, Tỉnh Sơn La",
+        "code": "04048",
+        "parent_code": "128"
+    },
+    "04051": {
+        "name": "Lóng Luông",
+        "type": "xa",
+        "slug": "long-luong",
+        "name_with_type": "Xã Lóng Luông",
+        "path": "Lóng Luông, Vân Hồ, Sơn La",
+        "path_with_type": "Xã Lóng Luông, Huyện Vân Hồ, Tỉnh Sơn La",
+        "code": "04051",
+        "parent_code": "128"
+    },
+    "04054": {
+        "name": "Chiềng Yên",
+        "type": "xa",
+        "slug": "chieng-yen",
+        "name_with_type": "Xã Chiềng Yên",
+        "path": "Chiềng Yên, Vân Hồ, Sơn La",
+        "path_with_type": "Xã Chiềng Yên, Huyện Vân Hồ, Tỉnh Sơn La",
+        "code": "04054",
+        "parent_code": "128"
+    },
+    "04056": {
+        "name": "Chiềng Xuân",
+        "type": "xa",
+        "slug": "chieng-xuan",
+        "name_with_type": "Xã Chiềng Xuân",
+        "path": "Chiềng Xuân, Vân Hồ, Sơn La",
+        "path_with_type": "Xã Chiềng Xuân, Huyện Vân Hồ, Tỉnh Sơn La",
+        "code": "04056",
+        "parent_code": "128"
+    },
+    "04057": {
+        "name": "Xuân Nha",
+        "type": "xa",
+        "slug": "xuan-nha",
+        "name_with_type": "Xã Xuân Nha",
+        "path": "Xuân Nha, Vân Hồ, Sơn La",
+        "path_with_type": "Xã Xuân Nha, Huyện Vân Hồ, Tỉnh Sơn La",
+        "code": "04057",
+        "parent_code": "128"
+    },
+    "04058": {
+        "name": "Tân Xuân",
+        "type": "xa",
+        "slug": "tan-xuan",
+        "name_with_type": "Xã Tân Xuân",
+        "path": "Tân Xuân, Vân Hồ, Sơn La",
+        "path_with_type": "Xã Tân Xuân, Huyện Vân Hồ, Tỉnh Sơn La",
+        "code": "04058",
+        "parent_code": "128"
+    }
+}

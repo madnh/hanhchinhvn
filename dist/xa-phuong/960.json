@@ -1,0 +1,112 @@
+{
+    "31972": {
+        "name": "Gành Hào",
+        "type": "thi-tran",
+        "slug": "ganh-hao",
+        "name_with_type": "Thị trấn Gành Hào",
+        "path": "Gành Hào, Đông Hải, Bạc Liêu",
+        "path_with_type": "Thị trấn Gành Hào, Huyện Đông Hải, Tỉnh Bạc Liêu",
+        "code": "31972",
+        "parent_code": "960"
+    },
+    "31975": {
+        "name": "Long Điền Đông",
+        "type": "xa",
+        "slug": "long-dien-dong",
+        "name_with_type": "Xã Long Điền Đông",
+        "path": "Long Điền Đông, Đông Hải, Bạc Liêu",
+        "path_with_type": "Xã Long Điền Đông, Huyện Đông Hải, Tỉnh Bạc Liêu",
+        "code": "31975",
+        "parent_code": "960"
+    },
+    "31978": {
+        "name": "Long Điền Đông A",
+        "type": "xa",
+        "slug": "long-dien-dong-a",
+        "name_with_type": "Xã Long Điền Đông A",
+        "path": "Long Điền Đông A, Đông Hải, Bạc Liêu",
+        "path_with_type": "Xã Long Điền Đông A, Huyện Đông Hải, Tỉnh Bạc Liêu",
+        "code": "31978",
+        "parent_code": "960"
+    },
+    "31981": {
+        "name": "Long Điền",
+        "type": "xa",
+        "slug": "long-dien",
+        "name_with_type": "Xã Long Điền",
+        "path": "Long Điền, Đông Hải, Bạc Liêu",
+        "path_with_type": "Xã Long Điền, Huyện Đông Hải, Tỉnh Bạc Liêu",
+        "code": "31981",
+        "parent_code": "960"
+    },
+    "31984": {
+        "name": "Long Điền Tây",
+        "type": "xa",
+        "slug": "long-dien-tay",
+        "name_with_type": "Xã Long Điền Tây",
+        "path": "Long Điền Tây, Đông Hải, Bạc Liêu",
+        "path_with_type": "Xã Long Điền Tây, Huyện Đông Hải, Tỉnh Bạc Liêu",
+        "code": "31984",
+        "parent_code": "960"
+    },
+    "31985": {
+        "name": "Điền Hải",
+        "type": "xa",
+        "slug": "dien-hai",
+        "name_with_type": "Xã Điền Hải",
+        "path": "Điền Hải, Đông Hải, Bạc Liêu",
+        "path_with_type": "Xã Điền Hải, Huyện Đông Hải, Tỉnh Bạc Liêu",
+        "code": "31985",
+        "parent_code": "960"
+    },
+    "31987": {
+        "name": "An Trạch",
+        "type": "xa",
+        "slug": "an-trach",
+        "name_with_type": "Xã An Trạch",
+        "path": "An Trạch, Đông Hải, Bạc Liêu",
+        "path_with_type": "Xã An Trạch, Huyện Đông Hải, Tỉnh Bạc Liêu",
+        "code": "31987",
+        "parent_code": "960"
+    },
+    "31988": {
+        "name": "An Trạch A",
+        "type": "xa",
+        "slug": "an-trach-a",
+        "name_with_type": "Xã An Trạch A",
+        "path": "An Trạch A, Đông Hải, Bạc Liêu",
+        "path_with_type": "Xã An Trạch A, Huyện Đông Hải, Tỉnh Bạc Liêu",
+        "code": "31988",
+        "parent_code": "960"
+    },
+    "31990": {
+        "name": "An Phúc",
+        "type": "xa",
+        "slug": "an-phuc",
+        "name_with_type": "Xã An Phúc",
+        "path": "An Phúc, Đông Hải, Bạc Liêu",
+        "path_with_type": "Xã An Phúc, Huyện Đông Hải, Tỉnh Bạc Liêu",
+        "code": "31990",
+        "parent_code": "960"
+    },
+    "31993": {
+        "name": "Định Thành",
+        "type": "xa",
+        "slug": "dinh-thanh",
+        "name_with_type": "Xã Định Thành",
+        "path": "Định Thành, Đông Hải, Bạc Liêu",
+        "path_with_type": "Xã Định Thành, Huyện Đông Hải, Tỉnh Bạc Liêu",
+        "code": "31993",
+        "parent_code": "960"
+    },
+    "31996": {
+        "name": "Định Thành A",
+        "type": "xa",
+        "slug": "dinh-thanh-a",
+        "name_with_type": "Xã Định Thành A",
+        "path": "Định Thành A, Đông Hải, Bạc Liêu",
+        "path_with_type": "Xã Định Thành A, Huyện Đông Hải, Tỉnh Bạc Liêu",
+        "code": "31996",
+        "parent_code": "960"
+    }
+}

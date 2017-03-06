@@ -1,0 +1,152 @@
+{
+    "20854": {
+        "name": "Tiên Kỳ",
+        "type": "thi-tran",
+        "slug": "tien-ky",
+        "name_with_type": "Thị trấn Tiên Kỳ",
+        "path": "Tiên Kỳ, Tiên Phước, Quảng Nam",
+        "path_with_type": "Thị trấn Tiên Kỳ, Huyện Tiên Phước, Tỉnh Quảng Nam",
+        "code": "20854",
+        "parent_code": "514"
+    },
+    "20857": {
+        "name": "Tiên Sơn",
+        "type": "xa",
+        "slug": "tien-son",
+        "name_with_type": "Xã Tiên Sơn",
+        "path": "Tiên Sơn, Tiên Phước, Quảng Nam",
+        "path_with_type": "Xã Tiên Sơn, Huyện Tiên Phước, Tỉnh Quảng Nam",
+        "code": "20857",
+        "parent_code": "514"
+    },
+    "20860": {
+        "name": "Tiên Hà",
+        "type": "xa",
+        "slug": "tien-ha",
+        "name_with_type": "Xã Tiên Hà",
+        "path": "Tiên Hà, Tiên Phước, Quảng Nam",
+        "path_with_type": "Xã Tiên Hà, Huyện Tiên Phước, Tỉnh Quảng Nam",
+        "code": "20860",
+        "parent_code": "514"
+    },
+    "20863": {
+        "name": "Tiên Cẩm",
+        "type": "xa",
+        "slug": "tien-cam",
+        "name_with_type": "Xã Tiên Cẩm",
+        "path": "Tiên Cẩm, Tiên Phước, Quảng Nam",
+        "path_with_type": "Xã Tiên Cẩm, Huyện Tiên Phước, Tỉnh Quảng Nam",
+        "code": "20863",
+        "parent_code": "514"
+    },
+    "20866": {
+        "name": "Tiên Châu",
+        "type": "xa",
+        "slug": "tien-chau",
+        "name_with_type": "Xã Tiên Châu",
+        "path": "Tiên Châu, Tiên Phước, Quảng Nam",
+        "path_with_type": "Xã Tiên Châu, Huyện Tiên Phước, Tỉnh Quảng Nam",
+        "code": "20866",
+        "parent_code": "514"
+    },
+    "20869": {
+        "name": "Tiên Lãnh",
+        "type": "xa",
+        "slug": "tien-lanh",
+        "name_with_type": "Xã Tiên Lãnh",
+        "path": "Tiên Lãnh, Tiên Phước, Quảng Nam",
+        "path_with_type": "Xã Tiên Lãnh, Huyện Tiên Phước, Tỉnh Quảng Nam",
+        "code": "20869",
+        "parent_code": "514"
+    },
+    "20872": {
+        "name": "Tiên Ngọc",
+        "type": "xa",
+        "slug": "tien-ngoc",
+        "name_with_type": "Xã Tiên Ngọc",
+        "path": "Tiên Ngọc, Tiên Phước, Quảng Nam",
+        "path_with_type": "Xã Tiên Ngọc, Huyện Tiên Phước, Tỉnh Quảng Nam",
+        "code": "20872",
+        "parent_code": "514"
+    },
+    "20875": {
+        "name": "Tiên Hiệp",
+        "type": "xa",
+        "slug": "tien-hiep",
+        "name_with_type": "Xã Tiên Hiệp",
+        "path": "Tiên Hiệp, Tiên Phước, Quảng Nam",
+        "path_with_type": "Xã Tiên Hiệp, Huyện Tiên Phước, Tỉnh Quảng Nam",
+        "code": "20875",
+        "parent_code": "514"
+    },
+    "20878": {
+        "name": "Tiên Cảnh",
+        "type": "xa",
+        "slug": "tien-canh",
+        "name_with_type": "Xã Tiên Cảnh",
+        "path": "Tiên Cảnh, Tiên Phước, Quảng Nam",
+        "path_with_type": "Xã Tiên Cảnh, Huyện Tiên Phước, Tỉnh Quảng Nam",
+        "code": "20878",
+        "parent_code": "514"
+    },
+    "20881": {
+        "name": "Tiên Mỹ",
+        "type": "xa",
+        "slug": "tien-my",
+        "name_with_type": "Xã Tiên Mỹ",
+        "path": "Tiên Mỹ, Tiên Phước, Quảng Nam",
+        "path_with_type": "Xã Tiên Mỹ, Huyện Tiên Phước, Tỉnh Quảng Nam",
+        "code": "20881",
+        "parent_code": "514"
+    },
+    "20884": {
+        "name": "Tiên Phong",
+        "type": "xa",
+        "slug": "tien-phong",
+        "name_with_type": "Xã Tiên Phong",
+        "path": "Tiên Phong, Tiên Phước, Quảng Nam",
+        "path_with_type": "Xã Tiên Phong, Huyện Tiên Phước, Tỉnh Quảng Nam",
+        "code": "20884",
+        "parent_code": "514"
+    },
+    "20887": {
+        "name": "Tiên Thọ",
+        "type": "xa",
+        "slug": "tien-tho",
+        "name_with_type": "Xã Tiên Thọ",
+        "path": "Tiên Thọ, Tiên Phước, Quảng Nam",
+        "path_with_type": "Xã Tiên Thọ, Huyện Tiên Phước, Tỉnh Quảng Nam",
+        "code": "20887",
+        "parent_code": "514"
+    },
+    "20890": {
+        "name": "Tiên An",
+        "type": "xa",
+        "slug": "tien-an",
+        "name_with_type": "Xã Tiên An",
+        "path": "Tiên An, Tiên Phước, Quảng Nam",
+        "path_with_type": "Xã Tiên An, Huyện Tiên Phước, Tỉnh Quảng Nam",
+        "code": "20890",
+        "parent_code": "514"
+    },
+    "20893": {
+        "name": "Tiên Lộc",
+        "type": "xa",
+        "slug": "tien-loc",
+        "name_with_type": "Xã Tiên Lộc",
+        "path": "Tiên Lộc, Tiên Phước, Quảng Nam",
+        "path_with_type": "Xã Tiên Lộc, Huyện Tiên Phước, Tỉnh Quảng Nam",
+        "code": "20893",
+        "parent_code": "514"
+    },
+    "20896": {
+        "name": "Tiên Lập",
+        "type": "xa",
+        "slug": "tien-lap",
+        "name_with_type": "Xã Tiên Lập",
+        "path": "Tiên Lập, Tiên Phước, Quảng Nam",
+        "path_with_type": "Xã Tiên Lập, Huyện Tiên Phước, Tỉnh Quảng Nam",
+        "code": "20896",
+        "parent_code": "514"
+    }
+}

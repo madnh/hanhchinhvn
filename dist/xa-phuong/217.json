@@ -1,0 +1,232 @@
+{
+    "07369": {
+        "name": "Kép",
+        "type": "thi-tran",
+        "slug": "kep",
+        "name_with_type": "Thị trấn Kép",
+        "path": "Kép, Lạng Giang, Bắc Giang",
+        "path_with_type": "Thị trấn Kép, Huyện Lạng Giang, Tỉnh Bắc Giang",
+        "code": "07369",
+        "parent_code": "217"
+    },
+    "07375": {
+        "name": "Vôi",
+        "type": "thi-tran",
+        "slug": "voi",
+        "name_with_type": "Thị trấn Vôi",
+        "path": "Vôi, Lạng Giang, Bắc Giang",
+        "path_with_type": "Thị trấn Vôi, Huyện Lạng Giang, Tỉnh Bắc Giang",
+        "code": "07375",
+        "parent_code": "217"
+    },
+    "07378": {
+        "name": "Nghĩa Hòa",
+        "type": "xa",
+        "slug": "nghia-hoa",
+        "name_with_type": "Xã Nghĩa Hòa",
+        "path": "Nghĩa Hòa, Lạng Giang, Bắc Giang",
+        "path_with_type": "Xã Nghĩa Hòa, Huyện Lạng Giang, Tỉnh Bắc Giang",
+        "code": "07378",
+        "parent_code": "217"
+    },
+    "07381": {
+        "name": "Nghĩa Hưng",
+        "type": "xa",
+        "slug": "nghia-hung",
+        "name_with_type": "Xã Nghĩa Hưng",
+        "path": "Nghĩa Hưng, Lạng Giang, Bắc Giang",
+        "path_with_type": "Xã Nghĩa Hưng, Huyện Lạng Giang, Tỉnh Bắc Giang",
+        "code": "07381",
+        "parent_code": "217"
+    },
+    "07384": {
+        "name": "Quang Thịnh",
+        "type": "xa",
+        "slug": "quang-thinh",
+        "name_with_type": "Xã Quang Thịnh",
+        "path": "Quang Thịnh, Lạng Giang, Bắc Giang",
+        "path_with_type": "Xã Quang Thịnh, Huyện Lạng Giang, Tỉnh Bắc Giang",
+        "code": "07384",
+        "parent_code": "217"
+    },
+    "07387": {
+        "name": "Hương Sơn",
+        "type": "xa",
+        "slug": "huong-son",
+        "name_with_type": "Xã Hương Sơn",
+        "path": "Hương Sơn, Lạng Giang, Bắc Giang",
+        "path_with_type": "Xã Hương Sơn, Huyện Lạng Giang, Tỉnh Bắc Giang",
+        "code": "07387",
+        "parent_code": "217"
+    },
+    "07390": {
+        "name": "Đào Mỹ",
+        "type": "xa",
+        "slug": "dao-my",
+        "name_with_type": "Xã Đào Mỹ",
+        "path": "Đào Mỹ, Lạng Giang, Bắc Giang",
+        "path_with_type": "Xã Đào Mỹ, Huyện Lạng Giang, Tỉnh Bắc Giang",
+        "code": "07390",
+        "parent_code": "217"
+    },
+    "07393": {
+        "name": "Tiên Lục",
+        "type": "xa",
+        "slug": "tien-luc",
+        "name_with_type": "Xã Tiên Lục",
+        "path": "Tiên Lục, Lạng Giang, Bắc Giang",
+        "path_with_type": "Xã Tiên Lục, Huyện Lạng Giang, Tỉnh Bắc Giang",
+        "code": "07393",
+        "parent_code": "217"
+    },
+    "07396": {
+        "name": "An Hà",
+        "type": "xa",
+        "slug": "an-ha",
+        "name_with_type": "Xã An Hà",
+        "path": "An Hà, Lạng Giang, Bắc Giang",
+        "path_with_type": "Xã An Hà, Huyện Lạng Giang, Tỉnh Bắc Giang",
+        "code": "07396",
+        "parent_code": "217"
+    },
+    "07399": {
+        "name": "Tân Thịnh",
+        "type": "xa",
+        "slug": "tan-thinh",
+        "name_with_type": "Xã Tân Thịnh",
+        "path": "Tân Thịnh, Lạng Giang, Bắc Giang",
+        "path_with_type": "Xã Tân Thịnh, Huyện Lạng Giang, Tỉnh Bắc Giang",
+        "code": "07399",
+        "parent_code": "217"
+    },
+    "07402": {
+        "name": "Mỹ Hà",
+        "type": "xa",
+        "slug": "my-ha",
+        "name_with_type": "Xã Mỹ Hà",
+        "path": "Mỹ Hà, Lạng Giang, Bắc Giang",
+        "path_with_type": "Xã Mỹ Hà, Huyện Lạng Giang, Tỉnh Bắc Giang",
+        "code": "07402",
+        "parent_code": "217"
+    },
+    "07405": {
+        "name": "Hương Lạc",
+        "type": "xa",
+        "slug": "huong-lac",
+        "name_with_type": "Xã Hương Lạc",
+        "path": "Hương Lạc, Lạng Giang, Bắc Giang",
+        "path_with_type": "Xã Hương Lạc, Huyện Lạng Giang, Tỉnh Bắc Giang",
+        "code": "07405",
+        "parent_code": "217"
+    },
+    "07408": {
+        "name": "Dương Đức",
+        "type": "xa",
+        "slug": "duong-duc",
+        "name_with_type": "Xã Dương Đức",
+        "path": "Dương Đức, Lạng Giang, Bắc Giang",
+        "path_with_type": "Xã Dương Đức, Huyện Lạng Giang, Tỉnh Bắc Giang",
+        "code": "07408",
+        "parent_code": "217"
+    },
+    "07411": {
+        "name": "Tân Thanh",
+        "type": "xa",
+        "slug": "tan-thanh",
+        "name_with_type": "Xã Tân Thanh",
+        "path": "Tân Thanh, Lạng Giang, Bắc Giang",
+        "path_with_type": "Xã Tân Thanh, Huyện Lạng Giang, Tỉnh Bắc Giang",
+        "code": "07411",
+        "parent_code": "217"
+    },
+    "07414": {
+        "name": "Yên Mỹ",
+        "type": "xa",
+        "slug": "yen-my",
+        "name_with_type": "Xã Yên Mỹ",
+        "path": "Yên Mỹ, Lạng Giang, Bắc Giang",
+        "path_with_type": "Xã Yên Mỹ, Huyện Lạng Giang, Tỉnh Bắc Giang",
+        "code": "07414",
+        "parent_code": "217"
+    },
+    "07417": {
+        "name": "Tân Hưng",
+        "type": "xa",
+        "slug": "tan-hung",
+        "name_with_type": "Xã Tân Hưng",
+        "path": "Tân Hưng, Lạng Giang, Bắc Giang",
+        "path_with_type": "Xã Tân Hưng, Huyện Lạng Giang, Tỉnh Bắc Giang",
+        "code": "07417",
+        "parent_code": "217"
+    },
+    "07420": {
+        "name": "Mỹ Thái",
+        "type": "xa",
+        "slug": "my-thai",
+        "name_with_type": "Xã Mỹ Thái",
+        "path": "Mỹ Thái, Lạng Giang, Bắc Giang",
+        "path_with_type": "Xã Mỹ Thái, Huyện Lạng Giang, Tỉnh Bắc Giang",
+        "code": "07420",
+        "parent_code": "217"
+    },
+    "07423": {
+        "name": "Phi Mô",
+        "type": "xa",
+        "slug": "phi-mo",
+        "name_with_type": "Xã Phi Mô",
+        "path": "Phi Mô, Lạng Giang, Bắc Giang",
+        "path_with_type": "Xã Phi Mô, Huyện Lạng Giang, Tỉnh Bắc Giang",
+        "code": "07423",
+        "parent_code": "217"
+    },
+    "07426": {
+        "name": "Xương Lâm",
+        "type": "xa",
+        "slug": "xuong-lam",
+        "name_with_type": "Xã Xương Lâm",
+        "path": "Xương Lâm, Lạng Giang, Bắc Giang",
+        "path_with_type": "Xã Xương Lâm, Huyện Lạng Giang, Tỉnh Bắc Giang",
+        "code": "07426",
+        "parent_code": "217"
+    },
+    "07429": {
+        "name": "Xuân Hương",
+        "type": "xa",
+        "slug": "xuan-huong",
+        "name_with_type": "Xã Xuân Hương",
+        "path": "Xuân Hương, Lạng Giang, Bắc Giang",
+        "path_with_type": "Xã Xuân Hương, Huyện Lạng Giang, Tỉnh Bắc Giang",
+        "code": "07429",
+        "parent_code": "217"
+    },
+    "07432": {
+        "name": "Tân Dĩnh",
+        "type": "xa",
+        "slug": "tan-dinh",
+        "name_with_type": "Xã Tân Dĩnh",
+        "path": "Tân Dĩnh, Lạng Giang, Bắc Giang",
+        "path_with_type": "Xã Tân Dĩnh, Huyện Lạng Giang, Tỉnh Bắc Giang",
+        "code": "07432",
+        "parent_code": "217"
+    },
+    "07435": {
+        "name": "Đại Lâm",
+        "type": "xa",
+        "slug": "dai-lam",
+        "name_with_type": "Xã Đại Lâm",
+        "path": "Đại Lâm, Lạng Giang, Bắc Giang",
+        "path_with_type": "Xã Đại Lâm, Huyện Lạng Giang, Tỉnh Bắc Giang",
+        "code": "07435",
+        "parent_code": "217"
+    },
+    "07438": {
+        "name": "Thái Đào",
+        "type": "xa",
+        "slug": "thai-dao",
+        "name_with_type": "Xã Thái Đào",
+        "path": "Thái Đào, Lạng Giang, Bắc Giang",
+        "path_with_type": "Xã Thái Đào, Huyện Lạng Giang, Tỉnh Bắc Giang",
+        "code": "07438",
+        "parent_code": "217"
+    }
+}

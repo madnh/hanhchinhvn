@@ -1,0 +1,172 @@
+{
+    "23677": {
+        "name": "Đăk Đoa",
+        "type": "thi-tran",
+        "slug": "dak-doa",
+        "name_with_type": "Thị trấn Đăk Đoa",
+        "path": "Đăk Đoa, Đăk Đoa, Gia Lai",
+        "path_with_type": "Thị trấn Đăk Đoa, Huyện Đăk Đoa, Tỉnh Gia Lai",
+        "code": "23677",
+        "parent_code": "626"
+    },
+    "23680": {
+        "name": "Hà Đông",
+        "type": "xa",
+        "slug": "ha-dong",
+        "name_with_type": "Xã Hà Đông",
+        "path": "Hà Đông, Đăk Đoa, Gia Lai",
+        "path_with_type": "Xã Hà Đông, Huyện Đăk Đoa, Tỉnh Gia Lai",
+        "code": "23680",
+        "parent_code": "626"
+    },
+    "23683": {
+        "name": "Đăk Sơmei",
+        "type": "xa",
+        "slug": "dak-somei",
+        "name_with_type": "Xã Đăk Sơmei",
+        "path": "Đăk Sơmei, Đăk Đoa, Gia Lai",
+        "path_with_type": "Xã Đăk Sơmei, Huyện Đăk Đoa, Tỉnh Gia Lai",
+        "code": "23683",
+        "parent_code": "626"
+    },
+    "23684": {
+        "name": "Đăk Krong",
+        "type": "xa",
+        "slug": "dak-krong",
+        "name_with_type": "Xã Đăk Krong",
+        "path": "Đăk Krong, Đăk Đoa, Gia Lai",
+        "path_with_type": "Xã Đăk Krong, Huyện Đăk Đoa, Tỉnh Gia Lai",
+        "code": "23684",
+        "parent_code": "626"
+    },
+    "23686": {
+        "name": "Hải Yang",
+        "type": "xa",
+        "slug": "hai-yang",
+        "name_with_type": "Xã Hải Yang",
+        "path": "Hải Yang, Đăk Đoa, Gia Lai",
+        "path_with_type": "Xã Hải Yang, Huyện Đăk Đoa, Tỉnh Gia Lai",
+        "code": "23686",
+        "parent_code": "626"
+    },
+    "23689": {
+        "name": "Kon Gang",
+        "type": "xa",
+        "slug": "kon-gang",
+        "name_with_type": "Xã Kon Gang",
+        "path": "Kon Gang, Đăk Đoa, Gia Lai",
+        "path_with_type": "Xã Kon Gang, Huyện Đăk Đoa, Tỉnh Gia Lai",
+        "code": "23689",
+        "parent_code": "626"
+    },
+    "23692": {
+        "name": "Hà Bầu",
+        "type": "xa",
+        "slug": "ha-bau",
+        "name_with_type": "Xã Hà Bầu",
+        "path": "Hà Bầu, Đăk Đoa, Gia Lai",
+        "path_with_type": "Xã Hà Bầu, Huyện Đăk Đoa, Tỉnh Gia Lai",
+        "code": "23692",
+        "parent_code": "626"
+    },
+    "23695": {
+        "name": "Nam Yang",
+        "type": "xa",
+        "slug": "nam-yang",
+        "name_with_type": "Xã Nam Yang",
+        "path": "Nam Yang, Đăk Đoa, Gia Lai",
+        "path_with_type": "Xã Nam Yang, Huyện Đăk Đoa, Tỉnh Gia Lai",
+        "code": "23695",
+        "parent_code": "626"
+    },
+    "23698": {
+        "name": "K' Dang",
+        "type": "xa",
+        "slug": "k-dang",
+        "name_with_type": "Xã K' Dang",
+        "path": "K' Dang, Đăk Đoa, Gia Lai",
+        "path_with_type": "Xã K' Dang, Huyện Đăk Đoa, Tỉnh Gia Lai",
+        "code": "23698",
+        "parent_code": "626"
+    },
+    "23701": {
+        "name": "H' Neng",
+        "type": "xa",
+        "slug": "h-neng",
+        "name_with_type": "Xã H' Neng",
+        "path": "H' Neng, Đăk Đoa, Gia Lai",
+        "path_with_type": "Xã H' Neng, Huyện Đăk Đoa, Tỉnh Gia Lai",
+        "code": "23701",
+        "parent_code": "626"
+    },
+    "23704": {
+        "name": "Tân Bình",
+        "type": "xa",
+        "slug": "tan-binh",
+        "name_with_type": "Xã Tân Bình",
+        "path": "Tân Bình, Đăk Đoa, Gia Lai",
+        "path_with_type": "Xã Tân Bình, Huyện Đăk Đoa, Tỉnh Gia Lai",
+        "code": "23704",
+        "parent_code": "626"
+    },
+    "23707": {
+        "name": "Glar",
+        "type": "xa",
+        "slug": "glar",
+        "name_with_type": "Xã Glar",
+        "path": "Glar, Đăk Đoa, Gia Lai",
+        "path_with_type": "Xã Glar, Huyện Đăk Đoa, Tỉnh Gia Lai",
+        "code": "23707",
+        "parent_code": "626"
+    },
+    "23710": {
+        "name": "A Dơk",
+        "type": "xa",
+        "slug": "a-dok",
+        "name_with_type": "Xã A Dơk",
+        "path": "A Dơk, Đăk Đoa, Gia Lai",
+        "path_with_type": "Xã A Dơk, Huyện Đăk Đoa, Tỉnh Gia Lai",
+        "code": "23710",
+        "parent_code": "626"
+    },
+    "23713": {
+        "name": "Trang",
+        "type": "xa",
+        "slug": "trang",
+        "name_with_type": "Xã Trang",
+        "path": "Trang, Đăk Đoa, Gia Lai",
+        "path_with_type": "Xã Trang, Huyện Đăk Đoa, Tỉnh Gia Lai",
+        "code": "23713",
+        "parent_code": "626"
+    },
+    "23714": {
+        "name": "HNol",
+        "type": "xa",
+        "slug": "hnol",
+        "name_with_type": "Xã HNol",
+        "path": "HNol, Đăk Đoa, Gia Lai",
+        "path_with_type": "Xã HNol, Huyện Đăk Đoa, Tỉnh Gia Lai",
+        "code": "23714",
+        "parent_code": "626"
+    },
+    "23716": {
+        "name": "Ia Pết",
+        "type": "xa",
+        "slug": "ia-pet",
+        "name_with_type": "Xã Ia Pết",
+        "path": "Ia Pết, Đăk Đoa, Gia Lai",
+        "path_with_type": "Xã Ia Pết, Huyện Đăk Đoa, Tỉnh Gia Lai",
+        "code": "23716",
+        "parent_code": "626"
+    },
+    "23719": {
+        "name": "Ia Băng",
+        "type": "xa",
+        "slug": "ia-bang",
+        "name_with_type": "Xã Ia Băng",
+        "path": "Ia Băng, Đăk Đoa, Gia Lai",
+        "path_with_type": "Xã Ia Băng, Huyện Đăk Đoa, Tỉnh Gia Lai",
+        "code": "23719",
+        "parent_code": "626"
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "00091": {
+        "name": "Phú Thượng",
+        "type": "phuong",
+        "slug": "phu-thuong",
+        "name_with_type": "Phường Phú Thượng",
+        "path": "Phú Thượng, Tây Hồ, Hà Nội",
+        "path_with_type": "Phường Phú Thượng, Quận Tây Hồ, Thành phố Hà Nội",
+        "code": "00091",
+        "parent_code": "003"
+    },
+    "00094": {
+        "name": "Nhật Tân",
+        "type": "phuong",
+        "slug": "nhat-tan",
+        "name_with_type": "Phường Nhật Tân",
+        "path": "Nhật Tân, Tây Hồ, Hà Nội",
+        "path_with_type": "Phường Nhật Tân, Quận Tây Hồ, Thành phố Hà Nội",
+        "code": "00094",
+        "parent_code": "003"
+    },
+    "00097": {
+        "name": "Tứ Liên",
+        "type": "phuong",
+        "slug": "tu-lien",
+        "name_with_type": "Phường Tứ Liên",
+        "path": "Tứ Liên, Tây Hồ, Hà Nội",
+        "path_with_type": "Phường Tứ Liên, Quận Tây Hồ, Thành phố Hà Nội",
+        "code": "00097",
+        "parent_code": "003"
+    },
+    "00100": {
+        "name": "Quảng An",
+        "type": "phuong",
+        "slug": "quang-an",
+        "name_with_type": "Phường Quảng An",
+        "path": "Quảng An, Tây Hồ, Hà Nội",
+        "path_with_type": "Phường Quảng An, Quận Tây Hồ, Thành phố Hà Nội",
+        "code": "00100",
+        "parent_code": "003"
+    },
+    "00103": {
+        "name": "Xuân La",
+        "type": "phuong",
+        "slug": "xuan-la",
+        "name_with_type": "Phường Xuân La",
+        "path": "Xuân La, Tây Hồ, Hà Nội",
+        "path_with_type": "Phường Xuân La, Quận Tây Hồ, Thành phố Hà Nội",
+        "code": "00103",
+        "parent_code": "003"
+    },
+    "00106": {
+        "name": "Yên Phụ",
+        "type": "phuong",
+        "slug": "yen-phu",
+        "name_with_type": "Phường Yên Phụ",
+        "path": "Yên Phụ, Tây Hồ, Hà Nội",
+        "path_with_type": "Phường Yên Phụ, Quận Tây Hồ, Thành phố Hà Nội",
+        "code": "00106",
+        "parent_code": "003"
+    },
+    "00109": {
+        "name": "Bưởi",
+        "type": "phuong",
+        "slug": "buoi",
+        "name_with_type": "Phường Bưởi",
+        "path": "Bưởi, Tây Hồ, Hà Nội",
+        "path_with_type": "Phường Bưởi, Quận Tây Hồ, Thành phố Hà Nội",
+        "code": "00109",
+        "parent_code": "003"
+    },
+    "00112": {
+        "name": "Thụy Khuê",
+        "type": "phuong",
+        "slug": "thuy-khue",
+        "name_with_type": "Phường Thụy Khuê",
+        "path": "Thụy Khuê, Tây Hồ, Hà Nội",
+        "path_with_type": "Phường Thụy Khuê, Quận Tây Hồ, Thành phố Hà Nội",
+        "code": "00112",
+        "parent_code": "003"
+    }
+}

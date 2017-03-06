@@ -1,0 +1,132 @@
+{
+    "21400": {
+        "name": "Mộ Đức",
+        "type": "thi-tran",
+        "slug": "mo-duc",
+        "name_with_type": "Thị trấn Mộ Đức",
+        "path": "Mộ Đức, Mộ Đức, Quảng Ngãi",
+        "path_with_type": "Thị trấn Mộ Đức, Huyện Mộ Đức, Tỉnh Quảng Ngãi",
+        "code": "21400",
+        "parent_code": "533"
+    },
+    "21403": {
+        "name": "Đức Lợi",
+        "type": "xa",
+        "slug": "duc-loi",
+        "name_with_type": "Xã Đức Lợi",
+        "path": "Đức Lợi, Mộ Đức, Quảng Ngãi",
+        "path_with_type": "Xã Đức Lợi, Huyện Mộ Đức, Tỉnh Quảng Ngãi",
+        "code": "21403",
+        "parent_code": "533"
+    },
+    "21406": {
+        "name": "Đức Thắng",
+        "type": "xa",
+        "slug": "duc-thang",
+        "name_with_type": "Xã Đức Thắng",
+        "path": "Đức Thắng, Mộ Đức, Quảng Ngãi",
+        "path_with_type": "Xã Đức Thắng, Huyện Mộ Đức, Tỉnh Quảng Ngãi",
+        "code": "21406",
+        "parent_code": "533"
+    },
+    "21409": {
+        "name": "Đức Nhuận",
+        "type": "xa",
+        "slug": "duc-nhuan",
+        "name_with_type": "Xã Đức Nhuận",
+        "path": "Đức Nhuận, Mộ Đức, Quảng Ngãi",
+        "path_with_type": "Xã Đức Nhuận, Huyện Mộ Đức, Tỉnh Quảng Ngãi",
+        "code": "21409",
+        "parent_code": "533"
+    },
+    "21412": {
+        "name": "Đức Chánh",
+        "type": "xa",
+        "slug": "duc-chanh",
+        "name_with_type": "Xã Đức Chánh",
+        "path": "Đức Chánh, Mộ Đức, Quảng Ngãi",
+        "path_with_type": "Xã Đức Chánh, Huyện Mộ Đức, Tỉnh Quảng Ngãi",
+        "code": "21412",
+        "parent_code": "533"
+    },
+    "21415": {
+        "name": "Đức Hiệp",
+        "type": "xa",
+        "slug": "duc-hiep",
+        "name_with_type": "Xã Đức Hiệp",
+        "path": "Đức Hiệp, Mộ Đức, Quảng Ngãi",
+        "path_with_type": "Xã Đức Hiệp, Huyện Mộ Đức, Tỉnh Quảng Ngãi",
+        "code": "21415",
+        "parent_code": "533"
+    },
+    "21418": {
+        "name": "Đức Minh",
+        "type": "xa",
+        "slug": "duc-minh",
+        "name_with_type": "Xã Đức Minh",
+        "path": "Đức Minh, Mộ Đức, Quảng Ngãi",
+        "path_with_type": "Xã Đức Minh, Huyện Mộ Đức, Tỉnh Quảng Ngãi",
+        "code": "21418",
+        "parent_code": "533"
+    },
+    "21421": {
+        "name": "Đức Thạnh",
+        "type": "xa",
+        "slug": "duc-thanh",
+        "name_with_type": "Xã Đức Thạnh",
+        "path": "Đức Thạnh, Mộ Đức, Quảng Ngãi",
+        "path_with_type": "Xã Đức Thạnh, Huyện Mộ Đức, Tỉnh Quảng Ngãi",
+        "code": "21421",
+        "parent_code": "533"
+    },
+    "21424": {
+        "name": "Đức Hòa",
+        "type": "xa",
+        "slug": "duc-hoa",
+        "name_with_type": "Xã Đức Hòa",
+        "path": "Đức Hòa, Mộ Đức, Quảng Ngãi",
+        "path_with_type": "Xã Đức Hòa, Huyện Mộ Đức, Tỉnh Quảng Ngãi",
+        "code": "21424",
+        "parent_code": "533"
+    },
+    "21427": {
+        "name": "Đức Tân",
+        "type": "xa",
+        "slug": "duc-tan",
+        "name_with_type": "Xã Đức Tân",
+        "path": "Đức Tân, Mộ Đức, Quảng Ngãi",
+        "path_with_type": "Xã Đức Tân, Huyện Mộ Đức, Tỉnh Quảng Ngãi",
+        "code": "21427",
+        "parent_code": "533"
+    },
+    "21430": {
+        "name": "Đức Phú",
+        "type": "xa",
+        "slug": "duc-phu",
+        "name_with_type": "Xã Đức Phú",
+        "path": "Đức Phú, Mộ Đức, Quảng Ngãi",
+        "path_with_type": "Xã Đức Phú, Huyện Mộ Đức, Tỉnh Quảng Ngãi",
+        "code": "21430",
+        "parent_code": "533"
+    },
+    "21433": {
+        "name": "Đức Phong",
+        "type": "xa",
+        "slug": "duc-phong",
+        "name_with_type": "Xã Đức Phong",
+        "path": "Đức Phong, Mộ Đức, Quảng Ngãi",
+        "path_with_type": "Xã Đức Phong, Huyện Mộ Đức, Tỉnh Quảng Ngãi",
+        "code": "21433",
+        "parent_code": "533"
+    },
+    "21436": {
+        "name": "Đức Lân",
+        "type": "xa",
+        "slug": "duc-lan",
+        "name_with_type": "Xã Đức Lân",
+        "path": "Đức Lân, Mộ Đức, Quảng Ngãi",
+        "path_with_type": "Xã Đức Lân, Huyện Mộ Đức, Tỉnh Quảng Ngãi",
+        "code": "21436",
+        "parent_code": "533"
+    }
+}

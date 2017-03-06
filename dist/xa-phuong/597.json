@@ -1,0 +1,172 @@
+{
+    "23059": {
+        "name": "Ma Lâm",
+        "type": "thi-tran",
+        "slug": "ma-lam",
+        "name_with_type": "Thị trấn Ma Lâm",
+        "path": "Ma Lâm, Hàm Thuận Bắc, Bình Thuận",
+        "path_with_type": "Thị trấn Ma Lâm, Huyện Hàm Thuận Bắc, Tỉnh Bình Thuận",
+        "code": "23059",
+        "parent_code": "597"
+    },
+    "23062": {
+        "name": "Phú Long",
+        "type": "thi-tran",
+        "slug": "phu-long",
+        "name_with_type": "Thị trấn Phú Long",
+        "path": "Phú Long, Hàm Thuận Bắc, Bình Thuận",
+        "path_with_type": "Thị trấn Phú Long, Huyện Hàm Thuận Bắc, Tỉnh Bình Thuận",
+        "code": "23062",
+        "parent_code": "597"
+    },
+    "23065": {
+        "name": "La Dạ",
+        "type": "xa",
+        "slug": "la-da",
+        "name_with_type": "Xã La Dạ",
+        "path": "La Dạ, Hàm Thuận Bắc, Bình Thuận",
+        "path_with_type": "Xã La Dạ, Huyện Hàm Thuận Bắc, Tỉnh Bình Thuận",
+        "code": "23065",
+        "parent_code": "597"
+    },
+    "23068": {
+        "name": "Đông Tiến",
+        "type": "xa",
+        "slug": "dong-tien",
+        "name_with_type": "Xã Đông Tiến",
+        "path": "Đông Tiến, Hàm Thuận Bắc, Bình Thuận",
+        "path_with_type": "Xã Đông Tiến, Huyện Hàm Thuận Bắc, Tỉnh Bình Thuận",
+        "code": "23068",
+        "parent_code": "597"
+    },
+    "23071": {
+        "name": "Thuận Hòa",
+        "type": "xa",
+        "slug": "thuan-hoa",
+        "name_with_type": "Xã Thuận Hòa",
+        "path": "Thuận Hòa, Hàm Thuận Bắc, Bình Thuận",
+        "path_with_type": "Xã Thuận Hòa, Huyện Hàm Thuận Bắc, Tỉnh Bình Thuận",
+        "code": "23071",
+        "parent_code": "597"
+    },
+    "23074": {
+        "name": "Đông Giang",
+        "type": "xa",
+        "slug": "dong-giang",
+        "name_with_type": "Xã Đông Giang",
+        "path": "Đông Giang, Hàm Thuận Bắc, Bình Thuận",
+        "path_with_type": "Xã Đông Giang, Huyện Hàm Thuận Bắc, Tỉnh Bình Thuận",
+        "code": "23074",
+        "parent_code": "597"
+    },
+    "23077": {
+        "name": "Hàm Phú",
+        "type": "xa",
+        "slug": "ham-phu",
+        "name_with_type": "Xã Hàm Phú",
+        "path": "Hàm Phú, Hàm Thuận Bắc, Bình Thuận",
+        "path_with_type": "Xã Hàm Phú, Huyện Hàm Thuận Bắc, Tỉnh Bình Thuận",
+        "code": "23077",
+        "parent_code": "597"
+    },
+    "23080": {
+        "name": "Hồng Liêm",
+        "type": "xa",
+        "slug": "hong-liem",
+        "name_with_type": "Xã Hồng Liêm",
+        "path": "Hồng Liêm, Hàm Thuận Bắc, Bình Thuận",
+        "path_with_type": "Xã Hồng Liêm, Huyện Hàm Thuận Bắc, Tỉnh Bình Thuận",
+        "code": "23080",
+        "parent_code": "597"
+    },
+    "23083": {
+        "name": "Thuận Minh",
+        "type": "xa",
+        "slug": "thuan-minh",
+        "name_with_type": "Xã Thuận Minh",
+        "path": "Thuận Minh, Hàm Thuận Bắc, Bình Thuận",
+        "path_with_type": "Xã Thuận Minh, Huyện Hàm Thuận Bắc, Tỉnh Bình Thuận",
+        "code": "23083",
+        "parent_code": "597"
+    },
+    "23086": {
+        "name": "Hồng Sơn",
+        "type": "xa",
+        "slug": "hong-son",
+        "name_with_type": "Xã Hồng Sơn",
+        "path": "Hồng Sơn, Hàm Thuận Bắc, Bình Thuận",
+        "path_with_type": "Xã Hồng Sơn, Huyện Hàm Thuận Bắc, Tỉnh Bình Thuận",
+        "code": "23086",
+        "parent_code": "597"
+    },
+    "23089": {
+        "name": "Hàm Trí",
+        "type": "xa",
+        "slug": "ham-tri",
+        "name_with_type": "Xã Hàm Trí",
+        "path": "Hàm Trí, Hàm Thuận Bắc, Bình Thuận",
+        "path_with_type": "Xã Hàm Trí, Huyện Hàm Thuận Bắc, Tỉnh Bình Thuận",
+        "code": "23089",
+        "parent_code": "597"
+    },
+    "23092": {
+        "name": "Hàm Đức",
+        "type": "xa",
+        "slug": "ham-duc",
+        "name_with_type": "Xã Hàm Đức",
+        "path": "Hàm Đức, Hàm Thuận Bắc, Bình Thuận",
+        "path_with_type": "Xã Hàm Đức, Huyện Hàm Thuận Bắc, Tỉnh Bình Thuận",
+        "code": "23092",
+        "parent_code": "597"
+    },
+    "23095": {
+        "name": "Hàm Liêm",
+        "type": "xa",
+        "slug": "ham-liem",
+        "name_with_type": "Xã Hàm Liêm",
+        "path": "Hàm Liêm, Hàm Thuận Bắc, Bình Thuận",
+        "path_with_type": "Xã Hàm Liêm, Huyện Hàm Thuận Bắc, Tỉnh Bình Thuận",
+        "code": "23095",
+        "parent_code": "597"
+    },
+    "23098": {
+        "name": "Hàm Chính",
+        "type": "xa",
+        "slug": "ham-chinh",
+        "name_with_type": "Xã Hàm Chính",
+        "path": "Hàm Chính, Hàm Thuận Bắc, Bình Thuận",
+        "path_with_type": "Xã Hàm Chính, Huyện Hàm Thuận Bắc, Tỉnh Bình Thuận",
+        "code": "23098",
+        "parent_code": "597"
+    },
+    "23101": {
+        "name": "Hàm Hiệp",
+        "type": "xa",
+        "slug": "ham-hiep",
+        "name_with_type": "Xã Hàm Hiệp",
+        "path": "Hàm Hiệp, Hàm Thuận Bắc, Bình Thuận",
+        "path_with_type": "Xã Hàm Hiệp, Huyện Hàm Thuận Bắc, Tỉnh Bình Thuận",
+        "code": "23101",
+        "parent_code": "597"
+    },
+    "23104": {
+        "name": "Hàm Thắng",
+        "type": "xa",
+        "slug": "ham-thang",
+        "name_with_type": "Xã Hàm Thắng",
+        "path": "Hàm Thắng, Hàm Thuận Bắc, Bình Thuận",
+        "path_with_type": "Xã Hàm Thắng, Huyện Hàm Thuận Bắc, Tỉnh Bình Thuận",
+        "code": "23104",
+        "parent_code": "597"
+    },
+    "23107": {
+        "name": "Đa Mi",
+        "type": "xa",
+        "slug": "da-mi",
+        "name_with_type": "Xã Đa Mi",
+        "path": "Đa Mi, Hàm Thuận Bắc, Bình Thuận",
+        "path_with_type": "Xã Đa Mi, Huyện Hàm Thuận Bắc, Tỉnh Bình Thuận",
+        "code": "23107",
+        "parent_code": "597"
+    }
+}

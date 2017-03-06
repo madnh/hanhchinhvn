@@ -1,0 +1,112 @@
+{
+    "20364": {
+        "name": "Phú Thịnh",
+        "type": "thi-tran",
+        "slug": "phu-thinh",
+        "name_with_type": "Thị trấn Phú Thịnh",
+        "path": "Phú Thịnh, Phú Ninh, Quảng Nam",
+        "path_with_type": "Thị trấn Phú Thịnh, Huyện Phú Ninh, Tỉnh Quảng Nam",
+        "code": "20364",
+        "parent_code": "518"
+    },
+    "20365": {
+        "name": "Tam Thành",
+        "type": "xa",
+        "slug": "tam-thanh",
+        "name_with_type": "Xã Tam Thành",
+        "path": "Tam Thành, Phú Ninh, Quảng Nam",
+        "path_with_type": "Xã Tam Thành, Huyện Phú Ninh, Tỉnh Quảng Nam",
+        "code": "20365",
+        "parent_code": "518"
+    },
+    "20368": {
+        "name": "Tam An",
+        "type": "xa",
+        "slug": "tam-an",
+        "name_with_type": "Xã Tam An",
+        "path": "Tam An, Phú Ninh, Quảng Nam",
+        "path_with_type": "Xã Tam An, Huyện Phú Ninh, Tỉnh Quảng Nam",
+        "code": "20368",
+        "parent_code": "518"
+    },
+    "20374": {
+        "name": "Tam Đàn",
+        "type": "xa",
+        "slug": "tam-dan",
+        "name_with_type": "Xã Tam Đàn",
+        "path": "Tam Đàn, Phú Ninh, Quảng Nam",
+        "path_with_type": "Xã Tam Đàn, Huyện Phú Ninh, Tỉnh Quảng Nam",
+        "code": "20374",
+        "parent_code": "518"
+    },
+    "20377": {
+        "name": "Tam Lộc",
+        "type": "xa",
+        "slug": "tam-loc",
+        "name_with_type": "Xã Tam Lộc",
+        "path": "Tam Lộc, Phú Ninh, Quảng Nam",
+        "path_with_type": "Xã Tam Lộc, Huyện Phú Ninh, Tỉnh Quảng Nam",
+        "code": "20377",
+        "parent_code": "518"
+    },
+    "20380": {
+        "name": "Tam Phước",
+        "type": "xa",
+        "slug": "tam-phuoc",
+        "name_with_type": "Xã Tam Phước",
+        "path": "Tam Phước, Phú Ninh, Quảng Nam",
+        "path_with_type": "Xã Tam Phước, Huyện Phú Ninh, Tỉnh Quảng Nam",
+        "code": "20380",
+        "parent_code": "518"
+    },
+    "20383": {
+        "name": "Tam Vinh",
+        "type": "xa",
+        "slug": "tam-vinh",
+        "name_with_type": "Xã Tam Vinh",
+        "path": "Tam Vinh, Phú Ninh, Quảng Nam",
+        "path_with_type": "Xã Tam Vinh, Huyện Phú Ninh, Tỉnh Quảng Nam",
+        "code": "20383",
+        "parent_code": "518"
+    },
+    "20386": {
+        "name": "Tam Thái",
+        "type": "xa",
+        "slug": "tam-thai",
+        "name_with_type": "Xã Tam Thái",
+        "path": "Tam Thái, Phú Ninh, Quảng Nam",
+        "path_with_type": "Xã Tam Thái, Huyện Phú Ninh, Tỉnh Quảng Nam",
+        "code": "20386",
+        "parent_code": "518"
+    },
+    "20387": {
+        "name": "Tam Đại",
+        "type": "xa",
+        "slug": "tam-dai",
+        "name_with_type": "Xã Tam Đại",
+        "path": "Tam Đại, Phú Ninh, Quảng Nam",
+        "path_with_type": "Xã Tam Đại, Huyện Phú Ninh, Tỉnh Quảng Nam",
+        "code": "20387",
+        "parent_code": "518"
+    },
+    "20392": {
+        "name": "Tam Dân",
+        "type": "xa",
+        "slug": "tam-dan",
+        "name_with_type": "Xã Tam Dân",
+        "path": "Tam Dân, Phú Ninh, Quảng Nam",
+        "path_with_type": "Xã Tam Dân, Huyện Phú Ninh, Tỉnh Quảng Nam",
+        "code": "20392",
+        "parent_code": "518"
+    },
+    "20395": {
+        "name": "Tam Lãnh",
+        "type": "xa",
+        "slug": "tam-lanh",
+        "name_with_type": "Xã Tam Lãnh",
+        "path": "Tam Lãnh, Phú Ninh, Quảng Nam",
+        "path_with_type": "Xã Tam Lãnh, Huyện Phú Ninh, Tỉnh Quảng Nam",
+        "code": "20395",
+        "parent_code": "518"
+    }
+}

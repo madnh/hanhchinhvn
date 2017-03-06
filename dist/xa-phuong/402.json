@@ -1,0 +1,182 @@
+{
+    "16174": {
+        "name": "Yên Cát",
+        "type": "thi-tran",
+        "slug": "yen-cat",
+        "name_with_type": "Thị trấn Yên Cát",
+        "path": "Yên Cát, Như Xuân, Thanh Hóa",
+        "path_with_type": "Thị trấn Yên Cát, Huyện Như Xuân, Tỉnh Thanh Hóa",
+        "code": "16174",
+        "parent_code": "402"
+    },
+    "16177": {
+        "name": "Bãi Trành",
+        "type": "xa",
+        "slug": "bai-tranh",
+        "name_with_type": "Xã Bãi Trành",
+        "path": "Bãi Trành, Như Xuân, Thanh Hóa",
+        "path_with_type": "Xã Bãi Trành, Huyện Như Xuân, Tỉnh Thanh Hóa",
+        "code": "16177",
+        "parent_code": "402"
+    },
+    "16180": {
+        "name": "Xuân Hòa",
+        "type": "xa",
+        "slug": "xuan-hoa",
+        "name_with_type": "Xã Xuân Hòa",
+        "path": "Xuân Hòa, Như Xuân, Thanh Hóa",
+        "path_with_type": "Xã Xuân Hòa, Huyện Như Xuân, Tỉnh Thanh Hóa",
+        "code": "16180",
+        "parent_code": "402"
+    },
+    "16183": {
+        "name": "Xuân Bình",
+        "type": "xa",
+        "slug": "xuan-binh",
+        "name_with_type": "Xã Xuân Bình",
+        "path": "Xuân Bình, Như Xuân, Thanh Hóa",
+        "path_with_type": "Xã Xuân Bình, Huyện Như Xuân, Tỉnh Thanh Hóa",
+        "code": "16183",
+        "parent_code": "402"
+    },
+    "16186": {
+        "name": "Hóa Quỳ",
+        "type": "xa",
+        "slug": "hoa-quy",
+        "name_with_type": "Xã Hóa Quỳ",
+        "path": "Hóa Quỳ, Như Xuân, Thanh Hóa",
+        "path_with_type": "Xã Hóa Quỳ, Huyện Như Xuân, Tỉnh Thanh Hóa",
+        "code": "16186",
+        "parent_code": "402"
+    },
+    "16189": {
+        "name": "Xuân Quỳ",
+        "type": "xa",
+        "slug": "xuan-quy",
+        "name_with_type": "Xã Xuân Quỳ",
+        "path": "Xuân Quỳ, Như Xuân, Thanh Hóa",
+        "path_with_type": "Xã Xuân Quỳ, Huyện Như Xuân, Tỉnh Thanh Hóa",
+        "code": "16189",
+        "parent_code": "402"
+    },
+    "16192": {
+        "name": "Yên Lễ",
+        "type": "xa",
+        "slug": "yen-le",
+        "name_with_type": "Xã Yên Lễ",
+        "path": "Yên Lễ, Như Xuân, Thanh Hóa",
+        "path_with_type": "Xã Yên Lễ, Huyện Như Xuân, Tỉnh Thanh Hóa",
+        "code": "16192",
+        "parent_code": "402"
+    },
+    "16195": {
+        "name": "Cát Vân",
+        "type": "xa",
+        "slug": "cat-van",
+        "name_with_type": "Xã Cát Vân",
+        "path": "Cát Vân, Như Xuân, Thanh Hóa",
+        "path_with_type": "Xã Cát Vân, Huyện Như Xuân, Tỉnh Thanh Hóa",
+        "code": "16195",
+        "parent_code": "402"
+    },
+    "16198": {
+        "name": "Cát Tân",
+        "type": "xa",
+        "slug": "cat-tan",
+        "name_with_type": "Xã Cát Tân",
+        "path": "Cát Tân, Như Xuân, Thanh Hóa",
+        "path_with_type": "Xã Cát Tân, Huyện Như Xuân, Tỉnh Thanh Hóa",
+        "code": "16198",
+        "parent_code": "402"
+    },
+    "16201": {
+        "name": "Tân Bình",
+        "type": "xa",
+        "slug": "tan-binh",
+        "name_with_type": "Xã Tân Bình",
+        "path": "Tân Bình, Như Xuân, Thanh Hóa",
+        "path_with_type": "Xã Tân Bình, Huyện Như Xuân, Tỉnh Thanh Hóa",
+        "code": "16201",
+        "parent_code": "402"
+    },
+    "16204": {
+        "name": "Bình Lương",
+        "type": "xa",
+        "slug": "binh-luong",
+        "name_with_type": "Xã Bình Lương",
+        "path": "Bình Lương, Như Xuân, Thanh Hóa",
+        "path_with_type": "Xã Bình Lương, Huyện Như Xuân, Tỉnh Thanh Hóa",
+        "code": "16204",
+        "parent_code": "402"
+    },
+    "16207": {
+        "name": "Thanh Quân",
+        "type": "xa",
+        "slug": "thanh-quan",
+        "name_with_type": "Xã Thanh Quân",
+        "path": "Thanh Quân, Như Xuân, Thanh Hóa",
+        "path_with_type": "Xã Thanh Quân, Huyện Như Xuân, Tỉnh Thanh Hóa",
+        "code": "16207",
+        "parent_code": "402"
+    },
+    "16210": {
+        "name": "Thanh Xuân",
+        "type": "xa",
+        "slug": "thanh-xuan",
+        "name_with_type": "Xã Thanh Xuân",
+        "path": "Thanh Xuân, Như Xuân, Thanh Hóa",
+        "path_with_type": "Xã Thanh Xuân, Huyện Như Xuân, Tỉnh Thanh Hóa",
+        "code": "16210",
+        "parent_code": "402"
+    },
+    "16213": {
+        "name": "Thanh Hòa",
+        "type": "xa",
+        "slug": "thanh-hoa",
+        "name_with_type": "Xã Thanh Hòa",
+        "path": "Thanh Hòa, Như Xuân, Thanh Hóa",
+        "path_with_type": "Xã Thanh Hòa, Huyện Như Xuân, Tỉnh Thanh Hóa",
+        "code": "16213",
+        "parent_code": "402"
+    },
+    "16216": {
+        "name": "Thanh Phong",
+        "type": "xa",
+        "slug": "thanh-phong",
+        "name_with_type": "Xã Thanh Phong",
+        "path": "Thanh Phong, Như Xuân, Thanh Hóa",
+        "path_with_type": "Xã Thanh Phong, Huyện Như Xuân, Tỉnh Thanh Hóa",
+        "code": "16216",
+        "parent_code": "402"
+    },
+    "16219": {
+        "name": "Thanh Lâm",
+        "type": "xa",
+        "slug": "thanh-lam",
+        "name_with_type": "Xã Thanh Lâm",
+        "path": "Thanh Lâm, Như Xuân, Thanh Hóa",
+        "path_with_type": "Xã Thanh Lâm, Huyện Như Xuân, Tỉnh Thanh Hóa",
+        "code": "16219",
+        "parent_code": "402"
+    },
+    "16222": {
+        "name": "Thanh Sơn",
+        "type": "xa",
+        "slug": "thanh-son",
+        "name_with_type": "Xã Thanh Sơn",
+        "path": "Thanh Sơn, Như Xuân, Thanh Hóa",
+        "path_with_type": "Xã Thanh Sơn, Huyện Như Xuân, Tỉnh Thanh Hóa",
+        "code": "16222",
+        "parent_code": "402"
+    },
+    "16225": {
+        "name": "Thượng Ninh",
+        "type": "xa",
+        "slug": "thuong-ninh",
+        "name_with_type": "Xã Thượng Ninh",
+        "path": "Thượng Ninh, Như Xuân, Thanh Hóa",
+        "path_with_type": "Xã Thượng Ninh, Huyện Như Xuân, Tỉnh Thanh Hóa",
+        "code": "16225",
+        "parent_code": "402"
+    }
+}

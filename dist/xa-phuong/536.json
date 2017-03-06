@@ -1,0 +1,32 @@
+{
+    "21541": {
+        "name": "An Vĩnh",
+        "type": "xa",
+        "slug": "an-vinh",
+        "name_with_type": "Xã An Vĩnh",
+        "path": "An Vĩnh, Lý Sơn, Quảng Ngãi",
+        "path_with_type": "Xã An Vĩnh, Huyện Lý Sơn, Tỉnh Quảng Ngãi",
+        "code": "21541",
+        "parent_code": "536"
+    },
+    "21544": {
+        "name": "An Hải",
+        "type": "xa",
+        "slug": "an-hai",
+        "name_with_type": "Xã An Hải",
+        "path": "An Hải, Lý Sơn, Quảng Ngãi",
+        "path_with_type": "Xã An Hải, Huyện Lý Sơn, Tỉnh Quảng Ngãi",
+        "code": "21544",
+        "parent_code": "536"
+    },
+    "21547": {
+        "name": "An Bình",
+        "type": "xa",
+        "slug": "an-binh",
+        "name_with_type": "Xã An Bình",
+        "path": "An Bình, Lý Sơn, Quảng Ngãi",
+        "path_with_type": "Xã An Bình, Huyện Lý Sơn, Tỉnh Quảng Ngãi",
+        "code": "21547",
+        "parent_code": "536"
+    }
+}

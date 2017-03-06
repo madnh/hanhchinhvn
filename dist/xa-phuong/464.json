@@ -1,0 +1,222 @@
+{
+    "19363": {
+        "name": "Hồ Xá",
+        "type": "thi-tran",
+        "slug": "ho-xa",
+        "name_with_type": "Thị trấn Hồ Xá",
+        "path": "Hồ Xá, Vĩnh Linh, Quảng Trị",
+        "path_with_type": "Thị trấn Hồ Xá, Huyện Vĩnh Linh, Tỉnh Quảng Trị",
+        "code": "19363",
+        "parent_code": "464"
+    },
+    "19366": {
+        "name": "Bến Quan",
+        "type": "thi-tran",
+        "slug": "ben-quan",
+        "name_with_type": "Thị trấn Bến Quan",
+        "path": "Bến Quan, Vĩnh Linh, Quảng Trị",
+        "path_with_type": "Thị trấn Bến Quan, Huyện Vĩnh Linh, Tỉnh Quảng Trị",
+        "code": "19366",
+        "parent_code": "464"
+    },
+    "19369": {
+        "name": "Vĩnh Thái",
+        "type": "xa",
+        "slug": "vinh-thai",
+        "name_with_type": "Xã Vĩnh Thái",
+        "path": "Vĩnh Thái, Vĩnh Linh, Quảng Trị",
+        "path_with_type": "Xã Vĩnh Thái, Huyện Vĩnh Linh, Tỉnh Quảng Trị",
+        "code": "19369",
+        "parent_code": "464"
+    },
+    "19372": {
+        "name": "Vĩnh Tú",
+        "type": "xa",
+        "slug": "vinh-tu",
+        "name_with_type": "Xã Vĩnh Tú",
+        "path": "Vĩnh Tú, Vĩnh Linh, Quảng Trị",
+        "path_with_type": "Xã Vĩnh Tú, Huyện Vĩnh Linh, Tỉnh Quảng Trị",
+        "code": "19372",
+        "parent_code": "464"
+    },
+    "19375": {
+        "name": "Vĩnh Chấp",
+        "type": "xa",
+        "slug": "vinh-chap",
+        "name_with_type": "Xã Vĩnh Chấp",
+        "path": "Vĩnh Chấp, Vĩnh Linh, Quảng Trị",
+        "path_with_type": "Xã Vĩnh Chấp, Huyện Vĩnh Linh, Tỉnh Quảng Trị",
+        "code": "19375",
+        "parent_code": "464"
+    },
+    "19378": {
+        "name": "Vĩnh Trung",
+        "type": "xa",
+        "slug": "vinh-trung",
+        "name_with_type": "Xã Vĩnh Trung",
+        "path": "Vĩnh Trung, Vĩnh Linh, Quảng Trị",
+        "path_with_type": "Xã Vĩnh Trung, Huyện Vĩnh Linh, Tỉnh Quảng Trị",
+        "code": "19378",
+        "parent_code": "464"
+    },
+    "19381": {
+        "name": "Vĩnh Kim",
+        "type": "xa",
+        "slug": "vinh-kim",
+        "name_with_type": "Xã Vĩnh Kim",
+        "path": "Vĩnh Kim, Vĩnh Linh, Quảng Trị",
+        "path_with_type": "Xã Vĩnh Kim, Huyện Vĩnh Linh, Tỉnh Quảng Trị",
+        "code": "19381",
+        "parent_code": "464"
+    },
+    "19384": {
+        "name": "Vĩnh Thạch",
+        "type": "xa",
+        "slug": "vinh-thach",
+        "name_with_type": "Xã Vĩnh Thạch",
+        "path": "Vĩnh Thạch, Vĩnh Linh, Quảng Trị",
+        "path_with_type": "Xã Vĩnh Thạch, Huyện Vĩnh Linh, Tỉnh Quảng Trị",
+        "code": "19384",
+        "parent_code": "464"
+    },
+    "19387": {
+        "name": "Vĩnh Long",
+        "type": "xa",
+        "slug": "vinh-long",
+        "name_with_type": "Xã Vĩnh Long",
+        "path": "Vĩnh Long, Vĩnh Linh, Quảng Trị",
+        "path_with_type": "Xã Vĩnh Long, Huyện Vĩnh Linh, Tỉnh Quảng Trị",
+        "code": "19387",
+        "parent_code": "464"
+    },
+    "19390": {
+        "name": "Vĩnh Nam",
+        "type": "xa",
+        "slug": "vinh-nam",
+        "name_with_type": "Xã Vĩnh Nam",
+        "path": "Vĩnh Nam, Vĩnh Linh, Quảng Trị",
+        "path_with_type": "Xã Vĩnh Nam, Huyện Vĩnh Linh, Tỉnh Quảng Trị",
+        "code": "19390",
+        "parent_code": "464"
+    },
+    "19393": {
+        "name": "Vĩnh Khê",
+        "type": "xa",
+        "slug": "vinh-khe",
+        "name_with_type": "Xã Vĩnh Khê",
+        "path": "Vĩnh Khê, Vĩnh Linh, Quảng Trị",
+        "path_with_type": "Xã Vĩnh Khê, Huyện Vĩnh Linh, Tỉnh Quảng Trị",
+        "code": "19393",
+        "parent_code": "464"
+    },
+    "19396": {
+        "name": "Vĩnh Hòa",
+        "type": "xa",
+        "slug": "vinh-hoa",
+        "name_with_type": "Xã Vĩnh Hòa",
+        "path": "Vĩnh Hòa, Vĩnh Linh, Quảng Trị",
+        "path_with_type": "Xã Vĩnh Hòa, Huyện Vĩnh Linh, Tỉnh Quảng Trị",
+        "code": "19396",
+        "parent_code": "464"
+    },
+    "19399": {
+        "name": "Vĩnh Hiền",
+        "type": "xa",
+        "slug": "vinh-hien",
+        "name_with_type": "Xã Vĩnh Hiền",
+        "path": "Vĩnh Hiền, Vĩnh Linh, Quảng Trị",
+        "path_with_type": "Xã Vĩnh Hiền, Huyện Vĩnh Linh, Tỉnh Quảng Trị",
+        "code": "19399",
+        "parent_code": "464"
+    },
+    "19402": {
+        "name": "Vĩnh Thủy",
+        "type": "xa",
+        "slug": "vinh-thuy",
+        "name_with_type": "Xã Vĩnh Thủy",
+        "path": "Vĩnh Thủy, Vĩnh Linh, Quảng Trị",
+        "path_with_type": "Xã Vĩnh Thủy, Huyện Vĩnh Linh, Tỉnh Quảng Trị",
+        "code": "19402",
+        "parent_code": "464"
+    },
+    "19405": {
+        "name": "Vĩnh Lâm",
+        "type": "xa",
+        "slug": "vinh-lam",
+        "name_with_type": "Xã Vĩnh Lâm",
+        "path": "Vĩnh Lâm, Vĩnh Linh, Quảng Trị",
+        "path_with_type": "Xã Vĩnh Lâm, Huyện Vĩnh Linh, Tỉnh Quảng Trị",
+        "code": "19405",
+        "parent_code": "464"
+    },
+    "19408": {
+        "name": "Vĩnh Thành",
+        "type": "xa",
+        "slug": "vinh-thanh",
+        "name_with_type": "Xã Vĩnh Thành",
+        "path": "Vĩnh Thành, Vĩnh Linh, Quảng Trị",
+        "path_with_type": "Xã Vĩnh Thành, Huyện Vĩnh Linh, Tỉnh Quảng Trị",
+        "code": "19408",
+        "parent_code": "464"
+    },
+    "19411": {
+        "name": "Vĩnh Tân",
+        "type": "xa",
+        "slug": "vinh-tan",
+        "name_with_type": "Xã Vĩnh Tân",
+        "path": "Vĩnh Tân, Vĩnh Linh, Quảng Trị",
+        "path_with_type": "Xã Vĩnh Tân, Huyện Vĩnh Linh, Tỉnh Quảng Trị",
+        "code": "19411",
+        "parent_code": "464"
+    },
+    "19414": {
+        "name": "Cửa Tùng",
+        "type": "thi-tran",
+        "slug": "cua-tung",
+        "name_with_type": "Thị trấn Cửa Tùng",
+        "path": "Cửa Tùng, Vĩnh Linh, Quảng Trị",
+        "path_with_type": "Thị trấn Cửa Tùng, Huyện Vĩnh Linh, Tỉnh Quảng Trị",
+        "code": "19414",
+        "parent_code": "464"
+    },
+    "19417": {
+        "name": "Vĩnh Hà",
+        "type": "xa",
+        "slug": "vinh-ha",
+        "name_with_type": "Xã Vĩnh Hà",
+        "path": "Vĩnh Hà, Vĩnh Linh, Quảng Trị",
+        "path_with_type": "Xã Vĩnh Hà, Huyện Vĩnh Linh, Tỉnh Quảng Trị",
+        "code": "19417",
+        "parent_code": "464"
+    },
+    "19420": {
+        "name": "Vĩnh Sơn",
+        "type": "xa",
+        "slug": "vinh-son",
+        "name_with_type": "Xã Vĩnh Sơn",
+        "path": "Vĩnh Sơn, Vĩnh Linh, Quảng Trị",
+        "path_with_type": "Xã Vĩnh Sơn, Huyện Vĩnh Linh, Tỉnh Quảng Trị",
+        "code": "19420",
+        "parent_code": "464"
+    },
+    "19423": {
+        "name": "Vĩnh Giang",
+        "type": "xa",
+        "slug": "vinh-giang",
+        "name_with_type": "Xã Vĩnh Giang",
+        "path": "Vĩnh Giang, Vĩnh Linh, Quảng Trị",
+        "path_with_type": "Xã Vĩnh Giang, Huyện Vĩnh Linh, Tỉnh Quảng Trị",
+        "code": "19423",
+        "parent_code": "464"
+    },
+    "19426": {
+        "name": "Vĩnh Ô",
+        "type": "xa",
+        "slug": "vinh-o",
+        "name_with_type": "Xã Vĩnh Ô",
+        "path": "Vĩnh Ô, Vĩnh Linh, Quảng Trị",
+        "path_with_type": "Xã Vĩnh Ô, Huyện Vĩnh Linh, Tỉnh Quảng Trị",
+        "code": "19426",
+        "parent_code": "464"
+    }
+}
