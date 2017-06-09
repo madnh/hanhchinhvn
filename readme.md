@@ -18,6 +18,6 @@ Phân cấp hành chính Việt Nam export từ nguồn Tổng Cục Thống Kê
 - **quan_huyen/**: thư mục chứa các file json là thông tin các quận, huyện, thị xã, thành phố trực thuộc của một tỉnh. Tên file là mã của tỉnh. Dùng để truy vấn ở client. Ví dụ: `quan_huyen/92.json` là thông tin các quận, huyện,... của tỉnh có mã **92**.
 - **xa_phuong/**: thư mục chứa các file json là thông tin các xã, phường, thị trấn của một quận, huyện,.... Tên file là mã của quận, huyện, thị xã hoặc thành phố trực thuộc tỉnh. Dùng để truy vấn ở client. Ví dụ: `xa_phuong/92.json` là thông tin các xã, phường,... của quận/huyện có mã **92**.
 
-### Nguồn
+### Nguồn dữ liệu
 
 **Tổng Cục Thống Kê**: [http://www.gso.gov.vn/dmhc2015/](http://www.gso.gov.vn/dmhc2015/)
