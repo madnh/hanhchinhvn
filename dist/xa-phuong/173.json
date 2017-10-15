@@ -19,16 +19,6 @@
         "code": "05911",
         "parent_code": "173"
     },
-    "05914": {
-        "name": "Đồng Liên",
-        "type": "xa",
-        "slug": "dong-lien",
-        "name_with_type": "Xã Đồng Liên",
-        "path": "Đồng Liên, Phú Bình, Thái Nguyên",
-        "path_with_type": "Xã Đồng Liên, Huyện Phú Bình, Tỉnh Thái Nguyên",
-        "code": "05914",
-        "parent_code": "173"
-    },
     "05917": {
         "name": "Tân Khánh",
         "type": "xa",

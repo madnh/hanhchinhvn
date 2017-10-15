@@ -90,12 +90,12 @@
         "parent_code": "119"
     },
     "03748": {
-        "name": "Chiềng Sơ",
+        "name": "Phổng Lăng",
         "type": "xa",
-        "slug": "chieng-so",
-        "name_with_type": "Xã Chiềng Sơ",
-        "path": "Chiềng Sơ, Thuận Châu, Sơn La",
-        "path_with_type": "Xã Chiềng Sơ, Huyện Thuận Châu, Tỉnh Sơn La",
+        "slug": "phong-lang",
+        "name_with_type": "Xã Phổng Lăng",
+        "path": "Phổng Lăng, Thuận Châu, Sơn La",
+        "path_with_type": "Xã Phổng Lăng, Huyện Thuận Châu, Tỉnh Sơn La",
         "code": "03748",
         "parent_code": "119"
     },

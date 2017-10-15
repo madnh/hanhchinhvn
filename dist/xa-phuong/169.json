@@ -9,16 +9,6 @@
         "code": "05656",
         "parent_code": "169"
     },
-    "05659": {
-        "name": "Chùa Hang",
-        "type": "thi-tran",
-        "slug": "chua-hang",
-        "name_with_type": "Thị trấn Chùa Hang",
-        "path": "Chùa Hang, Đồng Hỷ, Thái Nguyên",
-        "path_with_type": "Thị trấn Chùa Hang, Huyện Đồng Hỷ, Tỉnh Thái Nguyên",
-        "code": "05659",
-        "parent_code": "169"
-    },
     "05662": {
         "name": "Trại Cau",
         "type": "thi-tran",
@@ -139,16 +129,6 @@
         "code": "05698",
         "parent_code": "169"
     },
-    "05701": {
-        "name": "Linh Sơn",
-        "type": "xa",
-        "slug": "linh-son",
-        "name_with_type": "Xã Linh Sơn",
-        "path": "Linh Sơn, Đồng Hỷ, Thái Nguyên",
-        "path_with_type": "Xã Linh Sơn, Huyện Đồng Hỷ, Tỉnh Thái Nguyên",
-        "code": "05701",
-        "parent_code": "169"
-    },
     "05704": {
         "name": "Tân Lợi",
         "type": "xa",
@@ -167,16 +147,6 @@
         "path": "Nam Hòa, Đồng Hỷ, Thái Nguyên",
         "path_with_type": "Xã Nam Hòa, Huyện Đồng Hỷ, Tỉnh Thái Nguyên",
         "code": "05707",
-        "parent_code": "169"
-    },
-    "05713": {
-        "name": "Huống Thượng",
-        "type": "xa",
-        "slug": "huong-thuong",
-        "name_with_type": "Xã Huống Thượng",
-        "path": "Huống Thượng, Đồng Hỷ, Thái Nguyên",
-        "path_with_type": "Xã Huống Thượng, Huyện Đồng Hỷ, Tỉnh Thái Nguyên",
-        "code": "05713",
         "parent_code": "169"
     }
 }

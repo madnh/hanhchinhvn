@@ -148,15 +148,5 @@
         "path_with_type": "Xã Cổ Lũng, Huyện Phú Lương, Tỉnh Thái Nguyên",
         "code": "05650",
         "parent_code": "168"
-    },
-    "05653": {
-        "name": "Sơn Cẩm",
-        "type": "xa",
-        "slug": "son-cam",
-        "name_with_type": "Xã Sơn Cẩm",
-        "path": "Sơn Cẩm, Phú Lương, Thái Nguyên",
-        "path_with_type": "Xã Sơn Cẩm, Huyện Phú Lương, Tỉnh Thái Nguyên",
-        "code": "05653",
-        "parent_code": "168"
     }
 }

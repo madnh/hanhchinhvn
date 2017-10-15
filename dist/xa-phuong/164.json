@@ -249,6 +249,26 @@
         "code": "05503",
         "parent_code": "164"
     },
+    "05653": {
+        "name": "Sơn Cẩm",
+        "type": "xa",
+        "slug": "son-cam",
+        "name_with_type": "Xã Sơn Cẩm",
+        "path": "Sơn Cẩm, Thái Nguyên, Thái Nguyên",
+        "path_with_type": "Xã Sơn Cẩm, Thành phố Thái Nguyên, Tỉnh Thái Nguyên",
+        "code": "05653",
+        "parent_code": "164"
+    },
+    "05659": {
+        "name": "Chùa Hang",
+        "type": "phuong",
+        "slug": "chua-hang",
+        "name_with_type": "Phường Chùa Hang",
+        "path": "Chùa Hang, Thái Nguyên, Thái Nguyên",
+        "path_with_type": "Phường Chùa Hang, Thành phố Thái Nguyên, Tỉnh Thái Nguyên",
+        "code": "05659",
+        "parent_code": "164"
+    },
     "05695": {
         "name": "Cao Ngạn",
         "type": "xa",
@@ -259,14 +279,44 @@
         "code": "05695",
         "parent_code": "164"
     },
+    "05701": {
+        "name": "Linh Sơn",
+        "type": "xa",
+        "slug": "linh-son",
+        "name_with_type": "Xã Linh Sơn",
+        "path": "Linh Sơn, Thái Nguyên, Thái Nguyên",
+        "path_with_type": "Xã Linh Sơn, Thành phố Thái Nguyên, Tỉnh Thái Nguyên",
+        "code": "05701",
+        "parent_code": "164"
+    },
     "05710": {
         "name": "Đồng Bẩm",
-        "type": "xa",
+        "type": "phuong",
         "slug": "dong-bam",
-        "name_with_type": "Xã Đồng Bẩm",
+        "name_with_type": "Phường Đồng Bẩm",
         "path": "Đồng Bẩm, Thái Nguyên, Thái Nguyên",
-        "path_with_type": "Xã Đồng Bẩm, Thành phố Thái Nguyên, Tỉnh Thái Nguyên",
+        "path_with_type": "Phường Đồng Bẩm, Thành phố Thái Nguyên, Tỉnh Thái Nguyên",
         "code": "05710",
+        "parent_code": "164"
+    },
+    "05713": {
+        "name": "Huống Thượng",
+        "type": "xa",
+        "slug": "huong-thuong",
+        "name_with_type": "Xã Huống Thượng",
+        "path": "Huống Thượng, Thái Nguyên, Thái Nguyên",
+        "path_with_type": "Xã Huống Thượng, Thành phố Thái Nguyên, Tỉnh Thái Nguyên",
+        "code": "05713",
+        "parent_code": "164"
+    },
+    "05914": {
+        "name": "Đồng Liên",
+        "type": "xa",
+        "slug": "dong-lien",
+        "name_with_type": "Xã Đồng Liên",
+        "path": "Đồng Liên, Thái Nguyên, Thái Nguyên",
+        "path_with_type": "Xã Đồng Liên, Thành phố Thái Nguyên, Tỉnh Thái Nguyên",
+        "code": "05914",
         "parent_code": "164"
     }
 }

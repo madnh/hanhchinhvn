@@ -21,11 +21,11 @@
     },
     "382": {
         "name": "Sầm Sơn",
-        "type": "thi-xa",
+        "type": "thanh-pho",
         "slug": "sam-son",
-        "name_with_type": "Thị xã Sầm Sơn",
+        "name_with_type": "Thành phố Sầm Sơn",
         "path": "Sầm Sơn, Thanh Hóa",
-        "path_with_type": "Thị xã Sầm Sơn, Tỉnh Thanh Hóa",
+        "path_with_type": "Thành phố Sầm Sơn, Tỉnh Thanh Hóa",
         "code": "382",
         "parent_code": "38"
     },

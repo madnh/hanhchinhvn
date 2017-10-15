@@ -5,7 +5,7 @@
         "slug": "trung-son",
         "name_with_type": "Phường Trung Sơn",
         "path": "Trung Sơn, Sầm Sơn, Thanh Hóa",
-        "path_with_type": "Phường Trung Sơn, Thị xã Sầm Sơn, Tỉnh Thanh Hóa",
+        "path_with_type": "Phường Trung Sơn, Thành phố Sầm Sơn, Tỉnh Thanh Hóa",
         "code": "14830",
         "parent_code": "382"
     },
@@ -15,7 +15,7 @@
         "slug": "bac-son",
         "name_with_type": "Phường Bắc Sơn",
         "path": "Bắc Sơn, Sầm Sơn, Thanh Hóa",
-        "path_with_type": "Phường Bắc Sơn, Thị xã Sầm Sơn, Tỉnh Thanh Hóa",
+        "path_with_type": "Phường Bắc Sơn, Thành phố Sầm Sơn, Tỉnh Thanh Hóa",
         "code": "14833",
         "parent_code": "382"
     },
@@ -25,17 +25,17 @@
         "slug": "truong-son",
         "name_with_type": "Phường Trường Sơn",
         "path": "Trường Sơn, Sầm Sơn, Thanh Hóa",
-        "path_with_type": "Phường Trường Sơn, Thị xã Sầm Sơn, Tỉnh Thanh Hóa",
+        "path_with_type": "Phường Trường Sơn, Thành phố Sầm Sơn, Tỉnh Thanh Hóa",
         "code": "14836",
         "parent_code": "382"
     },
     "14839": {
         "name": "Quảng Cư",
-        "type": "xa",
+        "type": "phuong",
         "slug": "quang-cu",
-        "name_with_type": "Xã Quảng Cư",
+        "name_with_type": "Phường Quảng Cư",
         "path": "Quảng Cư, Sầm Sơn, Thanh Hóa",
-        "path_with_type": "Xã Quảng Cư, Thị xã Sầm Sơn, Tỉnh Thanh Hóa",
+        "path_with_type": "Phường Quảng Cư, Thành phố Sầm Sơn, Tỉnh Thanh Hóa",
         "code": "14839",
         "parent_code": "382"
     },
@@ -45,7 +45,7 @@
         "slug": "quang-tien",
         "name_with_type": "Phường Quảng Tiến",
         "path": "Quảng Tiến, Sầm Sơn, Thanh Hóa",
-        "path_with_type": "Phường Quảng Tiến, Thị xã Sầm Sơn, Tỉnh Thanh Hóa",
+        "path_with_type": "Phường Quảng Tiến, Thành phố Sầm Sơn, Tỉnh Thanh Hóa",
         "code": "14842",
         "parent_code": "382"
     },
@@ -55,7 +55,7 @@
         "slug": "quang-minh",
         "name_with_type": "Xã Quảng Minh",
         "path": "Quảng Minh, Sầm Sơn, Thanh Hóa",
-        "path_with_type": "Xã Quảng Minh, Thị xã Sầm Sơn, Tỉnh Thanh Hóa",
+        "path_with_type": "Xã Quảng Minh, Thành phố Sầm Sơn, Tỉnh Thanh Hóa",
         "code": "16513",
         "parent_code": "382"
     },
@@ -65,37 +65,37 @@
         "slug": "quang-hung",
         "name_with_type": "Xã Quảng Hùng",
         "path": "Quảng Hùng, Sầm Sơn, Thanh Hóa",
-        "path_with_type": "Xã Quảng Hùng, Thị xã Sầm Sơn, Tỉnh Thanh Hóa",
+        "path_with_type": "Xã Quảng Hùng, Thành phố Sầm Sơn, Tỉnh Thanh Hóa",
         "code": "16516",
         "parent_code": "382"
     },
     "16528": {
         "name": "Quảng Thọ",
-        "type": "xa",
+        "type": "phuong",
         "slug": "quang-tho",
-        "name_with_type": "Xã Quảng Thọ",
+        "name_with_type": "Phường Quảng Thọ",
         "path": "Quảng Thọ, Sầm Sơn, Thanh Hóa",
-        "path_with_type": "Xã Quảng Thọ, Thị xã Sầm Sơn, Tỉnh Thanh Hóa",
+        "path_with_type": "Phường Quảng Thọ, Thành phố Sầm Sơn, Tỉnh Thanh Hóa",
         "code": "16528",
         "parent_code": "382"
     },
     "16531": {
         "name": "Quảng Châu",
-        "type": "xa",
+        "type": "phuong",
         "slug": "quang-chau",
-        "name_with_type": "Xã Quảng Châu",
+        "name_with_type": "Phường Quảng Châu",
         "path": "Quảng Châu, Sầm Sơn, Thanh Hóa",
-        "path_with_type": "Xã Quảng Châu, Thị xã Sầm Sơn, Tỉnh Thanh Hóa",
+        "path_with_type": "Phường Quảng Châu, Thành phố Sầm Sơn, Tỉnh Thanh Hóa",
         "code": "16531",
         "parent_code": "382"
     },
     "16534": {
         "name": "Quảng Vinh",
-        "type": "xa",
+        "type": "phuong",
         "slug": "quang-vinh",
-        "name_with_type": "Xã Quảng Vinh",
+        "name_with_type": "Phường Quảng Vinh",
         "path": "Quảng Vinh, Sầm Sơn, Thanh Hóa",
-        "path_with_type": "Xã Quảng Vinh, Thị xã Sầm Sơn, Tỉnh Thanh Hóa",
+        "path_with_type": "Phường Quảng Vinh, Thành phố Sầm Sơn, Tỉnh Thanh Hóa",
         "code": "16534",
         "parent_code": "382"
     },
@@ -105,7 +105,7 @@
         "slug": "quang-dai",
         "name_with_type": "Xã Quảng Đại",
         "path": "Quảng Đại, Sầm Sơn, Thanh Hóa",
-        "path_with_type": "Xã Quảng Đại, Thị xã Sầm Sơn, Tỉnh Thanh Hóa",
+        "path_with_type": "Xã Quảng Đại, Thành phố Sầm Sơn, Tỉnh Thanh Hóa",
         "code": "16537",
         "parent_code": "382"
     }

@@ -1,11 +1,11 @@
 {
     "15865": {
-        "name": "Hoằng Hóa",
+        "name": "Bút Sơn",
         "type": "thi-tran",
-        "slug": "hoang-hoa",
-        "name_with_type": "Thị trấn Hoằng Hóa",
-        "path": "Hoằng Hóa, Hoằng Hóa, Thanh Hóa",
-        "path_with_type": "Thị trấn Hoằng Hóa, Huyện Hoằng Hóa, Tỉnh Thanh Hóa",
+        "slug": "but-son",
+        "name_with_type": "Thị trấn Bút Sơn",
+        "path": "Bút Sơn, Hoằng Hóa, Thanh Hóa",
+        "path_with_type": "Thị trấn Bút Sơn, Huyện Hoằng Hóa, Tỉnh Thanh Hóa",
         "code": "15865",
         "parent_code": "399"
     },
