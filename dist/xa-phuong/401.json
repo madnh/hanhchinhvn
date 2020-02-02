@@ -60,23 +60,13 @@
         "parent_code": "401"
     },
     "16111": {
-        "name": "Nga Lĩnh",
+        "name": "Nga Phượng",
         "type": "xa",
-        "slug": "nga-linh",
-        "name_with_type": "Xã Nga Lĩnh",
-        "path": "Nga Lĩnh, Nga Sơn, Thanh Hóa",
-        "path_with_type": "Xã Nga Lĩnh, Huyện Nga Sơn, Tỉnh Thanh Hóa",
+        "slug": "nga-phuong",
+        "name_with_type": "Xã Nga Phượng",
+        "path": "Nga Phượng, Nga Sơn, Thanh Hóa",
+        "path_with_type": "Xã Nga Phượng, Huyện Nga Sơn, Tỉnh Thanh Hóa",
         "code": "16111",
-        "parent_code": "401"
-    },
-    "16114": {
-        "name": "Nga Nhân",
-        "type": "xa",
-        "slug": "nga-nhan",
-        "name_with_type": "Xã Nga Nhân",
-        "path": "Nga Nhân, Nga Sơn, Thanh Hóa",
-        "path_with_type": "Xã Nga Nhân, Huyện Nga Sơn, Tỉnh Thanh Hóa",
-        "code": "16114",
         "parent_code": "401"
     },
     "16117": {
@@ -107,26 +97,6 @@
         "path": "Nga Thanh, Nga Sơn, Thanh Hóa",
         "path_with_type": "Xã Nga Thanh, Huyện Nga Sơn, Tỉnh Thanh Hóa",
         "code": "16123",
-        "parent_code": "401"
-    },
-    "16126": {
-        "name": "Nga Hưng",
-        "type": "xa",
-        "slug": "nga-hung",
-        "name_with_type": "Xã Nga Hưng",
-        "path": "Nga Hưng, Nga Sơn, Thanh Hóa",
-        "path_with_type": "Xã Nga Hưng, Huyện Nga Sơn, Tỉnh Thanh Hóa",
-        "code": "16126",
-        "parent_code": "401"
-    },
-    "16129": {
-        "name": "Nga Mỹ",
-        "type": "xa",
-        "slug": "nga-my",
-        "name_with_type": "Xã Nga Mỹ",
-        "path": "Nga Mỹ, Nga Sơn, Thanh Hóa",
-        "path_with_type": "Xã Nga Mỹ, Huyện Nga Sơn, Tỉnh Thanh Hóa",
-        "code": "16129",
         "parent_code": "401"
     },
     "16132": {

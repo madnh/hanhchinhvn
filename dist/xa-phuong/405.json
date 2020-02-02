@@ -89,16 +89,6 @@
         "code": "16405",
         "parent_code": "405"
     },
-    "16408": {
-        "name": "Đông Anh",
-        "type": "xa",
-        "slug": "dong-anh",
-        "name_with_type": "Xã Đông Anh",
-        "path": "Đông Anh, Đông Sơn, Thanh Hóa",
-        "path_with_type": "Xã Đông Anh, Huyện Đông Sơn, Tỉnh Thanh Hóa",
-        "code": "16408",
-        "parent_code": "405"
-    },
     "16414": {
         "name": "Đông Thịnh",
         "type": "xa",

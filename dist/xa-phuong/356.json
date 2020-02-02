@@ -201,11 +201,11 @@
     },
     "13693": {
         "name": "Lộc Hòa",
-        "type": "xa",
+        "type": "phuong",
         "slug": "loc-hoa",
-        "name_with_type": "Xã Lộc Hòa",
+        "name_with_type": "Phường Lộc Hòa",
         "path": "Lộc Hòa, Nam Định, Nam Định",
-        "path_with_type": "Xã Lộc Hòa, Thành phố Nam Định, Tỉnh Nam Định",
+        "path_with_type": "Phường Lộc Hòa, Thành phố Nam Định, Tỉnh Nam Định",
         "code": "13693",
         "parent_code": "356"
     },
@@ -221,11 +221,11 @@
     },
     "13699": {
         "name": "Mỹ Xá",
-        "type": "xa",
+        "type": "phuong",
         "slug": "my-xa",
-        "name_with_type": "Xã Mỹ Xá",
+        "name_with_type": "Phường Mỹ Xá",
         "path": "Mỹ Xá, Nam Định, Nam Định",
-        "path_with_type": "Xã Mỹ Xá, Thành phố Nam Định, Tỉnh Nam Định",
+        "path_with_type": "Phường Mỹ Xá, Thành phố Nam Định, Tỉnh Nam Định",
         "code": "13699",
         "parent_code": "356"
     },

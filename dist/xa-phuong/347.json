@@ -60,12 +60,12 @@
         "parent_code": "347"
     },
     "13303": {
-        "name": "Lam Hà",
+        "name": "Lam Hạ",
         "type": "phuong",
         "slug": "lam-ha",
-        "name_with_type": "Phường Lam Hà",
-        "path": "Lam Hà, Phủ Lý, Hà Nam",
-        "path_with_type": "Phường Lam Hà, Thành phố Phủ Lý, Tỉnh Hà Nam",
+        "name_with_type": "Phường Lam Hạ",
+        "path": "Lam Hạ, Phủ Lý, Hà Nam",
+        "path_with_type": "Phường Lam Hạ, Thành phố Phủ Lý, Tỉnh Hà Nam",
         "code": "13303",
         "parent_code": "347"
     },

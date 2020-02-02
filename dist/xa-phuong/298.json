@@ -9,33 +9,13 @@
         "code": "11074",
         "parent_code": "298"
     },
-    "11077": {
-        "name": "Ngọc Sơn",
-        "type": "xa",
-        "slug": "ngoc-son",
-        "name_with_type": "Xã Ngọc Sơn",
-        "path": "Ngọc Sơn, Tứ Kỳ, Hải Dương",
-        "path_with_type": "Xã Ngọc Sơn, Huyện Tứ Kỳ, Tỉnh Hải Dương",
-        "code": "11077",
-        "parent_code": "298"
-    },
-    "11080": {
-        "name": "Kỳ Sơn",
-        "type": "xa",
-        "slug": "ky-son",
-        "name_with_type": "Xã Kỳ Sơn",
-        "path": "Kỳ Sơn, Tứ Kỳ, Hải Dương",
-        "path_with_type": "Xã Kỳ Sơn, Huyện Tứ Kỳ, Tỉnh Hải Dương",
-        "code": "11080",
-        "parent_code": "298"
-    },
     "11083": {
-        "name": "Đại Đồng",
+        "name": "Đại Sơn",
         "type": "xa",
-        "slug": "dai-dong",
-        "name_with_type": "Xã Đại Đồng",
-        "path": "Đại Đồng, Tứ Kỳ, Hải Dương",
-        "path_with_type": "Xã Đại Đồng, Huyện Tứ Kỳ, Tỉnh Hải Dương",
+        "slug": "dai-son",
+        "name_with_type": "Xã Đại Sơn",
+        "path": "Đại Sơn, Tứ Kỳ, Hải Dương",
+        "path_with_type": "Xã Đại Sơn, Huyện Tứ Kỳ, Tỉnh Hải Dương",
         "code": "11083",
         "parent_code": "298"
     },
@@ -70,12 +50,12 @@
         "parent_code": "298"
     },
     "11095": {
-        "name": "Tứ Xuyên",
+        "name": "Chí Minh",
         "type": "xa",
-        "slug": "tu-xuyen",
-        "name_with_type": "Xã Tứ Xuyên",
-        "path": "Tứ Xuyên, Tứ Kỳ, Hải Dương",
-        "path_with_type": "Xã Tứ Xuyên, Huyện Tứ Kỳ, Tỉnh Hải Dương",
+        "slug": "chi-minh",
+        "name_with_type": "Xã Chí Minh",
+        "path": "Chí Minh, Tứ Kỳ, Hải Dương",
+        "path_with_type": "Xã Chí Minh, Huyện Tứ Kỳ, Tỉnh Hải Dương",
         "code": "11095",
         "parent_code": "298"
     },
@@ -97,26 +77,6 @@
         "path": "Quang Phục, Tứ Kỳ, Hải Dương",
         "path_with_type": "Xã Quang Phục, Huyện Tứ Kỳ, Tỉnh Hải Dương",
         "code": "11101",
-        "parent_code": "298"
-    },
-    "11104": {
-        "name": "Đông Kỳ",
-        "type": "xa",
-        "slug": "dong-ky",
-        "name_with_type": "Xã Đông Kỳ",
-        "path": "Đông Kỳ, Tứ Kỳ, Hải Dương",
-        "path_with_type": "Xã Đông Kỳ, Huyện Tứ Kỳ, Tỉnh Hải Dương",
-        "code": "11104",
-        "parent_code": "298"
-    },
-    "11107": {
-        "name": "Tây Kỳ",
-        "type": "xa",
-        "slug": "tay-ky",
-        "name_with_type": "Xã Tây Kỳ",
-        "path": "Tây Kỳ, Tứ Kỳ, Hải Dương",
-        "path_with_type": "Xã Tây Kỳ, Huyện Tứ Kỳ, Tỉnh Hải Dương",
-        "code": "11107",
         "parent_code": "298"
     },
     "11110": {

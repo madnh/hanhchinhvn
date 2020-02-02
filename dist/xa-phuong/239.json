@@ -79,16 +79,6 @@
         "code": "08683",
         "parent_code": "239"
     },
-    "08686": {
-        "name": "Đồng Luận",
-        "type": "xa",
-        "slug": "dong-luan",
-        "name_with_type": "Xã Đồng Luận",
-        "path": "Đồng Luận, Thanh Thuỷ, Phú Thọ",
-        "path_with_type": "Xã Đồng Luận, Huyện Thanh Thuỷ, Tỉnh Phú Thọ",
-        "code": "08686",
-        "parent_code": "239"
-    },
     "08689": {
         "name": "Hoàng Xá",
         "type": "xa",
@@ -99,44 +89,14 @@
         "code": "08689",
         "parent_code": "239"
     },
-    "08692": {
-        "name": "Trung Thịnh",
-        "type": "xa",
-        "slug": "trung-thinh",
-        "name_with_type": "Xã Trung Thịnh",
-        "path": "Trung Thịnh, Thanh Thuỷ, Phú Thọ",
-        "path_with_type": "Xã Trung Thịnh, Huyện Thanh Thuỷ, Tỉnh Phú Thọ",
-        "code": "08692",
-        "parent_code": "239"
-    },
     "08695": {
-        "name": "Trung Nghĩa",
+        "name": "Đồng Trung",
         "type": "xa",
-        "slug": "trung-nghia",
-        "name_with_type": "Xã Trung Nghĩa",
-        "path": "Trung Nghĩa, Thanh Thuỷ, Phú Thọ",
-        "path_with_type": "Xã Trung Nghĩa, Huyện Thanh Thuỷ, Tỉnh Phú Thọ",
+        "slug": "dong-trung",
+        "name_with_type": "Xã Đồng Trung",
+        "path": "Đồng Trung, Thanh Thuỷ, Phú Thọ",
+        "path_with_type": "Xã Đồng Trung, Huyện Thanh Thuỷ, Tỉnh Phú Thọ",
         "code": "08695",
-        "parent_code": "239"
-    },
-    "08698": {
-        "name": "Phượng Mao",
-        "type": "xa",
-        "slug": "phuong-mao",
-        "name_with_type": "Xã Phượng Mao",
-        "path": "Phượng Mao, Thanh Thuỷ, Phú Thọ",
-        "path_with_type": "Xã Phượng Mao, Huyện Thanh Thuỷ, Tỉnh Phú Thọ",
-        "code": "08698",
-        "parent_code": "239"
-    },
-    "08701": {
-        "name": "Yến Mao",
-        "type": "xa",
-        "slug": "yen-mao",
-        "name_with_type": "Xã Yến Mao",
-        "path": "Yến Mao, Thanh Thuỷ, Phú Thọ",
-        "path_with_type": "Xã Yến Mao, Huyện Thanh Thuỷ, Tỉnh Phú Thọ",
-        "code": "08701",
         "parent_code": "239"
     },
     "08704": {

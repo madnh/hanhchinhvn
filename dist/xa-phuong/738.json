@@ -90,12 +90,12 @@
         "parent_code": "738"
     },
     "26326": {
-        "name": "Xuân Thạnh",
-        "type": "xa",
-        "slug": "xuan-thanh",
-        "name_with_type": "Xã Xuân Thạnh",
-        "path": "Xuân Thạnh, Thống Nhất, Đồng Nai",
-        "path_with_type": "Xã Xuân Thạnh, Huyện Thống Nhất, Tỉnh Đồng Nai",
+        "name": "Dầu Giây",
+        "type": "thi-tran",
+        "slug": "dau-giay",
+        "name_with_type": "Thị trấn Dầu Giây",
+        "path": "Dầu Giây, Thống Nhất, Đồng Nai",
+        "path_with_type": "Thị trấn Dầu Giây, Huyện Thống Nhất, Tỉnh Đồng Nai",
         "code": "26326",
         "parent_code": "738"
     }

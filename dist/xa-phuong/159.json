@@ -1,22 +1,12 @@
 {
     "04981": {
-        "name": "Thanh Hà",
+        "name": "Ba Hàng Đồi",
         "type": "thi-tran",
-        "slug": "thanh-ha",
-        "name_with_type": "Thị trấn Thanh Hà",
-        "path": "Thanh Hà, Lạc Thủy, Hoà Bình",
-        "path_with_type": "Thị trấn Thanh Hà, Huyện Lạc Thủy, Tỉnh Hoà Bình",
+        "slug": "ba-hang-doi",
+        "name_with_type": "Thị trấn Ba Hàng Đồi",
+        "path": "Ba Hàng Đồi, Lạc Thủy, Hoà Bình",
+        "path_with_type": "Thị trấn Ba Hàng Đồi, Huyện Lạc Thủy, Tỉnh Hoà Bình",
         "code": "04981",
-        "parent_code": "159"
-    },
-    "05074": {
-        "name": "Thanh Nông",
-        "type": "xa",
-        "slug": "thanh-nong",
-        "name_with_type": "Xã Thanh Nông",
-        "path": "Thanh Nông, Lạc Thủy, Hoà Bình",
-        "path_with_type": "Xã Thanh Nông, Huyện Lạc Thủy, Tỉnh Hoà Bình",
-        "code": "05074",
         "parent_code": "159"
     },
     "05392": {
@@ -27,16 +17,6 @@
         "path": "Chi Nê, Lạc Thủy, Hoà Bình",
         "path_with_type": "Thị trấn Chi Nê, Huyện Lạc Thủy, Tỉnh Hoà Bình",
         "code": "05392",
-        "parent_code": "159"
-    },
-    "05395": {
-        "name": "Phú Lão",
-        "type": "xa",
-        "slug": "phu-lao",
-        "name_with_type": "Xã Phú Lão",
-        "path": "Phú Lão, Lạc Thủy, Hoà Bình",
-        "path_with_type": "Xã Phú Lão, Huyện Lạc Thủy, Tỉnh Hoà Bình",
-        "code": "05395",
         "parent_code": "159"
     },
     "05398": {
@@ -50,12 +30,12 @@
         "parent_code": "159"
     },
     "05401": {
-        "name": "Cố Nghĩa",
+        "name": "Phú Nghĩa",
         "type": "xa",
-        "slug": "co-nghia",
-        "name_with_type": "Xã Cố Nghĩa",
-        "path": "Cố Nghĩa, Lạc Thủy, Hoà Bình",
-        "path_with_type": "Xã Cố Nghĩa, Huyện Lạc Thủy, Tỉnh Hoà Bình",
+        "slug": "phu-nghia",
+        "name_with_type": "Xã Phú Nghĩa",
+        "path": "Phú Nghĩa, Lạc Thủy, Hoà Bình",
+        "path_with_type": "Xã Phú Nghĩa, Huyện Lạc Thủy, Tỉnh Hoà Bình",
         "code": "05401",
         "parent_code": "159"
     },
@@ -69,26 +49,6 @@
         "code": "05404",
         "parent_code": "159"
     },
-    "05407": {
-        "name": "Lạc Long",
-        "type": "xa",
-        "slug": "lac-long",
-        "name_with_type": "Xã Lạc Long",
-        "path": "Lạc Long, Lạc Thủy, Hoà Bình",
-        "path_with_type": "Xã Lạc Long, Huyện Lạc Thủy, Tỉnh Hoà Bình",
-        "code": "05407",
-        "parent_code": "159"
-    },
-    "05410": {
-        "name": "Liên Hòa",
-        "type": "xa",
-        "slug": "lien-hoa",
-        "name_with_type": "Xã Liên Hòa",
-        "path": "Liên Hòa, Lạc Thủy, Hoà Bình",
-        "path_with_type": "Xã Liên Hòa, Huyện Lạc Thủy, Tỉnh Hoà Bình",
-        "code": "05410",
-        "parent_code": "159"
-    },
     "05413": {
         "name": "Khoan Dụ",
         "type": "xa",
@@ -97,16 +57,6 @@
         "path": "Khoan Dụ, Lạc Thủy, Hoà Bình",
         "path_with_type": "Xã Khoan Dụ, Huyện Lạc Thủy, Tỉnh Hoà Bình",
         "code": "05413",
-        "parent_code": "159"
-    },
-    "05416": {
-        "name": "Đồng Môn",
-        "type": "xa",
-        "slug": "dong-mon",
-        "name_with_type": "Xã Đồng Môn",
-        "path": "Đồng Môn, Lạc Thủy, Hoà Bình",
-        "path_with_type": "Xã Đồng Môn, Huyện Lạc Thủy, Tỉnh Hoà Bình",
-        "code": "05416",
         "parent_code": "159"
     },
     "05419": {
@@ -130,12 +80,12 @@
         "parent_code": "159"
     },
     "05425": {
-        "name": "An Lạc",
+        "name": "Thống Nhất",
         "type": "xa",
-        "slug": "an-lac",
-        "name_with_type": "Xã An Lạc",
-        "path": "An Lạc, Lạc Thủy, Hoà Bình",
-        "path_with_type": "Xã An Lạc, Huyện Lạc Thủy, Tỉnh Hoà Bình",
+        "slug": "thong-nhat",
+        "name_with_type": "Xã Thống Nhất",
+        "path": "Thống Nhất, Lạc Thủy, Hoà Bình",
+        "path_with_type": "Xã Thống Nhất, Huyện Lạc Thủy, Tỉnh Hoà Bình",
         "code": "05425",
         "parent_code": "159"
     },

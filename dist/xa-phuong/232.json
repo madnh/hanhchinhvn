@@ -9,16 +9,6 @@
         "code": "08152",
         "parent_code": "232"
     },
-    "08155": {
-        "name": "Thanh Vân",
-        "type": "xa",
-        "slug": "thanh-van",
-        "name_with_type": "Xã Thanh Vân",
-        "path": "Thanh Vân, Thanh Ba, Phú Thọ",
-        "path_with_type": "Xã Thanh Vân, Huyện Thanh Ba, Tỉnh Phú Thọ",
-        "code": "08155",
-        "parent_code": "232"
-    },
     "08156": {
         "name": "Vân Lĩnh",
         "type": "xa",
@@ -59,16 +49,6 @@
         "code": "08164",
         "parent_code": "232"
     },
-    "08167": {
-        "name": "Thái Ninh",
-        "type": "xa",
-        "slug": "thai-ninh",
-        "name_with_type": "Xã Thái Ninh",
-        "path": "Thái Ninh, Thanh Ba, Phú Thọ",
-        "path_with_type": "Xã Thái Ninh, Huyện Thanh Ba, Tỉnh Phú Thọ",
-        "code": "08167",
-        "parent_code": "232"
-    },
     "08170": {
         "name": "Đồng Xuân",
         "type": "xa",
@@ -80,23 +60,13 @@
         "parent_code": "232"
     },
     "08173": {
-        "name": "Năng Yên",
+        "name": "Quảng Yên",
         "type": "xa",
-        "slug": "nang-yen",
-        "name_with_type": "Xã Năng Yên",
-        "path": "Năng Yên, Thanh Ba, Phú Thọ",
-        "path_with_type": "Xã Năng Yên, Huyện Thanh Ba, Tỉnh Phú Thọ",
+        "slug": "quang-yen",
+        "name_with_type": "Xã Quảng Yên",
+        "path": "Quảng Yên, Thanh Ba, Phú Thọ",
+        "path_with_type": "Xã Quảng Yên, Huyện Thanh Ba, Tỉnh Phú Thọ",
         "code": "08173",
-        "parent_code": "232"
-    },
-    "08176": {
-        "name": "Yển Khê",
-        "type": "xa",
-        "slug": "yen-khe",
-        "name_with_type": "Xã Yển Khê",
-        "path": "Yển Khê, Thanh Ba, Phú Thọ",
-        "path_with_type": "Xã Yển Khê, Huyện Thanh Ba, Tỉnh Phú Thọ",
-        "code": "08176",
         "parent_code": "232"
     },
     "08179": {
@@ -107,46 +77,6 @@
         "path": "Ninh Dân, Thanh Ba, Phú Thọ",
         "path_with_type": "Xã Ninh Dân, Huyện Thanh Ba, Tỉnh Phú Thọ",
         "code": "08179",
-        "parent_code": "232"
-    },
-    "08182": {
-        "name": "Quảng Nạp",
-        "type": "xa",
-        "slug": "quang-nap",
-        "name_with_type": "Xã Quảng Nạp",
-        "path": "Quảng Nạp, Thanh Ba, Phú Thọ",
-        "path_with_type": "Xã Quảng Nạp, Huyện Thanh Ba, Tỉnh Phú Thọ",
-        "code": "08182",
-        "parent_code": "232"
-    },
-    "08185": {
-        "name": "Vũ Yển",
-        "type": "xa",
-        "slug": "vu-yen",
-        "name_with_type": "Xã Vũ Yển",
-        "path": "Vũ Yển, Thanh Ba, Phú Thọ",
-        "path_with_type": "Xã Vũ Yển, Huyện Thanh Ba, Tỉnh Phú Thọ",
-        "code": "08185",
-        "parent_code": "232"
-    },
-    "08188": {
-        "name": "Yên Nội",
-        "type": "xa",
-        "slug": "yen-noi",
-        "name_with_type": "Xã Yên Nội",
-        "path": "Yên Nội, Thanh Ba, Phú Thọ",
-        "path_with_type": "Xã Yên Nội, Huyện Thanh Ba, Tỉnh Phú Thọ",
-        "code": "08188",
-        "parent_code": "232"
-    },
-    "08191": {
-        "name": "Phương Lĩnh",
-        "type": "xa",
-        "slug": "phuong-linh",
-        "name_with_type": "Xã Phương Lĩnh",
-        "path": "Phương Lĩnh, Thanh Ba, Phú Thọ",
-        "path_with_type": "Xã Phương Lĩnh, Huyện Thanh Ba, Tỉnh Phú Thọ",
-        "code": "08191",
         "parent_code": "232"
     },
     "08194": {
@@ -177,16 +107,6 @@
         "path": "Mạn Lạn, Thanh Ba, Phú Thọ",
         "path_with_type": "Xã Mạn Lạn, Huyện Thanh Ba, Tỉnh Phú Thọ",
         "code": "08200",
-        "parent_code": "232"
-    },
-    "08203": {
-        "name": "Thanh Xá",
-        "type": "xa",
-        "slug": "thanh-xa",
-        "name_with_type": "Xã Thanh Xá",
-        "path": "Thanh Xá, Thanh Ba, Phú Thọ",
-        "path_with_type": "Xã Thanh Xá, Huyện Thanh Ba, Tỉnh Phú Thọ",
-        "code": "08203",
         "parent_code": "232"
     },
     "08206": {

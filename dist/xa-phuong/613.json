@@ -70,12 +70,12 @@
         "parent_code": "613"
     },
     "23473": {
-        "name": "Đắk Long",
-        "type": "xa",
-        "slug": "dak-long",
-        "name_with_type": "Xã Đắk Long",
-        "path": "Đắk Long, Kon Plông, Kon Tum",
-        "path_with_type": "Xã Đắk Long, Huyện Kon Plông, Tỉnh Kon Tum",
+        "name": "Măng Đen",
+        "type": "thi-tran",
+        "slug": "mang-den",
+        "name_with_type": "Thị trấn Măng Đen",
+        "path": "Măng Đen, Kon Plông, Kon Tum",
+        "path_with_type": "Thị trấn Măng Đen, Huyện Kon Plông, Tỉnh Kon Tum",
         "code": "23473",
         "parent_code": "613"
     },

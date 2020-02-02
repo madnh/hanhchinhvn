@@ -169,23 +169,13 @@
         "code": "18814",
         "parent_code": "447"
     },
-    "18826": {
-        "name": "Kỳ Hợp",
-        "type": "xa",
-        "slug": "ky-hop",
-        "name_with_type": "Xã Kỳ Hợp",
-        "path": "Kỳ Hợp, Kỳ Anh, Hà Tĩnh",
-        "path_with_type": "Xã Kỳ Hợp, Huyện Kỳ Anh, Tỉnh Hà Tĩnh",
-        "code": "18826",
-        "parent_code": "447"
-    },
     "18838": {
-        "name": "Kỳ Lâm",
+        "name": "Lâm Hợp",
         "type": "xa",
-        "slug": "ky-lam",
-        "name_with_type": "Xã Kỳ Lâm",
-        "path": "Kỳ Lâm, Kỳ Anh, Hà Tĩnh",
-        "path_with_type": "Xã Kỳ Lâm, Huyện Kỳ Anh, Tỉnh Hà Tĩnh",
+        "slug": "lam-hop",
+        "name_with_type": "Xã Lâm Hợp",
+        "path": "Lâm Hợp, Kỳ Anh, Hà Tĩnh",
+        "path_with_type": "Xã Lâm Hợp, Huyện Kỳ Anh, Tỉnh Hà Tĩnh",
         "code": "18838",
         "parent_code": "447"
     },

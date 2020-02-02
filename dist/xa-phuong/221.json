@@ -1,21 +1,21 @@
 {
     "07681": {
-        "name": "Neo",
+        "name": "Nham Biền",
         "type": "thi-tran",
-        "slug": "neo",
-        "name_with_type": "Thị trấn Neo",
-        "path": "Neo, Yên Dũng, Bắc Giang",
-        "path_with_type": "Thị trấn Neo, Huyện Yên Dũng, Tỉnh Bắc Giang",
+        "slug": "nham-bien",
+        "name_with_type": "Thị trấn Nham Biền",
+        "path": "Nham Biền, Yên Dũng, Bắc Giang",
+        "path_with_type": "Thị trấn Nham Biền, Huyện Yên Dũng, Tỉnh Bắc Giang",
         "code": "07681",
         "parent_code": "221"
     },
     "07682": {
-        "name": "Tân Dân",
+        "name": "Tân An",
         "type": "thi-tran",
-        "slug": "tan-dan",
-        "name_with_type": "Thị trấn Tân Dân",
-        "path": "Tân Dân, Yên Dũng, Bắc Giang",
-        "path_with_type": "Thị trấn Tân Dân, Huyện Yên Dũng, Tỉnh Bắc Giang",
+        "slug": "tan-an",
+        "name_with_type": "Thị trấn Tân An",
+        "path": "Tân An, Yên Dũng, Bắc Giang",
+        "path_with_type": "Thị trấn Tân An, Huyện Yên Dũng, Tỉnh Bắc Giang",
         "code": "07682",
         "parent_code": "221"
     },
@@ -37,16 +37,6 @@
         "path": "Hương Gián, Yên Dũng, Bắc Giang",
         "path_with_type": "Xã Hương Gián, Huyện Yên Dũng, Tỉnh Bắc Giang",
         "code": "07690",
-        "parent_code": "221"
-    },
-    "07693": {
-        "name": "Tân An",
-        "type": "xa",
-        "slug": "tan-an",
-        "name_with_type": "Xã Tân An",
-        "path": "Tân An, Yên Dũng, Bắc Giang",
-        "path_with_type": "Xã Tân An, Huyện Yên Dũng, Tỉnh Bắc Giang",
-        "code": "07693",
         "parent_code": "221"
     },
     "07702": {
@@ -139,16 +129,6 @@
         "code": "07729",
         "parent_code": "221"
     },
-    "07732": {
-        "name": "Nham Sơn",
-        "type": "xa",
-        "slug": "nham-son",
-        "name_with_type": "Xã Nham Sơn",
-        "path": "Nham Sơn, Yên Dũng, Bắc Giang",
-        "path_with_type": "Xã Nham Sơn, Huyện Yên Dũng, Tỉnh Bắc Giang",
-        "code": "07732",
-        "parent_code": "221"
-    },
     "07735": {
         "name": "Đức Giang",
         "type": "xa",
@@ -177,16 +157,6 @@
         "path": "Tư Mại, Yên Dũng, Bắc Giang",
         "path_with_type": "Xã Tư Mại, Huyện Yên Dũng, Tỉnh Bắc Giang",
         "code": "07741",
-        "parent_code": "221"
-    },
-    "07744": {
-        "name": "Thắng Cương",
-        "type": "xa",
-        "slug": "thang-cuong",
-        "name_with_type": "Xã Thắng Cương",
-        "path": "Thắng Cương, Yên Dũng, Bắc Giang",
-        "path_with_type": "Xã Thắng Cương, Huyện Yên Dũng, Tỉnh Bắc Giang",
-        "code": "07744",
         "parent_code": "221"
     },
     "07747": {

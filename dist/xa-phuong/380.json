@@ -219,26 +219,6 @@
         "code": "15868",
         "parent_code": "380"
     },
-    "15913": {
-        "name": "Hoằng Lý",
-        "type": "xa",
-        "slug": "hoang-ly",
-        "name_with_type": "Xã Hoằng Lý",
-        "path": "Hoằng Lý, Thanh Hóa, Thanh Hóa",
-        "path_with_type": "Xã Hoằng Lý, Thành phố Thanh Hóa, Tỉnh Thanh Hóa",
-        "code": "15913",
-        "parent_code": "380"
-    },
-    "15922": {
-        "name": "Hoằng Long",
-        "type": "xa",
-        "slug": "hoang-long",
-        "name_with_type": "Xã Hoằng Long",
-        "path": "Hoằng Long, Thanh Hóa, Thanh Hóa",
-        "path_with_type": "Xã Hoằng Long, Thành phố Thanh Hóa, Tỉnh Thanh Hóa",
-        "code": "15922",
-        "parent_code": "380"
-    },
     "15925": {
         "name": "Hoằng Quang",
         "type": "xa",
@@ -260,22 +240,22 @@
         "parent_code": "380"
     },
     "16009": {
-        "name": "Hoằng Anh",
+        "name": "Long Anh",
         "type": "xa",
-        "slug": "hoang-anh",
-        "name_with_type": "Xã Hoằng Anh",
-        "path": "Hoằng Anh, Thanh Hóa, Thanh Hóa",
-        "path_with_type": "Xã Hoằng Anh, Thành phố Thanh Hóa, Tỉnh Thanh Hóa",
+        "slug": "long-anh",
+        "name_with_type": "Xã Long Anh",
+        "path": "Long Anh, Thanh Hóa, Thanh Hóa",
+        "path_with_type": "Xã Long Anh, Thành phố Thanh Hóa, Tỉnh Thanh Hóa",
         "code": "16009",
         "parent_code": "380"
     },
     "16379": {
-        "name": "An Hoạch",
+        "name": "An Hưng",
         "type": "phuong",
-        "slug": "an-hoach",
-        "name_with_type": "Phường An Hoạch",
-        "path": "An Hoạch, Thanh Hóa, Thanh Hóa",
-        "path_with_type": "Phường An Hoạch, Thành phố Thanh Hóa, Tỉnh Thanh Hóa",
+        "slug": "an-hung",
+        "name_with_type": "Phường An Hưng",
+        "path": "An Hưng, Thanh Hóa, Thanh Hóa",
+        "path_with_type": "Phường An Hưng, Thành phố Thanh Hóa, Tỉnh Thanh Hóa",
         "code": "16379",
         "parent_code": "380"
     },
@@ -307,16 +287,6 @@
         "path": "Đông Tân, Thanh Hóa, Thanh Hóa",
         "path_with_type": "Xã Đông Tân, Thành phố Thanh Hóa, Tỉnh Thanh Hóa",
         "code": "16432",
-        "parent_code": "380"
-    },
-    "16435": {
-        "name": "Đông Hưng",
-        "type": "xa",
-        "slug": "dong-hung",
-        "name_with_type": "Xã Đông Hưng",
-        "path": "Đông Hưng, Thanh Hóa, Thanh Hóa",
-        "path_with_type": "Xã Đông Hưng, Thành phố Thanh Hóa, Tỉnh Thanh Hóa",
-        "code": "16435",
         "parent_code": "380"
     },
     "16441": {

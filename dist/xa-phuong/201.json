@@ -39,16 +39,6 @@
         "code": "06931",
         "parent_code": "201"
     },
-    "06934": {
-        "name": "Quảng Thắng",
-        "type": "xa",
-        "slug": "quang-thang",
-        "name_with_type": "Xã Quảng Thắng",
-        "path": "Quảng Thắng, Hải Hà, Quảng Ninh",
-        "path_with_type": "Xã Quảng Thắng, Huyện Hải Hà, Tỉnh Quảng Ninh",
-        "code": "06934",
-        "parent_code": "201"
-    },
     "06937": {
         "name": "Quảng Thịnh",
         "type": "xa",
@@ -107,46 +97,6 @@
         "path": "Quảng Phong, Hải Hà, Quảng Ninh",
         "path_with_type": "Xã Quảng Phong, Huyện Hải Hà, Tỉnh Quảng Ninh",
         "code": "06952",
-        "parent_code": "201"
-    },
-    "06955": {
-        "name": "Quảng Trung",
-        "type": "xa",
-        "slug": "quang-trung",
-        "name_with_type": "Xã Quảng Trung",
-        "path": "Quảng Trung, Hải Hà, Quảng Ninh",
-        "path_with_type": "Xã Quảng Trung, Huyện Hải Hà, Tỉnh Quảng Ninh",
-        "code": "06955",
-        "parent_code": "201"
-    },
-    "06958": {
-        "name": "Phú Hải",
-        "type": "xa",
-        "slug": "phu-hai",
-        "name_with_type": "Xã Phú Hải",
-        "path": "Phú Hải, Hải Hà, Quảng Ninh",
-        "path_with_type": "Xã Phú Hải, Huyện Hải Hà, Tỉnh Quảng Ninh",
-        "code": "06958",
-        "parent_code": "201"
-    },
-    "06961": {
-        "name": "Quảng Điền",
-        "type": "xa",
-        "slug": "quang-dien",
-        "name_with_type": "Xã Quảng Điền",
-        "path": "Quảng Điền, Hải Hà, Quảng Ninh",
-        "path_with_type": "Xã Quảng Điền, Huyện Hải Hà, Tỉnh Quảng Ninh",
-        "code": "06961",
-        "parent_code": "201"
-    },
-    "06964": {
-        "name": "Tiến Tới",
-        "type": "xa",
-        "slug": "tien-toi",
-        "name_with_type": "Xã Tiến Tới",
-        "path": "Tiến Tới, Hải Hà, Quảng Ninh",
-        "path_with_type": "Xã Tiến Tới, Huyện Hải Hà, Tỉnh Quảng Ninh",
-        "code": "06964",
         "parent_code": "201"
     },
     "06967": {

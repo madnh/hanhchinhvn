@@ -49,16 +49,6 @@
         "code": "15406",
         "parent_code": "394"
     },
-    "15409": {
-        "name": "Yên Giang",
-        "type": "xa",
-        "slug": "yen-giang",
-        "name_with_type": "Xã Yên Giang",
-        "path": "Yên Giang, Yên Định, Thanh Hóa",
-        "path_with_type": "Xã Yên Giang, Huyện Yên Định, Tỉnh Thanh Hóa",
-        "code": "15409",
-        "parent_code": "394"
-    },
     "15412": {
         "name": "Quí Lộc",
         "type": "xa",
@@ -97,16 +87,6 @@
         "path": "Yên Trường, Yên Định, Thanh Hóa",
         "path_with_type": "Xã Yên Trường, Huyện Yên Định, Tỉnh Thanh Hóa",
         "code": "15421",
-        "parent_code": "394"
-    },
-    "15424": {
-        "name": "Yên Bái",
-        "type": "xa",
-        "slug": "yen-bai",
-        "name_with_type": "Xã Yên Bái",
-        "path": "Yên Bái, Yên Định, Thanh Hóa",
-        "path_with_type": "Xã Yên Bái, Huyện Yên Định, Tỉnh Thanh Hóa",
-        "code": "15424",
         "parent_code": "394"
     },
     "15427": {
@@ -247,16 +227,6 @@
         "path": "Định Liên, Yên Định, Thanh Hóa",
         "path_with_type": "Xã Định Liên, Huyện Yên Định, Tỉnh Thanh Hóa",
         "code": "15466",
-        "parent_code": "394"
-    },
-    "15469": {
-        "name": "Định Tường",
-        "type": "xa",
-        "slug": "dinh-tuong",
-        "name_with_type": "Xã Định Tường",
-        "path": "Định Tường, Yên Định, Thanh Hóa",
-        "path_with_type": "Xã Định Tường, Huyện Yên Định, Tỉnh Thanh Hóa",
-        "code": "15469",
         "parent_code": "394"
     },
     "15472": {

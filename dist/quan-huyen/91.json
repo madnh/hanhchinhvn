@@ -11,11 +11,11 @@
     },
     "900": {
         "name": "Hà Tiên",
-        "type": "thi-xa",
+        "type": "thanh-pho",
         "slug": "ha-tien",
-        "name_with_type": "Thị xã Hà Tiên",
+        "name_with_type": "Thành phố Hà Tiên",
         "path": "Hà Tiên, Kiên Giang",
-        "path_with_type": "Thị xã Hà Tiên, Tỉnh Kiên Giang",
+        "path_with_type": "Thành phố Hà Tiên, Tỉnh Kiên Giang",
         "code": "900",
         "parent_code": "91"
     },

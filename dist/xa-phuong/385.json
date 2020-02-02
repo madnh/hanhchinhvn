@@ -1,11 +1,11 @@
 {
     "14869": {
-        "name": "Quan Hóa",
+        "name": "Hồi Xuân",
         "type": "thi-tran",
-        "slug": "quan-hoa",
-        "name_with_type": "Thị trấn Quan Hóa",
-        "path": "Quan Hóa, Quan Hóa, Thanh Hóa",
-        "path_with_type": "Thị trấn Quan Hóa, Huyện Quan Hóa, Tỉnh Thanh Hóa",
+        "slug": "hoi-xuan",
+        "name_with_type": "Thị trấn Hồi Xuân",
+        "path": "Hồi Xuân, Quan Hóa, Thanh Hóa",
+        "path_with_type": "Thị trấn Hồi Xuân, Huyện Quan Hóa, Tỉnh Thanh Hóa",
         "code": "14869",
         "parent_code": "385"
     },
@@ -79,16 +79,6 @@
         "code": "14890",
         "parent_code": "385"
     },
-    "14893": {
-        "name": "Thanh Xuân",
-        "type": "xa",
-        "slug": "thanh-xuan",
-        "name_with_type": "Xã Thanh Xuân",
-        "path": "Thanh Xuân, Quan Hóa, Thanh Hóa",
-        "path_with_type": "Xã Thanh Xuân, Huyện Quan Hóa, Tỉnh Thanh Hóa",
-        "code": "14893",
-        "parent_code": "385"
-    },
     "14896": {
         "name": "Hiền Chung",
         "type": "xa",
@@ -117,16 +107,6 @@
         "path": "Nam Tiến, Quan Hóa, Thanh Hóa",
         "path_with_type": "Xã Nam Tiến, Huyện Quan Hóa, Tỉnh Thanh Hóa",
         "code": "14902",
-        "parent_code": "385"
-    },
-    "14905": {
-        "name": "Hồi Xuân",
-        "type": "xa",
-        "slug": "hoi-xuan",
-        "name_with_type": "Xã Hồi Xuân",
-        "path": "Hồi Xuân, Quan Hóa, Thanh Hóa",
-        "path_with_type": "Xã Hồi Xuân, Huyện Quan Hóa, Tỉnh Thanh Hóa",
-        "code": "14905",
         "parent_code": "385"
     },
     "14908": {
@@ -167,16 +147,6 @@
         "path": "Nam Động, Quan Hóa, Thanh Hóa",
         "path_with_type": "Xã Nam Động, Huyện Quan Hóa, Tỉnh Thanh Hóa",
         "code": "14917",
-        "parent_code": "385"
-    },
-    "14920": {
-        "name": "Xuân Phú",
-        "type": "xa",
-        "slug": "xuan-phu",
-        "name_with_type": "Xã Xuân Phú",
-        "path": "Xuân Phú, Quan Hóa, Thanh Hóa",
-        "path_with_type": "Xã Xuân Phú, Huyện Quan Hóa, Tỉnh Thanh Hóa",
-        "code": "14920",
         "parent_code": "385"
     }
 }

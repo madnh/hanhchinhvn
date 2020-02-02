@@ -10,12 +10,12 @@
         "parent_code": "444"
     },
     "18499": {
-        "name": "Phương Mỹ",
+        "name": "Điền Mỹ",
         "type": "xa",
-        "slug": "phuong-my",
-        "name_with_type": "Xã Phương Mỹ",
-        "path": "Phương Mỹ, Hương Khê, Hà Tĩnh",
-        "path_with_type": "Xã Phương Mỹ, Huyện Hương Khê, Tỉnh Hà Tĩnh",
+        "slug": "dien-my",
+        "name_with_type": "Xã Điền Mỹ",
+        "path": "Điền Mỹ, Hương Khê, Hà Tĩnh",
+        "path_with_type": "Xã Điền Mỹ, Huyện Hương Khê, Tỉnh Hà Tĩnh",
         "code": "18499",
         "parent_code": "444"
     },
@@ -47,16 +47,6 @@
         "path": "Hòa Hải, Hương Khê, Hà Tĩnh",
         "path_with_type": "Xã Hòa Hải, Huyện Hương Khê, Tỉnh Hà Tĩnh",
         "code": "18508",
-        "parent_code": "444"
-    },
-    "18511": {
-        "name": "Phương Điền",
-        "type": "xa",
-        "slug": "phuong-dien",
-        "name_with_type": "Xã Phương Điền",
-        "path": "Phương Điền, Hương Khê, Hà Tĩnh",
-        "path_with_type": "Xã Phương Điền, Huyện Hương Khê, Tỉnh Hà Tĩnh",
-        "code": "18511",
         "parent_code": "444"
     },
     "18514": {

@@ -59,16 +59,6 @@
         "code": "19570",
         "parent_code": "467"
     },
-    "19573": {
-        "name": "Hải Phúc",
-        "type": "xa",
-        "slug": "hai-phuc",
-        "name_with_type": "Xã Hải Phúc",
-        "path": "Hải Phúc, Đa Krông, Quảng Trị",
-        "path_with_type": "Xã Hải Phúc, Huyện Đa Krông, Tỉnh Quảng Trị",
-        "code": "19573",
-        "parent_code": "467"
-    },
     "19576": {
         "name": "Ba Nang",
         "type": "xa",

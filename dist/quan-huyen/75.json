@@ -11,11 +11,11 @@
     },
     "732": {
         "name": "Long Khánh",
-        "type": "thi-xa",
+        "type": "thanh-pho",
         "slug": "long-khanh",
-        "name_with_type": "Thị xã Long Khánh",
+        "name_with_type": "Thành phố Long Khánh",
         "path": "Long Khánh, Đồng Nai",
-        "path_with_type": "Thị xã Long Khánh, Tỉnh Đồng Nai",
+        "path_with_type": "Thành phố Long Khánh, Tỉnh Đồng Nai",
         "code": "732",
         "parent_code": "75"
     },

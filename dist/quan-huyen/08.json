@@ -20,12 +20,12 @@
         "parent_code": "08"
     },
     "072": {
-        "name": "Nà Hang",
+        "name": "Na Hang",
         "type": "huyen",
         "slug": "na-hang",
-        "name_with_type": "Huyện Nà Hang",
-        "path": "Nà Hang, Tuyên Quang",
-        "path_with_type": "Huyện Nà Hang, Tỉnh Tuyên Quang",
+        "name_with_type": "Huyện Na Hang",
+        "path": "Na Hang, Tuyên Quang",
+        "path_with_type": "Huyện Na Hang, Tỉnh Tuyên Quang",
         "code": "072",
         "parent_code": "08"
     },

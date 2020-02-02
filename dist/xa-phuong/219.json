@@ -199,16 +199,6 @@
         "code": "07582",
         "parent_code": "219"
     },
-    "07585": {
-        "name": "Nghĩa Hồ",
-        "type": "xa",
-        "slug": "nghia-ho",
-        "name_with_type": "Xã Nghĩa Hồ",
-        "path": "Nghĩa Hồ, Lục Ngạn, Bắc Giang",
-        "path_with_type": "Xã Nghĩa Hồ, Huyện Lục Ngạn, Tỉnh Bắc Giang",
-        "code": "07585",
-        "parent_code": "219"
-    },
     "07588": {
         "name": "Tân Quang",
         "type": "xa",

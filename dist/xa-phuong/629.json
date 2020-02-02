@@ -40,12 +40,12 @@
         "parent_code": "629"
     },
     "23800": {
-        "name": "Hà Ra",
+        "name": "Hra",
         "type": "xa",
-        "slug": "ha-ra",
-        "name_with_type": "Xã Hà Ra",
-        "path": "Hà Ra, Mang Yang, Gia Lai",
-        "path_with_type": "Xã Hà Ra, Huyện Mang Yang, Tỉnh Gia Lai",
+        "slug": "hra",
+        "name_with_type": "Xã Hra",
+        "path": "Hra, Mang Yang, Gia Lai",
+        "path_with_type": "Xã Hra, Huyện Mang Yang, Tỉnh Gia Lai",
         "code": "23800",
         "parent_code": "629"
     },

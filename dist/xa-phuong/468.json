@@ -20,12 +20,12 @@
         "parent_code": "468"
     },
     "19603": {
-        "name": "Cam An",
+        "name": "Thanh An",
         "type": "xa",
-        "slug": "cam-an",
-        "name_with_type": "Xã Cam An",
-        "path": "Cam An, Cam Lộ, Quảng Trị",
-        "path_with_type": "Xã Cam An, Huyện Cam Lộ, Tỉnh Quảng Trị",
+        "slug": "thanh-an",
+        "name_with_type": "Xã Thanh An",
+        "path": "Thanh An, Cam Lộ, Quảng Trị",
+        "path_with_type": "Xã Thanh An, Huyện Cam Lộ, Tỉnh Quảng Trị",
         "code": "19603",
         "parent_code": "468"
     },
@@ -37,16 +37,6 @@
         "path": "Cam Thủy, Cam Lộ, Quảng Trị",
         "path_with_type": "Xã Cam Thủy, Huyện Cam Lộ, Tỉnh Quảng Trị",
         "code": "19606",
-        "parent_code": "468"
-    },
-    "19609": {
-        "name": "Cam Thanh",
-        "type": "xa",
-        "slug": "cam-thanh",
-        "name_with_type": "Xã Cam Thanh",
-        "path": "Cam Thanh, Cam Lộ, Quảng Trị",
-        "path_with_type": "Xã Cam Thanh, Huyện Cam Lộ, Tỉnh Quảng Trị",
-        "code": "19609",
         "parent_code": "468"
     },
     "19612": {

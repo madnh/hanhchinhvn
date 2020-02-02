@@ -9,16 +9,6 @@
         "code": "15346",
         "parent_code": "393"
     },
-    "15349": {
-        "name": "Vĩnh Thành",
-        "type": "xa",
-        "slug": "vinh-thanh",
-        "name_with_type": "Xã Vĩnh Thành",
-        "path": "Vĩnh Thành, Vĩnh Lộc, Thanh Hóa",
-        "path_with_type": "Xã Vĩnh Thành, Huyện Vĩnh Lộc, Tỉnh Thanh Hóa",
-        "code": "15349",
-        "parent_code": "393"
-    },
     "15352": {
         "name": "Vĩnh Quang",
         "type": "xa",
@@ -79,26 +69,6 @@
         "code": "15367",
         "parent_code": "393"
     },
-    "15370": {
-        "name": "Vĩnh Minh",
-        "type": "xa",
-        "slug": "vinh-minh",
-        "name_with_type": "Xã Vĩnh Minh",
-        "path": "Vĩnh Minh, Vĩnh Lộc, Thanh Hóa",
-        "path_with_type": "Xã Vĩnh Minh, Huyện Vĩnh Lộc, Tỉnh Thanh Hóa",
-        "code": "15370",
-        "parent_code": "393"
-    },
-    "15373": {
-        "name": "Vĩnh Khang",
-        "type": "xa",
-        "slug": "vinh-khang",
-        "name_with_type": "Xã Vĩnh Khang",
-        "path": "Vĩnh Khang, Vĩnh Lộc, Thanh Hóa",
-        "path_with_type": "Xã Vĩnh Khang, Huyện Vĩnh Lộc, Tỉnh Thanh Hóa",
-        "code": "15373",
-        "parent_code": "393"
-    },
     "15376": {
         "name": "Vĩnh Hòa",
         "type": "xa",
@@ -120,22 +90,22 @@
         "parent_code": "393"
     },
     "15382": {
-        "name": "Vĩnh Tân",
+        "name": "Minh Tân",
         "type": "xa",
-        "slug": "vinh-tan",
-        "name_with_type": "Xã Vĩnh Tân",
-        "path": "Vĩnh Tân, Vĩnh Lộc, Thanh Hóa",
-        "path_with_type": "Xã Vĩnh Tân, Huyện Vĩnh Lộc, Tỉnh Thanh Hóa",
+        "slug": "minh-tan",
+        "name_with_type": "Xã Minh Tân",
+        "path": "Minh Tân, Vĩnh Lộc, Thanh Hóa",
+        "path_with_type": "Xã Minh Tân, Huyện Vĩnh Lộc, Tỉnh Thanh Hóa",
         "code": "15382",
         "parent_code": "393"
     },
     "15385": {
-        "name": "Vĩnh Ninh",
+        "name": "Ninh Khang",
         "type": "xa",
-        "slug": "vinh-ninh",
-        "name_with_type": "Xã Vĩnh Ninh",
-        "path": "Vĩnh Ninh, Vĩnh Lộc, Thanh Hóa",
-        "path_with_type": "Xã Vĩnh Ninh, Huyện Vĩnh Lộc, Tỉnh Thanh Hóa",
+        "slug": "ninh-khang",
+        "name_with_type": "Xã Ninh Khang",
+        "path": "Ninh Khang, Vĩnh Lộc, Thanh Hóa",
+        "path_with_type": "Xã Ninh Khang, Huyện Vĩnh Lộc, Tỉnh Thanh Hóa",
         "code": "15385",
         "parent_code": "393"
     },

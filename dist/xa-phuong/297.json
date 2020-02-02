@@ -9,16 +9,6 @@
         "code": "10999",
         "parent_code": "297"
     },
-    "11005": {
-        "name": "Liên Hồng",
-        "type": "xa",
-        "slug": "lien-hong",
-        "name_with_type": "Xã Liên Hồng",
-        "path": "Liên Hồng, Gia Lộc, Hải Dương",
-        "path_with_type": "Xã Liên Hồng, Huyện Gia Lộc, Tỉnh Hải Dương",
-        "code": "11005",
-        "parent_code": "297"
-    },
     "11008": {
         "name": "Thống Nhất",
         "type": "xa",
@@ -29,26 +19,6 @@
         "code": "11008",
         "parent_code": "297"
     },
-    "11014": {
-        "name": "Trùng Khánh",
-        "type": "xa",
-        "slug": "trung-khanh",
-        "name_with_type": "Xã Trùng Khánh",
-        "path": "Trùng Khánh, Gia Lộc, Hải Dương",
-        "path_with_type": "Xã Trùng Khánh, Huyện Gia Lộc, Tỉnh Hải Dương",
-        "code": "11014",
-        "parent_code": "297"
-    },
-    "11017": {
-        "name": "Gia Xuyên",
-        "type": "xa",
-        "slug": "gia-xuyen",
-        "name_with_type": "Xã Gia Xuyên",
-        "path": "Gia Xuyên, Gia Lộc, Hải Dương",
-        "path_with_type": "Xã Gia Xuyên, Huyện Gia Lộc, Tỉnh Hải Dương",
-        "code": "11017",
-        "parent_code": "297"
-    },
     "11020": {
         "name": "Yết Kiêu",
         "type": "xa",
@@ -57,26 +27,6 @@
         "path": "Yết Kiêu, Gia Lộc, Hải Dương",
         "path_with_type": "Xã Yết Kiêu, Huyện Gia Lộc, Tỉnh Hải Dương",
         "code": "11020",
-        "parent_code": "297"
-    },
-    "11023": {
-        "name": "Gia Hòa",
-        "type": "xa",
-        "slug": "gia-hoa",
-        "name_with_type": "Xã Gia Hòa",
-        "path": "Gia Hòa, Gia Lộc, Hải Dương",
-        "path_with_type": "Xã Gia Hòa, Huyện Gia Lộc, Tỉnh Hải Dương",
-        "code": "11023",
-        "parent_code": "297"
-    },
-    "11026": {
-        "name": "Phương Hưng",
-        "type": "xa",
-        "slug": "phuong-hung",
-        "name_with_type": "Xã Phương Hưng",
-        "path": "Phương Hưng, Gia Lộc, Hải Dương",
-        "path_with_type": "Xã Phương Hưng, Huyện Gia Lộc, Tỉnh Hải Dương",
-        "code": "11026",
         "parent_code": "297"
     },
     "11029": {

@@ -210,12 +210,12 @@
         "parent_code": "017"
     },
     "00517": {
-        "name": "Tầm Xá",
+        "name": "Tàm Xá",
         "type": "xa",
         "slug": "tam-xa",
-        "name_with_type": "Xã Tầm Xá",
-        "path": "Tầm Xá, Đông Anh, Hà Nội",
-        "path_with_type": "Xã Tầm Xá, Huyện Đông Anh, Thành phố Hà Nội",
+        "name_with_type": "Xã Tàm Xá",
+        "path": "Tàm Xá, Đông Anh, Hà Nội",
+        "path_with_type": "Xã Tàm Xá, Huyện Đông Anh, Thành phố Hà Nội",
         "code": "00517",
         "parent_code": "017"
     },

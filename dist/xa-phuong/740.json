@@ -89,16 +89,6 @@
         "code": "26404",
         "parent_code": "740"
     },
-    "26407": {
-        "name": "Suối Trầu",
-        "type": "xa",
-        "slug": "suoi-trau",
-        "name_with_type": "Xã Suối Trầu",
-        "path": "Suối Trầu, Long Thành, Đồng Nai",
-        "path_with_type": "Xã Suối Trầu, Huyện Long Thành, Tỉnh Đồng Nai",
-        "code": "26407",
-        "parent_code": "740"
-    },
     "26410": {
         "name": "Bàu Cạn",
         "type": "xa",

@@ -11,11 +11,11 @@
     },
     "349": {
         "name": "Duy Tiên",
-        "type": "huyen",
+        "type": "thi-xa",
         "slug": "duy-tien",
-        "name_with_type": "Huyện Duy Tiên",
+        "name_with_type": "Thị xã Duy Tiên",
         "path": "Duy Tiên, Hà Nam",
-        "path_with_type": "Huyện Duy Tiên, Tỉnh Hà Nam",
+        "path_with_type": "Thị xã Duy Tiên, Tỉnh Hà Nam",
         "code": "349",
         "parent_code": "35"
     },

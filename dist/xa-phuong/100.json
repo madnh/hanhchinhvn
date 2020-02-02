@@ -1,24 +1,4 @@
 {
-    "03316": {
-        "name": "Nà Tấu",
-        "type": "xa",
-        "slug": "na-tau",
-        "name_with_type": "Xã Nà Tấu",
-        "path": "Nà Tấu, Điện Biên, Điện Biên",
-        "path_with_type": "Xã Nà Tấu, Huyện Điện Biên, Tỉnh Điện Biên",
-        "code": "03316",
-        "parent_code": "100"
-    },
-    "03317": {
-        "name": "Nà Nhạn",
-        "type": "xa",
-        "slug": "na-nhan",
-        "name_with_type": "Xã Nà Nhạn",
-        "path": "Nà Nhạn, Điện Biên, Điện Biên",
-        "path_with_type": "Xã Nà Nhạn, Huyện Điện Biên, Tỉnh Điện Biên",
-        "code": "03317",
-        "parent_code": "100"
-    },
     "03319": {
         "name": "Mường Pồn",
         "type": "xa",
@@ -47,26 +27,6 @@
         "path": "Hua Thanh, Điện Biên, Điện Biên",
         "path_with_type": "Xã Hua Thanh, Huyện Điện Biên, Tỉnh Điện Biên",
         "code": "03323",
-        "parent_code": "100"
-    },
-    "03325": {
-        "name": "Mường Phăng",
-        "type": "xa",
-        "slug": "muong-phang",
-        "name_with_type": "Xã Mường Phăng",
-        "path": "Mường Phăng, Điện Biên, Điện Biên",
-        "path_with_type": "Xã Mường Phăng, Huyện Điện Biên, Tỉnh Điện Biên",
-        "code": "03325",
-        "parent_code": "100"
-    },
-    "03326": {
-        "name": "Pá Khoang",
-        "type": "xa",
-        "slug": "pa-khoang",
-        "name_with_type": "Xã Pá Khoang",
-        "path": "Pá Khoang, Điện Biên, Điện Biên",
-        "path_with_type": "Xã Pá Khoang, Huyện Điện Biên, Tỉnh Điện Biên",
-        "code": "03326",
         "parent_code": "100"
     },
     "03328": {

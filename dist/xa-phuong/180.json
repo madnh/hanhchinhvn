@@ -189,16 +189,6 @@
         "code": "06049",
         "parent_code": "180"
     },
-    "06052": {
-        "name": "Bắc Ái",
-        "type": "xa",
-        "slug": "bac-ai",
-        "name_with_type": "Xã Bắc Ái",
-        "path": "Bắc Ái, Tràng Định, Lạng Sơn",
-        "path_with_type": "Xã Bắc Ái, Huyện Tràng Định, Tỉnh Lạng Sơn",
-        "code": "06052",
-        "parent_code": "180"
-    },
     "06055": {
         "name": "Hùng Sơn",
         "type": "xa",

@@ -149,16 +149,6 @@
         "code": "06226",
         "parent_code": "183"
     },
-    "06229": {
-        "name": "Song Giáp",
-        "type": "xa",
-        "slug": "song-giap",
-        "name_with_type": "Xã Song Giáp",
-        "path": "Song Giáp, Cao Lộc, Lạng Sơn",
-        "path_with_type": "Xã Song Giáp, Huyện Cao Lộc, Tỉnh Lạng Sơn",
-        "code": "06229",
-        "parent_code": "183"
-    },
     "06232": {
         "name": "Công Sơn",
         "type": "xa",

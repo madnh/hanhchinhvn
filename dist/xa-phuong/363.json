@@ -170,12 +170,12 @@
         "parent_code": "363"
     },
     "14077": {
-        "name": "Trực Phú",
-        "type": "xa",
-        "slug": "truc-phu",
-        "name_with_type": "Xã Trực Phú",
-        "path": "Trực Phú, Trực Ninh, Nam Định",
-        "path_with_type": "Xã Trực Phú, Huyện Trực Ninh, Tỉnh Nam Định",
+        "name": "Ninh Cường",
+        "type": "thi-tran",
+        "slug": "ninh-cuong",
+        "name_with_type": "Thị trấn Ninh Cường",
+        "path": "Ninh Cường, Trực Ninh, Nam Định",
+        "path_with_type": "Thị trấn Ninh Cường, Huyện Trực Ninh, Tỉnh Nam Định",
         "code": "14077",
         "parent_code": "363"
     },

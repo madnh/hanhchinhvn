@@ -69,16 +69,6 @@
         "code": "16297",
         "parent_code": "404"
     },
-    "16300": {
-        "name": "Trung Ý",
-        "type": "xa",
-        "slug": "trung-y",
-        "name_with_type": "Xã Trung Ý",
-        "path": "Trung Ý, Nông Cống, Thanh Hóa",
-        "path_with_type": "Xã Trung Ý, Huyện Nông Cống, Tỉnh Thanh Hóa",
-        "code": "16300",
-        "parent_code": "404"
-    },
     "16303": {
         "name": "Trung Thành",
         "type": "xa",
@@ -87,16 +77,6 @@
         "path": "Trung Thành, Nông Cống, Thanh Hóa",
         "path_with_type": "Xã Trung Thành, Huyện Nông Cống, Tỉnh Thanh Hóa",
         "code": "16303",
-        "parent_code": "404"
-    },
-    "16306": {
-        "name": "Tế Tân",
-        "type": "xa",
-        "slug": "te-tan",
-        "name_with_type": "Xã Tế Tân",
-        "path": "Tế Tân, Nông Cống, Thanh Hóa",
-        "path_with_type": "Xã Tế Tân, Huyện Nông Cống, Tỉnh Thanh Hóa",
-        "code": "16306",
         "parent_code": "404"
     },
     "16309": {
@@ -297,16 +277,6 @@
         "path": "Công Chính, Nông Cống, Thanh Hóa",
         "path_with_type": "Xã Công Chính, Huyện Nông Cống, Tỉnh Thanh Hóa",
         "code": "16369",
-        "parent_code": "404"
-    },
-    "16372": {
-        "name": "Công Bình",
-        "type": "xa",
-        "slug": "cong-binh",
-        "name_with_type": "Xã Công Bình",
-        "path": "Công Bình, Nông Cống, Thanh Hóa",
-        "path_with_type": "Xã Công Bình, Huyện Nông Cống, Tỉnh Thanh Hóa",
-        "code": "16372",
         "parent_code": "404"
     },
     "16375": {

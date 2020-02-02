@@ -50,23 +50,13 @@
         "parent_code": "483"
     },
     "20176": {
-        "name": "Hương Hòa",
+        "name": "Hương Xuân",
         "type": "xa",
-        "slug": "huong-hoa",
-        "name_with_type": "Xã Hương Hòa",
-        "path": "Hương Hòa, Nam Đông, Thừa Thiên Huế",
-        "path_with_type": "Xã Hương Hòa, Huyện Nam Đông, Tỉnh Thừa Thiên Huế",
+        "slug": "huong-xuan",
+        "name_with_type": "Xã Hương Xuân",
+        "path": "Hương Xuân, Nam Đông, Thừa Thiên Huế",
+        "path_with_type": "Xã Hương Xuân, Huyện Nam Đông, Tỉnh Thừa Thiên Huế",
         "code": "20176",
-        "parent_code": "483"
-    },
-    "20179": {
-        "name": "Hương Giang",
-        "type": "xa",
-        "slug": "huong-giang",
-        "name_with_type": "Xã Hương Giang",
-        "path": "Hương Giang, Nam Đông, Thừa Thiên Huế",
-        "path_with_type": "Xã Hương Giang, Huyện Nam Đông, Tỉnh Thừa Thiên Huế",
-        "code": "20179",
         "parent_code": "483"
     },
     "20182": {

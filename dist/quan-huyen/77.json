@@ -60,12 +60,12 @@
         "parent_code": "77"
     },
     "754": {
-        "name": "Tân Thành",
-        "type": "huyen",
-        "slug": "tan-thanh",
-        "name_with_type": "Huyện Tân Thành",
-        "path": "Tân Thành, Bà Rịa - Vũng Tàu",
-        "path_with_type": "Huyện Tân Thành, Tỉnh Bà Rịa - Vũng Tàu",
+        "name": "Phú Mỹ",
+        "type": "thi-xa",
+        "slug": "phu-my",
+        "name_with_type": "Thị xã Phú Mỹ",
+        "path": "Phú Mỹ, Bà Rịa - Vũng Tàu",
+        "path_with_type": "Thị xã Phú Mỹ, Tỉnh Bà Rịa - Vũng Tàu",
         "code": "754",
         "parent_code": "77"
     }

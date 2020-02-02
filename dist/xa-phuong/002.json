@@ -100,12 +100,12 @@
         "parent_code": "002"
     },
     "00067": {
-        "name": "Chương Dương Độ",
+        "name": "Chương Dương",
         "type": "phuong",
-        "slug": "chuong-duong-do",
-        "name_with_type": "Phường Chương Dương Độ",
-        "path": "Chương Dương Độ, Hoàn Kiếm, Hà Nội",
-        "path_with_type": "Phường Chương Dương Độ, Quận Hoàn Kiếm, Thành phố Hà Nội",
+        "slug": "chuong-duong",
+        "name_with_type": "Phường Chương Dương",
+        "path": "Chương Dương, Hoàn Kiếm, Hà Nội",
+        "path_with_type": "Phường Chương Dương, Quận Hoàn Kiếm, Thành phố Hà Nội",
         "code": "00067",
         "parent_code": "002"
     },

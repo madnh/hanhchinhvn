@@ -1,22 +1,12 @@
 {
     "16438": {
-        "name": "Quảng Xương",
+        "name": "Tân Phong",
         "type": "thi-tran",
-        "slug": "quang-xuong",
-        "name_with_type": "Thị trấn Quảng Xương",
-        "path": "Quảng Xương, Quảng Xương, Thanh Hóa",
-        "path_with_type": "Thị trấn Quảng Xương, Huyện Quảng Xương, Tỉnh Thanh Hóa",
+        "slug": "tan-phong",
+        "name_with_type": "Thị trấn Tân Phong",
+        "path": "Tân Phong, Quảng Xương, Thanh Hóa",
+        "path_with_type": "Thị trấn Tân Phong, Huyện Quảng Xương, Tỉnh Thanh Hóa",
         "code": "16438",
-        "parent_code": "406"
-    },
-    "16444": {
-        "name": "Quảng Tân",
-        "type": "xa",
-        "slug": "quang-tan",
-        "name_with_type": "Xã Quảng Tân",
-        "path": "Quảng Tân, Quảng Xương, Thanh Hóa",
-        "path_with_type": "Xã Quảng Tân, Huyện Quảng Xương, Tỉnh Thanh Hóa",
-        "code": "16444",
         "parent_code": "406"
     },
     "16447": {
@@ -27,16 +17,6 @@
         "path": "Quảng Trạch, Quảng Xương, Thanh Hóa",
         "path_with_type": "Xã Quảng Trạch, Huyện Quảng Xương, Tỉnh Thanh Hóa",
         "code": "16447",
-        "parent_code": "406"
-    },
-    "16450": {
-        "name": "Quảng Phong",
-        "type": "xa",
-        "slug": "quang-phong",
-        "name_with_type": "Xã Quảng Phong",
-        "path": "Quảng Phong, Quảng Xương, Thanh Hóa",
-        "path_with_type": "Xã Quảng Phong, Huyện Quảng Xương, Tỉnh Thanh Hóa",
-        "code": "16450",
         "parent_code": "406"
     },
     "16453": {
@@ -139,16 +119,6 @@
         "code": "16483",
         "parent_code": "406"
     },
-    "16486": {
-        "name": "Quảng Lĩnh",
-        "type": "xa",
-        "slug": "quang-linh",
-        "name_with_type": "Xã Quảng Lĩnh",
-        "path": "Quảng Lĩnh, Quảng Xương, Thanh Hóa",
-        "path_with_type": "Xã Quảng Lĩnh, Huyện Quảng Xương, Tỉnh Thanh Hóa",
-        "code": "16486",
-        "parent_code": "406"
-    },
     "16489": {
         "name": "Quảng Khê",
         "type": "xa",
@@ -209,16 +179,6 @@
         "code": "16504",
         "parent_code": "406"
     },
-    "16510": {
-        "name": "Quảng Vọng",
-        "type": "xa",
-        "slug": "quang-vong",
-        "name_with_type": "Xã Quảng Vọng",
-        "path": "Quảng Vọng, Quảng Xương, Thanh Hóa",
-        "path_with_type": "Xã Quảng Vọng, Huyện Quảng Xương, Tỉnh Thanh Hóa",
-        "code": "16510",
-        "parent_code": "406"
-    },
     "16519": {
         "name": "Quảng Giao",
         "type": "xa",
@@ -260,12 +220,12 @@
         "parent_code": "406"
     },
     "16549": {
-        "name": "Quảng Lợi",
+        "name": "Tiên Trang",
         "type": "xa",
-        "slug": "quang-loi",
-        "name_with_type": "Xã Quảng Lợi",
-        "path": "Quảng Lợi, Quảng Xương, Thanh Hóa",
-        "path_with_type": "Xã Quảng Lợi, Huyện Quảng Xương, Tỉnh Thanh Hóa",
+        "slug": "tien-trang",
+        "name_with_type": "Xã Tiên Trang",
+        "path": "Tiên Trang, Quảng Xương, Thanh Hóa",
+        "path_with_type": "Xã Tiên Trang, Huyện Quảng Xương, Tỉnh Thanh Hóa",
         "code": "16549",
         "parent_code": "406"
     },

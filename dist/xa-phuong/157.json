@@ -100,23 +100,13 @@
         "parent_code": "157"
     },
     "05296": {
-        "name": "Phú Lương",
+        "name": "Quyết Thắng",
         "type": "xa",
-        "slug": "phu-luong",
-        "name_with_type": "Xã Phú Lương",
-        "path": "Phú Lương, Lạc Sơn, Hoà Bình",
-        "path_with_type": "Xã Phú Lương, Huyện Lạc Sơn, Tỉnh Hoà Bình",
+        "slug": "quyet-thang",
+        "name_with_type": "Xã Quyết Thắng",
+        "path": "Quyết Thắng, Lạc Sơn, Hoà Bình",
+        "path_with_type": "Xã Quyết Thắng, Huyện Lạc Sơn, Tỉnh Hoà Bình",
         "code": "05296",
-        "parent_code": "157"
-    },
-    "05299": {
-        "name": "Phúc Tuy",
-        "type": "xa",
-        "slug": "phuc-tuy",
-        "name_with_type": "Xã Phúc Tuy",
-        "path": "Phúc Tuy, Lạc Sơn, Hoà Bình",
-        "path_with_type": "Xã Phúc Tuy, Huyện Lạc Sơn, Tỉnh Hoà Bình",
-        "code": "05299",
         "parent_code": "157"
     },
     "05302": {
@@ -149,33 +139,13 @@
         "code": "05308",
         "parent_code": "157"
     },
-    "05311": {
-        "name": "Chí Thiện",
-        "type": "xa",
-        "slug": "chi-thien",
-        "name_with_type": "Xã Chí Thiện",
-        "path": "Chí Thiện, Lạc Sơn, Hoà Bình",
-        "path_with_type": "Xã Chí Thiện, Huyện Lạc Sơn, Tỉnh Hoà Bình",
-        "code": "05311",
-        "parent_code": "157"
-    },
-    "05314": {
-        "name": "Bình Cảng",
-        "type": "xa",
-        "slug": "binh-cang",
-        "name_with_type": "Xã Bình Cảng",
-        "path": "Bình Cảng, Lạc Sơn, Hoà Bình",
-        "path_with_type": "Xã Bình Cảng, Huyện Lạc Sơn, Tỉnh Hoà Bình",
-        "code": "05314",
-        "parent_code": "157"
-    },
     "05317": {
-        "name": "Bình Chân",
+        "name": "Vũ Bình",
         "type": "xa",
-        "slug": "binh-chan",
-        "name_with_type": "Xã Bình Chân",
-        "path": "Bình Chân, Lạc Sơn, Hoà Bình",
-        "path_with_type": "Xã Bình Chân, Huyện Lạc Sơn, Tỉnh Hoà Bình",
+        "slug": "vu-binh",
+        "name_with_type": "Xã Vũ Bình",
+        "path": "Vũ Bình, Lạc Sơn, Hoà Bình",
+        "path_with_type": "Xã Vũ Bình, Huyện Lạc Sơn, Tỉnh Hoà Bình",
         "code": "05317",
         "parent_code": "157"
     },
@@ -199,16 +169,6 @@
         "code": "05323",
         "parent_code": "157"
     },
-    "05326": {
-        "name": "Liên Vũ",
-        "type": "xa",
-        "slug": "lien-vu",
-        "name_with_type": "Xã Liên Vũ",
-        "path": "Liên Vũ, Lạc Sơn, Hoà Bình",
-        "path_with_type": "Xã Liên Vũ, Huyện Lạc Sơn, Tỉnh Hoà Bình",
-        "code": "05326",
-        "parent_code": "157"
-    },
     "05329": {
         "name": "Ngọc Sơn",
         "type": "xa",
@@ -227,16 +187,6 @@
         "path": "Hương Nhượng, Lạc Sơn, Hoà Bình",
         "path_with_type": "Xã Hương Nhượng, Huyện Lạc Sơn, Tỉnh Hoà Bình",
         "code": "05332",
-        "parent_code": "157"
-    },
-    "05335": {
-        "name": "Vũ Lâm",
-        "type": "xa",
-        "slug": "vu-lam",
-        "name_with_type": "Xã Vũ Lâm",
-        "path": "Vũ Lâm, Lạc Sơn, Hoà Bình",
-        "path_with_type": "Xã Vũ Lâm, Huyện Lạc Sơn, Tỉnh Hoà Bình",
-        "code": "05335",
         "parent_code": "157"
     },
     "05338": {

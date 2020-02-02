@@ -40,12 +40,12 @@
         "parent_code": "125"
     },
     "04117": {
-        "name": "Mương Tranh",
+        "name": "Mương Chanh",
         "type": "xa",
-        "slug": "muong-tranh",
-        "name_with_type": "Xã Mương Tranh",
-        "path": "Mương Tranh, Mai Sơn, Sơn La",
-        "path_with_type": "Xã Mương Tranh, Huyện Mai Sơn, Tỉnh Sơn La",
+        "slug": "muong-chanh",
+        "name_with_type": "Xã Mương Chanh",
+        "path": "Mương Chanh, Mai Sơn, Sơn La",
+        "path_with_type": "Xã Mương Chanh, Huyện Mai Sơn, Tỉnh Sơn La",
         "code": "04117",
         "parent_code": "125"
     },

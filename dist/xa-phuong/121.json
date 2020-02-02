@@ -30,12 +30,12 @@
         "parent_code": "121"
     },
     "03865": {
-        "name": "Xín Vàng",
+        "name": "Xím Vàng",
         "type": "xa",
-        "slug": "xin-vang",
-        "name_with_type": "Xã Xín Vàng",
-        "path": "Xín Vàng, Bắc Yên, Sơn La",
-        "path_with_type": "Xã Xín Vàng, Huyện Bắc Yên, Tỉnh Sơn La",
+        "slug": "xim-vang",
+        "name_with_type": "Xã Xím Vàng",
+        "path": "Xím Vàng, Bắc Yên, Sơn La",
+        "path_with_type": "Xã Xím Vàng, Huyện Bắc Yên, Tỉnh Sơn La",
         "code": "03865",
         "parent_code": "121"
     },
@@ -60,12 +60,12 @@
         "parent_code": "121"
     },
     "03871": {
-        "name": "Bắc Ngà",
+        "name": "Pắc Ngà",
         "type": "xa",
-        "slug": "bac-nga",
-        "name_with_type": "Xã Bắc Ngà",
-        "path": "Bắc Ngà, Bắc Yên, Sơn La",
-        "path_with_type": "Xã Bắc Ngà, Huyện Bắc Yên, Tỉnh Sơn La",
+        "slug": "pac-nga",
+        "name_with_type": "Xã Pắc Ngà",
+        "path": "Pắc Ngà, Bắc Yên, Sơn La",
+        "path_with_type": "Xã Pắc Ngà, Huyện Bắc Yên, Tỉnh Sơn La",
         "code": "03871",
         "parent_code": "121"
     },
@@ -140,12 +140,12 @@
         "parent_code": "121"
     },
     "03892": {
-        "name": "Phiêng Kôn",
+        "name": "Phiêng Côn",
         "type": "xa",
-        "slug": "phieng-kon",
-        "name_with_type": "Xã Phiêng Kôn",
-        "path": "Phiêng Kôn, Bắc Yên, Sơn La",
-        "path_with_type": "Xã Phiêng Kôn, Huyện Bắc Yên, Tỉnh Sơn La",
+        "slug": "phieng-con",
+        "name_with_type": "Xã Phiêng Côn",
+        "path": "Phiêng Côn, Bắc Yên, Sơn La",
+        "path_with_type": "Xã Phiêng Côn, Huyện Bắc Yên, Tỉnh Sơn La",
         "code": "03892",
         "parent_code": "121"
     },

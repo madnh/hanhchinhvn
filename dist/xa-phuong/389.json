@@ -69,16 +69,6 @@
         "code": "15079",
         "parent_code": "389"
     },
-    "15082": {
-        "name": "Ngọc Khê",
-        "type": "xa",
-        "slug": "ngoc-khe",
-        "name_with_type": "Xã Ngọc Khê",
-        "path": "Ngọc Khê, Ngọc Lặc, Thanh Hóa",
-        "path_with_type": "Xã Ngọc Khê, Huyện Ngọc Lặc, Tỉnh Thanh Hóa",
-        "code": "15082",
-        "parent_code": "389"
-    },
     "15085": {
         "name": "Quang Trung",
         "type": "xa",

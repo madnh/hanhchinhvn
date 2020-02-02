@@ -29,16 +29,6 @@
         "code": "10819",
         "parent_code": "294"
     },
-    "10822": {
-        "name": "Quyết Thắng",
-        "type": "xa",
-        "slug": "quyet-thang",
-        "name_with_type": "Xã Quyết Thắng",
-        "path": "Quyết Thắng, Thanh Hà, Hải Dương",
-        "path_with_type": "Xã Quyết Thắng, Huyện Thanh Hà, Tỉnh Hải Dương",
-        "code": "10822",
-        "parent_code": "294"
-    },
     "10825": {
         "name": "Tân Việt",
         "type": "xa",
@@ -77,16 +67,6 @@
         "path": "Thanh Lang, Thanh Hà, Hải Dương",
         "path_with_type": "Xã Thanh Lang, Huyện Thanh Hà, Tỉnh Hải Dương",
         "code": "10834",
-        "parent_code": "294"
-    },
-    "10837": {
-        "name": "Tiền Tiến",
-        "type": "xa",
-        "slug": "tien-tien",
-        "name_with_type": "Xã Tiền Tiến",
-        "path": "Tiền Tiến, Thanh Hà, Hải Dương",
-        "path_with_type": "Xã Tiền Tiến, Huyện Thanh Hà, Tỉnh Hải Dương",
-        "code": "10837",
         "parent_code": "294"
     },
     "10840": {
@@ -149,16 +129,6 @@
         "code": "10855",
         "parent_code": "294"
     },
-    "10858": {
-        "name": "An Lương",
-        "type": "xa",
-        "slug": "an-luong",
-        "name_with_type": "Xã An Lương",
-        "path": "An Lương, Thanh Hà, Hải Dương",
-        "path_with_type": "Xã An Lương, Huyện Thanh Hà, Tỉnh Hải Dương",
-        "code": "10858",
-        "parent_code": "294"
-    },
     "10861": {
         "name": "Thanh Thủy",
         "type": "xa",
@@ -170,12 +140,12 @@
         "parent_code": "294"
     },
     "10864": {
-        "name": "Phượng Hoàng",
+        "name": "An Phượng",
         "type": "xa",
-        "slug": "phuong-hoang",
-        "name_with_type": "Xã Phượng Hoàng",
-        "path": "Phượng Hoàng, Thanh Hà, Hải Dương",
-        "path_with_type": "Xã Phượng Hoàng, Huyện Thanh Hà, Tỉnh Hải Dương",
+        "slug": "an-phuong",
+        "name_with_type": "Xã An Phượng",
+        "path": "An Phượng, Thanh Hà, Hải Dương",
+        "path_with_type": "Xã An Phượng, Huyện Thanh Hà, Tỉnh Hải Dương",
         "code": "10864",
         "parent_code": "294"
     },
@@ -189,33 +159,13 @@
         "code": "10867",
         "parent_code": "294"
     },
-    "10870": {
-        "name": "Hợp Đức",
-        "type": "xa",
-        "slug": "hop-duc",
-        "name_with_type": "Xã Hợp Đức",
-        "path": "Hợp Đức, Thanh Hà, Hải Dương",
-        "path_with_type": "Xã Hợp Đức, Huyện Thanh Hà, Tỉnh Hải Dương",
-        "code": "10870",
-        "parent_code": "294"
-    },
-    "10873": {
-        "name": "Trường Thành",
-        "type": "xa",
-        "slug": "truong-thanh",
-        "name_with_type": "Xã Trường Thành",
-        "path": "Trường Thành, Thanh Hà, Hải Dương",
-        "path_with_type": "Xã Trường Thành, Huyện Thanh Hà, Tỉnh Hải Dương",
-        "code": "10873",
-        "parent_code": "294"
-    },
     "10876": {
-        "name": "Thanh Bính",
+        "name": "Thanh Quang",
         "type": "xa",
-        "slug": "thanh-binh",
-        "name_with_type": "Xã Thanh Bính",
-        "path": "Thanh Bính, Thanh Hà, Hải Dương",
-        "path_with_type": "Xã Thanh Bính, Huyện Thanh Hà, Tỉnh Hải Dương",
+        "slug": "thanh-quang",
+        "name_with_type": "Xã Thanh Quang",
+        "path": "Thanh Quang, Thanh Hà, Hải Dương",
+        "path_with_type": "Xã Thanh Quang, Huyện Thanh Hà, Tỉnh Hải Dương",
         "code": "10876",
         "parent_code": "294"
     },

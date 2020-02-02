@@ -39,16 +39,6 @@
         "code": "13456",
         "parent_code": "351"
     },
-    "13462": {
-        "name": "Thanh Bình",
-        "type": "xa",
-        "slug": "thanh-binh",
-        "name_with_type": "Xã Thanh Bình",
-        "path": "Thanh Bình, Thanh Liêm, Hà Nam",
-        "path_with_type": "Xã Thanh Bình, Huyện Thanh Liêm, Tỉnh Hà Nam",
-        "code": "13462",
-        "parent_code": "351"
-    },
     "13465": {
         "name": "Liêm Thuận",
         "type": "xa",
@@ -80,12 +70,12 @@
         "parent_code": "351"
     },
     "13474": {
-        "name": "Thanh Lưu",
-        "type": "xa",
-        "slug": "thanh-luu",
-        "name_with_type": "Xã Thanh Lưu",
-        "path": "Thanh Lưu, Thanh Liêm, Hà Nam",
-        "path_with_type": "Xã Thanh Lưu, Huyện Thanh Liêm, Tỉnh Hà Nam",
+        "name": "Tân Thanh",
+        "type": "thi-tran",
+        "slug": "tan-thanh",
+        "name_with_type": "Thị trấn Tân Thanh",
+        "path": "Tân Thanh, Thanh Liêm, Hà Nam",
+        "path_with_type": "Thị trấn Tân Thanh, Huyện Thanh Liêm, Tỉnh Hà Nam",
         "code": "13474",
         "parent_code": "351"
     },

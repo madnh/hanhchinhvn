@@ -31,11 +31,11 @@
     },
     "31489": {
         "name": "Vĩnh Viễn",
-        "type": "xa",
+        "type": "thi-tran",
         "slug": "vinh-vien",
-        "name_with_type": "Xã Vĩnh Viễn",
+        "name_with_type": "Thị trấn Vĩnh Viễn",
         "path": "Vĩnh Viễn, Long Mỹ, Hậu Giang",
-        "path_with_type": "Xã Vĩnh Viễn, Huyện Long Mỹ, Tỉnh Hậu Giang",
+        "path_with_type": "Thị trấn Vĩnh Viễn, Huyện Long Mỹ, Tỉnh Hậu Giang",
         "code": "31489",
         "parent_code": "936"
     },

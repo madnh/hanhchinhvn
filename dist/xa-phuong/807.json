@@ -39,16 +39,6 @@
         "code": "28168",
         "parent_code": "807"
     },
-    "28171": {
-        "name": "Tân Kim",
-        "type": "xa",
-        "slug": "tan-kim",
-        "name_with_type": "Xã Tân Kim",
-        "path": "Tân Kim, Cần Giuộc, Long An",
-        "path_with_type": "Xã Tân Kim, Huyện Cần Giuộc, Tỉnh Long An",
-        "code": "28171",
-        "parent_code": "807"
-    },
     "28174": {
         "name": "Phước Hậu",
         "type": "xa",
@@ -87,16 +77,6 @@
         "path": "Phước Lâm, Cần Giuộc, Long An",
         "path_with_type": "Xã Phước Lâm, Huyện Cần Giuộc, Tỉnh Long An",
         "code": "28183",
-        "parent_code": "807"
-    },
-    "28186": {
-        "name": "Trường Bình",
-        "type": "xa",
-        "slug": "truong-binh",
-        "name_with_type": "Xã Trường Bình",
-        "path": "Trường Bình, Cần Giuộc, Long An",
-        "path_with_type": "Xã Trường Bình, Huyện Cần Giuộc, Tỉnh Long An",
-        "code": "28186",
         "parent_code": "807"
     },
     "28189": {

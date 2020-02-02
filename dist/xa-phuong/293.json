@@ -49,23 +49,13 @@
         "code": "10762",
         "parent_code": "293"
     },
-    "10765": {
-        "name": "Việt Hưng",
-        "type": "xa",
-        "slug": "viet-hung",
-        "name_with_type": "Xã Việt Hưng",
-        "path": "Việt Hưng, Kim Thành, Hải Dương",
-        "path_with_type": "Xã Việt Hưng, Huyện Kim Thành, Tỉnh Hải Dương",
-        "code": "10765",
-        "parent_code": "293"
-    },
     "10768": {
-        "name": "Tuấn Hưng",
+        "name": "Tuấn Việt",
         "type": "xa",
-        "slug": "tuan-hung",
-        "name_with_type": "Xã Tuấn Hưng",
-        "path": "Tuấn Hưng, Kim Thành, Hải Dương",
-        "path_with_type": "Xã Tuấn Hưng, Huyện Kim Thành, Tỉnh Hải Dương",
+        "slug": "tuan-viet",
+        "name_with_type": "Xã Tuấn Việt",
+        "path": "Tuấn Việt, Kim Thành, Hải Dương",
+        "path_with_type": "Xã Tuấn Việt, Huyện Kim Thành, Tỉnh Hải Dương",
         "code": "10768",
         "parent_code": "293"
     },
@@ -110,12 +100,12 @@
         "parent_code": "293"
     },
     "10783": {
-        "name": "Kim Lương",
+        "name": "Kim Liên",
         "type": "xa",
-        "slug": "kim-luong",
-        "name_with_type": "Xã Kim Lương",
-        "path": "Kim Lương, Kim Thành, Hải Dương",
-        "path_with_type": "Xã Kim Lương, Huyện Kim Thành, Tỉnh Hải Dương",
+        "slug": "kim-lien",
+        "name_with_type": "Xã Kim Liên",
+        "path": "Kim Liên, Kim Thành, Hải Dương",
+        "path_with_type": "Xã Kim Liên, Huyện Kim Thành, Tỉnh Hải Dương",
         "code": "10783",
         "parent_code": "293"
     },
@@ -129,16 +119,6 @@
         "code": "10786",
         "parent_code": "293"
     },
-    "10789": {
-        "name": "Kim Khê",
-        "type": "xa",
-        "slug": "kim-khe",
-        "name_with_type": "Xã Kim Khê",
-        "path": "Kim Khê, Kim Thành, Hải Dương",
-        "path_with_type": "Xã Kim Khê, Huyện Kim Thành, Tỉnh Hải Dương",
-        "code": "10789",
-        "parent_code": "293"
-    },
     "10792": {
         "name": "Kim Đính",
         "type": "xa",
@@ -147,16 +127,6 @@
         "path": "Kim Đính, Kim Thành, Hải Dương",
         "path_with_type": "Xã Kim Đính, Huyện Kim Thành, Tỉnh Hải Dương",
         "code": "10792",
-        "parent_code": "293"
-    },
-    "10795": {
-        "name": "Cẩm La",
-        "type": "xa",
-        "slug": "cam-la",
-        "name_with_type": "Xã Cẩm La",
-        "path": "Cẩm La, Kim Thành, Hải Dương",
-        "path_with_type": "Xã Cẩm La, Huyện Kim Thành, Tỉnh Hải Dương",
-        "code": "10795",
         "parent_code": "293"
     },
     "10798": {
@@ -180,12 +150,12 @@
         "parent_code": "293"
     },
     "10804": {
-        "name": "Đồng Gia",
+        "name": "Đồng Cẩm",
         "type": "xa",
-        "slug": "dong-gia",
-        "name_with_type": "Xã Đồng Gia",
-        "path": "Đồng Gia, Kim Thành, Hải Dương",
-        "path_with_type": "Xã Đồng Gia, Huyện Kim Thành, Tỉnh Hải Dương",
+        "slug": "dong-cam",
+        "name_with_type": "Xã Đồng Cẩm",
+        "path": "Đồng Cẩm, Kim Thành, Hải Dương",
+        "path_with_type": "Xã Đồng Cẩm, Huyện Kim Thành, Tỉnh Hải Dương",
         "code": "10804",
         "parent_code": "293"
     },

@@ -190,23 +190,13 @@
         "parent_code": "465"
     },
     "19486": {
-        "name": "A Xing",
+        "name": "Lìa",
         "type": "xa",
-        "slug": "a-xing",
-        "name_with_type": "Xã A Xing",
-        "path": "A Xing, Hướng Hóa, Quảng Trị",
-        "path_with_type": "Xã A Xing, Huyện Hướng Hóa, Tỉnh Quảng Trị",
+        "slug": "lia",
+        "name_with_type": "Xã Lìa",
+        "path": "Lìa, Hướng Hóa, Quảng Trị",
+        "path_with_type": "Xã Lìa, Huyện Hướng Hóa, Tỉnh Quảng Trị",
         "code": "19486",
-        "parent_code": "465"
-    },
-    "19489": {
-        "name": "A Túc",
-        "type": "xa",
-        "slug": "a-tuc",
-        "name_with_type": "Xã A Túc",
-        "path": "A Túc, Hướng Hóa, Quảng Trị",
-        "path_with_type": "Xã A Túc, Huyện Hướng Hóa, Tỉnh Quảng Trị",
-        "code": "19489",
         "parent_code": "465"
     },
     "19492": {

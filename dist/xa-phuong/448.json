@@ -30,23 +30,13 @@
         "parent_code": "448"
     },
     "18430": {
-        "name": "An Lộc",
+        "name": "Bình An",
         "type": "xa",
-        "slug": "an-loc",
-        "name_with_type": "Xã An Lộc",
-        "path": "An Lộc, Lộc Hà, Hà Tĩnh",
-        "path_with_type": "Xã An Lộc, Huyện Lộc Hà, Tỉnh Hà Tĩnh",
+        "slug": "binh-an",
+        "name_with_type": "Xã Bình An",
+        "path": "Bình An, Lộc Hà, Hà Tĩnh",
+        "path_with_type": "Xã Bình An, Huyện Lộc Hà, Tỉnh Hà Tĩnh",
         "code": "18430",
-        "parent_code": "448"
-    },
-    "18448": {
-        "name": "Bình Lộc",
-        "type": "xa",
-        "slug": "binh-loc",
-        "name_with_type": "Xã Bình Lộc",
-        "path": "Bình Lộc, Lộc Hà, Hà Tĩnh",
-        "path_with_type": "Xã Bình Lộc, Huyện Lộc Hà, Tỉnh Hà Tĩnh",
-        "code": "18448",
         "parent_code": "448"
     },
     "18457": {
@@ -70,12 +60,12 @@
         "parent_code": "448"
     },
     "18568": {
-        "name": "Thạch Bằng",
-        "type": "xa",
-        "slug": "thach-bang",
-        "name_with_type": "Xã Thạch Bằng",
-        "path": "Thạch Bằng, Lộc Hà, Hà Tĩnh",
-        "path_with_type": "Xã Thạch Bằng, Huyện Lộc Hà, Tỉnh Hà Tĩnh",
+        "name": "Lộc Hà",
+        "type": "thi-tran",
+        "slug": "loc-ha",
+        "name_with_type": "Thị trấn Lộc Hà",
+        "path": "Lộc Hà, Lộc Hà, Hà Tĩnh",
+        "path_with_type": "Thị trấn Lộc Hà, Huyện Lộc Hà, Tỉnh Hà Tĩnh",
         "code": "18568",
         "parent_code": "448"
     },

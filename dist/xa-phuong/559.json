@@ -69,16 +69,6 @@
         "code": "22132",
         "parent_code": "559"
     },
-    "22135": {
-        "name": "An Hải",
-        "type": "xa",
-        "slug": "an-hai",
-        "name_with_type": "Xã An Hải",
-        "path": "An Hải, Tuy An, Phú Yên",
-        "path_with_type": "Xã An Hải, Huyện Tuy An, Tỉnh Phú Yên",
-        "code": "22135",
-        "parent_code": "559"
-    },
     "22138": {
         "name": "An Cư",
         "type": "xa",
@@ -110,12 +100,12 @@
         "parent_code": "559"
     },
     "22147": {
-        "name": "An Hòa",
+        "name": "An Hòa Hải",
         "type": "xa",
-        "slug": "an-hoa",
-        "name_with_type": "Xã An Hòa",
-        "path": "An Hòa, Tuy An, Phú Yên",
-        "path_with_type": "Xã An Hòa, Huyện Tuy An, Tỉnh Phú Yên",
+        "slug": "an-hoa-hai",
+        "name_with_type": "Xã An Hòa Hải",
+        "path": "An Hòa Hải, Tuy An, Phú Yên",
+        "path_with_type": "Xã An Hòa Hải, Huyện Tuy An, Tỉnh Phú Yên",
         "code": "22147",
         "parent_code": "559"
     },

@@ -91,11 +91,11 @@
     },
     "25357": {
         "name": "Tân Khai",
-        "type": "xa",
+        "type": "thi-tran",
         "slug": "tan-khai",
-        "name_with_type": "Xã Tân Khai",
+        "name_with_type": "Thị trấn Tân Khai",
         "path": "Tân Khai, Hớn Quản, Bình Phước",
-        "path_with_type": "Xã Tân Khai, Huyện Hớn Quản, Tỉnh Bình Phước",
+        "path_with_type": "Thị trấn Tân Khai, Huyện Hớn Quản, Tỉnh Bình Phước",
         "code": "25357",
         "parent_code": "694"
     },

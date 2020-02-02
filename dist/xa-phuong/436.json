@@ -120,23 +120,13 @@
         "parent_code": "436"
     },
     "18103": {
-        "name": "Thạch Môn",
+        "name": "Đồng Môn",
         "type": "xa",
-        "slug": "thach-mon",
-        "name_with_type": "Xã Thạch Môn",
-        "path": "Thạch Môn, Hà Tĩnh, Hà Tĩnh",
-        "path_with_type": "Xã Thạch Môn, Thành phố Hà Tĩnh, Tỉnh Hà Tĩnh",
+        "slug": "dong-mon",
+        "name_with_type": "Xã Đồng Môn",
+        "path": "Đồng Môn, Hà Tĩnh, Hà Tĩnh",
+        "path_with_type": "Xã Đồng Môn, Thành phố Hà Tĩnh, Tỉnh Hà Tĩnh",
         "code": "18103",
-        "parent_code": "436"
-    },
-    "18106": {
-        "name": "Thạch Đồng",
-        "type": "xa",
-        "slug": "thach-dong",
-        "name_with_type": "Xã Thạch Đồng",
-        "path": "Thạch Đồng, Hà Tĩnh, Hà Tĩnh",
-        "path_with_type": "Xã Thạch Đồng, Thành phố Hà Tĩnh, Tỉnh Hà Tĩnh",
-        "code": "18106",
         "parent_code": "436"
     },
     "18109": {

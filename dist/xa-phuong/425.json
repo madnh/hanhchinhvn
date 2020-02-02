@@ -269,26 +269,6 @@
         "code": "17467",
         "parent_code": "425"
     },
-    "17470": {
-        "name": "Diễn Minh",
-        "type": "xa",
-        "slug": "dien-minh",
-        "name_with_type": "Xã Diễn Minh",
-        "path": "Diễn Minh, Diễn Châu, Nghệ An",
-        "path_with_type": "Xã Diễn Minh, Huyện Diễn Châu, Tỉnh Nghệ An",
-        "code": "17470",
-        "parent_code": "425"
-    },
-    "17473": {
-        "name": "Diễn Bình",
-        "type": "xa",
-        "slug": "dien-binh",
-        "name_with_type": "Xã Diễn Bình",
-        "path": "Diễn Bình, Diễn Châu, Nghệ An",
-        "path_with_type": "Xã Diễn Bình, Huyện Diễn Châu, Tỉnh Nghệ An",
-        "code": "17473",
-        "parent_code": "425"
-    },
     "17476": {
         "name": "Diễn Cát",
         "type": "xa",
@@ -320,12 +300,12 @@
         "parent_code": "425"
     },
     "17485": {
-        "name": "Diễn Thắng",
+        "name": "Minh Châu",
         "type": "xa",
-        "slug": "dien-thang",
-        "name_with_type": "Xã Diễn Thắng",
-        "path": "Diễn Thắng, Diễn Châu, Nghệ An",
-        "path_with_type": "Xã Diễn Thắng, Huyện Diễn Châu, Tỉnh Nghệ An",
+        "slug": "minh-chau",
+        "name_with_type": "Xã Minh Châu",
+        "path": "Minh Châu, Diễn Châu, Nghệ An",
+        "path_with_type": "Xã Minh Châu, Huyện Diễn Châu, Tỉnh Nghệ An",
         "code": "17485",
         "parent_code": "425"
     },

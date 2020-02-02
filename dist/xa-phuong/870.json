@@ -19,23 +19,13 @@
         "code": "29962",
         "parent_code": "870"
     },
-    "29968": {
-        "name": "Thường Thới Hậu B",
-        "type": "xa",
-        "slug": "thuong-thoi-hau-b",
-        "name_with_type": "Xã Thường Thới Hậu B",
-        "path": "Thường Thới Hậu B, Hồng Ngự, Đồng Tháp",
-        "path_with_type": "Xã Thường Thới Hậu B, Huyện Hồng Ngự, Tỉnh Đồng Tháp",
-        "code": "29968",
-        "parent_code": "870"
-    },
     "29971": {
         "name": "Thường Thới Tiền",
-        "type": "xa",
+        "type": "thi-tran",
         "slug": "thuong-thoi-tien",
-        "name_with_type": "Xã Thường Thới Tiền",
+        "name_with_type": "Thị trấn Thường Thới Tiền",
         "path": "Thường Thới Tiền, Hồng Ngự, Đồng Tháp",
-        "path_with_type": "Xã Thường Thới Tiền, Huyện Hồng Ngự, Tỉnh Đồng Tháp",
+        "path_with_type": "Thị trấn Thường Thới Tiền, Huyện Hồng Ngự, Tỉnh Đồng Tháp",
         "code": "29971",
         "parent_code": "870"
     },

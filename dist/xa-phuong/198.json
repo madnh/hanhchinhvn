@@ -39,16 +39,6 @@
         "code": "06847",
         "parent_code": "198"
     },
-    "06850": {
-        "name": "Tình Húc",
-        "type": "xa",
-        "slug": "tinh-huc",
-        "name_with_type": "Xã Tình Húc",
-        "path": "Tình Húc, Bình Liêu, Quảng Ninh",
-        "path_with_type": "Xã Tình Húc, Huyện Bình Liêu, Tỉnh Quảng Ninh",
-        "code": "06850",
-        "parent_code": "198"
-    },
     "06853": {
         "name": "Vô Ngại",
         "type": "xa",

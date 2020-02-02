@@ -69,16 +69,6 @@
         "code": "05554",
         "parent_code": "167"
     },
-    "05557": {
-        "name": "Kim Sơn",
-        "type": "xa",
-        "slug": "kim-son",
-        "name_with_type": "Xã Kim Sơn",
-        "path": "Kim Sơn, Định Hóa, Thái Nguyên",
-        "path_with_type": "Xã Kim Sơn, Huyện Định Hóa, Tỉnh Thái Nguyên",
-        "code": "05557",
-        "parent_code": "167"
-    },
     "05560": {
         "name": "Phúc Chu",
         "type": "xa",

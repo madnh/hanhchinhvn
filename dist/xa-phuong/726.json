@@ -41,11 +41,11 @@
     },
     "25906": {
         "name": "Tân Thành",
-        "type": "xa",
+        "type": "thi-tran",
         "slug": "tan-thanh",
-        "name_with_type": "Xã Tân Thành",
+        "name_with_type": "Thị trấn Tân Thành",
         "path": "Tân Thành, Bắc Tân Uyên, Bình Dương",
-        "path_with_type": "Xã Tân Thành, Huyện Bắc Tân Uyên, Tỉnh Bình Dương",
+        "path_with_type": "Thị trấn Tân Thành, Huyện Bắc Tân Uyên, Tỉnh Bình Dương",
         "code": "25906",
         "parent_code": "726"
     },

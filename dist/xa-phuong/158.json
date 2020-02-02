@@ -19,16 +19,6 @@
         "code": "05356",
         "parent_code": "158"
     },
-    "05359": {
-        "name": "Lạc Hưng",
-        "type": "xa",
-        "slug": "lac-hung",
-        "name_with_type": "Xã Lạc Hưng",
-        "path": "Lạc Hưng, Yên Thủy, Hoà Bình",
-        "path_with_type": "Xã Lạc Hưng, Huyện Yên Thủy, Tỉnh Hoà Bình",
-        "code": "05359",
-        "parent_code": "158"
-    },
     "05362": {
         "name": "Lạc Lương",
         "type": "xa",
@@ -77,16 +67,6 @@
         "path": "Lạc Thịnh, Yên Thủy, Hoà Bình",
         "path_with_type": "Xã Lạc Thịnh, Huyện Yên Thủy, Tỉnh Hoà Bình",
         "code": "05374",
-        "parent_code": "158"
-    },
-    "05377": {
-        "name": "Yên Lạc",
-        "type": "xa",
-        "slug": "yen-lac",
-        "name_with_type": "Xã Yên Lạc",
-        "path": "Yên Lạc, Yên Thủy, Hoà Bình",
-        "path_with_type": "Xã Yên Lạc, Huyện Yên Thủy, Tỉnh Hoà Bình",
-        "code": "05377",
         "parent_code": "158"
     },
     "05380": {

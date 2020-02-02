@@ -69,16 +69,6 @@
         "code": "03142",
         "parent_code": "094"
     },
-    "03144": {
-        "name": "Tà Lèng",
-        "type": "xa",
-        "slug": "ta-leng",
-        "name_with_type": "Xã Tà Lèng",
-        "path": "Tà Lèng, Điện Biên Phủ, Điện Biên",
-        "path_with_type": "Xã Tà Lèng, Thành phố Điện Biên Phủ, Tỉnh Điện Biên",
-        "code": "03144",
-        "parent_code": "094"
-    },
     "03145": {
         "name": "Thanh Minh",
         "type": "xa",
@@ -87,6 +77,46 @@
         "path": "Thanh Minh, Điện Biên Phủ, Điện Biên",
         "path_with_type": "Xã Thanh Minh, Thành phố Điện Biên Phủ, Tỉnh Điện Biên",
         "code": "03145",
+        "parent_code": "094"
+    },
+    "03316": {
+        "name": "Nà Tấu",
+        "type": "xa",
+        "slug": "na-tau",
+        "name_with_type": "Xã Nà Tấu",
+        "path": "Nà Tấu, Điện Biên Phủ, Điện Biên",
+        "path_with_type": "Xã Nà Tấu, Thành phố Điện Biên Phủ, Tỉnh Điện Biên",
+        "code": "03316",
+        "parent_code": "094"
+    },
+    "03317": {
+        "name": "Nà Nhạn",
+        "type": "xa",
+        "slug": "na-nhan",
+        "name_with_type": "Xã Nà Nhạn",
+        "path": "Nà Nhạn, Điện Biên Phủ, Điện Biên",
+        "path_with_type": "Xã Nà Nhạn, Thành phố Điện Biên Phủ, Tỉnh Điện Biên",
+        "code": "03317",
+        "parent_code": "094"
+    },
+    "03325": {
+        "name": "Mường Phăng",
+        "type": "xa",
+        "slug": "muong-phang",
+        "name_with_type": "Xã Mường Phăng",
+        "path": "Mường Phăng, Điện Biên Phủ, Điện Biên",
+        "path_with_type": "Xã Mường Phăng, Thành phố Điện Biên Phủ, Tỉnh Điện Biên",
+        "code": "03325",
+        "parent_code": "094"
+    },
+    "03326": {
+        "name": "Pá Khoang",
+        "type": "xa",
+        "slug": "pa-khoang",
+        "name_with_type": "Xã Pá Khoang",
+        "path": "Pá Khoang, Điện Biên Phủ, Điện Biên",
+        "path_with_type": "Xã Pá Khoang, Thành phố Điện Biên Phủ, Tỉnh Điện Biên",
+        "code": "03326",
         "parent_code": "094"
     }
 }

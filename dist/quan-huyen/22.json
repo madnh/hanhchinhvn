@@ -99,16 +99,6 @@
         "code": "203",
         "parent_code": "22"
     },
-    "204": {
-        "name": "Hoành Bồ",
-        "type": "huyen",
-        "slug": "hoanh-bo",
-        "name_with_type": "Huyện Hoành Bồ",
-        "path": "Hoành Bồ, Quảng Ninh",
-        "path_with_type": "Huyện Hoành Bồ, Tỉnh Quảng Ninh",
-        "code": "204",
-        "parent_code": "22"
-    },
     "205": {
         "name": "Đông Triều",
         "type": "thi-xa",

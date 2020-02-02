@@ -1,14 +1,4 @@
 {
-    "07939": {
-        "name": "Trường Thịnh",
-        "type": "phuong",
-        "slug": "truong-thinh",
-        "name_with_type": "Phường Trường Thịnh",
-        "path": "Trường Thịnh, Phú Thọ, Phú Thọ",
-        "path_with_type": "Phường Trường Thịnh, Thị xã Phú Thọ, Tỉnh Phú Thọ",
-        "code": "07939",
-        "parent_code": "228"
-    },
     "07942": {
         "name": "Hùng Vương",
         "type": "phuong",

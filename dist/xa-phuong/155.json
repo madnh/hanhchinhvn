@@ -1,31 +1,21 @@
 {
     "05128": {
-        "name": "Mường Khến",
+        "name": "Mãn Đức",
         "type": "thi-tran",
-        "slug": "muong-khen",
-        "name_with_type": "Thị trấn Mường Khến",
-        "path": "Mường Khến, Tân Lạc, Hoà Bình",
-        "path_with_type": "Thị trấn Mường Khến, Huyện Tân Lạc, Tỉnh Hoà Bình",
+        "slug": "man-duc",
+        "name_with_type": "Thị trấn Mãn Đức",
+        "path": "Mãn Đức, Tân Lạc, Hoà Bình",
+        "path_with_type": "Thị trấn Mãn Đức, Huyện Tân Lạc, Tỉnh Hoà Bình",
         "code": "05128",
         "parent_code": "155"
     },
-    "05131": {
-        "name": "Ngòi Hoa",
-        "type": "xa",
-        "slug": "ngoi-hoa",
-        "name_with_type": "Xã Ngòi Hoa",
-        "path": "Ngòi Hoa, Tân Lạc, Hoà Bình",
-        "path_with_type": "Xã Ngòi Hoa, Huyện Tân Lạc, Tỉnh Hoà Bình",
-        "code": "05131",
-        "parent_code": "155"
-    },
     "05134": {
-        "name": "Trung Hòa",
+        "name": "Suối Hoa",
         "type": "xa",
-        "slug": "trung-hoa",
-        "name_with_type": "Xã Trung Hòa",
-        "path": "Trung Hòa, Tân Lạc, Hoà Bình",
-        "path_with_type": "Xã Trung Hòa, Huyện Tân Lạc, Tỉnh Hoà Bình",
+        "slug": "suoi-hoa",
+        "name_with_type": "Xã Suối Hoa",
+        "path": "Suối Hoa, Tân Lạc, Hoà Bình",
+        "path_with_type": "Xã Suối Hoa, Huyện Tân Lạc, Tỉnh Hoà Bình",
         "code": "05134",
         "parent_code": "155"
     },
@@ -59,16 +49,6 @@
         "code": "05143",
         "parent_code": "155"
     },
-    "05146": {
-        "name": "Quy Hậu",
-        "type": "xa",
-        "slug": "quy-hau",
-        "name_with_type": "Xã Quy Hậu",
-        "path": "Quy Hậu, Tân Lạc, Hoà Bình",
-        "path_with_type": "Xã Quy Hậu, Huyện Tân Lạc, Tỉnh Hoà Bình",
-        "code": "05146",
-        "parent_code": "155"
-    },
     "05149": {
         "name": "Phong Phú",
         "type": "xa",
@@ -87,36 +67,6 @@
         "path": "Quyết Chiến, Tân Lạc, Hoà Bình",
         "path_with_type": "Xã Quyết Chiến, Huyện Tân Lạc, Tỉnh Hoà Bình",
         "code": "05152",
-        "parent_code": "155"
-    },
-    "05155": {
-        "name": "Mãn Đức",
-        "type": "xa",
-        "slug": "man-duc",
-        "name_with_type": "Xã Mãn Đức",
-        "path": "Mãn Đức, Tân Lạc, Hoà Bình",
-        "path_with_type": "Xã Mãn Đức, Huyện Tân Lạc, Tỉnh Hoà Bình",
-        "code": "05155",
-        "parent_code": "155"
-    },
-    "05158": {
-        "name": "Địch Giáo",
-        "type": "xa",
-        "slug": "dich-giao",
-        "name_with_type": "Xã Địch Giáo",
-        "path": "Địch Giáo, Tân Lạc, Hoà Bình",
-        "path_with_type": "Xã Địch Giáo, Huyện Tân Lạc, Tỉnh Hoà Bình",
-        "code": "05158",
-        "parent_code": "155"
-    },
-    "05161": {
-        "name": "Tuân Lộ",
-        "type": "xa",
-        "slug": "tuan-lo",
-        "name_with_type": "Xã Tuân Lộ",
-        "path": "Tuân Lộ, Tân Lạc, Hoà Bình",
-        "path_with_type": "Xã Tuân Lộ, Huyện Tân Lạc, Tỉnh Hoà Bình",
-        "code": "05161",
         "parent_code": "155"
     },
     "05164": {
@@ -160,53 +110,23 @@
         "parent_code": "155"
     },
     "05176": {
-        "name": "Lũng Vân",
+        "name": "Vân Sơn",
         "type": "xa",
-        "slug": "lung-van",
-        "name_with_type": "Xã Lũng Vân",
-        "path": "Lũng Vân, Tân Lạc, Hoà Bình",
-        "path_with_type": "Xã Lũng Vân, Huyện Tân Lạc, Tỉnh Hoà Bình",
+        "slug": "van-son",
+        "name_with_type": "Xã Vân Sơn",
+        "path": "Vân Sơn, Tân Lạc, Hoà Bình",
+        "path_with_type": "Xã Vân Sơn, Huyện Tân Lạc, Tỉnh Hoà Bình",
         "code": "05176",
         "parent_code": "155"
     },
-    "05179": {
-        "name": "Bắc Sơn",
-        "type": "xa",
-        "slug": "bac-son",
-        "name_with_type": "Xã Bắc Sơn",
-        "path": "Bắc Sơn, Tân Lạc, Hoà Bình",
-        "path_with_type": "Xã Bắc Sơn, Huyện Tân Lạc, Tỉnh Hoà Bình",
-        "code": "05179",
-        "parent_code": "155"
-    },
-    "05182": {
-        "name": "Quy Mỹ",
-        "type": "xa",
-        "slug": "quy-my",
-        "name_with_type": "Xã Quy Mỹ",
-        "path": "Quy Mỹ, Tân Lạc, Hoà Bình",
-        "path_with_type": "Xã Quy Mỹ, Huyện Tân Lạc, Tỉnh Hoà Bình",
-        "code": "05182",
-        "parent_code": "155"
-    },
     "05185": {
-        "name": "Do Nhân",
+        "name": "Nhân Mỹ",
         "type": "xa",
-        "slug": "do-nhan",
-        "name_with_type": "Xã Do Nhân",
-        "path": "Do Nhân, Tân Lạc, Hoà Bình",
-        "path_with_type": "Xã Do Nhân, Huyện Tân Lạc, Tỉnh Hoà Bình",
+        "slug": "nhan-my",
+        "name_with_type": "Xã Nhân Mỹ ",
+        "path": "Nhân Mỹ, Tân Lạc, Hoà Bình",
+        "path_with_type": "Xã Nhân Mỹ , Huyện Tân Lạc, Tỉnh Hoà Bình",
         "code": "05185",
-        "parent_code": "155"
-    },
-    "05188": {
-        "name": "Nam Sơn",
-        "type": "xa",
-        "slug": "nam-son",
-        "name_with_type": "Xã Nam Sơn",
-        "path": "Nam Sơn, Tân Lạc, Hoà Bình",
-        "path_with_type": "Xã Nam Sơn, Huyện Tân Lạc, Tỉnh Hoà Bình",
-        "code": "05188",
         "parent_code": "155"
     },
     "05191": {

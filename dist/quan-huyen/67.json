@@ -1,11 +1,11 @@
 {
     "660": {
         "name": "Gia Nghĩa",
-        "type": "thi-xa",
+        "type": "thanh-pho",
         "slug": "gia-nghia",
-        "name_with_type": "Thị xã Gia Nghĩa",
+        "name_with_type": "Thành phố Gia Nghĩa",
         "path": "Gia Nghĩa, Đắk Nông",
-        "path_with_type": "Thị xã Gia Nghĩa, Tỉnh Đắk Nông",
+        "path_with_type": "Thành phố Gia Nghĩa, Tỉnh Đắk Nông",
         "code": "660",
         "parent_code": "67"
     },

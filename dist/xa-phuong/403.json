@@ -29,16 +29,6 @@
         "code": "16234",
         "parent_code": "403"
     },
-    "16237": {
-        "name": "Xuân Thọ",
-        "type": "xa",
-        "slug": "xuan-tho",
-        "name_with_type": "Xã Xuân Thọ",
-        "path": "Xuân Thọ, Như Thanh, Thanh Hóa",
-        "path_with_type": "Xã Xuân Thọ, Huyện Như Thanh, Tỉnh Thanh Hóa",
-        "code": "16237",
-        "parent_code": "403"
-    },
     "16240": {
         "name": "Phượng Nghi",
         "type": "xa",
@@ -89,16 +79,6 @@
         "code": "16252",
         "parent_code": "403"
     },
-    "16255": {
-        "name": "Hải Vân",
-        "type": "xa",
-        "slug": "hai-van",
-        "name_with_type": "Xã Hải Vân",
-        "path": "Hải Vân, Như Thanh, Thanh Hóa",
-        "path_with_type": "Xã Hải Vân, Huyện Như Thanh, Tỉnh Thanh Hóa",
-        "code": "16255",
-        "parent_code": "403"
-    },
     "16258": {
         "name": "Xuân Thái",
         "type": "xa",
@@ -137,16 +117,6 @@
         "path": "Yên Lạc, Như Thanh, Thanh Hóa",
         "path_with_type": "Xã Yên Lạc, Huyện Như Thanh, Tỉnh Thanh Hóa",
         "code": "16267",
-        "parent_code": "403"
-    },
-    "16270": {
-        "name": "Phúc Đường",
-        "type": "xa",
-        "slug": "phuc-duong",
-        "name_with_type": "Xã Phúc Đường",
-        "path": "Phúc Đường, Như Thanh, Thanh Hóa",
-        "path_with_type": "Xã Phúc Đường, Huyện Như Thanh, Tỉnh Thanh Hóa",
-        "code": "16270",
         "parent_code": "403"
     },
     "16273": {

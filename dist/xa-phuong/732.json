@@ -5,7 +5,7 @@
         "slug": "xuan-trung",
         "name_with_type": "Phường Xuân Trung",
         "path": "Xuân Trung, Long Khánh, Đồng Nai",
-        "path_with_type": "Phường Xuân Trung, Thị xã Long Khánh, Tỉnh Đồng Nai",
+        "path_with_type": "Phường Xuân Trung, Thành phố Long Khánh, Tỉnh Đồng Nai",
         "code": "26071",
         "parent_code": "732"
     },
@@ -15,7 +15,7 @@
         "slug": "xuan-thanh",
         "name_with_type": "Phường Xuân Thanh",
         "path": "Xuân Thanh, Long Khánh, Đồng Nai",
-        "path_with_type": "Phường Xuân Thanh, Thị xã Long Khánh, Tỉnh Đồng Nai",
+        "path_with_type": "Phường Xuân Thanh, Thành phố Long Khánh, Tỉnh Đồng Nai",
         "code": "26074",
         "parent_code": "732"
     },
@@ -25,7 +25,7 @@
         "slug": "xuan-binh",
         "name_with_type": "Phường Xuân Bình",
         "path": "Xuân Bình, Long Khánh, Đồng Nai",
-        "path_with_type": "Phường Xuân Bình, Thị xã Long Khánh, Tỉnh Đồng Nai",
+        "path_with_type": "Phường Xuân Bình, Thành phố Long Khánh, Tỉnh Đồng Nai",
         "code": "26077",
         "parent_code": "732"
     },
@@ -35,7 +35,7 @@
         "slug": "xuan-an",
         "name_with_type": "Phường Xuân An",
         "path": "Xuân An, Long Khánh, Đồng Nai",
-        "path_with_type": "Phường Xuân An, Thị xã Long Khánh, Tỉnh Đồng Nai",
+        "path_with_type": "Phường Xuân An, Thành phố Long Khánh, Tỉnh Đồng Nai",
         "code": "26080",
         "parent_code": "732"
     },
@@ -45,7 +45,7 @@
         "slug": "xuan-hoa",
         "name_with_type": "Phường Xuân Hoà",
         "path": "Xuân Hoà, Long Khánh, Đồng Nai",
-        "path_with_type": "Phường Xuân Hoà, Thị xã Long Khánh, Tỉnh Đồng Nai",
+        "path_with_type": "Phường Xuân Hoà, Thành phố Long Khánh, Tỉnh Đồng Nai",
         "code": "26083",
         "parent_code": "732"
     },
@@ -55,7 +55,7 @@
         "slug": "phu-binh",
         "name_with_type": "Phường Phú Bình",
         "path": "Phú Bình, Long Khánh, Đồng Nai",
-        "path_with_type": "Phường Phú Bình, Thị xã Long Khánh, Tỉnh Đồng Nai",
+        "path_with_type": "Phường Phú Bình, Thành phố Long Khánh, Tỉnh Đồng Nai",
         "code": "26086",
         "parent_code": "732"
     },
@@ -65,7 +65,7 @@
         "slug": "binh-loc",
         "name_with_type": "Xã Bình Lộc",
         "path": "Bình Lộc, Long Khánh, Đồng Nai",
-        "path_with_type": "Xã Bình Lộc, Thị xã Long Khánh, Tỉnh Đồng Nai",
+        "path_with_type": "Xã Bình Lộc, Thành phố Long Khánh, Tỉnh Đồng Nai",
         "code": "26089",
         "parent_code": "732"
     },
@@ -75,47 +75,47 @@
         "slug": "bao-quang",
         "name_with_type": "Xã Bảo Quang",
         "path": "Bảo Quang, Long Khánh, Đồng Nai",
-        "path_with_type": "Xã Bảo Quang, Thị xã Long Khánh, Tỉnh Đồng Nai",
+        "path_with_type": "Xã Bảo Quang, Thành phố Long Khánh, Tỉnh Đồng Nai",
         "code": "26092",
         "parent_code": "732"
     },
     "26095": {
         "name": "Suối Tre",
-        "type": "xa",
+        "type": "phuong",
         "slug": "suoi-tre",
-        "name_with_type": "Xã Suối Tre",
+        "name_with_type": "Phường Suối Tre",
         "path": "Suối Tre, Long Khánh, Đồng Nai",
-        "path_with_type": "Xã Suối Tre, Thị xã Long Khánh, Tỉnh Đồng Nai",
+        "path_with_type": "Phường Suối Tre, Thành phố Long Khánh, Tỉnh Đồng Nai",
         "code": "26095",
         "parent_code": "732"
     },
     "26098": {
         "name": "Bảo Vinh",
-        "type": "xa",
+        "type": "phuong",
         "slug": "bao-vinh",
-        "name_with_type": "Xã Bảo Vinh",
+        "name_with_type": "Phường Bảo Vinh",
         "path": "Bảo Vinh, Long Khánh, Đồng Nai",
-        "path_with_type": "Xã Bảo Vinh, Thị xã Long Khánh, Tỉnh Đồng Nai",
+        "path_with_type": "Phường Bảo Vinh, Thành phố Long Khánh, Tỉnh Đồng Nai",
         "code": "26098",
         "parent_code": "732"
     },
     "26101": {
         "name": "Xuân Lập",
-        "type": "xa",
+        "type": "phuong",
         "slug": "xuan-lap",
-        "name_with_type": "Xã Xuân Lập",
+        "name_with_type": "Phường Xuân Lập",
         "path": "Xuân Lập, Long Khánh, Đồng Nai",
-        "path_with_type": "Xã Xuân Lập, Thị xã Long Khánh, Tỉnh Đồng Nai",
+        "path_with_type": "Phường Xuân Lập, Thành phố Long Khánh, Tỉnh Đồng Nai",
         "code": "26101",
         "parent_code": "732"
     },
     "26104": {
         "name": "Bàu Sen",
-        "type": "xa",
+        "type": "phuong",
         "slug": "bau-sen",
-        "name_with_type": "Xã Bàu Sen",
+        "name_with_type": "Phường Bàu Sen",
         "path": "Bàu Sen, Long Khánh, Đồng Nai",
-        "path_with_type": "Xã Bàu Sen, Thị xã Long Khánh, Tỉnh Đồng Nai",
+        "path_with_type": "Phường Bàu Sen, Thành phố Long Khánh, Tỉnh Đồng Nai",
         "code": "26104",
         "parent_code": "732"
     },
@@ -125,17 +125,17 @@
         "slug": "bau-tram",
         "name_with_type": "Xã Bàu Trâm",
         "path": "Bàu Trâm, Long Khánh, Đồng Nai",
-        "path_with_type": "Xã Bàu Trâm, Thị xã Long Khánh, Tỉnh Đồng Nai",
+        "path_with_type": "Xã Bàu Trâm, Thành phố Long Khánh, Tỉnh Đồng Nai",
         "code": "26107",
         "parent_code": "732"
     },
     "26110": {
         "name": "Xuân Tân",
-        "type": "xa",
+        "type": "phuong",
         "slug": "xuan-tan",
-        "name_with_type": "Xã Xuân Tân",
+        "name_with_type": "Phường Xuân Tân",
         "path": "Xuân Tân, Long Khánh, Đồng Nai",
-        "path_with_type": "Xã Xuân Tân, Thị xã Long Khánh, Tỉnh Đồng Nai",
+        "path_with_type": "Phường Xuân Tân, Thành phố Long Khánh, Tỉnh Đồng Nai",
         "code": "26110",
         "parent_code": "732"
     },
@@ -145,7 +145,7 @@
         "slug": "hang-gon",
         "name_with_type": "Xã Hàng Gòn",
         "path": "Hàng Gòn, Long Khánh, Đồng Nai",
-        "path_with_type": "Xã Hàng Gòn, Thị xã Long Khánh, Tỉnh Đồng Nai",
+        "path_with_type": "Xã Hàng Gòn, Thành phố Long Khánh, Tỉnh Đồng Nai",
         "code": "26113",
         "parent_code": "732"
     }

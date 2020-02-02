@@ -89,16 +89,6 @@
         "code": "07396",
         "parent_code": "217"
     },
-    "07399": {
-        "name": "Tân Thịnh",
-        "type": "xa",
-        "slug": "tan-thinh",
-        "name_with_type": "Xã Tân Thịnh",
-        "path": "Tân Thịnh, Lạng Giang, Bắc Giang",
-        "path_with_type": "Xã Tân Thịnh, Huyện Lạng Giang, Tỉnh Bắc Giang",
-        "code": "07399",
-        "parent_code": "217"
-    },
     "07402": {
         "name": "Mỹ Hà",
         "type": "xa",
@@ -167,16 +157,6 @@
         "path": "Mỹ Thái, Lạng Giang, Bắc Giang",
         "path_with_type": "Xã Mỹ Thái, Huyện Lạng Giang, Tỉnh Bắc Giang",
         "code": "07420",
-        "parent_code": "217"
-    },
-    "07423": {
-        "name": "Phi Mô",
-        "type": "xa",
-        "slug": "phi-mo",
-        "name_with_type": "Xã Phi Mô",
-        "path": "Phi Mô, Lạng Giang, Bắc Giang",
-        "path_with_type": "Xã Phi Mô, Huyện Lạng Giang, Tỉnh Bắc Giang",
-        "code": "07423",
         "parent_code": "217"
     },
     "07426": {

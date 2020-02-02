@@ -20,12 +20,12 @@
         "parent_code": "127"
     },
     "04231": {
-        "name": "Xốp Cộp",
+        "name": "Sốp Cộp",
         "type": "xa",
-        "slug": "xop-cop",
-        "name_with_type": "Xã Xốp Cộp",
-        "path": "Xốp Cộp, Sốp Cộp, Sơn La",
-        "path_with_type": "Xã Xốp Cộp, Huyện Sốp Cộp, Tỉnh Sơn La",
+        "slug": "sop-cop",
+        "name_with_type": "Xã Sốp Cộp",
+        "path": "Sốp Cộp, Sốp Cộp, Sơn La",
+        "path_with_type": "Xã Sốp Cộp, Huyện Sốp Cộp, Tỉnh Sơn La",
         "code": "04231",
         "parent_code": "127"
     },

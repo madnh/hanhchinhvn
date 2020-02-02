@@ -70,23 +70,13 @@
         "parent_code": "186"
     },
     "06406": {
-        "name": "Thiện Kỵ",
+        "name": "Thiện Tân",
         "type": "xa",
-        "slug": "thien-ky",
-        "name_with_type": "Xã Thiện Kỵ",
-        "path": "Thiện Kỵ, Hữu Lũng, Lạng Sơn",
-        "path_with_type": "Xã Thiện Kỵ, Huyện Hữu Lũng, Tỉnh Lạng Sơn",
+        "slug": "thien-tan",
+        "name_with_type": "Xã Thiện Tân",
+        "path": "Thiện Tân, Hữu Lũng, Lạng Sơn",
+        "path_with_type": "Xã Thiện Tân, Huyện Hữu Lũng, Tỉnh Lạng Sơn",
         "code": "06406",
-        "parent_code": "186"
-    },
-    "06409": {
-        "name": "Tân Lập",
-        "type": "xa",
-        "slug": "tan-lap",
-        "name_with_type": "Xã Tân Lập",
-        "path": "Tân Lập, Hữu Lũng, Lạng Sơn",
-        "path_with_type": "Xã Tân Lập, Huyện Hữu Lũng, Tỉnh Lạng Sơn",
-        "code": "06409",
         "parent_code": "186"
     },
     "06412": {
@@ -177,16 +167,6 @@
         "path": "Đồng Tiến, Hữu Lũng, Lạng Sơn",
         "path_with_type": "Xã Đồng Tiến, Huyện Hữu Lũng, Tỉnh Lạng Sơn",
         "code": "06436",
-        "parent_code": "186"
-    },
-    "06439": {
-        "name": "Đô Lương",
-        "type": "xa",
-        "slug": "do-luong",
-        "name_with_type": "Xã Đô Lương",
-        "path": "Đô Lương, Hữu Lũng, Lạng Sơn",
-        "path_with_type": "Xã Đô Lương, Huyện Hữu Lũng, Tỉnh Lạng Sơn",
-        "code": "06439",
         "parent_code": "186"
     },
     "06442": {
