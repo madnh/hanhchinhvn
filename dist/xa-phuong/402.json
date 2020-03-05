@@ -49,26 +49,6 @@
         "code": "16186",
         "parent_code": "402"
     },
-    "16189": {
-        "name": "Xuân Quỳ",
-        "type": "xa",
-        "slug": "xuan-quy",
-        "name_with_type": "Xã Xuân Quỳ",
-        "path": "Xuân Quỳ, Như Xuân, Thanh Hóa",
-        "path_with_type": "Xã Xuân Quỳ, Huyện Như Xuân, Tỉnh Thanh Hóa",
-        "code": "16189",
-        "parent_code": "402"
-    },
-    "16192": {
-        "name": "Yên Lễ",
-        "type": "xa",
-        "slug": "yen-le",
-        "name_with_type": "Xã Yên Lễ",
-        "path": "Yên Lễ, Như Xuân, Thanh Hóa",
-        "path_with_type": "Xã Yên Lễ, Huyện Như Xuân, Tỉnh Thanh Hóa",
-        "code": "16192",
-        "parent_code": "402"
-    },
     "16195": {
         "name": "Cát Vân",
         "type": "xa",

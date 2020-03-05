@@ -21,11 +21,11 @@
     },
     "25822": {
         "name": "Lai Uyên",
-        "type": "xa",
+        "type": "thi-tran",
         "slug": "lai-uyen",
-        "name_with_type": "Xã Lai Uyên",
+        "name_with_type": "Thị trấn Lai Uyên",
         "path": "Lai Uyên, Bàu Bàng, Bình Dương",
-        "path_with_type": "Xã Lai Uyên, Huyện Bàu Bàng, Tỉnh Bình Dương",
+        "path_with_type": "Thị trấn Lai Uyên, Huyện Bàu Bàng, Tỉnh Bình Dương",
         "code": "25822",
         "parent_code": "719"
     },

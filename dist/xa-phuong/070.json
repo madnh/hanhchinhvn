@@ -79,6 +79,26 @@
         "code": "02218",
         "parent_code": "070"
     },
+    "02428": {
+        "name": "Đội Cấn",
+        "type": "phuong",
+        "slug": "doi-can",
+        "name_with_type": "Phường Đội Cấn",
+        "path": "Đội Cấn, Tuyên Quang, Tuyên Quang",
+        "path_with_type": "Phường Đội Cấn, Thành phố Tuyên Quang, Tỉnh Tuyên Quang",
+        "code": "02428",
+        "parent_code": "070"
+    },
+    "02497": {
+        "name": "Kim Phú",
+        "type": "xa",
+        "slug": "kim-phu",
+        "name_with_type": "Xã Kim Phú",
+        "path": "Kim Phú, Tuyên Quang, Tuyên Quang",
+        "path_with_type": "Xã Kim Phú, Thành phố Tuyên Quang, Tỉnh Tuyên Quang",
+        "code": "02497",
+        "parent_code": "070"
+    },
     "02503": {
         "name": "An Khang",
         "type": "xa",
@@ -89,13 +109,23 @@
         "code": "02503",
         "parent_code": "070"
     },
+    "02509": {
+        "name": "Mỹ Lâm",
+        "type": "phuong",
+        "slug": "my-lam",
+        "name_with_type": "Phường Mỹ Lâm",
+        "path": "Mỹ Lâm, Tuyên Quang, Tuyên Quang",
+        "path_with_type": "Phường Mỹ Lâm, Thành phố Tuyên Quang, Tỉnh Tuyên Quang",
+        "code": "02509",
+        "parent_code": "070"
+    },
     "02512": {
         "name": "An Tường",
-        "type": "xa",
+        "type": "phuong",
         "slug": "an-tuong",
-        "name_with_type": "Xã An Tường",
+        "name_with_type": "Phường An Tường",
         "path": "An Tường, Tuyên Quang, Tuyên Quang",
-        "path_with_type": "Xã An Tường, Thành phố Tuyên Quang, Tỉnh Tuyên Quang",
+        "path_with_type": "Phường An Tường, Thành phố Tuyên Quang, Tỉnh Tuyên Quang",
         "code": "02512",
         "parent_code": "070"
     },
@@ -117,16 +147,6 @@
         "path": "Thái Long, Tuyên Quang, Tuyên Quang",
         "path_with_type": "Xã Thái Long, Thành phố Tuyên Quang, Tỉnh Tuyên Quang",
         "code": "02521",
-        "parent_code": "070"
-    },
-    "02524": {
-        "name": "Đội Cấn",
-        "type": "xa",
-        "slug": "doi-can",
-        "name_with_type": "Xã Đội Cấn",
-        "path": "Đội Cấn, Tuyên Quang, Tuyên Quang",
-        "path_with_type": "Xã Đội Cấn, Thành phố Tuyên Quang, Tỉnh Tuyên Quang",
-        "code": "02524",
         "parent_code": "070"
     }
 }

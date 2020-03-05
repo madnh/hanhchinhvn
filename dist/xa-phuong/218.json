@@ -9,16 +9,6 @@
         "code": "07444",
         "parent_code": "218"
     },
-    "07447": {
-        "name": "Lục Nam",
-        "type": "thi-tran",
-        "slug": "luc-nam",
-        "name_with_type": "Thị trấn Lục Nam",
-        "path": "Lục Nam, Lục Nam, Bắc Giang",
-        "path_with_type": "Thị trấn Lục Nam, Huyện Lục Nam, Tỉnh Bắc Giang",
-        "code": "07447",
-        "parent_code": "218"
-    },
     "07450": {
         "name": "Đông Hưng",
         "type": "xa",
@@ -97,16 +87,6 @@
         "path": "Trường Giang, Lục Nam, Bắc Giang",
         "path_with_type": "Xã Trường Giang, Huyện Lục Nam, Tỉnh Bắc Giang",
         "code": "07471",
-        "parent_code": "218"
-    },
-    "07474": {
-        "name": "Tiên Hưng",
-        "type": "xa",
-        "slug": "tien-hung",
-        "name_with_type": "Xã Tiên Hưng",
-        "path": "Tiên Hưng, Lục Nam, Bắc Giang",
-        "path_with_type": "Xã Tiên Hưng, Huyện Lục Nam, Tỉnh Bắc Giang",
-        "code": "07474",
         "parent_code": "218"
     },
     "07477": {

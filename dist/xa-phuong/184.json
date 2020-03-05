@@ -20,53 +20,23 @@
         "parent_code": "184"
     },
     "06259": {
-        "name": "Phú Mỹ",
+        "name": "Liên Hội",
         "type": "xa",
-        "slug": "phu-my",
-        "name_with_type": "Xã Phú Mỹ",
-        "path": "Phú Mỹ, Văn Quan, Lạng Sơn",
-        "path_with_type": "Xã Phú Mỹ, Huyện Văn Quan, Tỉnh Lạng Sơn",
+        "slug": "lien-hoi",
+        "name_with_type": "Xã Liên Hội",
+        "path": "Liên Hội, Văn Quan, Lạng Sơn",
+        "path_with_type": "Xã Liên Hội, Huyện Văn Quan, Tỉnh Lạng Sơn",
         "code": "06259",
         "parent_code": "184"
     },
-    "06262": {
-        "name": "Việt Yên",
-        "type": "xa",
-        "slug": "viet-yen",
-        "name_with_type": "Xã Việt Yên",
-        "path": "Việt Yên, Văn Quan, Lạng Sơn",
-        "path_with_type": "Xã Việt Yên, Huyện Văn Quan, Tỉnh Lạng Sơn",
-        "code": "06262",
-        "parent_code": "184"
-    },
     "06265": {
-        "name": "Song Giang",
+        "name": "Điềm He",
         "type": "xa",
-        "slug": "song-giang",
-        "name_with_type": "Xã Song Giang",
-        "path": "Song Giang, Văn Quan, Lạng Sơn",
-        "path_with_type": "Xã Song Giang, Huyện Văn Quan, Tỉnh Lạng Sơn",
+        "slug": "diem-he",
+        "name_with_type": "Xã Điềm He",
+        "path": "Điềm He, Văn Quan, Lạng Sơn",
+        "path_with_type": "Xã Điềm He, Huyện Văn Quan, Tỉnh Lạng Sơn",
         "code": "06265",
-        "parent_code": "184"
-    },
-    "06268": {
-        "name": "Vân Mộng",
-        "type": "xa",
-        "slug": "van-mong",
-        "name_with_type": "Xã Vân Mộng",
-        "path": "Vân Mộng, Văn Quan, Lạng Sơn",
-        "path_with_type": "Xã Vân Mộng, Huyện Văn Quan, Tỉnh Lạng Sơn",
-        "code": "06268",
-        "parent_code": "184"
-    },
-    "06271": {
-        "name": "Vĩnh Lại",
-        "type": "xa",
-        "slug": "vinh-lai",
-        "name_with_type": "Xã Vĩnh Lại",
-        "path": "Vĩnh Lại, Văn Quan, Lạng Sơn",
-        "path_with_type": "Xã Vĩnh Lại, Huyện Văn Quan, Tỉnh Lạng Sơn",
-        "code": "06271",
         "parent_code": "184"
     },
     "06274": {
@@ -89,23 +59,13 @@
         "code": "06277",
         "parent_code": "184"
     },
-    "06280": {
-        "name": "Văn An",
-        "type": "xa",
-        "slug": "van-an",
-        "name_with_type": "Xã Văn An",
-        "path": "Văn An, Văn Quan, Lạng Sơn",
-        "path_with_type": "Xã Văn An, Huyện Văn Quan, Tỉnh Lạng Sơn",
-        "code": "06280",
-        "parent_code": "184"
-    },
     "06283": {
-        "name": "Đại An",
+        "name": "An Sơn",
         "type": "xa",
-        "slug": "dai-an",
-        "name_with_type": "Xã Đại An",
-        "path": "Đại An, Văn Quan, Lạng Sơn",
-        "path_with_type": "Xã Đại An, Huyện Văn Quan, Tỉnh Lạng Sơn",
+        "slug": "an-son",
+        "name_with_type": "Xã An Sơn",
+        "path": "An Sơn, Văn Quan, Lạng Sơn",
+        "path_with_type": "Xã An Sơn, Huyện Văn Quan, Tỉnh Lạng Sơn",
         "code": "06283",
         "parent_code": "184"
     },
@@ -117,16 +77,6 @@
         "path": "Khánh Khê, Văn Quan, Lạng Sơn",
         "path_with_type": "Xã Khánh Khê, Huyện Văn Quan, Tỉnh Lạng Sơn",
         "code": "06286",
-        "parent_code": "184"
-    },
-    "06289": {
-        "name": "Chu Túc",
-        "type": "xa",
-        "slug": "chu-tuc",
-        "name_with_type": "Xã Chu Túc",
-        "path": "Chu Túc, Văn Quan, Lạng Sơn",
-        "path_with_type": "Xã Chu Túc, Huyện Văn Quan, Tỉnh Lạng Sơn",
-        "code": "06289",
         "parent_code": "184"
     },
     "06292": {
@@ -149,16 +99,6 @@
         "code": "06295",
         "parent_code": "184"
     },
-    "06298": {
-        "name": "Xuân Mai",
-        "type": "xa",
-        "slug": "xuan-mai",
-        "name_with_type": "Xã Xuân Mai",
-        "path": "Xuân Mai, Văn Quan, Lạng Sơn",
-        "path_with_type": "Xã Xuân Mai, Huyện Văn Quan, Tỉnh Lạng Sơn",
-        "code": "06298",
-        "parent_code": "184"
-    },
     "06301": {
         "name": "Tràng Các",
         "type": "xa",
@@ -167,16 +107,6 @@
         "path": "Tràng Các, Văn Quan, Lạng Sơn",
         "path_with_type": "Xã Tràng Các, Huyện Văn Quan, Tỉnh Lạng Sơn",
         "code": "06301",
-        "parent_code": "184"
-    },
-    "06304": {
-        "name": "Tràng Sơn",
-        "type": "xa",
-        "slug": "trang-son",
-        "name_with_type": "Xã Tràng Sơn",
-        "path": "Tràng Sơn, Văn Quan, Lạng Sơn",
-        "path_with_type": "Xã Tràng Sơn, Huyện Văn Quan, Tỉnh Lạng Sơn",
-        "code": "06304",
         "parent_code": "184"
     },
     "06307": {

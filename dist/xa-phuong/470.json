@@ -1,11 +1,11 @@
 {
     "19681": {
-        "name": "Hải Lăng",
+        "name": "Diên Sanh",
         "type": "thi-tran",
-        "slug": "hai-lang",
-        "name_with_type": "Thị trấn Hải Lăng",
-        "path": "Hải Lăng, Hải Lăng, Quảng Trị",
-        "path_with_type": "Thị trấn Hải Lăng, Huyện Hải Lăng, Tỉnh Quảng Trị",
+        "slug": "dien-sanh",
+        "name_with_type": "Thị trấn Diên Sanh",
+        "path": "Diên Sanh, Hải Lăng, Quảng Trị",
+        "path_with_type": "Thị trấn Diên Sanh, Huyện Hải Lăng, Tỉnh Quảng Trị",
         "code": "19681",
         "parent_code": "470"
     },
@@ -29,16 +29,6 @@
         "code": "19687",
         "parent_code": "470"
     },
-    "19690": {
-        "name": "Hải Xuân",
-        "type": "xa",
-        "slug": "hai-xuan",
-        "name_with_type": "Xã Hải Xuân",
-        "path": "Hải Xuân, Hải Lăng, Quảng Trị",
-        "path_with_type": "Xã Hải Xuân, Huyện Hải Lăng, Tỉnh Quảng Trị",
-        "code": "19690",
-        "parent_code": "470"
-    },
     "19693": {
         "name": "Hải Quy",
         "type": "xa",
@@ -60,12 +50,12 @@
         "parent_code": "470"
     },
     "19699": {
-        "name": "Hải Vĩnh",
+        "name": "Hải Hưng",
         "type": "xa",
-        "slug": "hai-vinh",
-        "name_with_type": "Xã Hải Vĩnh",
-        "path": "Hải Vĩnh, Hải Lăng, Quảng Trị",
-        "path_with_type": "Xã Hải Vĩnh, Huyện Hải Lăng, Tỉnh Quảng Trị",
+        "slug": "hai-hung",
+        "name_with_type": "Xã Hải Hưng",
+        "path": "Hải Hưng, Hải Lăng, Quảng Trị",
+        "path_with_type": "Xã Hải Hưng, Huyện Hải Lăng, Tỉnh Quảng Trị",
         "code": "19699",
         "parent_code": "470"
     },
@@ -100,12 +90,12 @@
         "parent_code": "470"
     },
     "19714": {
-        "name": "Hải Thiện",
+        "name": "Hải Định",
         "type": "xa",
-        "slug": "hai-thien",
-        "name_with_type": "Xã Hải Thiện",
-        "path": "Hải Thiện, Hải Lăng, Quảng Trị",
-        "path_with_type": "Xã Hải Thiện, Huyện Hải Lăng, Tỉnh Quảng Trị",
+        "slug": "hai-dinh",
+        "name_with_type": "Xã Hải Định",
+        "path": "Hải Định, Hải Lăng, Quảng Trị",
+        "path_with_type": "Xã Hải Định, Huyện Hải Lăng, Tỉnh Quảng Trị",
         "code": "19714",
         "parent_code": "470"
     },
@@ -119,34 +109,14 @@
         "code": "19717",
         "parent_code": "470"
     },
-    "19720": {
-        "name": "Hải Thành",
-        "type": "xa",
-        "slug": "hai-thanh",
-        "name_with_type": "Xã Hải Thành",
-        "path": "Hải Thành, Hải Lăng, Quảng Trị",
-        "path_with_type": "Xã Hải Thành, Huyện Hải Lăng, Tỉnh Quảng Trị",
-        "code": "19720",
-        "parent_code": "470"
-    },
     "19723": {
-        "name": "Hải Hòa",
+        "name": "Hải Phong",
         "type": "xa",
-        "slug": "hai-hoa",
-        "name_with_type": "Xã Hải Hòa",
-        "path": "Hải Hòa, Hải Lăng, Quảng Trị",
-        "path_with_type": "Xã Hải Hòa, Huyện Hải Lăng, Tỉnh Quảng Trị",
+        "slug": "hai-phong",
+        "name_with_type": "Xã Hải Phong",
+        "path": "Hải Phong, Hải Lăng, Quảng Trị",
+        "path_with_type": "Xã Hải Phong, Huyện Hải Lăng, Tỉnh Quảng Trị",
         "code": "19723",
-        "parent_code": "470"
-    },
-    "19726": {
-        "name": "Hải Tân",
-        "type": "xa",
-        "slug": "hai-tan",
-        "name_with_type": "Xã Hải Tân",
-        "path": "Hải Tân, Hải Lăng, Quảng Trị",
-        "path_with_type": "Xã Hải Tân, Huyện Hải Lăng, Tỉnh Quảng Trị",
-        "code": "19726",
         "parent_code": "470"
     },
     "19729": {
@@ -157,16 +127,6 @@
         "path": "Hải Trường, Hải Lăng, Quảng Trị",
         "path_with_type": "Xã Hải Trường, Huyện Hải Lăng, Tỉnh Quảng Trị",
         "code": "19729",
-        "parent_code": "470"
-    },
-    "19732": {
-        "name": "Hải Thọ",
-        "type": "xa",
-        "slug": "hai-tho",
-        "name_with_type": "Xã Hải Thọ",
-        "path": "Hải Thọ, Hải Lăng, Quảng Trị",
-        "path_with_type": "Xã Hải Thọ, Huyện Hải Lăng, Tỉnh Quảng Trị",
-        "code": "19732",
         "parent_code": "470"
     },
     "19735": {

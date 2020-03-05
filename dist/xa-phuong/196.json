@@ -98,15 +98,5 @@
         "path_with_type": "Phường Phương Nam, Thành phố Uông Bí, Tỉnh Quảng Ninh",
         "code": "06835",
         "parent_code": "196"
-    },
-    "07141": {
-        "name": "Điền Công",
-        "type": "xa",
-        "slug": "dien-cong",
-        "name_with_type": "Xã Điền Công",
-        "path": "Điền Công, Uông Bí, Quảng Ninh",
-        "path_with_type": "Xã Điền Công, Thành phố Uông Bí, Tỉnh Quảng Ninh",
-        "code": "07141",
-        "parent_code": "196"
     }
 }

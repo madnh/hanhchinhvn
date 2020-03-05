@@ -169,23 +169,13 @@
         "code": "19948",
         "parent_code": "478"
     },
-    "19951": {
-        "name": "Vinh Phú",
-        "type": "xa",
-        "slug": "vinh-phu",
-        "name_with_type": "Xã Vinh Phú",
-        "path": "Vinh Phú, Phú Vang, Thừa Thiên Huế",
-        "path_with_type": "Xã Vinh Phú, Huyện Phú Vang, Tỉnh Thừa Thiên Huế",
-        "code": "19951",
-        "parent_code": "478"
-    },
     "19954": {
-        "name": "Vinh Thái",
+        "name": "Phú Gia",
         "type": "xa",
-        "slug": "vinh-thai",
-        "name_with_type": "Xã Vinh Thái",
-        "path": "Vinh Thái, Phú Vang, Thừa Thiên Huế",
-        "path_with_type": "Xã Vinh Thái, Huyện Phú Vang, Tỉnh Thừa Thiên Huế",
+        "slug": "phu-gia",
+        "name_with_type": "Xã Phú Gia",
+        "path": "Phú Gia, Phú Vang, Thừa Thiên Huế",
+        "path_with_type": "Xã Phú Gia, Huyện Phú Vang, Tỉnh Thừa Thiên Huế",
         "code": "19954",
         "parent_code": "478"
     },

@@ -69,16 +69,6 @@
         "code": "01114",
         "parent_code": "033"
     },
-    "01117": {
-        "name": "Ngán Chiên",
-        "type": "xa",
-        "slug": "ngan-chien",
-        "name_with_type": "Xã Ngán Chiên",
-        "path": "Ngán Chiên, Xín Mần, Hà Giang",
-        "path_with_type": "Xã Ngán Chiên, Huyện Xín Mần, Tỉnh Hà Giang",
-        "code": "01117",
-        "parent_code": "033"
-    },
     "01120": {
         "name": "Pà Vầy Sủ",
         "type": "xa",

@@ -9,23 +9,13 @@
         "code": "28075",
         "parent_code": "805"
     },
-    "28078": {
-        "name": "Mỹ Bình",
-        "type": "xa",
-        "slug": "my-binh",
-        "name_with_type": "Xã Mỹ Bình",
-        "path": "Mỹ Bình, Tân Trụ, Long An",
-        "path_with_type": "Xã Mỹ Bình, Huyện Tân Trụ, Tỉnh Long An",
-        "code": "28078",
-        "parent_code": "805"
-    },
     "28081": {
-        "name": "An Nhựt Tân",
+        "name": "Tân Bình",
         "type": "xa",
-        "slug": "an-nhut-tan",
-        "name_with_type": "Xã An Nhựt Tân",
-        "path": "An Nhựt Tân, Tân Trụ, Long An",
-        "path_with_type": "Xã An Nhựt Tân, Huyện Tân Trụ, Tỉnh Long An",
+        "slug": "tan-binh",
+        "name_with_type": "Xã Tân Bình",
+        "path": "Tân Bình, Tân Trụ, Long An",
+        "path_with_type": "Xã Tân Bình, Huyện Tân Trụ, Tỉnh Long An",
         "code": "28081",
         "parent_code": "805"
     },

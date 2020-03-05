@@ -19,16 +19,6 @@
         "code": "25099",
         "parent_code": "681"
     },
-    "25102": {
-        "name": "Đạ M'ri",
-        "type": "xa",
-        "slug": "da-m-ri",
-        "name_with_type": "Xã Đạ M'ri",
-        "path": "Đạ M'ri, Đạ Huoai, Lâm Đồng",
-        "path_with_type": "Xã Đạ M'ri, Huyện Đạ Huoai, Tỉnh Lâm Đồng",
-        "code": "25102",
-        "parent_code": "681"
-    },
     "25105": {
         "name": "Hà Lâm",
         "type": "xa",

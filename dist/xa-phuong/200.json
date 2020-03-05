@@ -39,16 +39,6 @@
         "code": "06904",
         "parent_code": "200"
     },
-    "06907": {
-        "name": "Quảng Lợi",
-        "type": "xa",
-        "slug": "quang-loi",
-        "name_with_type": "Xã Quảng Lợi",
-        "path": "Quảng Lợi, Đầm Hà, Quảng Ninh",
-        "path_with_type": "Xã Quảng Lợi, Huyện Đầm Hà, Tỉnh Quảng Ninh",
-        "code": "06907",
-        "parent_code": "200"
-    },
     "06910": {
         "name": "Dực Yên",
         "type": "xa",

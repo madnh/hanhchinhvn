@@ -41,11 +41,11 @@
     },
     "27814": {
         "name": "Bình Phong Thạnh",
-        "type": "xa",
+        "type": "thi-tran",
         "slug": "binh-phong-thanh",
-        "name_with_type": "Xã Bình Phong Thạnh",
+        "name_with_type": "Thị trấn Bình Phong Thạnh",
         "path": "Bình Phong Thạnh, Mộc Hóa, Long An",
-        "path_with_type": "Xã Bình Phong Thạnh, Huyện Mộc Hóa, Tỉnh Long An",
+        "path_with_type": "Thị trấn Bình Phong Thạnh, Huyện Mộc Hóa, Tỉnh Long An",
         "code": "27814",
         "parent_code": "798"
     },

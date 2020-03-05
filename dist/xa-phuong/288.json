@@ -160,33 +160,43 @@
         "parent_code": "288"
     },
     "10663": {
-        "name": "An Châu",
+        "name": "An Thượng",
         "type": "xa",
-        "slug": "an-chau",
-        "name_with_type": "Xã An Châu",
-        "path": "An Châu, Hải Dương, Hải Dương",
-        "path_with_type": "Xã An Châu, Thành phố Hải Dương, Tỉnh Hải Dương",
+        "slug": "an-thuong",
+        "name_with_type": "Xã An Thượng",
+        "path": "An Thượng, Hải Dương, Hải Dương",
+        "path_with_type": "Xã An Thượng, Thành phố Hải Dương, Tỉnh Hải Dương",
         "code": "10663",
-        "parent_code": "288"
-    },
-    "10669": {
-        "name": "Thượng Đạt",
-        "type": "xa",
-        "slug": "thuong-dat",
-        "name_with_type": "Xã Thượng Đạt",
-        "path": "Thượng Đạt, Hải Dương, Hải Dương",
-        "path_with_type": "Xã Thượng Đạt, Thành phố Hải Dương, Tỉnh Hải Dương",
-        "code": "10669",
         "parent_code": "288"
     },
     "10672": {
         "name": "Nam Đồng",
-        "type": "xa",
+        "type": "phuong",
         "slug": "nam-dong",
-        "name_with_type": "Xã Nam Đồng",
+        "name_with_type": "Phường Nam Đồng",
         "path": "Nam Đồng, Hải Dương, Hải Dương",
-        "path_with_type": "Xã Nam Đồng, Thành phố Hải Dương, Tỉnh Hải Dương",
+        "path_with_type": "Phường Nam Đồng, Thành phố Hải Dương, Tỉnh Hải Dương",
         "code": "10672",
+        "parent_code": "288"
+    },
+    "10822": {
+        "name": "Quyết Thắng",
+        "type": "xa",
+        "slug": "quyet-thang",
+        "name_with_type": "Xã Quyết Thắng",
+        "path": "Quyết Thắng, Hải Dương, Hải Dương",
+        "path_with_type": "Xã Quyết Thắng, Thành phố Hải Dương, Tỉnh Hải Dương",
+        "code": "10822",
+        "parent_code": "288"
+    },
+    "10837": {
+        "name": "Tiền Tiến",
+        "type": "xa",
+        "slug": "tien-tien",
+        "name_with_type": "Xã Tiền Tiến",
+        "path": "Tiền Tiến, Hải Dương, Hải Dương",
+        "path_with_type": "Xã Tiền Tiến, Thành phố Hải Dương, Tỉnh Hải Dương",
+        "code": "10837",
         "parent_code": "288"
     },
     "11002": {
@@ -199,14 +209,44 @@
         "code": "11002",
         "parent_code": "288"
     },
+    "11005": {
+        "name": "Liên Hồng",
+        "type": "xa",
+        "slug": "lien-hong",
+        "name_with_type": "Xã Liên Hồng",
+        "path": "Liên Hồng, Hải Dương, Hải Dương",
+        "path_with_type": "Xã Liên Hồng, Thành phố Hải Dương, Tỉnh Hải Dương",
+        "code": "11005",
+        "parent_code": "288"
+    },
     "11011": {
         "name": "Tân Hưng",
-        "type": "xa",
+        "type": "phuong",
         "slug": "tan-hung",
-        "name_with_type": "Xã Tân Hưng",
+        "name_with_type": "Phường Tân Hưng",
         "path": "Tân Hưng, Hải Dương, Hải Dương",
-        "path_with_type": "Xã Tân Hưng, Thành phố Hải Dương, Tỉnh Hải Dương",
+        "path_with_type": "Phường Tân Hưng, Thành phố Hải Dương, Tỉnh Hải Dương",
         "code": "11011",
+        "parent_code": "288"
+    },
+    "11017": {
+        "name": "Gia Xuyên",
+        "type": "xa",
+        "slug": "gia-xuyen",
+        "name_with_type": "Xã Gia Xuyên",
+        "path": "Gia Xuyên, Hải Dương, Hải Dương",
+        "path_with_type": "Xã Gia Xuyên, Thành phố Hải Dương, Tỉnh Hải Dương",
+        "code": "11017",
+        "parent_code": "288"
+    },
+    "11077": {
+        "name": "Ngọc Sơn",
+        "type": "xa",
+        "slug": "ngoc-son",
+        "name_with_type": "Xã Ngọc Sơn",
+        "path": "Ngọc Sơn, Hải Dương, Hải Dương",
+        "path_with_type": "Xã Ngọc Sơn, Thành phố Hải Dương, Tỉnh Hải Dương",
+        "code": "11077",
         "parent_code": "288"
     }
 }

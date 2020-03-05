@@ -10,12 +10,12 @@
         "parent_code": "610"
     },
     "23344": {
-        "name": "Đắk Plô",
+        "name": "Đắk Blô",
         "type": "xa",
-        "slug": "dak-plo",
-        "name_with_type": "Xã Đắk Plô",
-        "path": "Đắk Plô, Đắk Glei, Kon Tum",
-        "path_with_type": "Xã Đắk Plô, Huyện Đắk Glei, Tỉnh Kon Tum",
+        "slug": "dak-blo",
+        "name_with_type": "Xã Đắk Blô",
+        "path": "Đắk Blô, Đắk Glei, Kon Tum",
+        "path_with_type": "Xã Đắk Blô, Huyện Đắk Glei, Tỉnh Kon Tum",
         "code": "23344",
         "parent_code": "610"
     },

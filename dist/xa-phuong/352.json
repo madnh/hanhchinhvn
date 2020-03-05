@@ -99,16 +99,6 @@
         "code": "13534",
         "parent_code": "352"
     },
-    "13537": {
-        "name": "An Mỹ",
-        "type": "xa",
-        "slug": "an-my",
-        "name_with_type": "Xã An Mỹ",
-        "path": "An Mỹ, Bình Lục, Hà Nam",
-        "path_with_type": "Xã An Mỹ, Huyện Bình Lục, Tỉnh Hà Nam",
-        "code": "13537",
-        "parent_code": "352"
-    },
     "13540": {
         "name": "An Nội",
         "type": "xa",
@@ -137,16 +127,6 @@
         "path": "Trung Lương, Bình Lục, Hà Nam",
         "path_with_type": "Xã Trung Lương, Huyện Bình Lục, Tỉnh Hà Nam",
         "code": "13546",
-        "parent_code": "352"
-    },
-    "13549": {
-        "name": "Mỹ Thọ",
-        "type": "xa",
-        "slug": "my-tho",
-        "name_with_type": "Xã Mỹ Thọ",
-        "path": "Mỹ Thọ, Bình Lục, Hà Nam",
-        "path_with_type": "Xã Mỹ Thọ, Huyện Bình Lục, Tỉnh Hà Nam",
-        "code": "13549",
         "parent_code": "352"
     },
     "13552": {

@@ -1,11 +1,11 @@
 {
     "18754": {
-        "name": "Sông Trí",
+        "name": "Hưng Trí",
         "type": "phuong",
-        "slug": "song-tri",
-        "name_with_type": "Phường Sông Trí",
-        "path": "Sông Trí, Kỳ Anh, Hà Tĩnh",
-        "path_with_type": "Phường Sông Trí, Thị xã Kỳ Anh, Tỉnh Hà Tĩnh",
+        "slug": "hung-tri",
+        "name_with_type": "Phường Hưng Trí",
+        "path": "Hưng Trí, Kỳ Anh, Hà Tĩnh",
+        "path_with_type": "Phường Hưng Trí, Thị xã Kỳ Anh, Tỉnh Hà Tĩnh",
         "code": "18754",
         "parent_code": "449"
     },
@@ -37,16 +37,6 @@
         "path": "Kỳ Hà, Kỳ Anh, Hà Tĩnh",
         "path_with_type": "Xã Kỳ Hà, Thị xã Kỳ Anh, Tỉnh Hà Tĩnh",
         "code": "18808",
-        "parent_code": "449"
-    },
-    "18817": {
-        "name": "Kỳ Hưng",
-        "type": "xa",
-        "slug": "ky-hung",
-        "name_with_type": "Xã Kỳ Hưng",
-        "path": "Kỳ Hưng, Kỳ Anh, Hà Tĩnh",
-        "path_with_type": "Xã Kỳ Hưng, Thị xã Kỳ Anh, Tỉnh Hà Tĩnh",
-        "code": "18817",
         "parent_code": "449"
     },
     "18820": {

@@ -139,16 +139,6 @@
         "code": "08266",
         "parent_code": "233"
     },
-    "08269": {
-        "name": "Bình Bộ",
-        "type": "xa",
-        "slug": "binh-bo",
-        "name_with_type": "Xã Bình Bộ",
-        "path": "Bình Bộ, Phù Ninh, Phú Thọ",
-        "path_with_type": "Xã Bình Bộ, Huyện Phù Ninh, Tỉnh Phú Thọ",
-        "code": "08269",
-        "parent_code": "233"
-    },
     "08272": {
         "name": "An Đạo",
         "type": "xa",
@@ -160,12 +150,12 @@
         "parent_code": "233"
     },
     "08275": {
-        "name": "Tử Đà",
+        "name": "Bình Phú",
         "type": "xa",
-        "slug": "tu-da",
-        "name_with_type": "Xã Tử Đà",
-        "path": "Tử Đà, Phù Ninh, Phú Thọ",
-        "path_with_type": "Xã Tử Đà, Huyện Phù Ninh, Tỉnh Phú Thọ",
+        "slug": "binh-phu",
+        "name_with_type": "Xã Bình Phú",
+        "path": "Bình Phú, Phù Ninh, Phú Thọ",
+        "path_with_type": "Xã Bình Phú, Huyện Phù Ninh, Tỉnh Phú Thọ",
         "code": "08275",
         "parent_code": "233"
     },
@@ -177,16 +167,6 @@
         "path": "Phù Ninh, Phù Ninh, Phú Thọ",
         "path_with_type": "Xã Phù Ninh, Huyện Phù Ninh, Tỉnh Phú Thọ",
         "code": "08278",
-        "parent_code": "233"
-    },
-    "08284": {
-        "name": "Vĩnh Phú",
-        "type": "xa",
-        "slug": "vinh-phu",
-        "name_with_type": "Xã Vĩnh Phú",
-        "path": "Vĩnh Phú, Phù Ninh, Phú Thọ",
-        "path_with_type": "Xã Vĩnh Phú, Huyện Phù Ninh, Tỉnh Phú Thọ",
-        "code": "08284",
         "parent_code": "233"
     }
 }

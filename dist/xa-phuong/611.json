@@ -1,11 +1,11 @@
 {
     "23377": {
-        "name": "Plei Cần",
+        "name": "Plei Kần",
         "type": "thi-tran",
-        "slug": "plei-can",
-        "name_with_type": "Thị trấn Plei Cần",
-        "path": "Plei Cần, Ngọc Hồi, Kon Tum",
-        "path_with_type": "Thị trấn Plei Cần, Huyện Ngọc Hồi, Tỉnh Kon Tum",
+        "slug": "plei-kan",
+        "name_with_type": "Thị trấn Plei Kần",
+        "path": "Plei Kần, Ngọc Hồi, Kon Tum",
+        "path_with_type": "Thị trấn Plei Kần, Huyện Ngọc Hồi, Tỉnh Kon Tum",
         "code": "23377",
         "parent_code": "611"
     },
@@ -60,12 +60,12 @@
         "parent_code": "611"
     },
     "23395": {
-        "name": "Pờ Y",
+        "name": "Bờ Y",
         "type": "xa",
-        "slug": "po-y",
-        "name_with_type": "Xã Pờ Y",
-        "path": "Pờ Y, Ngọc Hồi, Kon Tum",
-        "path_with_type": "Xã Pờ Y, Huyện Ngọc Hồi, Tỉnh Kon Tum",
+        "slug": "bo-y",
+        "name_with_type": "Xã Bờ Y",
+        "path": "Bờ Y, Ngọc Hồi, Kon Tum",
+        "path_with_type": "Xã Bờ Y, Huyện Ngọc Hồi, Tỉnh Kon Tum",
         "code": "23395",
         "parent_code": "611"
     },

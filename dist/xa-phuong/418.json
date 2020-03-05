@@ -1,11 +1,11 @@
 {
     "16876": {
-        "name": "Hòa Bình",
+        "name": "Thạch Giám",
         "type": "thi-tran",
-        "slug": "hoa-binh",
-        "name_with_type": "Thị trấn Hòa Bình",
-        "path": "Hòa Bình, Tương Dương, Nghệ An",
-        "path_with_type": "Thị trấn Hòa Bình, Huyện Tương Dương, Tỉnh Nghệ An",
+        "slug": "thach-giam",
+        "name_with_type": "Thị trấn Thạch Giám",
+        "path": "Thạch Giám, Tương Dương, Nghệ An",
+        "path_with_type": "Thị trấn Thạch Giám, Huyện Tương Dương, Tỉnh Nghệ An",
         "code": "16876",
         "parent_code": "418"
     },
@@ -107,16 +107,6 @@
         "path": "Lưu Kiền, Tương Dương, Nghệ An",
         "path_with_type": "Xã Lưu Kiền, Huyện Tương Dương, Tỉnh Nghệ An",
         "code": "16915",
-        "parent_code": "418"
-    },
-    "16918": {
-        "name": "Thạch Giám",
-        "type": "xa",
-        "slug": "thach-giam",
-        "name_with_type": "Xã Thạch Giám",
-        "path": "Thạch Giám, Tương Dương, Nghệ An",
-        "path_with_type": "Xã Thạch Giám, Huyện Tương Dương, Tỉnh Nghệ An",
-        "code": "16918",
         "parent_code": "418"
     },
     "16921": {

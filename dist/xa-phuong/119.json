@@ -10,12 +10,12 @@
         "parent_code": "119"
     },
     "03724": {
-        "name": "Phỏng Lái",
+        "name": "Phổng Lái",
         "type": "xa",
         "slug": "phong-lai",
-        "name_with_type": "Xã Phỏng Lái",
-        "path": "Phỏng Lái, Thuận Châu, Sơn La",
-        "path_with_type": "Xã Phỏng Lái, Huyện Thuận Châu, Tỉnh Sơn La",
+        "name_with_type": "Xã Phổng Lái",
+        "path": "Phổng Lái, Thuận Châu, Sơn La",
+        "path_with_type": "Xã Phổng Lái, Huyện Thuận Châu, Tỉnh Sơn La",
         "code": "03724",
         "parent_code": "119"
     },
@@ -80,12 +80,12 @@
         "parent_code": "119"
     },
     "03745": {
-        "name": "Phỏng Lập",
+        "name": "Phổng Lập",
         "type": "xa",
         "slug": "phong-lap",
-        "name_with_type": "Xã Phỏng Lập",
-        "path": "Phỏng Lập, Thuận Châu, Sơn La",
-        "path_with_type": "Xã Phỏng Lập, Huyện Thuận Châu, Tỉnh Sơn La",
+        "name_with_type": "Xã Phổng Lập",
+        "path": "Phổng Lập, Thuận Châu, Sơn La",
+        "path_with_type": "Xã Phổng Lập, Huyện Thuận Châu, Tỉnh Sơn La",
         "code": "03745",
         "parent_code": "119"
     },
@@ -110,12 +110,12 @@
         "parent_code": "119"
     },
     "03754": {
-        "name": "Nong Lay",
+        "name": "Noong Lay",
         "type": "xa",
-        "slug": "nong-lay",
-        "name_with_type": "Xã Nong Lay",
-        "path": "Nong Lay, Thuận Châu, Sơn La",
-        "path_with_type": "Xã Nong Lay, Huyện Thuận Châu, Tỉnh Sơn La",
+        "slug": "noong-lay",
+        "name_with_type": "Xã Noong Lay",
+        "path": "Noong Lay, Thuận Châu, Sơn La",
+        "path_with_type": "Xã Noong Lay, Huyện Thuận Châu, Tỉnh Sơn La",
         "code": "03754",
         "parent_code": "119"
     },
@@ -160,32 +160,32 @@
         "parent_code": "119"
     },
     "03769": {
-        "name": "Thôn Mòn",
+        "name": "Thôm Mòn",
         "type": "xa",
-        "slug": "thon-mon",
-        "name_with_type": "Xã Thôn Mòn",
-        "path": "Thôn Mòn, Thuận Châu, Sơn La",
-        "path_with_type": "Xã Thôn Mòn, Huyện Thuận Châu, Tỉnh Sơn La",
+        "slug": "thom-mon",
+        "name_with_type": "Xã Thôm Mòn",
+        "path": "Thôm Mòn, Thuận Châu, Sơn La",
+        "path_with_type": "Xã Thôm Mòn, Huyện Thuận Châu, Tỉnh Sơn La",
         "code": "03769",
         "parent_code": "119"
     },
     "03772": {
-        "name": "Tòng Lệnh",
+        "name": "Tông Lạnh",
         "type": "xa",
-        "slug": "tong-lenh",
-        "name_with_type": "Xã Tòng Lệnh",
-        "path": "Tòng Lệnh, Thuận Châu, Sơn La",
-        "path_with_type": "Xã Tòng Lệnh, Huyện Thuận Châu, Tỉnh Sơn La",
+        "slug": "tong-lanh",
+        "name_with_type": "Xã Tông Lạnh",
+        "path": "Tông Lạnh, Thuận Châu, Sơn La",
+        "path_with_type": "Xã Tông Lạnh, Huyện Thuận Châu, Tỉnh Sơn La",
         "code": "03772",
         "parent_code": "119"
     },
     "03775": {
-        "name": "Tòng Cọ",
+        "name": "Tông Cọ",
         "type": "xa",
         "slug": "tong-co",
-        "name_with_type": "Xã Tòng Cọ",
-        "path": "Tòng Cọ, Thuận Châu, Sơn La",
-        "path_with_type": "Xã Tòng Cọ, Huyện Thuận Châu, Tỉnh Sơn La",
+        "name_with_type": "Xã Tông Cọ",
+        "path": "Tông Cọ, Thuận Châu, Sơn La",
+        "path_with_type": "Xã Tông Cọ, Huyện Thuận Châu, Tỉnh Sơn La",
         "code": "03775",
         "parent_code": "119"
     },
@@ -260,12 +260,12 @@
         "parent_code": "119"
     },
     "03799": {
-        "name": "Muội Nọi",
+        "name": "Muổi Nọi",
         "type": "xa",
         "slug": "muoi-noi",
-        "name_with_type": "Xã Muội Nọi",
-        "path": "Muội Nọi, Thuận Châu, Sơn La",
-        "path_with_type": "Xã Muội Nọi, Huyện Thuận Châu, Tỉnh Sơn La",
+        "name_with_type": "Xã Muổi Nọi",
+        "path": "Muổi Nọi, Thuận Châu, Sơn La",
+        "path_with_type": "Xã Muổi Nọi, Huyện Thuận Châu, Tỉnh Sơn La",
         "code": "03799",
         "parent_code": "119"
     },

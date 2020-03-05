@@ -11,11 +11,11 @@
     },
     "290": {
         "name": "Chí Linh",
-        "type": "thi-xa",
+        "type": "thanh-pho",
         "slug": "chi-linh",
-        "name_with_type": "Thị xã Chí Linh",
+        "name_with_type": "Thành phố Chí Linh",
         "path": "Chí Linh, Hải Dương",
-        "path_with_type": "Thị xã Chí Linh, Tỉnh Hải Dương",
+        "path_with_type": "Thành phố Chí Linh, Tỉnh Hải Dương",
         "code": "290",
         "parent_code": "30"
     },
@@ -31,11 +31,11 @@
     },
     "292": {
         "name": "Kinh Môn",
-        "type": "huyen",
+        "type": "thi-xa",
         "slug": "kinh-mon",
-        "name_with_type": "Huyện Kinh Môn",
+        "name_with_type": "Thị xã Kinh Môn",
         "path": "Kinh Môn, Hải Dương",
-        "path_with_type": "Huyện Kinh Môn, Tỉnh Hải Dương",
+        "path_with_type": "Thị xã Kinh Môn, Tỉnh Hải Dương",
         "code": "292",
         "parent_code": "30"
     },

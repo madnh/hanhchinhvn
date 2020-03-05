@@ -80,12 +80,12 @@
         "parent_code": "107"
     },
     "03454": {
-        "name": "Bun Tở",
+        "name": "Bum Tở",
         "type": "xa",
-        "slug": "bun-to",
-        "name_with_type": "Xã Bun Tở",
-        "path": "Bun Tở, Mường Tè, Lai Châu",
-        "path_with_type": "Xã Bun Tở, Huyện Mường Tè, Tỉnh Lai Châu",
+        "slug": "bum-to",
+        "name_with_type": "Xã Bum Tở",
+        "path": "Bum Tở, Mường Tè, Lai Châu",
+        "path_with_type": "Xã Bum Tở, Huyện Mường Tè, Tỉnh Lai Châu",
         "code": "03454",
         "parent_code": "107"
     },
@@ -110,12 +110,12 @@
         "parent_code": "107"
     },
     "03466": {
-        "name": "Bun Nưa",
+        "name": "Bum Nưa",
         "type": "xa",
-        "slug": "bun-nua",
-        "name_with_type": "Xã Bun Nưa",
-        "path": "Bun Nưa, Mường Tè, Lai Châu",
-        "path_with_type": "Xã Bun Nưa, Huyện Mường Tè, Tỉnh Lai Châu",
+        "slug": "bum-nua",
+        "name_with_type": "Xã Bum Nưa",
+        "path": "Bum Nưa, Mường Tè, Lai Châu",
+        "path_with_type": "Xã Bum Nưa, Huyện Mường Tè, Tỉnh Lai Châu",
         "code": "03466",
         "parent_code": "107"
     },

@@ -50,33 +50,23 @@
         "parent_code": "464"
     },
     "19378": {
-        "name": "Vĩnh Trung",
+        "name": "Trung Nam",
         "type": "xa",
-        "slug": "vinh-trung",
-        "name_with_type": "Xã Vĩnh Trung",
-        "path": "Vĩnh Trung, Vĩnh Linh, Quảng Trị",
-        "path_with_type": "Xã Vĩnh Trung, Huyện Vĩnh Linh, Tỉnh Quảng Trị",
+        "slug": "trung-nam",
+        "name_with_type": "Xã Trung Nam",
+        "path": "Trung Nam, Vĩnh Linh, Quảng Trị",
+        "path_with_type": "Xã Trung Nam, Huyện Vĩnh Linh, Tỉnh Quảng Trị",
         "code": "19378",
         "parent_code": "464"
     },
     "19381": {
-        "name": "Vĩnh Kim",
+        "name": "Kim Thạch",
         "type": "xa",
-        "slug": "vinh-kim",
-        "name_with_type": "Xã Vĩnh Kim",
-        "path": "Vĩnh Kim, Vĩnh Linh, Quảng Trị",
-        "path_with_type": "Xã Vĩnh Kim, Huyện Vĩnh Linh, Tỉnh Quảng Trị",
+        "slug": "kim-thach",
+        "name_with_type": "Xã Kim Thạch",
+        "path": "Kim Thạch, Vĩnh Linh, Quảng Trị",
+        "path_with_type": "Xã Kim Thạch, Huyện Vĩnh Linh, Tỉnh Quảng Trị",
         "code": "19381",
-        "parent_code": "464"
-    },
-    "19384": {
-        "name": "Vĩnh Thạch",
-        "type": "xa",
-        "slug": "vinh-thach",
-        "name_with_type": "Xã Vĩnh Thạch",
-        "path": "Vĩnh Thạch, Vĩnh Linh, Quảng Trị",
-        "path_with_type": "Xã Vĩnh Thạch, Huyện Vĩnh Linh, Tỉnh Quảng Trị",
-        "code": "19384",
         "parent_code": "464"
     },
     "19387": {
@@ -87,16 +77,6 @@
         "path": "Vĩnh Long, Vĩnh Linh, Quảng Trị",
         "path_with_type": "Xã Vĩnh Long, Huyện Vĩnh Linh, Tỉnh Quảng Trị",
         "code": "19387",
-        "parent_code": "464"
-    },
-    "19390": {
-        "name": "Vĩnh Nam",
-        "type": "xa",
-        "slug": "vinh-nam",
-        "name_with_type": "Xã Vĩnh Nam",
-        "path": "Vĩnh Nam, Vĩnh Linh, Quảng Trị",
-        "path_with_type": "Xã Vĩnh Nam, Huyện Vĩnh Linh, Tỉnh Quảng Trị",
-        "code": "19390",
         "parent_code": "464"
     },
     "19393": {
@@ -117,16 +97,6 @@
         "path": "Vĩnh Hòa, Vĩnh Linh, Quảng Trị",
         "path_with_type": "Xã Vĩnh Hòa, Huyện Vĩnh Linh, Tỉnh Quảng Trị",
         "code": "19396",
-        "parent_code": "464"
-    },
-    "19399": {
-        "name": "Vĩnh Hiền",
-        "type": "xa",
-        "slug": "vinh-hien",
-        "name_with_type": "Xã Vĩnh Hiền",
-        "path": "Vĩnh Hiền, Vĩnh Linh, Quảng Trị",
-        "path_with_type": "Xã Vĩnh Hiền, Huyện Vĩnh Linh, Tỉnh Quảng Trị",
-        "code": "19399",
         "parent_code": "464"
     },
     "19402": {
@@ -150,23 +120,13 @@
         "parent_code": "464"
     },
     "19408": {
-        "name": "Vĩnh Thành",
+        "name": "Hiền Thành",
         "type": "xa",
-        "slug": "vinh-thanh",
-        "name_with_type": "Xã Vĩnh Thành",
-        "path": "Vĩnh Thành, Vĩnh Linh, Quảng Trị",
-        "path_with_type": "Xã Vĩnh Thành, Huyện Vĩnh Linh, Tỉnh Quảng Trị",
+        "slug": "hien-thanh",
+        "name_with_type": "Xã Hiền Thành",
+        "path": "Hiền Thành, Vĩnh Linh, Quảng Trị",
+        "path_with_type": "Xã Hiền Thành, Huyện Vĩnh Linh, Tỉnh Quảng Trị",
         "code": "19408",
-        "parent_code": "464"
-    },
-    "19411": {
-        "name": "Vĩnh Tân",
-        "type": "xa",
-        "slug": "vinh-tan",
-        "name_with_type": "Xã Vĩnh Tân",
-        "path": "Vĩnh Tân, Vĩnh Linh, Quảng Trị",
-        "path_with_type": "Xã Vĩnh Tân, Huyện Vĩnh Linh, Tỉnh Quảng Trị",
-        "code": "19411",
         "parent_code": "464"
     },
     "19414": {

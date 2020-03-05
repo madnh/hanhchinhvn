@@ -19,16 +19,6 @@
         "code": "150",
         "parent_code": "17"
     },
-    "151": {
-        "name": "Kỳ Sơn",
-        "type": "huyen",
-        "slug": "ky-son",
-        "name_with_type": "Huyện Kỳ Sơn",
-        "path": "Kỳ Sơn, Hoà Bình",
-        "path_with_type": "Huyện Kỳ Sơn, Tỉnh Hoà Bình",
-        "code": "151",
-        "parent_code": "17"
-    },
     "152": {
         "name": "Lương Sơn",
         "type": "huyen",

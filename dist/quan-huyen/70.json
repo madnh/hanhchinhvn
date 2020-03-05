@@ -11,11 +11,11 @@
     },
     "689": {
         "name": "Đồng Xoài",
-        "type": "thi-xa",
+        "type": "thanh-pho",
         "slug": "dong-xoai",
-        "name_with_type": "Thị xã Đồng Xoài",
+        "name_with_type": "Thành phố Đồng Xoài",
         "path": "Đồng Xoài, Bình Phước",
-        "path_with_type": "Thị xã Đồng Xoài, Tỉnh Bình Phước",
+        "path_with_type": "Thành phố Đồng Xoài, Tỉnh Bình Phước",
         "code": "689",
         "parent_code": "70"
     },

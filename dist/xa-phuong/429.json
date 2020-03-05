@@ -149,16 +149,6 @@
         "code": "17869",
         "parent_code": "429"
     },
-    "17872": {
-        "name": "Nghi Hợp",
-        "type": "xa",
-        "slug": "nghi-hop",
-        "name_with_type": "Xã Nghi Hợp",
-        "path": "Nghi Hợp, Nghi Lộc, Nghệ An",
-        "path_with_type": "Xã Nghi Hợp, Huyện Nghi Lộc, Tỉnh Nghệ An",
-        "code": "17872",
-        "parent_code": "429"
-    },
     "17875": {
         "name": "Nghi Hoa",
         "type": "xa",
@@ -170,12 +160,12 @@
         "parent_code": "429"
     },
     "17878": {
-        "name": "Nghi Khánh",
+        "name": "Khánh Hợp",
         "type": "xa",
-        "slug": "nghi-khanh",
-        "name_with_type": "Xã Nghi Khánh",
-        "path": "Nghi Khánh, Nghi Lộc, Nghệ An",
-        "path_with_type": "Xã Nghi Khánh, Huyện Nghi Lộc, Tỉnh Nghệ An",
+        "slug": "khanh-hop",
+        "name_with_type": "Xã Khánh Hợp",
+        "path": "Khánh Hợp, Nghi Lộc, Nghệ An",
+        "path_with_type": "Xã Khánh Hợp, Huyện Nghi Lộc, Tỉnh Nghệ An",
         "code": "17878",
         "parent_code": "429"
     },

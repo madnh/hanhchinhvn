@@ -198,5 +198,135 @@
         "path_with_type": "Phường Đại Yên, Thành phố Hạ Long, Tỉnh Quảng Ninh",
         "code": "06706",
         "parent_code": "193"
+    },
+    "07030": {
+        "name": "Hoành Bồ",
+        "type": "phuong",
+        "slug": "hoanh-bo",
+        "name_with_type": "Phường Hoành Bồ",
+        "path": "Hoành Bồ, Hạ Long, Quảng Ninh",
+        "path_with_type": "Phường Hoành Bồ, Thành phố Hạ Long, Tỉnh Quảng Ninh",
+        "code": "07030",
+        "parent_code": "193"
+    },
+    "07033": {
+        "name": "Kỳ Thượng",
+        "type": "xa",
+        "slug": "ky-thuong",
+        "name_with_type": "Xã Kỳ Thượng",
+        "path": "Kỳ Thượng, Hạ Long, Quảng Ninh",
+        "path_with_type": "Xã Kỳ Thượng, Thành phố Hạ Long, Tỉnh Quảng Ninh",
+        "code": "07033",
+        "parent_code": "193"
+    },
+    "07036": {
+        "name": "Đồng Sơn",
+        "type": "xa",
+        "slug": "dong-son",
+        "name_with_type": "Xã Đồng Sơn",
+        "path": "Đồng Sơn, Hạ Long, Quảng Ninh",
+        "path_with_type": "Xã Đồng Sơn, Thành phố Hạ Long, Tỉnh Quảng Ninh",
+        "code": "07036",
+        "parent_code": "193"
+    },
+    "07039": {
+        "name": "Tân Dân",
+        "type": "xa",
+        "slug": "tan-dan",
+        "name_with_type": "Xã Tân Dân",
+        "path": "Tân Dân, Hạ Long, Quảng Ninh",
+        "path_with_type": "Xã Tân Dân, Thành phố Hạ Long, Tỉnh Quảng Ninh",
+        "code": "07039",
+        "parent_code": "193"
+    },
+    "07042": {
+        "name": "Đồng Lâm",
+        "type": "xa",
+        "slug": "dong-lam",
+        "name_with_type": "Xã Đồng Lâm",
+        "path": "Đồng Lâm, Hạ Long, Quảng Ninh",
+        "path_with_type": "Xã Đồng Lâm, Thành phố Hạ Long, Tỉnh Quảng Ninh",
+        "code": "07042",
+        "parent_code": "193"
+    },
+    "07045": {
+        "name": "Hòa Bình",
+        "type": "xa",
+        "slug": "hoa-binh",
+        "name_with_type": "Xã Hòa Bình",
+        "path": "Hòa Bình, Hạ Long, Quảng Ninh",
+        "path_with_type": "Xã Hòa Bình, Thành phố Hạ Long, Tỉnh Quảng Ninh",
+        "code": "07045",
+        "parent_code": "193"
+    },
+    "07048": {
+        "name": "Vũ Oai",
+        "type": "xa",
+        "slug": "vu-oai",
+        "name_with_type": "Xã Vũ Oai",
+        "path": "Vũ Oai, Hạ Long, Quảng Ninh",
+        "path_with_type": "Xã Vũ Oai, Thành phố Hạ Long, Tỉnh Quảng Ninh",
+        "code": "07048",
+        "parent_code": "193"
+    },
+    "07051": {
+        "name": "Dân Chủ",
+        "type": "xa",
+        "slug": "dan-chu",
+        "name_with_type": "Xã Dân Chủ",
+        "path": "Dân Chủ, Hạ Long, Quảng Ninh",
+        "path_with_type": "Xã Dân Chủ, Thành phố Hạ Long, Tỉnh Quảng Ninh",
+        "code": "07051",
+        "parent_code": "193"
+    },
+    "07054": {
+        "name": "Quảng La",
+        "type": "xa",
+        "slug": "quang-la",
+        "name_with_type": "Xã Quảng La",
+        "path": "Quảng La, Hạ Long, Quảng Ninh",
+        "path_with_type": "Xã Quảng La, Thành phố Hạ Long, Tỉnh Quảng Ninh",
+        "code": "07054",
+        "parent_code": "193"
+    },
+    "07057": {
+        "name": "Bằng Cả",
+        "type": "xa",
+        "slug": "bang-ca",
+        "name_with_type": "Xã Bằng Cả",
+        "path": "Bằng Cả, Hạ Long, Quảng Ninh",
+        "path_with_type": "Xã Bằng Cả, Thành phố Hạ Long, Tỉnh Quảng Ninh",
+        "code": "07057",
+        "parent_code": "193"
+    },
+    "07060": {
+        "name": "Thống Nhất",
+        "type": "xa",
+        "slug": "thong-nhat",
+        "name_with_type": "Xã Thống Nhất",
+        "path": "Thống Nhất, Hạ Long, Quảng Ninh",
+        "path_with_type": "Xã Thống Nhất, Thành phố Hạ Long, Tỉnh Quảng Ninh",
+        "code": "07060",
+        "parent_code": "193"
+    },
+    "07063": {
+        "name": "Sơn Dương",
+        "type": "xa",
+        "slug": "son-duong",
+        "name_with_type": "Xã Sơn Dương",
+        "path": "Sơn Dương, Hạ Long, Quảng Ninh",
+        "path_with_type": "Xã Sơn Dương, Thành phố Hạ Long, Tỉnh Quảng Ninh",
+        "code": "07063",
+        "parent_code": "193"
+    },
+    "07066": {
+        "name": "Lê Lợi",
+        "type": "xa",
+        "slug": "le-loi",
+        "name_with_type": "Xã Lê Lợi",
+        "path": "Lê Lợi, Hạ Long, Quảng Ninh",
+        "path_with_type": "Xã Lê Lợi, Thành phố Hạ Long, Tỉnh Quảng Ninh",
+        "code": "07066",
+        "parent_code": "193"
     }
 }

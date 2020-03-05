@@ -60,23 +60,13 @@
         "parent_code": "439"
     },
     "18151": {
-        "name": "Sơn Thịnh",
+        "name": "An Hòa Thịnh",
         "type": "xa",
-        "slug": "son-thinh",
-        "name_with_type": "Xã Sơn Thịnh",
-        "path": "Sơn Thịnh, Hương Sơn, Hà Tĩnh",
-        "path_with_type": "Xã Sơn Thịnh, Huyện Hương Sơn, Tỉnh Hà Tĩnh",
+        "slug": "an-hoa-thinh",
+        "name_with_type": "Xã An Hòa Thịnh",
+        "path": "An Hòa Thịnh, Hương Sơn, Hà Tĩnh",
+        "path_with_type": "Xã An Hòa Thịnh, Huyện Hương Sơn, Tỉnh Hà Tĩnh",
         "code": "18151",
-        "parent_code": "439"
-    },
-    "18154": {
-        "name": "Sơn An",
-        "type": "xa",
-        "slug": "son-an",
-        "name_with_type": "Xã Sơn An",
-        "path": "Sơn An, Hương Sơn, Hà Tĩnh",
-        "path_with_type": "Xã Sơn An, Huyện Hương Sơn, Tỉnh Hà Tĩnh",
-        "code": "18154",
         "parent_code": "439"
     },
     "18157": {
@@ -99,34 +89,14 @@
         "code": "18160",
         "parent_code": "439"
     },
-    "18163": {
-        "name": "Sơn Hòa",
-        "type": "xa",
-        "slug": "son-hoa",
-        "name_with_type": "Xã Sơn Hòa",
-        "path": "Sơn Hòa, Hương Sơn, Hà Tĩnh",
-        "path_with_type": "Xã Sơn Hòa, Huyện Hương Sơn, Tỉnh Hà Tĩnh",
-        "code": "18163",
-        "parent_code": "439"
-    },
     "18166": {
-        "name": "Sơn Tân",
+        "name": "Tân Mỹ Hà",
         "type": "xa",
-        "slug": "son-tan",
-        "name_with_type": "Xã Sơn Tân",
-        "path": "Sơn Tân, Hương Sơn, Hà Tĩnh",
-        "path_with_type": "Xã Sơn Tân, Huyện Hương Sơn, Tỉnh Hà Tĩnh",
+        "slug": "tan-my-ha",
+        "name_with_type": "Xã Tân Mỹ Hà",
+        "path": "Tân Mỹ Hà, Hương Sơn, Hà Tĩnh",
+        "path_with_type": "Xã Tân Mỹ Hà, Huyện Hương Sơn, Tỉnh Hà Tĩnh",
         "code": "18166",
-        "parent_code": "439"
-    },
-    "18169": {
-        "name": "Sơn Mỹ",
-        "type": "xa",
-        "slug": "son-my",
-        "name_with_type": "Xã Sơn Mỹ",
-        "path": "Sơn Mỹ, Hương Sơn, Hà Tĩnh",
-        "path_with_type": "Xã Sơn Mỹ, Huyện Hương Sơn, Tỉnh Hà Tĩnh",
-        "code": "18169",
         "parent_code": "439"
     },
     "18172": {
@@ -157,26 +127,6 @@
         "path": "Sơn Châu, Hương Sơn, Hà Tĩnh",
         "path_with_type": "Xã Sơn Châu, Huyện Hương Sơn, Tỉnh Hà Tĩnh",
         "code": "18178",
-        "parent_code": "439"
-    },
-    "18181": {
-        "name": "Sơn Hà",
-        "type": "xa",
-        "slug": "son-ha",
-        "name_with_type": "Xã Sơn Hà",
-        "path": "Sơn Hà, Hương Sơn, Hà Tĩnh",
-        "path_with_type": "Xã Sơn Hà, Huyện Hương Sơn, Tỉnh Hà Tĩnh",
-        "code": "18181",
-        "parent_code": "439"
-    },
-    "18184": {
-        "name": "Sơn Quang",
-        "type": "xa",
-        "slug": "son-quang",
-        "name_with_type": "Xã Sơn Quang",
-        "path": "Sơn Quang, Hương Sơn, Hà Tĩnh",
-        "path_with_type": "Xã Sơn Quang, Huyện Hương Sơn, Tỉnh Hà Tĩnh",
-        "code": "18184",
         "parent_code": "439"
     },
     "18187": {
@@ -250,22 +200,22 @@
         "parent_code": "439"
     },
     "18208": {
-        "name": "Sơn Diệm",
+        "name": "Quang Diệm",
         "type": "xa",
-        "slug": "son-diem",
-        "name_with_type": "Xã Sơn Diệm",
-        "path": "Sơn Diệm, Hương Sơn, Hà Tĩnh",
-        "path_with_type": "Xã Sơn Diệm, Huyện Hương Sơn, Tỉnh Hà Tĩnh",
+        "slug": "quang-diem",
+        "name_with_type": "Xã Quang Diệm",
+        "path": "Quang Diệm, Hương Sơn, Hà Tĩnh",
+        "path_with_type": "Xã Quang Diệm, Huyện Hương Sơn, Tỉnh Hà Tĩnh",
         "code": "18208",
         "parent_code": "439"
     },
     "18211": {
-        "name": "Sơn Thủy",
+        "name": "Kim Hoa",
         "type": "xa",
-        "slug": "son-thuy",
-        "name_with_type": "Xã Sơn Thủy",
-        "path": "Sơn Thủy, Hương Sơn, Hà Tĩnh",
-        "path_with_type": "Xã Sơn Thủy, Huyện Hương Sơn, Tỉnh Hà Tĩnh",
+        "slug": "kim-hoa",
+        "name_with_type": "Xã Kim Hoa",
+        "path": "Kim Hoa, Hương Sơn, Hà Tĩnh",
+        "path_with_type": "Xã Kim Hoa, Huyện Hương Sơn, Tỉnh Hà Tĩnh",
         "code": "18211",
         "parent_code": "439"
     },
@@ -289,16 +239,6 @@
         "code": "18217",
         "parent_code": "439"
     },
-    "18220": {
-        "name": "Sơn Phúc",
-        "type": "xa",
-        "slug": "son-phuc",
-        "name_with_type": "Xã Sơn Phúc",
-        "path": "Sơn Phúc, Hương Sơn, Hà Tĩnh",
-        "path_with_type": "Xã Sơn Phúc, Huyện Hương Sơn, Tỉnh Hà Tĩnh",
-        "code": "18220",
-        "parent_code": "439"
-    },
     "18223": {
         "name": "Sơn Trường",
         "type": "xa",
@@ -307,16 +247,6 @@
         "path": "Sơn Trường, Hương Sơn, Hà Tĩnh",
         "path_with_type": "Xã Sơn Trường, Huyện Hương Sơn, Tỉnh Hà Tĩnh",
         "code": "18223",
-        "parent_code": "439"
-    },
-    "18226": {
-        "name": "Sơn Mai",
-        "type": "xa",
-        "slug": "son-mai",
-        "name_with_type": "Xã Sơn Mai",
-        "path": "Sơn Mai, Hương Sơn, Hà Tĩnh",
-        "path_with_type": "Xã Sơn Mai, Huyện Hương Sơn, Tỉnh Hà Tĩnh",
-        "code": "18226",
         "parent_code": "439"
     }
 }

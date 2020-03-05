@@ -218,15 +218,5 @@
         "path_with_type": "Xã Thanh Đình, Thành phố Việt Trì, Tỉnh Phú Thọ",
         "code": "08515",
         "parent_code": "227"
-    },
-    "09622": {
-        "name": "Tân Đức",
-        "type": "xa",
-        "slug": "tan-duc",
-        "name_with_type": "Xã Tân Đức",
-        "path": "Tân Đức, Việt Trì, Phú Thọ",
-        "path_with_type": "Xã Tân Đức, Thành phố Việt Trì, Tỉnh Phú Thọ",
-        "code": "09622",
-        "parent_code": "227"
     }
 }

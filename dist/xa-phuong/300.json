@@ -109,16 +109,6 @@
         "code": "11269",
         "parent_code": "300"
     },
-    "11272": {
-        "name": "Hùng Sơn",
-        "type": "xa",
-        "slug": "hung-son",
-        "name_with_type": "Xã Hùng Sơn",
-        "path": "Hùng Sơn, Thanh Miện, Hải Dương",
-        "path_with_type": "Xã Hùng Sơn, Huyện Thanh Miện, Tỉnh Hải Dương",
-        "code": "11272",
-        "parent_code": "300"
-    },
     "11275": {
         "name": "Ngũ Hùng",
         "type": "xa",
@@ -169,23 +159,13 @@
         "code": "11287",
         "parent_code": "300"
     },
-    "11290": {
-        "name": "Diên Hồng",
-        "type": "xa",
-        "slug": "dien-hong",
-        "name_with_type": "Xã Diên Hồng",
-        "path": "Diên Hồng, Thanh Miện, Hải Dương",
-        "path_with_type": "Xã Diên Hồng, Huyện Thanh Miện, Tỉnh Hải Dương",
-        "code": "11290",
-        "parent_code": "300"
-    },
     "11293": {
-        "name": "Tiền Phong",
+        "name": "Hồng Phong",
         "type": "xa",
-        "slug": "tien-phong",
-        "name_with_type": "Xã Tiền Phong",
-        "path": "Tiền Phong, Thanh Miện, Hải Dương",
-        "path_with_type": "Xã Tiền Phong, Huyện Thanh Miện, Tỉnh Hải Dương",
+        "slug": "hong-phong",
+        "name_with_type": "Xã Hồng Phong",
+        "path": "Hồng Phong, Thanh Miện, Hải Dương",
+        "path_with_type": "Xã Hồng Phong, Huyện Thanh Miện, Tỉnh Hải Dương",
         "code": "11293",
         "parent_code": "300"
     }

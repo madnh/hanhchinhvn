@@ -71,11 +71,11 @@
     },
     "088": {
         "name": "Sa Pa",
-        "type": "huyen",
+        "type": "thi-xa",
         "slug": "sa-pa",
-        "name_with_type": "Huyện Sa Pa",
+        "name_with_type": "Thị xã Sa Pa",
         "path": "Sa Pa, Lào Cai",
-        "path_with_type": "Huyện Sa Pa, Tỉnh Lào Cai",
+        "path_with_type": "Thị xã Sa Pa, Tỉnh Lào Cai",
         "code": "088",
         "parent_code": "10"
     },

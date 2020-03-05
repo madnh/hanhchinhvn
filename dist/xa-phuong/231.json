@@ -19,26 +19,6 @@
         "code": "08056",
         "parent_code": "231"
     },
-    "08059": {
-        "name": "Hậu Bổng",
-        "type": "xa",
-        "slug": "hau-bong",
-        "name_with_type": "Xã Hậu Bổng",
-        "path": "Hậu Bổng, Hạ Hoà, Phú Thọ",
-        "path_with_type": "Xã Hậu Bổng, Huyện Hạ Hoà, Tỉnh Phú Thọ",
-        "code": "08059",
-        "parent_code": "231"
-    },
-    "08062": {
-        "name": "Đan Hà",
-        "type": "xa",
-        "slug": "dan-ha",
-        "name_with_type": "Xã Đan Hà",
-        "path": "Đan Hà, Hạ Hoà, Phú Thọ",
-        "path_with_type": "Xã Đan Hà, Huyện Hạ Hoà, Tỉnh Phú Thọ",
-        "code": "08062",
-        "parent_code": "231"
-    },
     "08065": {
         "name": "Hà Lương",
         "type": "xa",
@@ -49,34 +29,14 @@
         "code": "08065",
         "parent_code": "231"
     },
-    "08068": {
-        "name": "Lệnh Khanh",
-        "type": "xa",
-        "slug": "lenh-khanh",
-        "name_with_type": "Xã Lệnh Khanh",
-        "path": "Lệnh Khanh, Hạ Hoà, Phú Thọ",
-        "path_with_type": "Xã Lệnh Khanh, Huyện Hạ Hoà, Tỉnh Phú Thọ",
-        "code": "08068",
-        "parent_code": "231"
-    },
     "08071": {
-        "name": "Phụ Khánh",
+        "name": "Tứ Hiệp",
         "type": "xa",
-        "slug": "phu-khanh",
-        "name_with_type": "Xã Phụ Khánh",
-        "path": "Phụ Khánh, Hạ Hoà, Phú Thọ",
-        "path_with_type": "Xã Phụ Khánh, Huyện Hạ Hoà, Tỉnh Phú Thọ",
+        "slug": "tu-hiep",
+        "name_with_type": "Xã Tứ Hiệp",
+        "path": "Tứ Hiệp, Hạ Hoà, Phú Thọ",
+        "path_with_type": "Xã Tứ Hiệp, Huyện Hạ Hoà, Tỉnh Phú Thọ",
         "code": "08071",
-        "parent_code": "231"
-    },
-    "08074": {
-        "name": "Liên Phương",
-        "type": "xa",
-        "slug": "lien-phuong",
-        "name_with_type": "Xã Liên Phương",
-        "path": "Liên Phương, Hạ Hoà, Phú Thọ",
-        "path_with_type": "Xã Liên Phương, Huyện Hạ Hoà, Tỉnh Phú Thọ",
-        "code": "08074",
         "parent_code": "231"
     },
     "08077": {
@@ -97,26 +57,6 @@
         "path": "Hiền Lương, Hạ Hoà, Phú Thọ",
         "path_with_type": "Xã Hiền Lương, Huyện Hạ Hoà, Tỉnh Phú Thọ",
         "code": "08080",
-        "parent_code": "231"
-    },
-    "08083": {
-        "name": "Động Lâm",
-        "type": "xa",
-        "slug": "dong-lam",
-        "name_with_type": "Xã Động Lâm",
-        "path": "Động Lâm, Hạ Hoà, Phú Thọ",
-        "path_with_type": "Xã Động Lâm, Huyện Hạ Hoà, Tỉnh Phú Thọ",
-        "code": "08083",
-        "parent_code": "231"
-    },
-    "08086": {
-        "name": "Lâm Lợi",
-        "type": "xa",
-        "slug": "lam-loi",
-        "name_with_type": "Xã Lâm Lợi",
-        "path": "Lâm Lợi, Hạ Hoà, Phú Thọ",
-        "path_with_type": "Xã Lâm Lợi, Huyện Hạ Hoà, Tỉnh Phú Thọ",
-        "code": "08086",
         "parent_code": "231"
     },
     "08089": {
@@ -149,26 +89,6 @@
         "code": "08095",
         "parent_code": "231"
     },
-    "08098": {
-        "name": "Quân Khê",
-        "type": "xa",
-        "slug": "quan-khe",
-        "name_with_type": "Xã Quân Khê",
-        "path": "Quân Khê, Hạ Hoà, Phú Thọ",
-        "path_with_type": "Xã Quân Khê, Huyện Hạ Hoà, Tỉnh Phú Thọ",
-        "code": "08098",
-        "parent_code": "231"
-    },
-    "08101": {
-        "name": "Y Sơn",
-        "type": "xa",
-        "slug": "y-son",
-        "name_with_type": "Xã Y Sơn",
-        "path": "Y Sơn, Hạ Hoà, Phú Thọ",
-        "path_with_type": "Xã Y Sơn, Huyện Hạ Hoà, Tỉnh Phú Thọ",
-        "code": "08101",
-        "parent_code": "231"
-    },
     "08104": {
         "name": "Hương Xạ",
         "type": "xa",
@@ -177,16 +97,6 @@
         "path": "Hương Xạ, Hạ Hoà, Phú Thọ",
         "path_with_type": "Xã Hương Xạ, Huyện Hạ Hoà, Tỉnh Phú Thọ",
         "code": "08104",
-        "parent_code": "231"
-    },
-    "08107": {
-        "name": "Cáo Điền",
-        "type": "xa",
-        "slug": "cao-dien",
-        "name_with_type": "Xã Cáo Điền",
-        "path": "Cáo Điền, Hạ Hoà, Phú Thọ",
-        "path_with_type": "Xã Cáo Điền, Huyện Hạ Hoà, Tỉnh Phú Thọ",
-        "code": "08107",
         "parent_code": "231"
     },
     "08110": {
@@ -207,16 +117,6 @@
         "path": "Yên Kỳ, Hạ Hoà, Phú Thọ",
         "path_with_type": "Xã Yên Kỳ, Huyện Hạ Hoà, Tỉnh Phú Thọ",
         "code": "08113",
-        "parent_code": "231"
-    },
-    "08116": {
-        "name": "Chuế Lưu",
-        "type": "xa",
-        "slug": "chue-luu",
-        "name_with_type": "Xã Chuế Lưu",
-        "path": "Chuế Lưu, Hạ Hoà, Phú Thọ",
-        "path_with_type": "Xã Chuế Lưu, Huyện Hạ Hoà, Tỉnh Phú Thọ",
-        "code": "08116",
         "parent_code": "231"
     },
     "08119": {
@@ -279,16 +179,6 @@
         "code": "08134",
         "parent_code": "231"
     },
-    "08137": {
-        "name": "Chính Công",
-        "type": "xa",
-        "slug": "chinh-cong",
-        "name_with_type": "Xã Chính Công",
-        "path": "Chính Công, Hạ Hoà, Phú Thọ",
-        "path_with_type": "Xã Chính Công, Huyện Hạ Hoà, Tỉnh Phú Thọ",
-        "code": "08137",
-        "parent_code": "231"
-    },
     "08140": {
         "name": "Minh Côi",
         "type": "xa",
@@ -307,26 +197,6 @@
         "path": "Vĩnh Chân, Hạ Hoà, Phú Thọ",
         "path_with_type": "Xã Vĩnh Chân, Huyện Hạ Hoà, Tỉnh Phú Thọ",
         "code": "08143",
-        "parent_code": "231"
-    },
-    "08146": {
-        "name": "Mai Tùng",
-        "type": "xa",
-        "slug": "mai-tung",
-        "name_with_type": "Xã Mai Tùng",
-        "path": "Mai Tùng, Hạ Hoà, Phú Thọ",
-        "path_with_type": "Xã Mai Tùng, Huyện Hạ Hoà, Tỉnh Phú Thọ",
-        "code": "08146",
-        "parent_code": "231"
-    },
-    "08149": {
-        "name": "Vụ Cầu",
-        "type": "xa",
-        "slug": "vu-cau",
-        "name_with_type": "Xã Vụ Cầu",
-        "path": "Vụ Cầu, Hạ Hoà, Phú Thọ",
-        "path_with_type": "Xã Vụ Cầu, Huyện Hạ Hoà, Tỉnh Phú Thọ",
-        "code": "08149",
         "parent_code": "231"
     }
 }

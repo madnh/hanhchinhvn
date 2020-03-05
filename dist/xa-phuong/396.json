@@ -109,16 +109,6 @@
         "code": "15643",
         "parent_code": "396"
     },
-    "15646": {
-        "name": "Xuân Cẩm",
-        "type": "xa",
-        "slug": "xuan-cam",
-        "name_with_type": "Xã Xuân Cẩm",
-        "path": "Xuân Cẩm, Thường Xuân, Thanh Hóa",
-        "path_with_type": "Xã Xuân Cẩm, Huyện Thường Xuân, Tỉnh Thanh Hóa",
-        "code": "15646",
-        "parent_code": "396"
-    },
     "15649": {
         "name": "Xuân Dương",
         "type": "xa",

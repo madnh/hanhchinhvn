@@ -30,12 +30,12 @@
         "parent_code": "443"
     },
     "18424": {
-        "name": "Kim Lộc",
+        "name": "Kim Song Trường",
         "type": "xa",
-        "slug": "kim-loc",
-        "name_with_type": "Xã Kim Lộc",
-        "path": "Kim Lộc, Can Lộc, Hà Tĩnh",
-        "path_with_type": "Xã Kim Lộc, Huyện Can Lộc, Tỉnh Hà Tĩnh",
+        "slug": "kim-song-truong",
+        "name_with_type": "Xã Kim Song Trường",
+        "path": "Kim Song Trường, Can Lộc, Hà Tĩnh",
+        "path_with_type": "Xã Kim Song Trường, Huyện Can Lộc, Tỉnh Hà Tĩnh",
         "code": "18424",
         "parent_code": "443"
     },
@@ -59,16 +59,6 @@
         "code": "18433",
         "parent_code": "443"
     },
-    "18436": {
-        "name": "Song Lộc",
-        "type": "xa",
-        "slug": "song-loc",
-        "name_with_type": "Xã Song Lộc",
-        "path": "Song Lộc, Can Lộc, Hà Tĩnh",
-        "path_with_type": "Xã Song Lộc, Huyện Can Lộc, Tỉnh Hà Tĩnh",
-        "code": "18436",
-        "parent_code": "443"
-    },
     "18439": {
         "name": "Thường Nga",
         "type": "xa",
@@ -79,16 +69,6 @@
         "code": "18439",
         "parent_code": "443"
     },
-    "18442": {
-        "name": "Trường Lộc",
-        "type": "xa",
-        "slug": "truong-loc",
-        "name_with_type": "Xã Trường Lộc",
-        "path": "Trường Lộc, Can Lộc, Hà Tĩnh",
-        "path_with_type": "Xã Trường Lộc, Huyện Can Lộc, Tỉnh Hà Tĩnh",
-        "code": "18442",
-        "parent_code": "443"
-    },
     "18445": {
         "name": "Tùng Lộc",
         "type": "xa",
@@ -97,16 +77,6 @@
         "path": "Tùng Lộc, Can Lộc, Hà Tĩnh",
         "path_with_type": "Xã Tùng Lộc, Huyện Can Lộc, Tỉnh Hà Tĩnh",
         "code": "18445",
-        "parent_code": "443"
-    },
-    "18451": {
-        "name": "Yên Lộc",
-        "type": "xa",
-        "slug": "yen-loc",
-        "name_with_type": "Xã Yên Lộc",
-        "path": "Yên Lộc, Can Lộc, Hà Tĩnh",
-        "path_with_type": "Xã Yên Lộc, Huyện Can Lộc, Tỉnh Hà Tĩnh",
-        "code": "18451",
         "parent_code": "443"
     },
     "18454": {
@@ -120,12 +90,12 @@
         "parent_code": "443"
     },
     "18460": {
-        "name": "Khánh Lộc",
+        "name": "Khánh Vĩnh Yên",
         "type": "xa",
-        "slug": "khanh-loc",
-        "name_with_type": "Xã Khánh Lộc",
-        "path": "Khánh Lộc, Can Lộc, Hà Tĩnh",
-        "path_with_type": "Xã Khánh Lộc, Huyện Can Lộc, Tỉnh Hà Tĩnh",
+        "slug": "khanh-vinh-yen",
+        "name_with_type": "Xã Khánh Vĩnh Yên",
+        "path": "Khánh Vĩnh Yên, Can Lộc, Hà Tĩnh",
+        "path_with_type": "Xã Khánh Vĩnh Yên, Huyện Can Lộc, Tỉnh Hà Tĩnh",
         "code": "18460",
         "parent_code": "443"
     },
@@ -137,26 +107,6 @@
         "path": "Gia Hanh, Can Lộc, Hà Tĩnh",
         "path_with_type": "Xã Gia Hanh, Huyện Can Lộc, Tỉnh Hà Tĩnh",
         "code": "18463",
-        "parent_code": "443"
-    },
-    "18466": {
-        "name": "Vĩnh Lộc",
-        "type": "xa",
-        "slug": "vinh-loc",
-        "name_with_type": "Xã Vĩnh Lộc",
-        "path": "Vĩnh Lộc, Can Lộc, Hà Tĩnh",
-        "path_with_type": "Xã Vĩnh Lộc, Huyện Can Lộc, Tỉnh Hà Tĩnh",
-        "code": "18466",
-        "parent_code": "443"
-    },
-    "18469": {
-        "name": "Tiến Lộc",
-        "type": "xa",
-        "slug": "tien-loc",
-        "name_with_type": "Xã Tiến Lộc",
-        "path": "Tiến Lộc, Can Lộc, Hà Tĩnh",
-        "path_with_type": "Xã Tiến Lộc, Huyện Can Lộc, Tỉnh Hà Tĩnh",
-        "code": "18469",
         "parent_code": "443"
     },
     "18472": {
@@ -201,11 +151,11 @@
     },
     "18484": {
         "name": "Đồng Lộc",
-        "type": "xa",
+        "type": "thi-tran",
         "slug": "dong-loc",
-        "name_with_type": "Xã Đồng Lộc",
+        "name_with_type": "Thị trấn Đồng Lộc",
         "path": "Đồng Lộc, Can Lộc, Hà Tĩnh",
-        "path_with_type": "Xã Đồng Lộc, Huyện Can Lộc, Tỉnh Hà Tĩnh",
+        "path_with_type": "Thị trấn Đồng Lộc, Huyện Can Lộc, Tỉnh Hà Tĩnh",
         "code": "18484",
         "parent_code": "443"
     },

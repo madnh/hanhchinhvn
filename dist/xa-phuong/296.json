@@ -9,23 +9,13 @@
         "code": "10945",
         "parent_code": "296"
     },
-    "10948": {
-        "name": "Hưng Thịnh",
-        "type": "xa",
-        "slug": "hung-thinh",
-        "name_with_type": "Xã Hưng Thịnh",
-        "path": "Hưng Thịnh, Bình Giang, Hải Dương",
-        "path_with_type": "Xã Hưng Thịnh, Huyện Bình Giang, Tỉnh Hải Dương",
-        "code": "10948",
-        "parent_code": "296"
-    },
     "10951": {
-        "name": "Vĩnh Tuy",
+        "name": "Vĩnh Hưng",
         "type": "xa",
-        "slug": "vinh-tuy",
-        "name_with_type": "Xã Vĩnh Tuy",
-        "path": "Vĩnh Tuy, Bình Giang, Hải Dương",
-        "path_with_type": "Xã Vĩnh Tuy, Huyện Bình Giang, Tỉnh Hải Dương",
+        "slug": "vinh-hung",
+        "name_with_type": "Xã Vĩnh Hưng",
+        "path": "Vĩnh Hưng, Bình Giang, Hải Dương",
+        "path_with_type": "Xã Vĩnh Hưng, Huyện Bình Giang, Tỉnh Hải Dương",
         "code": "10951",
         "parent_code": "296"
     },
@@ -37,16 +27,6 @@
         "path": "Hùng Thắng, Bình Giang, Hải Dương",
         "path_with_type": "Xã Hùng Thắng, Huyện Bình Giang, Tỉnh Hải Dương",
         "code": "10954",
-        "parent_code": "296"
-    },
-    "10957": {
-        "name": "Tráng Liệt",
-        "type": "xa",
-        "slug": "trang-liet",
-        "name_with_type": "Xã Tráng Liệt",
-        "path": "Tráng Liệt, Bình Giang, Hải Dương",
-        "path_with_type": "Xã Tráng Liệt, Huyện Bình Giang, Tỉnh Hải Dương",
-        "code": "10957",
         "parent_code": "296"
     },
     "10960": {
@@ -130,12 +110,12 @@
         "parent_code": "296"
     },
     "10984": {
-        "name": "Cổ Bi",
+        "name": "Cổ Bì",
         "type": "xa",
         "slug": "co-bi",
-        "name_with_type": "Xã Cổ Bi",
-        "path": "Cổ Bi, Bình Giang, Hải Dương",
-        "path_with_type": "Xã Cổ Bi, Huyện Bình Giang, Tỉnh Hải Dương",
+        "name_with_type": "Xã Cổ Bì",
+        "path": "Cổ Bì, Bình Giang, Hải Dương",
+        "path_with_type": "Xã Cổ Bì, Huyện Bình Giang, Tỉnh Hải Dương",
         "code": "10984",
         "parent_code": "296"
     },

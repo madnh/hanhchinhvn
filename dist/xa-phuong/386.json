@@ -199,16 +199,6 @@
         "code": "14980",
         "parent_code": "386"
     },
-    "14983": {
-        "name": "Lâm Sa",
-        "type": "xa",
-        "slug": "lam-sa",
-        "name_with_type": "Xã Lâm Sa",
-        "path": "Lâm Sa, Bá Thước, Thanh Hóa",
-        "path_with_type": "Xã Lâm Sa, Huyện Bá Thước, Tỉnh Thanh Hóa",
-        "code": "14983",
-        "parent_code": "386"
-    },
     "14986": {
         "name": "Thiết Kế",
         "type": "xa",
@@ -217,16 +207,6 @@
         "path": "Thiết Kế, Bá Thước, Thanh Hóa",
         "path_with_type": "Xã Thiết Kế, Huyện Bá Thước, Tỉnh Thanh Hóa",
         "code": "14986",
-        "parent_code": "386"
-    },
-    "14989": {
-        "name": "Tân Lập",
-        "type": "xa",
-        "slug": "tan-lap",
-        "name_with_type": "Xã Tân Lập",
-        "path": "Tân Lập, Bá Thước, Thanh Hóa",
-        "path_with_type": "Xã Tân Lập, Huyện Bá Thước, Tỉnh Thanh Hóa",
-        "code": "14989",
         "parent_code": "386"
     }
 }

@@ -68,15 +68,5 @@
         "path_with_type": "Xã Quang Trung, Thị xã Bỉm Sơn, Tỉnh Thanh Hóa",
         "code": "14824",
         "parent_code": "381"
-    },
-    "14827": {
-        "name": "Hà Lan",
-        "type": "xa",
-        "slug": "ha-lan",
-        "name_with_type": "Xã Hà Lan",
-        "path": "Hà Lan, Bỉm Sơn, Thanh Hóa",
-        "path_with_type": "Xã Hà Lan, Thị xã Bỉm Sơn, Tỉnh Thanh Hóa",
-        "code": "14827",
-        "parent_code": "381"
     }
 }

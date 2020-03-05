@@ -31,11 +31,11 @@
     },
     "26479": {
         "name": "Hiệp Phước",
-        "type": "xa",
+        "type": "thi-tran",
         "slug": "hiep-phuoc",
-        "name_with_type": "Xã Hiệp Phước",
+        "name_with_type": "Thị trấn Hiệp Phước",
         "path": "Hiệp Phước, Nhơn Trạch, Đồng Nai",
-        "path_with_type": "Xã Hiệp Phước, Huyện Nhơn Trạch, Tỉnh Đồng Nai",
+        "path_with_type": "Thị trấn Hiệp Phước, Huyện Nhơn Trạch, Tỉnh Đồng Nai",
         "code": "26479",
         "parent_code": "742"
     },

@@ -39,16 +39,6 @@
         "code": "16021",
         "parent_code": "400"
     },
-    "16024": {
-        "name": "Châu Lộc",
-        "type": "xa",
-        "slug": "chau-loc",
-        "name_with_type": "Xã Châu Lộc",
-        "path": "Châu Lộc, Hậu Lộc, Thanh Hóa",
-        "path_with_type": "Xã Châu Lộc, Huyện Hậu Lộc, Tỉnh Thanh Hóa",
-        "code": "16024",
-        "parent_code": "400"
-    },
     "16027": {
         "name": "Tiến Lộc",
         "type": "xa",
@@ -119,16 +109,6 @@
         "code": "16045",
         "parent_code": "400"
     },
-    "16048": {
-        "name": "Văn Lộc",
-        "type": "xa",
-        "slug": "van-loc",
-        "name_with_type": "Xã Văn Lộc",
-        "path": "Văn Lộc, Hậu Lộc, Thanh Hóa",
-        "path_with_type": "Xã Văn Lộc, Huyện Hậu Lộc, Tỉnh Thanh Hóa",
-        "code": "16048",
-        "parent_code": "400"
-    },
     "16051": {
         "name": "Thuần Lộc",
         "type": "xa",
@@ -139,16 +119,6 @@
         "code": "16051",
         "parent_code": "400"
     },
-    "16054": {
-        "name": "Lộc Tân",
-        "type": "xa",
-        "slug": "loc-tan",
-        "name_with_type": "Xã Lộc Tân",
-        "path": "Lộc Tân, Hậu Lộc, Thanh Hóa",
-        "path_with_type": "Xã Lộc Tân, Huyện Hậu Lộc, Tỉnh Thanh Hóa",
-        "code": "16054",
-        "parent_code": "400"
-    },
     "16057": {
         "name": "Xuân Lộc",
         "type": "xa",
@@ -157,16 +127,6 @@
         "path": "Xuân Lộc, Hậu Lộc, Thanh Hóa",
         "path_with_type": "Xã Xuân Lộc, Huyện Hậu Lộc, Tỉnh Thanh Hóa",
         "code": "16057",
-        "parent_code": "400"
-    },
-    "16060": {
-        "name": "Thịnh Lộc",
-        "type": "xa",
-        "slug": "thinh-loc",
-        "name_with_type": "Xã Thịnh Lộc",
-        "path": "Thịnh Lộc, Hậu Lộc, Thanh Hóa",
-        "path_with_type": "Xã Thịnh Lộc, Huyện Hậu Lộc, Tỉnh Thanh Hóa",
-        "code": "16060",
         "parent_code": "400"
     },
     "16063": {

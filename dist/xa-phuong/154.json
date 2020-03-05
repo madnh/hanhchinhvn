@@ -49,23 +49,13 @@
         "code": "05101",
         "parent_code": "154"
     },
-    "05104": {
-        "name": "Đông Phong",
-        "type": "xa",
-        "slug": "dong-phong",
-        "name_with_type": "Xã Đông Phong",
-        "path": "Đông Phong, Cao Phong, Hoà Bình",
-        "path_with_type": "Xã Đông Phong, Huyện Cao Phong, Tỉnh Hoà Bình",
-        "code": "05104",
-        "parent_code": "154"
-    },
     "05107": {
-        "name": "Xuân Phong",
+        "name": "Hợp Phong",
         "type": "xa",
-        "slug": "xuan-phong",
-        "name_with_type": "Xã Xuân Phong",
-        "path": "Xuân Phong, Cao Phong, Hoà Bình",
-        "path_with_type": "Xã Xuân Phong, Huyện Cao Phong, Tỉnh Hoà Bình",
+        "slug": "hop-phong",
+        "name_with_type": "Xã Hợp Phong",
+        "path": "Hợp Phong, Cao Phong, Hoà Bình",
+        "path_with_type": "Xã Hợp Phong, Huyện Cao Phong, Tỉnh Hoà Bình",
         "code": "05107",
         "parent_code": "154"
     },
@@ -77,16 +67,6 @@
         "path": "Tây Phong, Cao Phong, Hoà Bình",
         "path_with_type": "Xã Tây Phong, Huyện Cao Phong, Tỉnh Hoà Bình",
         "code": "05110",
-        "parent_code": "154"
-    },
-    "05113": {
-        "name": "Tân Phong",
-        "type": "xa",
-        "slug": "tan-phong",
-        "name_with_type": "Xã Tân Phong",
-        "path": "Tân Phong, Cao Phong, Hoà Bình",
-        "path_with_type": "Xã Tân Phong, Huyện Cao Phong, Tỉnh Hoà Bình",
-        "code": "05113",
         "parent_code": "154"
     },
     "05116": {
@@ -110,23 +90,13 @@
         "parent_code": "154"
     },
     "05122": {
-        "name": "Yên Lập",
+        "name": "Thạch Yên",
         "type": "xa",
-        "slug": "yen-lap",
-        "name_with_type": "Xã Yên Lập",
-        "path": "Yên Lập, Cao Phong, Hoà Bình",
-        "path_with_type": "Xã Yên Lập, Huyện Cao Phong, Tỉnh Hoà Bình",
+        "slug": "thach-yen",
+        "name_with_type": "Xã Thạch Yên",
+        "path": "Thạch Yên, Cao Phong, Hoà Bình",
+        "path_with_type": "Xã Thạch Yên, Huyện Cao Phong, Tỉnh Hoà Bình",
         "code": "05122",
-        "parent_code": "154"
-    },
-    "05125": {
-        "name": "Yên Thượng",
-        "type": "xa",
-        "slug": "yen-thuong",
-        "name_with_type": "Xã Yên Thượng",
-        "path": "Yên Thượng, Cao Phong, Hoà Bình",
-        "path_with_type": "Xã Yên Thượng, Huyện Cao Phong, Tỉnh Hoà Bình",
-        "code": "05125",
         "parent_code": "154"
     }
 }

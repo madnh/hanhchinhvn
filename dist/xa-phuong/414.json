@@ -29,16 +29,6 @@
         "code": "16994",
         "parent_code": "414"
     },
-    "17002": {
-        "name": "Nghĩa Hòa",
-        "type": "xa",
-        "slug": "nghia-hoa",
-        "name_with_type": "Xã Nghĩa Hòa",
-        "path": "Nghĩa Hòa, Thái Hoà, Nghệ An",
-        "path_with_type": "Xã Nghĩa Hòa, Thị xã Thái Hoà, Tỉnh Nghệ An",
-        "code": "17002",
-        "parent_code": "414"
-    },
     "17003": {
         "name": "Long Sơn",
         "type": "phuong",

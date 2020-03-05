@@ -9,33 +9,13 @@
         "code": "07969",
         "parent_code": "230"
     },
-    "07972": {
-        "name": "Đông Khê",
-        "type": "xa",
-        "slug": "dong-khe",
-        "name_with_type": "Xã Đông Khê",
-        "path": "Đông Khê, Đoan Hùng, Phú Thọ",
-        "path_with_type": "Xã Đông Khê, Huyện Đoan Hùng, Tỉnh Phú Thọ",
-        "code": "07972",
-        "parent_code": "230"
-    },
-    "07975": {
-        "name": "Nghinh Xuyên",
-        "type": "xa",
-        "slug": "nghinh-xuyen",
-        "name_with_type": "Xã Nghinh Xuyên",
-        "path": "Nghinh Xuyên, Đoan Hùng, Phú Thọ",
-        "path_with_type": "Xã Nghinh Xuyên, Huyện Đoan Hùng, Tỉnh Phú Thọ",
-        "code": "07975",
-        "parent_code": "230"
-    },
     "07978": {
-        "name": "Hùng Quan",
+        "name": "Hùng Xuyên",
         "type": "xa",
-        "slug": "hung-quan",
-        "name_with_type": "Xã Hùng Quan",
-        "path": "Hùng Quan, Đoan Hùng, Phú Thọ",
-        "path_with_type": "Xã Hùng Quan, Huyện Đoan Hùng, Tỉnh Phú Thọ",
+        "slug": "hung-xuyen",
+        "name_with_type": "Xã Hùng Xuyên",
+        "path": "Hùng Xuyên, Đoan Hùng, Phú Thọ",
+        "path_with_type": "Xã Hùng Xuyên, Huyện Đoan Hùng, Tỉnh Phú Thọ",
         "code": "07978",
         "parent_code": "230"
     },
@@ -59,23 +39,13 @@
         "code": "07984",
         "parent_code": "230"
     },
-    "07987": {
-        "name": "Phương Trung",
-        "type": "xa",
-        "slug": "phuong-trung",
-        "name_with_type": "Xã Phương Trung",
-        "path": "Phương Trung, Đoan Hùng, Phú Thọ",
-        "path_with_type": "Xã Phương Trung, Huyện Đoan Hùng, Tỉnh Phú Thọ",
-        "code": "07987",
-        "parent_code": "230"
-    },
     "07990": {
-        "name": "Quế Lâm",
+        "name": "Phú Lâm",
         "type": "xa",
-        "slug": "que-lam",
-        "name_with_type": "Xã Quế Lâm",
-        "path": "Quế Lâm, Đoan Hùng, Phú Thọ",
-        "path_with_type": "Xã Quế Lâm, Huyện Đoan Hùng, Tỉnh Phú Thọ",
+        "slug": "phu-lam",
+        "name_with_type": "Xã Phú Lâm",
+        "path": "Phú Lâm, Đoan Hùng, Phú Thọ",
+        "path_with_type": "Xã Phú Lâm, Huyện Đoan Hùng, Tỉnh Phú Thọ",
         "code": "07990",
         "parent_code": "230"
     },
@@ -109,16 +79,6 @@
         "code": "07999",
         "parent_code": "230"
     },
-    "08002": {
-        "name": "Phong Phú",
-        "type": "xa",
-        "slug": "phong-phu",
-        "name_with_type": "Xã Phong Phú",
-        "path": "Phong Phú, Đoan Hùng, Phú Thọ",
-        "path_with_type": "Xã Phong Phú, Huyện Đoan Hùng, Tỉnh Phú Thọ",
-        "code": "08002",
-        "parent_code": "230"
-    },
     "08005": {
         "name": "Phúc Lai",
         "type": "xa",
@@ -139,23 +99,13 @@
         "code": "08008",
         "parent_code": "230"
     },
-    "08011": {
-        "name": "Hữu Đô",
-        "type": "xa",
-        "slug": "huu-do",
-        "name_with_type": "Xã Hữu Đô",
-        "path": "Hữu Đô, Đoan Hùng, Phú Thọ",
-        "path_with_type": "Xã Hữu Đô, Huyện Đoan Hùng, Tỉnh Phú Thọ",
-        "code": "08011",
-        "parent_code": "230"
-    },
     "08014": {
-        "name": "Đại Nghĩa",
+        "name": "Hợp Nhất",
         "type": "xa",
-        "slug": "dai-nghia",
-        "name_with_type": "Xã Đại Nghĩa",
-        "path": "Đại Nghĩa, Đoan Hùng, Phú Thọ",
-        "path_with_type": "Xã Đại Nghĩa, Huyện Đoan Hùng, Tỉnh Phú Thọ",
+        "slug": "hop-nhat",
+        "name_with_type": "Xã Hợp Nhất",
+        "path": "Hợp Nhất, Đoan Hùng, Phú Thọ",
+        "path_with_type": "Xã Hợp Nhất, Huyện Đoan Hùng, Tỉnh Phú Thọ",
         "code": "08014",
         "parent_code": "230"
     },
@@ -167,16 +117,6 @@
         "path": "Sóc Đăng, Đoan Hùng, Phú Thọ",
         "path_with_type": "Xã Sóc Đăng, Huyện Đoan Hùng, Tỉnh Phú Thọ",
         "code": "08017",
-        "parent_code": "230"
-    },
-    "08020": {
-        "name": "Phú Thứ",
-        "type": "xa",
-        "slug": "phu-thu",
-        "name_with_type": "Xã Phú Thứ",
-        "path": "Phú Thứ, Đoan Hùng, Phú Thọ",
-        "path_with_type": "Xã Phú Thứ, Huyện Đoan Hùng, Tỉnh Phú Thọ",
-        "code": "08020",
         "parent_code": "230"
     },
     "08023": {

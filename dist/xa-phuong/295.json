@@ -1,11 +1,11 @@
 {
     "10888": {
-        "name": "Cẩm Giàng",
+        "name": "Cẩm Giang",
         "type": "thi-tran",
         "slug": "cam-giang",
-        "name_with_type": "Thị trấn Cẩm Giàng",
-        "path": "Cẩm Giàng, Cẩm Giàng, Hải Dương",
-        "path_with_type": "Thị trấn Cẩm Giàng, Huyện Cẩm Giàng, Tỉnh Hải Dương",
+        "name_with_type": "Thị trấn Cẩm Giang",
+        "path": "Cẩm Giang, Cẩm Giàng, Hải Dương",
+        "path_with_type": "Thị trấn Cẩm Giang, Huyện Cẩm Giàng, Tỉnh Hải Dương",
         "code": "10888",
         "parent_code": "295"
     },
@@ -89,34 +89,14 @@
         "code": "10912",
         "parent_code": "295"
     },
-    "10915": {
-        "name": "Cẩm Sơn",
-        "type": "xa",
-        "slug": "cam-son",
-        "name_with_type": "Xã Cẩm Sơn",
-        "path": "Cẩm Sơn, Cẩm Giàng, Hải Dương",
-        "path_with_type": "Xã Cẩm Sơn, Huyện Cẩm Giàng, Tỉnh Hải Dương",
-        "code": "10915",
-        "parent_code": "295"
-    },
     "10918": {
-        "name": "Cẩm Định",
+        "name": "Định Sơn",
         "type": "xa",
-        "slug": "cam-dinh",
-        "name_with_type": "Xã Cẩm Định",
-        "path": "Cẩm Định, Cẩm Giàng, Hải Dương",
-        "path_with_type": "Xã Cẩm Định, Huyện Cẩm Giàng, Tỉnh Hải Dương",
+        "slug": "dinh-son",
+        "name_with_type": "Xã Định Sơn",
+        "path": "Định Sơn, Cẩm Giàng, Hải Dương",
+        "path_with_type": "Xã Định Sơn, Huyện Cẩm Giàng, Tỉnh Hải Dương",
         "code": "10918",
-        "parent_code": "295"
-    },
-    "10921": {
-        "name": "Kim Giang",
-        "type": "xa",
-        "slug": "kim-giang",
-        "name_with_type": "Xã Kim Giang",
-        "path": "Kim Giang, Cẩm Giàng, Hải Dương",
-        "path_with_type": "Xã Kim Giang, Huyện Cẩm Giàng, Tỉnh Hải Dương",
-        "code": "10921",
         "parent_code": "295"
     },
     "10924": {

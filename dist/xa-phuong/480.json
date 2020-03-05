@@ -130,23 +130,13 @@
         "parent_code": "480"
     },
     "20035": {
-        "name": "Bình Điền",
+        "name": "Bình Tiến",
         "type": "xa",
-        "slug": "binh-dien",
-        "name_with_type": "Xã Bình Điền",
-        "path": "Bình Điền, Hương Trà, Thừa Thiên Huế",
-        "path_with_type": "Xã Bình Điền, Thị xã Hương Trà, Tỉnh Thừa Thiên Huế",
+        "slug": "binh-tien",
+        "name_with_type": "Xã Bình Tiến",
+        "path": "Bình Tiến, Hương Trà, Thừa Thiên Huế",
+        "path_with_type": "Xã Bình Tiến, Thị xã Hương Trà, Tỉnh Thừa Thiên Huế",
         "code": "20035",
-        "parent_code": "480"
-    },
-    "20038": {
-        "name": "Hồng Tiến",
-        "type": "xa",
-        "slug": "hong-tien",
-        "name_with_type": "Xã Hồng Tiến",
-        "path": "Hồng Tiến, Hương Trà, Thừa Thiên Huế",
-        "path_with_type": "Xã Hồng Tiến, Thị xã Hương Trà, Tỉnh Thừa Thiên Huế",
-        "code": "20038",
         "parent_code": "480"
     },
     "20041": {

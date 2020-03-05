@@ -101,11 +101,11 @@
     },
     "09214": {
         "name": "Hòa Long",
-        "type": "xa",
+        "type": "phuong",
         "slug": "hoa-long",
-        "name_with_type": "Xã Hòa Long",
+        "name_with_type": "Phường Hòa Long",
         "path": "Hòa Long, Bắc Ninh, Bắc Ninh",
-        "path_with_type": "Xã Hòa Long, Thành phố Bắc Ninh, Tỉnh Bắc Ninh",
+        "path_with_type": "Phường Hòa Long, Thành phố Bắc Ninh, Tỉnh Bắc Ninh",
         "code": "09214",
         "parent_code": "256"
     },
@@ -141,11 +141,11 @@
     },
     "09256": {
         "name": "Kim Chân",
-        "type": "xa",
+        "type": "phuong",
         "slug": "kim-chan",
-        "name_with_type": "Xã Kim Chân",
+        "name_with_type": "Phường Kim Chân",
         "path": "Kim Chân, Bắc Ninh, Bắc Ninh",
-        "path_with_type": "Xã Kim Chân, Thành phố Bắc Ninh, Tỉnh Bắc Ninh",
+        "path_with_type": "Phường Kim Chân, Thành phố Bắc Ninh, Tỉnh Bắc Ninh",
         "code": "09256",
         "parent_code": "256"
     },
@@ -161,11 +161,11 @@
     },
     "09286": {
         "name": "Nam Sơn",
-        "type": "xa",
+        "type": "phuong",
         "slug": "nam-son",
-        "name_with_type": "Xã Nam Sơn",
+        "name_with_type": "Phường Nam Sơn",
         "path": "Nam Sơn, Bắc Ninh, Bắc Ninh",
-        "path_with_type": "Xã Nam Sơn, Thành phố Bắc Ninh, Tỉnh Bắc Ninh",
+        "path_with_type": "Phường Nam Sơn, Thành phố Bắc Ninh, Tỉnh Bắc Ninh",
         "code": "09286",
         "parent_code": "256"
     },

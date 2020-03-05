@@ -39,23 +39,13 @@
         "code": "20116",
         "parent_code": "482"
     },
-    "20119": {
-        "name": "Vinh Hải",
-        "type": "xa",
-        "slug": "vinh-hai",
-        "name_with_type": "Xã Vinh Hải",
-        "path": "Vinh Hải, Phú Lộc, Thừa Thiên Huế",
-        "path_with_type": "Xã Vinh Hải, Huyện Phú Lộc, Tỉnh Thừa Thiên Huế",
-        "code": "20119",
-        "parent_code": "482"
-    },
     "20122": {
-        "name": "Vinh Giang",
+        "name": "Giang Hải",
         "type": "xa",
-        "slug": "vinh-giang",
-        "name_with_type": "Xã Vinh Giang",
-        "path": "Vinh Giang, Phú Lộc, Thừa Thiên Huế",
-        "path_with_type": "Xã Vinh Giang, Huyện Phú Lộc, Tỉnh Thừa Thiên Huế",
+        "slug": "giang-hai",
+        "name_with_type": "Xã Giang Hải",
+        "path": "Giang Hải, Phú Lộc, Thừa Thiên Huế",
+        "path_with_type": "Xã Giang Hải, Huyện Phú Lộc, Tỉnh Thừa Thiên Huế",
         "code": "20122",
         "parent_code": "482"
     },

@@ -20,12 +20,12 @@
         "parent_code": "153"
     },
     "04987": {
-        "name": "Bắc Sơn",
+        "name": "Hùng Sơn",
         "type": "xa",
-        "slug": "bac-son",
-        "name_with_type": "Xã  Bắc Sơn",
-        "path": "Bắc Sơn, Kim Bôi, Hoà Bình",
-        "path_with_type": "Xã  Bắc Sơn, Huyện Kim Bôi, Tỉnh Hoà Bình",
+        "slug": "hung-son",
+        "name_with_type": "Xã Hùng Sơn",
+        "path": "Hùng Sơn, Kim Bôi, Hoà Bình",
+        "path_with_type": "Xã Hùng Sơn, Huyện Kim Bôi, Tỉnh Hoà Bình",
         "code": "04987",
         "parent_code": "153"
     },
@@ -39,16 +39,6 @@
         "code": "04990",
         "parent_code": "153"
     },
-    "04993": {
-        "name": "Hùng Tiến",
-        "type": "xa",
-        "slug": "hung-tien",
-        "name_with_type": "Xã Hùng Tiến",
-        "path": "Hùng Tiến, Kim Bôi, Hoà Bình",
-        "path_with_type": "Xã Hùng Tiến, Huyện Kim Bôi, Tỉnh Hoà Bình",
-        "code": "04993",
-        "parent_code": "153"
-    },
     "04999": {
         "name": "Tú Sơn",
         "type": "xa",
@@ -59,16 +49,6 @@
         "code": "04999",
         "parent_code": "153"
     },
-    "05002": {
-        "name": "Nật Sơn",
-        "type": "xa",
-        "slug": "nat-son",
-        "name_with_type": "Xã Nật Sơn",
-        "path": "Nật Sơn, Kim Bôi, Hoà Bình",
-        "path_with_type": "Xã Nật Sơn, Huyện Kim Bôi, Tỉnh Hoà Bình",
-        "code": "05002",
-        "parent_code": "153"
-    },
     "05005": {
         "name": "Vĩnh Tiến",
         "type": "xa",
@@ -77,16 +57,6 @@
         "path": "Vĩnh Tiến, Kim Bôi, Hoà Bình",
         "path_with_type": "Xã Vĩnh Tiến, Huyện Kim Bôi, Tỉnh Hoà Bình",
         "code": "05005",
-        "parent_code": "153"
-    },
-    "05011": {
-        "name": "Sơn Thủy",
-        "type": "xa",
-        "slug": "son-thuy",
-        "name_with_type": "Xã Sơn Thủy",
-        "path": "Sơn Thủy, Kim Bôi, Hoà Bình",
-        "path_with_type": "Xã Sơn Thủy, Huyện Kim Bôi, Tỉnh Hoà Bình",
-        "code": "05011",
         "parent_code": "153"
     },
     "05014": {
@@ -100,23 +70,13 @@
         "parent_code": "153"
     },
     "05017": {
-        "name": "Thượng Bì",
+        "name": "Xuân Thủy",
         "type": "xa",
-        "slug": "thuong-bi",
-        "name_with_type": "Xã Thượng Bì",
-        "path": "Thượng Bì, Kim Bôi, Hoà Bình",
-        "path_with_type": "Xã Thượng Bì, Huyện Kim Bôi, Tỉnh Hoà Bình",
+        "slug": "xuan-thuy",
+        "name_with_type": "Xã Xuân Thủy",
+        "path": "Xuân Thủy, Kim Bôi, Hoà Bình",
+        "path_with_type": "Xã Xuân Thủy, Huyện Kim Bôi, Tỉnh Hoà Bình",
         "code": "05017",
-        "parent_code": "153"
-    },
-    "05020": {
-        "name": "Lập Chiệng",
-        "type": "xa",
-        "slug": "lap-chieng",
-        "name_with_type": "Xã Lập Chiệng",
-        "path": "Lập Chiệng, Kim Bôi, Hoà Bình",
-        "path_with_type": "Xã Lập Chiệng, Huyện Kim Bôi, Tỉnh Hoà Bình",
-        "code": "05020",
         "parent_code": "153"
     },
     "05026": {
@@ -129,84 +89,24 @@
         "code": "05026",
         "parent_code": "153"
     },
-    "05029": {
-        "name": "Hạ Bì",
-        "type": "xa",
-        "slug": "ha-bi",
-        "name_with_type": "Xã Hạ Bì",
-        "path": "Hạ Bì, Kim Bôi, Hoà Bình",
-        "path_with_type": "Xã Hạ Bì, Huyện Kim Bôi, Tỉnh Hoà Bình",
-        "code": "05029",
-        "parent_code": "153"
-    },
-    "05032": {
-        "name": "Trung Bì",
-        "type": "xa",
-        "slug": "trung-bi",
-        "name_with_type": "Xã Trung Bì",
-        "path": "Trung Bì, Kim Bôi, Hoà Bình",
-        "path_with_type": "Xã Trung Bì, Huyện Kim Bôi, Tỉnh Hoà Bình",
-        "code": "05032",
-        "parent_code": "153"
-    },
     "05035": {
-        "name": "Kim Sơn",
+        "name": "Kim Lập",
         "type": "xa",
-        "slug": "kim-son",
-        "name_with_type": "Xã Kim Sơn",
-        "path": "Kim Sơn, Kim Bôi, Hoà Bình",
-        "path_with_type": "Xã Kim Sơn, Huyện Kim Bôi, Tỉnh Hoà Bình",
+        "slug": "kim-lap",
+        "name_with_type": "Xã Kim Lập",
+        "path": "Kim Lập, Kim Bôi, Hoà Bình",
+        "path_with_type": "Xã Kim Lập, Huyện Kim Bôi, Tỉnh Hoà Bình",
         "code": "05035",
         "parent_code": "153"
     },
-    "05038": {
-        "name": "Hợp Đồng",
-        "type": "xa",
-        "slug": "hop-dong",
-        "name_with_type": "Xã Hợp Đồng",
-        "path": "Hợp Đồng, Kim Bôi, Hoà Bình",
-        "path_with_type": "Xã Hợp Đồng, Huyện Kim Bôi, Tỉnh Hoà Bình",
-        "code": "05038",
-        "parent_code": "153"
-    },
     "05044": {
-        "name": "Thượng Tiến",
+        "name": "Hợp Tiến",
         "type": "xa",
-        "slug": "thuong-tien",
-        "name_with_type": "Xã Thượng Tiến",
-        "path": "Thượng Tiến, Kim Bôi, Hoà Bình",
-        "path_with_type": "Xã Thượng Tiến, Huyện Kim Bôi, Tỉnh Hoà Bình",
+        "slug": "hop-tien",
+        "name_with_type": "Xã Hợp Tiến",
+        "path": "Hợp Tiến, Kim Bôi, Hoà Bình",
+        "path_with_type": "Xã Hợp Tiến, Huyện Kim Bôi, Tỉnh Hoà Bình",
         "code": "05044",
-        "parent_code": "153"
-    },
-    "05050": {
-        "name": "Kim Tiến",
-        "type": "xa",
-        "slug": "kim-tien",
-        "name_with_type": "Xã Kim Tiến",
-        "path": "Kim Tiến, Kim Bôi, Hoà Bình",
-        "path_with_type": "Xã Kim Tiến, Huyện Kim Bôi, Tỉnh Hoà Bình",
-        "code": "05050",
-        "parent_code": "153"
-    },
-    "05053": {
-        "name": "Kim Bình",
-        "type": "xa",
-        "slug": "kim-binh",
-        "name_with_type": "Xã Kim Bình",
-        "path": "Kim Bình, Kim Bôi, Hoà Bình",
-        "path_with_type": "Xã Kim Bình, Huyện Kim Bôi, Tỉnh Hoà Bình",
-        "code": "05053",
-        "parent_code": "153"
-    },
-    "05056": {
-        "name": "Hợp Kim",
-        "type": "xa",
-        "slug": "hop-kim",
-        "name_with_type": "Xã Hợp Kim",
-        "path": "Hợp Kim, Kim Bôi, Hoà Bình",
-        "path_with_type": "Xã Hợp Kim, Huyện Kim Bôi, Tỉnh Hoà Bình",
-        "code": "05056",
         "parent_code": "153"
     },
     "05065": {
@@ -227,16 +127,6 @@
         "path": "Nam Thượng, Kim Bôi, Hoà Bình",
         "path_with_type": "Xã Nam Thượng, Huyện Kim Bôi, Tỉnh Hoà Bình",
         "code": "05068",
-        "parent_code": "153"
-    },
-    "05071": {
-        "name": "Kim Truy",
-        "type": "xa",
-        "slug": "kim-truy",
-        "name_with_type": "Xã Kim Truy",
-        "path": "Kim Truy, Kim Bôi, Hoà Bình",
-        "path_with_type": "Xã Kim Truy, Huyện Kim Bôi, Tỉnh Hoà Bình",
-        "code": "05071",
         "parent_code": "153"
     },
     "05077": {

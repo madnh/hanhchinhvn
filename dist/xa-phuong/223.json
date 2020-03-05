@@ -99,16 +99,6 @@
         "code": "07837",
         "parent_code": "223"
     },
-    "07840": {
-        "name": "Đức Thắng",
-        "type": "xa",
-        "slug": "duc-thang",
-        "name_with_type": "Xã Đức Thắng",
-        "path": "Đức Thắng, Hiệp Hòa, Bắc Giang",
-        "path_with_type": "Xã Đức Thắng, Huyện Hiệp Hòa, Tỉnh Bắc Giang",
-        "code": "07840",
-        "parent_code": "223"
-    },
     "07843": {
         "name": "Quang Minh",
         "type": "xa",

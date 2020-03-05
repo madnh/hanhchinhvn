@@ -59,16 +59,6 @@
         "code": "22060",
         "parent_code": "557"
     },
-    "22063": {
-        "name": "Xuân Hòa",
-        "type": "xa",
-        "slug": "xuan-hoa",
-        "name_with_type": "Xã Xuân Hòa",
-        "path": "Xuân Hòa, Sông Cầu, Phú Yên",
-        "path_with_type": "Xã Xuân Hòa, Thị xã Sông Cầu, Tỉnh Phú Yên",
-        "code": "22063",
-        "parent_code": "557"
-    },
     "22066": {
         "name": "Xuân Cảnh",
         "type": "xa",

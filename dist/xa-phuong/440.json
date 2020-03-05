@@ -10,43 +10,23 @@
         "parent_code": "440"
     },
     "18232": {
-        "name": "Đức Quang",
+        "name": "Quang Vĩnh",
         "type": "xa",
-        "slug": "duc-quang",
-        "name_with_type": "Xã Đức Quang",
-        "path": "Đức Quang, Đức Thọ, Hà Tĩnh",
-        "path_with_type": "Xã Đức Quang, Huyện Đức Thọ, Tỉnh Hà Tĩnh",
+        "slug": "quang-vinh",
+        "name_with_type": "Xã Quang Vĩnh",
+        "path": "Quang Vĩnh, Đức Thọ, Hà Tĩnh",
+        "path_with_type": "Xã Quang Vĩnh, Huyện Đức Thọ, Tỉnh Hà Tĩnh",
         "code": "18232",
         "parent_code": "440"
     },
-    "18235": {
-        "name": "Đức Vĩnh",
-        "type": "xa",
-        "slug": "duc-vinh",
-        "name_with_type": "Xã Đức Vĩnh",
-        "path": "Đức Vĩnh, Đức Thọ, Hà Tĩnh",
-        "path_with_type": "Xã Đức Vĩnh, Huyện Đức Thọ, Tỉnh Hà Tĩnh",
-        "code": "18235",
-        "parent_code": "440"
-    },
     "18238": {
-        "name": "Đức Châu",
+        "name": "Tùng Châu",
         "type": "xa",
-        "slug": "duc-chau",
-        "name_with_type": "Xã Đức Châu",
-        "path": "Đức Châu, Đức Thọ, Hà Tĩnh",
-        "path_with_type": "Xã Đức Châu, Huyện Đức Thọ, Tỉnh Hà Tĩnh",
+        "slug": "tung-chau",
+        "name_with_type": "Xã Tùng Châu",
+        "path": "Tùng Châu, Đức Thọ, Hà Tĩnh",
+        "path_with_type": "Xã Tùng Châu, Huyện Đức Thọ, Tỉnh Hà Tĩnh",
         "code": "18238",
-        "parent_code": "440"
-    },
-    "18241": {
-        "name": "Đức Tùng",
-        "type": "xa",
-        "slug": "duc-tung",
-        "name_with_type": "Xã Đức Tùng",
-        "path": "Đức Tùng, Đức Thọ, Hà Tĩnh",
-        "path_with_type": "Xã Đức Tùng, Huyện Đức Thọ, Tỉnh Hà Tĩnh",
-        "code": "18241",
         "parent_code": "440"
     },
     "18244": {
@@ -69,16 +49,6 @@
         "code": "18247",
         "parent_code": "440"
     },
-    "18250": {
-        "name": "Đức La",
-        "type": "xa",
-        "slug": "duc-la",
-        "name_with_type": "Xã Đức La",
-        "path": "Đức La, Đức Thọ, Hà Tĩnh",
-        "path_with_type": "Xã Đức La, Huyện Đức Thọ, Tỉnh Hà Tĩnh",
-        "code": "18250",
-        "parent_code": "440"
-    },
     "18253": {
         "name": "Yên Hồ",
         "type": "xa",
@@ -87,16 +57,6 @@
         "path": "Yên Hồ, Đức Thọ, Hà Tĩnh",
         "path_with_type": "Xã Yên Hồ, Huyện Đức Thọ, Tỉnh Hà Tĩnh",
         "code": "18253",
-        "parent_code": "440"
-    },
-    "18256": {
-        "name": "Đức Nhân",
-        "type": "xa",
-        "slug": "duc-nhan",
-        "name_with_type": "Xã Đức Nhân",
-        "path": "Đức Nhân, Đức Thọ, Hà Tĩnh",
-        "path_with_type": "Xã Đức Nhân, Huyện Đức Thọ, Tỉnh Hà Tĩnh",
-        "code": "18256",
         "parent_code": "440"
     },
     "18259": {
@@ -110,143 +70,63 @@
         "parent_code": "440"
     },
     "18262": {
-        "name": "Bùi Xá",
+        "name": "Bùi La Nhân",
         "type": "xa",
-        "slug": "bui-xa",
-        "name_with_type": "Xã Bùi Xá",
-        "path": "Bùi Xá, Đức Thọ, Hà Tĩnh",
-        "path_with_type": "Xã Bùi Xá, Huyện Đức Thọ, Tỉnh Hà Tĩnh",
+        "slug": "bui-la-nhan",
+        "name_with_type": "Xã Bùi La Nhân",
+        "path": "Bùi La Nhân, Đức Thọ, Hà Tĩnh",
+        "path_with_type": "Xã Bùi La Nhân, Huyện Đức Thọ, Tỉnh Hà Tĩnh",
         "code": "18262",
         "parent_code": "440"
     },
-    "18265": {
-        "name": "Đức Thịnh",
-        "type": "xa",
-        "slug": "duc-thinh",
-        "name_with_type": "Xã Đức Thịnh",
-        "path": "Đức Thịnh, Đức Thọ, Hà Tĩnh",
-        "path_with_type": "Xã Đức Thịnh, Huyện Đức Thọ, Tỉnh Hà Tĩnh",
-        "code": "18265",
-        "parent_code": "440"
-    },
-    "18268": {
-        "name": "Đức Yên",
-        "type": "xa",
-        "slug": "duc-yen",
-        "name_with_type": "Xã Đức Yên",
-        "path": "Đức Yên, Đức Thọ, Hà Tĩnh",
-        "path_with_type": "Xã Đức Yên, Huyện Đức Thọ, Tỉnh Hà Tĩnh",
-        "code": "18268",
-        "parent_code": "440"
-    },
-    "18271": {
-        "name": "Đức Thủy",
-        "type": "xa",
-        "slug": "duc-thuy",
-        "name_with_type": "Xã Đức Thủy",
-        "path": "Đức Thủy, Đức Thọ, Hà Tĩnh",
-        "path_with_type": "Xã Đức Thủy, Huyện Đức Thọ, Tỉnh Hà Tĩnh",
-        "code": "18271",
-        "parent_code": "440"
-    },
-    "18274": {
-        "name": "Thái Yên",
-        "type": "xa",
-        "slug": "thai-yen",
-        "name_with_type": "Xã Thái Yên",
-        "path": "Thái Yên, Đức Thọ, Hà Tĩnh",
-        "path_with_type": "Xã Thái Yên, Huyện Đức Thọ, Tỉnh Hà Tĩnh",
-        "code": "18274",
-        "parent_code": "440"
-    },
-    "18277": {
-        "name": "Trung Lễ",
-        "type": "xa",
-        "slug": "trung-le",
-        "name_with_type": "Xã Trung Lễ",
-        "path": "Trung Lễ, Đức Thọ, Hà Tĩnh",
-        "path_with_type": "Xã Trung Lễ, Huyện Đức Thọ, Tỉnh Hà Tĩnh",
-        "code": "18277",
-        "parent_code": "440"
-    },
     "18280": {
-        "name": "Đức Hòa",
+        "name": "Hòa Lạc",
         "type": "xa",
-        "slug": "duc-hoa",
-        "name_with_type": "Xã Đức Hòa",
-        "path": "Đức Hòa, Đức Thọ, Hà Tĩnh",
-        "path_with_type": "Xã Đức Hòa, Huyện Đức Thọ, Tỉnh Hà Tĩnh",
+        "slug": "hoa-lac",
+        "name_with_type": "Xã Hòa Lạc",
+        "path": "Hòa Lạc, Đức Thọ, Hà Tĩnh",
+        "path_with_type": "Xã Hòa Lạc, Huyện Đức Thọ, Tỉnh Hà Tĩnh",
         "code": "18280",
         "parent_code": "440"
     },
     "18283": {
-        "name": "Đức Long",
+        "name": "Tân Dân",
         "type": "xa",
-        "slug": "duc-long",
-        "name_with_type": "Xã Đức Long",
-        "path": "Đức Long, Đức Thọ, Hà Tĩnh",
-        "path_with_type": "Xã Đức Long, Huyện Đức Thọ, Tỉnh Hà Tĩnh",
+        "slug": "tan-dan",
+        "name_with_type": "Xã Tân Dân",
+        "path": "Tân Dân, Đức Thọ, Hà Tĩnh",
+        "path_with_type": "Xã Tân Dân, Huyện Đức Thọ, Tỉnh Hà Tĩnh",
         "code": "18283",
         "parent_code": "440"
     },
     "18286": {
-        "name": "Đức Lâm",
+        "name": "Lâm Trung Thủy",
         "type": "xa",
-        "slug": "duc-lam",
-        "name_with_type": "Xã Đức Lâm",
-        "path": "Đức Lâm, Đức Thọ, Hà Tĩnh",
-        "path_with_type": "Xã Đức Lâm, Huyện Đức Thọ, Tỉnh Hà Tĩnh",
+        "slug": "lam-trung-thuy",
+        "name_with_type": "Xã Lâm Trung Thủy",
+        "path": "Lâm Trung Thủy, Đức Thọ, Hà Tĩnh",
+        "path_with_type": "Xã Lâm Trung Thủy, Huyện Đức Thọ, Tỉnh Hà Tĩnh",
         "code": "18286",
         "parent_code": "440"
     },
     "18289": {
-        "name": "Đức Thanh",
+        "name": "Thanh Bình Thịnh",
         "type": "xa",
-        "slug": "duc-thanh",
-        "name_with_type": "Xã Đức Thanh",
-        "path": "Đức Thanh, Đức Thọ, Hà Tĩnh",
-        "path_with_type": "Xã Đức Thanh, Huyện Đức Thọ, Tỉnh Hà Tĩnh",
+        "slug": "thanh-binh-thinh",
+        "name_with_type": "Xã Thanh Bình Thịnh",
+        "path": "Thanh Bình Thịnh, Đức Thọ, Hà Tĩnh",
+        "path_with_type": "Xã Thanh Bình Thịnh, Huyện Đức Thọ, Tỉnh Hà Tĩnh",
         "code": "18289",
         "parent_code": "440"
     },
-    "18292": {
-        "name": "Đức Dũng",
-        "type": "xa",
-        "slug": "duc-dung",
-        "name_with_type": "Xã Đức Dũng",
-        "path": "Đức Dũng, Đức Thọ, Hà Tĩnh",
-        "path_with_type": "Xã Đức Dũng, Huyện Đức Thọ, Tỉnh Hà Tĩnh",
-        "code": "18292",
-        "parent_code": "440"
-    },
-    "18295": {
-        "name": "Đức Lập",
-        "type": "xa",
-        "slug": "duc-lap",
-        "name_with_type": "Xã Đức Lập",
-        "path": "Đức Lập, Đức Thọ, Hà Tĩnh",
-        "path_with_type": "Xã Đức Lập, Huyện Đức Thọ, Tỉnh Hà Tĩnh",
-        "code": "18295",
-        "parent_code": "440"
-    },
     "18298": {
-        "name": "Đức An",
+        "name": "An Dũng",
         "type": "xa",
-        "slug": "duc-an",
-        "name_with_type": "Xã Đức An",
-        "path": "Đức An, Đức Thọ, Hà Tĩnh",
-        "path_with_type": "Xã Đức An, Huyện Đức Thọ, Tỉnh Hà Tĩnh",
+        "slug": "an-dung",
+        "name_with_type": "Xã An Dũng",
+        "path": "An Dũng, Đức Thọ, Hà Tĩnh",
+        "path_with_type": "Xã An Dũng, Huyện Đức Thọ, Tỉnh Hà Tĩnh",
         "code": "18298",
-        "parent_code": "440"
-    },
-    "18301": {
-        "name": "Đức Lạc",
-        "type": "xa",
-        "slug": "duc-lac",
-        "name_with_type": "Xã Đức Lạc",
-        "path": "Đức Lạc, Đức Thọ, Hà Tĩnh",
-        "path_with_type": "Xã Đức Lạc, Huyện Đức Thọ, Tỉnh Hà Tĩnh",
-        "code": "18301",
         "parent_code": "440"
     },
     "18304": {

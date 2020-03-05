@@ -189,16 +189,6 @@
         "code": "01075",
         "parent_code": "032"
     },
-    "01078": {
-        "name": "Bản Péo",
-        "type": "xa",
-        "slug": "ban-peo",
-        "name_with_type": "Xã Bản Péo",
-        "path": "Bản Péo, Hoàng Su Phì, Hà Giang",
-        "path_with_type": "Xã Bản Péo, Huyện Hoàng Su Phì, Tỉnh Hà Giang",
-        "code": "01078",
-        "parent_code": "032"
-    },
     "01081": {
         "name": "Hồ Thầu",
         "type": "xa",

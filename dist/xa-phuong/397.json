@@ -99,26 +99,6 @@
         "code": "15691",
         "parent_code": "397"
     },
-    "15694": {
-        "name": "Minh Dân",
-        "type": "xa",
-        "slug": "minh-dan",
-        "name_with_type": "Xã Minh Dân",
-        "path": "Minh Dân, Triệu Sơn, Thanh Hóa",
-        "path_with_type": "Xã Minh Dân, Huyện Triệu Sơn, Tỉnh Thanh Hóa",
-        "code": "15694",
-        "parent_code": "397"
-    },
-    "15697": {
-        "name": "Minh Châu",
-        "type": "xa",
-        "slug": "minh-chau",
-        "name_with_type": "Xã Minh Châu",
-        "path": "Minh Châu, Triệu Sơn, Thanh Hóa",
-        "path_with_type": "Xã Minh Châu, Huyện Triệu Sơn, Tỉnh Thanh Hóa",
-        "code": "15697",
-        "parent_code": "397"
-    },
     "15700": {
         "name": "Dân Lực",
         "type": "xa",
@@ -180,12 +160,12 @@
         "parent_code": "397"
     },
     "15718": {
-        "name": "Tân Ninh",
-        "type": "xa",
-        "slug": "tan-ninh",
-        "name_with_type": "Xã Tân Ninh",
-        "path": "Tân Ninh, Triệu Sơn, Thanh Hóa",
-        "path_with_type": "Xã Tân Ninh, Huyện Triệu Sơn, Tỉnh Thanh Hóa",
+        "name": "Nưa",
+        "type": "thi-tran",
+        "slug": "nua",
+        "name_with_type": "Thị trấn Nưa",
+        "path": "Nưa, Triệu Sơn, Thanh Hóa",
+        "path_with_type": "Thị trấn Nưa, Huyện Triệu Sơn, Tỉnh Thanh Hóa",
         "code": "15718",
         "parent_code": "397"
     },

@@ -19,16 +19,6 @@
         "code": "15190",
         "parent_code": "391"
     },
-    "15193": {
-        "name": "Thạch Tân",
-        "type": "xa",
-        "slug": "thach-tan",
-        "name_with_type": "Xã Thạch Tân",
-        "path": "Thạch Tân, Thạch Thành, Thanh Hóa",
-        "path_with_type": "Xã Thạch Tân, Huyện Thạch Thành, Tỉnh Thanh Hóa",
-        "code": "15193",
-        "parent_code": "391"
-    },
     "15196": {
         "name": "Thạch Lâm",
         "type": "xa",
@@ -189,16 +179,6 @@
         "code": "15241",
         "parent_code": "391"
     },
-    "15244": {
-        "name": "Thành Vân",
-        "type": "xa",
-        "slug": "thanh-van",
-        "name_with_type": "Xã Thành Vân",
-        "path": "Thành Vân, Thạch Thành, Thanh Hóa",
-        "path_with_type": "Xã Thành Vân, Huyện Thạch Thành, Tỉnh Thanh Hóa",
-        "code": "15244",
-        "parent_code": "391"
-    },
     "15247": {
         "name": "Thành Tâm",
         "type": "xa",
@@ -247,16 +227,6 @@
         "path": "Thành Long, Thạch Thành, Thanh Hóa",
         "path_with_type": "Xã Thành Long, Huyện Thạch Thành, Tỉnh Thanh Hóa",
         "code": "15259",
-        "parent_code": "391"
-    },
-    "15262": {
-        "name": "Thành Kim",
-        "type": "xa",
-        "slug": "thanh-kim",
-        "name_with_type": "Xã Thành Kim",
-        "path": "Thành Kim, Thạch Thành, Thanh Hóa",
-        "path_with_type": "Xã Thành Kim, Huyện Thạch Thành, Tỉnh Thanh Hóa",
-        "code": "15262",
         "parent_code": "391"
     },
     "15265": {

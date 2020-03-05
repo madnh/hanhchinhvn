@@ -1,14 +1,4 @@
 {
-    "02428": {
-        "name": "Tân Bình",
-        "type": "thi-tran",
-        "slug": "tan-binh",
-        "name_with_type": "Thị trấn Tân Bình",
-        "path": "Tân Bình, Yên Sơn, Tuyên Quang",
-        "path_with_type": "Thị trấn Tân Bình, Huyện Yên Sơn, Tỉnh Tuyên Quang",
-        "code": "02428",
-        "parent_code": "075"
-    },
     "02431": {
         "name": "Quí Quân",
         "type": "xa",
@@ -229,16 +219,6 @@
         "code": "02494",
         "parent_code": "075"
     },
-    "02497": {
-        "name": "Kim Phú",
-        "type": "xa",
-        "slug": "kim-phu",
-        "name_with_type": "Xã Kim Phú",
-        "path": "Kim Phú, Yên Sơn, Tuyên Quang",
-        "path_with_type": "Xã Kim Phú, Huyện Yên Sơn, Tỉnh Tuyên Quang",
-        "code": "02497",
-        "parent_code": "075"
-    },
     "02500": {
         "name": "Tiến Bộ",
         "type": "xa",
@@ -257,16 +237,6 @@
         "path": "Mỹ Bằng, Yên Sơn, Tuyên Quang",
         "path_with_type": "Xã Mỹ Bằng, Huyện Yên Sơn, Tỉnh Tuyên Quang",
         "code": "02506",
-        "parent_code": "075"
-    },
-    "02509": {
-        "name": "Phú Lâm",
-        "type": "xa",
-        "slug": "phu-lam",
-        "name_with_type": "Xã Phú Lâm",
-        "path": "Phú Lâm, Yên Sơn, Tuyên Quang",
-        "path_with_type": "Xã Phú Lâm, Huyện Yên Sơn, Tỉnh Tuyên Quang",
-        "code": "02509",
         "parent_code": "075"
     },
     "02518": {

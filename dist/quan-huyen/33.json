@@ -41,11 +41,11 @@
     },
     "328": {
         "name": "Mỹ Hào",
-        "type": "huyen",
+        "type": "thi-xa",
         "slug": "my-hao",
-        "name_with_type": "Huyện Mỹ Hào",
+        "name_with_type": "Thị xã Mỹ Hào",
         "path": "Mỹ Hào, Hưng Yên",
-        "path_with_type": "Huyện Mỹ Hào, Tỉnh Hưng Yên",
+        "path_with_type": "Thị xã Mỹ Hào, Tỉnh Hưng Yên",
         "code": "328",
         "parent_code": "33"
     },

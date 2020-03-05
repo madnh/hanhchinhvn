@@ -99,16 +99,6 @@
         "code": "17737",
         "parent_code": "428"
     },
-    "17740": {
-        "name": "Thanh Hưng",
-        "type": "xa",
-        "slug": "thanh-hung",
-        "name_with_type": "Xã Thanh Hưng",
-        "path": "Thanh Hưng, Thanh Chương, Nghệ An",
-        "path_with_type": "Xã Thanh Hưng, Huyện Thanh Chương, Tỉnh Nghệ An",
-        "code": "17740",
-        "parent_code": "428"
-    },
     "17743": {
         "name": "Thanh Liên",
         "type": "xa",
@@ -119,23 +109,13 @@
         "code": "17743",
         "parent_code": "428"
     },
-    "17746": {
-        "name": "Thanh Tường",
-        "type": "xa",
-        "slug": "thanh-tuong",
-        "name_with_type": "Xã Thanh Tường",
-        "path": "Thanh Tường, Thanh Chương, Nghệ An",
-        "path_with_type": "Xã Thanh Tường, Huyện Thanh Chương, Tỉnh Nghệ An",
-        "code": "17746",
-        "parent_code": "428"
-    },
     "17749": {
-        "name": "Thanh Văn",
+        "name": "Đại Đồng",
         "type": "xa",
-        "slug": "thanh-van",
-        "name_with_type": "Xã Thanh Văn",
-        "path": "Thanh Văn, Thanh Chương, Nghệ An",
-        "path_with_type": "Xã Thanh Văn, Huyện Thanh Chương, Tỉnh Nghệ An",
+        "slug": "dai-dong",
+        "name_with_type": "Xã Đại Đồng",
+        "path": "Đại Đồng, Thanh Chương, Nghệ An",
+        "path_with_type": "Xã Đại Đồng, Huyện Thanh Chương, Tỉnh Nghệ An",
         "code": "17749",
         "parent_code": "428"
     },

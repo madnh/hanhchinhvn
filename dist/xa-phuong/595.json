@@ -108,15 +108,5 @@
         "path_with_type": "Xã Bình Thạnh, Huyện Tuy Phong, Tỉnh Bình Thuận",
         "code": "22999",
         "parent_code": "595"
-    },
-    "23002": {
-        "name": "Hòa Phú",
-        "type": "xa",
-        "slug": "hoa-phu",
-        "name_with_type": "Xã Hòa Phú",
-        "path": "Hòa Phú, Tuy Phong, Bình Thuận",
-        "path_with_type": "Xã Hòa Phú, Huyện Tuy Phong, Tỉnh Bình Thuận",
-        "code": "23002",
-        "parent_code": "595"
     }
 }

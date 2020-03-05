@@ -1,11 +1,11 @@
 {
     "23404": {
-        "name": "Ngọk Lây",
+        "name": "Ngọc Lây",
         "type": "xa",
-        "slug": "ngok-lay",
-        "name_with_type": "Xã Ngọk Lây",
-        "path": "Ngọk Lây, Tu Mơ Rông, Kon Tum",
-        "path_with_type": "Xã Ngọk Lây, Huyện Tu Mơ Rông, Tỉnh Kon Tum",
+        "slug": "ngoc-lay",
+        "name_with_type": "Xã Ngọc Lây",
+        "path": "Ngọc Lây, Tu Mơ Rông, Kon Tum",
+        "path_with_type": "Xã Ngọc Lây, Huyện Tu Mơ Rông, Tỉnh Kon Tum",
         "code": "23404",
         "parent_code": "617"
     },
@@ -30,12 +30,12 @@
         "parent_code": "617"
     },
     "23413": {
-        "name": "Ngok Yêu",
+        "name": "Ngọc Yêu",
         "type": "xa",
-        "slug": "ngok-yeu",
-        "name_with_type": "Xã Ngok Yêu",
-        "path": "Ngok Yêu, Tu Mơ Rông, Kon Tum",
-        "path_with_type": "Xã Ngok Yêu, Huyện Tu Mơ Rông, Tỉnh Kon Tum",
+        "slug": "ngoc-yeu",
+        "name_with_type": "Xã Ngọc Yêu",
+        "path": "Ngọc Yêu, Tu Mơ Rông, Kon Tum",
+        "path_with_type": "Xã Ngọc Yêu, Huyện Tu Mơ Rông, Tỉnh Kon Tum",
         "code": "23413",
         "parent_code": "617"
     },
@@ -60,12 +60,12 @@
         "parent_code": "617"
     },
     "23419": {
-        "name": "Đắk Tơ Kan",
+        "name": "Đắk Tờ Kan",
         "type": "xa",
         "slug": "dak-to-kan",
-        "name_with_type": "Xã Đắk Tơ Kan",
-        "path": "Đắk Tơ Kan, Tu Mơ Rông, Kon Tum",
-        "path_with_type": "Xã Đắk Tơ Kan, Huyện Tu Mơ Rông, Tỉnh Kon Tum",
+        "name_with_type": "Xã Đắk Tờ Kan",
+        "path": "Đắk Tờ Kan, Tu Mơ Rông, Kon Tum",
+        "path_with_type": "Xã Đắk Tờ Kan, Huyện Tu Mơ Rông, Tỉnh Kon Tum",
         "code": "23419",
         "parent_code": "617"
     },

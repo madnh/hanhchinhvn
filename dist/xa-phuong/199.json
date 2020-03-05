@@ -29,16 +29,6 @@
         "code": "06868",
         "parent_code": "199"
     },
-    "06869": {
-        "name": "Đại Thành",
-        "type": "xa",
-        "slug": "dai-thanh",
-        "name_with_type": "Xã Đại Thành",
-        "path": "Đại Thành, Tiên Yên, Quảng Ninh",
-        "path_with_type": "Xã Đại Thành, Huyện Tiên Yên, Tỉnh Quảng Ninh",
-        "code": "06869",
-        "parent_code": "199"
-    },
     "06871": {
         "name": "Phong Dụ",
         "type": "xa",

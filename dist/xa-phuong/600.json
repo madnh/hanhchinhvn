@@ -59,16 +59,6 @@
         "code": "23206",
         "parent_code": "600"
     },
-    "23209": {
-        "name": "Đức Chính",
-        "type": "xa",
-        "slug": "duc-chinh",
-        "name_with_type": "Xã Đức Chính",
-        "path": "Đức Chính, Đức Linh, Bình Thuận",
-        "path_with_type": "Xã Đức Chính, Huyện Đức Linh, Tỉnh Bình Thuận",
-        "code": "23209",
-        "parent_code": "600"
-    },
     "23212": {
         "name": "Đức Hạnh",
         "type": "xa",

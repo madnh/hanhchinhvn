@@ -1,11 +1,11 @@
 {
     "07234": {
-        "name": "Cầu Gồ",
+        "name": "Phồn Xương",
         "type": "thi-tran",
-        "slug": "cau-go",
-        "name_with_type": "Thị trấn Cầu Gồ",
-        "path": "Cầu Gồ, Yên Thế, Bắc Giang",
-        "path_with_type": "Thị trấn Cầu Gồ, Huyện Yên Thế, Tỉnh Bắc Giang",
+        "slug": "phon-xuong",
+        "name_with_type": "Thị trấn Phồn Xương",
+        "path": "Phồn Xương, Yên Thế, Bắc Giang",
+        "path_with_type": "Thị trấn Phồn Xương, Huyện Yên Thế, Tỉnh Bắc Giang",
         "code": "07234",
         "parent_code": "215"
     },
@@ -179,16 +179,6 @@
         "code": "07285",
         "parent_code": "215"
     },
-    "07288": {
-        "name": "Phồn Xương",
-        "type": "xa",
-        "slug": "phon-xuong",
-        "name_with_type": "Xã Phồn Xương",
-        "path": "Phồn Xương, Yên Thế, Bắc Giang",
-        "path_with_type": "Xã Phồn Xương, Huyện Yên Thế, Tỉnh Bắc Giang",
-        "code": "07288",
-        "parent_code": "215"
-    },
     "07291": {
         "name": "Tân Sỏi",
         "type": "xa",
@@ -197,16 +187,6 @@
         "path": "Tân Sỏi, Yên Thế, Bắc Giang",
         "path_with_type": "Xã Tân Sỏi, Huyện Yên Thế, Tỉnh Bắc Giang",
         "code": "07291",
-        "parent_code": "215"
-    },
-    "07294": {
-        "name": "Bố Hạ",
-        "type": "xa",
-        "slug": "bo-ha",
-        "name_with_type": "Xã Bố Hạ",
-        "path": "Bố Hạ, Yên Thế, Bắc Giang",
-        "path_with_type": "Xã Bố Hạ, Huyện Yên Thế, Tỉnh Bắc Giang",
-        "code": "07294",
         "parent_code": "215"
     }
 }

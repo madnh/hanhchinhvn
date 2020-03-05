@@ -149,16 +149,6 @@
         "code": "02578",
         "parent_code": "076"
     },
-    "02581": {
-        "name": "Thanh Phát",
-        "type": "xa",
-        "slug": "thanh-phat",
-        "name_with_type": "Xã Thanh Phát",
-        "path": "Thanh Phát, Sơn Dương, Tuyên Quang",
-        "path_with_type": "Xã Thanh Phát, Huyện Sơn Dương, Tỉnh Tuyên Quang",
-        "code": "02581",
-        "parent_code": "076"
-    },
     "02584": {
         "name": "Quyết Thắng",
         "type": "xa",
@@ -180,12 +170,12 @@
         "parent_code": "076"
     },
     "02590": {
-        "name": "Tuân Lộ",
+        "name": "Tân Thanh",
         "type": "xa",
-        "slug": "tuan-lo",
-        "name_with_type": "Xã Tuân Lộ",
-        "path": "Tuân Lộ, Sơn Dương, Tuyên Quang",
-        "path_with_type": "Xã Tuân Lộ, Huyện Sơn Dương, Tỉnh Tuyên Quang",
+        "slug": "tan-thanh",
+        "name_with_type": "Xã Tân Thanh",
+        "path": "Tân Thanh, Sơn Dương, Tuyên Quang",
+        "path_with_type": "Xã Tân Thanh, Huyện Sơn Dương, Tỉnh Tuyên Quang",
         "code": "02590",
         "parent_code": "076"
     },
@@ -309,23 +299,13 @@
         "code": "02626",
         "parent_code": "076"
     },
-    "02629": {
-        "name": "Sầm Dương",
-        "type": "xa",
-        "slug": "sam-duong",
-        "name_with_type": "Xã Sầm Dương",
-        "path": "Sầm Dương, Sơn Dương, Tuyên Quang",
-        "path_with_type": "Xã Sầm Dương, Huyện Sơn Dương, Tỉnh Tuyên Quang",
-        "code": "02629",
-        "parent_code": "076"
-    },
     "02632": {
-        "name": "Lâm Xuyên",
+        "name": "Trường Sinh",
         "type": "xa",
-        "slug": "lam-xuyen",
-        "name_with_type": "Xã Lâm Xuyên",
-        "path": "Lâm Xuyên, Sơn Dương, Tuyên Quang",
-        "path_with_type": "Xã Lâm Xuyên, Huyện Sơn Dương, Tỉnh Tuyên Quang",
+        "slug": "truong-sinh",
+        "name_with_type": "Xã Trường Sinh",
+        "path": "Trường Sinh, Sơn Dương, Tuyên Quang",
+        "path_with_type": "Xã Trường Sinh, Huyện Sơn Dương, Tỉnh Tuyên Quang",
         "code": "02632",
         "parent_code": "076"
     }

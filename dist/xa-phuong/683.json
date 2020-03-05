@@ -49,33 +49,13 @@
         "code": "25171",
         "parent_code": "683"
     },
-    "25174": {
-        "name": "Mỹ Lâm",
-        "type": "xa",
-        "slug": "my-lam",
-        "name_with_type": "Xã Mỹ Lâm",
-        "path": "Mỹ Lâm, Cát Tiên, Lâm Đồng",
-        "path_with_type": "Xã Mỹ Lâm, Huyện Cát Tiên, Tỉnh Lâm Đồng",
-        "code": "25174",
-        "parent_code": "683"
-    },
-    "25177": {
-        "name": "Tư Nghĩa",
-        "type": "xa",
-        "slug": "tu-nghia",
-        "name_with_type": "Xã Tư Nghĩa",
-        "path": "Tư Nghĩa, Cát Tiên, Lâm Đồng",
-        "path_with_type": "Xã Tư Nghĩa, Huyện Cát Tiên, Tỉnh Lâm Đồng",
-        "code": "25177",
-        "parent_code": "683"
-    },
     "25180": {
-        "name": "Phước Cát 1",
-        "type": "xa",
-        "slug": "phuoc-cat-1",
-        "name_with_type": "Xã Phước Cát 1",
-        "path": "Phước Cát 1, Cát Tiên, Lâm Đồng",
-        "path_with_type": "Xã Phước Cát 1, Huyện Cát Tiên, Tỉnh Lâm Đồng",
+        "name": "Phước Cát",
+        "type": "thi-tran",
+        "slug": "phuoc-cat",
+        "name_with_type": "Thị trấn Phước Cát ",
+        "path": "Phước Cát, Cát Tiên, Lâm Đồng",
+        "path_with_type": "Thị trấn Phước Cát , Huyện Cát Tiên, Tỉnh Lâm Đồng",
         "code": "25180",
         "parent_code": "683"
     },

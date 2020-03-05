@@ -89,16 +89,6 @@
         "code": "15052",
         "parent_code": "388"
     },
-    "15055": {
-        "name": "Quang Hiến",
-        "type": "xa",
-        "slug": "quang-hien",
-        "name_with_type": "Xã Quang Hiến",
-        "path": "Quang Hiến, Lang Chánh, Thanh Hóa",
-        "path_with_type": "Xã Quang Hiến, Huyện Lang Chánh, Tỉnh Thanh Hóa",
-        "code": "15055",
-        "parent_code": "388"
-    },
     "15058": {
         "name": "Đồng Lương",
         "type": "xa",

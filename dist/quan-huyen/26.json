@@ -11,11 +11,11 @@
     },
     "244": {
         "name": "Phúc Yên",
-        "type": "thi-xa",
+        "type": "thanh-pho",
         "slug": "phuc-yen",
-        "name_with_type": "Thị xã Phúc Yên",
+        "name_with_type": "Thành phố Phúc Yên",
         "path": "Phúc Yên, Vĩnh Phúc",
-        "path_with_type": "Thị xã Phúc Yên, Tỉnh Vĩnh Phúc",
+        "path_with_type": "Thành phố Phúc Yên, Tỉnh Vĩnh Phúc",
         "code": "244",
         "parent_code": "26"
     },

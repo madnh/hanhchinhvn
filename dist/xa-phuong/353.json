@@ -100,23 +100,13 @@
         "parent_code": "353"
     },
     "13594": {
-        "name": "Nhân Đạo",
+        "name": "Trần Hưng Đạo",
         "type": "xa",
-        "slug": "nhan-dao",
-        "name_with_type": "Xã Nhân Đạo",
-        "path": "Nhân Đạo, Lý Nhân, Hà Nam",
-        "path_with_type": "Xã Nhân Đạo, Huyện Lý Nhân, Tỉnh Hà Nam",
+        "slug": "tran-hung-dao",
+        "name_with_type": "Xã Trần Hưng Đạo",
+        "path": "Trần Hưng Đạo, Lý Nhân, Hà Nam",
+        "path_with_type": "Xã Trần Hưng Đạo, Huyện Lý Nhân, Tỉnh Hà Nam",
         "code": "13594",
-        "parent_code": "353"
-    },
-    "13597": {
-        "name": "Đồng Lý",
-        "type": "xa",
-        "slug": "dong-ly",
-        "name_with_type": "Xã Đồng Lý",
-        "path": "Đồng Lý, Lý Nhân, Hà Nam",
-        "path_with_type": "Xã Đồng Lý, Huyện Lý Nhân, Tỉnh Hà Nam",
-        "code": "13597",
         "parent_code": "353"
     },
     "13600": {
@@ -127,16 +117,6 @@
         "path": "Nhân Thịnh, Lý Nhân, Hà Nam",
         "path_with_type": "Xã Nhân Thịnh, Huyện Lý Nhân, Tỉnh Hà Nam",
         "code": "13600",
-        "parent_code": "353"
-    },
-    "13603": {
-        "name": "Nhân Hưng",
-        "type": "xa",
-        "slug": "nhan-hung",
-        "name_with_type": "Xã Nhân Hưng",
-        "path": "Nhân Hưng, Lý Nhân, Hà Nam",
-        "path_with_type": "Xã Nhân Hưng, Huyện Lý Nhân, Tỉnh Hà Nam",
-        "code": "13603",
         "parent_code": "353"
     },
     "13606": {

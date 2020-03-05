@@ -29,16 +29,6 @@
         "code": "06331",
         "parent_code": "185"
     },
-    "06334": {
-        "name": "Quỳnh Sơn",
-        "type": "xa",
-        "slug": "quynh-son",
-        "name_with_type": "Xã Quỳnh Sơn",
-        "path": "Quỳnh Sơn, Bắc Sơn, Lạng Sơn",
-        "path_with_type": "Xã Quỳnh Sơn, Huyện Bắc Sơn, Tỉnh Lạng Sơn",
-        "code": "06334",
-        "parent_code": "185"
-    },
     "06337": {
         "name": "Đồng ý",
         "type": "xa",
@@ -60,23 +50,13 @@
         "parent_code": "185"
     },
     "06343": {
-        "name": "Bắc Sơn",
+        "name": "Bắc Quỳnh",
         "type": "xa",
-        "slug": "bac-son",
-        "name_with_type": "Xã Bắc Sơn",
-        "path": "Bắc Sơn, Bắc Sơn, Lạng Sơn",
-        "path_with_type": "Xã Bắc Sơn, Huyện Bắc Sơn, Tỉnh Lạng Sơn",
+        "slug": "bac-quynh",
+        "name_with_type": "Xã Bắc Quỳnh",
+        "path": "Bắc Quỳnh, Bắc Sơn, Lạng Sơn",
+        "path_with_type": "Xã Bắc Quỳnh, Huyện Bắc Sơn, Tỉnh Lạng Sơn",
         "code": "06343",
-        "parent_code": "185"
-    },
-    "06346": {
-        "name": "Hữu Vĩnh",
-        "type": "xa",
-        "slug": "huu-vinh",
-        "name_with_type": "Xã Hữu Vĩnh",
-        "path": "Hữu Vĩnh, Bắc Sơn, Lạng Sơn",
-        "path_with_type": "Xã Hữu Vĩnh, Huyện Bắc Sơn, Tỉnh Lạng Sơn",
-        "code": "06346",
         "parent_code": "185"
     },
     "06349": {

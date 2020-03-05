@@ -79,16 +79,6 @@
         "code": "07774",
         "parent_code": "222"
     },
-    "07777": {
-        "name": "Bích Sơn",
-        "type": "xa",
-        "slug": "bich-son",
-        "name_with_type": "Xã Bích Sơn",
-        "path": "Bích Sơn, Việt Yên, Bắc Giang",
-        "path_with_type": "Xã Bích Sơn, Huyện Việt Yên, Tỉnh Bắc Giang",
-        "code": "07777",
-        "parent_code": "222"
-    },
     "07780": {
         "name": "Trung Sơn",
         "type": "xa",
@@ -137,16 +127,6 @@
         "path": "Quảng Minh, Việt Yên, Bắc Giang",
         "path_with_type": "Xã Quảng Minh, Huyện Việt Yên, Tỉnh Bắc Giang",
         "code": "07792",
-        "parent_code": "222"
-    },
-    "07795": {
-        "name": "Hoàng Ninh",
-        "type": "xa",
-        "slug": "hoang-ninh",
-        "name_with_type": "Xã Hoàng Ninh",
-        "path": "Hoàng Ninh, Việt Yên, Bắc Giang",
-        "path_with_type": "Xã Hoàng Ninh, Huyện Việt Yên, Tỉnh Bắc Giang",
-        "code": "07795",
         "parent_code": "222"
     },
     "07798": {

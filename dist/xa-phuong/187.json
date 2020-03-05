@@ -159,16 +159,6 @@
         "code": "06508",
         "parent_code": "187"
     },
-    "06511": {
-        "name": "Quang Lang",
-        "type": "xa",
-        "slug": "quang-lang",
-        "name_with_type": "Xã Quang Lang",
-        "path": "Quang Lang, Chi Lăng, Lạng Sơn",
-        "path_with_type": "Xã Quang Lang, Huyện Chi Lăng, Tỉnh Lạng Sơn",
-        "code": "06511",
-        "parent_code": "187"
-    },
     "06514": {
         "name": "Hữu Kiên",
         "type": "xa",

@@ -59,16 +59,6 @@
         "code": "25141",
         "parent_code": "682"
     },
-    "25144": {
-        "name": "Hương Lâm",
-        "type": "xa",
-        "slug": "huong-lam",
-        "name_with_type": "Xã Hương Lâm",
-        "path": "Hương Lâm, Đạ Tẻh, Lâm Đồng",
-        "path_with_type": "Xã Hương Lâm, Huyện Đạ Tẻh, Tỉnh Lâm Đồng",
-        "code": "25144",
-        "parent_code": "682"
-    },
     "25147": {
         "name": "Triệu Hải",
         "type": "xa",
@@ -77,16 +67,6 @@
         "path": "Triệu Hải, Đạ Tẻh, Lâm Đồng",
         "path_with_type": "Xã Triệu Hải, Huyện Đạ Tẻh, Tỉnh Lâm Đồng",
         "code": "25147",
-        "parent_code": "682"
-    },
-    "25150": {
-        "name": "Hà Đông",
-        "type": "xa",
-        "slug": "ha-dong",
-        "name_with_type": "Xã Hà Đông",
-        "path": "Hà Đông, Đạ Tẻh, Lâm Đồng",
-        "path_with_type": "Xã Hà Đông, Huyện Đạ Tẻh, Tỉnh Lâm Đồng",
-        "code": "25150",
         "parent_code": "682"
     },
     "25153": {

@@ -10,12 +10,12 @@
         "parent_code": "165"
     },
     "05509": {
-        "name": "Lương Châu",
+        "name": "Châu Sơn",
         "type": "phuong",
-        "slug": "luong-chau",
-        "name_with_type": "Phường Lương Châu",
-        "path": "Lương Châu, Sông Công, Thái Nguyên",
-        "path_with_type": "Phường Lương Châu, Thành phố Sông Công, Tỉnh Thái Nguyên",
+        "slug": "chau-son",
+        "name_with_type": "Phường Châu Sơn",
+        "path": "Châu Sơn, Sông Công, Thái Nguyên",
+        "path_with_type": "Phường Châu Sơn, Thành phố Sông Công, Tỉnh Thái Nguyên",
         "code": "05509",
         "parent_code": "165"
     },
@@ -57,16 +57,6 @@
         "path": "Phố Cò, Sông Công, Thái Nguyên",
         "path_with_type": "Phường Phố Cò, Thành phố Sông Công, Tỉnh Thái Nguyên",
         "code": "05521",
-        "parent_code": "165"
-    },
-    "05524": {
-        "name": "Vinh Sơn",
-        "type": "xa",
-        "slug": "vinh-son",
-        "name_with_type": "Xã Vinh Sơn",
-        "path": "Vinh Sơn, Sông Công, Thái Nguyên",
-        "path_with_type": "Xã Vinh Sơn, Thành phố Sông Công, Tỉnh Thái Nguyên",
-        "code": "05524",
         "parent_code": "165"
     },
     "05527": {

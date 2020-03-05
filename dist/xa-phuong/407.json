@@ -39,16 +39,6 @@
         "code": "16570",
         "parent_code": "407"
     },
-    "16573": {
-        "name": "Triêu Dương",
-        "type": "xa",
-        "slug": "trieu-duong",
-        "name_with_type": "Xã Triêu Dương",
-        "path": "Triêu Dương, Tĩnh Gia, Thanh Hóa",
-        "path_with_type": "Xã Triêu Dương, Huyện Tĩnh Gia, Tỉnh Thanh Hóa",
-        "code": "16573",
-        "parent_code": "407"
-    },
     "16576": {
         "name": "Hải Ninh",
         "type": "xa",
@@ -87,16 +77,6 @@
         "path": "Hải An, Tĩnh Gia, Thanh Hóa",
         "path_with_type": "Xã Hải An, Huyện Tĩnh Gia, Tỉnh Thanh Hóa",
         "code": "16585",
-        "parent_code": "407"
-    },
-    "16588": {
-        "name": "Hùng Sơn",
-        "type": "xa",
-        "slug": "hung-son",
-        "name_with_type": "Xã Hùng Sơn",
-        "path": "Hùng Sơn, Tĩnh Gia, Thanh Hóa",
-        "path_with_type": "Xã Hùng Sơn, Huyện Tĩnh Gia, Tỉnh Thanh Hóa",
-        "code": "16588",
         "parent_code": "407"
     },
     "16591": {
@@ -177,16 +157,6 @@
         "path": "Hải Nhân, Tĩnh Gia, Thanh Hóa",
         "path_with_type": "Xã Hải Nhân, Huyện Tĩnh Gia, Tỉnh Thanh Hóa",
         "code": "16612",
-        "parent_code": "407"
-    },
-    "16615": {
-        "name": "Hải Hòa",
-        "type": "xa",
-        "slug": "hai-hoa",
-        "name_with_type": "Xã Hải Hòa",
-        "path": "Hải Hòa, Tĩnh Gia, Thanh Hóa",
-        "path_with_type": "Xã Hải Hòa, Huyện Tĩnh Gia, Tỉnh Thanh Hóa",
-        "code": "16615",
         "parent_code": "407"
     },
     "16618": {

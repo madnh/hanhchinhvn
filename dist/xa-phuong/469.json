@@ -129,16 +129,6 @@
         "code": "19660",
         "parent_code": "469"
     },
-    "19663": {
-        "name": "Triệu Đông",
-        "type": "xa",
-        "slug": "trieu-dong",
-        "name_with_type": "Xã Triệu Đông",
-        "path": "Triệu Đông, Triệu Phong, Quảng Trị",
-        "path_with_type": "Xã Triệu Đông, Huyện Triệu Phong, Tỉnh Quảng Trị",
-        "code": "19663",
-        "parent_code": "469"
-    },
     "19666": {
         "name": "Triệu Trung",
         "type": "xa",

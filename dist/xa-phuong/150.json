@@ -9,23 +9,13 @@
         "code": "04831",
         "parent_code": "150"
     },
-    "04834": {
-        "name": "Đồng Nghê",
-        "type": "xa",
-        "slug": "dong-nghe",
-        "name_with_type": "Xã Đồng Nghê",
-        "path": "Đồng Nghê, Đà Bắc, Hoà Bình",
-        "path_with_type": "Xã Đồng Nghê, Huyện Đà Bắc, Tỉnh Hoà Bình",
-        "code": "04834",
-        "parent_code": "150"
-    },
     "04837": {
-        "name": "Suối Nánh",
+        "name": "Nánh Nghê",
         "type": "xa",
-        "slug": "suoi-nanh",
-        "name_with_type": "Xã Suối Nánh",
-        "path": "Suối Nánh, Đà Bắc, Hoà Bình",
-        "path_with_type": "Xã Suối Nánh, Huyện Đà Bắc, Tỉnh Hoà Bình",
+        "slug": "nanh-nghe",
+        "name_with_type": "Xã Nánh Nghê",
+        "path": "Nánh Nghê, Đà Bắc, Hoà Bình",
+        "path_with_type": "Xã Nánh Nghê, Huyện Đà Bắc, Tỉnh Hoà Bình",
         "code": "04837",
         "parent_code": "150"
     },
@@ -37,16 +27,6 @@
         "path": "Giáp Đắt, Đà Bắc, Hoà Bình",
         "path_with_type": "Xã Giáp Đắt, Huyện Đà Bắc, Tỉnh Hoà Bình",
         "code": "04840",
-        "parent_code": "150"
-    },
-    "04843": {
-        "name": "Mường Tuổng",
-        "type": "xa",
-        "slug": "muong-tuong",
-        "name_with_type": "Xã Mường Tuổng",
-        "path": "Mường Tuổng, Đà Bắc, Hoà Bình",
-        "path_with_type": "Xã Mường Tuổng, Huyện Đà Bắc, Tỉnh Hoà Bình",
-        "code": "04843",
         "parent_code": "150"
     },
     "04846": {
@@ -109,23 +89,13 @@
         "code": "04861",
         "parent_code": "150"
     },
-    "04864": {
-        "name": "Hào Lý",
-        "type": "xa",
-        "slug": "hao-ly",
-        "name_with_type": "Xã Hào Lý",
-        "path": "Hào Lý, Đà Bắc, Hoà Bình",
-        "path_with_type": "Xã Hào Lý, Huyện Đà Bắc, Tỉnh Hoà Bình",
-        "code": "04864",
-        "parent_code": "150"
-    },
     "04867": {
-        "name": "Tu Lý",
+        "name": "Tú Lý",
         "type": "xa",
         "slug": "tu-ly",
-        "name_with_type": "Xã Tu Lý",
-        "path": "Tu Lý, Đà Bắc, Hoà Bình",
-        "path_with_type": "Xã Tu Lý, Huyện Đà Bắc, Tỉnh Hoà Bình",
+        "name_with_type": "Xã Tú Lý",
+        "path": "Tú Lý, Đà Bắc, Hoà Bình",
+        "path_with_type": "Xã Tú Lý, Huyện Đà Bắc, Tỉnh Hoà Bình",
         "code": "04867",
         "parent_code": "150"
     },
