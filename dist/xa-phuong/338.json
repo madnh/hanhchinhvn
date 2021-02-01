@@ -200,12 +200,12 @@
         "parent_code": "338"
     },
     "12532": {
-        "name": "Quỳnh Sơn",
+        "name": "Châu Sơn",
         "type": "xa",
-        "slug": "quynh-son",
-        "name_with_type": "Xã Quỳnh Sơn",
-        "path": "Quỳnh Sơn, Quỳnh Phụ, Thái Bình",
-        "path_with_type": "Xã Quỳnh Sơn, Huyện Quỳnh Phụ, Tỉnh Thái Bình",
+        "slug": "chau-son",
+        "name_with_type": "Xã Châu Sơn",
+        "path": "Châu Sơn, Quỳnh Phụ, Thái Bình",
+        "path_with_type": "Xã Châu Sơn, Huyện Quỳnh Phụ, Tỉnh Thái Bình",
         "code": "12532",
         "parent_code": "338"
     },
@@ -237,16 +237,6 @@
         "path": "An Thanh, Quỳnh Phụ, Thái Bình",
         "path_with_type": "Xã An Thanh, Huyện Quỳnh Phụ, Tỉnh Thái Bình",
         "code": "12541",
-        "parent_code": "338"
-    },
-    "12544": {
-        "name": "Quỳnh Châu",
-        "type": "xa",
-        "slug": "quynh-chau",
-        "name_with_type": "Xã Quỳnh Châu",
-        "path": "Quỳnh Châu, Quỳnh Phụ, Thái Bình",
-        "path_with_type": "Xã Quỳnh Châu, Huyện Quỳnh Phụ, Tỉnh Thái Bình",
-        "code": "12544",
         "parent_code": "338"
     },
     "12547": {

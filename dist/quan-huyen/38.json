@@ -260,12 +260,12 @@
         "parent_code": "38"
     },
     "407": {
-        "name": "Tĩnh Gia",
-        "type": "huyen",
-        "slug": "tinh-gia",
-        "name_with_type": "Huyện Tĩnh Gia",
-        "path": "Tĩnh Gia, Thanh Hóa",
-        "path_with_type": "Huyện Tĩnh Gia, Tỉnh Thanh Hóa",
+        "name": "Nghi Sơn",
+        "type": "thi-xa",
+        "slug": "nghi-son",
+        "name_with_type": "Thị xã Nghi Sơn",
+        "path": "Nghi Sơn, Thanh Hóa",
+        "path_with_type": "Thị xã Nghi Sơn, Tỉnh Thanh Hóa",
         "code": "407",
         "parent_code": "38"
     }

@@ -110,12 +110,12 @@
         "parent_code": "474"
     },
     "19777": {
-        "name": "Vĩ Dạ",
+        "name": "Vỹ Dạ",
         "type": "phuong",
-        "slug": "vi-da",
-        "name_with_type": "Phường Vĩ Dạ",
-        "path": "Vĩ Dạ, Huế, Thừa Thiên Huế",
-        "path_with_type": "Phường Vĩ Dạ, Thành phố Huế, Tỉnh Thừa Thiên Huế",
+        "slug": "vy-da",
+        "name_with_type": "Phường Vỹ Dạ",
+        "path": "Vỹ Dạ, Huế, Thừa Thiên Huế",
+        "path_with_type": "Phường Vỹ Dạ, Thành phố Huế, Tỉnh Thừa Thiên Huế",
         "code": "19777",
         "parent_code": "474"
     },

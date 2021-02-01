@@ -1,11 +1,11 @@
 {
     "540": {
-        "name": "Qui Nhơn",
+        "name": "Quy Nhơn",
         "type": "thanh-pho",
-        "slug": "qui-nhon",
-        "name_with_type": "Thành phố Qui Nhơn",
-        "path": "Qui Nhơn, Bình Định",
-        "path_with_type": "Thành phố Qui Nhơn, Tỉnh Bình Định",
+        "slug": "quy-nhon",
+        "name_with_type": "Thành phố Quy Nhơn",
+        "path": "Quy Nhơn, Bình Định",
+        "path_with_type": "Thành phố Quy Nhơn, Tỉnh Bình Định",
         "code": "540",
         "parent_code": "52"
     },
@@ -21,11 +21,11 @@
     },
     "543": {
         "name": "Hoài Nhơn",
-        "type": "huyen",
+        "type": "thi-xa",
         "slug": "hoai-nhon",
-        "name_with_type": "Huyện Hoài Nhơn",
+        "name_with_type": "Thị xã Hoài Nhơn",
         "path": "Hoài Nhơn, Bình Định",
-        "path_with_type": "Huyện Hoài Nhơn, Tỉnh Bình Định",
+        "path_with_type": "Thị xã Hoài Nhơn, Tỉnh Bình Định",
         "code": "543",
         "parent_code": "52"
     },

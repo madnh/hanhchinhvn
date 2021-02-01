@@ -129,16 +129,6 @@
         "code": "18937",
         "parent_code": "452"
     },
-    "18940": {
-        "name": "Quy Hóa",
-        "type": "xa",
-        "slug": "quy-hoa",
-        "name_with_type": "Xã Quy Hóa",
-        "path": "Quy Hóa, Minh Hóa, Quảng Bình",
-        "path_with_type": "Xã Quy Hóa, Huyện Minh Hóa, Tỉnh Quảng Bình",
-        "code": "18940",
-        "parent_code": "452"
-    },
     "18943": {
         "name": "Trung Hóa",
         "type": "xa",

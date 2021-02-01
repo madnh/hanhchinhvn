@@ -179,23 +179,13 @@
         "code": "12739",
         "parent_code": "340"
     },
-    "12742": {
-        "name": "Đông Hà",
-        "type": "xa",
-        "slug": "dong-ha",
-        "name_with_type": "Xã Đông Hà",
-        "path": "Đông Hà, Đông Hưng, Thái Bình",
-        "path_with_type": "Xã Đông Hà, Huyện Đông Hưng, Tỉnh Thái Bình",
-        "code": "12742",
-        "parent_code": "340"
-    },
     "12745": {
-        "name": "Đông Giang",
+        "name": "Hà Giang",
         "type": "xa",
-        "slug": "dong-giang",
-        "name_with_type": "Xã Đông Giang",
-        "path": "Đông Giang, Đông Hưng, Thái Bình",
-        "path_with_type": "Xã Đông Giang, Huyện Đông Hưng, Tỉnh Thái Bình",
+        "slug": "ha-giang",
+        "name_with_type": "Xã Hà Giang",
+        "path": "Hà Giang, Đông Hưng, Thái Bình",
+        "path_with_type": "Xã Hà Giang, Huyện Đông Hưng, Tỉnh Thái Bình",
         "code": "12745",
         "parent_code": "340"
     },
@@ -250,23 +240,13 @@
         "parent_code": "340"
     },
     "12763": {
-        "name": "Hoa Lư",
+        "name": "Liên Hoa",
         "type": "xa",
-        "slug": "hoa-lu",
-        "name_with_type": "Xã Hoa Lư",
-        "path": "Hoa Lư, Đông Hưng, Thái Bình",
-        "path_with_type": "Xã Hoa Lư, Huyện Đông Hưng, Tỉnh Thái Bình",
+        "slug": "lien-hoa",
+        "name_with_type": "Xã Liên Hoa",
+        "path": "Liên Hoa, Đông Hưng, Thái Bình",
+        "path_with_type": "Xã Liên Hoa, Huyện Đông Hưng, Tỉnh Thái Bình",
         "code": "12763",
-        "parent_code": "340"
-    },
-    "12766": {
-        "name": "Minh Châu",
-        "type": "xa",
-        "slug": "minh-chau",
-        "name_with_type": "Xã Minh Châu",
-        "path": "Minh Châu, Đông Hưng, Thái Bình",
-        "path_with_type": "Xã Minh Châu, Huyện Đông Hưng, Tỉnh Thái Bình",
-        "code": "12766",
         "parent_code": "340"
     },
     "12769": {
@@ -300,23 +280,13 @@
         "parent_code": "340"
     },
     "12778": {
-        "name": "Hồng Châu",
+        "name": "Hồng Bạch",
         "type": "xa",
-        "slug": "hong-chau",
-        "name_with_type": "Xã Hồng Châu",
-        "path": "Hồng Châu, Đông Hưng, Thái Bình",
-        "path_with_type": "Xã Hồng Châu, Huyện Đông Hưng, Tỉnh Thái Bình",
+        "slug": "hong-bach",
+        "name_with_type": "Xã Hồng Bạch",
+        "path": "Hồng Bạch, Đông Hưng, Thái Bình",
+        "path_with_type": "Xã Hồng Bạch, Huyện Đông Hưng, Tỉnh Thái Bình",
         "code": "12778",
-        "parent_code": "340"
-    },
-    "12781": {
-        "name": "Bạch Đằng",
-        "type": "xa",
-        "slug": "bach-dang",
-        "name_with_type": "Xã Bạch Đằng",
-        "path": "Bạch Đằng, Đông Hưng, Thái Bình",
-        "path_with_type": "Xã Bạch Đằng, Huyện Đông Hưng, Tỉnh Thái Bình",
-        "code": "12781",
         "parent_code": "340"
     },
     "12784": {
@@ -327,16 +297,6 @@
         "path": "Trọng Quan, Đông Hưng, Thái Bình",
         "path_with_type": "Xã Trọng Quan, Huyện Đông Hưng, Tỉnh Thái Bình",
         "code": "12784",
-        "parent_code": "340"
-    },
-    "12787": {
-        "name": "Hoa Nam",
-        "type": "xa",
-        "slug": "hoa-nam",
-        "name_with_type": "Xã Hoa Nam",
-        "path": "Hoa Nam, Đông Hưng, Thái Bình",
-        "path_with_type": "Xã Hoa Nam, Huyện Đông Hưng, Tỉnh Thái Bình",
-        "code": "12787",
         "parent_code": "340"
     },
     "12790": {
@@ -350,12 +310,12 @@
         "parent_code": "340"
     },
     "12793": {
-        "name": "Đông Phong",
+        "name": "Đông Quan",
         "type": "xa",
-        "slug": "dong-phong",
-        "name_with_type": "Xã Đông Phong",
-        "path": "Đông Phong, Đông Hưng, Thái Bình",
-        "path_with_type": "Xã Đông Phong, Huyện Đông Hưng, Tỉnh Thái Bình",
+        "slug": "dong-quan",
+        "name_with_type": "Xã Đông Quan",
+        "path": "Đông Quan, Đông Hưng, Thái Bình",
+        "path_with_type": "Xã Đông Quan, Huyện Đông Hưng, Tỉnh Thái Bình",
         "code": "12793",
         "parent_code": "340"
     },
@@ -389,16 +349,6 @@
         "code": "12802",
         "parent_code": "340"
     },
-    "12805": {
-        "name": "Đông Lĩnh",
-        "type": "xa",
-        "slug": "dong-linh",
-        "name_with_type": "Xã Đông Lĩnh",
-        "path": "Đông Lĩnh, Đông Hưng, Thái Bình",
-        "path_with_type": "Xã Đông Lĩnh, Huyện Đông Hưng, Tỉnh Thái Bình",
-        "code": "12805",
-        "parent_code": "340"
-    },
     "12808": {
         "name": "Đông Hoàng",
         "type": "xa",
@@ -419,23 +369,13 @@
         "code": "12811",
         "parent_code": "340"
     },
-    "12814": {
-        "name": "Đông Huy",
-        "type": "xa",
-        "slug": "dong-huy",
-        "name_with_type": "Xã Đông Huy",
-        "path": "Đông Huy, Đông Hưng, Thái Bình",
-        "path_with_type": "Xã Đông Huy, Huyện Đông Hưng, Tỉnh Thái Bình",
-        "code": "12814",
-        "parent_code": "340"
-    },
     "12823": {
-        "name": "Đồng Phú",
+        "name": "Minh Phú",
         "type": "xa",
-        "slug": "dong-phu",
-        "name_with_type": "Xã Đồng Phú",
-        "path": "Đồng Phú, Đông Hưng, Thái Bình",
-        "path_with_type": "Xã Đồng Phú, Huyện Đông Hưng, Tỉnh Thái Bình",
+        "slug": "minh-phu",
+        "name_with_type": "Xã Minh Phú",
+        "path": "Minh Phú, Đông Hưng, Thái Bình",
+        "path_with_type": "Xã Minh Phú, Huyện Đông Hưng, Tỉnh Thái Bình",
         "code": "12823",
         "parent_code": "340"
     }

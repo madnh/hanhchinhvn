@@ -1,24 +1,4 @@
 {
-    "27121": {
-        "name": "08",
-        "type": "phuong",
-        "slug": "08",
-        "name_with_type": "Phường 08",
-        "path": "08, 3, Hồ Chí Minh",
-        "path_with_type": "Phường 08, Quận 3, Thành phố Hồ Chí Minh",
-        "code": "27121",
-        "parent_code": "770"
-    },
-    "27124": {
-        "name": "07",
-        "type": "phuong",
-        "slug": "07",
-        "name_with_type": "Phường 07",
-        "path": "07, 3, Hồ Chí Minh",
-        "path_with_type": "Phường 07, Quận 3, Thành phố Hồ Chí Minh",
-        "code": "27124",
-        "parent_code": "770"
-    },
     "27127": {
         "name": "14",
         "type": "phuong",
@@ -60,12 +40,12 @@
         "parent_code": "770"
     },
     "27139": {
-        "name": "06",
+        "name": "Võ Thị Sáu",
         "type": "phuong",
-        "slug": "06",
-        "name_with_type": "Phường 06",
-        "path": "06, 3, Hồ Chí Minh",
-        "path_with_type": "Phường 06, Quận 3, Thành phố Hồ Chí Minh",
+        "slug": "vo-thi-sau",
+        "name_with_type": "Phường Võ Thị Sáu",
+        "path": "Võ Thị Sáu, 3, Hồ Chí Minh",
+        "path_with_type": "Phường Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh",
         "code": "27139",
         "parent_code": "770"
     },

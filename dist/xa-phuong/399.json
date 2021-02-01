@@ -19,14 +19,14 @@
         "code": "15871",
         "parent_code": "399"
     },
-    "15874": {
+    "15877": {
         "name": "Hoằng Xuân",
         "type": "xa",
         "slug": "hoang-xuan",
         "name_with_type": "Xã Hoằng Xuân",
         "path": "Hoằng Xuân, Hoằng Hóa, Thanh Hóa",
         "path_with_type": "Xã Hoằng Xuân, Huyện Hoằng Hóa, Tỉnh Thanh Hóa",
-        "code": "15874",
+        "code": "15877",
         "parent_code": "399"
     },
     "15880": {
@@ -89,24 +89,14 @@
         "code": "15895",
         "parent_code": "399"
     },
-    "15898": {
+    "15901": {
         "name": "Hoằng Sơn",
         "type": "xa",
         "slug": "hoang-son",
         "name_with_type": "Xã Hoằng Sơn",
         "path": "Hoằng Sơn, Hoằng Hóa, Thanh Hóa",
         "path_with_type": "Xã Hoằng Sơn, Huyện Hoằng Hóa, Tỉnh Thanh Hóa",
-        "code": "15898",
-        "parent_code": "399"
-    },
-    "15904": {
-        "name": "Hoằng Xuyên",
-        "type": "xa",
-        "slug": "hoang-xuyen",
-        "name_with_type": "Xã Hoằng Xuyên",
-        "path": "Hoằng Xuyên, Hoằng Hóa, Thanh Hóa",
-        "path_with_type": "Xã Hoằng Xuyên, Huyện Hoằng Hóa, Tỉnh Thanh Hóa",
-        "code": "15904",
+        "code": "15901",
         "parent_code": "399"
     },
     "15907": {
@@ -117,6 +107,16 @@
         "path": "Hoằng Cát, Hoằng Hóa, Thanh Hóa",
         "path_with_type": "Xã Hoằng Cát, Huyện Hoằng Hóa, Tỉnh Thanh Hóa",
         "code": "15907",
+        "parent_code": "399"
+    },
+    "15910": {
+        "name": "Hoằng Xuyên",
+        "type": "xa",
+        "slug": "hoang-xuyen",
+        "name_with_type": "Xã Hoằng Xuyên",
+        "path": "Hoằng Xuyên, Hoằng Hóa, Thanh Hóa",
+        "path_with_type": "Xã Hoằng Xuyên, Huyện Hoằng Hóa, Tỉnh Thanh Hóa",
+        "code": "15910",
         "parent_code": "399"
     },
     "15916": {
@@ -139,14 +139,14 @@
         "code": "15919",
         "parent_code": "399"
     },
-    "15934": {
+    "15928": {
         "name": "Hoằng Đức",
         "type": "xa",
         "slug": "hoang-duc",
         "name_with_type": "Xã Hoằng Đức",
         "path": "Hoằng Đức, Hoằng Hóa, Thanh Hóa",
         "path_with_type": "Xã Hoằng Đức, Huyện Hoằng Hóa, Tỉnh Thanh Hóa",
-        "code": "15934",
+        "code": "15928",
         "parent_code": "399"
     },
     "15937": {

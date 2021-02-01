@@ -61,21 +61,21 @@
     },
     "724": {
         "name": "Dĩ An",
-        "type": "thi-xa",
+        "type": "thanh-pho",
         "slug": "di-an",
-        "name_with_type": "Thị xã Dĩ An",
+        "name_with_type": "Thành phố Dĩ An",
         "path": "Dĩ An, Bình Dương",
-        "path_with_type": "Thị xã Dĩ An, Tỉnh Bình Dương",
+        "path_with_type": "Thành phố Dĩ An, Tỉnh Bình Dương",
         "code": "724",
         "parent_code": "74"
     },
     "725": {
         "name": "Thuận An",
-        "type": "thi-xa",
+        "type": "thanh-pho",
         "slug": "thuan-an",
-        "name_with_type": "Thị xã Thuận An",
+        "name_with_type": "Thành phố Thuận An",
         "path": "Thuận An, Bình Dương",
-        "path_with_type": "Thị xã Thuận An, Tỉnh Bình Dương",
+        "path_with_type": "Thành phố Thuận An, Tỉnh Bình Dương",
         "code": "725",
         "parent_code": "74"
     },

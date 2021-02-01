@@ -119,16 +119,6 @@
         "code": "04531",
         "parent_code": "138"
     },
-    "04534": {
-        "name": "Minh Tiến",
-        "type": "xa",
-        "slug": "minh-tien",
-        "name_with_type": "Xã Minh Tiến",
-        "path": "Minh Tiến, Trấn Yên, Yên Bái",
-        "path_with_type": "Xã Minh Tiến, Huyện Trấn Yên, Tỉnh Yên Bái",
-        "code": "04534",
-        "parent_code": "138"
-    },
     "04537": {
         "name": "Lương Thịnh",
         "type": "xa",

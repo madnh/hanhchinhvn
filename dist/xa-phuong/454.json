@@ -130,23 +130,13 @@
         "parent_code": "454"
     },
     "19051": {
-        "name": "Quảng Liên",
+        "name": "Liên Trường",
         "type": "xa",
-        "slug": "quang-lien",
-        "name_with_type": "Xã Quảng Liên",
-        "path": "Quảng Liên, Quảng Trạch, Quảng Bình",
-        "path_with_type": "Xã Quảng Liên, Huyện Quảng Trạch, Tỉnh Quảng Bình",
+        "slug": "lien-truong",
+        "name_with_type": "Xã Liên Trường",
+        "path": "Liên Trường, Quảng Trạch, Quảng Bình",
+        "path_with_type": "Xã Liên Trường, Huyện Quảng Trạch, Tỉnh Quảng Bình",
         "code": "19051",
-        "parent_code": "454"
-    },
-    "19054": {
-        "name": "Quảng Trường",
-        "type": "xa",
-        "slug": "quang-truong",
-        "name_with_type": "Xã Quảng Trường",
-        "path": "Quảng Trường, Quảng Trạch, Quảng Bình",
-        "path_with_type": "Xã Quảng Trường, Huyện Quảng Trạch, Tỉnh Quảng Bình",
-        "code": "19054",
         "parent_code": "454"
     },
     "19057": {

@@ -21,11 +21,11 @@
     },
     "25900": {
         "name": "Tân Bình",
-        "type": "xa",
+        "type": "thi-tran",
         "slug": "tan-binh",
-        "name_with_type": "Xã Tân Bình",
+        "name_with_type": "Thị trấn Tân Bình",
         "path": "Tân Bình, Bắc Tân Uyên, Bình Dương",
-        "path_with_type": "Xã Tân Bình, Huyện Bắc Tân Uyên, Tỉnh Bình Dương",
+        "path_with_type": "Thị trấn Tân Bình, Huyện Bắc Tân Uyên, Tỉnh Bình Dương",
         "code": "25900",
         "parent_code": "726"
     },

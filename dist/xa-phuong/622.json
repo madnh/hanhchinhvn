@@ -139,16 +139,6 @@
         "code": "23586",
         "parent_code": "622"
     },
-    "23587": {
-        "name": "Chư HDrông",
-        "type": "xa",
-        "slug": "chu-hdrong",
-        "name_with_type": "Xã Chư HDrông",
-        "path": "Chư HDrông, Pleiku, Gia Lai",
-        "path_with_type": "Xã Chư HDrông, Thành phố Pleiku, Tỉnh Gia Lai",
-        "code": "23587",
-        "parent_code": "622"
-    },
     "23590": {
         "name": "Biển Hồ",
         "type": "xa",

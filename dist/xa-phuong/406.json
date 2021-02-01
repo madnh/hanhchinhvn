@@ -169,14 +169,14 @@
         "code": "16501",
         "parent_code": "406"
     },
-    "16504": {
+    "16510": {
         "name": "Quảng Phúc",
         "type": "xa",
         "slug": "quang-phuc",
         "name_with_type": "Xã Quảng Phúc",
         "path": "Quảng Phúc, Quảng Xương, Thanh Hóa",
         "path_with_type": "Xã Quảng Phúc, Huyện Quảng Xương, Tỉnh Thanh Hóa",
-        "code": "16504",
+        "code": "16510",
         "parent_code": "406"
     },
     "16519": {

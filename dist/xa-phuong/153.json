@@ -99,14 +99,14 @@
         "code": "05035",
         "parent_code": "153"
     },
-    "05044": {
+    "05038": {
         "name": "Hợp Tiến",
         "type": "xa",
         "slug": "hop-tien",
         "name_with_type": "Xã Hợp Tiến",
         "path": "Hợp Tiến, Kim Bôi, Hoà Bình",
         "path_with_type": "Xã Hợp Tiến, Huyện Kim Bôi, Tỉnh Hoà Bình",
-        "code": "05044",
+        "code": "05038",
         "parent_code": "153"
     },
     "05065": {

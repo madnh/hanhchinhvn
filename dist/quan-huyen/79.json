@@ -19,26 +19,6 @@
         "code": "761",
         "parent_code": "79"
     },
-    "762": {
-        "name": "Thủ Đức",
-        "type": "quan",
-        "slug": "thu-duc",
-        "name_with_type": "Quận Thủ Đức",
-        "path": "Thủ Đức, Hồ Chí Minh",
-        "path_with_type": "Quận Thủ Đức, Thành phố Hồ Chí Minh",
-        "code": "762",
-        "parent_code": "79"
-    },
-    "763": {
-        "name": "9",
-        "type": "quan",
-        "slug": "9",
-        "name_with_type": "Quận 9",
-        "path": "9, Hồ Chí Minh",
-        "path_with_type": "Quận 9, Thành phố Hồ Chí Minh",
-        "code": "763",
-        "parent_code": "79"
-    },
     "764": {
         "name": "Gò Vấp",
         "type": "quan",
@@ -90,12 +70,12 @@
         "parent_code": "79"
     },
     "769": {
-        "name": "2",
-        "type": "quan",
-        "slug": "2",
-        "name_with_type": "Quận 2",
-        "path": "2, Hồ Chí Minh",
-        "path_with_type": "Quận 2, Thành phố Hồ Chí Minh",
+        "name": "Thủ Đức",
+        "type": "thanh-pho",
+        "slug": "thu-duc",
+        "name_with_type": "Thành phố Thủ Đức",
+        "path": "Thủ Đức, Hồ Chí Minh",
+        "path_with_type": "Thành phố Thủ Đức, Thành phố Hồ Chí Minh",
         "code": "769",
         "parent_code": "79"
     },

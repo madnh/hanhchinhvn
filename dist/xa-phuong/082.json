@@ -49,16 +49,6 @@
         "code": "02695",
         "parent_code": "082"
     },
-    "02698": {
-        "name": "Ngải Thầu",
-        "type": "xa",
-        "slug": "ngai-thau",
-        "name_with_type": "Xã Ngải Thầu",
-        "path": "Ngải Thầu, Bát Xát, Lào Cai",
-        "path_with_type": "Xã Ngải Thầu, Huyện Bát Xát, Tỉnh Lào Cai",
-        "code": "02698",
-        "parent_code": "082"
-    },
     "02701": {
         "name": "Y Tý",
         "type": "xa",
@@ -207,16 +197,6 @@
         "path": "Phìn Ngan, Bát Xát, Lào Cai",
         "path_with_type": "Xã Phìn Ngan, Huyện Bát Xát, Tỉnh Lào Cai",
         "code": "02743",
-        "parent_code": "082"
-    },
-    "02746": {
-        "name": "Cốc San",
-        "type": "xa",
-        "slug": "coc-san",
-        "name_with_type": "Xã Cốc San",
-        "path": "Cốc San, Bát Xát, Lào Cai",
-        "path_with_type": "Xã Cốc San, Huyện Bát Xát, Tỉnh Lào Cai",
-        "code": "02746",
         "parent_code": "082"
     },
     "02749": {

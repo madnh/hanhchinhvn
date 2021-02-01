@@ -19,16 +19,6 @@
         "code": "03394",
         "parent_code": "106"
     },
-    "03397": {
-        "name": "Sùng Phài",
-        "type": "xa",
-        "slug": "sung-phai",
-        "name_with_type": "Xã Sùng Phài",
-        "path": "Sùng Phài, Tam Đường, Lai Châu",
-        "path_with_type": "Xã Sùng Phài, Huyện Tam Đường, Tỉnh Lai Châu",
-        "code": "03397",
-        "parent_code": "106"
-    },
     "03400": {
         "name": "Tả Lèng",
         "type": "xa",

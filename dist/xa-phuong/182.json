@@ -19,16 +19,6 @@
         "code": "06127",
         "parent_code": "182"
     },
-    "06130": {
-        "name": "Bắc Việt",
-        "type": "xa",
-        "slug": "bac-viet",
-        "name_with_type": "Xã Bắc Việt",
-        "path": "Bắc Việt, Văn Lãng, Lạng Sơn",
-        "path_with_type": "Xã Bắc Việt, Huyện Văn Lãng, Tỉnh Lạng Sơn",
-        "code": "06130",
-        "parent_code": "182"
-    },
     "06133": {
         "name": "Bắc La",
         "type": "xa",
@@ -49,6 +39,16 @@
         "code": "06136",
         "parent_code": "182"
     },
+    "06139": {
+        "name": "Bắc Hùng",
+        "type": "xa",
+        "slug": "bac-hung",
+        "name_with_type": "Xã Bắc Hùng",
+        "path": "Bắc Hùng, Văn Lãng, Lạng Sơn",
+        "path_with_type": "Xã Bắc Hùng, Huyện Văn Lãng, Tỉnh Lạng Sơn",
+        "code": "06139",
+        "parent_code": "182"
+    },
     "06142": {
         "name": "Tân Tác",
         "type": "xa",
@@ -57,16 +57,6 @@
         "path": "Tân Tác, Văn Lãng, Lạng Sơn",
         "path_with_type": "Xã Tân Tác, Huyện Văn Lãng, Tỉnh Lạng Sơn",
         "code": "06142",
-        "parent_code": "182"
-    },
-    "06145": {
-        "name": "Bắc Hùng",
-        "type": "xa",
-        "slug": "bac-hung",
-        "name_with_type": "Xã Bắc Hùng",
-        "path": "Bắc Hùng, Văn Lãng, Lạng Sơn",
-        "path_with_type": "Xã Bắc Hùng, Huyện Văn Lãng, Tỉnh Lạng Sơn",
-        "code": "06145",
         "parent_code": "182"
     },
     "06148": {
@@ -87,6 +77,16 @@
         "path": "Hội Hoan, Văn Lãng, Lạng Sơn",
         "path_with_type": "Xã Hội Hoan, Huyện Văn Lãng, Tỉnh Lạng Sơn",
         "code": "06151",
+        "parent_code": "182"
+    },
+    "06154": {
+        "name": "Bắc Việt",
+        "type": "xa",
+        "slug": "bac-viet",
+        "name_with_type": "Xã Bắc Việt",
+        "path": "Bắc Việt, Văn Lãng, Lạng Sơn",
+        "path_with_type": "Xã Bắc Việt, Huyện Văn Lãng, Tỉnh Lạng Sơn",
+        "code": "06154",
         "parent_code": "182"
     },
     "06157": {

@@ -19,16 +19,6 @@
         "code": "14623",
         "parent_code": "376"
     },
-    "14626": {
-        "name": "Xuân Thiện",
-        "type": "xa",
-        "slug": "xuan-thien",
-        "name_with_type": "Xã Xuân Thiện",
-        "path": "Xuân Thiện, Kim Sơn, Ninh Bình",
-        "path_with_type": "Xã Xuân Thiện, Huyện Kim Sơn, Tỉnh Ninh Bình",
-        "code": "14626",
-        "parent_code": "376"
-    },
     "14629": {
         "name": "Hồi Ninh",
         "type": "xa",
@@ -40,12 +30,12 @@
         "parent_code": "376"
     },
     "14632": {
-        "name": "Chính Tâm",
+        "name": "Xuân Chính",
         "type": "xa",
-        "slug": "chinh-tam",
-        "name_with_type": "Xã Chính Tâm",
-        "path": "Chính Tâm, Kim Sơn, Ninh Bình",
-        "path_with_type": "Xã Chính Tâm, Huyện Kim Sơn, Tỉnh Ninh Bình",
+        "slug": "xuan-chinh",
+        "name_with_type": "Xã Xuân Chính",
+        "path": "Xuân Chính, Kim Sơn, Ninh Bình",
+        "path_with_type": "Xã Xuân Chính, Huyện Kim Sơn, Tỉnh Ninh Bình",
         "code": "14632",
         "parent_code": "376"
     },
@@ -77,16 +67,6 @@
         "path": "Hùng Tiến, Kim Sơn, Ninh Bình",
         "path_with_type": "Xã Hùng Tiến, Huyện Kim Sơn, Tỉnh Ninh Bình",
         "code": "14641",
-        "parent_code": "376"
-    },
-    "14644": {
-        "name": "Yên Mật",
-        "type": "xa",
-        "slug": "yen-mat",
-        "name_with_type": "Xã Yên Mật",
-        "path": "Yên Mật, Kim Sơn, Ninh Bình",
-        "path_with_type": "Xã Yên Mật, Huyện Kim Sơn, Tỉnh Ninh Bình",
-        "code": "14644",
         "parent_code": "376"
     },
     "14647": {

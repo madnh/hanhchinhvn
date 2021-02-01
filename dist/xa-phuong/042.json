@@ -79,16 +79,6 @@
         "code": "01304",
         "parent_code": "042"
     },
-    "01306": {
-        "name": "Tân Việt",
-        "type": "xa",
-        "slug": "tan-viet",
-        "name_with_type": "Xã Tân Việt",
-        "path": "Tân Việt, Bảo Lâm, Cao Bằng",
-        "path_with_type": "Xã Tân Việt, Huyện Bảo Lâm, Tỉnh Cao Bằng",
-        "code": "01306",
-        "parent_code": "042"
-    },
     "01309": {
         "name": "Vĩnh Phong",
         "type": "xa",

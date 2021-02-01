@@ -69,14 +69,14 @@
         "code": "04960",
         "parent_code": "152"
     },
-    "04966": {
+    "04969": {
         "name": "Liên Sơn",
         "type": "xa",
         "slug": "lien-son",
         "name_with_type": "Xã Liên Sơn",
         "path": "Liên Sơn, Lương Sơn, Hoà Bình",
         "path_with_type": "Xã Liên Sơn, Huyện Lương Sơn, Tỉnh Hoà Bình",
-        "code": "04966",
+        "code": "04969",
         "parent_code": "152"
     },
     "05008": {
@@ -99,14 +99,14 @@
         "code": "05041",
         "parent_code": "152"
     },
-    "05059": {
+    "05047": {
         "name": "Thanh Cao",
         "type": "xa",
         "slug": "thanh-cao",
         "name_with_type": "Xã Thanh Cao",
         "path": "Thanh Cao, Lương Sơn, Hoà Bình",
         "path_with_type": "Xã Thanh Cao, Huyện Lương Sơn, Tỉnh Hoà Bình",
-        "code": "05059",
+        "code": "05047",
         "parent_code": "152"
     }
 }

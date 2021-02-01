@@ -31,11 +31,11 @@
     },
     "02809": {
         "name": "Si Ma Cai",
-        "type": "xa",
+        "type": "thi-tran",
         "slug": "si-ma-cai",
-        "name_with_type": "Xã Si Ma Cai",
+        "name_with_type": "Thị trấn Si Ma Cai",
         "path": "Si Ma Cai, Si Ma Cai, Lào Cai",
-        "path_with_type": "Xã Si Ma Cai, Huyện Si Ma Cai, Tỉnh Lào Cai",
+        "path_with_type": "Thị trấn Si Ma Cai, Huyện Si Ma Cai, Tỉnh Lào Cai",
         "code": "02809",
         "parent_code": "084"
     },
@@ -49,23 +49,13 @@
         "code": "02812",
         "parent_code": "084"
     },
-    "02815": {
-        "name": "Mản Thẩn",
-        "type": "xa",
-        "slug": "man-than",
-        "name_with_type": "Xã Mản Thẩn",
-        "path": "Mản Thẩn, Si Ma Cai, Lào Cai",
-        "path_with_type": "Xã Mản Thẩn, Huyện Si Ma Cai, Tỉnh Lào Cai",
-        "code": "02815",
-        "parent_code": "084"
-    },
     "02818": {
-        "name": "Lùng Sui",
+        "name": "Lùng Thẩn",
         "type": "xa",
-        "slug": "lung-sui",
-        "name_with_type": "Xã Lùng Sui",
-        "path": "Lùng Sui, Si Ma Cai, Lào Cai",
-        "path_with_type": "Xã Lùng Sui, Huyện Si Ma Cai, Tỉnh Lào Cai",
+        "slug": "lung-than",
+        "name_with_type": "Xã Lùng Thẩn",
+        "path": "Lùng Thẩn, Si Ma Cai, Lào Cai",
+        "path_with_type": "Xã Lùng Thẩn, Huyện Si Ma Cai, Tỉnh Lào Cai",
         "code": "02818",
         "parent_code": "084"
     },
@@ -90,33 +80,13 @@
         "parent_code": "084"
     },
     "02827": {
-        "name": "Cán Hồ",
+        "name": "Quan Hồ Thẩn",
         "type": "xa",
-        "slug": "can-ho",
-        "name_with_type": "Xã Cán Hồ",
-        "path": "Cán Hồ, Si Ma Cai, Lào Cai",
-        "path_with_type": "Xã Cán Hồ, Huyện Si Ma Cai, Tỉnh Lào Cai",
+        "slug": "quan-ho-than",
+        "name_with_type": "Xã Quan Hồ Thẩn",
+        "path": "Quan Hồ Thẩn, Si Ma Cai, Lào Cai",
+        "path_with_type": "Xã Quan Hồ Thẩn, Huyện Si Ma Cai, Tỉnh Lào Cai",
         "code": "02827",
-        "parent_code": "084"
-    },
-    "02830": {
-        "name": "Quan Thần Sán",
-        "type": "xa",
-        "slug": "quan-than-san",
-        "name_with_type": "Xã Quan Thần Sán",
-        "path": "Quan Thần Sán, Si Ma Cai, Lào Cai",
-        "path_with_type": "Xã Quan Thần Sán, Huyện Si Ma Cai, Tỉnh Lào Cai",
-        "code": "02830",
-        "parent_code": "084"
-    },
-    "02833": {
-        "name": "Lử Thẩn",
-        "type": "xa",
-        "slug": "lu-than",
-        "name_with_type": "Xã Lử Thẩn",
-        "path": "Lử Thẩn, Si Ma Cai, Lào Cai",
-        "path_with_type": "Xã Lử Thẩn, Huyện Si Ma Cai, Tỉnh Lào Cai",
-        "code": "02833",
         "parent_code": "084"
     },
     "02836": {

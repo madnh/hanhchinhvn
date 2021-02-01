@@ -100,12 +100,12 @@
         "parent_code": "048"
     },
     "01564": {
-        "name": "Việt Chu",
+        "name": "Thống Nhất",
         "type": "xa",
-        "slug": "viet-chu",
-        "name_with_type": "Xã Việt Chu",
-        "path": "Việt Chu, Hạ Lang, Cao Bằng",
-        "path_with_type": "Xã Việt Chu, Huyện Hạ Lang, Tỉnh Cao Bằng",
+        "slug": "thong-nhat",
+        "name_with_type": "Xã Thống Nhất",
+        "path": "Thống Nhất, Hạ Lang, Cao Bằng",
+        "path_with_type": "Xã Thống Nhất, Huyện Hạ Lang, Tỉnh Cao Bằng",
         "code": "01564",
         "parent_code": "048"
     },
@@ -117,16 +117,6 @@
         "path": "Cô Ngân, Hạ Lang, Cao Bằng",
         "path_with_type": "Xã Cô Ngân, Huyện Hạ Lang, Tỉnh Cao Bằng",
         "code": "01567",
-        "parent_code": "048"
-    },
-    "01570": {
-        "name": "Thái Đức",
-        "type": "xa",
-        "slug": "thai-duc",
-        "name_with_type": "Xã Thái Đức",
-        "path": "Thái Đức, Hạ Lang, Cao Bằng",
-        "path_with_type": "Xã Thái Đức, Huyện Hạ Lang, Tỉnh Cao Bằng",
-        "code": "01570",
         "parent_code": "048"
     },
     "01573": {

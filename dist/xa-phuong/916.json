@@ -49,16 +49,6 @@
         "code": "31129",
         "parent_code": "916"
     },
-    "31132": {
-        "name": "An Hội",
-        "type": "phuong",
-        "slug": "an-hoi",
-        "name_with_type": "Phường An Hội",
-        "path": "An Hội, Ninh Kiều, Cần Thơ",
-        "path_with_type": "Phường An Hội, Quận Ninh Kiều, Thành phố Cần Thơ",
-        "code": "31132",
-        "parent_code": "916"
-    },
     "31135": {
         "name": "Tân An",
         "type": "phuong",
@@ -67,16 +57,6 @@
         "path": "Tân An, Ninh Kiều, Cần Thơ",
         "path_with_type": "Phường Tân An, Quận Ninh Kiều, Thành phố Cần Thơ",
         "code": "31135",
-        "parent_code": "916"
-    },
-    "31138": {
-        "name": "An Lạc",
-        "type": "phuong",
-        "slug": "an-lac",
-        "name_with_type": "Phường An Lạc",
-        "path": "An Lạc, Ninh Kiều, Cần Thơ",
-        "path_with_type": "Phường An Lạc, Quận Ninh Kiều, Thành phố Cần Thơ",
-        "code": "31138",
         "parent_code": "916"
     },
     "31141": {

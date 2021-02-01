@@ -40,43 +40,23 @@
         "parent_code": "272"
     },
     "09727": {
-        "name": "Xuân Phú",
+        "name": "Xuân Đình",
         "type": "xa",
-        "slug": "xuan-phu",
-        "name_with_type": "Xã Xuân Phú",
-        "path": "Xuân Phú, Phúc Thọ, Hà Nội",
-        "path_with_type": "Xã Xuân Phú, Huyện Phúc Thọ, Thành phố Hà Nội",
+        "slug": "xuan-dinh",
+        "name_with_type": "Xã Xuân Đình",
+        "path": "Xuân Đình, Phúc Thọ, Hà Nội",
+        "path_with_type": "Xã Xuân Đình, Huyện Phúc Thọ, Thành phố Hà Nội",
         "code": "09727",
         "parent_code": "272"
     },
-    "09730": {
-        "name": "Phương Độ",
-        "type": "xa",
-        "slug": "phuong-do",
-        "name_with_type": "Xã Phương Độ",
-        "path": "Phương Độ, Phúc Thọ, Hà Nội",
-        "path_with_type": "Xã Phương Độ, Huyện Phúc Thọ, Thành phố Hà Nội",
-        "code": "09730",
-        "parent_code": "272"
-    },
     "09733": {
-        "name": "Sen Chiểu",
+        "name": "Sen Phương",
         "type": "xa",
-        "slug": "sen-chieu",
-        "name_with_type": "Xã Sen Chiểu",
-        "path": "Sen Chiểu, Phúc Thọ, Hà Nội",
-        "path_with_type": "Xã Sen Chiểu, Huyện Phúc Thọ, Thành phố Hà Nội",
+        "slug": "sen-phuong",
+        "name_with_type": "Xã Sen Phương",
+        "path": "Sen Phương, Phúc Thọ, Hà Nội",
+        "path_with_type": "Xã Sen Phương, Huyện Phúc Thọ, Thành phố Hà Nội",
         "code": "09733",
-        "parent_code": "272"
-    },
-    "09736": {
-        "name": "Cẩm Đình",
-        "type": "xa",
-        "slug": "cam-dinh",
-        "name_with_type": "Xã Cẩm Đình",
-        "path": "Cẩm Đình, Phúc Thọ, Hà Nội",
-        "path_with_type": "Xã Cẩm Đình, Huyện Phúc Thọ, Thành phố Hà Nội",
-        "code": "09736",
         "parent_code": "272"
     },
     "09739": {

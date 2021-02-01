@@ -139,26 +139,6 @@
         "code": "04546",
         "parent_code": "132"
     },
-    "04549": {
-        "name": "Văn Tiến",
-        "type": "xa",
-        "slug": "van-tien",
-        "name_with_type": "Xã Văn Tiến",
-        "path": "Văn Tiến, Yên Bái, Yên Bái",
-        "path_with_type": "Xã Văn Tiến, Thành phố Yên Bái, Tỉnh Yên Bái",
-        "code": "04549",
-        "parent_code": "132"
-    },
-    "04552": {
-        "name": "Phúc Lộc",
-        "type": "xa",
-        "slug": "phuc-loc",
-        "name_with_type": "Xã Phúc Lộc",
-        "path": "Phúc Lộc, Yên Bái, Yên Bái",
-        "path_with_type": "Xã Phúc Lộc, Thành phố Yên Bái, Tỉnh Yên Bái",
-        "code": "04552",
-        "parent_code": "132"
-    },
     "04558": {
         "name": "Văn Phú",
         "type": "xa",

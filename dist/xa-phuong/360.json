@@ -139,16 +139,6 @@
         "code": "13834",
         "parent_code": "360"
     },
-    "13837": {
-        "name": "Yên Xá",
-        "type": "xa",
-        "slug": "yen-xa",
-        "name_with_type": "Xã Yên Xá",
-        "path": "Yên Xá, Ý Yên, Nam Định",
-        "path_with_type": "Xã Yên Xá, Huyện Ý Yên, Tỉnh Nam Định",
-        "code": "13837",
-        "parent_code": "360"
-    },
     "13840": {
         "name": "Yên Hưng",
         "type": "xa",

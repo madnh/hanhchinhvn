@@ -9,16 +9,6 @@
         "code": "12826",
         "parent_code": "341"
     },
-    "12829": {
-        "name": "Thụy Tân",
-        "type": "xa",
-        "slug": "thuy-tan",
-        "name_with_type": "Xã Thụy Tân",
-        "path": "Thụy Tân, Thái Thụy, Thái Bình",
-        "path_with_type": "Xã Thụy Tân, Huyện Thái Thụy, Tỉnh Thái Bình",
-        "code": "12829",
-        "parent_code": "341"
-    },
     "12832": {
         "name": "Thụy Trường",
         "type": "xa",
@@ -29,33 +19,13 @@
         "code": "12832",
         "parent_code": "341"
     },
-    "12835": {
-        "name": "Hồng Quỳnh",
-        "type": "xa",
-        "slug": "hong-quynh",
-        "name_with_type": "Xã Hồng Quỳnh",
-        "path": "Hồng Quỳnh, Thái Thụy, Thái Bình",
-        "path_with_type": "Xã Hồng Quỳnh, Huyện Thái Thụy, Tỉnh Thái Bình",
-        "code": "12835",
-        "parent_code": "341"
-    },
-    "12838": {
-        "name": "Thụy Dũng",
-        "type": "xa",
-        "slug": "thuy-dung",
-        "name_with_type": "Xã Thụy Dũng",
-        "path": "Thụy Dũng, Thái Thụy, Thái Bình",
-        "path_with_type": "Xã Thụy Dũng, Huyện Thái Thụy, Tỉnh Thái Bình",
-        "code": "12838",
-        "parent_code": "341"
-    },
     "12841": {
-        "name": "Thụy Hồng",
+        "name": "Hồng Dũng",
         "type": "xa",
-        "slug": "thuy-hong",
-        "name_with_type": "Xã Thụy Hồng",
-        "path": "Thụy Hồng, Thái Thụy, Thái Bình",
-        "path_with_type": "Xã Thụy Hồng, Huyện Thái Thụy, Tỉnh Thái Bình",
+        "slug": "hong-dung",
+        "name_with_type": "Xã Hồng Dũng",
+        "path": "Hồng Dũng, Thái Thụy, Thái Bình",
+        "path_with_type": "Xã Hồng Dũng, Huyện Thái Thụy, Tỉnh Thái Bình",
         "code": "12841",
         "parent_code": "341"
     },
@@ -70,12 +40,12 @@
         "parent_code": "341"
     },
     "12847": {
-        "name": "Thụy An",
+        "name": "An Tân",
         "type": "xa",
-        "slug": "thuy-an",
-        "name_with_type": "Xã Thụy An",
-        "path": "Thụy An, Thái Thụy, Thái Bình",
-        "path_with_type": "Xã Thụy An, Huyện Thái Thụy, Tỉnh Thái Bình",
+        "slug": "an-tan",
+        "name_with_type": "Xã An Tân",
+        "path": "An Tân, Thái Thụy, Thái Bình",
+        "path_with_type": "Xã An Tân, Huyện Thái Thụy, Tỉnh Thái Bình",
         "code": "12847",
         "parent_code": "341"
     },
@@ -130,12 +100,12 @@
         "parent_code": "341"
     },
     "12865": {
-        "name": "Thụy Dương",
+        "name": "Dương Phúc",
         "type": "xa",
-        "slug": "thuy-duong",
-        "name_with_type": "Xã Thụy Dương",
-        "path": "Thụy Dương, Thái Thụy, Thái Bình",
-        "path_with_type": "Xã Thụy Dương, Huyện Thái Thụy, Tỉnh Thái Bình",
+        "slug": "duong-phuc",
+        "name_with_type": "Xã Dương Phúc",
+        "path": "Dương Phúc, Thái Thụy, Thái Bình",
+        "path_with_type": "Xã Dương Phúc, Huyện Thái Thụy, Tỉnh Thái Bình",
         "code": "12865",
         "parent_code": "341"
     },
@@ -189,26 +159,6 @@
         "code": "12880",
         "parent_code": "341"
     },
-    "12883": {
-        "name": "Thụy Phúc",
-        "type": "xa",
-        "slug": "thuy-phuc",
-        "name_with_type": "Xã Thụy Phúc",
-        "path": "Thụy Phúc, Thái Thụy, Thái Bình",
-        "path_with_type": "Xã Thụy Phúc, Huyện Thái Thụy, Tỉnh Thái Bình",
-        "code": "12883",
-        "parent_code": "341"
-    },
-    "12886": {
-        "name": "Thụy Lương",
-        "type": "xa",
-        "slug": "thuy-luong",
-        "name_with_type": "Xã Thụy Lương",
-        "path": "Thụy Lương, Thái Thụy, Thái Bình",
-        "path_with_type": "Xã Thụy Lương, Huyện Thái Thụy, Tỉnh Thái Bình",
-        "code": "12886",
-        "parent_code": "341"
-    },
     "12889": {
         "name": "Thụy Liên",
         "type": "xa",
@@ -227,16 +177,6 @@
         "path": "Thụy Duyên, Thái Thụy, Thái Bình",
         "path_with_type": "Xã Thụy Duyên, Huyện Thái Thụy, Tỉnh Thái Bình",
         "code": "12892",
-        "parent_code": "341"
-    },
-    "12895": {
-        "name": "Thụy Hà",
-        "type": "xa",
-        "slug": "thuy-ha",
-        "name_with_type": "Xã Thụy Hà",
-        "path": "Thụy Hà, Thái Thụy, Thái Bình",
-        "path_with_type": "Xã Thụy Hà, Huyện Thái Thụy, Tỉnh Thái Bình",
-        "code": "12895",
         "parent_code": "341"
     },
     "12898": {
@@ -289,23 +229,13 @@
         "code": "12910",
         "parent_code": "341"
     },
-    "12913": {
-        "name": "Thái Thủy",
-        "type": "xa",
-        "slug": "thai-thuy",
-        "name_with_type": "Xã Thái Thủy",
-        "path": "Thái Thủy, Thái Thụy, Thái Bình",
-        "path_with_type": "Xã Thái Thủy, Huyện Thái Thụy, Tỉnh Thái Bình",
-        "code": "12913",
-        "parent_code": "341"
-    },
     "12916": {
-        "name": "Thái Dương",
+        "name": "Dương Hồng  Thủy",
         "type": "xa",
-        "slug": "thai-duong",
-        "name_with_type": "Xã Thái Dương",
-        "path": "Thái Dương, Thái Thụy, Thái Bình",
-        "path_with_type": "Xã Thái Dương, Huyện Thái Thụy, Tỉnh Thái Bình",
+        "slug": "duong-hong-thuy",
+        "name_with_type": "Xã Dương Hồng  Thủy",
+        "path": "Dương Hồng  Thủy, Thái Thụy, Thái Bình",
+        "path_with_type": "Xã Dương Hồng  Thủy, Huyện Thái Thụy, Tỉnh Thái Bình",
         "code": "12916",
         "parent_code": "341"
     },
@@ -320,43 +250,23 @@
         "parent_code": "341"
     },
     "12922": {
-        "name": "Thái Hòa",
+        "name": "Hòa An",
         "type": "xa",
-        "slug": "thai-hoa",
-        "name_with_type": "Xã Thái Hòa",
-        "path": "Thái Hòa, Thái Thụy, Thái Bình",
-        "path_with_type": "Xã Thái Hòa, Huyện Thái Thụy, Tỉnh Thái Bình",
+        "slug": "hoa-an",
+        "name_with_type": "Xã Hòa An",
+        "path": "Hòa An, Thái Thụy, Thái Bình",
+        "path_with_type": "Xã Hòa An, Huyện Thái Thụy, Tỉnh Thái Bình",
         "code": "12922",
         "parent_code": "341"
     },
     "12925": {
-        "name": "Thái Sơn",
+        "name": "Sơn Hà",
         "type": "xa",
-        "slug": "thai-son",
-        "name_with_type": "Xã Thái Sơn",
-        "path": "Thái Sơn, Thái Thụy, Thái Bình",
-        "path_with_type": "Xã Thái Sơn, Huyện Thái Thụy, Tỉnh Thái Bình",
+        "slug": "son-ha",
+        "name_with_type": "Xã Sơn Hà",
+        "path": "Sơn Hà, Thái Thụy, Thái Bình",
+        "path_with_type": "Xã Sơn Hà, Huyện Thái Thụy, Tỉnh Thái Bình",
         "code": "12925",
-        "parent_code": "341"
-    },
-    "12928": {
-        "name": "Thái Hồng",
-        "type": "xa",
-        "slug": "thai-hong",
-        "name_with_type": "Xã Thái Hồng",
-        "path": "Thái Hồng, Thái Thụy, Thái Bình",
-        "path_with_type": "Xã Thái Hồng, Huyện Thái Thụy, Tỉnh Thái Bình",
-        "code": "12928",
-        "parent_code": "341"
-    },
-    "12931": {
-        "name": "Thái An",
-        "type": "xa",
-        "slug": "thai-an",
-        "name_with_type": "Xã Thái An",
-        "path": "Thái An, Thái Thụy, Thái Bình",
-        "path_with_type": "Xã Thái An, Huyện Thái Thụy, Tỉnh Thái Bình",
-        "code": "12931",
         "parent_code": "341"
     },
     "12934": {
@@ -399,16 +309,6 @@
         "code": "12943",
         "parent_code": "341"
     },
-    "12946": {
-        "name": "Thái Hà",
-        "type": "xa",
-        "slug": "thai-ha",
-        "name_with_type": "Xã Thái Hà",
-        "path": "Thái Hà, Thái Thụy, Thái Bình",
-        "path_with_type": "Xã Thái Hà, Huyện Thái Thụy, Tỉnh Thái Bình",
-        "code": "12946",
-        "parent_code": "341"
-    },
     "12949": {
         "name": "Mỹ Lộc",
         "type": "xa",
@@ -419,33 +319,13 @@
         "code": "12949",
         "parent_code": "341"
     },
-    "12952": {
-        "name": "Thái Tân",
-        "type": "xa",
-        "slug": "thai-tan",
-        "name_with_type": "Xã Thái Tân",
-        "path": "Thái Tân, Thái Thụy, Thái Bình",
-        "path_with_type": "Xã Thái Tân, Huyện Thái Thụy, Tỉnh Thái Bình",
-        "code": "12952",
-        "parent_code": "341"
-    },
-    "12955": {
-        "name": "Thái Thuần",
-        "type": "xa",
-        "slug": "thai-thuan",
-        "name_with_type": "Xã Thái Thuần",
-        "path": "Thái Thuần, Thái Thụy, Thái Bình",
-        "path_with_type": "Xã Thái Thuần, Huyện Thái Thụy, Tỉnh Thái Bình",
-        "code": "12955",
-        "parent_code": "341"
-    },
     "12958": {
-        "name": "Thái Học",
+        "name": "Tân Học",
         "type": "xa",
-        "slug": "thai-hoc",
-        "name_with_type": "Xã Thái Học",
-        "path": "Thái Học, Thái Thụy, Thái Bình",
-        "path_with_type": "Xã Thái Học, Huyện Thái Thụy, Tỉnh Thái Bình",
+        "slug": "tan-hoc",
+        "name_with_type": "Xã Tân Học",
+        "path": "Tân Học, Thái Thụy, Thái Bình",
+        "path_with_type": "Xã Tân Học, Huyện Thái Thụy, Tỉnh Thái Bình",
         "code": "12958",
         "parent_code": "341"
     },
@@ -460,12 +340,12 @@
         "parent_code": "341"
     },
     "12964": {
-        "name": "Thái Thành",
+        "name": "Thuần Thành",
         "type": "xa",
-        "slug": "thai-thanh",
-        "name_with_type": "Xã Thái Thành",
-        "path": "Thái Thành, Thái Thụy, Thái Bình",
-        "path_with_type": "Xã Thái Thành, Huyện Thái Thụy, Tỉnh Thái Bình",
+        "slug": "thuan-thanh",
+        "name_with_type": "Xã Thuần Thành",
+        "path": "Thuần Thành, Thái Thụy, Thái Bình",
+        "path_with_type": "Xã Thuần Thành, Huyện Thái Thụy, Tỉnh Thái Bình",
         "code": "12964",
         "parent_code": "341"
     },

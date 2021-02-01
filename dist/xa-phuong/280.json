@@ -40,23 +40,13 @@
         "parent_code": "280"
     },
     "10282": {
-        "name": "Văn Nhân",
+        "name": "Nam Tiến",
         "type": "xa",
-        "slug": "van-nhan",
-        "name_with_type": "Xã Văn Nhân",
-        "path": "Văn Nhân, Phú Xuyên, Hà Nội",
-        "path_with_type": "Xã Văn Nhân, Huyện Phú Xuyên, Thành phố Hà Nội",
+        "slug": "nam-tien",
+        "name_with_type": "Xã Nam Tiến",
+        "path": "Nam Tiến, Phú Xuyên, Hà Nội",
+        "path_with_type": "Xã Nam Tiến, Huyện Phú Xuyên, Thành phố Hà Nội",
         "code": "10282",
-        "parent_code": "280"
-    },
-    "10285": {
-        "name": "Thụy Phú",
-        "type": "xa",
-        "slug": "thuy-phu",
-        "name_with_type": "Xã Thụy Phú",
-        "path": "Thụy Phú, Phú Xuyên, Hà Nội",
-        "path_with_type": "Xã Thụy Phú, Huyện Phú Xuyên, Thành phố Hà Nội",
-        "code": "10285",
         "parent_code": "280"
     },
     "10288": {

@@ -19,16 +19,6 @@
         "code": "28987",
         "parent_code": "834"
     },
-    "28990": {
-        "name": "Phong Mỹ",
-        "type": "xa",
-        "slug": "phong-my",
-        "name_with_type": "Xã Phong Mỹ",
-        "path": "Phong Mỹ, Giồng Trôm, Bến Tre",
-        "path_with_type": "Xã Phong Mỹ, Huyện Giồng Trôm, Tỉnh Bến Tre",
-        "code": "28990",
-        "parent_code": "834"
-    },
     "28993": {
         "name": "Mỹ Thạnh",
         "type": "xa",

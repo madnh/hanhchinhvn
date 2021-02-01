@@ -109,14 +109,14 @@
         "code": "28066",
         "parent_code": "804"
     },
-    "28069": {
+    "28072": {
         "name": "Tân Long",
         "type": "xa",
         "slug": "tan-long",
         "name_with_type": "Xã Tân Long",
         "path": "Tân Long, Thủ Thừa, Long An",
         "path_with_type": "Xã Tân Long, Huyện Thủ Thừa, Tỉnh Long An",
-        "code": "28069",
+        "code": "28072",
         "parent_code": "804"
     }
 }

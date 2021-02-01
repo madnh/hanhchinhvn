@@ -49,16 +49,6 @@
         "code": "05143",
         "parent_code": "155"
     },
-    "05149": {
-        "name": "Phong Phú",
-        "type": "xa",
-        "slug": "phong-phu",
-        "name_with_type": "Xã Phong Phú",
-        "path": "Phong Phú, Tân Lạc, Hoà Bình",
-        "path_with_type": "Xã Phong Phú, Huyện Tân Lạc, Tỉnh Hoà Bình",
-        "code": "05149",
-        "parent_code": "155"
-    },
     "05152": {
         "name": "Quyết Chiến",
         "type": "xa",
@@ -67,6 +57,16 @@
         "path": "Quyết Chiến, Tân Lạc, Hoà Bình",
         "path_with_type": "Xã Quyết Chiến, Huyện Tân Lạc, Tỉnh Hoà Bình",
         "code": "05152",
+        "parent_code": "155"
+    },
+    "05158": {
+        "name": "Phong Phú",
+        "type": "xa",
+        "slug": "phong-phu",
+        "name_with_type": "Xã Phong Phú",
+        "path": "Phong Phú, Tân Lạc, Hoà Bình",
+        "path_with_type": "Xã Phong Phú, Huyện Tân Lạc, Tỉnh Hoà Bình",
+        "code": "05158",
         "parent_code": "155"
     },
     "05164": {
@@ -119,14 +119,14 @@
         "code": "05176",
         "parent_code": "155"
     },
-    "05185": {
+    "05182": {
         "name": "Nhân Mỹ",
         "type": "xa",
         "slug": "nhan-my",
-        "name_with_type": "Xã Nhân Mỹ ",
+        "name_with_type": "Xã Nhân Mỹ",
         "path": "Nhân Mỹ, Tân Lạc, Hoà Bình",
-        "path_with_type": "Xã Nhân Mỹ , Huyện Tân Lạc, Tỉnh Hoà Bình",
-        "code": "05185",
+        "path_with_type": "Xã Nhân Mỹ, Huyện Tân Lạc, Tỉnh Hoà Bình",
+        "code": "05182",
         "parent_code": "155"
     },
     "05191": {

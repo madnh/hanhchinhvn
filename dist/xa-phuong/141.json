@@ -1,14 +1,4 @@
 {
-    "04555": {
-        "name": "Văn Lãng",
-        "type": "xa",
-        "slug": "van-lang",
-        "name_with_type": "Xã Văn Lãng",
-        "path": "Văn Lãng, Yên Bình, Yên Bái",
-        "path_with_type": "Xã Văn Lãng, Huyện Yên Bình, Tỉnh Yên Bái",
-        "code": "04555",
-        "parent_code": "141"
-    },
     "04714": {
         "name": "Yên Bình",
         "type": "thi-tran",
@@ -37,16 +27,6 @@
         "path": "Xuân Long, Yên Bình, Yên Bái",
         "path_with_type": "Xã Xuân Long, Huyện Yên Bình, Tỉnh Yên Bái",
         "code": "04720",
-        "parent_code": "141"
-    },
-    "04723": {
-        "name": "Tích Cốc",
-        "type": "xa",
-        "slug": "tich-coc",
-        "name_with_type": "Xã Tích Cốc",
-        "path": "Tích Cốc, Yên Bình, Yên Bái",
-        "path_with_type": "Xã Tích Cốc, Huyện Yên Bình, Tỉnh Yên Bái",
-        "code": "04723",
         "parent_code": "141"
     },
     "04726": {

@@ -1,14 +1,4 @@
 {
-    "07369": {
-        "name": "Kép",
-        "type": "thi-tran",
-        "slug": "kep",
-        "name_with_type": "Thị trấn Kép",
-        "path": "Kép, Lạng Giang, Bắc Giang",
-        "path_with_type": "Thị trấn Kép, Huyện Lạng Giang, Tỉnh Bắc Giang",
-        "code": "07369",
-        "parent_code": "217"
-    },
     "07375": {
         "name": "Vôi",
         "type": "thi-tran",
@@ -87,6 +77,16 @@
         "path": "An Hà, Lạng Giang, Bắc Giang",
         "path_with_type": "Xã An Hà, Huyện Lạng Giang, Tỉnh Bắc Giang",
         "code": "07396",
+        "parent_code": "217"
+    },
+    "07399": {
+        "name": "Kép",
+        "type": "thi-tran",
+        "slug": "kep",
+        "name_with_type": "Thị trấn Kép",
+        "path": "Kép, Lạng Giang, Bắc Giang",
+        "path_with_type": "Thị trấn Kép, Huyện Lạng Giang, Tỉnh Bắc Giang",
+        "code": "07399",
         "parent_code": "217"
     },
     "07402": {

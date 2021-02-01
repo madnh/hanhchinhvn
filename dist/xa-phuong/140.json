@@ -9,16 +9,6 @@
         "code": "04621",
         "parent_code": "140"
     },
-    "04624": {
-        "name": "NT Nghĩa Lộ",
-        "type": "thi-tran",
-        "slug": "nt-nghia-lo",
-        "name_with_type": "Thị trấn NT Nghĩa Lộ",
-        "path": "NT Nghĩa Lộ, Văn Chấn, Yên Bái",
-        "path_with_type": "Thị trấn NT Nghĩa Lộ, Huyện Văn Chấn, Tỉnh Yên Bái",
-        "code": "04624",
-        "parent_code": "140"
-    },
     "04627": {
         "name": "NT Trần Phú",
         "type": "thi-tran",
@@ -129,26 +119,6 @@
         "code": "04657",
         "parent_code": "140"
     },
-    "04660": {
-        "name": "Sơn A",
-        "type": "xa",
-        "slug": "son-a",
-        "name_with_type": "Xã Sơn A",
-        "path": "Sơn A, Văn Chấn, Yên Bái",
-        "path_with_type": "Xã Sơn A, Huyện Văn Chấn, Tỉnh Yên Bái",
-        "code": "04660",
-        "parent_code": "140"
-    },
-    "04663": {
-        "name": "Phù Nham",
-        "type": "xa",
-        "slug": "phu-nham",
-        "name_with_type": "Xã Phù Nham",
-        "path": "Phù Nham, Văn Chấn, Yên Bái",
-        "path_with_type": "Xã Phù Nham, Huyện Văn Chấn, Tỉnh Yên Bái",
-        "code": "04663",
-        "parent_code": "140"
-    },
     "04666": {
         "name": "Nghĩa Sơn",
         "type": "xa",
@@ -171,52 +141,12 @@
     },
     "04672": {
         "name": "Sơn Thịnh",
-        "type": "xa",
+        "type": "thi-tran",
         "slug": "son-thinh",
-        "name_with_type": "Xã Sơn Thịnh",
+        "name_with_type": "Thị trấn Sơn Thịnh",
         "path": "Sơn Thịnh, Văn Chấn, Yên Bái",
-        "path_with_type": "Xã Sơn Thịnh, Huyện Văn Chấn, Tỉnh Yên Bái",
+        "path_with_type": "Thị trấn Sơn Thịnh, Huyện Văn Chấn, Tỉnh Yên Bái",
         "code": "04672",
-        "parent_code": "140"
-    },
-    "04675": {
-        "name": "Thanh Lương",
-        "type": "xa",
-        "slug": "thanh-luong",
-        "name_with_type": "Xã Thanh Lương",
-        "path": "Thanh Lương, Văn Chấn, Yên Bái",
-        "path_with_type": "Xã Thanh Lương, Huyện Văn Chấn, Tỉnh Yên Bái",
-        "code": "04675",
-        "parent_code": "140"
-    },
-    "04678": {
-        "name": "Hạnh Sơn",
-        "type": "xa",
-        "slug": "hanh-son",
-        "name_with_type": "Xã Hạnh Sơn",
-        "path": "Hạnh Sơn, Văn Chấn, Yên Bái",
-        "path_with_type": "Xã Hạnh Sơn, Huyện Văn Chấn, Tỉnh Yên Bái",
-        "code": "04678",
-        "parent_code": "140"
-    },
-    "04681": {
-        "name": "Phúc Sơn",
-        "type": "xa",
-        "slug": "phuc-son",
-        "name_with_type": "Xã Phúc Sơn",
-        "path": "Phúc Sơn, Văn Chấn, Yên Bái",
-        "path_with_type": "Xã Phúc Sơn, Huyện Văn Chấn, Tỉnh Yên Bái",
-        "code": "04681",
-        "parent_code": "140"
-    },
-    "04684": {
-        "name": "Thạch Lương",
-        "type": "xa",
-        "slug": "thach-luong",
-        "name_with_type": "Xã Thạch Lương",
-        "path": "Thạch Lương, Văn Chấn, Yên Bái",
-        "path_with_type": "Xã Thạch Lương, Huyện Văn Chấn, Tỉnh Yên Bái",
-        "code": "04684",
         "parent_code": "140"
     },
     "04687": {

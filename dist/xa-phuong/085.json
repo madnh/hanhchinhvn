@@ -19,16 +19,6 @@
         "code": "02842",
         "parent_code": "085"
     },
-    "02845": {
-        "name": "Bản Già",
-        "type": "xa",
-        "slug": "ban-gia",
-        "name_with_type": "Xã Bản Già",
-        "path": "Bản Già, Bắc Hà, Lào Cai",
-        "path_with_type": "Xã Bản Già, Huyện Bắc Hà, Tỉnh Lào Cai",
-        "code": "02845",
-        "parent_code": "085"
-    },
     "02848": {
         "name": "Lùng Phình",
         "type": "xa",
@@ -67,16 +57,6 @@
         "path": "Thải Giàng Phố, Bắc Hà, Lào Cai",
         "path_with_type": "Xã Thải Giàng Phố, Huyện Bắc Hà, Tỉnh Lào Cai",
         "code": "02857",
-        "parent_code": "085"
-    },
-    "02860": {
-        "name": "Lầu Thí Ngài",
-        "type": "xa",
-        "slug": "lau-thi-ngai",
-        "name_with_type": "Xã Lầu Thí Ngài",
-        "path": "Lầu Thí Ngài, Bắc Hà, Lào Cai",
-        "path_with_type": "Xã Lầu Thí Ngài, Huyện Bắc Hà, Tỉnh Lào Cai",
-        "code": "02860",
         "parent_code": "085"
     },
     "02863": {

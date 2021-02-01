@@ -1,14 +1,4 @@
 {
-    "13564": {
-        "name": "Vĩnh Trụ",
-        "type": "thi-tran",
-        "slug": "vinh-tru",
-        "name_with_type": "Thị trấn Vĩnh Trụ",
-        "path": "Vĩnh Trụ, Lý Nhân, Hà Nam",
-        "path_with_type": "Thị trấn Vĩnh Trụ, Huyện Lý Nhân, Tỉnh Hà Nam",
-        "code": "13564",
-        "parent_code": "353"
-    },
     "13567": {
         "name": "Hợp Lý",
         "type": "xa",
@@ -107,6 +97,16 @@
         "path": "Trần Hưng Đạo, Lý Nhân, Hà Nam",
         "path_with_type": "Xã Trần Hưng Đạo, Huyện Lý Nhân, Tỉnh Hà Nam",
         "code": "13594",
+        "parent_code": "353"
+    },
+    "13597": {
+        "name": "Vĩnh Trụ",
+        "type": "thi-tran",
+        "slug": "vinh-tru",
+        "name_with_type": "Thị trấn Vĩnh Trụ",
+        "path": "Vĩnh Trụ, Lý Nhân, Hà Nam",
+        "path_with_type": "Thị trấn Vĩnh Trụ, Huyện Lý Nhân, Tỉnh Hà Nam",
+        "code": "13597",
         "parent_code": "353"
     },
     "13600": {

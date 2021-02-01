@@ -59,33 +59,13 @@
         "code": "28768",
         "parent_code": "829"
     },
-    "28771": {
-        "name": "1",
-        "type": "phuong",
-        "slug": "1",
-        "name_with_type": "Phường 1",
-        "path": "1, Bến Tre, Bến Tre",
-        "path_with_type": "Phường 1, Thành phố Bến Tre, Tỉnh Bến Tre",
-        "code": "28771",
-        "parent_code": "829"
-    },
-    "28774": {
-        "name": "3",
-        "type": "phuong",
-        "slug": "3",
-        "name_with_type": "Phường 3",
-        "path": "3, Bến Tre, Bến Tre",
-        "path_with_type": "Phường 3, Thành phố Bến Tre, Tỉnh Bến Tre",
-        "code": "28774",
-        "parent_code": "829"
-    },
     "28777": {
-        "name": "2",
+        "name": "An Hội",
         "type": "phuong",
-        "slug": "2",
-        "name_with_type": "Phường 2",
-        "path": "2, Bến Tre, Bến Tre",
-        "path_with_type": "Phường 2, Thành phố Bến Tre, Tỉnh Bến Tre",
+        "slug": "an-hoi",
+        "name_with_type": "Phường An Hội",
+        "path": "An Hội, Bến Tre, Bến Tre",
+        "path_with_type": "Phường An Hội, Thành phố Bến Tre, Tỉnh Bến Tre",
         "code": "28777",
         "parent_code": "829"
     },
@@ -157,16 +137,6 @@
         "path": "Phú Nhuận, Bến Tre, Bến Tre",
         "path_with_type": "Xã Phú Nhuận, Thành phố Bến Tre, Tỉnh Bến Tre",
         "code": "28798",
-        "parent_code": "829"
-    },
-    "28867": {
-        "name": "Mỹ Thành",
-        "type": "xa",
-        "slug": "my-thanh",
-        "name_with_type": "Xã Mỹ Thành",
-        "path": "Mỹ Thành, Bến Tre, Bến Tre",
-        "path_with_type": "Xã Mỹ Thành, Thành phố Bến Tre, Tỉnh Bến Tre",
-        "code": "28867",
         "parent_code": "829"
     }
 }

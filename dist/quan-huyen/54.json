@@ -81,11 +81,11 @@
     },
     "564": {
         "name": "Đông Hòa",
-        "type": "huyen",
+        "type": "thi-xa",
         "slug": "dong-hoa",
-        "name_with_type": "Huyện Đông Hòa",
+        "name_with_type": "Thị xã Đông Hòa",
         "path": "Đông Hòa, Phú Yên",
-        "path_with_type": "Huyện Đông Hòa, Tỉnh Phú Yên",
+        "path_with_type": "Thị xã Đông Hòa, Tỉnh Phú Yên",
         "code": "564",
         "parent_code": "54"
     }

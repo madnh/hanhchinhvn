@@ -90,23 +90,13 @@
         "parent_code": "836"
     },
     "29137": {
-        "name": "Phước Tuy",
+        "name": "Phước Ngãi",
         "type": "xa",
-        "slug": "phuoc-tuy",
-        "name_with_type": "Xã Phước Tuy",
-        "path": "Phước Tuy, Ba Tri, Bến Tre",
-        "path_with_type": "Xã Phước Tuy, Huyện Ba Tri, Tỉnh Bến Tre",
+        "slug": "phuoc-ngai",
+        "name_with_type": "Xã Phước Ngãi",
+        "path": "Phước Ngãi, Ba Tri, Bến Tre",
+        "path_with_type": "Xã Phước Ngãi, Huyện Ba Tri, Tỉnh Bến Tre",
         "code": "29137",
-        "parent_code": "836"
-    },
-    "29140": {
-        "name": "Phú Ngãi",
-        "type": "xa",
-        "slug": "phu-ngai",
-        "name_with_type": "Xã Phú Ngãi",
-        "path": "Phú Ngãi, Ba Tri, Bến Tre",
-        "path_with_type": "Xã Phú Ngãi, Huyện Ba Tri, Tỉnh Bến Tre",
-        "code": "29140",
         "parent_code": "836"
     },
     "29143": {

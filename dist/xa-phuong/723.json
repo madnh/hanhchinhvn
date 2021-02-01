@@ -21,21 +21,21 @@
     },
     "25912": {
         "name": "Vĩnh Tân",
-        "type": "xa",
+        "type": "phuong",
         "slug": "vinh-tan",
-        "name_with_type": "Xã Vĩnh Tân",
+        "name_with_type": "Phường Vĩnh Tân",
         "path": "Vĩnh Tân, Tân Uyên, Bình Dương",
-        "path_with_type": "Xã Vĩnh Tân, Thị xã Tân Uyên, Tỉnh Bình Dương",
+        "path_with_type": "Phường Vĩnh Tân, Thị xã Tân Uyên, Tỉnh Bình Dương",
         "code": "25912",
         "parent_code": "723"
     },
     "25915": {
         "name": "Hội Nghĩa",
-        "type": "xa",
+        "type": "phuong",
         "slug": "hoi-nghia",
-        "name_with_type": "Xã Hội Nghĩa",
+        "name_with_type": "Phường Hội Nghĩa",
         "path": "Hội Nghĩa, Tân Uyên, Bình Dương",
-        "path_with_type": "Xã Hội Nghĩa, Thị xã Tân Uyên, Tỉnh Bình Dương",
+        "path_with_type": "Phường Hội Nghĩa, Thị xã Tân Uyên, Tỉnh Bình Dương",
         "code": "25915",
         "parent_code": "723"
     },
@@ -61,11 +61,11 @@
     },
     "25924": {
         "name": "Phú Chánh",
-        "type": "xa",
+        "type": "phuong",
         "slug": "phu-chanh",
-        "name_with_type": "Xã Phú Chánh",
+        "name_with_type": "Phường Phú Chánh",
         "path": "Phú Chánh, Tân Uyên, Bình Dương",
-        "path_with_type": "Xã Phú Chánh, Thị xã Tân Uyên, Tỉnh Bình Dương",
+        "path_with_type": "Phường Phú Chánh, Thị xã Tân Uyên, Tỉnh Bình Dương",
         "code": "25924",
         "parent_code": "723"
     },
@@ -81,11 +81,11 @@
     },
     "25933": {
         "name": "Tân Vĩnh Hiệp",
-        "type": "xa",
+        "type": "phuong",
         "slug": "tan-vinh-hiep",
-        "name_with_type": "Xã Tân Vĩnh Hiệp",
+        "name_with_type": "Phường Tân Vĩnh Hiệp",
         "path": "Tân Vĩnh Hiệp, Tân Uyên, Bình Dương",
-        "path_with_type": "Xã Tân Vĩnh Hiệp, Thị xã Tân Uyên, Tỉnh Bình Dương",
+        "path_with_type": "Phường Tân Vĩnh Hiệp, Thị xã Tân Uyên, Tỉnh Bình Dương",
         "code": "25933",
         "parent_code": "723"
     },

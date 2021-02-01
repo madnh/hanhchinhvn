@@ -151,11 +151,11 @@
     },
     "21898": {
         "name": "Cát Tiến",
-        "type": "xa",
+        "type": "thi-tran",
         "slug": "cat-tien",
-        "name_with_type": "Xã Cát Tiến",
+        "name_with_type": "Thị trấn Cát Tiến",
         "path": "Cát Tiến, Phù Cát, Bình Định",
-        "path_with_type": "Xã Cát Tiến, Huyện Phù Cát, Tỉnh Bình Định",
+        "path_with_type": "Thị trấn Cát Tiến, Huyện Phù Cát, Tỉnh Bình Định",
         "code": "21898",
         "parent_code": "548"
     },

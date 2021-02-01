@@ -129,16 +129,6 @@
         "code": "23755",
         "parent_code": "627"
     },
-    "23758": {
-        "name": "Chư Jôr",
-        "type": "xa",
-        "slug": "chu-jor",
-        "name_with_type": "Xã Chư Jôr",
-        "path": "Chư Jôr, Chư Păh, Gia Lai",
-        "path_with_type": "Xã Chư Jôr, Huyện Chư Păh, Tỉnh Gia Lai",
-        "code": "23758",
-        "parent_code": "627"
-    },
     "23761": {
         "name": "Nghĩa Hưng",
         "type": "xa",

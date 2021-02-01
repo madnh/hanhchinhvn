@@ -59,16 +59,6 @@
         "code": "27316",
         "parent_code": "774"
     },
-    "27319": {
-        "name": "15",
-        "type": "phuong",
-        "slug": "15",
-        "name_with_type": "Phường 15",
-        "path": "15, 5, Hồ Chí Minh",
-        "path_with_type": "Phường 15, Quận 5, Thành phố Hồ Chí Minh",
-        "code": "27319",
-        "parent_code": "774"
-    },
     "27322": {
         "name": "07",
         "type": "phuong",

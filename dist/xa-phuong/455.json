@@ -110,12 +110,12 @@
         "parent_code": "455"
     },
     "19144": {
-        "name": "Hải Trạch",
+        "name": "Hải Phú",
         "type": "xa",
-        "slug": "hai-trach",
-        "name_with_type": "Xã Hải Trạch",
-        "path": "Hải Trạch, Bố Trạch, Quảng Bình",
-        "path_with_type": "Xã Hải Trạch, Huyện Bố Trạch, Tỉnh Quảng Bình",
+        "slug": "hai-phu",
+        "name_with_type": "Xã Hải Phú",
+        "path": "Hải Phú, Bố Trạch, Quảng Bình",
+        "path_with_type": "Xã Hải Phú, Huyện Bố Trạch, Tỉnh Quảng Bình",
         "code": "19144",
         "parent_code": "455"
     },
@@ -137,16 +137,6 @@
         "path": "Sơn Lộc, Bố Trạch, Quảng Bình",
         "path_with_type": "Xã Sơn Lộc, Huyện Bố Trạch, Tỉnh Quảng Bình",
         "code": "19150",
-        "parent_code": "455"
-    },
-    "19153": {
-        "name": "Phú Trạch",
-        "type": "xa",
-        "slug": "phu-trach",
-        "name_with_type": "Xã Phú Trạch",
-        "path": "Phú Trạch, Bố Trạch, Quảng Bình",
-        "path_with_type": "Xã Phú Trạch, Huyện Bố Trạch, Tỉnh Quảng Bình",
-        "code": "19153",
         "parent_code": "455"
     },
     "19156": {
@@ -180,12 +170,12 @@
         "parent_code": "455"
     },
     "19165": {
-        "name": "Sơn Trạch",
-        "type": "xa",
-        "slug": "son-trach",
-        "name_with_type": "Xã Sơn Trạch",
-        "path": "Sơn Trạch, Bố Trạch, Quảng Bình",
-        "path_with_type": "Xã Sơn Trạch, Huyện Bố Trạch, Tỉnh Quảng Bình",
+        "name": "Phong Nha",
+        "type": "thi-tran",
+        "slug": "phong-nha",
+        "name_with_type": "Thị trấn Phong Nha",
+        "path": "Phong Nha, Bố Trạch, Quảng Bình",
+        "path_with_type": "Thị trấn Phong Nha, Huyện Bố Trạch, Tỉnh Quảng Bình",
         "code": "19165",
         "parent_code": "455"
     },
@@ -197,16 +187,6 @@
         "path": "Vạn Trạch, Bố Trạch, Quảng Bình",
         "path_with_type": "Xã Vạn Trạch, Huyện Bố Trạch, Tỉnh Quảng Bình",
         "code": "19168",
-        "parent_code": "455"
-    },
-    "19171": {
-        "name": "Hoàn Trạch",
-        "type": "xa",
-        "slug": "hoan-trach",
-        "name_with_type": "Xã Hoàn Trạch",
-        "path": "Hoàn Trạch, Bố Trạch, Quảng Bình",
-        "path_with_type": "Xã Hoàn Trạch, Huyện Bố Trạch, Tỉnh Quảng Bình",
-        "code": "19171",
         "parent_code": "455"
     },
     "19174": {

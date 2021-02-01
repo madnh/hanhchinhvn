@@ -1,14 +1,4 @@
 {
-    "15394": {
-        "name": "Quán Lào",
-        "type": "thi-tran",
-        "slug": "quan-lao",
-        "name_with_type": "Thị trấn Quán Lào",
-        "path": "Quán Lào, Yên Định, Thanh Hóa",
-        "path_with_type": "Thị trấn Quán Lào, Huyện Yên Định, Tỉnh Thanh Hóa",
-        "code": "15394",
-        "parent_code": "394"
-    },
     "15397": {
         "name": "Thống Nhất",
         "type": "thi-tran",
@@ -17,16 +7,6 @@
         "path": "Thống Nhất, Yên Định, Thanh Hóa",
         "path_with_type": "Thị trấn Thống Nhất, Huyện Yên Định, Tỉnh Thanh Hóa",
         "code": "15397",
-        "parent_code": "394"
-    },
-    "15400": {
-        "name": "Yên Phú",
-        "type": "xa",
-        "slug": "yen-phu",
-        "name_with_type": "Xã Yên Phú",
-        "path": "Yên Phú, Yên Định, Thanh Hóa",
-        "path_with_type": "Xã Yên Phú, Huyện Yên Định, Tỉnh Thanh Hóa",
-        "code": "15400",
         "parent_code": "394"
     },
     "15403": {
@@ -47,6 +27,16 @@
         "path": "Yên Tâm, Yên Định, Thanh Hóa",
         "path_with_type": "Xã Yên Tâm, Huyện Yên Định, Tỉnh Thanh Hóa",
         "code": "15406",
+        "parent_code": "394"
+    },
+    "15409": {
+        "name": "Yên Phú",
+        "type": "xa",
+        "slug": "yen-phu",
+        "name_with_type": "Xã Yên Phú",
+        "path": "Yên Phú, Yên Định, Thanh Hóa",
+        "path_with_type": "Xã Yên Phú, Huyện Yên Định, Tỉnh Thanh Hóa",
+        "code": "15409",
         "parent_code": "394"
     },
     "15412": {
@@ -227,6 +217,16 @@
         "path": "Định Liên, Yên Định, Thanh Hóa",
         "path_with_type": "Xã Định Liên, Huyện Yên Định, Tỉnh Thanh Hóa",
         "code": "15466",
+        "parent_code": "394"
+    },
+    "15469": {
+        "name": "Quán Lào",
+        "type": "thi-tran",
+        "slug": "quan-lao",
+        "name_with_type": "Thị trấn Quán Lào",
+        "path": "Quán Lào, Yên Định, Thanh Hóa",
+        "path_with_type": "Thị trấn Quán Lào, Huyện Yên Định, Tỉnh Thanh Hóa",
+        "code": "15469",
         "parent_code": "394"
     },
     "15472": {

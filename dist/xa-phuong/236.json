@@ -19,6 +19,16 @@
         "code": "08440",
         "parent_code": "236"
     },
+    "08443": {
+        "name": "Bắc Sơn",
+        "type": "xa",
+        "slug": "bac-son",
+        "name_with_type": "Xã Bắc Sơn",
+        "path": "Bắc Sơn, Tam Nông, Phú Thọ",
+        "path_with_type": "Xã Bắc Sơn, Huyện Tam Nông, Tỉnh Phú Thọ",
+        "code": "08443",
+        "parent_code": "236"
+    },
     "08446": {
         "name": "Thanh Uyên",
         "type": "xa",
@@ -27,16 +37,6 @@
         "path": "Thanh Uyên, Tam Nông, Phú Thọ",
         "path_with_type": "Xã Thanh Uyên, Huyện Tam Nông, Tỉnh Phú Thọ",
         "code": "08446",
-        "parent_code": "236"
-    },
-    "08449": {
-        "name": "Bắc Sơn",
-        "type": "xa",
-        "slug": "bac-son",
-        "name_with_type": "Xã Bắc Sơn",
-        "path": "Bắc Sơn, Tam Nông, Phú Thọ",
-        "path_with_type": "Xã Bắc Sơn, Huyện Tam Nông, Tỉnh Phú Thọ",
-        "code": "08449",
         "parent_code": "236"
     },
     "08461": {

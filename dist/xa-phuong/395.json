@@ -1,34 +1,4 @@
 {
-    "15481": {
-        "name": "Thọ Xuân",
-        "type": "thi-tran",
-        "slug": "tho-xuan",
-        "name_with_type": "Thị trấn Thọ Xuân",
-        "path": "Thọ Xuân, Thọ Xuân, Thanh Hóa",
-        "path_with_type": "Thị trấn Thọ Xuân, Huyện Thọ Xuân, Tỉnh Thanh Hóa",
-        "code": "15481",
-        "parent_code": "395"
-    },
-    "15484": {
-        "name": "Lam Sơn",
-        "type": "thi-tran",
-        "slug": "lam-son",
-        "name_with_type": "Thị trấn Lam Sơn",
-        "path": "Lam Sơn, Thọ Xuân, Thanh Hóa",
-        "path_with_type": "Thị trấn Lam Sơn, Huyện Thọ Xuân, Tỉnh Thanh Hóa",
-        "code": "15484",
-        "parent_code": "395"
-    },
-    "15487": {
-        "name": "Sao Vàng",
-        "type": "thi-tran",
-        "slug": "sao-vang",
-        "name_with_type": "Thị trấn Sao Vàng",
-        "path": "Sao Vàng, Thọ Xuân, Thanh Hóa",
-        "path_with_type": "Thị trấn Sao Vàng, Huyện Thọ Xuân, Tỉnh Thanh Hóa",
-        "code": "15487",
-        "parent_code": "395"
-    },
     "15493": {
         "name": "Xuân Hồng",
         "type": "xa",
@@ -37,6 +7,16 @@
         "path": "Xuân Hồng, Thọ Xuân, Thanh Hóa",
         "path_with_type": "Xã Xuân Hồng, Huyện Thọ Xuân, Tỉnh Thanh Hóa",
         "code": "15493",
+        "parent_code": "395"
+    },
+    "15499": {
+        "name": "Thọ Xuân",
+        "type": "thi-tran",
+        "slug": "tho-xuan",
+        "name_with_type": "Thị trấn Thọ Xuân",
+        "path": "Thọ Xuân, Thọ Xuân, Thanh Hóa",
+        "path_with_type": "Thị trấn Thọ Xuân, Huyện Thọ Xuân, Tỉnh Thanh Hóa",
+        "code": "15499",
         "parent_code": "395"
     },
     "15502": {
@@ -197,6 +177,26 @@
         "path": "Xuân Phú, Thọ Xuân, Thanh Hóa",
         "path_with_type": "Xã Xuân Phú, Huyện Thọ Xuân, Tỉnh Thanh Hóa",
         "code": "15550",
+        "parent_code": "395"
+    },
+    "15553": {
+        "name": "Sao Vàng",
+        "type": "thi-tran",
+        "slug": "sao-vang",
+        "name_with_type": "Thị trấn Sao Vàng",
+        "path": "Sao Vàng, Thọ Xuân, Thanh Hóa",
+        "path_with_type": "Thị trấn Sao Vàng, Huyện Thọ Xuân, Tỉnh Thanh Hóa",
+        "code": "15553",
+        "parent_code": "395"
+    },
+    "15556": {
+        "name": "Lam Sơn",
+        "type": "thi-tran",
+        "slug": "lam-son",
+        "name_with_type": "Thị trấn Lam Sơn",
+        "path": "Lam Sơn, Thọ Xuân, Thanh Hóa",
+        "path_with_type": "Thị trấn Lam Sơn, Huyện Thọ Xuân, Tỉnh Thanh Hóa",
+        "code": "15556",
         "parent_code": "395"
     },
     "15559": {

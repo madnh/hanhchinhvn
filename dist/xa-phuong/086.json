@@ -129,16 +129,6 @@
         "code": "02938",
         "parent_code": "086"
     },
-    "02941": {
-        "name": "Phố Lu",
-        "type": "xa",
-        "slug": "pho-lu",
-        "name_with_type": "Xã Phố Lu",
-        "path": "Phố Lu, Bảo Thắng, Lào Cai",
-        "path_with_type": "Xã Phố Lu, Huyện Bảo Thắng, Tỉnh Lào Cai",
-        "code": "02941",
-        "parent_code": "086"
-    },
     "02944": {
         "name": "Phú Nhuận",
         "type": "xa",

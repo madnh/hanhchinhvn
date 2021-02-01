@@ -31,11 +31,11 @@
     },
     "08944": {
         "name": "Bá Hiến",
-        "type": "xa",
+        "type": "thi-tran",
         "slug": "ba-hien",
-        "name_with_type": "Xã Bá Hiến",
+        "name_with_type": "Thị trấn Bá Hiến",
         "path": "Bá Hiến, Bình Xuyên, Vĩnh Phúc",
-        "path_with_type": "Xã Bá Hiến, Huyện Bình Xuyên, Tỉnh Vĩnh Phúc",
+        "path_with_type": "Thị trấn Bá Hiến, Huyện Bình Xuyên, Tỉnh Vĩnh Phúc",
         "code": "08944",
         "parent_code": "249"
     },
@@ -91,11 +91,11 @@
     },
     "08962": {
         "name": "Đạo Đức",
-        "type": "xa",
+        "type": "thi-tran",
         "slug": "dao-duc",
-        "name_with_type": "Xã Đạo Đức",
+        "name_with_type": "Thị trấn Đạo Đức",
         "path": "Đạo Đức, Bình Xuyên, Vĩnh Phúc",
-        "path_with_type": "Xã Đạo Đức, Huyện Bình Xuyên, Tỉnh Vĩnh Phúc",
+        "path_with_type": "Thị trấn Đạo Đức, Huyện Bình Xuyên, Tỉnh Vĩnh Phúc",
         "code": "08962",
         "parent_code": "249"
     },

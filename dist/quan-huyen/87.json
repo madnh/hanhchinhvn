@@ -21,11 +21,11 @@
     },
     "868": {
         "name": "Hồng Ngự",
-        "type": "thi-xa",
+        "type": "thanh-pho",
         "slug": "hong-ngu",
-        "name_with_type": "Thị xã Hồng Ngự",
+        "name_with_type": "Thành phố Hồng Ngự",
         "path": "Hồng Ngự, Đồng Tháp",
-        "path_with_type": "Thị xã Hồng Ngự, Tỉnh Đồng Tháp",
+        "path_with_type": "Thành phố Hồng Ngự, Tỉnh Đồng Tháp",
         "code": "868",
         "parent_code": "87"
     },

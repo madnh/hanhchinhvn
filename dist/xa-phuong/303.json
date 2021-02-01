@@ -69,16 +69,6 @@
         "code": "11314",
         "parent_code": "303"
     },
-    "11317": {
-        "name": "Quang Trung",
-        "type": "phuong",
-        "slug": "quang-trung",
-        "name_with_type": "Phường Quang Trung",
-        "path": "Quang Trung, Hồng Bàng, Hải Phòng",
-        "path_with_type": "Phường Quang Trung, Quận Hồng Bàng, Thành phố Hải Phòng",
-        "code": "11317",
-        "parent_code": "303"
-    },
     "11320": {
         "name": "Hoàng Văn Thụ",
         "type": "phuong",
@@ -97,16 +87,6 @@
         "path": "Phan Bội Châu, Hồng Bàng, Hải Phòng",
         "path_with_type": "Phường Phan Bội Châu, Quận Hồng Bàng, Thành phố Hải Phòng",
         "code": "11323",
-        "parent_code": "303"
-    },
-    "11326": {
-        "name": "Phạm Hồng Thái",
-        "type": "phuong",
-        "slug": "pham-hong-thai",
-        "name_with_type": "Phường Phạm Hồng Thái",
-        "path": "Phạm Hồng Thái, Hồng Bàng, Hải Phòng",
-        "path_with_type": "Phường Phạm Hồng Thái, Quận Hồng Bàng, Thành phố Hải Phòng",
-        "code": "11326",
         "parent_code": "303"
     }
 }

@@ -99,16 +99,6 @@
         "code": "28348",
         "parent_code": "818"
     },
-    "28351": {
-        "name": "Mỹ Phước",
-        "type": "xa",
-        "slug": "my-phuoc",
-        "name_with_type": "Xã Mỹ Phước",
-        "path": "Mỹ Phước, Tân Phước, Tiền Giang",
-        "path_with_type": "Xã Mỹ Phước, Huyện Tân Phước, Tỉnh Tiền Giang",
-        "code": "28351",
-        "parent_code": "818"
-    },
     "28354": {
         "name": "Tân Lập 2",
         "type": "xa",

@@ -51,11 +51,11 @@
     },
     "30478": {
         "name": "Vĩnh Thạnh Trung",
-        "type": "xa",
+        "type": "thi-tran",
         "slug": "vinh-thanh-trung",
-        "name_with_type": "Xã Vĩnh Thạnh Trung",
+        "name_with_type": "Thị trấn Vĩnh Thạnh Trung",
         "path": "Vĩnh Thạnh Trung, Châu Phú, An Giang",
-        "path_with_type": "Xã Vĩnh Thạnh Trung, Huyện Châu Phú, Tỉnh An Giang",
+        "path_with_type": "Thị trấn Vĩnh Thạnh Trung, Huyện Châu Phú, Tỉnh An Giang",
         "code": "30478",
         "parent_code": "889"
     },

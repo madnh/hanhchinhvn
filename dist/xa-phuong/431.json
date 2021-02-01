@@ -149,34 +149,34 @@
         "code": "18043",
         "parent_code": "431"
     },
-    "18058": {
+    "18052": {
         "name": "Châu Nhân",
         "type": "xa",
         "slug": "chau-nhan",
         "name_with_type": "Xã Châu Nhân",
         "path": "Châu Nhân, Hưng Nguyên, Nghệ An",
         "path_with_type": "Xã Châu Nhân, Huyện Hưng Nguyên, Tỉnh Nghệ An",
-        "code": "18058",
+        "code": "18052",
         "parent_code": "431"
     },
-    "18061": {
-        "name": "Hưng Thành",
-        "type": "xa",
-        "slug": "hung-thanh",
-        "name_with_type": "Xã Hưng Thành",
-        "path": "Hưng Thành, Hưng Nguyên, Nghệ An",
-        "path_with_type": "Xã Hưng Thành, Huyện Hưng Nguyên, Tỉnh Nghệ An",
-        "code": "18061",
-        "parent_code": "431"
-    },
-    "18067": {
+    "18055": {
         "name": "Xuân Lam",
         "type": "xa",
         "slug": "xuan-lam",
         "name_with_type": "Xã Xuân Lam",
         "path": "Xuân Lam, Hưng Nguyên, Nghệ An",
         "path_with_type": "Xã Xuân Lam, Huyện Hưng Nguyên, Tỉnh Nghệ An",
-        "code": "18067",
+        "code": "18055",
+        "parent_code": "431"
+    },
+    "18064": {
+        "name": "Hưng Thành",
+        "type": "xa",
+        "slug": "hung-thanh",
+        "name_with_type": "Xã Hưng Thành",
+        "path": "Hưng Thành, Hưng Nguyên, Nghệ An",
+        "path_with_type": "Xã Hưng Thành, Huyện Hưng Nguyên, Tỉnh Nghệ An",
+        "code": "18064",
         "parent_code": "431"
     }
 }

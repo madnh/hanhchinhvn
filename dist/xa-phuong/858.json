@@ -1,14 +1,4 @@
 {
-    "29620": {
-        "name": "Cái Nhum",
-        "type": "thi-tran",
-        "slug": "cai-nhum",
-        "name_with_type": "Thị trấn Cái Nhum",
-        "path": "Cái Nhum, Mang Thít, Vĩnh Long",
-        "path_with_type": "Thị trấn Cái Nhum, Huyện Mang Thít, Tỉnh Vĩnh Long",
-        "code": "29620",
-        "parent_code": "858"
-    },
     "29623": {
         "name": "Mỹ An",
         "type": "xa",
@@ -70,12 +60,12 @@
         "parent_code": "858"
     },
     "29641": {
-        "name": "Chánh Hội",
-        "type": "xa",
-        "slug": "chanh-hoi",
-        "name_with_type": "Xã Chánh Hội",
-        "path": "Chánh Hội, Mang Thít, Vĩnh Long",
-        "path_with_type": "Xã Chánh Hội, Huyện Mang Thít, Tỉnh Vĩnh Long",
+        "name": "Cái Nhum",
+        "type": "thi-tran",
+        "slug": "cai-nhum",
+        "name_with_type": "Thị trấn Cái Nhum",
+        "path": "Cái Nhum, Mang Thít, Vĩnh Long",
+        "path_with_type": "Thị trấn Cái Nhum, Huyện Mang Thít, Tỉnh Vĩnh Long",
         "code": "29641",
         "parent_code": "858"
     },

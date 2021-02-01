@@ -11,11 +11,11 @@
     },
     "931": {
         "name": "Ngã Bảy",
-        "type": "thi-xa",
+        "type": "thanh-pho",
         "slug": "nga-bay",
-        "name_with_type": "Thị xã Ngã Bảy",
+        "name_with_type": "Thành phố Ngã Bảy",
         "path": "Ngã Bảy, Hậu Giang",
-        "path_with_type": "Thị xã Ngã Bảy, Tỉnh Hậu Giang",
+        "path_with_type": "Thành phố Ngã Bảy, Tỉnh Hậu Giang",
         "code": "931",
         "parent_code": "93"
     },

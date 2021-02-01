@@ -9,16 +9,6 @@
         "code": "03055",
         "parent_code": "089"
     },
-    "03058": {
-        "name": "Văn Sơn",
-        "type": "xa",
-        "slug": "van-son",
-        "name_with_type": "Xã Văn Sơn",
-        "path": "Văn Sơn, Văn Bàn, Lào Cai",
-        "path_with_type": "Xã Văn Sơn, Huyện Văn Bàn, Tỉnh Lào Cai",
-        "code": "03058",
-        "parent_code": "089"
-    },
     "03061": {
         "name": "Võ Lao",
         "type": "xa",

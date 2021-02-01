@@ -41,22 +41,12 @@
     },
     "20651": {
         "name": "Hương An",
-        "type": "xa",
+        "type": "thi-tran",
         "slug": "huong-an",
-        "name_with_type": "Xã Hương An",
+        "name_with_type": "Thị trấn Hương An",
         "path": "Hương An, Quế Sơn, Quảng Nam",
-        "path_with_type": "Xã Hương An, Huyện Quế Sơn, Tỉnh Quảng Nam",
+        "path_with_type": "Thị trấn Hương An, Huyện Quế Sơn, Tỉnh Quảng Nam",
         "code": "20651",
-        "parent_code": "509"
-    },
-    "20653": {
-        "name": "Quế Cường",
-        "type": "xa",
-        "slug": "que-cuong",
-        "name_with_type": "Xã Quế Cường",
-        "path": "Quế Cường, Quế Sơn, Quảng Nam",
-        "path_with_type": "Xã Quế Cường, Huyện Quế Sơn, Tỉnh Quảng Nam",
-        "code": "20653",
         "parent_code": "509"
     },
     "20659": {
@@ -80,12 +70,12 @@
         "parent_code": "509"
     },
     "20665": {
-        "name": "Phú Thọ",
+        "name": "Quế Mỹ",
         "type": "xa",
-        "slug": "phu-tho",
-        "name_with_type": "Xã Phú Thọ",
-        "path": "Phú Thọ, Quế Sơn, Quảng Nam",
-        "path_with_type": "Xã Phú Thọ, Huyện Quế Sơn, Tỉnh Quảng Nam",
+        "slug": "que-my",
+        "name_with_type": "Xã Quế Mỹ",
+        "path": "Quế Mỹ, Quế Sơn, Quảng Nam",
+        "path_with_type": "Xã Quế Mỹ, Huyện Quế Sơn, Tỉnh Quảng Nam",
         "code": "20665",
         "parent_code": "509"
     },

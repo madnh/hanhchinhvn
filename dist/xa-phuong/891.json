@@ -121,11 +121,11 @@
     },
     "30580": {
         "name": "Cô Tô",
-        "type": "xa",
+        "type": "thi-tran",
         "slug": "co-to",
-        "name_with_type": "Xã Cô Tô",
+        "name_with_type": "Thị trấn Cô Tô",
         "path": "Cô Tô, Tri Tôn, An Giang",
-        "path_with_type": "Xã Cô Tô, Huyện Tri Tôn, Tỉnh An Giang",
+        "path_with_type": "Thị trấn Cô Tô, Huyện Tri Tôn, Tỉnh An Giang",
         "code": "30580",
         "parent_code": "891"
     },

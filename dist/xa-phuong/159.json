@@ -19,6 +19,16 @@
         "code": "05392",
         "parent_code": "159"
     },
+    "05395": {
+        "name": "Phú Nghĩa",
+        "type": "xa",
+        "slug": "phu-nghia",
+        "name_with_type": "Xã Phú Nghĩa",
+        "path": "Phú Nghĩa, Lạc Thủy, Hoà Bình",
+        "path_with_type": "Xã Phú Nghĩa, Huyện Lạc Thủy, Tỉnh Hoà Bình",
+        "code": "05395",
+        "parent_code": "159"
+    },
     "05398": {
         "name": "Phú Thành",
         "type": "xa",
@@ -27,16 +37,6 @@
         "path": "Phú Thành, Lạc Thủy, Hoà Bình",
         "path_with_type": "Xã Phú Thành, Huyện Lạc Thủy, Tỉnh Hoà Bình",
         "code": "05398",
-        "parent_code": "159"
-    },
-    "05401": {
-        "name": "Phú Nghĩa",
-        "type": "xa",
-        "slug": "phu-nghia",
-        "name_with_type": "Xã Phú Nghĩa",
-        "path": "Phú Nghĩa, Lạc Thủy, Hoà Bình",
-        "path_with_type": "Xã Phú Nghĩa, Huyện Lạc Thủy, Tỉnh Hoà Bình",
-        "code": "05401",
         "parent_code": "159"
     },
     "05404": {

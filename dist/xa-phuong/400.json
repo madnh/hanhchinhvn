@@ -109,14 +109,14 @@
         "code": "16045",
         "parent_code": "400"
     },
-    "16051": {
+    "16048": {
         "name": "Thuần Lộc",
         "type": "xa",
         "slug": "thuan-loc",
         "name_with_type": "Xã Thuần Lộc",
         "path": "Thuần Lộc, Hậu Lộc, Thanh Hóa",
         "path_with_type": "Xã Thuần Lộc, Huyện Hậu Lộc, Tỉnh Thanh Hóa",
-        "code": "16051",
+        "code": "16048",
         "parent_code": "400"
     },
     "16057": {

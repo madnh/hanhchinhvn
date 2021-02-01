@@ -19,16 +19,6 @@
         "code": "23152",
         "parent_code": "599"
     },
-    "23155": {
-        "name": "Măng Tố",
-        "type": "xa",
-        "slug": "mang-to",
-        "name_with_type": "Xã Măng Tố",
-        "path": "Măng Tố, Tánh Linh, Bình Thuận",
-        "path_with_type": "Xã Măng Tố, Huyện Tánh Linh, Tỉnh Bình Thuận",
-        "code": "23155",
-        "parent_code": "599"
-    },
     "23158": {
         "name": "Nghị Đức",
         "type": "xa",
@@ -57,6 +47,16 @@
         "path": "Huy Khiêm, Tánh Linh, Bình Thuận",
         "path_with_type": "Xã Huy Khiêm, Huyện Tánh Linh, Tỉnh Bình Thuận",
         "code": "23164",
+        "parent_code": "599"
+    },
+    "23167": {
+        "name": "Măng Tố",
+        "type": "xa",
+        "slug": "mang-to",
+        "name_with_type": "Xã Măng Tố",
+        "path": "Măng Tố, Tánh Linh, Bình Thuận",
+        "path_with_type": "Xã Măng Tố, Huyện Tánh Linh, Tỉnh Bình Thuận",
+        "code": "23167",
         "parent_code": "599"
     },
     "23170": {

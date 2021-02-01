@@ -29,16 +29,6 @@
         "code": "18571",
         "parent_code": "445"
     },
-    "18574": {
-        "name": "Đỉnh Bàn",
-        "type": "xa",
-        "slug": "dinh-ban",
-        "name_with_type": "Xã Đỉnh Bàn",
-        "path": "Đỉnh Bàn, Thạch Hà, Hà Tĩnh",
-        "path_with_type": "Xã Đỉnh Bàn, Huyện Thạch Hà, Tỉnh Hà Tĩnh",
-        "code": "18574",
-        "parent_code": "445"
-    },
     "18586": {
         "name": "Thạch Kênh",
         "type": "xa",
@@ -69,6 +59,26 @@
         "code": "18592",
         "parent_code": "445"
     },
+    "18595": {
+        "name": "Đỉnh Bàn",
+        "type": "xa",
+        "slug": "dinh-ban",
+        "name_with_type": "Xã Đỉnh Bàn",
+        "path": "Đỉnh Bàn, Thạch Hà, Hà Tĩnh",
+        "path_with_type": "Xã Đỉnh Bàn, Huyện Thạch Hà, Tỉnh Hà Tĩnh",
+        "code": "18595",
+        "parent_code": "445"
+    },
+    "18601": {
+        "name": "Việt Tiến",
+        "type": "xa",
+        "slug": "viet-tien",
+        "name_with_type": "Xã Việt Tiến",
+        "path": "Việt Tiến, Thạch Hà, Hà Tĩnh",
+        "path_with_type": "Xã Việt Tiến, Huyện Thạch Hà, Tỉnh Hà Tĩnh",
+        "code": "18601",
+        "parent_code": "445"
+    },
     "18604": {
         "name": "Thạch Khê",
         "type": "xa",
@@ -87,16 +97,6 @@
         "path": "Thạch Long, Thạch Hà, Hà Tĩnh",
         "path_with_type": "Xã Thạch Long, Huyện Thạch Hà, Tỉnh Hà Tĩnh",
         "code": "18607",
-        "parent_code": "445"
-    },
-    "18613": {
-        "name": "Việt Tiến",
-        "type": "xa",
-        "slug": "viet-tien",
-        "name_with_type": "Xã Việt Tiến",
-        "path": "Việt Tiến, Thạch Hà, Hà Tĩnh",
-        "path_with_type": "Xã Việt Tiến, Huyện Thạch Hà, Tỉnh Hà Tĩnh",
-        "code": "18613",
         "parent_code": "445"
     },
     "18619": {
@@ -149,6 +149,16 @@
         "code": "18631",
         "parent_code": "445"
     },
+    "18634": {
+        "name": "Lưu Vĩnh Sơn",
+        "type": "xa",
+        "slug": "luu-vinh-son",
+        "name_with_type": "Xã Lưu Vĩnh Sơn",
+        "path": "Lưu Vĩnh Sơn, Thạch Hà, Hà Tĩnh",
+        "path_with_type": "Xã Lưu Vĩnh Sơn, Huyện Thạch Hà, Tỉnh Hà Tĩnh",
+        "code": "18634",
+        "parent_code": "445"
+    },
     "18637": {
         "name": "Thạch Thắng",
         "type": "xa",
@@ -167,16 +177,6 @@
         "path": "Thạch Đài, Thạch Hà, Hà Tĩnh",
         "path_with_type": "Xã Thạch Đài, Huyện Thạch Hà, Tỉnh Hà Tĩnh",
         "code": "18643",
-        "parent_code": "445"
-    },
-    "18646": {
-        "name": "Lưu Vĩnh Sơn",
-        "type": "xa",
-        "slug": "luu-vinh-son",
-        "name_with_type": "Xã Lưu Vĩnh Sơn",
-        "path": "Lưu Vĩnh Sơn, Thạch Hà, Hà Tĩnh",
-        "path_with_type": "Xã Lưu Vĩnh Sơn, Huyện Thạch Hà, Tỉnh Hà Tĩnh",
-        "code": "18646",
         "parent_code": "445"
     },
     "18649": {

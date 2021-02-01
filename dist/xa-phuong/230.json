@@ -9,14 +9,14 @@
         "code": "07969",
         "parent_code": "230"
     },
-    "07978": {
+    "07975": {
         "name": "Hùng Xuyên",
         "type": "xa",
         "slug": "hung-xuyen",
         "name_with_type": "Xã Hùng Xuyên",
         "path": "Hùng Xuyên, Đoan Hùng, Phú Thọ",
         "path_with_type": "Xã Hùng Xuyên, Huyện Đoan Hùng, Tỉnh Phú Thọ",
-        "code": "07978",
+        "code": "07975",
         "parent_code": "230"
     },
     "07981": {
@@ -39,14 +39,14 @@
         "code": "07984",
         "parent_code": "230"
     },
-    "07990": {
+    "07987": {
         "name": "Phú Lâm",
         "type": "xa",
         "slug": "phu-lam",
         "name_with_type": "Xã Phú Lâm",
         "path": "Phú Lâm, Đoan Hùng, Phú Thọ",
         "path_with_type": "Xã Phú Lâm, Huyện Đoan Hùng, Tỉnh Phú Thọ",
-        "code": "07990",
+        "code": "07987",
         "parent_code": "230"
     },
     "07993": {

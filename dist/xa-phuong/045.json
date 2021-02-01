@@ -1,4 +1,94 @@
 {
+    "01363": {
+        "name": "Thông Nông",
+        "type": "thi-tran",
+        "slug": "thong-nong",
+        "name_with_type": "Thị trấn Thông Nông",
+        "path": "Thông Nông, Hà Quảng, Cao Bằng",
+        "path_with_type": "Thị trấn Thông Nông, Huyện Hà Quảng, Tỉnh Cao Bằng",
+        "code": "01363",
+        "parent_code": "045"
+    },
+    "01366": {
+        "name": "Cần Yên",
+        "type": "xa",
+        "slug": "can-yen",
+        "name_with_type": "Xã Cần Yên",
+        "path": "Cần Yên, Hà Quảng, Cao Bằng",
+        "path_with_type": "Xã Cần Yên, Huyện Hà Quảng, Tỉnh Cao Bằng",
+        "code": "01366",
+        "parent_code": "045"
+    },
+    "01367": {
+        "name": "Cần Nông",
+        "type": "xa",
+        "slug": "can-nong",
+        "name_with_type": "Xã Cần Nông",
+        "path": "Cần Nông, Hà Quảng, Cao Bằng",
+        "path_with_type": "Xã Cần Nông, Huyện Hà Quảng, Tỉnh Cao Bằng",
+        "code": "01367",
+        "parent_code": "045"
+    },
+    "01372": {
+        "name": "Lương Thông",
+        "type": "xa",
+        "slug": "luong-thong",
+        "name_with_type": "Xã Lương Thông",
+        "path": "Lương Thông, Hà Quảng, Cao Bằng",
+        "path_with_type": "Xã Lương Thông, Huyện Hà Quảng, Tỉnh Cao Bằng",
+        "code": "01372",
+        "parent_code": "045"
+    },
+    "01375": {
+        "name": "Đa Thông",
+        "type": "xa",
+        "slug": "da-thong",
+        "name_with_type": "Xã Đa Thông",
+        "path": "Đa Thông, Hà Quảng, Cao Bằng",
+        "path_with_type": "Xã Đa Thông, Huyện Hà Quảng, Tỉnh Cao Bằng",
+        "code": "01375",
+        "parent_code": "045"
+    },
+    "01378": {
+        "name": "Ngọc Động",
+        "type": "xa",
+        "slug": "ngoc-dong",
+        "name_with_type": "Xã Ngọc Động",
+        "path": "Ngọc Động, Hà Quảng, Cao Bằng",
+        "path_with_type": "Xã Ngọc Động, Huyện Hà Quảng, Tỉnh Cao Bằng",
+        "code": "01378",
+        "parent_code": "045"
+    },
+    "01381": {
+        "name": "Yên Sơn",
+        "type": "xa",
+        "slug": "yen-son",
+        "name_with_type": "Xã Yên Sơn",
+        "path": "Yên Sơn, Hà Quảng, Cao Bằng",
+        "path_with_type": "Xã Yên Sơn, Huyện Hà Quảng, Tỉnh Cao Bằng",
+        "code": "01381",
+        "parent_code": "045"
+    },
+    "01384": {
+        "name": "Lương Can",
+        "type": "xa",
+        "slug": "luong-can",
+        "name_with_type": "Xã Lương Can",
+        "path": "Lương Can, Hà Quảng, Cao Bằng",
+        "path_with_type": "Xã Lương Can, Huyện Hà Quảng, Tỉnh Cao Bằng",
+        "code": "01384",
+        "parent_code": "045"
+    },
+    "01387": {
+        "name": "Thanh Long",
+        "type": "xa",
+        "slug": "thanh-long",
+        "name_with_type": "Xã Thanh Long",
+        "path": "Thanh Long, Hà Quảng, Cao Bằng",
+        "path_with_type": "Xã Thanh Long, Huyện Hà Quảng, Tỉnh Cao Bằng",
+        "code": "01387",
+        "parent_code": "045"
+    },
     "01392": {
         "name": "Xuân Hòa",
         "type": "thi-tran",
@@ -19,16 +109,6 @@
         "code": "01393",
         "parent_code": "045"
     },
-    "01396": {
-        "name": "Kéo Yên",
-        "type": "xa",
-        "slug": "keo-yen",
-        "name_with_type": "Xã Kéo Yên",
-        "path": "Kéo Yên, Hà Quảng, Cao Bằng",
-        "path_with_type": "Xã Kéo Yên, Huyện Hà Quảng, Tỉnh Cao Bằng",
-        "code": "01396",
-        "parent_code": "045"
-    },
     "01399": {
         "name": "Trường Hà",
         "type": "xa",
@@ -40,33 +120,13 @@
         "parent_code": "045"
     },
     "01402": {
-        "name": "Vân An",
-        "type": "xa",
-        "slug": "van-an",
-        "name_with_type": "Xã Vân An",
-        "path": "Vân An, Hà Quảng, Cao Bằng",
-        "path_with_type": "Xã Vân An, Huyện Hà Quảng, Tỉnh Cao Bằng",
-        "code": "01402",
-        "parent_code": "045"
-    },
-    "01405": {
         "name": "Cải Viên",
         "type": "xa",
         "slug": "cai-vien",
         "name_with_type": "Xã Cải Viên",
         "path": "Cải Viên, Hà Quảng, Cao Bằng",
         "path_with_type": "Xã Cải Viên, Huyện Hà Quảng, Tỉnh Cao Bằng",
-        "code": "01405",
-        "parent_code": "045"
-    },
-    "01408": {
-        "name": "Nà Sác",
-        "type": "xa",
-        "slug": "na-sac",
-        "name_with_type": "Xã Nà Sác",
-        "path": "Nà Sác, Hà Quảng, Cao Bằng",
-        "path_with_type": "Xã Nà Sác, Huyện Hà Quảng, Tỉnh Cao Bằng",
-        "code": "01408",
+        "code": "01402",
         "parent_code": "045"
     },
     "01411": {
@@ -109,33 +169,13 @@
         "code": "01420",
         "parent_code": "045"
     },
-    "01423": {
-        "name": "Vần Dính",
-        "type": "xa",
-        "slug": "van-dinh",
-        "name_with_type": "Xã Vần Dính",
-        "path": "Vần Dính, Hà Quảng, Cao Bằng",
-        "path_with_type": "Xã Vần Dính, Huyện Hà Quảng, Tỉnh Cao Bằng",
-        "code": "01423",
-        "parent_code": "045"
-    },
-    "01426": {
-        "name": "Hồng Sĩ",
-        "type": "xa",
-        "slug": "hong-si",
-        "name_with_type": "Xã Hồng Sĩ",
-        "path": "Hồng Sĩ, Hà Quảng, Cao Bằng",
-        "path_with_type": "Xã Hồng Sĩ, Huyện Hà Quảng, Tỉnh Cao Bằng",
-        "code": "01426",
-        "parent_code": "045"
-    },
     "01429": {
-        "name": "Sĩ Hai",
+        "name": "Hồng Sỹ",
         "type": "xa",
-        "slug": "si-hai",
-        "name_with_type": "Xã Sĩ Hai",
-        "path": "Sĩ Hai, Hà Quảng, Cao Bằng",
-        "path_with_type": "Xã Sĩ Hai, Huyện Hà Quảng, Tỉnh Cao Bằng",
+        "slug": "hong-sy",
+        "name_with_type": "Xã Hồng Sỹ",
+        "path": "Hồng Sỹ, Hà Quảng, Cao Bằng",
+        "path_with_type": "Xã Hồng Sỹ, Huyện Hà Quảng, Tỉnh Cao Bằng",
         "code": "01429",
         "parent_code": "045"
     },
@@ -160,33 +200,13 @@
         "parent_code": "045"
     },
     "01438": {
-        "name": "Phù Ngọc",
+        "name": "Ngọc Đào",
         "type": "xa",
-        "slug": "phu-ngoc",
-        "name_with_type": "Xã Phù Ngọc",
-        "path": "Phù Ngọc, Hà Quảng, Cao Bằng",
-        "path_with_type": "Xã Phù Ngọc, Huyện Hà Quảng, Tỉnh Cao Bằng",
+        "slug": "ngoc-dao",
+        "name_with_type": "Xã Ngọc Đào",
+        "path": "Ngọc Đào, Hà Quảng, Cao Bằng",
+        "path_with_type": "Xã Ngọc Đào, Huyện Hà Quảng, Tỉnh Cao Bằng",
         "code": "01438",
-        "parent_code": "045"
-    },
-    "01441": {
-        "name": "Đào Ngạn",
-        "type": "xa",
-        "slug": "dao-ngan",
-        "name_with_type": "Xã Đào Ngạn",
-        "path": "Đào Ngạn, Hà Quảng, Cao Bằng",
-        "path_with_type": "Xã Đào Ngạn, Huyện Hà Quảng, Tỉnh Cao Bằng",
-        "code": "01441",
-        "parent_code": "045"
-    },
-    "01444": {
-        "name": "Hạ Thôn",
-        "type": "xa",
-        "slug": "ha-thon",
-        "name_with_type": "Xã Hạ Thôn",
-        "path": "Hạ Thôn, Hà Quảng, Cao Bằng",
-        "path_with_type": "Xã Hạ Thôn, Huyện Hà Quảng, Tỉnh Cao Bằng",
-        "code": "01444",
         "parent_code": "045"
     }
 }

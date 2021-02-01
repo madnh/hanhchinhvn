@@ -1,12 +1,12 @@
 {
-    "15346": {
+    "15349": {
         "name": "Vĩnh Lộc",
         "type": "thi-tran",
         "slug": "vinh-loc",
         "name_with_type": "Thị trấn Vĩnh Lộc",
         "path": "Vĩnh Lộc, Vĩnh Lộc, Thanh Hóa",
         "path_with_type": "Thị trấn Vĩnh Lộc, Huyện Vĩnh Lộc, Tỉnh Thanh Hóa",
-        "code": "15346",
+        "code": "15349",
         "parent_code": "393"
     },
     "15352": {

@@ -1,11 +1,11 @@
 {
     "13075": {
-        "name": "Thanh Nê",
+        "name": "Kiến Xương",
         "type": "thi-tran",
-        "slug": "thanh-ne",
-        "name_with_type": "Thị trấn Thanh Nê",
-        "path": "Thanh Nê, Kiến Xương, Thái Bình",
-        "path_with_type": "Thị trấn Thanh Nê, Huyện Kiến Xương, Tỉnh Thái Bình",
+        "slug": "kien-xuong",
+        "name_with_type": "Thị trấn Kiến Xương",
+        "path": "Kiến Xương, Kiến Xương, Thái Bình",
+        "path_with_type": "Thị trấn Kiến Xương, Huyện Kiến Xương, Tỉnh Thái Bình",
         "code": "13075",
         "parent_code": "343"
     },
@@ -40,12 +40,12 @@
         "parent_code": "343"
     },
     "13090": {
-        "name": "Vũ Tây",
+        "name": "Tây Sơn",
         "type": "xa",
-        "slug": "vu-tay",
-        "name_with_type": "Xã Vũ Tây",
-        "path": "Vũ Tây, Kiến Xương, Thái Bình",
-        "path_with_type": "Xã Vũ Tây, Huyện Kiến Xương, Tỉnh Thái Bình",
+        "slug": "tay-son",
+        "name_with_type": "Xã Tây Sơn",
+        "path": "Tây Sơn, Kiến Xương, Thái Bình",
+        "path_with_type": "Xã Tây Sơn, Huyện Kiến Xương, Tỉnh Thái Bình",
         "code": "13090",
         "parent_code": "343"
     },
@@ -69,16 +69,6 @@
         "code": "13096",
         "parent_code": "343"
     },
-    "13099": {
-        "name": "Vũ Sơn",
-        "type": "xa",
-        "slug": "vu-son",
-        "name_with_type": "Xã Vũ Sơn",
-        "path": "Vũ Sơn, Kiến Xương, Thái Bình",
-        "path_with_type": "Xã Vũ Sơn, Huyện Kiến Xương, Tỉnh Thái Bình",
-        "code": "13099",
-        "parent_code": "343"
-    },
     "13102": {
         "name": "Lê Lợi",
         "type": "xa",
@@ -87,16 +77,6 @@
         "path": "Lê Lợi, Kiến Xương, Thái Bình",
         "path_with_type": "Xã Lê Lợi, Huyện Kiến Xương, Tỉnh Thái Bình",
         "code": "13102",
-        "parent_code": "343"
-    },
-    "13105": {
-        "name": "Quyết Tiến",
-        "type": "xa",
-        "slug": "quyet-tien",
-        "name_with_type": "Xã Quyết Tiến",
-        "path": "Quyết Tiến, Kiến Xương, Thái Bình",
-        "path_with_type": "Xã Quyết Tiến, Huyện Kiến Xương, Tỉnh Thái Bình",
-        "code": "13105",
         "parent_code": "343"
     },
     "13111": {
@@ -219,16 +199,6 @@
         "code": "13144",
         "parent_code": "343"
     },
-    "13147": {
-        "name": "An Bồi",
-        "type": "xa",
-        "slug": "an-boi",
-        "name_with_type": "Xã An Bồi",
-        "path": "An Bồi, Kiến Xương, Thái Bình",
-        "path_with_type": "Xã An Bồi, Huyện Kiến Xương, Tỉnh Thái Bình",
-        "code": "13147",
-        "parent_code": "343"
-    },
     "13150": {
         "name": "Vũ Trung",
         "type": "xa",
@@ -289,23 +259,13 @@
         "code": "13165",
         "parent_code": "343"
     },
-    "13168": {
-        "name": "Minh Hưng",
-        "type": "xa",
-        "slug": "minh-hung",
-        "name_with_type": "Xã Minh Hưng",
-        "path": "Minh Hưng, Kiến Xương, Thái Bình",
-        "path_with_type": "Xã Minh Hưng, Huyện Kiến Xương, Tỉnh Thái Bình",
-        "code": "13168",
-        "parent_code": "343"
-    },
     "13171": {
-        "name": "Quang Hưng",
+        "name": "Minh Quang",
         "type": "xa",
-        "slug": "quang-hung",
-        "name_with_type": "Xã Quang Hưng",
-        "path": "Quang Hưng, Kiến Xương, Thái Bình",
-        "path_with_type": "Xã Quang Hưng, Huyện Kiến Xương, Tỉnh Thái Bình",
+        "slug": "minh-quang",
+        "name_with_type": "Xã Minh Quang",
+        "path": "Minh Quang, Kiến Xương, Thái Bình",
+        "path_with_type": "Xã Minh Quang, Huyện Kiến Xương, Tỉnh Thái Bình",
         "code": "13171",
         "parent_code": "343"
     },

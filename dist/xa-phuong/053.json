@@ -39,16 +39,6 @@
         "code": "01795",
         "parent_code": "053"
     },
-    "01798": {
-        "name": "Thị Ngân",
-        "type": "xa",
-        "slug": "thi-ngan",
-        "name_with_type": "Xã Thị Ngân",
-        "path": "Thị Ngân, Thạch An, Cao Bằng",
-        "path_with_type": "Xã Thị Ngân, Huyện Thạch An, Tỉnh Cao Bằng",
-        "code": "01798",
-        "parent_code": "053"
-    },
     "01801": {
         "name": "Đức Thông",
         "type": "xa",
@@ -127,16 +117,6 @@
         "path": "Đức Long, Thạch An, Cao Bằng",
         "path_with_type": "Xã Đức Long, Huyện Thạch An, Tỉnh Cao Bằng",
         "code": "01822",
-        "parent_code": "053"
-    },
-    "01825": {
-        "name": "Danh Sỹ",
-        "type": "xa",
-        "slug": "danh-sy",
-        "name_with_type": "Xã Danh Sỹ",
-        "path": "Danh Sỹ, Thạch An, Cao Bằng",
-        "path_with_type": "Xã Danh Sỹ, Huyện Thạch An, Tỉnh Cao Bằng",
-        "code": "01825",
         "parent_code": "053"
     },
     "01828": {

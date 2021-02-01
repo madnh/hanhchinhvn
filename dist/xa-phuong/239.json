@@ -79,6 +79,16 @@
         "code": "08683",
         "parent_code": "239"
     },
+    "08686": {
+        "name": "Đồng Trung",
+        "type": "xa",
+        "slug": "dong-trung",
+        "name_with_type": "Xã Đồng Trung",
+        "path": "Đồng Trung, Thanh Thuỷ, Phú Thọ",
+        "path_with_type": "Xã Đồng Trung, Huyện Thanh Thuỷ, Tỉnh Phú Thọ",
+        "code": "08686",
+        "parent_code": "239"
+    },
     "08689": {
         "name": "Hoàng Xá",
         "type": "xa",
@@ -89,24 +99,14 @@
         "code": "08689",
         "parent_code": "239"
     },
-    "08695": {
-        "name": "Đồng Trung",
-        "type": "xa",
-        "slug": "dong-trung",
-        "name_with_type": "Xã Đồng Trung",
-        "path": "Đồng Trung, Thanh Thuỷ, Phú Thọ",
-        "path_with_type": "Xã Đồng Trung, Huyện Thanh Thuỷ, Tỉnh Phú Thọ",
-        "code": "08695",
-        "parent_code": "239"
-    },
-    "08704": {
+    "08701": {
         "name": "Tu Vũ",
         "type": "xa",
         "slug": "tu-vu",
         "name_with_type": "Xã Tu Vũ",
         "path": "Tu Vũ, Thanh Thuỷ, Phú Thọ",
         "path_with_type": "Xã Tu Vũ, Huyện Thanh Thuỷ, Tỉnh Phú Thọ",
-        "code": "08704",
+        "code": "08701",
         "parent_code": "239"
     }
 }

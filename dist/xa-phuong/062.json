@@ -80,12 +80,12 @@
         "parent_code": "062"
     },
     "01960": {
-        "name": "Lãng Ngâm",
+        "name": "Hiệp Lực",
         "type": "xa",
-        "slug": "lang-ngam",
-        "name_with_type": "Xã Lãng Ngâm",
-        "path": "Lãng Ngâm, Ngân Sơn, Bắc Kạn",
-        "path_with_type": "Xã Lãng Ngâm, Huyện Ngân Sơn, Tỉnh Bắc Kạn",
+        "slug": "hiep-luc",
+        "name_with_type": "Xã Hiệp Lực",
+        "path": "Hiệp Lực, Ngân Sơn, Bắc Kạn",
+        "path_with_type": "Xã Hiệp Lực, Huyện Ngân Sơn, Tỉnh Bắc Kạn",
         "code": "01960",
         "parent_code": "062"
     },
@@ -97,16 +97,6 @@
         "path": "Thuần Mang, Ngân Sơn, Bắc Kạn",
         "path_with_type": "Xã Thuần Mang, Huyện Ngân Sơn, Tỉnh Bắc Kạn",
         "code": "01963",
-        "parent_code": "062"
-    },
-    "01966": {
-        "name": "Hương Nê",
-        "type": "xa",
-        "slug": "huong-ne",
-        "name_with_type": "Xã Hương Nê",
-        "path": "Hương Nê, Ngân Sơn, Bắc Kạn",
-        "path_with_type": "Xã Hương Nê, Huyện Ngân Sơn, Tỉnh Bắc Kạn",
-        "code": "01966",
         "parent_code": "062"
     }
 }

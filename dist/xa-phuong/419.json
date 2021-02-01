@@ -159,6 +159,16 @@
         "code": "16984",
         "parent_code": "419"
     },
+    "16987": {
+        "name": "Nghĩa Thành",
+        "type": "xa",
+        "slug": "nghia-thanh",
+        "name_with_type": "Xã Nghĩa Thành",
+        "path": "Nghĩa Thành, Nghĩa Đàn, Nghệ An",
+        "path_with_type": "Xã Nghĩa Thành, Huyện Nghĩa Đàn, Tỉnh Nghệ An",
+        "code": "16987",
+        "parent_code": "419"
+    },
     "16996": {
         "name": "Nghĩa Hiếu",
         "type": "xa",
@@ -167,16 +177,6 @@
         "path": "Nghĩa Hiếu, Nghĩa Đàn, Nghệ An",
         "path_with_type": "Xã Nghĩa Hiếu, Huyện Nghĩa Đàn, Tỉnh Nghệ An",
         "code": "16996",
-        "parent_code": "419"
-    },
-    "16999": {
-        "name": "Nghĩa Thành",
-        "type": "xa",
-        "slug": "nghia-thanh",
-        "name_with_type": "Xã Nghĩa Thành",
-        "path": "Nghĩa Thành, Nghĩa Đàn, Nghệ An",
-        "path_with_type": "Xã Nghĩa Thành, Huyện Nghĩa Đàn, Tỉnh Nghệ An",
-        "code": "16999",
         "parent_code": "419"
     },
     "17020": {

@@ -200,12 +200,12 @@
         "parent_code": "361"
     },
     "13951": {
-        "name": "Nghĩa Thắng",
+        "name": "Phúc Thắng",
         "type": "xa",
-        "slug": "nghia-thang",
-        "name_with_type": "Xã Nghĩa Thắng",
-        "path": "Nghĩa Thắng, Nghĩa Hưng, Nam Định",
-        "path_with_type": "Xã Nghĩa Thắng, Huyện Nghĩa Hưng, Tỉnh Nam Định",
+        "slug": "phuc-thang",
+        "name_with_type": "Xã Phúc Thắng",
+        "path": "Phúc Thắng, Nghĩa Hưng, Nam Định",
+        "path_with_type": "Xã Phúc Thắng, Huyện Nghĩa Hưng, Tỉnh Nam Định",
         "code": "13951",
         "parent_code": "361"
     },
@@ -227,16 +227,6 @@
         "path": "Nghĩa Hải, Nghĩa Hưng, Nam Định",
         "path_with_type": "Xã Nghĩa Hải, Huyện Nghĩa Hưng, Tỉnh Nam Định",
         "code": "13957",
-        "parent_code": "361"
-    },
-    "13960": {
-        "name": "Nghĩa Phúc",
-        "type": "xa",
-        "slug": "nghia-phuc",
-        "name_with_type": "Xã Nghĩa Phúc",
-        "path": "Nghĩa Phúc, Nghĩa Hưng, Nam Định",
-        "path_with_type": "Xã Nghĩa Phúc, Huyện Nghĩa Hưng, Tỉnh Nam Định",
-        "code": "13960",
         "parent_code": "361"
     },
     "13963": {

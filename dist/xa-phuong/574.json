@@ -150,23 +150,13 @@
         "parent_code": "574"
     },
     "22696": {
-        "name": "Diên Bình",
+        "name": "Bình Lộc",
         "type": "xa",
-        "slug": "dien-binh",
-        "name_with_type": "Xã Diên Bình",
-        "path": "Diên Bình, Diên Khánh, Khánh Hòa",
-        "path_with_type": "Xã Diên Bình, Huyện Diên Khánh, Tỉnh Khánh Hòa",
+        "slug": "binh-loc",
+        "name_with_type": "Xã Bình Lộc",
+        "path": "Bình Lộc, Diên Khánh, Khánh Hòa",
+        "path_with_type": "Xã Bình Lộc, Huyện Diên Khánh, Tỉnh Khánh Hòa",
         "code": "22696",
-        "parent_code": "574"
-    },
-    "22699": {
-        "name": "Diên Lộc",
-        "type": "xa",
-        "slug": "dien-loc",
-        "name_with_type": "Xã Diên Lộc",
-        "path": "Diên Lộc, Diên Khánh, Khánh Hòa",
-        "path_with_type": "Xã Diên Lộc, Huyện Diên Khánh, Tỉnh Khánh Hòa",
-        "code": "22699",
         "parent_code": "574"
     },
     "22702": {

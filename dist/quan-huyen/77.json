@@ -68,5 +68,15 @@
         "path_with_type": "Thị xã Phú Mỹ, Tỉnh Bà Rịa - Vũng Tàu",
         "code": "754",
         "parent_code": "77"
+    },
+    "755": {
+        "name": "Côn Đảo",
+        "type": "huyen",
+        "slug": "con-dao",
+        "name_with_type": "Huyện Côn Đảo",
+        "path": "Côn Đảo, Bà Rịa - Vũng Tàu",
+        "path_with_type": "Huyện Côn Đảo, Tỉnh Bà Rịa - Vũng Tàu",
+        "code": "755",
+        "parent_code": "77"
     }
 }

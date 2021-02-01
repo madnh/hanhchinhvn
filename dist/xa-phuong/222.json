@@ -1,24 +1,4 @@
 {
-    "07753": {
-        "name": "Bích Động",
-        "type": "thi-tran",
-        "slug": "bich-dong",
-        "name_with_type": "Thị trấn  Bích Động",
-        "path": "Bích Động, Việt Yên, Bắc Giang",
-        "path_with_type": "Thị trấn  Bích Động, Huyện Việt Yên, Tỉnh Bắc Giang",
-        "code": "07753",
-        "parent_code": "222"
-    },
-    "07756": {
-        "name": "Nếnh",
-        "type": "thi-tran",
-        "slug": "nenh",
-        "name_with_type": "Thị trấn Nếnh",
-        "path": "Nếnh, Việt Yên, Bắc Giang",
-        "path_with_type": "Thị trấn Nếnh, Huyện Việt Yên, Tỉnh Bắc Giang",
-        "code": "07756",
-        "parent_code": "222"
-    },
     "07759": {
         "name": "Thượng Lan",
         "type": "xa",
@@ -79,6 +59,16 @@
         "code": "07774",
         "parent_code": "222"
     },
+    "07777": {
+        "name": "Bích Động",
+        "type": "thi-tran",
+        "slug": "bich-dong",
+        "name_with_type": "Thị trấn Bích Động",
+        "path": "Bích Động, Việt Yên, Bắc Giang",
+        "path_with_type": "Thị trấn Bích Động, Huyện Việt Yên, Tỉnh Bắc Giang",
+        "code": "07777",
+        "parent_code": "222"
+    },
     "07780": {
         "name": "Trung Sơn",
         "type": "xa",
@@ -127,6 +117,16 @@
         "path": "Quảng Minh, Việt Yên, Bắc Giang",
         "path_with_type": "Xã Quảng Minh, Huyện Việt Yên, Tỉnh Bắc Giang",
         "code": "07792",
+        "parent_code": "222"
+    },
+    "07795": {
+        "name": "Nếnh",
+        "type": "thi-tran",
+        "slug": "nenh",
+        "name_with_type": "Thị trấn Nếnh",
+        "path": "Nếnh, Việt Yên, Bắc Giang",
+        "path_with_type": "Thị trấn Nếnh, Huyện Việt Yên, Tỉnh Bắc Giang",
+        "code": "07795",
         "parent_code": "222"
     },
     "07798": {

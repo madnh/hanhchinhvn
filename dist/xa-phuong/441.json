@@ -39,6 +39,16 @@
         "code": "18322",
         "parent_code": "441"
     },
+    "18325": {
+        "name": "Thọ Điền",
+        "type": "xa",
+        "slug": "tho-dien",
+        "name_with_type": "Xã Thọ Điền",
+        "path": "Thọ Điền, Vũ Quang, Hà Tĩnh",
+        "path_with_type": "Xã Thọ Điền, Huyện Vũ Quang, Tỉnh Hà Tĩnh",
+        "code": "18325",
+        "parent_code": "441"
+    },
     "18328": {
         "name": "Đức Hương",
         "type": "xa",
@@ -69,16 +79,6 @@
         "code": "18334",
         "parent_code": "441"
     },
-    "18337": {
-        "name": "Thọ Điền",
-        "type": "xa",
-        "slug": "tho-dien",
-        "name_with_type": "Xã Thọ Điền",
-        "path": "Thọ Điền, Vũ Quang, Hà Tĩnh",
-        "path_with_type": "Xã Thọ Điền, Huyện Vũ Quang, Tỉnh Hà Tĩnh",
-        "code": "18337",
-        "parent_code": "441"
-    },
     "18340": {
         "name": "Hương Minh",
         "type": "xa",
@@ -89,14 +89,14 @@
         "code": "18340",
         "parent_code": "441"
     },
-    "18346": {
+    "18343": {
         "name": "Quang Thọ",
         "type": "xa",
         "slug": "quang-tho",
         "name_with_type": "Xã Quang Thọ",
         "path": "Quang Thọ, Vũ Quang, Hà Tĩnh",
         "path_with_type": "Xã Quang Thọ, Huyện Vũ Quang, Tỉnh Hà Tĩnh",
-        "code": "18346",
+        "code": "18343",
         "parent_code": "441"
     }
 }

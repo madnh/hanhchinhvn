@@ -109,16 +109,6 @@
         "code": "18979",
         "parent_code": "453"
     },
-    "18982": {
-        "name": "Nam Hóa",
-        "type": "xa",
-        "slug": "nam-hoa",
-        "name_with_type": "Xã Nam Hóa",
-        "path": "Nam Hóa, Tuyên Hóa, Quảng Bình",
-        "path_with_type": "Xã Nam Hóa, Huyện Tuyên Hóa, Tỉnh Quảng Bình",
-        "code": "18982",
-        "parent_code": "453"
-    },
     "18985": {
         "name": "Thạch Hóa",
         "type": "xa",
