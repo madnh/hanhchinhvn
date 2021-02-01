@@ -11,11 +11,11 @@
     },
     "08911": {
         "name": "Hợp Châu",
-        "type": "xa",
+        "type": "thi-tran",
         "slug": "hop-chau",
-        "name_with_type": "Xã Hợp Châu",
+        "name_with_type": "Thị trấn Hợp Châu",
         "path": "Hợp Châu, Tam Đảo, Vĩnh Phúc",
-        "path_with_type": "Xã Hợp Châu, Huyện Tam Đảo, Tỉnh Vĩnh Phúc",
+        "path_with_type": "Thị trấn Hợp Châu, Huyện Tam Đảo, Tỉnh Vĩnh Phúc",
         "code": "08911",
         "parent_code": "248"
     },
@@ -51,11 +51,11 @@
     },
     "08923": {
         "name": "Đại Đình",
-        "type": "xa",
+        "type": "thi-tran",
         "slug": "dai-dinh",
-        "name_with_type": "Xã Đại Đình",
+        "name_with_type": "Thị trấn Đại Đình",
         "path": "Đại Đình, Tam Đảo, Vĩnh Phúc",
-        "path_with_type": "Xã Đại Đình, Huyện Tam Đảo, Tỉnh Vĩnh Phúc",
+        "path_with_type": "Thị trấn Đại Đình, Huyện Tam Đảo, Tỉnh Vĩnh Phúc",
         "code": "08923",
         "parent_code": "248"
     },

@@ -29,16 +29,6 @@
         "code": "525",
         "parent_code": "51"
     },
-    "526": {
-        "name": "Tây Trà",
-        "type": "huyen",
-        "slug": "tay-tra",
-        "name_with_type": "Huyện Tây Trà",
-        "path": "Tây Trà, Quảng Ngãi",
-        "path_with_type": "Huyện Tây Trà, Tỉnh Quảng Ngãi",
-        "code": "526",
-        "parent_code": "51"
-    },
     "527": {
         "name": "Sơn Tịnh",
         "type": "huyen",
@@ -111,11 +101,11 @@
     },
     "534": {
         "name": "Đức Phổ",
-        "type": "huyen",
+        "type": "thi-xa",
         "slug": "duc-pho",
-        "name_with_type": "Huyện Đức Phổ",
+        "name_with_type": "Thị xã Đức Phổ",
         "path": "Đức Phổ, Quảng Ngãi",
-        "path_with_type": "Huyện Đức Phổ, Tỉnh Quảng Ngãi",
+        "path_with_type": "Thị xã Đức Phổ, Tỉnh Quảng Ngãi",
         "code": "534",
         "parent_code": "51"
     },

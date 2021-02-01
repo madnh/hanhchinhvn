@@ -9,23 +9,13 @@
         "code": "02635",
         "parent_code": "080"
     },
-    "02638": {
+    "02641": {
         "name": "Lào Cai",
         "type": "phuong",
         "slug": "lao-cai",
         "name_with_type": "Phường Lào Cai",
         "path": "Lào Cai, Lào Cai, Lào Cai",
         "path_with_type": "Phường Lào Cai, Thành phố Lào Cai, Tỉnh Lào Cai",
-        "code": "02638",
-        "parent_code": "080"
-    },
-    "02641": {
-        "name": "Phố Mới",
-        "type": "phuong",
-        "slug": "pho-moi",
-        "name_with_type": "Phường Phố Mới",
-        "path": "Phố Mới, Lào Cai, Lào Cai",
-        "path_with_type": "Phường Phố Mới, Thành phố Lào Cai, Tỉnh Lào Cai",
         "code": "02641",
         "parent_code": "080"
     },
@@ -91,11 +81,11 @@
     },
     "02659": {
         "name": "Thống Nhất",
-        "type": "phuong",
+        "type": "xa",
         "slug": "thong-nhat",
-        "name_with_type": "Phường Thống Nhất",
+        "name_with_type": "Xã Thống Nhất",
         "path": "Thống Nhất, Lào Cai, Lào Cai",
-        "path_with_type": "Phường Thống Nhất, Thành phố Lào Cai, Tỉnh Lào Cai",
+        "path_with_type": "Xã Thống Nhất, Thành phố Lào Cai, Tỉnh Lào Cai",
         "code": "02659",
         "parent_code": "080"
     },
@@ -167,6 +157,16 @@
         "path": "Hợp Thành, Lào Cai, Lào Cai",
         "path_with_type": "Xã Hợp Thành, Thành phố Lào Cai, Tỉnh Lào Cai",
         "code": "02680",
+        "parent_code": "080"
+    },
+    "02746": {
+        "name": "Cốc San",
+        "type": "xa",
+        "slug": "coc-san",
+        "name_with_type": "Xã Cốc San",
+        "path": "Cốc San, Lào Cai, Lào Cai",
+        "path_with_type": "Xã Cốc San, Thành phố Lào Cai, Tỉnh Lào Cai",
+        "code": "02746",
         "parent_code": "080"
     }
 }

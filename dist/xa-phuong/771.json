@@ -138,15 +138,5 @@
         "path_with_type": "Phường 06, Quận 10, Thành phố Hồ Chí Minh",
         "code": "27202",
         "parent_code": "771"
-    },
-    "27205": {
-        "name": "03",
-        "type": "phuong",
-        "slug": "03",
-        "name_with_type": "Phường 03",
-        "path": "03, 10, Hồ Chí Minh",
-        "path_with_type": "Phường 03, Quận 10, Thành phố Hồ Chí Minh",
-        "code": "27205",
-        "parent_code": "771"
     }
 }

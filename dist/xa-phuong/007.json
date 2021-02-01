@@ -29,26 +29,6 @@
         "code": "00247",
         "parent_code": "007"
     },
-    "00250": {
-        "name": "Bùi Thị Xuân",
-        "type": "phuong",
-        "slug": "bui-thi-xuan",
-        "name_with_type": "Phường Bùi Thị Xuân",
-        "path": "Bùi Thị Xuân, Hai Bà Trưng, Hà Nội",
-        "path_with_type": "Phường Bùi Thị Xuân, Quận Hai Bà Trưng, Thành phố Hà Nội",
-        "code": "00250",
-        "parent_code": "007"
-    },
-    "00253": {
-        "name": "Ngô Thì Nhậm",
-        "type": "phuong",
-        "slug": "ngo-thi-nham",
-        "name_with_type": "Phường Ngô Thì Nhậm",
-        "path": "Ngô Thì Nhậm, Hai Bà Trưng, Hà Nội",
-        "path_with_type": "Phường Ngô Thì Nhậm, Quận Hai Bà Trưng, Thành phố Hà Nội",
-        "code": "00253",
-        "parent_code": "007"
-    },
     "00256": {
         "name": "Lê Đại Hành",
         "type": "phuong",

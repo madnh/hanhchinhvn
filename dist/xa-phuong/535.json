@@ -109,16 +109,6 @@
         "code": "21511",
         "parent_code": "535"
     },
-    "21514": {
-        "name": "Ba Chùa",
-        "type": "xa",
-        "slug": "ba-chua",
-        "name_with_type": "Xã Ba Chùa",
-        "path": "Ba Chùa, Ba Tơ, Quảng Ngãi",
-        "path_with_type": "Xã Ba Chùa, Huyện Ba Tơ, Tỉnh Quảng Ngãi",
-        "code": "21514",
-        "parent_code": "535"
-    },
     "21517": {
         "name": "Ba Tiêu",
         "type": "xa",

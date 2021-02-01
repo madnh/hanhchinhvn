@@ -129,6 +129,16 @@
         "code": "05251",
         "parent_code": "156"
     },
+    "05254": {
+        "name": "Thành Sơn",
+        "type": "xa",
+        "slug": "thanh-son",
+        "name_with_type": "Xã Thành Sơn",
+        "path": "Thành Sơn, Mai Châu, Hoà Bình",
+        "path_with_type": "Xã Thành Sơn, Huyện Mai Châu, Tỉnh Hoà Bình",
+        "code": "05254",
+        "parent_code": "156"
+    },
     "05257": {
         "name": "Mai Hịch",
         "type": "xa",
@@ -137,16 +147,6 @@
         "path": "Mai Hịch, Mai Châu, Hoà Bình",
         "path_with_type": "Xã Mai Hịch, Huyện Mai Châu, Tỉnh Hoà Bình",
         "code": "05257",
-        "parent_code": "156"
-    },
-    "05260": {
-        "name": "Thành Sơn",
-        "type": "xa",
-        "slug": "thanh-son",
-        "name_with_type": "Xã Thành Sơn",
-        "path": "Thành Sơn, Mai Châu, Hoà Bình",
-        "path_with_type": "Xã Thành Sơn, Huyện Mai Châu, Tỉnh Hoà Bình",
-        "code": "05260",
         "parent_code": "156"
     },
     "05263": {

@@ -69,16 +69,6 @@
         "code": "21259",
         "parent_code": "528"
     },
-    "21265": {
-        "name": "Nghĩa Thọ",
-        "type": "xa",
-        "slug": "nghia-tho",
-        "name_with_type": "Xã Nghĩa Thọ",
-        "path": "Nghĩa Thọ, Tư Nghĩa, Quảng Ngãi",
-        "path_with_type": "Xã Nghĩa Thọ, Huyện Tư Nghĩa, Tỉnh Quảng Ngãi",
-        "code": "21265",
-        "parent_code": "528"
-    },
     "21268": {
         "name": "Nghĩa Hòa",
         "type": "xa",

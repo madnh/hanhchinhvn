@@ -80,12 +80,12 @@
         "parent_code": "148"
     },
     "04816": {
-        "name": "Sủ Ngòi",
-        "type": "xa",
-        "slug": "su-ngoi",
-        "name_with_type": "Xã Sủ Ngòi",
-        "path": "Sủ Ngòi, Hòa Bình, Hoà Bình",
-        "path_with_type": "Xã Sủ Ngòi, Thành phố Hòa Bình, Tỉnh Hoà Bình",
+        "name": "Quỳnh Lâm",
+        "type": "phuong",
+        "slug": "quynh-lam",
+        "name_with_type": "Phường Quỳnh Lâm",
+        "path": "Quỳnh Lâm, Hòa Bình, Hoà Bình",
+        "path_with_type": "Phường Quỳnh Lâm, Thành phố Hòa Bình, Tỉnh Hoà Bình",
         "code": "04816",
         "parent_code": "148"
     },
@@ -129,14 +129,14 @@
         "code": "04894",
         "parent_code": "148"
     },
-    "04900": {
+    "04897": {
         "name": "Thịnh Minh",
         "type": "xa",
         "slug": "thinh-minh",
         "name_with_type": "Xã Thịnh Minh",
         "path": "Thịnh Minh, Hòa Bình, Hoà Bình",
         "path_with_type": "Xã Thịnh Minh, Thành phố Hòa Bình, Tỉnh Hoà Bình",
-        "code": "04900",
+        "code": "04897",
         "parent_code": "148"
     },
     "04903": {
@@ -147,6 +147,16 @@
         "path": "Hợp Thành, Hòa Bình, Hoà Bình",
         "path_with_type": "Xã Hợp Thành, Thành phố Hòa Bình, Tỉnh Hoà Bình",
         "code": "04903",
+        "parent_code": "148"
+    },
+    "04906": {
+        "name": "Quang Tiến",
+        "type": "xa",
+        "slug": "quang-tien",
+        "name_with_type": "Xã Quang Tiến",
+        "path": "Quang Tiến, Hòa Bình, Hoà Bình",
+        "path_with_type": "Xã Quang Tiến, Thành phố Hòa Bình, Tỉnh Hoà Bình",
+        "code": "04906",
         "parent_code": "148"
     },
     "04912": {
@@ -161,11 +171,11 @@
     },
     "04918": {
         "name": "Trung Minh",
-        "type": "xa",
+        "type": "phuong",
         "slug": "trung-minh",
-        "name_with_type": "Xã Trung Minh",
+        "name_with_type": "Phường Trung Minh",
         "path": "Trung Minh, Hòa Bình, Hoà Bình",
-        "path_with_type": "Xã Trung Minh, Thành phố Hòa Bình, Tỉnh Hoà Bình",
+        "path_with_type": "Phường Trung Minh, Thành phố Hòa Bình, Tỉnh Hoà Bình",
         "code": "04918",
         "parent_code": "148"
     },
@@ -177,16 +187,6 @@
         "path": "Độc Lập, Hòa Bình, Hoà Bình",
         "path_with_type": "Xã Độc Lập, Thành phố Hòa Bình, Tỉnh Hoà Bình",
         "code": "04921",
-        "parent_code": "148"
-    },
-    "04933": {
-        "name": "Quang Tiến",
-        "type": "xa",
-        "slug": "quang-tien",
-        "name_with_type": "Xã Quang Tiến",
-        "path": "Quang Tiến, Hòa Bình, Hoà Bình",
-        "path_with_type": "Xã Quang Tiến, Thành phố Hòa Bình, Tỉnh Hoà Bình",
-        "code": "04933",
         "parent_code": "148"
     }
 }

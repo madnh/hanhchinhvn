@@ -40,12 +40,12 @@
         "parent_code": "105"
     },
     "03403": {
-        "name": "Nậm Loỏng",
+        "name": "Sùng Phài",
         "type": "xa",
-        "slug": "nam-loong",
-        "name_with_type": "Xã Nậm Loỏng",
-        "path": "Nậm Loỏng, Lai Châu, Lai Châu",
-        "path_with_type": "Xã Nậm Loỏng, Thành phố Lai Châu, Tỉnh Lai Châu",
+        "slug": "sung-phai",
+        "name_with_type": "Xã Sùng Phài",
+        "path": "Sùng Phài, Lai Châu, Lai Châu",
+        "path_with_type": "Xã Sùng Phài, Thành phố Lai Châu, Tỉnh Lai Châu",
         "code": "03403",
         "parent_code": "105"
     },

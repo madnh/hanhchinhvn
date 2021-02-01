@@ -209,16 +209,6 @@
         "code": "14275",
         "parent_code": "366"
     },
-    "14278": {
-        "name": "Hải Toàn",
-        "type": "xa",
-        "slug": "hai-toan",
-        "name_with_type": "Xã Hải Toàn",
-        "path": "Hải Toàn, Hải Hậu, Nam Định",
-        "path_with_type": "Xã Hải Toàn, Huyện Hải Hậu, Tỉnh Nam Định",
-        "code": "14278",
-        "parent_code": "366"
-    },
     "14281": {
         "name": "Hải Phong",
         "type": "xa",

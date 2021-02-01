@@ -49,16 +49,6 @@
         "code": "01900",
         "parent_code": "061"
     },
-    "01903": {
-        "name": "Cao Trĩ",
-        "type": "xa",
-        "slug": "cao-tri",
-        "name_with_type": "Xã Cao Trĩ",
-        "path": "Cao Trĩ, Ba Bể, Bắc Kạn",
-        "path_with_type": "Xã Cao Trĩ, Huyện Ba Bể, Tỉnh Bắc Kạn",
-        "code": "01903",
-        "parent_code": "061"
-    },
     "01906": {
         "name": "Khang Ninh",
         "type": "xa",

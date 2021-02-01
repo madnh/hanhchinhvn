@@ -50,12 +50,12 @@
         "parent_code": "833"
     },
     "28945": {
-        "name": "Bình Khánh Đông",
+        "name": "Bình Khánh",
         "type": "xa",
-        "slug": "binh-khanh-dong",
-        "name_with_type": "Xã Bình Khánh Đông",
-        "path": "Bình Khánh Đông, Mỏ Cày Nam, Bến Tre",
-        "path_with_type": "Xã Bình Khánh Đông, Huyện Mỏ Cày Nam, Tỉnh Bến Tre",
+        "slug": "binh-khanh",
+        "name_with_type": "Xã Bình Khánh ",
+        "path": "Bình Khánh, Mỏ Cày Nam, Bến Tre",
+        "path_with_type": "Xã Bình Khánh , Huyện Mỏ Cày Nam, Tỉnh Bến Tre",
         "code": "28945",
         "parent_code": "833"
     },
@@ -67,16 +67,6 @@
         "path": "An Thạnh, Mỏ Cày Nam, Bến Tre",
         "path_with_type": "Xã An Thạnh, Huyện Mỏ Cày Nam, Tỉnh Bến Tre",
         "code": "28951",
-        "parent_code": "833"
-    },
-    "28954": {
-        "name": "Bình Khánh Tây",
-        "type": "xa",
-        "slug": "binh-khanh-tay",
-        "name_with_type": "Xã Bình Khánh Tây",
-        "path": "Bình Khánh Tây, Mỏ Cày Nam, Bến Tre",
-        "path_with_type": "Xã Bình Khánh Tây, Huyện Mỏ Cày Nam, Tỉnh Bến Tre",
-        "code": "28954",
         "parent_code": "833"
     },
     "28957": {

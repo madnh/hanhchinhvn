@@ -1,14 +1,4 @@
 {
-    "20755": {
-        "name": "Tân An",
-        "type": "thi-tran",
-        "slug": "tan-an",
-        "name_with_type": "Thị trấn Tân An",
-        "path": "Tân An, Hiệp Đức, Quảng Nam",
-        "path_with_type": "Thị trấn Tân An, Huyện Hiệp Đức, Tỉnh Quảng Nam",
-        "code": "20755",
-        "parent_code": "512"
-    },
     "20758": {
         "name": "Hiệp Hòa",
         "type": "xa",
@@ -80,12 +70,12 @@
         "parent_code": "512"
     },
     "20779": {
-        "name": "Quế Bình",
-        "type": "xa",
-        "slug": "que-binh",
-        "name_with_type": "Xã Quế Bình",
-        "path": "Quế Bình, Hiệp Đức, Quảng Nam",
-        "path_with_type": "Xã Quế Bình, Huyện Hiệp Đức, Tỉnh Quảng Nam",
+        "name": "Tân Bình",
+        "type": "thi-tran",
+        "slug": "tan-binh",
+        "name_with_type": "Thị trấn Tân Bình",
+        "path": "Tân Bình, Hiệp Đức, Quảng Nam",
+        "path_with_type": "Thị trấn Tân Bình, Huyện Hiệp Đức, Tỉnh Quảng Nam",
         "code": "20779",
         "parent_code": "512"
     },

@@ -119,16 +119,6 @@
         "code": "21073",
         "parent_code": "524"
     },
-    "21076": {
-        "name": "Bình Thới",
-        "type": "xa",
-        "slug": "binh-thoi",
-        "name_with_type": "Xã Bình Thới",
-        "path": "Bình Thới, Bình Sơn, Quảng Ngãi",
-        "path_with_type": "Xã Bình Thới, Huyện Bình Sơn, Tỉnh Quảng Ngãi",
-        "code": "21076",
-        "parent_code": "524"
-    },
     "21079": {
         "name": "Bình Hòa",
         "type": "xa",
@@ -170,33 +160,13 @@
         "parent_code": "524"
     },
     "21091": {
-        "name": "Bình Thanh Tây",
+        "name": "Bình Thanh",
         "type": "xa",
-        "slug": "binh-thanh-tay",
-        "name_with_type": "Xã Bình Thanh Tây",
-        "path": "Bình Thanh Tây, Bình Sơn, Quảng Ngãi",
-        "path_with_type": "Xã Bình Thanh Tây, Huyện Bình Sơn, Tỉnh Quảng Ngãi",
+        "slug": "binh-thanh",
+        "name_with_type": "Xã Bình Thanh ",
+        "path": "Bình Thanh, Bình Sơn, Quảng Ngãi",
+        "path_with_type": "Xã Bình Thanh , Huyện Bình Sơn, Tỉnh Quảng Ngãi",
         "code": "21091",
-        "parent_code": "524"
-    },
-    "21094": {
-        "name": "Bình Phú",
-        "type": "xa",
-        "slug": "binh-phu",
-        "name_with_type": "Xã Bình Phú",
-        "path": "Bình Phú, Bình Sơn, Quảng Ngãi",
-        "path_with_type": "Xã Bình Phú, Huyện Bình Sơn, Tỉnh Quảng Ngãi",
-        "code": "21094",
-        "parent_code": "524"
-    },
-    "21097": {
-        "name": "Bình Thanh Đông",
-        "type": "xa",
-        "slug": "binh-thanh-dong",
-        "name_with_type": "Xã Bình Thanh Đông",
-        "path": "Bình Thanh Đông, Bình Sơn, Quảng Ngãi",
-        "path_with_type": "Xã Bình Thanh Đông, Huyện Bình Sơn, Tỉnh Quảng Ngãi",
-        "code": "21097",
         "parent_code": "524"
     },
     "21100": {
@@ -230,12 +200,12 @@
         "parent_code": "524"
     },
     "21109": {
-        "name": "Bình Tân",
+        "name": "Bình Tân Phú",
         "type": "xa",
-        "slug": "binh-tan",
-        "name_with_type": "Xã Bình Tân",
-        "path": "Bình Tân, Bình Sơn, Quảng Ngãi",
-        "path_with_type": "Xã Bình Tân, Huyện Bình Sơn, Tỉnh Quảng Ngãi",
+        "slug": "binh-tan-phu",
+        "name_with_type": "Xã Bình Tân Phú",
+        "path": "Bình Tân Phú, Bình Sơn, Quảng Ngãi",
+        "path_with_type": "Xã Bình Tân Phú, Huyện Bình Sơn, Tỉnh Quảng Ngãi",
         "code": "21109",
         "parent_code": "524"
     },

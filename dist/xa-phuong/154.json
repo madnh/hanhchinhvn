@@ -49,14 +49,14 @@
         "code": "05101",
         "parent_code": "154"
     },
-    "05107": {
+    "05104": {
         "name": "Hợp Phong",
         "type": "xa",
         "slug": "hop-phong",
         "name_with_type": "Xã Hợp Phong",
         "path": "Hợp Phong, Cao Phong, Hoà Bình",
         "path_with_type": "Xã Hợp Phong, Huyện Cao Phong, Tỉnh Hoà Bình",
-        "code": "05107",
+        "code": "05104",
         "parent_code": "154"
     },
     "05110": {
@@ -89,14 +89,14 @@
         "code": "05119",
         "parent_code": "154"
     },
-    "05122": {
+    "05125": {
         "name": "Thạch Yên",
         "type": "xa",
         "slug": "thach-yen",
         "name_with_type": "Xã Thạch Yên",
         "path": "Thạch Yên, Cao Phong, Hoà Bình",
         "path_with_type": "Xã Thạch Yên, Huyện Cao Phong, Tỉnh Hoà Bình",
-        "code": "05122",
+        "code": "05125",
         "parent_code": "154"
     }
 }

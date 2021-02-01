@@ -119,16 +119,6 @@
         "code": "19279",
         "parent_code": "457"
     },
-    "19282": {
-        "name": "Ngư Thủy Trung",
-        "type": "xa",
-        "slug": "ngu-thuy-trung",
-        "name_with_type": "Xã Ngư Thủy Trung",
-        "path": "Ngư Thủy Trung, Lệ Thủy, Quảng Bình",
-        "path_with_type": "Xã Ngư Thủy Trung, Huyện Lệ Thủy, Tỉnh Quảng Bình",
-        "code": "19282",
-        "parent_code": "457"
-    },
     "19285": {
         "name": "Liên Thủy",
         "type": "xa",
@@ -200,12 +190,12 @@
         "parent_code": "457"
     },
     "19306": {
-        "name": "Ngư Thủy Nam",
+        "name": "Ngư Thủy",
         "type": "xa",
-        "slug": "ngu-thuy-nam",
-        "name_with_type": "Xã Ngư Thủy Nam",
-        "path": "Ngư Thủy Nam, Lệ Thủy, Quảng Bình",
-        "path_with_type": "Xã Ngư Thủy Nam, Huyện Lệ Thủy, Tỉnh Quảng Bình",
+        "slug": "ngu-thuy",
+        "name_with_type": "Xã Ngư Thủy ",
+        "path": "Ngư Thủy, Lệ Thủy, Quảng Bình",
+        "path_with_type": "Xã Ngư Thủy , Huyện Lệ Thủy, Tỉnh Quảng Bình",
         "code": "19306",
         "parent_code": "457"
     },
@@ -257,16 +247,6 @@
         "path": "Trường Thủy, Lệ Thủy, Quảng Bình",
         "path_with_type": "Xã Trường Thủy, Huyện Lệ Thủy, Tỉnh Quảng Bình",
         "code": "19321",
-        "parent_code": "457"
-    },
-    "19324": {
-        "name": "Văn Thủy",
-        "type": "xa",
-        "slug": "van-thuy",
-        "name_with_type": "Xã Văn Thủy",
-        "path": "Văn Thủy, Lệ Thủy, Quảng Bình",
-        "path_with_type": "Xã Văn Thủy, Huyện Lệ Thủy, Tỉnh Quảng Bình",
-        "code": "19324",
         "parent_code": "457"
     },
     "19327": {

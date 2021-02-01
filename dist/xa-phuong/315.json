@@ -39,16 +39,6 @@
         "code": "11764",
         "parent_code": "315"
     },
-    "11767": {
-        "name": "Tiên Tiến",
-        "type": "xa",
-        "slug": "tien-tien",
-        "name_with_type": "Xã Tiên Tiến",
-        "path": "Tiên Tiến, Tiên Lãng, Hải Phòng",
-        "path_with_type": "Xã Tiên Tiến, Huyện Tiên Lãng, Thành phố Hải Phòng",
-        "code": "11767",
-        "parent_code": "315"
-    },
     "11770": {
         "name": "Quyết Tiến",
         "type": "xa",
@@ -207,16 +197,6 @@
         "path": "Đông Hưng, Tiên Lãng, Hải Phòng",
         "path_with_type": "Xã Đông Hưng, Huyện Tiên Lãng, Thành phố Hải Phòng",
         "code": "11815",
-        "parent_code": "315"
-    },
-    "11818": {
-        "name": "Tiên Hưng",
-        "type": "xa",
-        "slug": "tien-hung",
-        "name_with_type": "Xã Tiên Hưng",
-        "path": "Tiên Hưng, Tiên Lãng, Hải Phòng",
-        "path_with_type": "Xã Tiên Hưng, Huyện Tiên Lãng, Thành phố Hải Phòng",
-        "code": "11818",
         "parent_code": "315"
     },
     "11821": {

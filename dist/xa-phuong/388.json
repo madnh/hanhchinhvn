@@ -1,14 +1,4 @@
 {
-    "15028": {
-        "name": "Lang Chánh",
-        "type": "thi-tran",
-        "slug": "lang-chanh",
-        "name_with_type": "Thị trấn Lang Chánh",
-        "path": "Lang Chánh, Lang Chánh, Thanh Hóa",
-        "path_with_type": "Thị trấn Lang Chánh, Huyện Lang Chánh, Tỉnh Thanh Hóa",
-        "code": "15028",
-        "parent_code": "388"
-    },
     "15031": {
         "name": "Yên Khương",
         "type": "xa",
@@ -87,6 +77,16 @@
         "path": "Lâm Phú, Lang Chánh, Thanh Hóa",
         "path_with_type": "Xã Lâm Phú, Huyện Lang Chánh, Tỉnh Thanh Hóa",
         "code": "15052",
+        "parent_code": "388"
+    },
+    "15055": {
+        "name": "Lang Chánh",
+        "type": "thi-tran",
+        "slug": "lang-chanh",
+        "name_with_type": "Thị trấn Lang Chánh",
+        "path": "Lang Chánh, Lang Chánh, Thanh Hóa",
+        "path_with_type": "Thị trấn Lang Chánh, Huyện Lang Chánh, Tỉnh Thanh Hóa",
+        "code": "15055",
         "parent_code": "388"
     },
     "15058": {

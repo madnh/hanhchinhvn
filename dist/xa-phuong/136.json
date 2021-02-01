@@ -189,16 +189,6 @@
         "code": "04429",
         "parent_code": "136"
     },
-    "04432": {
-        "name": "Yên Hưng",
-        "type": "xa",
-        "slug": "yen-hung",
-        "name_with_type": "Xã Yên Hưng",
-        "path": "Yên Hưng, Văn Yên, Yên Bái",
-        "path_with_type": "Xã Yên Hưng, Huyện Văn Yên, Tỉnh Yên Bái",
-        "code": "04432",
-        "parent_code": "136"
-    },
     "04435": {
         "name": "Đại Phác",
         "type": "xa",
@@ -227,16 +217,6 @@
         "path": "Xuân Ái, Văn Yên, Yên Bái",
         "path_with_type": "Xã Xuân Ái, Huyện Văn Yên, Tỉnh Yên Bái",
         "code": "04441",
-        "parent_code": "136"
-    },
-    "04444": {
-        "name": "Hoàng Thắng",
-        "type": "xa",
-        "slug": "hoang-thang",
-        "name_with_type": "Xã Hoàng Thắng",
-        "path": "Hoàng Thắng, Văn Yên, Yên Bái",
-        "path_with_type": "Xã Hoàng Thắng, Huyện Văn Yên, Tỉnh Yên Bái",
-        "code": "04444",
         "parent_code": "136"
     },
     "04447": {

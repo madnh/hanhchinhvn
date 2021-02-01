@@ -60,12 +60,12 @@
         "parent_code": "863"
     },
     "29791": {
-        "name": "Thành Đông",
+        "name": "Thành Lợi",
         "type": "xa",
-        "slug": "thanh-dong",
-        "name_with_type": "Xã Thành Đông",
-        "path": "Thành Đông, Bình Tân, Vĩnh Long",
-        "path_with_type": "Xã Thành Đông, Huyện Bình Tân, Tỉnh Vĩnh Long",
+        "slug": "thanh-loi",
+        "name_with_type": "Xã Thành Lợi",
+        "path": "Thành Lợi, Bình Tân, Vĩnh Long",
+        "path_with_type": "Xã Thành Lợi, Huyện Bình Tân, Tỉnh Vĩnh Long",
         "code": "29791",
         "parent_code": "863"
     },
@@ -90,23 +90,13 @@
         "parent_code": "863"
     },
     "29800": {
-        "name": "Thành Lợi",
-        "type": "xa",
-        "slug": "thanh-loi",
-        "name_with_type": "Xã Thành Lợi",
-        "path": "Thành Lợi, Bình Tân, Vĩnh Long",
-        "path_with_type": "Xã Thành Lợi, Huyện Bình Tân, Tỉnh Vĩnh Long",
-        "code": "29800",
-        "parent_code": "863"
-    },
-    "29803": {
         "name": "Tân Quới",
-        "type": "xa",
+        "type": "thi-tran",
         "slug": "tan-quoi",
-        "name_with_type": "Xã Tân Quới",
+        "name_with_type": "Thị trấn Tân Quới",
         "path": "Tân Quới, Bình Tân, Vĩnh Long",
-        "path_with_type": "Xã Tân Quới, Huyện Bình Tân, Tỉnh Vĩnh Long",
-        "code": "29803",
+        "path_with_type": "Thị trấn Tân Quới, Huyện Bình Tân, Tỉnh Vĩnh Long",
+        "code": "29800",
         "parent_code": "863"
     }
 }

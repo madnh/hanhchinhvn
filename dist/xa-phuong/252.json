@@ -149,23 +149,13 @@
         "code": "09118",
         "parent_code": "252"
     },
-    "09121": {
-        "name": "Tân Cương",
-        "type": "xa",
-        "slug": "tan-cuong",
-        "name_with_type": "Xã Tân Cương",
-        "path": "Tân Cương, Vĩnh Tường, Vĩnh Phúc",
-        "path_with_type": "Xã Tân Cương, Huyện Vĩnh Tường, Tỉnh Vĩnh Phúc",
-        "code": "09121",
-        "parent_code": "252"
-    },
     "09124": {
-        "name": "Phú Thịnh",
+        "name": "Tân Phú",
         "type": "xa",
-        "slug": "phu-thinh",
-        "name_with_type": "Xã Phú Thịnh",
-        "path": "Phú Thịnh, Vĩnh Tường, Vĩnh Phúc",
-        "path_with_type": "Xã Phú Thịnh, Huyện Vĩnh Tường, Tỉnh Vĩnh Phúc",
+        "slug": "tan-phu",
+        "name_with_type": "Xã Tân Phú",
+        "path": "Tân Phú, Vĩnh Tường, Vĩnh Phúc",
+        "path_with_type": "Xã Tân Phú, Huyện Vĩnh Tường, Tỉnh Vĩnh Phúc",
         "code": "09124",
         "parent_code": "252"
     },

@@ -29,16 +29,6 @@
         "code": "18418",
         "parent_code": "443"
     },
-    "18424": {
-        "name": "Kim Song Trường",
-        "type": "xa",
-        "slug": "kim-song-truong",
-        "name_with_type": "Xã Kim Song Trường",
-        "path": "Kim Song Trường, Can Lộc, Hà Tĩnh",
-        "path_with_type": "Xã Kim Song Trường, Huyện Can Lộc, Tỉnh Hà Tĩnh",
-        "code": "18424",
-        "parent_code": "443"
-    },
     "18427": {
         "name": "Vượng Lộc",
         "type": "xa",
@@ -57,6 +47,16 @@
         "path": "Thanh Lộc, Can Lộc, Hà Tĩnh",
         "path_with_type": "Xã Thanh Lộc, Huyện Can Lộc, Tỉnh Hà Tĩnh",
         "code": "18433",
+        "parent_code": "443"
+    },
+    "18436": {
+        "name": "Kim Song Trường",
+        "type": "xa",
+        "slug": "kim-song-truong",
+        "name_with_type": "Xã Kim Song Trường",
+        "path": "Kim Song Trường, Can Lộc, Hà Tĩnh",
+        "path_with_type": "Xã Kim Song Trường, Huyện Can Lộc, Tỉnh Hà Tĩnh",
+        "code": "18436",
         "parent_code": "443"
     },
     "18439": {
@@ -89,16 +89,6 @@
         "code": "18454",
         "parent_code": "443"
     },
-    "18460": {
-        "name": "Khánh Vĩnh Yên",
-        "type": "xa",
-        "slug": "khanh-vinh-yen",
-        "name_with_type": "Xã Khánh Vĩnh Yên",
-        "path": "Khánh Vĩnh Yên, Can Lộc, Hà Tĩnh",
-        "path_with_type": "Xã Khánh Vĩnh Yên, Huyện Can Lộc, Tỉnh Hà Tĩnh",
-        "code": "18460",
-        "parent_code": "443"
-    },
     "18463": {
         "name": "Gia Hanh",
         "type": "xa",
@@ -107,6 +97,16 @@
         "path": "Gia Hanh, Can Lộc, Hà Tĩnh",
         "path_with_type": "Xã Gia Hanh, Huyện Can Lộc, Tỉnh Hà Tĩnh",
         "code": "18463",
+        "parent_code": "443"
+    },
+    "18466": {
+        "name": "Khánh Vĩnh Yên",
+        "type": "xa",
+        "slug": "khanh-vinh-yen",
+        "name_with_type": "Xã Khánh Vĩnh Yên",
+        "path": "Khánh Vĩnh Yên, Can Lộc, Hà Tĩnh",
+        "path_with_type": "Xã Khánh Vĩnh Yên, Huyện Can Lộc, Tỉnh Hà Tĩnh",
+        "code": "18466",
         "parent_code": "443"
     },
     "18472": {

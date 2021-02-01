@@ -19,16 +19,6 @@
         "code": "31369",
         "parent_code": "933"
     },
-    "31372": {
-        "name": "Phú An",
-        "type": "xa",
-        "slug": "phu-an",
-        "name_with_type": "Xã Phú An",
-        "path": "Phú An, Châu Thành, Hậu Giang",
-        "path_with_type": "Xã Phú An, Huyện Châu Thành, Tỉnh Hậu Giang",
-        "code": "31372",
-        "parent_code": "933"
-    },
     "31375": {
         "name": "Đông Phú",
         "type": "xa",

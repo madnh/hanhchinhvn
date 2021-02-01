@@ -119,26 +119,6 @@
         "code": "27076",
         "parent_code": "768"
     },
-    "27079": {
-        "name": "14",
-        "type": "phuong",
-        "slug": "14",
-        "name_with_type": "Phường 14",
-        "path": "14, Phú Nhuận, Hồ Chí Minh",
-        "path_with_type": "Phường 14, Quận Phú Nhuận, Thành phố Hồ Chí Minh",
-        "code": "27079",
-        "parent_code": "768"
-    },
-    "27082": {
-        "name": "12",
-        "type": "phuong",
-        "slug": "12",
-        "name_with_type": "Phường 12",
-        "path": "12, Phú Nhuận, Hồ Chí Minh",
-        "path_with_type": "Phường 12, Quận Phú Nhuận, Thành phố Hồ Chí Minh",
-        "code": "27082",
-        "parent_code": "768"
-    },
     "27085": {
         "name": "13",
         "type": "phuong",

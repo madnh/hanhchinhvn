@@ -68,5 +68,15 @@
         "path_with_type": "Huyện Hòa Vang, Thành phố Đà Nẵng",
         "code": "497",
         "parent_code": "48"
+    },
+    "498": {
+        "name": "Hoàng Sa",
+        "type": "huyen",
+        "slug": "hoang-sa",
+        "name_with_type": "Huyện Hoàng Sa",
+        "path": "Hoàng Sa, Đà Nẵng",
+        "path_with_type": "Huyện Hoàng Sa, Thành phố Đà Nẵng",
+        "code": "498",
+        "parent_code": "48"
     }
 }

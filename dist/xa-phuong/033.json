@@ -49,16 +49,6 @@
         "code": "01108",
         "parent_code": "033"
     },
-    "01111": {
-        "name": "Trung Thịnh",
-        "type": "xa",
-        "slug": "trung-thinh",
-        "name_with_type": "Xã Trung Thịnh",
-        "path": "Trung Thịnh, Xín Mần, Hà Giang",
-        "path_with_type": "Xã Trung Thịnh, Huyện Xín Mần, Tỉnh Hà Giang",
-        "code": "01111",
-        "parent_code": "033"
-    },
     "01114": {
         "name": "Thèn Phàng",
         "type": "xa",
@@ -67,6 +57,16 @@
         "path": "Thèn Phàng, Xín Mần, Hà Giang",
         "path_with_type": "Xã Thèn Phàng, Huyện Xín Mần, Tỉnh Hà Giang",
         "code": "01114",
+        "parent_code": "033"
+    },
+    "01117": {
+        "name": "Trung Thịnh",
+        "type": "xa",
+        "slug": "trung-thinh",
+        "name_with_type": "Xã Trung Thịnh",
+        "path": "Trung Thịnh, Xín Mần, Hà Giang",
+        "path_with_type": "Xã Trung Thịnh, Huyện Xín Mần, Tỉnh Hà Giang",
+        "code": "01117",
         "parent_code": "033"
     },
     "01120": {

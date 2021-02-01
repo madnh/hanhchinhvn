@@ -29,16 +29,6 @@
         "code": "06532",
         "parent_code": "188"
     },
-    "06535": {
-        "name": "Khánh Xuân",
-        "type": "xa",
-        "slug": "khanh-xuan",
-        "name_with_type": "Xã Khánh Xuân",
-        "path": "Khánh Xuân, Lộc Bình, Lạng Sơn",
-        "path_with_type": "Xã Khánh Xuân, Huyện Lộc Bình, Tỉnh Lạng Sơn",
-        "code": "06535",
-        "parent_code": "188"
-    },
     "06541": {
         "name": "Yên Khoái",
         "type": "xa",
@@ -47,6 +37,16 @@
         "path": "Yên Khoái, Lộc Bình, Lạng Sơn",
         "path_with_type": "Xã Yên Khoái, Huyện Lộc Bình, Tỉnh Lạng Sơn",
         "code": "06541",
+        "parent_code": "188"
+    },
+    "06544": {
+        "name": "Khánh Xuân",
+        "type": "xa",
+        "slug": "khanh-xuan",
+        "name_with_type": "Xã Khánh Xuân",
+        "path": "Khánh Xuân, Lộc Bình, Lạng Sơn",
+        "path_with_type": "Xã Khánh Xuân, Huyện Lộc Bình, Tỉnh Lạng Sơn",
+        "code": "06544",
         "parent_code": "188"
     },
     "06547": {
@@ -77,16 +77,6 @@
         "path": "Đồng Bục, Lộc Bình, Lạng Sơn",
         "path_with_type": "Xã Đồng Bục, Huyện Lộc Bình, Tỉnh Lạng Sơn",
         "code": "06553",
-        "parent_code": "188"
-    },
-    "06556": {
-        "name": "Thống Nhất",
-        "type": "xa",
-        "slug": "thong-nhat",
-        "name_with_type": "Xã Thống Nhất",
-        "path": "Thống Nhất, Lộc Bình, Lạng Sơn",
-        "path_with_type": "Xã Thống Nhất, Huyện Lộc Bình, Tỉnh Lạng Sơn",
-        "code": "06556",
         "parent_code": "188"
     },
     "06559": {
@@ -127,6 +117,16 @@
         "path": "Tĩnh Bắc, Lộc Bình, Lạng Sơn",
         "path_with_type": "Xã Tĩnh Bắc, Huyện Lộc Bình, Tỉnh Lạng Sơn",
         "code": "06574",
+        "parent_code": "188"
+    },
+    "06577": {
+        "name": "Thống Nhất",
+        "type": "xa",
+        "slug": "thong-nhat",
+        "name_with_type": "Xã Thống Nhất",
+        "path": "Thống Nhất, Lộc Bình, Lạng Sơn",
+        "path_with_type": "Xã Thống Nhất, Huyện Lộc Bình, Tỉnh Lạng Sơn",
+        "code": "06577",
         "parent_code": "188"
     },
     "06589": {

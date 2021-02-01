@@ -111,11 +111,11 @@
     },
     "911": {
         "name": "Phú Quốc",
-        "type": "huyen",
+        "type": "thanh-pho",
         "slug": "phu-quoc",
-        "name_with_type": "Huyện Phú Quốc",
+        "name_with_type": "Thành phố Phú Quốc",
         "path": "Phú Quốc, Kiên Giang",
-        "path_with_type": "Huyện Phú Quốc, Tỉnh Kiên Giang",
+        "path_with_type": "Thành phố Phú Quốc, Tỉnh Kiên Giang",
         "code": "911",
         "parent_code": "91"
     },

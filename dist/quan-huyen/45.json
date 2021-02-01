@@ -88,5 +88,15 @@
         "path_with_type": "Huyện Hải Lăng, Tỉnh Quảng Trị",
         "code": "470",
         "parent_code": "45"
+    },
+    "471": {
+        "name": "Cồn Cỏ",
+        "type": "huyen",
+        "slug": "con-co",
+        "name_with_type": "Huyện Cồn Cỏ",
+        "path": "Cồn Cỏ, Quảng Trị",
+        "path_with_type": "Huyện Cồn Cỏ, Tỉnh Quảng Trị",
+        "code": "471",
+        "parent_code": "45"
     }
 }

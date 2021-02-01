@@ -229,6 +229,16 @@
         "code": "15841",
         "parent_code": "398"
     },
+    "15847": {
+        "name": "Tân Châu",
+        "type": "xa",
+        "slug": "tan-chau",
+        "name_with_type": "Xã Tân Châu",
+        "path": "Tân Châu, Thiệu Hóa, Thanh Hóa",
+        "path_with_type": "Xã Tân Châu, Huyện Thiệu Hóa, Tỉnh Thanh Hóa",
+        "code": "15847",
+        "parent_code": "398"
+    },
     "15853": {
         "name": "Thiệu Giao",
         "type": "xa",
@@ -237,16 +247,6 @@
         "path": "Thiệu Giao, Thiệu Hóa, Thanh Hóa",
         "path_with_type": "Xã Thiệu Giao, Huyện Thiệu Hóa, Tỉnh Thanh Hóa",
         "code": "15853",
-        "parent_code": "398"
-    },
-    "15862": {
-        "name": "Tân Châu",
-        "type": "xa",
-        "slug": "tan-chau",
-        "name_with_type": "Xã Tân Châu",
-        "path": "Tân Châu, Thiệu Hóa, Thanh Hóa",
-        "path_with_type": "Xã Tân Châu, Huyện Thiệu Hóa, Tỉnh Thanh Hóa",
-        "code": "15862",
         "parent_code": "398"
     }
 }

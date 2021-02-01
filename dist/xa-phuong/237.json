@@ -69,6 +69,16 @@
         "code": "08518",
         "parent_code": "237"
     },
+    "08521": {
+        "name": "Phùng Nguyên",
+        "type": "xa",
+        "slug": "phung-nguyen",
+        "name_with_type": "Xã Phùng Nguyên",
+        "path": "Phùng Nguyên, Lâm Thao, Phú Thọ",
+        "path_with_type": "Xã Phùng Nguyên, Huyện Lâm Thao, Tỉnh Phú Thọ",
+        "code": "08521",
+        "parent_code": "237"
+    },
     "08527": {
         "name": "Cao Xá",
         "type": "xa",
@@ -77,16 +87,6 @@
         "path": "Cao Xá, Lâm Thao, Phú Thọ",
         "path_with_type": "Xã Cao Xá, Huyện Lâm Thao, Tỉnh Phú Thọ",
         "code": "08527",
-        "parent_code": "237"
-    },
-    "08530": {
-        "name": "Phùng Nguyên",
-        "type": "xa",
-        "slug": "phung-nguyen",
-        "name_with_type": "Xã Phùng Nguyên",
-        "path": "Phùng Nguyên, Lâm Thao, Phú Thọ",
-        "path_with_type": "Xã Phùng Nguyên, Huyện Lâm Thao, Tỉnh Phú Thọ",
-        "code": "08530",
         "parent_code": "237"
     },
     "08533": {

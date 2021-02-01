@@ -19,24 +19,14 @@
         "code": "06256",
         "parent_code": "184"
     },
-    "06259": {
+    "06268": {
         "name": "Liên Hội",
         "type": "xa",
         "slug": "lien-hoi",
         "name_with_type": "Xã Liên Hội",
         "path": "Liên Hội, Văn Quan, Lạng Sơn",
         "path_with_type": "Xã Liên Hội, Huyện Văn Quan, Tỉnh Lạng Sơn",
-        "code": "06259",
-        "parent_code": "184"
-    },
-    "06265": {
-        "name": "Điềm He",
-        "type": "xa",
-        "slug": "diem-he",
-        "name_with_type": "Xã Điềm He",
-        "path": "Điềm He, Văn Quan, Lạng Sơn",
-        "path_with_type": "Xã Điềm He, Huyện Văn Quan, Tỉnh Lạng Sơn",
-        "code": "06265",
+        "code": "06268",
         "parent_code": "184"
     },
     "06274": {
@@ -57,6 +47,16 @@
         "path": "Tú Xuyên, Văn Quan, Lạng Sơn",
         "path_with_type": "Xã Tú Xuyên, Huyện Văn Quan, Tỉnh Lạng Sơn",
         "code": "06277",
+        "parent_code": "184"
+    },
+    "06280": {
+        "name": "Điềm He",
+        "type": "xa",
+        "slug": "diem-he",
+        "name_with_type": "Xã Điềm He",
+        "path": "Điềm He, Văn Quan, Lạng Sơn",
+        "path_with_type": "Xã Điềm He, Huyện Văn Quan, Tỉnh Lạng Sơn",
+        "code": "06280",
         "parent_code": "184"
     },
     "06283": {
@@ -99,6 +99,16 @@
         "code": "06295",
         "parent_code": "184"
     },
+    "06298": {
+        "name": "Bình Phúc",
+        "type": "xa",
+        "slug": "binh-phuc",
+        "name_with_type": "Xã Bình Phúc",
+        "path": "Bình Phúc, Văn Quan, Lạng Sơn",
+        "path_with_type": "Xã Bình Phúc, Huyện Văn Quan, Tỉnh Lạng Sơn",
+        "code": "06298",
+        "parent_code": "184"
+    },
     "06301": {
         "name": "Tràng Các",
         "type": "xa",
@@ -117,16 +127,6 @@
         "path": "Tân Đoàn, Văn Quan, Lạng Sơn",
         "path_with_type": "Xã Tân Đoàn, Huyện Văn Quan, Tỉnh Lạng Sơn",
         "code": "06307",
-        "parent_code": "184"
-    },
-    "06310": {
-        "name": "Bình Phúc",
-        "type": "xa",
-        "slug": "binh-phuc",
-        "name_with_type": "Xã Bình Phúc",
-        "path": "Bình Phúc, Văn Quan, Lạng Sơn",
-        "path_with_type": "Xã Bình Phúc, Huyện Văn Quan, Tỉnh Lạng Sơn",
-        "code": "06310",
         "parent_code": "184"
     },
     "06313": {

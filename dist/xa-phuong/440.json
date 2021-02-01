@@ -9,24 +9,24 @@
         "code": "18229",
         "parent_code": "440"
     },
-    "18232": {
+    "18235": {
         "name": "Quang Vĩnh",
         "type": "xa",
         "slug": "quang-vinh",
         "name_with_type": "Xã Quang Vĩnh",
         "path": "Quang Vĩnh, Đức Thọ, Hà Tĩnh",
         "path_with_type": "Xã Quang Vĩnh, Huyện Đức Thọ, Tỉnh Hà Tĩnh",
-        "code": "18232",
+        "code": "18235",
         "parent_code": "440"
     },
-    "18238": {
+    "18241": {
         "name": "Tùng Châu",
         "type": "xa",
         "slug": "tung-chau",
         "name_with_type": "Xã Tùng Châu",
         "path": "Tùng Châu, Đức Thọ, Hà Tĩnh",
         "path_with_type": "Xã Tùng Châu, Huyện Đức Thọ, Tỉnh Hà Tĩnh",
-        "code": "18238",
+        "code": "18241",
         "parent_code": "440"
     },
     "18244": {
@@ -79,6 +79,26 @@
         "code": "18262",
         "parent_code": "440"
     },
+    "18274": {
+        "name": "Thanh Bình Thịnh",
+        "type": "xa",
+        "slug": "thanh-binh-thinh",
+        "name_with_type": "Xã Thanh Bình Thịnh",
+        "path": "Thanh Bình Thịnh, Đức Thọ, Hà Tĩnh",
+        "path_with_type": "Xã Thanh Bình Thịnh, Huyện Đức Thọ, Tỉnh Hà Tĩnh",
+        "code": "18274",
+        "parent_code": "440"
+    },
+    "18277": {
+        "name": "Lâm Trung Thủy",
+        "type": "xa",
+        "slug": "lam-trung-thuy",
+        "name_with_type": "Xã Lâm Trung Thủy",
+        "path": "Lâm Trung Thủy, Đức Thọ, Hà Tĩnh",
+        "path_with_type": "Xã Lâm Trung Thủy, Huyện Đức Thọ, Tỉnh Hà Tĩnh",
+        "code": "18277",
+        "parent_code": "440"
+    },
     "18280": {
         "name": "Hòa Lạc",
         "type": "xa",
@@ -97,26 +117,6 @@
         "path": "Tân Dân, Đức Thọ, Hà Tĩnh",
         "path_with_type": "Xã Tân Dân, Huyện Đức Thọ, Tỉnh Hà Tĩnh",
         "code": "18283",
-        "parent_code": "440"
-    },
-    "18286": {
-        "name": "Lâm Trung Thủy",
-        "type": "xa",
-        "slug": "lam-trung-thuy",
-        "name_with_type": "Xã Lâm Trung Thủy",
-        "path": "Lâm Trung Thủy, Đức Thọ, Hà Tĩnh",
-        "path_with_type": "Xã Lâm Trung Thủy, Huyện Đức Thọ, Tỉnh Hà Tĩnh",
-        "code": "18286",
-        "parent_code": "440"
-    },
-    "18289": {
-        "name": "Thanh Bình Thịnh",
-        "type": "xa",
-        "slug": "thanh-binh-thinh",
-        "name_with_type": "Xã Thanh Bình Thịnh",
-        "path": "Thanh Bình Thịnh, Đức Thọ, Hà Tĩnh",
-        "path_with_type": "Xã Thanh Bình Thịnh, Huyện Đức Thọ, Tỉnh Hà Tĩnh",
-        "code": "18289",
         "parent_code": "440"
     },
     "18298": {

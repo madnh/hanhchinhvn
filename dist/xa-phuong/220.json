@@ -19,16 +19,6 @@
         "code": "07616",
         "parent_code": "220"
     },
-    "07618": {
-        "name": "Phúc Sơn",
-        "type": "xa",
-        "slug": "phuc-son",
-        "name_with_type": "Xã Phúc Sơn",
-        "path": "Phúc Sơn, Sơn Động, Bắc Giang",
-        "path_with_type": "Xã Phúc Sơn, Huyện Sơn Động, Tỉnh Bắc Giang",
-        "code": "07618",
-        "parent_code": "220"
-    },
     "07621": {
         "name": "Vân Sơn",
         "type": "xa",
@@ -59,6 +49,16 @@
         "code": "07627",
         "parent_code": "220"
     },
+    "07630": {
+        "name": "Phúc Sơn",
+        "type": "xa",
+        "slug": "phuc-son",
+        "name_with_type": "Xã Phúc Sơn",
+        "path": "Phúc Sơn, Sơn Động, Bắc Giang",
+        "path_with_type": "Xã Phúc Sơn, Huyện Sơn Động, Tỉnh Bắc Giang",
+        "code": "07630",
+        "parent_code": "220"
+    },
     "07636": {
         "name": "Giáo Liêm",
         "type": "xa",
@@ -67,16 +67,6 @@
         "path": "Giáo Liêm, Sơn Động, Bắc Giang",
         "path_with_type": "Xã Giáo Liêm, Huyện Sơn Động, Tỉnh Bắc Giang",
         "code": "07636",
-        "parent_code": "220"
-    },
-    "07639": {
-        "name": "Vĩnh An",
-        "type": "xa",
-        "slug": "vinh-an",
-        "name_with_type": "Xã Vĩnh An",
-        "path": "Vĩnh An, Sơn Động, Bắc Giang",
-        "path_with_type": "Xã Vĩnh An, Huyện Sơn Động, Tỉnh Bắc Giang",
-        "code": "07639",
         "parent_code": "220"
     },
     "07642": {
@@ -97,6 +87,16 @@
         "path": "An Lạc, Sơn Động, Bắc Giang",
         "path_with_type": "Xã An Lạc, Huyện Sơn Động, Tỉnh Bắc Giang",
         "code": "07645",
+        "parent_code": "220"
+    },
+    "07648": {
+        "name": "Vĩnh An",
+        "type": "xa",
+        "slug": "vinh-an",
+        "name_with_type": "Xã Vĩnh An",
+        "path": "Vĩnh An, Sơn Động, Bắc Giang",
+        "path_with_type": "Xã Vĩnh An, Huyện Sơn Động, Tỉnh Bắc Giang",
+        "code": "07648",
         "parent_code": "220"
     },
     "07651": {

@@ -1,14 +1,4 @@
 {
-    "17929": {
-        "name": "Nam Đàn",
-        "type": "thi-tran",
-        "slug": "nam-dan",
-        "name_with_type": "Thị trấn Nam Đàn",
-        "path": "Nam Đàn, Nam Đàn, Nghệ An",
-        "path_with_type": "Thị trấn Nam Đàn, Huyện Nam Đàn, Tỉnh Nghệ An",
-        "code": "17929",
-        "parent_code": "430"
-    },
     "17932": {
         "name": "Nam Hưng",
         "type": "xa",
@@ -69,6 +59,16 @@
         "code": "17947",
         "parent_code": "430"
     },
+    "17950": {
+        "name": "Nam Đàn",
+        "type": "thi-tran",
+        "slug": "nam-dan",
+        "name_with_type": "Thị trấn Nam Đàn",
+        "path": "Nam Đàn, Nam Đàn, Nghệ An",
+        "path_with_type": "Thị trấn Nam Đàn, Huyện Nam Đàn, Tỉnh Nghệ An",
+        "code": "17950",
+        "parent_code": "430"
+    },
     "17953": {
         "name": "Nam Lĩnh",
         "type": "xa",
@@ -109,6 +109,16 @@
         "code": "17962",
         "parent_code": "430"
     },
+    "17968": {
+        "name": "Thượng Tân Lộc",
+        "type": "xa",
+        "slug": "thuong-tan-loc",
+        "name_with_type": "Xã Thượng Tân Lộc",
+        "path": "Thượng Tân Lộc, Nam Đàn, Nghệ An",
+        "path_with_type": "Xã Thượng Tân Lộc, Huyện Nam Đàn, Tỉnh Nghệ An",
+        "code": "17968",
+        "parent_code": "430"
+    },
     "17971": {
         "name": "Kim Liên",
         "type": "xa",
@@ -117,16 +127,6 @@
         "path": "Kim Liên, Nam Đàn, Nghệ An",
         "path_with_type": "Xã Kim Liên, Huyện Nam Đàn, Tỉnh Nghệ An",
         "code": "17971",
-        "parent_code": "430"
-    },
-    "17974": {
-        "name": "Thượng Tân Lộc",
-        "type": "xa",
-        "slug": "thuong-tan-loc",
-        "name_with_type": "Xã Thượng Tân Lộc",
-        "path": "Thượng Tân Lộc, Nam Đàn, Nghệ An",
-        "path_with_type": "Xã Thượng Tân Lộc, Huyện Nam Đàn, Tỉnh Nghệ An",
-        "code": "17974",
         "parent_code": "430"
     },
     "17977": {
@@ -169,14 +169,14 @@
         "code": "17986",
         "parent_code": "430"
     },
-    "17995": {
+    "17989": {
         "name": "Trung Phúc Cường",
         "type": "xa",
         "slug": "trung-phuc-cuong",
         "name_with_type": "Xã Trung Phúc Cường",
         "path": "Trung Phúc Cường, Nam Đàn, Nghệ An",
         "path_with_type": "Xã Trung Phúc Cường, Huyện Nam Đàn, Tỉnh Nghệ An",
-        "code": "17995",
+        "code": "17989",
         "parent_code": "430"
     },
     "17998": {

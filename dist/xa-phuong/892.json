@@ -51,11 +51,11 @@
     },
     "30604": {
         "name": "Vĩnh Bình",
-        "type": "xa",
+        "type": "thi-tran",
         "slug": "vinh-binh",
-        "name_with_type": "Xã Vĩnh Bình",
+        "name_with_type": "Thị trấn Vĩnh Bình",
         "path": "Vĩnh Bình, Châu Thành, An Giang",
-        "path_with_type": "Xã Vĩnh Bình, Huyện Châu Thành, Tỉnh An Giang",
+        "path_with_type": "Thị trấn Vĩnh Bình, Huyện Châu Thành, Tỉnh An Giang",
         "code": "30604",
         "parent_code": "892"
     },

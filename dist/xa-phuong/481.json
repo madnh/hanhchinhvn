@@ -139,23 +139,13 @@
         "code": "20089",
         "parent_code": "481"
     },
-    "20092": {
-        "name": "Lâm Đớt",
-        "type": "xa",
-        "slug": "lam-dot",
-        "name_with_type": "Xã Lâm Đớt",
-        "path": "Lâm Đớt, A Lưới, Thừa Thiên Huế",
-        "path_with_type": "Xã Lâm Đớt, Huyện A Lưới, Tỉnh Thừa Thiên Huế",
-        "code": "20092",
-        "parent_code": "481"
-    },
     "20095": {
-        "name": "A Roằng",
+        "name": "A Roàng",
         "type": "xa",
         "slug": "a-roang",
-        "name_with_type": "Xã A Roằng",
-        "path": "A Roằng, A Lưới, Thừa Thiên Huế",
-        "path_with_type": "Xã A Roằng, Huyện A Lưới, Tỉnh Thừa Thiên Huế",
+        "name_with_type": "Xã A Roàng",
+        "path": "A Roàng, A Lưới, Thừa Thiên Huế",
+        "path_with_type": "Xã A Roàng, Huyện A Lưới, Tỉnh Thừa Thiên Huế",
         "code": "20095",
         "parent_code": "481"
     },
@@ -167,6 +157,16 @@
         "path": "Đông Sơn, A Lưới, Thừa Thiên Huế",
         "path_with_type": "Xã Đông Sơn, Huyện A Lưới, Tỉnh Thừa Thiên Huế",
         "code": "20098",
+        "parent_code": "481"
+    },
+    "20101": {
+        "name": "Lâm Đớt",
+        "type": "xa",
+        "slug": "lam-dot",
+        "name_with_type": "Xã Lâm Đớt",
+        "path": "Lâm Đớt, A Lưới, Thừa Thiên Huế",
+        "path_with_type": "Xã Lâm Đớt, Huyện A Lưới, Tỉnh Thừa Thiên Huế",
+        "code": "20101",
         "parent_code": "481"
     },
     "20104": {

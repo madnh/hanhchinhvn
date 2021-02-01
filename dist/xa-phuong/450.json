@@ -29,16 +29,6 @@
         "code": "18859",
         "parent_code": "450"
     },
-    "18862": {
-        "name": "Đồng Mỹ",
-        "type": "phuong",
-        "slug": "dong-my",
-        "name_with_type": "Phường Đồng Mỹ",
-        "path": "Đồng Mỹ, Đồng Hới, Quảng Bình",
-        "path_with_type": "Phường Đồng Mỹ, Thành Phố Đồng Hới, Tỉnh Quảng Bình",
-        "code": "18862",
-        "parent_code": "450"
-    },
     "18865": {
         "name": "Nam Lý",
         "type": "phuong",
@@ -50,12 +40,12 @@
         "parent_code": "450"
     },
     "18868": {
-        "name": "Hải Đình",
+        "name": "Đồng Hải",
         "type": "phuong",
-        "slug": "hai-dinh",
-        "name_with_type": "Phường Hải Đình",
-        "path": "Hải Đình, Đồng Hới, Quảng Bình",
-        "path_with_type": "Phường Hải Đình, Thành Phố Đồng Hới, Tỉnh Quảng Bình",
+        "slug": "dong-hai",
+        "name_with_type": "Phường Đồng Hải",
+        "path": "Đồng Hải, Đồng Hới, Quảng Bình",
+        "path_with_type": "Phường Đồng Hải, Thành Phố Đồng Hới, Tỉnh Quảng Bình",
         "code": "18868",
         "parent_code": "450"
     },

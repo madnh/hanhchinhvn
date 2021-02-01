@@ -29,16 +29,6 @@
         "code": "01660",
         "parent_code": "051"
     },
-    "01663": {
-        "name": "Đức Xuân",
-        "type": "xa",
-        "slug": "duc-xuan",
-        "name_with_type": "Xã Đức Xuân",
-        "path": "Đức Xuân, Hoà An, Cao Bằng",
-        "path_with_type": "Xã Đức Xuân, Huyện Hoà An, Tỉnh Cao Bằng",
-        "code": "01663",
-        "parent_code": "051"
-    },
     "01666": {
         "name": "Đại Tiến",
         "type": "xa",
@@ -79,36 +69,6 @@
         "code": "01675",
         "parent_code": "051"
     },
-    "01678": {
-        "name": "Bình Long",
-        "type": "xa",
-        "slug": "binh-long",
-        "name_with_type": "Xã Bình Long",
-        "path": "Bình Long, Hoà An, Cao Bằng",
-        "path_with_type": "Xã Bình Long, Huyện Hoà An, Tỉnh Cao Bằng",
-        "code": "01678",
-        "parent_code": "051"
-    },
-    "01681": {
-        "name": "Nguyễn Huệ",
-        "type": "xa",
-        "slug": "nguyen-hue",
-        "name_with_type": "Xã Nguyễn Huệ",
-        "path": "Nguyễn Huệ, Hoà An, Cao Bằng",
-        "path_with_type": "Xã Nguyễn Huệ, Huyện Hoà An, Tỉnh Cao Bằng",
-        "code": "01681",
-        "parent_code": "051"
-    },
-    "01684": {
-        "name": "Công Trừng",
-        "type": "xa",
-        "slug": "cong-trung",
-        "name_with_type": "Xã Công Trừng",
-        "path": "Công Trừng, Hoà An, Cao Bằng",
-        "path_with_type": "Xã Công Trừng, Huyện Hoà An, Tỉnh Cao Bằng",
-        "code": "01684",
-        "parent_code": "051"
-    },
     "01687": {
         "name": "Hồng Việt",
         "type": "xa",
@@ -117,16 +77,6 @@
         "path": "Hồng Việt, Hoà An, Cao Bằng",
         "path_with_type": "Xã Hồng Việt, Huyện Hoà An, Tỉnh Cao Bằng",
         "code": "01687",
-        "parent_code": "051"
-    },
-    "01690": {
-        "name": "Bế Triều",
-        "type": "xa",
-        "slug": "be-trieu",
-        "name_with_type": "Xã Bế Triều",
-        "path": "Bế Triều, Hoà An, Cao Bằng",
-        "path_with_type": "Xã Bế Triều, Huyện Hoà An, Tỉnh Cao Bằng",
-        "code": "01690",
         "parent_code": "051"
     },
     "01696": {
@@ -140,12 +90,12 @@
         "parent_code": "051"
     },
     "01699": {
-        "name": "Trương Vương",
+        "name": "Nguyễn Huệ",
         "type": "xa",
-        "slug": "truong-vuong",
-        "name_with_type": "Xã Trương Vương",
-        "path": "Trương Vương, Hoà An, Cao Bằng",
-        "path_with_type": "Xã Trương Vương, Huyện Hoà An, Tỉnh Cao Bằng",
+        "slug": "nguyen-hue",
+        "name_with_type": "Xã Nguyễn Huệ",
+        "path": "Nguyễn Huệ, Hoà An, Cao Bằng",
+        "path_with_type": "Xã Nguyễn Huệ, Huyện Hoà An, Tỉnh Cao Bằng",
         "code": "01699",
         "parent_code": "051"
     },
@@ -187,16 +137,6 @@
         "path": "Lê Chung, Hoà An, Cao Bằng",
         "path_with_type": "Xã Lê Chung, Huyện Hoà An, Tỉnh Cao Bằng",
         "code": "01714",
-        "parent_code": "051"
-    },
-    "01717": {
-        "name": "Hà Trì",
-        "type": "xa",
-        "slug": "ha-tri",
-        "name_with_type": "Xã Hà Trì",
-        "path": "Hà Trì, Hoà An, Cao Bằng",
-        "path_with_type": "Xã Hà Trì, Huyện Hoà An, Tỉnh Cao Bằng",
-        "code": "01717",
         "parent_code": "051"
     },
     "01723": {

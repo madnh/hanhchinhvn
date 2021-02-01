@@ -9,16 +9,6 @@
         "code": "12970",
         "parent_code": "342"
     },
-    "12973": {
-        "name": "Đông Hải",
-        "type": "xa",
-        "slug": "dong-hai",
-        "name_with_type": "Xã Đông Hải",
-        "path": "Đông Hải, Tiền Hải, Thái Bình",
-        "path_with_type": "Xã Đông Hải, Huyện Tiền Hải, Tỉnh Thái Bình",
-        "code": "12973",
-        "parent_code": "342"
-    },
     "12976": {
         "name": "Đông Trà",
         "type": "xa",
@@ -119,16 +109,6 @@
         "code": "13003",
         "parent_code": "342"
     },
-    "13006": {
-        "name": "Tây An",
-        "type": "xa",
-        "slug": "tay-an",
-        "name_with_type": "Xã Tây An",
-        "path": "Tây An, Tiền Hải, Thái Bình",
-        "path_with_type": "Xã Tây An, Huyện Tiền Hải, Tỉnh Thái Bình",
-        "code": "13006",
-        "parent_code": "342"
-    },
     "13009": {
         "name": "Đông Phong",
         "type": "xa",
@@ -147,16 +127,6 @@
         "path": "An Ninh, Tiền Hải, Thái Bình",
         "path_with_type": "Xã An Ninh, Huyện Tiền Hải, Tỉnh Thái Bình",
         "code": "13012",
-        "parent_code": "342"
-    },
-    "13015": {
-        "name": "Tây Sơn",
-        "type": "xa",
-        "slug": "tay-son",
-        "name_with_type": "Xã Tây Sơn",
-        "path": "Tây Sơn, Tiền Hải, Thái Bình",
-        "path_with_type": "Xã Tây Sơn, Huyện Tiền Hải, Tỉnh Thái Bình",
-        "code": "13015",
         "parent_code": "342"
     },
     "13018": {

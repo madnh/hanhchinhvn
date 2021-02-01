@@ -1,14 +1,4 @@
 {
-    "18349": {
-        "name": "Tiên Điền",
-        "type": "thi-tran",
-        "slug": "tien-dien",
-        "name_with_type": "Thị trấn Tiên Điền",
-        "path": "Tiên Điền, Nghi Xuân, Hà Tĩnh",
-        "path_with_type": "Thị trấn Tiên Điền, Huyện Nghi Xuân, Tỉnh Hà Tĩnh",
-        "code": "18349",
-        "parent_code": "442"
-    },
     "18352": {
         "name": "Xuân An",
         "type": "thi-tran",
@@ -67,6 +57,16 @@
         "path": "Xuân Giang, Nghi Xuân, Hà Tĩnh",
         "path_with_type": "Xã Xuân Giang, Huyện Nghi Xuân, Tỉnh Hà Tĩnh",
         "code": "18370",
+        "parent_code": "442"
+    },
+    "18373": {
+        "name": "Tiên Điền",
+        "type": "thi-tran",
+        "slug": "tien-dien",
+        "name_with_type": "Thị trấn Tiên Điền",
+        "path": "Tiên Điền, Nghi Xuân, Hà Tĩnh",
+        "path_with_type": "Thị trấn Tiên Điền, Huyện Nghi Xuân, Tỉnh Hà Tĩnh",
+        "code": "18373",
         "parent_code": "442"
     },
     "18376": {

@@ -159,23 +159,13 @@
         "code": "02992",
         "parent_code": "087"
     },
-    "02995": {
-        "name": "Long Phúc",
-        "type": "xa",
-        "slug": "long-phuc",
-        "name_with_type": "Xã Long Phúc",
-        "path": "Long Phúc, Bảo Yên, Lào Cai",
-        "path_with_type": "Xã Long Phúc, Huyện Bảo Yên, Tỉnh Lào Cai",
-        "code": "02995",
-        "parent_code": "087"
-    },
     "02998": {
-        "name": "Long Khánh",
+        "name": "Phúc Khánh",
         "type": "xa",
-        "slug": "long-khanh",
-        "name_with_type": "Xã Long Khánh",
-        "path": "Long Khánh, Bảo Yên, Lào Cai",
-        "path_with_type": "Xã Long Khánh, Huyện Bảo Yên, Tỉnh Lào Cai",
+        "slug": "phuc-khanh",
+        "name_with_type": "Xã Phúc Khánh",
+        "path": "Phúc Khánh, Bảo Yên, Lào Cai",
+        "path_with_type": "Xã Phúc Khánh, Huyện Bảo Yên, Tỉnh Lào Cai",
         "code": "02998",
         "parent_code": "087"
     }

@@ -49,16 +49,6 @@
         "code": "11341",
         "parent_code": "304"
     },
-    "11344": {
-        "name": "Lương Khánh Thiện",
-        "type": "phuong",
-        "slug": "luong-khanh-thien",
-        "name_with_type": "Phường Lương Khánh Thiện",
-        "path": "Lương Khánh Thiện, Ngô Quyền, Hải Phòng",
-        "path_with_type": "Phường Lương Khánh Thiện, Quận Ngô Quyền, Thành phố Hải Phòng",
-        "code": "11344",
-        "parent_code": "304"
-    },
     "11347": {
         "name": "Gia Viên",
         "type": "phuong",

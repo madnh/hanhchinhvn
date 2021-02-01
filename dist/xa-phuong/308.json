@@ -10,12 +10,12 @@
         "parent_code": "308"
     },
     "11458": {
-        "name": "Ngọc Hải",
+        "name": "Hải Sơn",
         "type": "phuong",
-        "slug": "ngoc-hai",
-        "name_with_type": "Phường Ngọc Hải",
-        "path": "Ngọc Hải, Đồ Sơn, Hải Phòng",
-        "path_with_type": "Phường Ngọc Hải, Quận Đồ Sơn, Thành phố Hải Phòng",
+        "slug": "hai-son",
+        "name_with_type": "Phường Hải Sơn",
+        "path": "Hải Sơn, Đồ Sơn, Hải Phòng",
+        "path_with_type": "Phường Hải Sơn, Quận Đồ Sơn, Thành phố Hải Phòng",
         "code": "11458",
         "parent_code": "308"
     },
@@ -27,16 +27,6 @@
         "path": "Vạn Hương, Đồ Sơn, Hải Phòng",
         "path_with_type": "Phường Vạn Hương, Quận Đồ Sơn, Thành phố Hải Phòng",
         "code": "11461",
-        "parent_code": "308"
-    },
-    "11464": {
-        "name": "Vạn Sơn",
-        "type": "phuong",
-        "slug": "van-son",
-        "name_with_type": "Phường Vạn Sơn",
-        "path": "Vạn Sơn, Đồ Sơn, Hải Phòng",
-        "path_with_type": "Phường Vạn Sơn, Quận Đồ Sơn, Thành phố Hải Phòng",
-        "code": "11464",
         "parent_code": "308"
     },
     "11465": {

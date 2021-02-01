@@ -30,12 +30,12 @@
         "parent_code": "109"
     },
     "03550": {
-        "name": "Sì Lờ Lầu",
+        "name": "Sì Lở Lầu",
         "type": "xa",
         "slug": "si-lo-lau",
-        "name_with_type": "Xã Sì Lờ Lầu",
-        "path": "Sì Lờ Lầu, Phong Thổ, Lai Châu",
-        "path_with_type": "Xã Sì Lờ Lầu, Huyện Phong Thổ, Tỉnh Lai Châu",
+        "name_with_type": "Xã Sì Lở Lầu",
+        "path": "Sì Lở Lầu, Phong Thổ, Lai Châu",
+        "path_with_type": "Xã Sì Lở Lầu, Huyện Phong Thổ, Tỉnh Lai Châu",
         "code": "03550",
         "parent_code": "109"
     },
@@ -47,16 +47,6 @@
         "path": "Mồ Sì San, Phong Thổ, Lai Châu",
         "path_with_type": "Xã Mồ Sì San, Huyện Phong Thổ, Tỉnh Lai Châu",
         "code": "03553",
-        "parent_code": "109"
-    },
-    "03556": {
-        "name": "Ma Li Chải",
-        "type": "xa",
-        "slug": "ma-li-chai",
-        "name_with_type": "Xã Ma Li Chải",
-        "path": "Ma Li Chải, Phong Thổ, Lai Châu",
-        "path_with_type": "Xã Ma Li Chải, Huyện Phong Thổ, Tỉnh Lai Châu",
-        "code": "03556",
         "parent_code": "109"
     },
     "03559": {

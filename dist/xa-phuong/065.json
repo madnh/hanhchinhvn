@@ -1,11 +1,11 @@
 {
     "02086": {
-        "name": "Chợ Mới",
+        "name": "Đồng Tâm",
         "type": "thi-tran",
-        "slug": "cho-moi",
-        "name_with_type": "Thị trấn Chợ Mới",
-        "path": "Chợ Mới, Chợ Mới, Bắc Kạn",
-        "path_with_type": "Thị trấn Chợ Mới, Huyện Chợ Mới, Tỉnh Bắc Kạn",
+        "slug": "dong-tam",
+        "name_with_type": "Thị trấn Đồng Tâm",
+        "path": "Đồng Tâm, Chợ Mới, Bắc Kạn",
+        "path_with_type": "Thị trấn Đồng Tâm, Huyện Chợ Mới, Tỉnh Bắc Kạn",
         "code": "02086",
         "parent_code": "065"
     },
@@ -90,12 +90,12 @@
         "parent_code": "065"
     },
     "02113": {
-        "name": "Nông Thịnh",
+        "name": "Thanh Thịnh",
         "type": "xa",
-        "slug": "nong-thinh",
-        "name_with_type": "Xã Nông Thịnh",
-        "path": "Nông Thịnh, Chợ Mới, Bắc Kạn",
-        "path_with_type": "Xã Nông Thịnh, Huyện Chợ Mới, Tỉnh Bắc Kạn",
+        "slug": "thanh-thinh",
+        "name_with_type": "Xã Thanh Thịnh",
+        "path": "Thanh Thịnh, Chợ Mới, Bắc Kạn",
+        "path_with_type": "Xã Thanh Thịnh, Huyện Chợ Mới, Tỉnh Bắc Kạn",
         "code": "02113",
         "parent_code": "065"
     },
@@ -107,16 +107,6 @@
         "path": "Yên Hân, Chợ Mới, Bắc Kạn",
         "path_with_type": "Xã Yên Hân, Huyện Chợ Mới, Tỉnh Bắc Kạn",
         "code": "02116",
-        "parent_code": "065"
-    },
-    "02119": {
-        "name": "Thanh Bình",
-        "type": "xa",
-        "slug": "thanh-binh",
-        "name_with_type": "Xã Thanh Bình",
-        "path": "Thanh Bình, Chợ Mới, Bắc Kạn",
-        "path_with_type": "Xã Thanh Bình, Huyện Chợ Mới, Tỉnh Bắc Kạn",
-        "code": "02119",
         "parent_code": "065"
     },
     "02122": {
@@ -137,16 +127,6 @@
         "path": "Bình Văn, Chợ Mới, Bắc Kạn",
         "path_with_type": "Xã Bình Văn, Huyện Chợ Mới, Tỉnh Bắc Kạn",
         "code": "02125",
-        "parent_code": "065"
-    },
-    "02128": {
-        "name": "Yên Đĩnh",
-        "type": "xa",
-        "slug": "yen-dinh",
-        "name_with_type": "Xã Yên Đĩnh",
-        "path": "Yên Đĩnh, Chợ Mới, Bắc Kạn",
-        "path_with_type": "Xã Yên Đĩnh, Huyện Chợ Mới, Tỉnh Bắc Kạn",
-        "code": "02128",
         "parent_code": "065"
     },
     "02131": {

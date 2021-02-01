@@ -5,7 +5,7 @@
         "slug": "an-loc",
         "name_with_type": "Phường An Lộc",
         "path": "An Lộc, Hồng Ngự, Đồng Tháp",
-        "path_with_type": "Phường An Lộc, Thị xã Hồng Ngự, Tỉnh Đồng Tháp",
+        "path_with_type": "Phường An Lộc, Thành phố Hồng Ngự, Tỉnh Đồng Tháp",
         "code": "29954",
         "parent_code": "868"
     },
@@ -15,7 +15,7 @@
         "slug": "an-thanh",
         "name_with_type": "Phường An Thạnh",
         "path": "An Thạnh, Hồng Ngự, Đồng Tháp",
-        "path_with_type": "Phường An Thạnh, Thị xã Hồng Ngự, Tỉnh Đồng Tháp",
+        "path_with_type": "Phường An Thạnh, Thành phố Hồng Ngự, Tỉnh Đồng Tháp",
         "code": "29955",
         "parent_code": "868"
     },
@@ -25,7 +25,7 @@
         "slug": "binh-thanh",
         "name_with_type": "Xã Bình Thạnh",
         "path": "Bình Thạnh, Hồng Ngự, Đồng Tháp",
-        "path_with_type": "Xã Bình Thạnh, Thị xã Hồng Ngự, Tỉnh Đồng Tháp",
+        "path_with_type": "Xã Bình Thạnh, Thành phố Hồng Ngự, Tỉnh Đồng Tháp",
         "code": "29959",
         "parent_code": "868"
     },
@@ -35,7 +35,7 @@
         "slug": "tan-hoi",
         "name_with_type": "Xã Tân Hội",
         "path": "Tân Hội, Hồng Ngự, Đồng Tháp",
-        "path_with_type": "Xã Tân Hội, Thị xã Hồng Ngự, Tỉnh Đồng Tháp",
+        "path_with_type": "Xã Tân Hội, Thành phố Hồng Ngự, Tỉnh Đồng Tháp",
         "code": "29965",
         "parent_code": "868"
     },
@@ -45,27 +45,27 @@
         "slug": "an-lac",
         "name_with_type": "Phường An Lạc",
         "path": "An Lạc, Hồng Ngự, Đồng Tháp",
-        "path_with_type": "Phường An Lạc, Thị xã Hồng Ngự, Tỉnh Đồng Tháp",
+        "path_with_type": "Phường An Lạc, Thành phố Hồng Ngự, Tỉnh Đồng Tháp",
         "code": "29978",
         "parent_code": "868"
     },
     "29986": {
         "name": "An Bình B",
-        "type": "xa",
+        "type": "phuong",
         "slug": "an-binh-b",
-        "name_with_type": "Xã An Bình B",
+        "name_with_type": "Phường An Bình B",
         "path": "An Bình B, Hồng Ngự, Đồng Tháp",
-        "path_with_type": "Xã An Bình B, Thị xã Hồng Ngự, Tỉnh Đồng Tháp",
+        "path_with_type": "Phường An Bình B, Thành phố Hồng Ngự, Tỉnh Đồng Tháp",
         "code": "29986",
         "parent_code": "868"
     },
     "29989": {
         "name": "An Bình A",
-        "type": "xa",
+        "type": "phuong",
         "slug": "an-binh-a",
-        "name_with_type": "Xã An Bình A",
+        "name_with_type": "Phường An Bình A",
         "path": "An Bình A, Hồng Ngự, Đồng Tháp",
-        "path_with_type": "Xã An Bình A, Thị xã Hồng Ngự, Tỉnh Đồng Tháp",
+        "path_with_type": "Phường An Bình A, Thành phố Hồng Ngự, Tỉnh Đồng Tháp",
         "code": "29989",
         "parent_code": "868"
     }

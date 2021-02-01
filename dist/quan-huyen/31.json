@@ -138,5 +138,15 @@
         "path_with_type": "Huyện Cát Hải, Thành phố Hải Phòng",
         "code": "317",
         "parent_code": "31"
+    },
+    "318": {
+        "name": "Bạch Long Vĩ",
+        "type": "huyen",
+        "slug": "bach-long-vi",
+        "name_with_type": "Huyện Bạch Long Vĩ",
+        "path": "Bạch Long Vĩ, Hải Phòng",
+        "path_with_type": "Huyện Bạch Long Vĩ, Thành phố Hải Phòng",
+        "code": "318",
+        "parent_code": "31"
     }
 }

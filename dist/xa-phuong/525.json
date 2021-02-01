@@ -98,5 +98,65 @@
         "path_with_type": "Xã Trà Bùi, Huyện Trà Bồng, Tỉnh Quảng Ngãi",
         "code": "21142",
         "parent_code": "525"
+    },
+    "21145": {
+        "name": "Trà Thanh",
+        "type": "xa",
+        "slug": "tra-thanh",
+        "name_with_type": "Xã Trà Thanh",
+        "path": "Trà Thanh, Trà Bồng, Quảng Ngãi",
+        "path_with_type": "Xã Trà Thanh, Huyện Trà Bồng, Tỉnh Quảng Ngãi",
+        "code": "21145",
+        "parent_code": "525"
+    },
+    "21148": {
+        "name": "Sơn Trà",
+        "type": "xa",
+        "slug": "son-tra",
+        "name_with_type": "Xã Sơn Trà",
+        "path": "Sơn Trà, Trà Bồng, Quảng Ngãi",
+        "path_with_type": "Xã Sơn Trà, Huyện Trà Bồng, Tỉnh Quảng Ngãi",
+        "code": "21148",
+        "parent_code": "525"
+    },
+    "21154": {
+        "name": "Trà Phong",
+        "type": "xa",
+        "slug": "tra-phong",
+        "name_with_type": "Xã Trà Phong",
+        "path": "Trà Phong, Trà Bồng, Quảng Ngãi",
+        "path_with_type": "Xã Trà Phong, Huyện Trà Bồng, Tỉnh Quảng Ngãi",
+        "code": "21154",
+        "parent_code": "525"
+    },
+    "21157": {
+        "name": "Hương Trà",
+        "type": "xa",
+        "slug": "huong-tra",
+        "name_with_type": "Xã Hương Trà",
+        "path": "Hương Trà, Trà Bồng, Quảng Ngãi",
+        "path_with_type": "Xã Hương Trà, Huyện Trà Bồng, Tỉnh Quảng Ngãi",
+        "code": "21157",
+        "parent_code": "525"
+    },
+    "21163": {
+        "name": "Trà Xinh",
+        "type": "xa",
+        "slug": "tra-xinh",
+        "name_with_type": "Xã Trà Xinh",
+        "path": "Trà Xinh, Trà Bồng, Quảng Ngãi",
+        "path_with_type": "Xã Trà Xinh, Huyện Trà Bồng, Tỉnh Quảng Ngãi",
+        "code": "21163",
+        "parent_code": "525"
+    },
+    "21166": {
+        "name": "Trà Tây",
+        "type": "xa",
+        "slug": "tra-tay",
+        "name_with_type": "Xã Trà Tây",
+        "path": "Trà Tây, Trà Bồng, Quảng Ngãi",
+        "path_with_type": "Xã Trà Tây, Huyện Trà Bồng, Tỉnh Quảng Ngãi",
+        "code": "21166",
+        "parent_code": "525"
     }
 }

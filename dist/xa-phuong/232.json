@@ -109,6 +109,16 @@
         "code": "08200",
         "parent_code": "232"
     },
+    "08203": {
+        "name": "Hoàng Cương",
+        "type": "xa",
+        "slug": "hoang-cuong",
+        "name_with_type": "Xã Hoàng Cương",
+        "path": "Hoàng Cương, Thanh Ba, Phú Thọ",
+        "path_with_type": "Xã Hoàng Cương, Huyện Thanh Ba, Tỉnh Phú Thọ",
+        "code": "08203",
+        "parent_code": "232"
+    },
     "08206": {
         "name": "Chí Tiên",
         "type": "xa",
@@ -127,16 +137,6 @@
         "path": "Đông Thành, Thanh Ba, Phú Thọ",
         "path_with_type": "Xã Đông Thành, Huyện Thanh Ba, Tỉnh Phú Thọ",
         "code": "08209",
-        "parent_code": "232"
-    },
-    "08212": {
-        "name": "Hoàng Cương",
-        "type": "xa",
-        "slug": "hoang-cuong",
-        "name_with_type": "Xã Hoàng Cương",
-        "path": "Hoàng Cương, Thanh Ba, Phú Thọ",
-        "path_with_type": "Xã Hoàng Cương, Huyện Thanh Ba, Tỉnh Phú Thọ",
-        "code": "08212",
         "parent_code": "232"
     },
     "08215": {

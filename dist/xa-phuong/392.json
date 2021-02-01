@@ -49,6 +49,16 @@
         "code": "15283",
         "parent_code": "392"
     },
+    "15286": {
+        "name": "Yên Dương",
+        "type": "xa",
+        "slug": "yen-duong",
+        "name_with_type": "Xã Yên Dương",
+        "path": "Yên Dương, Hà Trung, Thanh Hóa",
+        "path_with_type": "Xã Yên Dương, Huyện Hà Trung, Tỉnh Thanh Hóa",
+        "code": "15286",
+        "parent_code": "392"
+    },
     "15292": {
         "name": "Hà Giang",
         "type": "xa",
@@ -57,16 +67,6 @@
         "path": "Hà Giang, Hà Trung, Thanh Hóa",
         "path_with_type": "Xã Hà Giang, Huyện Hà Trung, Tỉnh Thanh Hóa",
         "code": "15292",
-        "parent_code": "392"
-    },
-    "15295": {
-        "name": "Yên Dương",
-        "type": "xa",
-        "slug": "yen-duong",
-        "name_with_type": "Xã Yên Dương",
-        "path": "Yên Dương, Hà Trung, Thanh Hóa",
-        "path_with_type": "Xã Yên Dương, Huyện Hà Trung, Tỉnh Thanh Hóa",
-        "code": "15295",
         "parent_code": "392"
     },
     "15298": {

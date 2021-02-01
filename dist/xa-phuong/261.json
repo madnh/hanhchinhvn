@@ -11,41 +11,41 @@
     },
     "09370": {
         "name": "Tam Sơn",
-        "type": "xa",
+        "type": "phuong",
         "slug": "tam-son",
-        "name_with_type": "Xã Tam Sơn",
+        "name_with_type": "Phường Tam Sơn",
         "path": "Tam Sơn, Từ Sơn, Bắc Ninh",
-        "path_with_type": "Xã Tam Sơn, Thị xã Từ Sơn, Tỉnh Bắc Ninh",
+        "path_with_type": "Phường Tam Sơn, Thị xã Từ Sơn, Tỉnh Bắc Ninh",
         "code": "09370",
         "parent_code": "261"
     },
     "09373": {
         "name": "Hương Mạc",
-        "type": "xa",
+        "type": "phuong",
         "slug": "huong-mac",
-        "name_with_type": "Xã Hương Mạc",
+        "name_with_type": "Phường Hương Mạc",
         "path": "Hương Mạc, Từ Sơn, Bắc Ninh",
-        "path_with_type": "Xã Hương Mạc, Thị xã Từ Sơn, Tỉnh Bắc Ninh",
+        "path_with_type": "Phường Hương Mạc, Thị xã Từ Sơn, Tỉnh Bắc Ninh",
         "code": "09373",
         "parent_code": "261"
     },
     "09376": {
         "name": "Tương Giang",
-        "type": "xa",
+        "type": "phuong",
         "slug": "tuong-giang",
-        "name_with_type": "Xã Tương Giang",
+        "name_with_type": "Phường Tương Giang",
         "path": "Tương Giang, Từ Sơn, Bắc Ninh",
-        "path_with_type": "Xã Tương Giang, Thị xã Từ Sơn, Tỉnh Bắc Ninh",
+        "path_with_type": "Phường Tương Giang, Thị xã Từ Sơn, Tỉnh Bắc Ninh",
         "code": "09376",
         "parent_code": "261"
     },
     "09379": {
         "name": "Phù Khê",
-        "type": "xa",
+        "type": "phuong",
         "slug": "phu-khe",
-        "name_with_type": "Xã Phù Khê",
+        "name_with_type": "Phường Phù Khê",
         "path": "Phù Khê, Từ Sơn, Bắc Ninh",
-        "path_with_type": "Xã Phù Khê, Thị xã Từ Sơn, Tỉnh Bắc Ninh",
+        "path_with_type": "Phường Phù Khê, Thị xã Từ Sơn, Tỉnh Bắc Ninh",
         "code": "09379",
         "parent_code": "261"
     },
@@ -111,11 +111,11 @@
     },
     "09397": {
         "name": "Phù Chẩn",
-        "type": "xa",
+        "type": "phuong",
         "slug": "phu-chan",
-        "name_with_type": "Xã Phù Chẩn",
+        "name_with_type": "Phường Phù Chẩn",
         "path": "Phù Chẩn, Từ Sơn, Bắc Ninh",
-        "path_with_type": "Xã Phù Chẩn, Thị xã Từ Sơn, Tỉnh Bắc Ninh",
+        "path_with_type": "Phường Phù Chẩn, Thị xã Từ Sơn, Tỉnh Bắc Ninh",
         "code": "09397",
         "parent_code": "261"
     }

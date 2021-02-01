@@ -19,6 +19,16 @@
         "code": "08056",
         "parent_code": "231"
     },
+    "08062": {
+        "name": "Đan Thượng",
+        "type": "xa",
+        "slug": "dan-thuong",
+        "name_with_type": "Xã Đan Thượng",
+        "path": "Đan Thượng, Hạ Hoà, Phú Thọ",
+        "path_with_type": "Xã Đan Thượng, Huyện Hạ Hoà, Tỉnh Phú Thọ",
+        "code": "08062",
+        "parent_code": "231"
+    },
     "08065": {
         "name": "Hà Lương",
         "type": "xa",
@@ -37,16 +47,6 @@
         "path": "Tứ Hiệp, Hạ Hoà, Phú Thọ",
         "path_with_type": "Xã Tứ Hiệp, Huyện Hạ Hoà, Tỉnh Phú Thọ",
         "code": "08071",
-        "parent_code": "231"
-    },
-    "08077": {
-        "name": "Đan Thượng",
-        "type": "xa",
-        "slug": "dan-thuong",
-        "name_with_type": "Xã Đan Thượng",
-        "path": "Đan Thượng, Hạ Hoà, Phú Thọ",
-        "path_with_type": "Xã Đan Thượng, Huyện Hạ Hoà, Tỉnh Phú Thọ",
-        "code": "08077",
         "parent_code": "231"
     },
     "08080": {

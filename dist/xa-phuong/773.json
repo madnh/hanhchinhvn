@@ -1,14 +1,4 @@
 {
-    "27256": {
-        "name": "12",
-        "type": "phuong",
-        "slug": "12",
-        "name_with_type": "Phường 12",
-        "path": "12, 4, Hồ Chí Minh",
-        "path_with_type": "Phường 12, Quận 4, Thành phố Hồ Chí Minh",
-        "code": "27256",
-        "parent_code": "773"
-    },
     "27259": {
         "name": "13",
         "type": "phuong",
@@ -57,16 +47,6 @@
         "path": "10, 4, Hồ Chí Minh",
         "path_with_type": "Phường 10, Quận 4, Thành phố Hồ Chí Minh",
         "code": "27271",
-        "parent_code": "773"
-    },
-    "27274": {
-        "name": "05",
-        "type": "phuong",
-        "slug": "05",
-        "name_with_type": "Phường 05",
-        "path": "05, 4, Hồ Chí Minh",
-        "path_with_type": "Phường 05, Quận 4, Thành phố Hồ Chí Minh",
-        "code": "27274",
         "parent_code": "773"
     },
     "27277": {

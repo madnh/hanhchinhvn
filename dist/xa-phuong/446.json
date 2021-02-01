@@ -79,16 +79,6 @@
         "code": "18697",
         "parent_code": "446"
     },
-    "18700": {
-        "name": "Nam Phúc Thăng",
-        "type": "xa",
-        "slug": "nam-phuc-thang",
-        "name_with_type": "Xã Nam Phúc Thăng",
-        "path": "Nam Phúc Thăng, Cẩm Xuyên, Hà Tĩnh",
-        "path_with_type": "Xã Nam Phúc Thăng, Huyện Cẩm Xuyên, Tỉnh Hà Tĩnh",
-        "code": "18700",
-        "parent_code": "446"
-    },
     "18706": {
         "name": "Cẩm Thạch",
         "type": "xa",
@@ -107,6 +97,16 @@
         "path": "Cẩm Nhượng, Cẩm Xuyên, Hà Tĩnh",
         "path_with_type": "Xã Cẩm Nhượng, Huyện Cẩm Xuyên, Tỉnh Hà Tĩnh",
         "code": "18709",
+        "parent_code": "446"
+    },
+    "18712": {
+        "name": "Nam Phúc Thăng",
+        "type": "xa",
+        "slug": "nam-phuc-thang",
+        "name_with_type": "Xã Nam Phúc Thăng",
+        "path": "Nam Phúc Thăng, Cẩm Xuyên, Hà Tĩnh",
+        "path_with_type": "Xã Nam Phúc Thăng, Huyện Cẩm Xuyên, Tỉnh Hà Tĩnh",
+        "code": "18712",
         "parent_code": "446"
     },
     "18715": {

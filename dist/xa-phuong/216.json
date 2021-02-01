@@ -1,24 +1,4 @@
 {
-    "07297": {
-        "name": "Cao Thượng",
-        "type": "thi-tran",
-        "slug": "cao-thuong",
-        "name_with_type": "Thị trấn Cao Thượng",
-        "path": "Cao Thượng, Tân Yên, Bắc Giang",
-        "path_with_type": "Thị trấn Cao Thượng, Huyện Tân Yên, Tỉnh Bắc Giang",
-        "code": "07297",
-        "parent_code": "216"
-    },
-    "07300": {
-        "name": "Nhã Nam",
-        "type": "thi-tran",
-        "slug": "nha-nam",
-        "name_with_type": "Thị trấn Nhã Nam",
-        "path": "Nhã Nam, Tân Yên, Bắc Giang",
-        "path_with_type": "Thị trấn Nhã Nam, Huyện Tân Yên, Tỉnh Bắc Giang",
-        "code": "07300",
-        "parent_code": "216"
-    },
     "07303": {
         "name": "Lan Giới",
         "type": "xa",
@@ -27,6 +7,16 @@
         "path": "Lan Giới, Tân Yên, Bắc Giang",
         "path_with_type": "Xã Lan Giới, Huyện Tân Yên, Tỉnh Bắc Giang",
         "code": "07303",
+        "parent_code": "216"
+    },
+    "07306": {
+        "name": "Nhã Nam",
+        "type": "thi-tran",
+        "slug": "nha-nam",
+        "name_with_type": "Thị trấn Nhã Nam",
+        "path": "Nhã Nam, Tân Yên, Bắc Giang",
+        "path_with_type": "Thị trấn Nhã Nam, Huyện Tân Yên, Tỉnh Bắc Giang",
+        "code": "07306",
         "parent_code": "216"
     },
     "07309": {
@@ -127,6 +117,16 @@
         "path": "Cao Xá, Tân Yên, Bắc Giang",
         "path_with_type": "Xã Cao Xá, Huyện Tân Yên, Tỉnh Bắc Giang",
         "code": "07336",
+        "parent_code": "216"
+    },
+    "07339": {
+        "name": "Cao Thượng",
+        "type": "thi-tran",
+        "slug": "cao-thuong",
+        "name_with_type": "Thị trấn Cao Thượng",
+        "path": "Cao Thượng, Tân Yên, Bắc Giang",
+        "path_with_type": "Thị trấn Cao Thượng, Huyện Tân Yên, Tỉnh Bắc Giang",
+        "code": "07339",
         "parent_code": "216"
     },
     "07342": {

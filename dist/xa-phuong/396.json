@@ -1,14 +1,4 @@
 {
-    "15604": {
-        "name": "Thường Xuân",
-        "type": "thi-tran",
-        "slug": "thuong-xuan",
-        "name_with_type": "Thị trấn Thường Xuân",
-        "path": "Thường Xuân, Thường Xuân, Thanh Hóa",
-        "path_with_type": "Thị trấn Thường Xuân, Huyện Thường Xuân, Tỉnh Thanh Hóa",
-        "code": "15604",
-        "parent_code": "396"
-    },
     "15607": {
         "name": "Bát Mọt",
         "type": "xa",
@@ -107,6 +97,16 @@
         "path": "Xuân Lộc, Thường Xuân, Thanh Hóa",
         "path_with_type": "Xã Xuân Lộc, Huyện Thường Xuân, Tỉnh Thanh Hóa",
         "code": "15643",
+        "parent_code": "396"
+    },
+    "15646": {
+        "name": "Thường Xuân",
+        "type": "thi-tran",
+        "slug": "thuong-xuan",
+        "name_with_type": "Thị trấn Thường Xuân",
+        "path": "Thường Xuân, Thường Xuân, Thanh Hóa",
+        "path_with_type": "Thị trấn Thường Xuân, Huyện Thường Xuân, Tỉnh Thanh Hóa",
+        "code": "15646",
         "parent_code": "396"
     },
     "15649": {

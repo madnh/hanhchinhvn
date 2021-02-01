@@ -119,23 +119,13 @@
         "code": "02053",
         "parent_code": "064"
     },
-    "02056": {
-        "name": "Rã Bản",
-        "type": "xa",
-        "slug": "ra-ban",
-        "name_with_type": "Xã Rã Bản",
-        "path": "Rã Bản, Chợ Đồn, Bắc Kạn",
-        "path_with_type": "Xã Rã Bản, Huyện Chợ Đồn, Tỉnh Bắc Kạn",
-        "code": "02056",
-        "parent_code": "064"
-    },
     "02059": {
-        "name": "Đông Viên",
+        "name": "Đồng Thắng",
         "type": "xa",
-        "slug": "dong-vien",
-        "name_with_type": "Xã Đông Viên",
-        "path": "Đông Viên, Chợ Đồn, Bắc Kạn",
-        "path_with_type": "Xã Đông Viên, Huyện Chợ Đồn, Tỉnh Bắc Kạn",
+        "slug": "dong-thang",
+        "name_with_type": "Xã Đồng Thắng",
+        "path": "Đồng Thắng, Chợ Đồn, Bắc Kạn",
+        "path_with_type": "Xã Đồng Thắng, Huyện Chợ Đồn, Tỉnh Bắc Kạn",
         "code": "02059",
         "parent_code": "064"
     },
@@ -179,16 +169,6 @@
         "code": "02071",
         "parent_code": "064"
     },
-    "02074": {
-        "name": "Phong Huân",
-        "type": "xa",
-        "slug": "phong-huan",
-        "name_with_type": "Xã Phong Huân",
-        "path": "Phong Huân, Chợ Đồn, Bắc Kạn",
-        "path_with_type": "Xã Phong Huân, Huyện Chợ Đồn, Tỉnh Bắc Kạn",
-        "code": "02074",
-        "parent_code": "064"
-    },
     "02077": {
         "name": "Yên Mỹ",
         "type": "xa",
@@ -210,12 +190,12 @@
         "parent_code": "064"
     },
     "02083": {
-        "name": "Yên Nhuận",
+        "name": "Yên Phong",
         "type": "xa",
-        "slug": "yen-nhuan",
-        "name_with_type": "Xã Yên Nhuận",
-        "path": "Yên Nhuận, Chợ Đồn, Bắc Kạn",
-        "path_with_type": "Xã Yên Nhuận, Huyện Chợ Đồn, Tỉnh Bắc Kạn",
+        "slug": "yen-phong",
+        "name_with_type": "Xã Yên Phong",
+        "path": "Yên Phong, Chợ Đồn, Bắc Kạn",
+        "path_with_type": "Xã Yên Phong, Huyện Chợ Đồn, Tỉnh Bắc Kạn",
         "code": "02083",
         "parent_code": "064"
     }

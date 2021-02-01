@@ -71,41 +71,41 @@
     },
     "29563": {
         "name": "Tân Ngãi",
-        "type": "xa",
+        "type": "phuong",
         "slug": "tan-ngai",
-        "name_with_type": "Xã Tân Ngãi",
+        "name_with_type": "Phường Tân Ngãi",
         "path": "Tân Ngãi, Vĩnh Long, Vĩnh Long",
-        "path_with_type": "Xã Tân Ngãi, Thành phố Vĩnh Long, Tỉnh Vĩnh Long",
+        "path_with_type": "Phường Tân Ngãi, Thành phố Vĩnh Long, Tỉnh Vĩnh Long",
         "code": "29563",
         "parent_code": "855"
     },
     "29566": {
         "name": "Tân Hòa",
-        "type": "xa",
+        "type": "phuong",
         "slug": "tan-hoa",
-        "name_with_type": "Xã Tân Hòa",
+        "name_with_type": "Phường Tân Hòa",
         "path": "Tân Hòa, Vĩnh Long, Vĩnh Long",
-        "path_with_type": "Xã Tân Hòa, Thành phố Vĩnh Long, Tỉnh Vĩnh Long",
+        "path_with_type": "Phường Tân Hòa, Thành phố Vĩnh Long, Tỉnh Vĩnh Long",
         "code": "29566",
         "parent_code": "855"
     },
     "29569": {
         "name": "Tân Hội",
-        "type": "xa",
+        "type": "phuong",
         "slug": "tan-hoi",
-        "name_with_type": "Xã Tân Hội",
+        "name_with_type": "Phường Tân Hội",
         "path": "Tân Hội, Vĩnh Long, Vĩnh Long",
-        "path_with_type": "Xã Tân Hội, Thành phố Vĩnh Long, Tỉnh Vĩnh Long",
+        "path_with_type": "Phường Tân Hội, Thành phố Vĩnh Long, Tỉnh Vĩnh Long",
         "code": "29569",
         "parent_code": "855"
     },
     "29572": {
         "name": "Trường An",
-        "type": "xa",
+        "type": "phuong",
         "slug": "truong-an",
-        "name_with_type": "Xã Trường An",
+        "name_with_type": "Phường Trường An",
         "path": "Trường An, Vĩnh Long, Vĩnh Long",
-        "path_with_type": "Xã Trường An, Thành phố Vĩnh Long, Tỉnh Vĩnh Long",
+        "path_with_type": "Phường Trường An, Thành phố Vĩnh Long, Tỉnh Vĩnh Long",
         "code": "29572",
         "parent_code": "855"
     }

@@ -39,6 +39,16 @@
         "code": "08350",
         "parent_code": "235"
     },
+    "08353": {
+        "name": "Minh Tân",
+        "type": "xa",
+        "slug": "minh-tan",
+        "name_with_type": "Xã Minh Tân",
+        "path": "Minh Tân, Cẩm Khê, Phú Thọ",
+        "path_with_type": "Xã Minh Tân, Huyện Cẩm Khê, Tỉnh Phú Thọ",
+        "code": "08353",
+        "parent_code": "235"
+    },
     "08356": {
         "name": "Phượng Vĩ",
         "type": "xa",
@@ -57,16 +67,6 @@
         "path": "Thụy Liễu, Cẩm Khê, Phú Thọ",
         "path_with_type": "Xã Thụy Liễu, Huyện Cẩm Khê, Tỉnh Phú Thọ",
         "code": "08362",
-        "parent_code": "235"
-    },
-    "08365": {
-        "name": "Minh Tân",
-        "type": "xa",
-        "slug": "minh-tan",
-        "name_with_type": "Xã Minh Tân",
-        "path": "Minh Tân, Cẩm Khê, Phú Thọ",
-        "path_with_type": "Xã Minh Tân, Huyện Cẩm Khê, Tỉnh Phú Thọ",
-        "code": "08365",
         "parent_code": "235"
     },
     "08374": {
@@ -179,16 +179,6 @@
         "code": "08407",
         "parent_code": "235"
     },
-    "08410": {
-        "name": "Hùng Việt",
-        "type": "xa",
-        "slug": "hung-viet",
-        "name_with_type": "Xã Hùng Việt",
-        "path": "Hùng Việt, Cẩm Khê, Phú Thọ",
-        "path_with_type": "Xã Hùng Việt, Huyện Cẩm Khê, Tỉnh Phú Thọ",
-        "code": "08410",
-        "parent_code": "235"
-    },
     "08413": {
         "name": "Chương Xá",
         "type": "xa",
@@ -197,6 +187,16 @@
         "path": "Chương Xá, Cẩm Khê, Phú Thọ",
         "path_with_type": "Xã Chương Xá, Huyện Cẩm Khê, Tỉnh Phú Thọ",
         "code": "08413",
+        "parent_code": "235"
+    },
+    "08416": {
+        "name": "Hùng Việt",
+        "type": "xa",
+        "slug": "hung-viet",
+        "name_with_type": "Xã Hùng Việt",
+        "path": "Hùng Việt, Cẩm Khê, Phú Thọ",
+        "path_with_type": "Xã Hùng Việt, Huyện Cẩm Khê, Tỉnh Phú Thọ",
+        "code": "08416",
         "parent_code": "235"
     },
     "08419": {

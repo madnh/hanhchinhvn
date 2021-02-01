@@ -49,16 +49,6 @@
         "code": "28813",
         "parent_code": "831"
     },
-    "28816": {
-        "name": "Giao Hòa",
-        "type": "xa",
-        "slug": "giao-hoa",
-        "name_with_type": "Xã Giao Hòa",
-        "path": "Giao Hòa, Châu Thành, Bến Tre",
-        "path_with_type": "Xã Giao Hòa, Huyện Châu Thành, Tỉnh Bến Tre",
-        "code": "28816",
-        "parent_code": "831"
-    },
     "28819": {
         "name": "Phú Túc",
         "type": "xa",
