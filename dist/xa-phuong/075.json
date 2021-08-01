@@ -140,12 +140,12 @@
         "parent_code": "075"
     },
     "02473": {
-        "name": "Thắng Quân",
-        "type": "xa",
-        "slug": "thang-quan",
-        "name_with_type": "Xã Thắng Quân",
-        "path": "Thắng Quân, Yên Sơn, Tuyên Quang",
-        "path_with_type": "Xã Thắng Quân, Huyện Yên Sơn, Tỉnh Tuyên Quang",
+        "name": "Yên Sơn",
+        "type": "thi-tran",
+        "slug": "yen-son",
+        "name_with_type": "Thị trấn Yên Sơn",
+        "path": "Yên Sơn, Yên Sơn, Tuyên Quang",
+        "path_with_type": "Thị trấn Yên Sơn, Huyện Yên Sơn, Tỉnh Tuyên Quang",
         "code": "02473",
         "parent_code": "075"
     },

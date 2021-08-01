@@ -9,26 +9,6 @@
         "code": "02287",
         "parent_code": "073"
     },
-    "02299": {
-        "name": "Phúc Sơn",
-        "type": "xa",
-        "slug": "phuc-son",
-        "name_with_type": "Xã Phúc Sơn",
-        "path": "Phúc Sơn, Chiêm Hóa, Tuyên Quang",
-        "path_with_type": "Xã Phúc Sơn, Huyện Chiêm Hóa, Tỉnh Tuyên Quang",
-        "code": "02299",
-        "parent_code": "073"
-    },
-    "02302": {
-        "name": "Minh Quang",
-        "type": "xa",
-        "slug": "minh-quang",
-        "name_with_type": "Xã Minh Quang",
-        "path": "Minh Quang, Chiêm Hóa, Tuyên Quang",
-        "path_with_type": "Xã Minh Quang, Huyện Chiêm Hóa, Tỉnh Tuyên Quang",
-        "code": "02302",
-        "parent_code": "073"
-    },
     "02305": {
         "name": "Trung Hà",
         "type": "xa",
