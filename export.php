@@ -198,7 +198,13 @@ foreach ($files as $file) {
     file_put_contents(DIST_DIR . DS . 'quan-huyen' . DS . $tinh_tp_data['code'] . '.json', json_encode($current_quan_huyen, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
 
     foreach (array_keys($current_quan_huyen) as $temp_qh_id) {
-        file_put_contents(DIST_DIR . DS . 'xa-phuong' . DS . $temp_qh_id . '.json', json_encode($current_xa_phuong_by_quan[$temp_qh_id], JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
+    	$_xa_phuong_by_quan = $current_xa_phuong_by_quan[$temp_qh_id];
+
+    	if (count($_xa_phuong_by_quan) === 1 && array_values($_xa_phuong_by_quan)[0]['name'] === '') {
+    		$_xa_phuong_by_quan = [];
+	    }
+
+        file_put_contents(DIST_DIR . DS . 'xa-phuong' . DS . $temp_qh_id . '.json', json_encode($_xa_phuong_by_quan, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE | JSON_FORCE_OBJECT));
     }
 }
 
