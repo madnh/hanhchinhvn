@@ -9,26 +9,6 @@
         "code": "19996",
         "parent_code": "480"
     },
-    "19999": {
-        "name": "Hải Dương",
-        "type": "xa",
-        "slug": "hai-duong",
-        "name_with_type": "Xã Hải Dương",
-        "path": "Hải Dương, Hương Trà, Thừa Thiên Huế",
-        "path_with_type": "Xã Hải Dương, Thị xã Hương Trà, Tỉnh Thừa Thiên Huế",
-        "code": "19999",
-        "parent_code": "480"
-    },
-    "20002": {
-        "name": "Hương Phong",
-        "type": "xa",
-        "slug": "huong-phong",
-        "name_with_type": "Xã Hương Phong",
-        "path": "Hương Phong, Hương Trà, Thừa Thiên Huế",
-        "path_with_type": "Xã Hương Phong, Thị xã Hương Trà, Tỉnh Thừa Thiên Huế",
-        "code": "20002",
-        "parent_code": "480"
-    },
     "20005": {
         "name": "Hương Toàn",
         "type": "xa",
@@ -59,16 +39,6 @@
         "code": "20011",
         "parent_code": "480"
     },
-    "20014": {
-        "name": "Hương Vinh",
-        "type": "xa",
-        "slug": "huong-vinh",
-        "name_with_type": "Xã Hương Vinh",
-        "path": "Hương Vinh, Hương Trà, Thừa Thiên Huế",
-        "path_with_type": "Xã Hương Vinh, Thị xã Hương Trà, Tỉnh Thừa Thiên Huế",
-        "code": "20014",
-        "parent_code": "480"
-    },
     "20017": {
         "name": "Hương Xuân",
         "type": "phuong",
@@ -89,16 +59,6 @@
         "code": "20020",
         "parent_code": "480"
     },
-    "20023": {
-        "name": "Hương An",
-        "type": "phuong",
-        "slug": "huong-an",
-        "name_with_type": "Phường Hương An",
-        "path": "Hương An, Hương Trà, Thừa Thiên Huế",
-        "path_with_type": "Phường Hương An, Thị xã Hương Trà, Tỉnh Thừa Thiên Huế",
-        "code": "20023",
-        "parent_code": "480"
-    },
     "20026": {
         "name": "Hương Bình",
         "type": "xa",
@@ -107,26 +67,6 @@
         "path": "Hương Bình, Hương Trà, Thừa Thiên Huế",
         "path_with_type": "Xã Hương Bình, Thị xã Hương Trà, Tỉnh Thừa Thiên Huế",
         "code": "20026",
-        "parent_code": "480"
-    },
-    "20029": {
-        "name": "Hương Hồ",
-        "type": "phuong",
-        "slug": "huong-ho",
-        "name_with_type": "Phường Hương Hồ",
-        "path": "Hương Hồ, Hương Trà, Thừa Thiên Huế",
-        "path_with_type": "Phường Hương Hồ, Thị xã Hương Trà, Tỉnh Thừa Thiên Huế",
-        "code": "20029",
-        "parent_code": "480"
-    },
-    "20032": {
-        "name": "Hương Thọ",
-        "type": "xa",
-        "slug": "huong-tho",
-        "name_with_type": "Xã Hương Thọ",
-        "path": "Hương Thọ, Hương Trà, Thừa Thiên Huế",
-        "path_with_type": "Xã Hương Thọ, Thị xã Hương Trà, Tỉnh Thừa Thiên Huế",
-        "code": "20032",
         "parent_code": "480"
     },
     "20035": {

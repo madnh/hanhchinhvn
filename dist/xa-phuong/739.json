@@ -41,11 +41,11 @@
     },
     "26341": {
         "name": "Long Giao",
-        "type": "xa",
+        "type": "thi-tran",
         "slug": "long-giao",
-        "name_with_type": "Xã Long Giao",
+        "name_with_type": "Thị trấn Long Giao",
         "path": "Long Giao, Cẩm Mỹ, Đồng Nai",
-        "path_with_type": "Xã Long Giao, Huyện Cẩm Mỹ, Tỉnh Đồng Nai",
+        "path_with_type": "Thị trấn Long Giao, Huyện Cẩm Mỹ, Tỉnh Đồng Nai",
         "code": "26341",
         "parent_code": "739"
     },

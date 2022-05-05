@@ -11,11 +11,11 @@
     },
     "15403": {
         "name": "Yên Lâm",
-        "type": "xa",
+        "type": "thi-tran",
         "slug": "yen-lam",
-        "name_with_type": "Xã Yên Lâm",
+        "name_with_type": "Thị trấn Yên Lâm",
         "path": "Yên Lâm, Yên Định, Thanh Hóa",
-        "path_with_type": "Xã Yên Lâm, Huyện Yên Định, Tỉnh Thanh Hóa",
+        "path_with_type": "Thị trấn Yên Lâm, Huyện Yên Định, Tỉnh Thanh Hóa",
         "code": "15403",
         "parent_code": "394"
     },
@@ -40,12 +40,12 @@
         "parent_code": "394"
     },
     "15412": {
-        "name": "Quí Lộc",
-        "type": "xa",
-        "slug": "qui-loc",
-        "name_with_type": "Xã Quí Lộc",
-        "path": "Quí Lộc, Yên Định, Thanh Hóa",
-        "path_with_type": "Xã Quí Lộc, Huyện Yên Định, Tỉnh Thanh Hóa",
+        "name": "Quý Lộc",
+        "type": "thi-tran",
+        "slug": "quy-loc",
+        "name_with_type": "Thị trấn Quý Lộc",
+        "path": "Quý Lộc, Yên Định, Thanh Hóa",
+        "path_with_type": "Thị trấn Quý Lộc, Huyện Yên Định, Tỉnh Thanh Hóa",
         "code": "15412",
         "parent_code": "394"
     },

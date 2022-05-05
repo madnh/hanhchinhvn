@@ -31,11 +31,11 @@
     },
     "02266": {
         "name": "Lăng Can",
-        "type": "xa",
+        "type": "thi-tran",
         "slug": "lang-can",
-        "name_with_type": "Xã Lăng Can",
+        "name_with_type": "Thị trấn Lăng Can",
         "path": "Lăng Can, Lâm Bình, Tuyên Quang",
-        "path_with_type": "Xã Lăng Can, Huyện Lâm Bình, Tỉnh Tuyên Quang",
+        "path_with_type": "Thị trấn Lăng Can, Huyện Lâm Bình, Tỉnh Tuyên Quang",
         "code": "02266",
         "parent_code": "071"
     },
@@ -77,6 +77,26 @@
         "path": "Thổ Bình, Lâm Bình, Tuyên Quang",
         "path_with_type": "Xã Thổ Bình, Huyện Lâm Bình, Tỉnh Tuyên Quang",
         "code": "02296",
+        "parent_code": "071"
+    },
+    "02299": {
+        "name": "Phúc Sơn",
+        "type": "xa",
+        "slug": "phuc-son",
+        "name_with_type": "Xã Phúc Sơn",
+        "path": "Phúc Sơn, Lâm Bình, Tuyên Quang",
+        "path_with_type": "Xã Phúc Sơn, Huyện Lâm Bình, Tỉnh Tuyên Quang",
+        "code": "02299",
+        "parent_code": "071"
+    },
+    "02302": {
+        "name": "Minh Quang",
+        "type": "xa",
+        "slug": "minh-quang",
+        "name_with_type": "Xã Minh Quang",
+        "path": "Minh Quang, Lâm Bình, Tuyên Quang",
+        "path_with_type": "Xã Minh Quang, Huyện Lâm Bình, Tỉnh Tuyên Quang",
+        "code": "02302",
         "parent_code": "071"
     }
 }

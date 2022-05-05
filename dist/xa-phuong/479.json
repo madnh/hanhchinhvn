@@ -9,16 +9,6 @@
         "code": "19960",
         "parent_code": "479"
     },
-    "19963": {
-        "name": "Thủy Vân",
-        "type": "xa",
-        "slug": "thuy-van",
-        "name_with_type": "Xã Thủy Vân",
-        "path": "Thủy Vân, Hương Thủy, Thừa Thiên Huế",
-        "path_with_type": "Xã Thủy Vân, Thị xã Hương Thủy, Tỉnh Thừa Thiên Huế",
-        "code": "19963",
-        "parent_code": "479"
-    },
     "19966": {
         "name": "Thủy Thanh",
         "type": "xa",
@@ -67,16 +57,6 @@
         "path": "Thủy Lương, Hương Thủy, Thừa Thiên Huế",
         "path_with_type": "Phường Thủy Lương, Thị xã Hương Thủy, Tỉnh Thừa Thiên Huế",
         "code": "19978",
-        "parent_code": "479"
-    },
-    "19981": {
-        "name": "Thủy Bằng",
-        "type": "xa",
-        "slug": "thuy-bang",
-        "name_with_type": "Xã Thủy Bằng",
-        "path": "Thủy Bằng, Hương Thủy, Thừa Thiên Huế",
-        "path_with_type": "Xã Thủy Bằng, Thị xã Hương Thủy, Tỉnh Thừa Thiên Huế",
-        "code": "19981",
         "parent_code": "479"
     },
     "19984": {
