@@ -186,6 +186,10 @@ foreach ($files as $file) {
             'code' => $row['ma_px'],
             'parent_code' => $current_quan_huyen_code
         );
+        if (!$xa_phuong_data['code']) {
+            echo (" - Bỏ qua xác định xã: ${row['ten_quan_huyen_va_cap']}") . "\n";
+            continue;
+        }
         $xa_phuong[$xa_phuong_data['code']] = $xa_phuong_data;
         $current_xa_phuong_by_quan[$current_quan_huyen_code][$xa_phuong_data['code']] = $xa_phuong_data;
 
