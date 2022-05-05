@@ -2,6 +2,13 @@
 
 Phân cấp hành chính Việt Nam export từ nguồn Tổng Cục Thống Kê.
 
+## Cài đặt:
+
+### NPM:
+```shell
+npm install hanhchinhvn
+```
+
 ### Cấu trúc thư mục:
 
 - **excel_files/**: thư mục chứa các file excel lấy từ Tổng Cục Thống Kê
