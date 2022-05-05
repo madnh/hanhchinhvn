@@ -71,11 +71,11 @@
     },
     "172": {
         "name": "Phổ Yên",
-        "type": "thi-xa",
+        "type": "thanh-pho",
         "slug": "pho-yen",
-        "name_with_type": "Thị xã Phổ Yên",
+        "name_with_type": "Thành phố Phổ Yên",
         "path": "Phổ Yên, Thái Nguyên",
-        "path_with_type": "Thị xã Phổ Yên, Tỉnh Thái Nguyên",
+        "path_with_type": "Thành phố Phổ Yên, Tỉnh Thái Nguyên",
         "code": "172",
         "parent_code": "19"
     },

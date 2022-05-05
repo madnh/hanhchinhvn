@@ -41,11 +41,11 @@
     },
     "261": {
         "name": "Từ Sơn",
-        "type": "thi-xa",
+        "type": "thanh-pho",
         "slug": "tu-son",
-        "name_with_type": "Thị xã Từ Sơn",
+        "name_with_type": "Thành phố Từ Sơn",
         "path": "Từ Sơn, Bắc Ninh",
-        "path_with_type": "Thị xã Từ Sơn, Tỉnh Bắc Ninh",
+        "path_with_type": "Thành phố Từ Sơn, Tỉnh Bắc Ninh",
         "code": "261",
         "parent_code": "27"
     },
