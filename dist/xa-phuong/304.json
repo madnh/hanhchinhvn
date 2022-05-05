@@ -49,6 +49,16 @@
         "code": "11341",
         "parent_code": "304"
     },
+    "11344": {
+        "name": "Cầu Đất",
+        "type": "phuong",
+        "slug": "cau-dat",
+        "name_with_type": "Phường Cầu Đất",
+        "path": "Cầu Đất, Ngô Quyền, Hải Phòng",
+        "path_with_type": "Phường Cầu Đất, Quận Ngô Quyền, Thành phố Hải Phòng",
+        "code": "11344",
+        "parent_code": "304"
+    },
     "11347": {
         "name": "Gia Viên",
         "type": "phuong",
@@ -67,16 +77,6 @@
         "path": "Đông Khê, Ngô Quyền, Hải Phòng",
         "path_with_type": "Phường Đông Khê, Quận Ngô Quyền, Thành phố Hải Phòng",
         "code": "11350",
-        "parent_code": "304"
-    },
-    "11353": {
-        "name": "Cầu Đất",
-        "type": "phuong",
-        "slug": "cau-dat",
-        "name_with_type": "Phường Cầu Đất",
-        "path": "Cầu Đất, Ngô Quyền, Hải Phòng",
-        "path_with_type": "Phường Cầu Đất, Quận Ngô Quyền, Thành phố Hải Phòng",
-        "code": "11353",
         "parent_code": "304"
     },
     "11356": {

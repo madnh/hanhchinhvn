@@ -6,6 +6,12 @@ function isStartWith($str, $start_with)
     return $start_with === substr($str, 0, strlen($start_with));
 }
 
+function exportContent(string $fileName, $data)
+{
+    $writeData = json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE | JSON_FORCE_OBJECT);
+    file_put_contents(DIST_DIR . DS . $fileName, $writeData);
+}
+
 function readExcelFile($file)
 {
     $objPHPExcel = PHPExcel_IOFactory::load($file);
@@ -59,9 +65,9 @@ function readExcelFile($file)
         $row_data['ten_tinh_tp_slug'] = slug($row_data['ten_tinh_tp']);
 
         $row_data['qh_la_tp'] = isStartWith(mb_strtolower($row_data['ten_quan_huyen_va_cap']), mb_strtolower($tp_label));
-        $row_data['qh_la_thi_xa'] = !$row_data['qh_la_tp'] && isStartWith(mb_strtolower($row_data['ten_quan_huyen_va_cap']), mb_strtolower($thi_xa_label));
-        $row_data['qh_la_quan'] = !$row_data['qh_la_thi_xa'] && !$row_data['qh_la_thi_xa'] && isStartWith(mb_strtolower($row_data['ten_quan_huyen_va_cap']), mb_strtolower($quan_label));
-        $row_data['qh_la_huyen'] = !($row_data['qh_la_thi_xa'] || $row_data['qh_la_thi_xa'] || $row_data['qh_la_quan']);
+        $row_data['qh_la_thi_xa'] = ! $row_data['qh_la_tp'] && isStartWith(mb_strtolower($row_data['ten_quan_huyen_va_cap']), mb_strtolower($thi_xa_label));
+        $row_data['qh_la_quan'] = ! $row_data['qh_la_thi_xa'] && ! $row_data['qh_la_thi_xa'] && isStartWith(mb_strtolower($row_data['ten_quan_huyen_va_cap']), mb_strtolower($quan_label));
+        $row_data['qh_la_huyen'] = ! ($row_data['qh_la_thi_xa'] || $row_data['qh_la_thi_xa'] || $row_data['qh_la_quan']);
 
         switch (true) {
             case $row_data['qh_la_tp']:
@@ -82,7 +88,6 @@ function readExcelFile($file)
                 break;
         }
 
-        //Fix bug một vài chỗ dùng "Thị Xã" thay vì "Thị xã"
         if ($row_data['qh_la_thi_xa']) {
             $row_data['ten_quan_huyen_va_cap'] = 'Thị xã ' . $row_data['ten_qh'];
         }
@@ -92,8 +97,8 @@ function readExcelFile($file)
         $row_data['dia_chi_qh_full'] = implode(', ', [$row_data['ten_quan_huyen_va_cap'], $row_data['ten_tinh_tp_va_cap']]);
 
         $row_data['px_la_phuong'] = $row_data['cap_px'] === 'Phường';
-        $row_data['px_la_thi_tran'] = !$row_data['px_la_phuong'] && $row_data['cap_px'] === $thi_tran_label;
-        $row_data['px_la_xa'] = !($row_data['px_la_phuong'] || $row_data['px_la_thi_tran']);
+        $row_data['px_la_thi_tran'] = ! $row_data['px_la_phuong'] && $row_data['cap_px'] === $thi_tran_label;
+        $row_data['px_la_xa'] = ! ($row_data['px_la_phuong'] || $row_data['px_la_thi_tran']);
 
         switch (true) {
             case $row_data['px_la_phuong']:
@@ -181,6 +186,10 @@ foreach ($files as $file) {
             'code' => $row['ma_px'],
             'parent_code' => $current_quan_huyen_code
         );
+        if (!$xa_phuong_data['code']) {
+            echo (" - Bỏ qua xác định xã: ${row['ten_quan_huyen_va_cap']}") . "\n";
+            continue;
+        }
         $xa_phuong[$xa_phuong_data['code']] = $xa_phuong_data;
         $current_xa_phuong_by_quan[$current_quan_huyen_code][$xa_phuong_data['code']] = $xa_phuong_data;
 
@@ -195,20 +204,26 @@ foreach ($files as $file) {
         $tree[$tinh_tp_data['code']]['quan-huyen'][$current_quan_huyen_code]['xa-phuong'][$xa_phuong_data['code']] = $xa_phuong_data;
     }
 
-    file_put_contents(DIST_DIR . DS . 'quan-huyen' . DS . $tinh_tp_data['code'] . '.json', json_encode($current_quan_huyen, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
+    exportContent('quan-huyen' . DS . $tinh_tp_data['code'] . '.json', $current_quan_huyen);
 
     foreach (array_keys($current_quan_huyen) as $temp_qh_id) {
-    	$_xa_phuong_by_quan = $current_xa_phuong_by_quan[$temp_qh_id];
+        $_xa_phuong_by_quan = $current_xa_phuong_by_quan[$temp_qh_id];
 
-    	if (count($_xa_phuong_by_quan) === 1 && array_values($_xa_phuong_by_quan)[0]['name'] === '') {
-    		$_xa_phuong_by_quan = [];
-	    }
-
-        file_put_contents(DIST_DIR . DS . 'xa-phuong' . DS . $temp_qh_id . '.json', json_encode($_xa_phuong_by_quan, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE | JSON_FORCE_OBJECT));
+        if (count($_xa_phuong_by_quan) === 1 && array_values($_xa_phuong_by_quan)[0]['name'] === '') {
+            exportContent('xa-phuong' . DS . $temp_qh_id . '.json', '{}');
+        } else {
+            exportContent('xa-phuong' . DS . $temp_qh_id . '.json', $_xa_phuong_by_quan);
+        }
     }
 }
 
-file_put_contents(DIST_DIR . DS . 'tree.json', json_encode($tree, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
-file_put_contents(DIST_DIR . DS . 'tinh_tp.json', json_encode($tinh_tp, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
-file_put_contents(DIST_DIR . DS . 'quan_huyen.json', json_encode($quan_huyen, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
-file_put_contents(DIST_DIR . DS . 'xa_phuong.json', json_encode($xa_phuong, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
+
+ksort($tree, SORT_NUMERIC);
+ksort($tinh_tp, SORT_NUMERIC);
+ksort($quan_huyen, SORT_NUMERIC);
+ksort($xa_phuong, SORT_NUMERIC);
+
+exportContent('tree.json', $tree);
+exportContent('tinh_tp.json', $tinh_tp);
+exportContent('quan_huyen.json', $quan_huyen);
+exportContent('xa_phuong.json', $xa_phuong);

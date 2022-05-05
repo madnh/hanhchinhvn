@@ -12,5 +12,8 @@
       "name": "MaDnh",
       "email": "dodanhmanh@gmail.com"
     }
-  ]
+  ],
+  "require": {
+    "ext-json": "*"
+  }
 }
