@@ -1,21 +1,21 @@
 {
     "25432": {
-        "name": "Chơn Thành",
-        "type": "thi-tran",
-        "slug": "chon-thanh",
-        "name_with_type": "Thị trấn Chơn Thành",
-        "path": "Chơn Thành, Chơn Thành, Bình Phước",
-        "path_with_type": "Thị trấn Chơn Thành, Huyện Chơn Thành, Tỉnh Bình Phước",
+        "name": "Hưng Long",
+        "type": "phuong",
+        "slug": "hung-long",
+        "name_with_type": "Phường Hưng Long",
+        "path": "Hưng Long, Chơn Thành, Bình Phước",
+        "path_with_type": "Phường Hưng Long, Thị xã Chơn Thành, Tỉnh Bình Phước",
         "code": "25432",
         "parent_code": "697"
     },
     "25433": {
         "name": "Thành Tâm",
-        "type": "xa",
+        "type": "phuong",
         "slug": "thanh-tam",
-        "name_with_type": "Xã Thành Tâm",
+        "name_with_type": "Phường Thành Tâm",
         "path": "Thành Tâm, Chơn Thành, Bình Phước",
-        "path_with_type": "Xã Thành Tâm, Huyện Chơn Thành, Tỉnh Bình Phước",
+        "path_with_type": "Phường Thành Tâm, Thị xã Chơn Thành, Tỉnh Bình Phước",
         "code": "25433",
         "parent_code": "697"
     },
@@ -25,7 +25,7 @@
         "slug": "minh-lap",
         "name_with_type": "Xã Minh Lập",
         "path": "Minh Lập, Chơn Thành, Bình Phước",
-        "path_with_type": "Xã Minh Lập, Huyện Chơn Thành, Tỉnh Bình Phước",
+        "path_with_type": "Xã Minh Lập, Thị xã Chơn Thành, Tỉnh Bình Phước",
         "code": "25435",
         "parent_code": "697"
     },
@@ -35,37 +35,37 @@
         "slug": "quang-minh",
         "name_with_type": "Xã Quang Minh",
         "path": "Quang Minh, Chơn Thành, Bình Phước",
-        "path_with_type": "Xã Quang Minh, Huyện Chơn Thành, Tỉnh Bình Phước",
+        "path_with_type": "Xã Quang Minh, Thị xã Chơn Thành, Tỉnh Bình Phước",
         "code": "25439",
         "parent_code": "697"
     },
     "25441": {
         "name": "Minh Hưng",
-        "type": "xa",
+        "type": "phuong",
         "slug": "minh-hung",
-        "name_with_type": "Xã Minh Hưng",
+        "name_with_type": "Phường Minh Hưng",
         "path": "Minh Hưng, Chơn Thành, Bình Phước",
-        "path_with_type": "Xã Minh Hưng, Huyện Chơn Thành, Tỉnh Bình Phước",
+        "path_with_type": "Phường Minh Hưng, Thị xã Chơn Thành, Tỉnh Bình Phước",
         "code": "25441",
         "parent_code": "697"
     },
     "25444": {
         "name": "Minh Long",
-        "type": "xa",
+        "type": "phuong",
         "slug": "minh-long",
-        "name_with_type": "Xã Minh Long",
+        "name_with_type": "Phường Minh Long",
         "path": "Minh Long, Chơn Thành, Bình Phước",
-        "path_with_type": "Xã Minh Long, Huyện Chơn Thành, Tỉnh Bình Phước",
+        "path_with_type": "Phường Minh Long, Thị xã Chơn Thành, Tỉnh Bình Phước",
         "code": "25444",
         "parent_code": "697"
     },
     "25447": {
         "name": "Minh Thành",
-        "type": "xa",
+        "type": "phuong",
         "slug": "minh-thanh",
-        "name_with_type": "Xã Minh Thành",
+        "name_with_type": "Phường Minh Thành",
         "path": "Minh Thành, Chơn Thành, Bình Phước",
-        "path_with_type": "Xã Minh Thành, Huyện Chơn Thành, Tỉnh Bình Phước",
+        "path_with_type": "Phường Minh Thành, Thị xã Chơn Thành, Tỉnh Bình Phước",
         "code": "25447",
         "parent_code": "697"
     },
@@ -75,7 +75,7 @@
         "slug": "nha-bich",
         "name_with_type": "Xã Nha Bích",
         "path": "Nha Bích, Chơn Thành, Bình Phước",
-        "path_with_type": "Xã Nha Bích, Huyện Chơn Thành, Tỉnh Bình Phước",
+        "path_with_type": "Xã Nha Bích, Thị xã Chơn Thành, Tỉnh Bình Phước",
         "code": "25450",
         "parent_code": "697"
     },
@@ -85,7 +85,7 @@
         "slug": "minh-thang",
         "name_with_type": "Xã Minh Thắng",
         "path": "Minh Thắng, Chơn Thành, Bình Phước",
-        "path_with_type": "Xã Minh Thắng, Huyện Chơn Thành, Tỉnh Bình Phước",
+        "path_with_type": "Xã Minh Thắng, Thị xã Chơn Thành, Tỉnh Bình Phước",
         "code": "25453",
         "parent_code": "697"
     }

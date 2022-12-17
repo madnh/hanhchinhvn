@@ -191,11 +191,11 @@
     },
     "07870": {
         "name": "Bắc Lý",
-        "type": "xa",
+        "type": "thi-tran",
         "slug": "bac-ly",
-        "name_with_type": "Xã Bắc Lý",
+        "name_with_type": "Thị trấn Bắc Lý",
         "path": "Bắc Lý, Hiệp Hòa, Bắc Giang",
-        "path_with_type": "Xã Bắc Lý, Huyện Hiệp Hòa, Tỉnh Bắc Giang",
+        "path_with_type": "Thị trấn Bắc Lý, Huyện Hiệp Hòa, Tỉnh Bắc Giang",
         "code": "07870",
         "parent_code": "223"
     },

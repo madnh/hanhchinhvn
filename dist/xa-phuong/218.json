@@ -91,11 +91,11 @@
     },
     "07477": {
         "name": "Phương Sơn",
-        "type": "xa",
+        "type": "thi-tran",
         "slug": "phuong-son",
-        "name_with_type": "Xã Phương Sơn",
+        "name_with_type": "Thị trấn Phương Sơn",
         "path": "Phương Sơn, Lục Nam, Bắc Giang",
-        "path_with_type": "Xã Phương Sơn, Huyện Lục Nam, Tỉnh Bắc Giang",
+        "path_with_type": "Thị trấn Phương Sơn, Huyện Lục Nam, Tỉnh Bắc Giang",
         "code": "07477",
         "parent_code": "218"
     },

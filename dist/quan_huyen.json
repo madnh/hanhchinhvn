@@ -5101,11 +5101,11 @@
     },
     "697": {
         "name": "Chơn Thành",
-        "type": "huyen",
+        "type": "thi-xa",
         "slug": "chon-thanh",
-        "name_with_type": "Huyện Chơn Thành",
+        "name_with_type": "Thị xã Chơn Thành",
         "path": "Chơn Thành, Bình Phước",
-        "path_with_type": "Huyện Chơn Thành, Tỉnh Bình Phước",
+        "path_with_type": "Thị xã Chơn Thành, Tỉnh Bình Phước",
         "code": "697",
         "parent_code": "70"
     },

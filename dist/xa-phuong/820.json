@@ -51,11 +51,11 @@
     },
     "28471": {
         "name": "Bình Phú",
-        "type": "xa",
+        "type": "thi-tran",
         "slug": "binh-phu",
-        "name_with_type": "Xã Bình Phú",
+        "name_with_type": "Thị trấn Bình Phú",
         "path": "Bình Phú, Cai Lậy, Tiền Giang",
-        "path_with_type": "Xã Bình Phú, Huyện Cai Lậy, Tỉnh Tiền Giang",
+        "path_with_type": "Thị trấn Bình Phú, Huyện Cai Lậy, Tỉnh Tiền Giang",
         "code": "28471",
         "parent_code": "820"
     },
