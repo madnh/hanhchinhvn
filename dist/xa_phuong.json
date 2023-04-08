@@ -29275,7 +29275,7 @@
         "slug": "pho-moi",
         "name_with_type": "Thị trấn Phố Mới",
         "path": "Phố Mới, Quế Võ, Bắc Ninh",
-        "path_with_type": "Thị trấn Phố Mới, Huyện Quế Võ, Tỉnh Bắc Ninh",
+        "path_with_type": "Thị trấn Phố Mới, Thị xã Quế Võ, Tỉnh Bắc Ninh",
         "code": "09247",
         "parent_code": "259"
     },
@@ -29285,7 +29285,7 @@
         "slug": "viet-thong",
         "name_with_type": "Xã Việt Thống",
         "path": "Việt Thống, Quế Võ, Bắc Ninh",
-        "path_with_type": "Xã Việt Thống, Huyện Quế Võ, Tỉnh Bắc Ninh",
+        "path_with_type": "Xã Việt Thống, Thị xã Quế Võ, Tỉnh Bắc Ninh",
         "code": "09250",
         "parent_code": "259"
     },
@@ -29295,7 +29295,7 @@
         "slug": "dai-xuan",
         "name_with_type": "Xã Đại Xuân",
         "path": "Đại Xuân, Quế Võ, Bắc Ninh",
-        "path_with_type": "Xã Đại Xuân, Huyện Quế Võ, Tỉnh Bắc Ninh",
+        "path_with_type": "Xã Đại Xuân, Thị xã Quế Võ, Tỉnh Bắc Ninh",
         "code": "09253",
         "parent_code": "259"
     },
@@ -29315,7 +29315,7 @@
         "slug": "nhan-hoa",
         "name_with_type": "Xã Nhân Hòa",
         "path": "Nhân Hòa, Quế Võ, Bắc Ninh",
-        "path_with_type": "Xã Nhân Hòa, Huyện Quế Võ, Tỉnh Bắc Ninh",
+        "path_with_type": "Xã Nhân Hòa, Thị xã Quế Võ, Tỉnh Bắc Ninh",
         "code": "09259",
         "parent_code": "259"
     },
@@ -29325,7 +29325,7 @@
         "slug": "bang-an",
         "name_with_type": "Xã Bằng An",
         "path": "Bằng An, Quế Võ, Bắc Ninh",
-        "path_with_type": "Xã Bằng An, Huyện Quế Võ, Tỉnh Bắc Ninh",
+        "path_with_type": "Xã Bằng An, Thị xã Quế Võ, Tỉnh Bắc Ninh",
         "code": "09262",
         "parent_code": "259"
     },
@@ -29335,7 +29335,7 @@
         "slug": "phuong-lieu",
         "name_with_type": "Xã Phương Liễu",
         "path": "Phương Liễu, Quế Võ, Bắc Ninh",
-        "path_with_type": "Xã Phương Liễu, Huyện Quế Võ, Tỉnh Bắc Ninh",
+        "path_with_type": "Xã Phương Liễu, Thị xã Quế Võ, Tỉnh Bắc Ninh",
         "code": "09265",
         "parent_code": "259"
     },
@@ -29345,7 +29345,7 @@
         "slug": "que-tan",
         "name_with_type": "Xã Quế Tân",
         "path": "Quế Tân, Quế Võ, Bắc Ninh",
-        "path_with_type": "Xã Quế Tân, Huyện Quế Võ, Tỉnh Bắc Ninh",
+        "path_with_type": "Xã Quế Tân, Thị xã Quế Võ, Tỉnh Bắc Ninh",
         "code": "09268",
         "parent_code": "259"
     },
@@ -29365,7 +29365,7 @@
         "slug": "phu-luong",
         "name_with_type": "Xã Phù Lương",
         "path": "Phù Lương, Quế Võ, Bắc Ninh",
-        "path_with_type": "Xã Phù Lương, Huyện Quế Võ, Tỉnh Bắc Ninh",
+        "path_with_type": "Xã Phù Lương, Thị xã Quế Võ, Tỉnh Bắc Ninh",
         "code": "09274",
         "parent_code": "259"
     },
@@ -29375,7 +29375,7 @@
         "slug": "phu-lang",
         "name_with_type": "Xã Phù Lãng",
         "path": "Phù Lãng, Quế Võ, Bắc Ninh",
-        "path_with_type": "Xã Phù Lãng, Huyện Quế Võ, Tỉnh Bắc Ninh",
+        "path_with_type": "Xã Phù Lãng, Thị xã Quế Võ, Tỉnh Bắc Ninh",
         "code": "09277",
         "parent_code": "259"
     },
@@ -29385,7 +29385,7 @@
         "slug": "phuong-mao",
         "name_with_type": "Xã Phượng Mao",
         "path": "Phượng Mao, Quế Võ, Bắc Ninh",
-        "path_with_type": "Xã Phượng Mao, Huyện Quế Võ, Tỉnh Bắc Ninh",
+        "path_with_type": "Xã Phượng Mao, Thị xã Quế Võ, Tỉnh Bắc Ninh",
         "code": "09280",
         "parent_code": "259"
     },
@@ -29395,7 +29395,7 @@
         "slug": "viet-hung",
         "name_with_type": "Xã Việt Hùng",
         "path": "Việt Hùng, Quế Võ, Bắc Ninh",
-        "path_with_type": "Xã Việt Hùng, Huyện Quế Võ, Tỉnh Bắc Ninh",
+        "path_with_type": "Xã Việt Hùng, Thị xã Quế Võ, Tỉnh Bắc Ninh",
         "code": "09283",
         "parent_code": "259"
     },
@@ -29415,7 +29415,7 @@
         "slug": "ngoc-xa",
         "name_with_type": "Xã Ngọc Xá",
         "path": "Ngọc Xá, Quế Võ, Bắc Ninh",
-        "path_with_type": "Xã Ngọc Xá, Huyện Quế Võ, Tỉnh Bắc Ninh",
+        "path_with_type": "Xã Ngọc Xá, Thị xã Quế Võ, Tỉnh Bắc Ninh",
         "code": "09289",
         "parent_code": "259"
     },
@@ -29425,7 +29425,7 @@
         "slug": "chau-phong",
         "name_with_type": "Xã Châu Phong",
         "path": "Châu Phong, Quế Võ, Bắc Ninh",
-        "path_with_type": "Xã Châu Phong, Huyện Quế Võ, Tỉnh Bắc Ninh",
+        "path_with_type": "Xã Châu Phong, Thị xã Quế Võ, Tỉnh Bắc Ninh",
         "code": "09292",
         "parent_code": "259"
     },
@@ -29435,7 +29435,7 @@
         "slug": "bong-lai",
         "name_with_type": "Xã Bồng Lai",
         "path": "Bồng Lai, Quế Võ, Bắc Ninh",
-        "path_with_type": "Xã Bồng Lai, Huyện Quế Võ, Tỉnh Bắc Ninh",
+        "path_with_type": "Xã Bồng Lai, Thị xã Quế Võ, Tỉnh Bắc Ninh",
         "code": "09295",
         "parent_code": "259"
     },
@@ -29445,7 +29445,7 @@
         "slug": "cach-bi",
         "name_with_type": "Xã Cách Bi",
         "path": "Cách Bi, Quế Võ, Bắc Ninh",
-        "path_with_type": "Xã Cách Bi, Huyện Quế Võ, Tỉnh Bắc Ninh",
+        "path_with_type": "Xã Cách Bi, Thị xã Quế Võ, Tỉnh Bắc Ninh",
         "code": "09298",
         "parent_code": "259"
     },
@@ -29455,7 +29455,7 @@
         "slug": "dao-vien",
         "name_with_type": "Xã Đào Viên",
         "path": "Đào Viên, Quế Võ, Bắc Ninh",
-        "path_with_type": "Xã Đào Viên, Huyện Quế Võ, Tỉnh Bắc Ninh",
+        "path_with_type": "Xã Đào Viên, Thị xã Quế Võ, Tỉnh Bắc Ninh",
         "code": "09301",
         "parent_code": "259"
     },
@@ -29465,7 +29465,7 @@
         "slug": "yen-gia",
         "name_with_type": "Xã Yên Giả",
         "path": "Yên Giả, Quế Võ, Bắc Ninh",
-        "path_with_type": "Xã Yên Giả, Huyện Quế Võ, Tỉnh Bắc Ninh",
+        "path_with_type": "Xã Yên Giả, Thị xã Quế Võ, Tỉnh Bắc Ninh",
         "code": "09304",
         "parent_code": "259"
     },
@@ -29475,7 +29475,7 @@
         "slug": "mo-dao",
         "name_with_type": "Xã Mộ Đạo",
         "path": "Mộ Đạo, Quế Võ, Bắc Ninh",
-        "path_with_type": "Xã Mộ Đạo, Huyện Quế Võ, Tỉnh Bắc Ninh",
+        "path_with_type": "Xã Mộ Đạo, Thị xã Quế Võ, Tỉnh Bắc Ninh",
         "code": "09307",
         "parent_code": "259"
     },
@@ -29485,7 +29485,7 @@
         "slug": "duc-long",
         "name_with_type": "Xã Đức Long",
         "path": "Đức Long, Quế Võ, Bắc Ninh",
-        "path_with_type": "Xã Đức Long, Huyện Quế Võ, Tỉnh Bắc Ninh",
+        "path_with_type": "Xã Đức Long, Thị xã Quế Võ, Tỉnh Bắc Ninh",
         "code": "09310",
         "parent_code": "259"
     },
@@ -29495,7 +29495,7 @@
         "slug": "chi-lang",
         "name_with_type": "Xã Chi Lăng",
         "path": "Chi Lăng, Quế Võ, Bắc Ninh",
-        "path_with_type": "Xã Chi Lăng, Huyện Quế Võ, Tỉnh Bắc Ninh",
+        "path_with_type": "Xã Chi Lăng, Thị xã Quế Võ, Tỉnh Bắc Ninh",
         "code": "09313",
         "parent_code": "259"
     },
@@ -29505,7 +29505,7 @@
         "slug": "han-quang",
         "name_with_type": "Xã Hán Quảng",
         "path": "Hán Quảng, Quế Võ, Bắc Ninh",
-        "path_with_type": "Xã Hán Quảng, Huyện Quế Võ, Tỉnh Bắc Ninh",
+        "path_with_type": "Xã Hán Quảng, Thị xã Quế Võ, Tỉnh Bắc Ninh",
         "code": "09316",
         "parent_code": "259"
     },
@@ -29795,7 +29795,7 @@
         "slug": "ho",
         "name_with_type": "Thị trấn Hồ",
         "path": "Hồ, Thuận Thành, Bắc Ninh",
-        "path_with_type": "Thị trấn Hồ, Huyện Thuận Thành, Tỉnh Bắc Ninh",
+        "path_with_type": "Thị trấn Hồ, Thị xã Thuận Thành, Tỉnh Bắc Ninh",
         "code": "09400",
         "parent_code": "262"
     },
@@ -29805,7 +29805,7 @@
         "slug": "hoai-thuong",
         "name_with_type": "Xã Hoài Thượng",
         "path": "Hoài Thượng, Thuận Thành, Bắc Ninh",
-        "path_with_type": "Xã Hoài Thượng, Huyện Thuận Thành, Tỉnh Bắc Ninh",
+        "path_with_type": "Xã Hoài Thượng, Thị xã Thuận Thành, Tỉnh Bắc Ninh",
         "code": "09403",
         "parent_code": "262"
     },
@@ -29815,7 +29815,7 @@
         "slug": "dai-dong-thanh",
         "name_with_type": "Xã Đại Đồng Thành",
         "path": "Đại Đồng Thành, Thuận Thành, Bắc Ninh",
-        "path_with_type": "Xã Đại Đồng Thành, Huyện Thuận Thành, Tỉnh Bắc Ninh",
+        "path_with_type": "Xã Đại Đồng Thành, Thị xã Thuận Thành, Tỉnh Bắc Ninh",
         "code": "09406",
         "parent_code": "262"
     },
@@ -29825,7 +29825,7 @@
         "slug": "mao-dien",
         "name_with_type": "Xã Mão Điền",
         "path": "Mão Điền, Thuận Thành, Bắc Ninh",
-        "path_with_type": "Xã Mão Điền, Huyện Thuận Thành, Tỉnh Bắc Ninh",
+        "path_with_type": "Xã Mão Điền, Thị xã Thuận Thành, Tỉnh Bắc Ninh",
         "code": "09409",
         "parent_code": "262"
     },
@@ -29835,7 +29835,7 @@
         "slug": "song-ho",
         "name_with_type": "Xã Song Hồ",
         "path": "Song Hồ, Thuận Thành, Bắc Ninh",
-        "path_with_type": "Xã Song Hồ, Huyện Thuận Thành, Tỉnh Bắc Ninh",
+        "path_with_type": "Xã Song Hồ, Thị xã Thuận Thành, Tỉnh Bắc Ninh",
         "code": "09412",
         "parent_code": "262"
     },
@@ -29845,7 +29845,7 @@
         "slug": "dinh-to",
         "name_with_type": "Xã Đình Tổ",
         "path": "Đình Tổ, Thuận Thành, Bắc Ninh",
-        "path_with_type": "Xã Đình Tổ, Huyện Thuận Thành, Tỉnh Bắc Ninh",
+        "path_with_type": "Xã Đình Tổ, Thị xã Thuận Thành, Tỉnh Bắc Ninh",
         "code": "09415",
         "parent_code": "262"
     },
@@ -29855,7 +29855,7 @@
         "slug": "an-binh",
         "name_with_type": "Xã An Bình",
         "path": "An Bình, Thuận Thành, Bắc Ninh",
-        "path_with_type": "Xã An Bình, Huyện Thuận Thành, Tỉnh Bắc Ninh",
+        "path_with_type": "Xã An Bình, Thị xã Thuận Thành, Tỉnh Bắc Ninh",
         "code": "09418",
         "parent_code": "262"
     },
@@ -29865,7 +29865,7 @@
         "slug": "tri-qua",
         "name_with_type": "Xã Trí Quả",
         "path": "Trí Quả, Thuận Thành, Bắc Ninh",
-        "path_with_type": "Xã Trí Quả, Huyện Thuận Thành, Tỉnh Bắc Ninh",
+        "path_with_type": "Xã Trí Quả, Thị xã Thuận Thành, Tỉnh Bắc Ninh",
         "code": "09421",
         "parent_code": "262"
     },
@@ -29875,7 +29875,7 @@
         "slug": "gia-dong",
         "name_with_type": "Xã Gia Đông",
         "path": "Gia Đông, Thuận Thành, Bắc Ninh",
-        "path_with_type": "Xã Gia Đông, Huyện Thuận Thành, Tỉnh Bắc Ninh",
+        "path_with_type": "Xã Gia Đông, Thị xã Thuận Thành, Tỉnh Bắc Ninh",
         "code": "09424",
         "parent_code": "262"
     },
@@ -29885,7 +29885,7 @@
         "slug": "thanh-khuong",
         "name_with_type": "Xã Thanh Khương",
         "path": "Thanh Khương, Thuận Thành, Bắc Ninh",
-        "path_with_type": "Xã Thanh Khương, Huyện Thuận Thành, Tỉnh Bắc Ninh",
+        "path_with_type": "Xã Thanh Khương, Thị xã Thuận Thành, Tỉnh Bắc Ninh",
         "code": "09427",
         "parent_code": "262"
     },
@@ -29895,7 +29895,7 @@
         "slug": "tram-lo",
         "name_with_type": "Xã Trạm Lộ",
         "path": "Trạm Lộ, Thuận Thành, Bắc Ninh",
-        "path_with_type": "Xã Trạm Lộ, Huyện Thuận Thành, Tỉnh Bắc Ninh",
+        "path_with_type": "Xã Trạm Lộ, Thị xã Thuận Thành, Tỉnh Bắc Ninh",
         "code": "09430",
         "parent_code": "262"
     },
@@ -29905,7 +29905,7 @@
         "slug": "xuan-lam",
         "name_with_type": "Xã Xuân Lâm",
         "path": "Xuân Lâm, Thuận Thành, Bắc Ninh",
-        "path_with_type": "Xã Xuân Lâm, Huyện Thuận Thành, Tỉnh Bắc Ninh",
+        "path_with_type": "Xã Xuân Lâm, Thị xã Thuận Thành, Tỉnh Bắc Ninh",
         "code": "09433",
         "parent_code": "262"
     },
@@ -29915,7 +29915,7 @@
         "slug": "ha-man",
         "name_with_type": "Xã Hà Mãn",
         "path": "Hà Mãn, Thuận Thành, Bắc Ninh",
-        "path_with_type": "Xã Hà Mãn, Huyện Thuận Thành, Tỉnh Bắc Ninh",
+        "path_with_type": "Xã Hà Mãn, Thị xã Thuận Thành, Tỉnh Bắc Ninh",
         "code": "09436",
         "parent_code": "262"
     },
@@ -29925,7 +29925,7 @@
         "slug": "ngu-thai",
         "name_with_type": "Xã Ngũ Thái",
         "path": "Ngũ Thái, Thuận Thành, Bắc Ninh",
-        "path_with_type": "Xã Ngũ Thái, Huyện Thuận Thành, Tỉnh Bắc Ninh",
+        "path_with_type": "Xã Ngũ Thái, Thị xã Thuận Thành, Tỉnh Bắc Ninh",
         "code": "09439",
         "parent_code": "262"
     },
@@ -29935,7 +29935,7 @@
         "slug": "nguyet-duc",
         "name_with_type": "Xã Nguyệt Đức",
         "path": "Nguyệt Đức, Thuận Thành, Bắc Ninh",
-        "path_with_type": "Xã Nguyệt Đức, Huyện Thuận Thành, Tỉnh Bắc Ninh",
+        "path_with_type": "Xã Nguyệt Đức, Thị xã Thuận Thành, Tỉnh Bắc Ninh",
         "code": "09442",
         "parent_code": "262"
     },
@@ -29945,7 +29945,7 @@
         "slug": "ninh-xa",
         "name_with_type": "Xã Ninh Xá",
         "path": "Ninh Xá, Thuận Thành, Bắc Ninh",
-        "path_with_type": "Xã Ninh Xá, Huyện Thuận Thành, Tỉnh Bắc Ninh",
+        "path_with_type": "Xã Ninh Xá, Thị xã Thuận Thành, Tỉnh Bắc Ninh",
         "code": "09445",
         "parent_code": "262"
     },
@@ -29955,7 +29955,7 @@
         "slug": "nghia-dao",
         "name_with_type": "Xã Nghĩa Đạo",
         "path": "Nghĩa Đạo, Thuận Thành, Bắc Ninh",
-        "path_with_type": "Xã Nghĩa Đạo, Huyện Thuận Thành, Tỉnh Bắc Ninh",
+        "path_with_type": "Xã Nghĩa Đạo, Thị xã Thuận Thành, Tỉnh Bắc Ninh",
         "code": "09448",
         "parent_code": "262"
     },
@@ -29965,7 +29965,7 @@
         "slug": "song-lieu",
         "name_with_type": "Xã Song Liễu",
         "path": "Song Liễu, Thuận Thành, Bắc Ninh",
-        "path_with_type": "Xã Song Liễu, Huyện Thuận Thành, Tỉnh Bắc Ninh",
+        "path_with_type": "Xã Song Liễu, Thị xã Thuận Thành, Tỉnh Bắc Ninh",
         "code": "09451",
         "parent_code": "262"
     },
@@ -83915,7 +83915,7 @@
         "slug": "uyen-hung",
         "name_with_type": "Phường Uyên Hưng",
         "path": "Uyên Hưng, Tân Uyên, Bình Dương",
-        "path_with_type": "Phường Uyên Hưng, Thị xã Tân Uyên, Tỉnh Bình Dương",
+        "path_with_type": "Phường Uyên Hưng, Thành phố Tân Uyên, Tỉnh Bình Dương",
         "code": "25888",
         "parent_code": "723"
     },
@@ -83925,7 +83925,7 @@
         "slug": "tan-phuoc-khanh",
         "name_with_type": "Phường Tân Phước Khánh",
         "path": "Tân Phước Khánh, Tân Uyên, Bình Dương",
-        "path_with_type": "Phường Tân Phước Khánh, Thị xã Tân Uyên, Tỉnh Bình Dương",
+        "path_with_type": "Phường Tân Phước Khánh, Thành phố Tân Uyên, Tỉnh Bình Dương",
         "code": "25891",
         "parent_code": "723"
     },
@@ -84015,7 +84015,7 @@
         "slug": "vinh-tan",
         "name_with_type": "Phường Vĩnh Tân",
         "path": "Vĩnh Tân, Tân Uyên, Bình Dương",
-        "path_with_type": "Phường Vĩnh Tân, Thị xã Tân Uyên, Tỉnh Bình Dương",
+        "path_with_type": "Phường Vĩnh Tân, Thành phố Tân Uyên, Tỉnh Bình Dương",
         "code": "25912",
         "parent_code": "723"
     },
@@ -84025,7 +84025,7 @@
         "slug": "hoi-nghia",
         "name_with_type": "Phường Hội Nghĩa",
         "path": "Hội Nghĩa, Tân Uyên, Bình Dương",
-        "path_with_type": "Phường Hội Nghĩa, Thị xã Tân Uyên, Tỉnh Bình Dương",
+        "path_with_type": "Phường Hội Nghĩa, Thành phố Tân Uyên, Tỉnh Bình Dương",
         "code": "25915",
         "parent_code": "723"
     },
@@ -84045,7 +84045,7 @@
         "slug": "tan-hiep",
         "name_with_type": "Phường Tân Hiệp",
         "path": "Tân Hiệp, Tân Uyên, Bình Dương",
-        "path_with_type": "Phường Tân Hiệp, Thị xã Tân Uyên, Tỉnh Bình Dương",
+        "path_with_type": "Phường Tân Hiệp, Thành phố Tân Uyên, Tỉnh Bình Dương",
         "code": "25920",
         "parent_code": "723"
     },
@@ -84055,7 +84055,7 @@
         "slug": "khanh-binh",
         "name_with_type": "Phường Khánh Bình",
         "path": "Khánh Bình, Tân Uyên, Bình Dương",
-        "path_with_type": "Phường Khánh Bình, Thị xã Tân Uyên, Tỉnh Bình Dương",
+        "path_with_type": "Phường Khánh Bình, Thành phố Tân Uyên, Tỉnh Bình Dương",
         "code": "25921",
         "parent_code": "723"
     },
@@ -84065,7 +84065,7 @@
         "slug": "phu-chanh",
         "name_with_type": "Phường Phú Chánh",
         "path": "Phú Chánh, Tân Uyên, Bình Dương",
-        "path_with_type": "Phường Phú Chánh, Thị xã Tân Uyên, Tỉnh Bình Dương",
+        "path_with_type": "Phường Phú Chánh, Thành phố Tân Uyên, Tỉnh Bình Dương",
         "code": "25924",
         "parent_code": "723"
     },
@@ -84085,7 +84085,7 @@
         "slug": "bach-dang",
         "name_with_type": "Xã Bạch Đằng",
         "path": "Bạch Đằng, Tân Uyên, Bình Dương",
-        "path_with_type": "Xã Bạch Đằng, Thị xã Tân Uyên, Tỉnh Bình Dương",
+        "path_with_type": "Xã Bạch Đằng, Thành phố Tân Uyên, Tỉnh Bình Dương",
         "code": "25930",
         "parent_code": "723"
     },
@@ -84095,7 +84095,7 @@
         "slug": "tan-vinh-hiep",
         "name_with_type": "Phường Tân Vĩnh Hiệp",
         "path": "Tân Vĩnh Hiệp, Tân Uyên, Bình Dương",
-        "path_with_type": "Phường Tân Vĩnh Hiệp, Thị xã Tân Uyên, Tỉnh Bình Dương",
+        "path_with_type": "Phường Tân Vĩnh Hiệp, Thành phố Tân Uyên, Tỉnh Bình Dương",
         "code": "25933",
         "parent_code": "723"
     },
@@ -84105,7 +84105,7 @@
         "slug": "thanh-phuoc",
         "name_with_type": "Phường Thạnh Phước",
         "path": "Thạnh Phước, Tân Uyên, Bình Dương",
-        "path_with_type": "Phường Thạnh Phước, Thị xã Tân Uyên, Tỉnh Bình Dương",
+        "path_with_type": "Phường Thạnh Phước, Thành phố Tân Uyên, Tỉnh Bình Dương",
         "code": "25936",
         "parent_code": "723"
     },
@@ -84115,7 +84115,7 @@
         "slug": "thanh-hoi",
         "name_with_type": "Xã Thạnh Hội",
         "path": "Thạnh Hội, Tân Uyên, Bình Dương",
-        "path_with_type": "Xã Thạnh Hội, Thị xã Tân Uyên, Tỉnh Bình Dương",
+        "path_with_type": "Xã Thạnh Hội, Thành phố Tân Uyên, Tỉnh Bình Dương",
         "code": "25937",
         "parent_code": "723"
     },
@@ -84125,7 +84125,7 @@
         "slug": "thai-hoa",
         "name_with_type": "Phường Thái Hòa",
         "path": "Thái Hòa, Tân Uyên, Bình Dương",
-        "path_with_type": "Phường Thái Hòa, Thị xã Tân Uyên, Tỉnh Bình Dương",
+        "path_with_type": "Phường Thái Hòa, Thành phố Tân Uyên, Tỉnh Bình Dương",
         "code": "25939",
         "parent_code": "723"
     },
@@ -99465,7 +99465,7 @@
         "slug": "nha-bang",
         "name_with_type": "Thị trấn Nhà Bàng",
         "path": "Nhà Bàng, Tịnh Biên, An Giang",
-        "path_with_type": "Thị trấn Nhà Bàng, Huyện Tịnh Biên, Tỉnh An Giang",
+        "path_with_type": "Thị trấn Nhà Bàng, Thị xã Tịnh Biên, Tỉnh An Giang",
         "code": "30502",
         "parent_code": "890"
     },
@@ -99475,7 +99475,7 @@
         "slug": "chi-lang",
         "name_with_type": "Thị trấn Chi Lăng",
         "path": "Chi Lăng, Tịnh Biên, An Giang",
-        "path_with_type": "Thị trấn Chi Lăng, Huyện Tịnh Biên, Tỉnh An Giang",
+        "path_with_type": "Thị trấn Chi Lăng, Thị xã Tịnh Biên, Tỉnh An Giang",
         "code": "30505",
         "parent_code": "890"
     },
@@ -99485,7 +99485,7 @@
         "slug": "nui-voi",
         "name_with_type": "Xã Núi Voi",
         "path": "Núi Voi, Tịnh Biên, An Giang",
-        "path_with_type": "Xã Núi Voi, Huyện Tịnh Biên, Tỉnh An Giang",
+        "path_with_type": "Xã Núi Voi, Thị xã Tịnh Biên, Tỉnh An Giang",
         "code": "30508",
         "parent_code": "890"
     },
@@ -99495,7 +99495,7 @@
         "slug": "nhon-hung",
         "name_with_type": "Xã Nhơn Hưng",
         "path": "Nhơn Hưng, Tịnh Biên, An Giang",
-        "path_with_type": "Xã Nhơn Hưng, Huyện Tịnh Biên, Tỉnh An Giang",
+        "path_with_type": "Xã Nhơn Hưng, Thị xã Tịnh Biên, Tỉnh An Giang",
         "code": "30511",
         "parent_code": "890"
     },
@@ -99505,7 +99505,7 @@
         "slug": "an-phu",
         "name_with_type": "Xã An Phú",
         "path": "An Phú, Tịnh Biên, An Giang",
-        "path_with_type": "Xã An Phú, Huyện Tịnh Biên, Tỉnh An Giang",
+        "path_with_type": "Xã An Phú, Thị xã Tịnh Biên, Tỉnh An Giang",
         "code": "30514",
         "parent_code": "890"
     },
@@ -99515,7 +99515,7 @@
         "slug": "thoi-son",
         "name_with_type": "Xã Thới Sơn",
         "path": "Thới Sơn, Tịnh Biên, An Giang",
-        "path_with_type": "Xã Thới Sơn, Huyện Tịnh Biên, Tỉnh An Giang",
+        "path_with_type": "Xã Thới Sơn, Thị xã Tịnh Biên, Tỉnh An Giang",
         "code": "30517",
         "parent_code": "890"
     },
@@ -99525,7 +99525,7 @@
         "slug": "tinh-bien",
         "name_with_type": "Thị trấn Tịnh Biên",
         "path": "Tịnh Biên, Tịnh Biên, An Giang",
-        "path_with_type": "Thị trấn Tịnh Biên, Huyện Tịnh Biên, Tỉnh An Giang",
+        "path_with_type": "Thị trấn Tịnh Biên, Thị xã Tịnh Biên, Tỉnh An Giang",
         "code": "30520",
         "parent_code": "890"
     },
@@ -99535,7 +99535,7 @@
         "slug": "van-giao",
         "name_with_type": "Xã Văn Giáo",
         "path": "Văn Giáo, Tịnh Biên, An Giang",
-        "path_with_type": "Xã Văn Giáo, Huyện Tịnh Biên, Tỉnh An Giang",
+        "path_with_type": "Xã Văn Giáo, Thị xã Tịnh Biên, Tỉnh An Giang",
         "code": "30523",
         "parent_code": "890"
     },
@@ -99545,7 +99545,7 @@
         "slug": "an-cu",
         "name_with_type": "Xã An Cư",
         "path": "An Cư, Tịnh Biên, An Giang",
-        "path_with_type": "Xã An Cư, Huyện Tịnh Biên, Tỉnh An Giang",
+        "path_with_type": "Xã An Cư, Thị xã Tịnh Biên, Tỉnh An Giang",
         "code": "30526",
         "parent_code": "890"
     },
@@ -99555,7 +99555,7 @@
         "slug": "an-nong",
         "name_with_type": "Xã An Nông",
         "path": "An Nông, Tịnh Biên, An Giang",
-        "path_with_type": "Xã An Nông, Huyện Tịnh Biên, Tỉnh An Giang",
+        "path_with_type": "Xã An Nông, Thị xã Tịnh Biên, Tỉnh An Giang",
         "code": "30529",
         "parent_code": "890"
     },
@@ -99565,7 +99565,7 @@
         "slug": "vinh-trung",
         "name_with_type": "Xã Vĩnh Trung",
         "path": "Vĩnh Trung, Tịnh Biên, An Giang",
-        "path_with_type": "Xã Vĩnh Trung, Huyện Tịnh Biên, Tỉnh An Giang",
+        "path_with_type": "Xã Vĩnh Trung, Thị xã Tịnh Biên, Tỉnh An Giang",
         "code": "30532",
         "parent_code": "890"
     },
@@ -99575,7 +99575,7 @@
         "slug": "tan-loi",
         "name_with_type": "Xã Tân Lợi",
         "path": "Tân Lợi, Tịnh Biên, An Giang",
-        "path_with_type": "Xã Tân Lợi, Huyện Tịnh Biên, Tỉnh An Giang",
+        "path_with_type": "Xã Tân Lợi, Thị xã Tịnh Biên, Tỉnh An Giang",
         "code": "30535",
         "parent_code": "890"
     },
@@ -99585,7 +99585,7 @@
         "slug": "an-hao",
         "name_with_type": "Xã An Hảo",
         "path": "An Hảo, Tịnh Biên, An Giang",
-        "path_with_type": "Xã An Hảo, Huyện Tịnh Biên, Tỉnh An Giang",
+        "path_with_type": "Xã An Hảo, Thị xã Tịnh Biên, Tỉnh An Giang",
         "code": "30538",
         "parent_code": "890"
     },
@@ -99595,7 +99595,7 @@
         "slug": "tan-lap",
         "name_with_type": "Xã Tân Lập",
         "path": "Tân Lập, Tịnh Biên, An Giang",
-        "path_with_type": "Xã Tân Lập, Huyện Tịnh Biên, Tỉnh An Giang",
+        "path_with_type": "Xã Tân Lập, Thị xã Tịnh Biên, Tỉnh An Giang",
         "code": "30541",
         "parent_code": "890"
     },

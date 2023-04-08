@@ -5,7 +5,7 @@
         "slug": "uyen-hung",
         "name_with_type": "Phường Uyên Hưng",
         "path": "Uyên Hưng, Tân Uyên, Bình Dương",
-        "path_with_type": "Phường Uyên Hưng, Thị xã Tân Uyên, Tỉnh Bình Dương",
+        "path_with_type": "Phường Uyên Hưng, Thành phố Tân Uyên, Tỉnh Bình Dương",
         "code": "25888",
         "parent_code": "723"
     },
@@ -15,7 +15,7 @@
         "slug": "tan-phuoc-khanh",
         "name_with_type": "Phường Tân Phước Khánh",
         "path": "Tân Phước Khánh, Tân Uyên, Bình Dương",
-        "path_with_type": "Phường Tân Phước Khánh, Thị xã Tân Uyên, Tỉnh Bình Dương",
+        "path_with_type": "Phường Tân Phước Khánh, Thành phố Tân Uyên, Tỉnh Bình Dương",
         "code": "25891",
         "parent_code": "723"
     },
@@ -25,7 +25,7 @@
         "slug": "vinh-tan",
         "name_with_type": "Phường Vĩnh Tân",
         "path": "Vĩnh Tân, Tân Uyên, Bình Dương",
-        "path_with_type": "Phường Vĩnh Tân, Thị xã Tân Uyên, Tỉnh Bình Dương",
+        "path_with_type": "Phường Vĩnh Tân, Thành phố Tân Uyên, Tỉnh Bình Dương",
         "code": "25912",
         "parent_code": "723"
     },
@@ -35,7 +35,7 @@
         "slug": "hoi-nghia",
         "name_with_type": "Phường Hội Nghĩa",
         "path": "Hội Nghĩa, Tân Uyên, Bình Dương",
-        "path_with_type": "Phường Hội Nghĩa, Thị xã Tân Uyên, Tỉnh Bình Dương",
+        "path_with_type": "Phường Hội Nghĩa, Thành phố Tân Uyên, Tỉnh Bình Dương",
         "code": "25915",
         "parent_code": "723"
     },
@@ -45,7 +45,7 @@
         "slug": "tan-hiep",
         "name_with_type": "Phường Tân Hiệp",
         "path": "Tân Hiệp, Tân Uyên, Bình Dương",
-        "path_with_type": "Phường Tân Hiệp, Thị xã Tân Uyên, Tỉnh Bình Dương",
+        "path_with_type": "Phường Tân Hiệp, Thành phố Tân Uyên, Tỉnh Bình Dương",
         "code": "25920",
         "parent_code": "723"
     },
@@ -55,7 +55,7 @@
         "slug": "khanh-binh",
         "name_with_type": "Phường Khánh Bình",
         "path": "Khánh Bình, Tân Uyên, Bình Dương",
-        "path_with_type": "Phường Khánh Bình, Thị xã Tân Uyên, Tỉnh Bình Dương",
+        "path_with_type": "Phường Khánh Bình, Thành phố Tân Uyên, Tỉnh Bình Dương",
         "code": "25921",
         "parent_code": "723"
     },
@@ -65,7 +65,7 @@
         "slug": "phu-chanh",
         "name_with_type": "Phường Phú Chánh",
         "path": "Phú Chánh, Tân Uyên, Bình Dương",
-        "path_with_type": "Phường Phú Chánh, Thị xã Tân Uyên, Tỉnh Bình Dương",
+        "path_with_type": "Phường Phú Chánh, Thành phố Tân Uyên, Tỉnh Bình Dương",
         "code": "25924",
         "parent_code": "723"
     },
@@ -75,7 +75,7 @@
         "slug": "bach-dang",
         "name_with_type": "Xã Bạch Đằng",
         "path": "Bạch Đằng, Tân Uyên, Bình Dương",
-        "path_with_type": "Xã Bạch Đằng, Thị xã Tân Uyên, Tỉnh Bình Dương",
+        "path_with_type": "Xã Bạch Đằng, Thành phố Tân Uyên, Tỉnh Bình Dương",
         "code": "25930",
         "parent_code": "723"
     },
@@ -85,7 +85,7 @@
         "slug": "tan-vinh-hiep",
         "name_with_type": "Phường Tân Vĩnh Hiệp",
         "path": "Tân Vĩnh Hiệp, Tân Uyên, Bình Dương",
-        "path_with_type": "Phường Tân Vĩnh Hiệp, Thị xã Tân Uyên, Tỉnh Bình Dương",
+        "path_with_type": "Phường Tân Vĩnh Hiệp, Thành phố Tân Uyên, Tỉnh Bình Dương",
         "code": "25933",
         "parent_code": "723"
     },
@@ -95,7 +95,7 @@
         "slug": "thanh-phuoc",
         "name_with_type": "Phường Thạnh Phước",
         "path": "Thạnh Phước, Tân Uyên, Bình Dương",
-        "path_with_type": "Phường Thạnh Phước, Thị xã Tân Uyên, Tỉnh Bình Dương",
+        "path_with_type": "Phường Thạnh Phước, Thành phố Tân Uyên, Tỉnh Bình Dương",
         "code": "25936",
         "parent_code": "723"
     },
@@ -105,7 +105,7 @@
         "slug": "thanh-hoi",
         "name_with_type": "Xã Thạnh Hội",
         "path": "Thạnh Hội, Tân Uyên, Bình Dương",
-        "path_with_type": "Xã Thạnh Hội, Thị xã Tân Uyên, Tỉnh Bình Dương",
+        "path_with_type": "Xã Thạnh Hội, Thành phố Tân Uyên, Tỉnh Bình Dương",
         "code": "25937",
         "parent_code": "723"
     },
@@ -115,7 +115,7 @@
         "slug": "thai-hoa",
         "name_with_type": "Phường Thái Hòa",
         "path": "Thái Hòa, Tân Uyên, Bình Dương",
-        "path_with_type": "Phường Thái Hòa, Thị xã Tân Uyên, Tỉnh Bình Dương",
+        "path_with_type": "Phường Thái Hòa, Thành phố Tân Uyên, Tỉnh Bình Dương",
         "code": "25939",
         "parent_code": "723"
     }

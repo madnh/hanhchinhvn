@@ -61,11 +61,11 @@
     },
     "890": {
         "name": "Tịnh Biên",
-        "type": "huyen",
+        "type": "thi-xa",
         "slug": "tinh-bien",
-        "name_with_type": "Huyện Tịnh Biên",
+        "name_with_type": "Thị xã Tịnh Biên",
         "path": "Tịnh Biên, An Giang",
-        "path_with_type": "Huyện Tịnh Biên, Tỉnh An Giang",
+        "path_with_type": "Thị xã Tịnh Biên, Tỉnh An Giang",
         "code": "890",
         "parent_code": "89"
     },

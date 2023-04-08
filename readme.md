@@ -28,3 +28,7 @@ npm install hanhchinhvn
 ### Nguồn dữ liệu
 
 **Tổng Cục Thống Kê**: [https://danhmuchanhchinh.gso.gov.vn/](https://danhmuchanhchinh.gso.gov.vn/)
+
+### Changelog
+
+Tham khảo file [changelog.md](./changelog.md) để biết lịch sử thay đổi.

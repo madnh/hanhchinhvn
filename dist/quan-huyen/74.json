@@ -51,11 +51,11 @@
     },
     "723": {
         "name": "Tân Uyên",
-        "type": "thi-xa",
+        "type": "thanh-pho",
         "slug": "tan-uyen",
-        "name_with_type": "Thị xã Tân Uyên",
+        "name_with_type": "Thành phố Tân Uyên",
         "path": "Tân Uyên, Bình Dương",
-        "path_with_type": "Thị xã Tân Uyên, Tỉnh Bình Dương",
+        "path_with_type": "Thành phố Tân Uyên, Tỉnh Bình Dương",
         "code": "723",
         "parent_code": "74"
     },
