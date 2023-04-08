@@ -1,6 +1,6 @@
 {
   "name": "hanhchinhvn",
-  "version": "1.4.0",
+  "version": "1.6.0",
   "description": "Phân cấp hành chính Việt Nam export từ nguồn Tổng Cục Thống Kê.",
   "main": "dist/",
   "scripts": {
@@ -20,5 +20,7 @@
     "url": "https://github.com/madnh/hanhchinhvn/issues"
   },
   "homepage": "https://github.com/madnh/hanhchinhvn#readme",
-  "files": ["dist"]
+  "files": [
+    "dist"
+  ]
 }
