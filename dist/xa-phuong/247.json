@@ -31,11 +31,11 @@
     },
     "08878": {
         "name": "Kim Long",
-        "type": "xa",
+        "type": "thi-tran",
         "slug": "kim-long",
-        "name_with_type": "Xã Kim Long",
+        "name_with_type": "Thị trấn Kim Long",
         "path": "Kim Long, Tam Dương, Vĩnh Phúc",
-        "path_with_type": "Xã Kim Long, Huyện Tam Dương, Tỉnh Vĩnh Phúc",
+        "path_with_type": "Thị trấn Kim Long, Huyện Tam Dương, Tỉnh Vĩnh Phúc",
         "code": "08878",
         "parent_code": "247"
     },

@@ -151,11 +151,11 @@
     },
     "30673": {
         "name": "Hội An",
-        "type": "xa",
+        "type": "thi-tran",
         "slug": "hoi-an",
-        "name_with_type": "Xã Hội An",
+        "name_with_type": "Thị trấn Hội An",
         "path": "Hội An, Chợ Mới, An Giang",
-        "path_with_type": "Xã Hội An, Huyện Chợ Mới, Tỉnh An Giang",
+        "path_with_type": "Thị trấn Hội An, Huyện Chợ Mới, Tỉnh An Giang",
         "code": "30673",
         "parent_code": "893"
     },

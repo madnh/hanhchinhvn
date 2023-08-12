@@ -111,11 +111,11 @@
     },
     "05692": {
         "name": "Hóa Thượng",
-        "type": "xa",
+        "type": "thi-tran",
         "slug": "hoa-thuong",
-        "name_with_type": "Xã Hóa Thượng",
+        "name_with_type": "Thị trấn Hóa Thượng",
         "path": "Hóa Thượng, Đồng Hỷ, Thái Nguyên",
-        "path_with_type": "Xã Hóa Thượng, Huyện Đồng Hỷ, Tỉnh Thái Nguyên",
+        "path_with_type": "Thị trấn Hóa Thượng, Huyện Đồng Hỷ, Tỉnh Thái Nguyên",
         "code": "05692",
         "parent_code": "169"
     },

@@ -51,11 +51,11 @@
     },
     "28915": {
         "name": "Phước Mỹ Trung",
-        "type": "xa",
+        "type": "thi-tran",
         "slug": "phuoc-my-trung",
-        "name_with_type": "Xã Phước Mỹ Trung",
+        "name_with_type": "Thị trấn Phước Mỹ Trung",
         "path": "Phước Mỹ Trung, Mỏ Cày Bắc, Bến Tre",
-        "path_with_type": "Xã Phước Mỹ Trung, Huyện Mỏ Cày Bắc, Tỉnh Bến Tre",
+        "path_with_type": "Thị trấn Phước Mỹ Trung, Huyện Mỏ Cày Bắc, Tỉnh Bến Tre",
         "code": "28915",
         "parent_code": "838"
     },

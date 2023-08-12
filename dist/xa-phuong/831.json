@@ -191,11 +191,11 @@
     },
     "28861": {
         "name": "Tiên Thủy",
-        "type": "xa",
+        "type": "thi-tran",
         "slug": "tien-thuy",
-        "name_with_type": "Xã Tiên Thủy",
+        "name_with_type": "Thị trấn Tiên Thủy",
         "path": "Tiên Thủy, Châu Thành, Bến Tre",
-        "path_with_type": "Xã Tiên Thủy, Huyện Châu Thành, Tỉnh Bến Tre",
+        "path_with_type": "Thị trấn Tiên Thủy, Huyện Châu Thành, Tỉnh Bến Tre",
         "code": "28861",
         "parent_code": "831"
     },
