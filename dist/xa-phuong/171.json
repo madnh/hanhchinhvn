@@ -9,16 +9,6 @@
         "code": "05761",
         "parent_code": "171"
     },
-    "05764": {
-        "name": "Quân Chu",
-        "type": "thi-tran",
-        "slug": "quan-chu",
-        "name_with_type": "Thị trấn Quân Chu",
-        "path": "Quân Chu, Đại Từ, Thái Nguyên",
-        "path_with_type": "Thị trấn Quân Chu, Huyện Đại Từ, Tỉnh Thái Nguyên",
-        "code": "05764",
-        "parent_code": "171"
-    },
     "05767": {
         "name": "Phúc Lương",
         "type": "xa",
@@ -291,11 +281,11 @@
     },
     "05851": {
         "name": "Quân Chu",
-        "type": "xa",
+        "type": "thi-tran",
         "slug": "quan-chu",
-        "name_with_type": "Xã Quân Chu",
+        "name_with_type": "Thị trấn Quân Chu",
         "path": "Quân Chu, Đại Từ, Thái Nguyên",
-        "path_with_type": "Xã Quân Chu, Huyện Đại Từ, Tỉnh Thái Nguyên",
+        "path_with_type": "Thị trấn Quân Chu, Huyện Đại Từ, Tỉnh Thái Nguyên",
         "code": "05851",
         "parent_code": "171"
     }

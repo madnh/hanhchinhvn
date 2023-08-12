@@ -61,11 +61,11 @@
     },
     "01954": {
         "name": "Vân Tùng",
-        "type": "xa",
+        "type": "thi-tran",
         "slug": "van-tung",
-        "name_with_type": "Xã Vân Tùng",
+        "name_with_type": "Thị trấn Vân Tùng",
         "path": "Vân Tùng, Ngân Sơn, Bắc Kạn",
-        "path_with_type": "Xã Vân Tùng, Huyện Ngân Sơn, Tỉnh Bắc Kạn",
+        "path_with_type": "Thị trấn Vân Tùng, Huyện Ngân Sơn, Tỉnh Bắc Kạn",
         "code": "01954",
         "parent_code": "062"
     },

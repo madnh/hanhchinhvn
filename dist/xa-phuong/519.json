@@ -1,11 +1,11 @@
 {
     "20656": {
-        "name": "Quế Trung",
-        "type": "xa",
-        "slug": "que-trung",
-        "name_with_type": "Xã Quế Trung",
-        "path": "Quế Trung, Nông Sơn, Quảng Nam",
-        "path_with_type": "Xã Quế Trung, Huyện Nông Sơn, Tỉnh Quảng Nam",
+        "name": "Trung Phước",
+        "type": "thi-tran",
+        "slug": "trung-phuoc",
+        "name_with_type": "Thị trấn Trung Phước",
+        "path": "Trung Phước, Nông Sơn, Quảng Nam",
+        "path_with_type": "Thị trấn Trung Phước, Huyện Nông Sơn, Tỉnh Quảng Nam",
         "code": "20656",
         "parent_code": "519"
     },

@@ -61,11 +61,11 @@
     },
     "09043": {
         "name": "Tam Hồng",
-        "type": "xa",
+        "type": "thi-tran",
         "slug": "tam-hong",
-        "name_with_type": "Xã Tam Hồng",
+        "name_with_type": "Thị trấn Tam Hồng",
         "path": "Tam Hồng, Yên Lạc, Vĩnh Phúc",
-        "path_with_type": "Xã Tam Hồng, Huyện Yên Lạc, Tỉnh Vĩnh Phúc",
+        "path_with_type": "Thị trấn Tam Hồng, Huyện Yên Lạc, Tỉnh Vĩnh Phúc",
         "code": "09043",
         "parent_code": "251"
     },

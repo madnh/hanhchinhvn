@@ -131,11 +131,11 @@
     },
     "30373": {
         "name": "Đa Phước",
-        "type": "xa",
+        "type": "thi-tran",
         "slug": "da-phuoc",
-        "name_with_type": "Xã Đa Phước",
+        "name_with_type": "Thị trấn Đa Phước",
         "path": "Đa Phước, An Phú, An Giang",
-        "path_with_type": "Xã Đa Phước, Huyện An Phú, Tỉnh An Giang",
+        "path_with_type": "Thị trấn Đa Phước, Huyện An Phú, Tỉnh An Giang",
         "code": "30373",
         "parent_code": "886"
     }

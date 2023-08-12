@@ -61,11 +61,11 @@
     },
     "08725": {
         "name": "Định Trung",
-        "type": "xa",
+        "type": "phuong",
         "slug": "dinh-trung",
-        "name_with_type": "Xã Định Trung",
+        "name_with_type": "Phường Định Trung",
         "path": "Định Trung, Vĩnh Yên, Vĩnh Phúc",
-        "path_with_type": "Xã Định Trung, Thành phố Vĩnh Yên, Tỉnh Vĩnh Phúc",
+        "path_with_type": "Phường Định Trung, Thành phố Vĩnh Yên, Tỉnh Vĩnh Phúc",
         "code": "08725",
         "parent_code": "243"
     },

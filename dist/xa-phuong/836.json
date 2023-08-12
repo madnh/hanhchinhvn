@@ -220,12 +220,12 @@
         "parent_code": "836"
     },
     "29179": {
-        "name": "An Thủy",
-        "type": "xa",
-        "slug": "an-thuy",
-        "name_with_type": "Xã An Thủy",
-        "path": "An Thủy, Ba Tri, Bến Tre",
-        "path_with_type": "Xã An Thủy, Huyện Ba Tri, Tỉnh Bến Tre",
+        "name": "Tiệm Tôm",
+        "type": "thi-tran",
+        "slug": "tiem-tom",
+        "name_with_type": "Thị trấn Tiệm Tôm",
+        "path": "Tiệm Tôm, Ba Tri, Bến Tre",
+        "path_with_type": "Thị trấn Tiệm Tôm, Huyện Ba Tri, Tỉnh Bến Tre",
         "code": "29179",
         "parent_code": "836"
     }

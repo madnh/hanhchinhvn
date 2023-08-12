@@ -41,11 +41,11 @@
     },
     "24316": {
         "name": "Pơng Drang",
-        "type": "xa",
+        "type": "thi-tran",
         "slug": "pong-drang",
-        "name_with_type": "Xã Pơng Drang",
+        "name_with_type": "Thị trấn Pơng Drang",
         "path": "Pơng Drang, Krông Búk, Đắk Lắk",
-        "path_with_type": "Xã Pơng Drang, Huyện Krông Búk, Tỉnh Đắk Lắk",
+        "path_with_type": "Thị trấn Pơng Drang, Huyện Krông Búk, Tỉnh Đắk Lắk",
         "code": "24316",
         "parent_code": "649"
     },

@@ -31,31 +31,31 @@
     },
     "20560": {
         "name": "Điện Thắng Bắc",
-        "type": "xa",
+        "type": "phuong",
         "slug": "dien-thang-bac",
-        "name_with_type": "Xã Điện Thắng Bắc",
+        "name_with_type": "Phường Điện Thắng Bắc",
         "path": "Điện Thắng Bắc, Điện Bàn, Quảng Nam",
-        "path_with_type": "Xã Điện Thắng Bắc, Thị xã Điện Bàn, Tỉnh Quảng Nam",
+        "path_with_type": "Phường Điện Thắng Bắc, Thị xã Điện Bàn, Tỉnh Quảng Nam",
         "code": "20560",
         "parent_code": "507"
     },
     "20561": {
         "name": "Điện Thắng Trung",
-        "type": "xa",
+        "type": "phuong",
         "slug": "dien-thang-trung",
-        "name_with_type": "Xã Điện Thắng Trung",
+        "name_with_type": "Phường Điện Thắng Trung",
         "path": "Điện Thắng Trung, Điện Bàn, Quảng Nam",
-        "path_with_type": "Xã Điện Thắng Trung, Thị xã Điện Bàn, Tỉnh Quảng Nam",
+        "path_with_type": "Phường Điện Thắng Trung, Thị xã Điện Bàn, Tỉnh Quảng Nam",
         "code": "20561",
         "parent_code": "507"
     },
     "20562": {
         "name": "Điện Thắng Nam",
-        "type": "xa",
+        "type": "phuong",
         "slug": "dien-thang-nam",
-        "name_with_type": "Xã Điện Thắng Nam",
+        "name_with_type": "Phường Điện Thắng Nam",
         "path": "Điện Thắng Nam, Điện Bàn, Quảng Nam",
-        "path_with_type": "Xã Điện Thắng Nam, Thị xã Điện Bàn, Tỉnh Quảng Nam",
+        "path_with_type": "Phường Điện Thắng Nam, Thị xã Điện Bàn, Tỉnh Quảng Nam",
         "code": "20562",
         "parent_code": "507"
     },
@@ -181,21 +181,21 @@
     },
     "20593": {
         "name": "Điện Minh",
-        "type": "xa",
+        "type": "phuong",
         "slug": "dien-minh",
-        "name_with_type": "Xã Điện Minh",
+        "name_with_type": "Phường Điện Minh",
         "path": "Điện Minh, Điện Bàn, Quảng Nam",
-        "path_with_type": "Xã Điện Minh, Thị xã Điện Bàn, Tỉnh Quảng Nam",
+        "path_with_type": "Phường Điện Minh, Thị xã Điện Bàn, Tỉnh Quảng Nam",
         "code": "20593",
         "parent_code": "507"
     },
     "20596": {
         "name": "Điện Phương",
-        "type": "xa",
+        "type": "phuong",
         "slug": "dien-phuong",
-        "name_with_type": "Xã Điện Phương",
+        "name_with_type": "Phường Điện Phương",
         "path": "Điện Phương, Điện Bàn, Quảng Nam",
-        "path_with_type": "Xã Điện Phương, Thị xã Điện Bàn, Tỉnh Quảng Nam",
+        "path_with_type": "Phường Điện Phương, Thị xã Điện Bàn, Tỉnh Quảng Nam",
         "code": "20596",
         "parent_code": "507"
     }
